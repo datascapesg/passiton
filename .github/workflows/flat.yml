@@ -9,7 +9,7 @@ on:
     - cron: '*/30 * * * *'
 
 jobs:
-  scheduled:
+  requests:
     runs-on: ubuntu-latest
     steps:
       # This step installs Deno, which is a new Javascript runtime that improves on Node. Can be used for an optional postprocessing step
@@ -26,6 +26,15 @@ jobs:
         with:
           http_url: https://datascapesg-scrapers.netlify.app/.netlify/functions/passiton-grant-a-wish
           downloaded_filename: requests.json
+  offers:
+    needs: requests
+    runs-on: ubuntu-latest
+    steps:
+      # This step installs Deno, which is a new Javascript runtime that improves on Node. Can be used for an optional postprocessing step
+      - name: Setup deno
+        uses: denoland/setup-deno@main
+        with:
+          deno-version: v1.x
       # Check out the repository again so it can pick up the newly-added file
       - name: Check out repo
         uses: actions/checkout@v2
