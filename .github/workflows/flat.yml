@@ -26,6 +26,9 @@ jobs:
         with:
           http_url: https://datascapesg-scrapers.netlify.app/.netlify/functions/passiton-grant-a-wish
           downloaded_filename: requests.json
+      # Check out the repository again so it can pick up the newly-added file
+      - name: Check out repo
+        uses: actions/checkout@v2
       # The Flat Action step. We fetch the data in the http_url and save it as downloaded_filename
       - name: Fetch offers
         uses: githubocto/flat@v2
