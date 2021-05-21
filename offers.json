@@ -1,5 +1,15 @@
 [
   {
+    "id": "93134",
+    "name": "Sofa and coffee table",
+    "description": "Good condition",
+    "location": null,
+    "validTill": "20 Jun 2021",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "93125",
     "name": "Geriatric Chair",
     "description": "Model: Lifeline Model No. SKU 60/1110",
@@ -26,16 +36,6 @@
     "location": "Orchard, Cairnhill, River Valley",
     "validTill": "12 Jun 2021",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "93101",
-    "name": "Bar Stools",
-    "description": "2x White Ikea Janinge bar stools, perfect condition.",
-    "location": "Orchard, Cairnhill, River Valley",
-    "validTill": "12 Jun 2021",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -125,16 +125,6 @@
     "description": "Very stable step stool. Used when my kid could not reach the sink. Now can reach so can donate it away. Still in good condition.",
     "location": "Bishan, Ang Mo Kio",
     "validTill": "19 Jun 2021",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "93071",
-    "name": "Glass Display and Storage cabinet",
-    "description": "includes drawers. very nice. currently just dusty as location it is stored at is undergoing reno.",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "24 May 2021",
     "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
