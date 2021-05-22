@@ -32,3 +32,6 @@ jobs:
         with:
           http_url: https://datascapesg-scrapers.netlify.app/.netlify/functions/passiton-item-list
           downloaded_filename: offers.json
+          postprocess: postprocess.js
+        env:
+          POSTPROCESS_FILENAME: passiton.json
