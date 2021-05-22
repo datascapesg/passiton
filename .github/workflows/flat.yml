@@ -3,7 +3,7 @@ name: Flat Data
 on:
   push:
     branches:
-      - develop
+      - main
   workflow_dispatch:
   schedule:
     - cron: '*/30 * * * *'
