@@ -5,5 +5,5 @@ const requests = await readJSON('requests.json')
 const offers = await readJSON('offers.json')
 
 // Write a new JSON file with our filtered data
-await writeJSON(Deno.env.get('POSTPROCESS_FILENAME'), { requests, offers })
+await writeJSON(Deno.env.get('POSTPROCESS_FILENAME'), { requests, offers }, { spaces: 2 })
 console.log('Done.')
