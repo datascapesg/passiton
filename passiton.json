@@ -132,22 +132,6 @@
       "date": "21 May 2021"
     },
     {
-      "id": "93123",
-      "name": "Dugro Milk powder Stage 4",
-      "description": "Low income family with 5 children (youngest is 3 years old). All children are attending school and tertiary education, and hence are not able to work. Parents have difficulty sustaining long term full time jobs due to past incarceration history. However, they are very committed and pro-active. The parents currently have regular part time jobs, and also take on double shifts (as cashiers and warehouse assistants), while doing food delivery. Financial resources is very tight for the family as they have many children who have complex and growing needs as they are growing up.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Jio Hui Zhen",
-        "email": "jiohuizhen@amkfsc.org.sg",
-        "phone": [
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "21 May 2021"
-    },
-    {
       "id": "93120",
       "name": "Laptop",
       "description": "My client, a 12-year old boy requires a laptop for HBL as their previous computer has recently spoilt. He comes from a single parent family and grandparents. With HBL and PSLE coming up, he would greatly benefit from having a laptop to assess HBL related work as compared to using parent's mobile device.",
@@ -168,22 +152,6 @@
       "id": "93117",
       "name": "(Halal) Microwave Oven",
       "description": "A family of 9 will be moving into their rental flat. They require a microwave oven for their heating food needs.",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Khairunisa Rusli",
-        "email": "khairunisa.rusli@ppis.sg",
-        "phone": [
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 May 2021"
-    },
-    {
-      "id": "93116",
-      "name": "Wardrobe",
-      "description": "A family of 9 will be moving into their rental flat soon. They need a wardrobe for their clothes.",
       "specifications": null,
       "contact": {
         "org": "PPIS Family Service Centre (West)",
@@ -833,22 +801,6 @@
         "phone": [
           "96922814",
           "62674197"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 May 2021"
-    },
-    {
-      "id": "93007",
-      "name": "Wardrobe",
-      "description": "Low income family in a 2-room rental flat - Mom has to take care of 3 young kids and dad is the sole breadwinner. They need a 3-door wardrobe to keep the clothes of the family.",
-      "specifications": "Length is less than 130cm",
-      "contact": {
-        "org": "Lakeside Family Centre - Jurong West",
-        "name": "Jeanie So Yin Nei",
-        "email": "jeanie-so@lakeside.org.sg",
-        "phone": [
-          "65671908"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3124,6 +3076,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "93182",
+      "name": "Sony 40” TV",
+      "description": "Sony 40 inch TV in good working condition. TV is older than 4 years but still works well. \nNo marks scratches or defects.",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "22 Jun 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "93181",
+      "name": "Pink and White Wardrobe",
+      "description": "Giving away as in thinking of getting a new one!",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "22 Jun 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "93179",
       "name": "Wooden Bed Frames",
