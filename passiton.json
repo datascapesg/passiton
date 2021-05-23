@@ -708,22 +708,6 @@
       "date": "20 May 2021"
     },
     {
-      "id": "93017",
-      "name": "3-seater sofa bed",
-      "description": "Single mother of 4 children requires a 3-seater sofa bed for her aged father who has various medical conditions.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Jane Antony",
-        "email": "jane@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 May 2021"
-    },
-    {
       "id": "93015",
       "name": "wheelchair",
       "description": "18\" wheelchair with removeable footplates, lightweight, foldable",
@@ -3076,6 +3060,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "93183",
+      "name": "Coffee table",
+      "description": "Heavy, solid wood coffee table.",
+      "location": "Orchard, Cairnhill, River Valley",
+      "validTill": "22 Jun 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "93182",
       "name": "Sony 40” TV",
