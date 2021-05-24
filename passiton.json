@@ -1,6 +1,73 @@
 {
   "requests": [
     {
+      "id": "93227",
+      "name": "Working Laptop",
+      "description": "Client's daughter and son's laptop that they share for HBL recently broke down. Urgently in need for a new/working laptop at the moment due to their lessons behind held online. Due to bankruptcy repayments, client is not able to afford a new laptop at the moment.",
+      "specifications": null,
+      "contact": {
+        "org": "Whispering Hearts Family Service Centre",
+        "name": "Hansel Lim",
+        "email": "hansel@viriya.org.sg",
+        "phone": [
+          "67951008"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 May 2021"
+    },
+    {
+      "id": "93226",
+      "name": "Baby rocking chair",
+      "description": "The family is from a low income family. Mother is home to look after their 2 young children and is expecting an infant in 2 months. In view of the baby's arrival, the family is looking for a baby rocking chair, which they are unable to afford it. It would be helpful for the family to receive one. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services @ Taman Jurong SSO",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@fycs.org",
+        "phone": [
+          "62672945",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 May 2021"
+    },
+    {
+      "id": "93225",
+      "name": "baby walker",
+      "description": "The family is from a low income family. Mother is home to look after their 2 young children and is expecting an infant in 2 months. In view of the baby's arrival, the family is looking for a baby walker, which they are unable to afford it. It would be helpful for the family to receive one. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services @ Taman Jurong SSO",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@fycs.org",
+        "phone": [
+          "62672945",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 May 2021"
+    },
+    {
+      "id": "93224",
+      "name": "Microwave oven",
+      "description": "The family is from a low-income family. Father is the sole breadwinner. The mother stays home to look after 7 young children, hence is unable to work. The family is looking for a microwave oven to help the mother with the cooking. this can help reduce the caregiver stress from the mother. It would be beneficial for the family to receive one. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services @ Taman Jurong SSO",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@fycs.org",
+        "phone": [
+          "62672945",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 May 2021"
+    },
+    {
       "id": "93221",
       "name": "Hot water dispenser",
       "description": "Family of 5 where grandmother is taking care of 4 young children living in a 2-room rental flat, is requesting for an electric hot water dispenser/boiler. The family is motivated and children have good conduct. Thank you.",
@@ -2832,6 +2899,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "93223",
+      "name": "Wooden bench; pots/pans",
+      "description": "Kitchenware is relatively new; some not used",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "10 Jun 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "93222",
       "name": "mattresss",
