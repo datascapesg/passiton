@@ -1,6 +1,56 @@
 {
   "requests": [
     {
+      "id": "93220",
+      "name": "Washing Machine",
+      "description": "The family is living in a 2-room HDB rental flat. Client’s husband is the sole breadwinner and he works as a cleaner. However, he has not been earning a regular income due to his poor work attendance, health conditions and addiction issues. Client is medically certified unfit to work. They are mainly dependent on SSO financial assistance for family sustenance. \n\nThe family will require a new/second-hand washing machine as their current washing machine recently stopped working; the washing machine has been in use for 10 years and cannot be repaired.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "24 May 2021"
+    },
+    {
+      "id": "93219",
+      "name": "Adult M Size diapers",
+      "description": "Grandfather has just been released from hospital due to a stroke and requires a full time caregiver from the household. As such, family of 4 living in a rental flat (children aged 7 and 13) needs to sacrifice one working adult to take care of grandfather full time. Hence, they require support for adult m size diapers for grandfather to lighten their financial load.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Choong Ying",
+        "email": "choongying@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 May 2021"
+    },
+    {
+      "id": "93217",
+      "name": "Used Laptop or tablet need for HBL",
+      "description": "Low income client with 3 children need either a laptop or tablet for his children's HBL and their school work. He is unable to purchase a new computer as his income can only meet their basic needs",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Tan Kwang Eng",
+        "email": "tankwangeng@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "24 May 2021"
+    },
+    {
       "id": "93216",
       "name": "Wheelchair",
       "description": "Family of 5 requesting for a wheelchair. Mother was hospitalised for 3 weeks due to an auto-immune disease. She requires a wheelchair as she is unable to walk properly in the present few months. Thank you.",
@@ -559,22 +609,6 @@
         "phone": [
           "67799483",
           "67799488"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 May 2021"
-    },
-    {
-      "id": "93043",
-      "name": "diapers / millk powder",
-      "description": "Mother who is unemployed lives with her 3 young children and 2 elderly auntie and uncle. Mother is unable to work as she has to help manage the 2 elderly couples who have chronic illness. They lived in a 1-room flat in Tampines.\n\nMother found it beneficial for donated diapers / millk powder for her 3 year old child as she felt the items are costly. (Size xxL for Drypass diapers and Dugro powder for 3-6yrs old)",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society Research &amp; Outreach",
-        "name": "Rozana Bte Komari",
-        "email": "rkomari@childrensociety.org.sg",
-        "phone": [
-          "63580911"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2814,6 +2848,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "93218",
+      "name": "Walking stand",
+      "description": "Walking stand",
+      "location": null,
+      "validTill": "23 Jun 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "93215",
       "name": "Wooden bench; pots/pans",
