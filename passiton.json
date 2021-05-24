@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "93228",
+      "name": "Laptop",
+      "description": "Single parent of 2 children requires a laptop for her school going child to use for HBL. She is unable to afford as her income is just sufficent for family's basic needs. A laptop would enable easy access to the school materials, son is presently using mother's phone to access it.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Chua Bee Guet",
+        "email": "chuabeeguet@fycs.org",
+        "phone": [
+          "66901004",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 May 2021"
+    },
+    {
       "id": "93227",
       "name": "Working Laptop",
       "description": "Client's daughter and son's laptop that they share for HBL recently broke down. Urgently in need for a new/working laptop at the moment due to their lessons behind held online. Due to bankruptcy repayments, client is not able to afford a new laptop at the moment.",
@@ -1720,40 +1737,6 @@
       "date": "12 May 2021"
     },
     {
-      "id": "92706",
-      "name": "Diapers",
-      "description": "Family baby require one month supply of Mamypoko diapers Size L diapers. \nCurrently mother is the sole bread winner and full time care giver.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Community Services",
-        "name": "Tan Shi Yun",
-        "email": "tanshiyun@fycs.org",
-        "phone": [
-          "67690430ext108",
-          "63809169"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 May 2021"
-    },
-    {
-      "id": "92705",
-      "name": "Milk Powder",
-      "description": "Family baby require one month supply of  SIMILAC Gain 2-FL (3 for 1 year onwards)  milk power. \nCurrently mother is the sole bread winner and full time care giver.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Community Services",
-        "name": "Tan Shi Yun",
-        "email": "tanshiyun@fycs.org",
-        "phone": [
-          "67690430ext108",
-          "63809169"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 May 2021"
-    },
-    {
       "id": "92690",
       "name": "refrigerator",
       "description": "Senior in his 60s suffering from chronic illness and mobility issues. Requires a new refrigerator to store his food and drinks as his current one is old and worn out.",
@@ -2635,22 +2618,6 @@
       "date": "30 Apr 2021"
     },
     {
-      "id": "92099",
-      "name": "Milk and diaper",
-      "description": "A low income family of 5 young children requires milk and diaper support. M size and XL size, pull-up diapers preferred. Friso milk, after 6 months and step 4 milk preferred as well. Appreciate donation! Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Josherine Toh",
-        "email": "josherinetoh@carecorner.org.sg",
-        "phone": [
-          "64761481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "30 Apr 2021"
-    },
-    {
       "id": "92072",
       "name": "Wheelchair",
       "description": "Family is taking care of their 90 year old mother who recently had a fall and the old wheelchair is faulty. They require an replacement of wheelchair to help aid her daily mobility. \n\nThe previous wheelchair model is \"Lifeline-65-0709-18\". The family would prefer a lightweight wheelchair.",
@@ -2899,6 +2866,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "93229",
+      "name": "Double decker bed",
+      "description": "2 double decker beds from IKEA. Will sponsor dismantling / moving / assembling fees. Let me know if anyone is in need. 1 mattress available too.",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "28 May 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "93223",
       "name": "Wooden bench; pots/pans",
