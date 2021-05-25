@@ -147,23 +147,6 @@
       "date": "25 May 2021"
     },
     {
-      "id": "93282",
-      "name": "Standing Fan",
-      "description": "Family consists of middle aged daughter, unemployed with multiple health condition. She is taking care of her elderly parents and required a standing fan as their present one is spoilt. Family is living on social assistance.",
-      "specifications": null,
-      "contact": {
-        "org": "National Kidney Foundation (NKF)",
-        "name": "Liau Lian Lee",
-        "email": "lianlee.liau@nkfs.org",
-        "phone": [
-          "63593657",
-          "65062244"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "25 May 2021"
-    },
-    {
       "id": "93280",
       "name": "Washing Machine",
       "description": "Client is visually impaired and he lives with his caregiver in a rental HDB. Their washing machine has been spoilt for some time and is current washing their clothes by hand. Requesting a washing machine with top load.",
@@ -218,22 +201,6 @@
       "id": "93276",
       "name": "Handphone",
       "description": "Couple is an elderly couple with no phone to contact systems in this COVID period. Elderly couple do not have any financial means to afford a phone, but would require one to increase communication and monitoring.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Celestine Liow",
-        "email": "celestineliow@amkfsc.org.sg",
-        "phone": [
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "25 May 2021"
-    },
-    {
-      "id": "93274",
-      "name": "Donor Cash Support for Moving",
-      "description": "Client is currently staying in a shelter alone, with her 1 year old son. She is also heavily pregnant. Client has recently received keys for her new flat, but requires monetary support to hire movers in assisting her to move her furniture to her new house. Client is unemployed as she is unable to attain employment due to her pregnancy.",
       "specifications": null,
       "contact": {
         "org": "AMKFSC Community Services Ltd - Cheng San",
@@ -770,8 +737,8 @@
     },
     {
       "id": "93211",
-      "name": "Super Single Mattress x 2 *NEW*",
-      "description": "Client is a 69 year-old man and he stays together with his 39 year-old daughter in a rental flat in Yishun. \nHis daughter has OCD and prefers spring type of mattress.\nThe family needed 2 mattress for both client and his daughter.\n\nThank you.",
+      "name": "Super Single Mattress x 2",
+      "description": "Client is a 69 year-old man and he stays together with his 39 year-old daughter in a rental flat in Yishun. \nHis daughter has OCD and prefers spring type of mattress.\nThe family needed 2 preferable new mattress for both client and his daughter.\n\nThank you.",
       "specifications": "Prefers spring type",
       "contact": {
         "org": "MWS Family Service Centre - Yishun",
@@ -3166,6 +3133,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "93303",
+      "name": "TV",
+      "description": "40 inch screen",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "23 Jun 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "93302",
       "name": "L-shaped fabric sofa",
