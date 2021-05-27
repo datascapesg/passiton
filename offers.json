@@ -110,31 +110,11 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "93312",
-    "name": "Coffee Table",
-    "description": "A sturdy coffee table with storage space.",
-    "location": "Geylang, Eunos",
-    "validTill": "20 Jun 2021",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "93311",
     "name": "Television",
     "description": "The televisions are 16 years old.",
     "location": "Balestier, Toa Payoh, Serangoon",
     "validTill": "06 Jun 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "93310",
-    "name": "Single bed",
-    "description": "Single bed (IKEA - Malm series) with sprung matress",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "15 Jun 2021",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
@@ -176,16 +156,6 @@
     "location": "Katong, Joo Chiat, Amber Road",
     "validTill": "30 May 2021",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "93304",
-    "name": "Exercise pedal",
-    "description": "Exercise pedal",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "25 Jun 2021",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -440,20 +410,10 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "93166",
-    "name": "Pine wood table",
-    "description": "Custom-made pinewood table with some scratches (non-foldable) \n\n(in picture, this refers to the table further away from the curtain)",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "30 May 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "93165",
     "name": "Pine wood table",
     "description": "Custom-made pine wood tables with some scratches (non-foldable)\nComes with mobile drawer\n\n(in picture, this is the table that is nearer the curtain)",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "location": "Bedok Reservoir",
     "validTill": "30 May 2021",
     "ageInYears": 4,
     "dimensions": null,
