@@ -1,5 +1,15 @@
 [
   {
+    "id": "93372",
+    "name": "Ironing board",
+    "description": "It's not new but it's still functioning.",
+    "location": "Yishun, Sembawang",
+    "validTill": "15 Jun 2021",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "93360",
     "name": "Optimal Dual Use Breast Pump",
     "description": "Optimal Dual Use Breast Pump",
@@ -130,16 +140,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "93343",
-    "name": "Single bed",
-    "description": "Single bed (IKEA - Malm series) with sprung matress",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "15 Jun 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "93344",
     "name": "Single bed",
     "description": "Single bed (IKEA - Malm series) with sprung matress",
@@ -224,16 +224,6 @@
     "name": "Baby boy clothes (12-18mths)",
     "description": "Worn but in good condition. No holes and stain.",
     "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "24 Jun 2021",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "93285",
-    "name": "Single Bed Frame and Mattress",
-    "description": "Single Bed - 1 year old.  Seldom used. Almost Brand new.",
-    "location": "Raffles Place, Cecil, Marina, People's Park",
     "validTill": "24 Jun 2021",
     "ageInYears": 1,
     "dimensions": null,
@@ -376,16 +366,6 @@
     "location": "Orchard, Cairnhill, River Valley",
     "validTill": "22 Jun 2021",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "93179",
-    "name": "Wooden Bed Frames",
-    "description": "Wooden Single Bed Frame x 2",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "15 Jun 2021",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
