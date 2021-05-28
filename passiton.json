@@ -1,6 +1,54 @@
 {
   "requests": [
     {
+      "id": "93419",
+      "name": "Standing Fan",
+      "description": "Family consists of a couple in their 50s. Both are medically unfit for work and are on social assistance. Both their fans have broken down. Family is going through some challenges and the warm weather without fans is a further strain on their mental stress.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Tan May Lynn Yvonne",
+        "email": "yvonnetan@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 May 2021"
+    },
+    {
+      "id": "93418",
+      "name": "Portable aircon",
+      "description": "Low income family with 5 children needs a portable aircon as some of the family members have eczema problem. Will appreciate one that is working well so to help cool the skin especially at night.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Josherine Toh",
+        "email": "josherinetoh@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "28 May 2021"
+    },
+    {
+      "id": "93416",
+      "name": "Kitchen cabinet",
+      "description": "Both client and her husband are currently unemployed. They have 2 young children aged 5 and 4 years to look after. Due to a lack of family and social support plus the frequent medical appointments of client’s children, she has experienced challenges in finding and staying on in a job. Client is hoping to get a double decker bed in view of the rental unit’s limited space for sleeping. She is also hoping to get a kitchen cabinet so that she can store the kitchen appliances including the microwave oven out of reach from her children. Client is appealing for support from donors for these items as the family cannot afford them due to a lack of financial resources.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "28 May 2021"
+    },
+    {
       "id": "93410",
       "name": "Dressing table",
       "description": "Family of 6 requires a washing machine as their current one is broken. Family \ndoes not have a breadwinner due to client's medical issues and caregiving \nneeds of both client and 2 young children. Hence, they are facing tight \nfinancial issues. \nCurrent dressing table is broken and client would like to request for a \nreplacement. A dressing table is important for older son as he uses it as a \nstudy area and storage space as well. \n2 tertiary school going children require a laptop for their studies as current \none is spoilt and unable to be repaired. Family does not have a breadwinner \ndue to client's medical issues and caregiving needs of both client and 2 \nyounger children.",
@@ -148,7 +196,7 @@
     },
     {
       "id": "93393",
-      "name": "ddzulkifli@childrensociety.org.sg",
+      "name": "Rice Cooker",
       "description": "Client and her partner lives in a 1 room/1 hall HDB rental flat. Client and her partner work part-time delivery. Client recently went through an abortion due to the baby having developmental issues. Client is still recovering from the abortion. Client moved out from parents' home as client has a conflictual relationship with parents. Client has significant financial hardship and client requested for a rice cooker to help with their daily cooking.",
       "specifications": null,
       "contact": {
@@ -306,22 +354,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "28 May 2021"
-    },
-    {
-      "id": "93365",
-      "name": "QV Bath Oil",
-      "description": "Family has 4 school-going children. The second youngest child has severe eczema and requires QV Bath Oil to soothe her sensitive skin. Both parents are unemployed due to wife's mental health diagnosis, where father has to be the main caregiver for the time being.",
-      "specifications": "1L",
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Chavonne Tan",
-        "email": "ywctan@childrensociety.org.sg",
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 May 2021"
     },
     {
       "id": "93364",
@@ -881,7 +913,7 @@
     {
       "id": "93220",
       "name": "Washing Machine",
-      "description": "The family is living in a 2-room HDB rental flat. Client’s husband is the sole breadwinner and he works as a cleaner. However, he has not been earning a regular income due to his poor work attendance, health conditions and addiction issues. Client is medically certified unfit to work. They are mainly dependent on SSO financial assistance for family sustenance. \n\nThe family will require a new/second-hand washing machine as their current washing machine recently stopped working; the washing machine has been in use for 10 years and cannot be repaired.",
+      "description": "The family is living in a 2-room HDB rental flat. Client’s husband is the sole breadwinner and he works as a cleaner. However, he has not been earning a regular income due to his poor work attendance, health conditions and addiction issues. Client is medically certified unfit to work. They are mainly dependent on SSO financial assistance for family sustenance. \n\nThe family will require a new/second-hand top load washer as their current washing machine recently stopped working; the washing machine has been in use for 10 years and cannot be repaired. \n\nThe family received a donated second-hand washing machine on 11 May 2021 via Pass-It-On. However, the washing machine is not working too. There was leaking water when the machine is in use. Hence, client had to mop/dry the floor throughout the washing period.",
       "specifications": null,
       "contact": {
         "org": "Sembawang Family Service Centre",
@@ -1054,23 +1086,6 @@
         "phone": [
           "69783482",
           "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 May 2021"
-    },
-    {
-      "id": "93120",
-      "name": "Laptop",
-      "description": "My client, a 12-year old boy requires a laptop for HBL as their previous computer has recently spoilt. He comes from a single parent family and grandparents. With HBL and PSLE coming up, he would greatly benefit from having a laptop to assess HBL related work as compared to using parent's mobile device.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Community Services - Project 180 @ BB",
-        "name": "Gayle Gan",
-        "email": "gaylegan@fycs.org",
-        "phone": [
-          "63319107",
-          "63319100"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3046,6 +3061,16 @@
   ],
   "offers": [
     {
+      "id": "93415",
+      "name": "Queen size mattress",
+      "description": "Gray queen size mattress",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "30 May 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "93408",
       "name": "Kids table and chairs",
       "description": "Preloved children table and 2 chairs. \nstill in working condition. just have some marker stains on the table top.",
@@ -3486,6 +3511,16 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
+      "id": "93420",
+      "name": "Pine wood table",
+      "description": "Custom-made pinewood table with some scratches (non-foldable) \n\n(in picture, this refers to the table further away from the curtain)",
+      "location": "Bedok Reservoir",
+      "validTill": "30 May 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "93159",
       "name": "Baby cot",
       "description": "Wooden cot (see picture) - condition 7/10. \n\nIt’s height adjustable and comes with wheels. \n\nGiving it away as my children have grown up.",
@@ -3566,16 +3601,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "93100",
-      "name": "Pots and pans (non-halal kitchen)",
-      "description": "Pots and pans used in non-halal home kitchen. Still in good working condition although there are some stains on them. One of them is WMF and the other is Omega.",
-      "location": "Katong, Joo Chiat, Amber Road",
-      "validTill": "31 May 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "93099",
       "name": "Cups, bowls, plates, cutlery (used in non-halal kitchen)",
       "description": "6 porcelain cups, melamine plates and bowls, plastic food storage containers. Used in non-halal home kitchen.",
@@ -3602,16 +3627,6 @@
       "location": "Queenstown, Tiong Bahru",
       "validTill": "03 Jun 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93090",
-      "name": "Sofa",
-      "description": "Living room sofa",
-      "location": "Katong, Joo Chiat, Amber Road",
-      "validTill": "30 May 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3812,16 +3827,6 @@
       "location": "Queenstown, Tiong Bahru",
       "validTill": "15 Jun 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92831",
-      "name": "32cm Non-stick Deep Fry Pan",
-      "description": "Material:\n- Swiss imported Maifan Stone ILAG coating; Non-stick and easy to clean Inner tank made of  Cast Aluminum; No rivets inside the pan, hygiene and easy to wash\n-  4.5mm Thicken bottom provides a stable heat distribution during cooking, and rapidly heating up; excellent wear-resistance\n-  Wooden effect handle, safe and anti-scald\n- Suitable for use on: Induction, gas, ceramic, electric, halogen & solid fuel cookers. Not suitable for Oven\n\nNotice: Please use with wooden shovel! Steel shovel/utensil/scrubber will hurt the non-stick coating; Dishwasher is not suggested, it may hurt the handle\n\nProduct feature:\n- Healthy and durable\n  High quality ILAG Swiss Granistone passed American FDA inspection SGS certification PFOA FREE\n- Strengthen protection 5-layer process\n  Imported 5-layer non-stick coating, wear resistant up to 50,000 times\n- Excellent non-stick performance\n- Less oil needed, healthy cooking\n- Double spouts design\n\nMainteinance:\n1. First confirm the product's quality when you receive it\n2. Then use normal dishwashing liquid&soap water and sponge to wash it twice or three times with warm water\n3. Wipe off water stains or put 1-2 spoon of cookingg oil on the surface if you like\n4. Set it aside before the next use\n5. Make sure the lids only be closed after wiping off water stains or after air-drying\n6. It is prohibited to boil that empty or dry",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "15 Jun 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4089,16 +4094,6 @@
       "id": "92724",
       "name": "Food mixers/fruit juicer",
       "description": "Mini food mixer giving away self collection.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "11 Jun 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92723",
-      "name": "Rice cooker",
-      "description": "Rice cooker giving away self collection.",
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "11 Jun 2021",
       "ageInYears": 1,
@@ -4446,16 +4441,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "93320",
-      "name": "Brown cupboard",
-      "description": "Dark brown cupboard with shelves",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "31 May 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "92479",
       "name": "Study Desk (with ergonomic slant)",
       "description": "very good condition desk with an ergonomic tilted panel on the left.",
@@ -4671,16 +4656,6 @@
       "description": "Solid teak wood sofa bed",
       "location": "Jurong",
       "validTill": "31 May 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92304",
-      "name": "Bunker bed",
-      "description": "Children’s bunker bed with mattress",
-      "location": "Seletar",
-      "validTill": "30 May 2021",
       "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
