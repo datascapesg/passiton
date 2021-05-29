@@ -307,23 +307,6 @@
       "date": "27 May 2021"
     },
     {
-      "id": "93361",
-      "name": "Handphone",
-      "description": "Client lives in a shelter and has just graduated from ITE (looking for a full-time job now). Her handphone has recently stopped working and she has difficulty paying for a new one.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Gracia Leong",
-        "email": "gracialeong@fycs.org",
-        "phone": [
-          "69783485",
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "27 May 2021"
-    },
-    {
       "id": "93357",
       "name": "Sleeping Chair",
       "description": "Client is a 50+ year old client with multiple health issues and he is the sole caregiver for his brother who has intellectual disability. He has financial difficulties and is under tremendous caregiver's stress. He would require the chair (bed) for his brother who sleeps on it. Currently, his chair is filled with bed bugs and would have to be removed.\n\nSocial worker would like to request for a chair that is comfortable enough for client to sleep in.",
@@ -795,22 +778,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": false,
-      "date": "24 May 2021"
-    },
-    {
-      "id": "93212",
-      "name": "Board Games",
-      "description": "Single mother with 4 children is finding it a challenge to engage her children in HBL. She does not believe in giving devices to children and hopes to get some board games to engage her children. If there are any preloved boardgames, pls do pass it on :)",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Vijaya Rani d/o Jayaguru",
-        "email": "rani@amkfsc.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
       "date": "24 May 2021"
     },
     {
@@ -2802,6 +2769,16 @@
   ],
   "offers": [
     {
+      "id": "93434",
+      "name": "study table",
+      "description": "two tier ergonomics study/ computer table. adjustable height with ergonomics chair.",
+      "location": "Little India",
+      "validTill": "28 Jun 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "93433",
       "name": "Super single upholstered bed with spring mattress",
       "description": "Super single bed with mattress \nUsed \nGood condition",
@@ -2868,16 +2845,6 @@
       "location": "Tampines, Pasir Ris",
       "validTill": "28 Jun 2021",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93426",
-      "name": "Dyson fan",
-      "description": "This is a first generation dyson fan. It works well and as per normal. Slight breeze and safe for kids.",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "28 Jun 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2988,6 +2955,16 @@
       "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
       "validTill": "26 Jun 2021",
       "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "93373",
+      "name": "Melissa and Doug Wooden Educational Toy",
+      "description": "Good condition with slight scratches. Develops toddlers fine motor skills",
+      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
+      "validTill": "26 Jun 2021",
+      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3188,16 +3165,6 @@
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "23 Jun 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93236",
-      "name": "Pillow Protector",
-      "description": "Pillow Protector x 1",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "23 Jun 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3598,16 +3565,6 @@
       "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
       "validTill": "17 Jun 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92919",
-      "name": "Ikea Mattress",
-      "description": "Likely used. Come with mattress protector & 2 sets of Ikea bedsheet (Grey & Blue)",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "16 Jun 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
