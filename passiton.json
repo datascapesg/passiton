@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "93443",
+      "name": "1 box of Chinese Sausages",
+      "description": "We are requesting for 1 box of Chinese sausages as we cook 3 meals a day for our residents from Monday to Saturday. The Helping Hand is a Voluntary Welfare Organization affiliated with the National Council of Social Service. We run a home providing drug rehabilitation and after-care services to male drug addicts and ex-offenders in Singapore. This is a residential programme carried out in our agency home, which was graciously provided by the Singapore government in recognition of our services to the community. We have a total of about 100 residents and staff staying in at our premises.",
+      "specifications": null,
+      "contact": {
+        "org": "The Helping Hand",
+        "name": "Chan Toh Han",
+        "email": "chantohhan@thehelpinghand.org.sg",
+        "phone": [
+          "62832204ext120",
+          "62832204"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "29 May 2021"
+    },
+    {
       "id": "93442",
       "name": "10 packets of 1 kg of Rice Vermicelli",
       "description": "We are requesting for 10 packets of 1 kg of rice vermicelli as we cook 3 meals a day for our residents from Monday to Saturday. The Helping Hand is a Voluntary Welfare Organization affiliated with the National Council of Social Service. We run a home providing drug rehabilitation and after-care services to male drug addicts and ex-offenders in Singapore. This is a residential programme carried out in our agency home, which was graciously provided by the Singapore government in recognition of our services to the community. We have a total of about 100 residents and staff staying in at our premises.",
@@ -115,22 +132,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": false,
-      "date": "28 May 2021"
-    },
-    {
-      "id": "93410",
-      "name": "Dressing table",
-      "description": "Family of 6 requires a washing machine as their current one is broken. Family \ndoes not have a breadwinner due to client's medical issues and caregiving \nneeds of both client and 2 young children. Hence, they are facing tight \nfinancial issues. \nCurrent dressing table is broken and client would like to request for a \nreplacement. A dressing table is important for older son as he uses it as a \nstudy area and storage space as well. \n2 tertiary school going children require a laptop for their studies as current \none is spoilt and unable to be repaired. Family does not have a breadwinner \ndue to client's medical issues and caregiving needs of both client and 2 \nyounger children.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Toa Payoh",
-        "name": "Chloe Khaw",
-        "email": "chloekhaw@carecorner.org.sg",
-        "phone": [
-          "63561622"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
       "date": "28 May 2021"
     },
     {
@@ -974,22 +975,6 @@
         "email": "khairunisa.rusli@ppis.sg",
         "phone": [
           "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 May 2021"
-    },
-    {
-      "id": "93104",
-      "name": "Washing Machine",
-      "description": "Client is a single mother with a 10-month-old infant. She has been allocated a rental flat and is moving in soon. However, she is earning a low wage and lacks family support. Hence, would greatly appreciate any support for furnishing of the flat. Basic household necessities. Donation of a washing machine is greatly appreciated.(Fionn)",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Teddy Fu",
-        "email": "teddyfu@thkmc.org.sg",
-        "phone": [
-          "64491440"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2803,6 +2788,56 @@
     }
   ],
   "offers": [
+    {
+      "id": "93448",
+      "name": "Toddler clothing 1 - 3 year old",
+      "description": "One bag of toddler clothing to donate for girls.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "28 Jun 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "93447",
+      "name": "Black-brown shelving unit",
+      "description": "Black-brown shelving unit from Ikea (2 shelves, 1 cupboard, 2 drawers)\nGood condition",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "25 Jun 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "93446",
+      "name": "Child's Desk",
+      "description": "White children's desk from Ikea, has 3 shelves below desk for storage. \nSome marks on the desk, but generally good condition.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "25 Jun 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "93445",
+      "name": "Brown wooden Ikea chest of 4 drawers",
+      "description": "Chest of 4 drawers from Ikea, brown stained ash veneer\nGood condition",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "25 Jun 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "93444",
+      "name": "Bed sofa",
+      "description": "White bed sofa, only used by us as a sofa. It pulls down easily to make a bed. White in colour, we have a flowered cover on.\n\nSofa= 160cm x105cm x 96cm\nBed size down= 210cm x 160cm",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "25 Jun 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "93441",
       "name": "Commode",
