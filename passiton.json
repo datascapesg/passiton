@@ -2635,60 +2635,19 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "30 Apr 2021"
-    },
-    {
-      "id": "92072",
-      "name": "Wheelchair",
-      "description": "Family is taking care of their 90 year old mother who recently had a fall and the old wheelchair is faulty. They require an replacement of wheelchair to help aid her daily mobility. \n\nThe previous wheelchair model is \"Lifeline-65-0709-18\". The family would prefer a lightweight wheelchair.",
-      "specifications": "18 inch",
-      "contact": {
-        "org": "Rotary Family Service Centre",
-        "name": "Billy Loh Rong Shun",
-        "email": "billy@frcsfsc.sg",
-        "phone": [
-          "67799483",
-          "67799488"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Apr 2021"
-    },
-    {
-      "id": "92062",
-      "name": "Wash Machine",
-      "description": "Single mother of 1, just released from incarceration, who requires a washing machine at home. She is looking for employment but have difficulty securing any source of income.",
-      "specifications": null,
-      "contact": {
-        "org": "REACH Family Service Centre",
-        "name": "Lydia Tan",
-        "email": "lydia.tan@reach.org.sg",
-        "phone": [
-          "64709776",
-          "62522566"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Apr 2021"
-    },
-    {
-      "id": "92035",
-      "name": "Small Wheelchair with Detachable Footrest",
-      "description": "Patient is divorced and had undergone toe amputation. Due to her age and medical condition, she is unable to work to pay for her medical expenses. Her current wheelchair is faulty, posing safety risks for her when she travels to and fro dialysis 3 times a week.",
-      "specifications": "16\"",
-      "contact": {
-        "org": "National Kidney Foundation (NKF)",
-        "name": "Dayna Wong",
-        "email": "dayna.wong@nkfs.org",
-        "phone": [
-          "63593642",
-          "65062244"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "29 Apr 2021"
     }
   ],
   "offers": [
+    {
+      "id": "93477",
+      "name": "Rice cooker",
+      "description": "Rice cooker giving away, self collection.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "29 Jun 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "93475",
       "name": "Bed",
@@ -3280,16 +3239,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "93218",
-      "name": "Walking stand",
-      "description": "Walking stand",
-      "location": null,
-      "validTill": "23 Jun 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "93215",
       "name": "Wooden bench; pots/pans",
       "description": "Kitchenware is relatively new; some not used",
@@ -3306,16 +3255,6 @@
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
       "validTill": "23 Jun 2021",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93203",
-      "name": "Summer Infant Change Pad and Cover",
-      "description": "Infant changing pad with cover.",
-      "location": "Macpherson, Braddell",
-      "validTill": "31 May 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3366,16 +3305,6 @@
       "location": "Telok Blangah, Harbourfront",
       "validTill": "06 Jun 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93172",
-      "name": "Boori Large Cot/Toddler Bed",
-      "description": "Boori Cot Bed. Picture shown as toddler bed but also have the side to make it into a full cot. Mattress and storage drawer for underneath included. \nhttps://www.boori.com/au/classic-cot-bed-dropside-barley",
-      "location": "Telok Blangah, Harbourfront",
-      "validTill": "31 May 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3530,31 +3459,11 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "93252",
-      "name": "IKEA queen size mattress",
-      "description": "Almost new, used less than 6 months",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 May 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "93016",
       "name": "Coffee Machine",
       "description": "Braun Aromaster Compact 8 to make 8 cups of coffee. Brand new, never used before. Does not come in box because of ease of storage. Comes with instruction manual.",
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
       "validTill": "18 Jun 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93006",
-      "name": "Lego box for kids",
-      "description": "Lego blocks  for kids.",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "31 May 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -3670,16 +3579,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "92822",
-      "name": "Kids lego box",
-      "description": "Lego blocks for  kids",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "31 May 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "92820",
       "name": "NO BAND",
       "description": "THIS PRODUCT ADOPTDS FOOD GRADE P RAW MATERIALS AND HIGH GRADE STAINLESS STEEL CRAFTED FROM THE PRODUCTION.NOTASTE CAN USE THE OTHER POT RICE.",
@@ -3690,31 +3589,11 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "92818",
-      "name": "Ikea table",
-      "description": "Study table\nPicture shows legs removed\nSturdy\n\nToa Payoh",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "31 May 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "92815",
       "name": "PHILIPS",
       "description": "MAKE COFFEE.15 COFFEE FOR M CUP\n\n10COFFEE FOR L CUP\nGOOD CONDITION.",
       "location": "Jurong",
       "validTill": "14 Jun 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92805",
-      "name": "Kids lego box",
-      "description": "Lego blocks for  kids",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "31 May 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -3746,16 +3625,6 @@
       "location": null,
       "validTill": "01 Jun 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92783",
-      "name": "Children’s clothes",
-      "description": "Worn but still in good condition",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "31 May 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3846,16 +3715,6 @@
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
       "validTill": "12 Jun 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92734",
-      "name": "Baby carrier",
-      "description": "Baby carrier (soft structured) for infants 3 at least 3kg and up.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "31 May 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4030,52 +3889,12 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "92623",
-      "name": "Baby booster seat",
-      "description": "Missing table and chair strap",
-      "location": "Yishun, Sembawang",
-      "validTill": "31 May 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92615",
-      "name": "Slow Juicer",
-      "description": "Mayer slow juicer\nMotor warranty balance 8 years\nIn good working condition\nNever used before\nPlease arrange and pay for collection and delivery.",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "31 May 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92611",
-      "name": "IKEA Queen Mattress",
-      "description": "IKEA Queen Sized Mattress (with some minor stains)",
-      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-      "validTill": "31 May 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "92607",
       "name": "2 sets of Wet-Stop Bedwetting Enuresis Alarm",
       "description": "This is a bed wetting alarm to train children to wake up to urinate. It is a device often prescribed by pediatricians and costs about $60+ each.\nhttps://www.amazon.sg/Wet-Stop-Bedwetting-Enuresis-Vibration-Bedwetters/dp/B006B8U8BG",
       "location": "Jurong",
       "validTill": "09 Jun 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92604",
-      "name": "PVC children mattress",
-      "description": "Children PVC mattress. All in good condition, lightly use but has been stored away for a period of time (1 yr).",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "31 May 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4100,42 +3919,12 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "92561",
-      "name": "Leather sofa",
-      "description": "Leather is bit worn out but structure is very stable. \nBrand Rolf Benz",
-      "location": null,
-      "validTill": "31 May 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92552",
-      "name": "Story books",
-      "description": "Pre-loved story books. Not for the fussy.",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "31 May 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "92548",
       "name": "Coffee marker",
       "description": "Coffer marker giving away self collection.",
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "08 Jun 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92546",
-      "name": "Bed",
-      "description": "This is the bed my father used and he passed on in Hospital.",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "31 May 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4166,56 +3955,6 @@
       "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
       "validTill": "08 Jun 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92527",
-      "name": "IKEA MOLTE study chair",
-      "description": "Preloved study chair without wheels and height adjustable. Safe for children. Not for fussy as chair has some scratches as shown in photo.",
-      "location": "Telok Blangah, Harbourfront",
-      "validTill": "31 May 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92516",
-      "name": "General Toys",
-      "description": "General Toys to bless",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "31 May 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92515",
-      "name": "You & Me Happy Family Manor",
-      "description": "You & Me Happy Family Manor",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "31 May 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92514",
-      "name": "You & Me Castle Playhouse",
-      "description": "Castle Playhouse to bless",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "31 May 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92512",
-      "name": "Children Toy - Disney Princess Little Kingdom Magical Movers Twirling Tower",
-      "description": "Rarely used toy. https://www.youtube.com/watch?v=KUbB1fFa2F4&t=84s",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "31 May 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4266,166 +4005,6 @@
       "location": "Central Singapore",
       "validTill": "05 Jun 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92652",
-      "name": "Bed",
-      "description": "Balinese wooden frame bed.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 May 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93321",
-      "name": "Hair dryer",
-      "description": "Lightly Used hair dryer",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 May 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92370",
-      "name": "Cups",
-      "description": "Too many cups at home",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 May 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92369",
-      "name": "Files",
-      "description": "Files",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 May 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92368",
-      "name": "Camera extendable holder",
-      "description": "Extendable holder for photo taking",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 May 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92367",
-      "name": "Ez pz baby feeding table",
-      "description": "Sucks to the table to prevent moving around",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 May 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92364",
-      "name": "Female items",
-      "description": "Bra adjuster",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 May 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92363",
-      "name": "Kids toys",
-      "description": "Kids toys and pencil case",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 May 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92362",
-      "name": "Baby bath mat",
-      "description": "Anti slip bath mat\nAnti leak baby mat",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 May 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92361",
-      "name": "Household items",
-      "description": "Pouches And a speaker (new) and a cosmetic holder",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 May 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92358",
-      "name": "Kids feeding set",
-      "description": "Kids food storage with cover and spoon \nKids plate \nAll new",
-      "location": null,
-      "validTill": "31 May 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92357",
-      "name": "Kids utensils",
-      "description": "All entirely new and unused kids utensils",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 May 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92355",
-      "name": "Baby cot toy",
-      "description": "Tie the toy around the cot or leave it on the floor for the baby to touch and lights and music will appear",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 May 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92354",
-      "name": "Laptop bag",
-      "description": "Lightly used laptop bag",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 May 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92352",
-      "name": "New Shoe bag",
-      "description": "Brand new shoe bag \n30cm length by 23cm height",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 May 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92731",
-      "name": "Sofa daybed",
-      "description": "Solid teak wood sofa bed",
-      "location": "Jurong",
-      "validTill": "31 May 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4486,26 +4065,6 @@
       "location": "Little India",
       "validTill": "01 Jun 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92161",
-      "name": "Study Chair - IKEA",
-      "description": "Study Chair from IKEA, adjustable with wheels",
-      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-      "validTill": "31 May 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "92139",
-      "name": "wooden convertible high chair cum writing desk(small kid)",
-      "description": "a solid functional high chair that can be converted to writing table. Ideal for toddlers.",
-      "location": "Telok Blangah, Harbourfront",
-      "validTill": "31 May 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     }
