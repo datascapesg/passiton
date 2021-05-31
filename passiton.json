@@ -864,22 +864,6 @@
       "date": "25 May 2021"
     },
     {
-      "id": "93276",
-      "name": "Handphone",
-      "description": "Couple is an elderly couple with no phone to contact systems in this COVID period. Elderly couple do not have any financial means to afford a phone, but would require one to increase communication and monitoring.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Celestine Liow",
-        "email": "celestineliow@amkfsc.org.sg",
-        "phone": [
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "25 May 2021"
-    },
-    {
       "id": "93271",
       "name": "Bed frame guard",
       "description": "Senior in his 60s has unsteady gait and requires a bed frame guard as he fell down recently from his bed.",
@@ -943,23 +927,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": false,
-      "date": "25 May 2021"
-    },
-    {
-      "id": "93250",
-      "name": "Huggies Platinum Diapers Size M",
-      "description": "Family has a young son and a newborn son and elderly to take care of. The sole breadwinner of the family is unable to work as he met with an accident which has impacted his ability to walk. They require assistance with milk powder and diapers for their newborn son. The doctor has also recommended the specific milk powder for her baby as she has a medical condition. Family are having difficulties coping with the expenses of these items.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Venus Ong",
-        "email": "venusong@amkfsc.org.sg",
-        "phone": [
-          "64546678",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
       "date": "25 May 2021"
     },
     {
@@ -2817,6 +2784,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "93544",
+      "name": "Office Wear (L-XL Size)",
+      "description": "Women corporate office wear consist of blazers ($69 - $79 each), pants ($69 - $89 each), blouses ($49 - $69 each), dresses ($89.90 - $109 each). Still look brand new and some are brand new. Had not been wearing ever since I changed to IT firm. Pls arrange for self-collection.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "15 Jun 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "93543",
+      "name": "Slow Cooker",
+      "description": "This small slow cooker is suitable to cook for 2 portions. Seldom used. Suitable for mum who needs to cook porridge for children or old folks. Pls arrange collection on your own.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "15 Jun 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "93542",
+      "name": "OTO BIKE",
+      "description": "Wish to donate this OTO bike to senior day care centre to allow senior citizens to have an active lifestyle.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "15 Jun 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "93541",
       "name": "Sofa Bed",
