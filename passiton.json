@@ -1,6 +1,39 @@
 {
   "requests": [
     {
+      "id": "93532",
+      "name": "Mamypoko Standard Pants Size L",
+      "description": "This is a single mother of 4 children who is the main caregiver of her children. As her husband is incarcerated, the family has no income and requires support to meet children's needs. She would appreciate donation for diapers for her 3yo and 2yo children. \n\nMamypoko Pants Standard Size L",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Tricia Tee",
+        "email": "triciatee@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "31 May 2021"
+    },
+    {
+      "id": "93528",
+      "name": "Stroller / Baby Pram Needed!",
+      "description": "Client is the sole breadwinner of his family, supporting multiple dependents including his wife and 9 children. The family manages their immediate needs on Client's single income, however some strains do exist. Family requires a baby pram / stroller for their younger children.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Farahlina Tan",
+        "email": "farahlina_tan@awwa.org.sg",
+        "phone": [
+          "65119458",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "31 May 2021"
+    },
+    {
       "id": "93527",
       "name": "Milk Powder",
       "description": "Father is the sole breadwinner earning minimal income for the family of 6 with 4 young children (aged 6, 5, 4 and 2), 3 of whom are diagnosed with moderate to severe Autism Spectrum Disorder. Family is requesting for 4 tins of Cowhead brand Full Cream milk for the children.",
@@ -684,22 +717,6 @@
       "date": "27 May 2021"
     },
     {
-      "id": "93327",
-      "name": "Single sofa bed",
-      "description": "Single mother needs a single size sofa bed but cannot afford to have one. She is now sleeping on a 2-seaters sofa and having back pain. Her rental flat with limited space, 1-seater sofa which can double up as bed will be helpful. Thanks!",
-      "specifications": "Sofa: 64 cm (H) x 91 cm (L) x 78 cm (D), Mattress: 91 cm x 190 cm x 17 cm",
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Esther Lai",
-        "email": "estherlai@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 May 2021"
-    },
-    {
       "id": "93298",
       "name": "Halal muslim-owned refrigerator",
       "description": "Family of 5 is moving into a rental flat soon. They need a fridge but are unable to afford one presently.",
@@ -1340,22 +1357,6 @@
       "date": "20 May 2021"
     },
     {
-      "id": "93019",
-      "name": "Refrigerator",
-      "description": "Low-income household of 3, with a 6 year old daughter, requesting for assistance to replace their refrigerator which has broken down. Family is not currently on financial assistance, have been coping on a single income. Wife started work just before the recent COVID19 tightening measures. Family do not have sufficient emergency funds to replace their refrigerator as they manage on a very tight budget every month. \n\nYour help is most appreciated.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Loh Lai Sum",
-        "email": "lsloh@childrensociety.org.sg",
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 May 2021"
-    },
-    {
       "id": "93018",
       "name": "Baby gate",
       "description": "Single lady caring for her 3 nieces & 1 nephew requires a baby gate for her nephew.",
@@ -1757,22 +1758,6 @@
       "name": "Kitchen Cabinet",
       "description": "Client is a single mother and will be shifting to her new rental flat in Yishun. She experiences many stressors from the caregiving needs of her mother and daughter and has some financial challenges due to accumulated debts.",
       "specifications": null,
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "amychua@mws.sg",
-        "phone": [
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 May 2021"
-    },
-    {
-      "id": "92880",
-      "name": "Gas Stove",
-      "description": "Client has multiple health issues \n(i.e. vein surgery in Sep 2020, minor arm fractures and toe incident in Apr 2021), which resulted in an open wound due to poor compliance to treatment (as a result of low finances) and reduced mobility. She requires the aid of mobility scooter and a walking aid to remain ambulant. Due to this, she has not been able to continue working as a cleaner and does not have any income.",
-      "specifications": "Single/Double Hob",
       "contact": {
         "org": "MWS Family Service Centre - Yishun",
         "name": "Amy Chua",
@@ -2785,22 +2770,22 @@
   ],
   "offers": [
     {
-      "id": "93522",
-      "name": "Samsung LED TV 40\" UA40H5500",
-      "description": "Samsung LED TV 40\" UA40H5500",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "30 Jun 2021",
+      "id": "93530",
+      "name": "Queen sized mattress and bed frame",
+      "description": "Queen sized mattress with bed frame",
+      "location": null,
+      "validTill": "07 Jun 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "93521",
-      "name": "Lenovo Tab 7 Essential / phone",
-      "description": "Brand new. Unused tab cum phone. Bought for an elderly friend to learn to use whatapp and email but she refused.  Hope to give to someone who need it.",
-      "location": "Yishun, Sembawang",
-      "validTill": "30 Jun 2021",
-      "ageInYears": 2,
+      "id": "93529",
+      "name": "Single bed",
+      "description": "Mattress with frame.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "06 Jun 2021",
+      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2958,16 +2943,6 @@
       "id": "93459",
       "name": "Working or study table",
       "description": "Condition is 6/10 for table surface",
-      "location": "Seletar",
-      "validTill": "20 Jun 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93457",
-      "name": "Double decker bed frame",
-      "description": "Condition is 7/10. Only need to reassemble.",
       "location": "Seletar",
       "validTill": "20 Jun 2021",
       "ageInYears": 3,
@@ -3161,6 +3136,16 @@
       "location": "Yishun, Sembawang",
       "validTill": "15 Jun 2021",
       "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "93531",
+      "name": "Rehab Items",
+      "description": "1. Hospital bed - Used, no mattress, fully functional with remote and side rails.\n2. Geriatric chair - Used, can fully recline, mobile with wheels and brakes and dining tray.\n3. Shower chair - Never been used, height adjustable.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "26 Jun 2021",
+      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
