@@ -1,9 +1,19 @@
 [
   {
-    "id": "93550",
-    "name": "IKEA wardrobe",
-    "description": "IKEA wardrobe.",
-    "location": "Anson, Tanjong Pagar",
+    "id": "93552",
+    "name": "Sencor 1L rice cooker",
+    "description": "Rice cooker used for less than a month.",
+    "location": "Jurong",
+    "validTill": "15 Jun 2021",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "93551",
+    "name": "Mothercare kids wardobe",
+    "description": "Cupboard in relatively good condition",
+    "location": null,
     "validTill": "02 Jun 2021",
     "ageInYears": 4,
     "dimensions": null,
@@ -66,16 +76,6 @@
     "location": "Serangoon Garden, Hougang, Ponggol",
     "validTill": "15 Jun 2021",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "93541",
-    "name": "Sofa Bed",
-    "description": "Foldable sofa bed, condition is good as it is not utilised much.",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "03 Jun 2021",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
