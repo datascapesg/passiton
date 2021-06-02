@@ -1,6 +1,71 @@
 {
   "requests": [
     {
+      "id": "93654",
+      "name": "washing machine top load",
+      "description": "Family consists of 2 school-going children (15 and 11). Wife lost her job as a cleaner during the Covid-19 pandemic, and is actively looking for a job. Husband works as a Grab Driver, but his income is variable. Even more recently, he has been unable to even cover the cost of his vehicle. Family is moving into an empty HDB rental flat. Your assistance towards the family is highly appreciated.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Jun 2021"
+    },
+    {
+      "id": "93653",
+      "name": "Milk Powder & Diapers",
+      "description": "Client is the sole-breadwinner of his family. Together with his Vietnamese wife and his 2 young children, aged 22 months (coming to 2 years old) and 7 months-old baby, the family lives in a one-room rental flat in Marine Terrace. Client is hoping for some donations of milk supplies and diapers to lighten his financial burden. Due to his unstable income since the start of pandemic in early April last year, family has been struggling financially. Client hopes to request for: 1) a few tins of Nestle NAN Optipro H.A. Growing Up Milk Stage 3 2) a few tins of Nestle Nan Optipro Infant Milk Formula Stage 2 3) a few packets of Merries XL Walker 4) a few packets of Pampers L Tape. Do contact/WhatsApp me at 98598768 from Mon-Fri at 9-5pm for further liaison on delivery address etc. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (East)",
+        "name": "Nur Afrina",
+        "email": "fsceast@ppis.sg",
+        "phone": [
+          "69503503"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Jun 2021"
+    },
+    {
+      "id": "93652",
+      "name": "Laptop",
+      "description": "Please contact Social Worker Hwee Xin at hweexin@thkmc.org.sg or 9227 1951 for donation. Client is in need of a laptop (can be second hand) as her current laptop is faulty.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Navarraj",
+        "email": "navarraj@thkmc.org.sg",
+        "phone": [
+          "64961278",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "02 Jun 2021"
+    },
+    {
+      "id": "93651",
+      "name": "Halal Fridge",
+      "description": "Person is living alone and just started working. He is supporting his family of whom are situated overseas and unable to come back to Singapore due to covid-19 restrictions. For further liaison on delivery address etc, do contact me from Mon-Fri, 9-5pm at 98598768, thank you very much.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (East)",
+        "name": "Nur Afrina",
+        "email": "fsceast@ppis.sg",
+        "phone": [
+          "69503503"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Jun 2021"
+    },
+    {
       "id": "93647",
       "name": "Sewing Machine",
       "description": "Our Senior Care Centre in MacPherson is looking for a sewing machine to stimulate cognitive functioning and improve the self-worth of both dementia clients and our general group of seniors, since sewing enables them to contribute to the daycare by doing what they are passionate in. If possible, we would greatly appreciate delivery to our centre! Please contact us if a sewing machine is available. Thank you so much!",
@@ -297,22 +362,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "02 Jun 2021"
-    },
-    {
-      "id": "93609",
-      "name": "Dining table and chairs",
-      "description": "Family consists of 2 school-going children (15 and 11). Wife lost her job as a cleaner during the Covid-19 pandemic, and is actively looking for a job. Husband works as a Grab Driver, but his income is variable. Even more recently, he has been unable to even cover the cost of his vehicle. Family is moving into an empty HDB rental flat, and they require some basic furniture. Your assistance towards the family is highly appreciated.",
-      "specifications": "prefer rectangular or square with 4 chairs",
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Jun 2021"
     },
     {
       "id": "93606",
@@ -1304,23 +1353,6 @@
         "email": "khairunisa.rusli@ppis.sg",
         "phone": [
           "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 May 2021"
-    },
-    {
-      "id": "93126",
-      "name": "Laptop with charger and mouse",
-      "description": "Family has a child with special needs starting Priamry 1 in June and requires a laptop for attending classes. Family has 4 children and is struggling on father's sole income. Family does not have a laptop. They would appreciate having a laptop to facilitate the child's home-based learning in order to keep up with peers.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Victoria Chong",
-        "email": "victoriachong@fycs.org",
-        "phone": [
-          "69783482",
-          "65690381"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2701,6 +2733,36 @@
   ],
   "offers": [
     {
+      "id": "93650",
+      "name": "Bed frame foldable",
+      "description": "Foldable bed",
+      "location": null,
+      "validTill": "30 Jun 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "93649",
+      "name": "Simmons Dreamscape King size mattress without bed",
+      "description": "King size mattress of Simmons",
+      "location": null,
+      "validTill": "02 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "93648",
+      "name": "Comic Books",
+      "description": "Adventure comic books by local writer/illustrator.\nBrand new, 5 comics per set. \nSuitable for children aged 8-12. \nFor student/ low-income support welfare groups or reading centers. To encourage reading & exposure to local writers. \nMultiple sets provided.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "02 Jul 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "93642",
       "name": "Dining set",
       "description": "Preloved\nWith 4 matching chairs",
@@ -2796,16 +2858,6 @@
       "description": "Only use for a few times and have been kept in the storeroom.",
       "location": "Queenstown, Tiong Bahru",
       "validTill": "02 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93619",
-      "name": "Acer",
-      "description": "Used desktop with windows 10 loaded",
-      "location": "Geylang, Eunos",
-      "validTill": "01 Jul 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
