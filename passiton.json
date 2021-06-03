@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "93705",
+      "name": "Study chair with wheels",
+      "description": "A youth is taking her 'N' Levels end of the year and is undergoing extra classes and revision. However, she does not have a suitable chair to aid her in her home-based learning. Family uses more stools and low-seating chairs that are not suitable. She is from a low-income family and parents are also supporting 2 other school-going children and elderly parents who have heart and stroke problems. Youth appreciates if she can receive support for a study chair. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Lynn Yeo",
+        "email": "lynnyeo@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Jun 2021"
+    },
+    {
+      "id": "93704",
+      "name": "Wardrobe",
+      "description": "Client and son, aged 7, have just moved to a rental flat. Client's husband is incarcerated and she is the sole breadwinner of the family. Due to the Covid situation, she is on no paid leave and is finding it difficult to make ends meet. Client requires basic furnishing such as wardrobe and a cupboard.",
+      "specifications": "5 to 6ft",
+      "contact": {
+        "org": "Whampoa Family Service Centre",
+        "name": "Tan Jia Wei",
+        "email": "tanjiawei@kkcs.org.sg",
+        "phone": [
+          "63260305",
+          "63260300"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Jun 2021"
+    },
+    {
       "id": "93696",
       "name": "Art materials",
       "description": "Will like to seek for art materials (eg. drawing block, adult colouring books, paint and colour pencils), art instruction books (if any) for my client aged 54, staying alone with chronic pain in hand. We are exploring using art as a healthier coping mechanism for the client, for his pain.",
@@ -2413,22 +2447,6 @@
       "date": "11 May 2021"
     },
     {
-      "id": "92616",
-      "name": "Nippon/ dulux white paint",
-      "description": "Family of three hopes to give their 2-room rental flat a fresh coat of painting for Hari Raya. They would appreciate if there is a donor who can sponsor the white paint for them to give their flat a fresh coating.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Goh Guan Qun",
-        "email": "guanqun@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 May 2021"
-    },
-    {
       "id": "92597",
       "name": "Motorized Wheelchair Needed for Elderly Client!",
       "description": "Client is an elderly woman with limited mobility. She is presently residing alone and is dependent on others when she utilizes her manual wheelchair. The motorized wheelchair will help her to regain her personal independence and enable her to fulfil her day-to-day needs and errands with more ease.",
@@ -2846,6 +2864,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "93703",
+      "name": "Double deck bed with storage space",
+      "description": "Pre-loved double deck bed, suitable for kids. Comes with steps to access the upper deck. Storage compartments between the upper and the lower deck. Originally had my kids names on it, hence the tiny holes you see on the front. Can be covered with decorative stickers. The upper deck is super single while the lower deck is custom made. Only comes with the lower deck mattress.",
+      "location": "Yishun, Sembawang",
+      "validTill": "16 Jun 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "93701",
+      "name": "Single Bed plus a pull out bed with mattress",
+      "description": "Single Bed with mattress.  There is a pull out bed also with mattress",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "03 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "93700",
       "name": "Fabric Sofa Set",
