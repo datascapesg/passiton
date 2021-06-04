@@ -1,6 +1,22 @@
 {
   "requests": [
     {
+      "id": "93774",
+      "name": "Milk powder and baby necessities",
+      "description": "Family relies on the single income of their father, who works as a cleaner. They are struggling to afford milk powder and other children necessities and would appreciate help. Thank you!\nJohn 8212 2942",
+      "specifications": null,
+      "contact": {
+        "org": "Hougang Sheng Hong Family Service Centre",
+        "name": "John Lim",
+        "email": "john@shenghong.org.sg",
+        "phone": [
+          "62895022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Jun 2021"
+    },
+    {
       "id": "90459",
       "name": "3 seater sofa",
       "description": "Family has 3 children who require financial support as wife is the sole breadwinner. Husband is certified to be unfit for work. They require support for a 3 seater sofa, preferably black. Fabric or leather is both fine. Thank you",
@@ -2972,6 +2988,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "93775",
+      "name": "Single-size Wooden Bed with mattress",
+      "description": "Wooden bed frame with good spring mattress, still in very good condition.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "20 Jun 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "93773",
       "name": "Baby Bjorn cloth Carrier",
