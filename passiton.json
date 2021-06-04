@@ -33,23 +33,6 @@
       "date": "04 Jun 2021"
     },
     {
-      "id": "93753",
-      "name": "Washing Machine",
-      "description": "Young couple with a newborn, received keys for HDB rental flat in end-May 2021. Flat is unfurnished.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - NRS",
-        "name": "Roy Leng",
-        "email": "royleng@amkfsc.org.sg",
-        "phone": [
-          "62412583",
-          "62412593"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "04 Jun 2021"
-    },
-    {
       "id": "93752",
       "name": "Washing Machine (Front Load)",
       "description": "A 63-year old client requires a washing machine because the current one has spoilt. She is currently still looking for job and does not have sufficient financial resources to purchase a new one.",
@@ -2891,6 +2874,36 @@
   ],
   "offers": [
     {
+      "id": "93762",
+      "name": "Television",
+      "description": "TV with HDMI port.  It comes together with cables and remote control.",
+      "location": "Yishun, Sembawang",
+      "validTill": "04 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "93761",
+      "name": "IKEA KIDS BED",
+      "description": "Mattress included.\nValid till 5 Jun else will be disposed because we are moving out.",
+      "location": "Anson, Tanjong Pagar",
+      "validTill": "05 Jun 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "93760",
+      "name": "Office Furnitures",
+      "description": "7 nos big tables\n4 nos small tables\n6 nos big wooden cabinets\n2 nos steel cabinet - diff sizes\n3 nos small cabinets\n4 nos small drawers\n1 no partition\n4 nos telephone\n1 TV",
+      "location": "Upper Thomson, Springleaf",
+      "validTill": "17 Jun 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "93759",
       "name": "Graco Playpen",
       "description": "Playpen in good condition. Suitable for use as change table for newborns and also as play yard as the child grows up.\n\nComes with a mattress which is used lightly but m ok to replace with a new mattress if requested",
@@ -2937,16 +2950,6 @@
       "location": "Telok Blangah, Harbourfront",
       "validTill": "04 Jul 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93730",
-      "name": "Brother Printer",
-      "description": "Brother Black and White printer in excellent condition",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-      "validTill": "10 Jun 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3094,16 +3097,6 @@
       "id": "93677",
       "name": "Wardrobe",
       "description": "Wardrobe with 2 drawers. Good condition",
-      "location": "Telok Blangah, Harbourfront",
-      "validTill": "23 Jun 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93676",
-      "name": "Dining Table & 6 dining chairs",
-      "description": "Dining table can be extended. In good condition.",
       "location": "Telok Blangah, Harbourfront",
       "validTill": "23 Jun 2021",
       "ageInYears": 4,
