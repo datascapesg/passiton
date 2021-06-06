@@ -1,6 +1,22 @@
 {
   "requests": [
     {
+      "id": "93841",
+      "name": "Sewing Machine",
+      "description": "Family of 4 residing in a 2-room rental flat is requesting for a new sewing machine. Thank you very much.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Pek Jie Hui",
+        "email": "jiehui@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Jun 2021"
+    },
+    {
       "id": "93806",
       "name": "10 X10kg detergent powder",
       "description": "We are requesting for 10 packets of 10kg of detergent powder for daily washing and laundry for our residents. The Helping Hand is a Voluntary Welfare Organization affiliated with the National Council of Social Service. We run a home providing drug rehabilitation and after-care services to male drug addicts and ex-offenders in Singapore. This is a residential programme carried out in our agency home, which was graciously provided by the Singapore government in recognition of our services to the community. We have a total of about 100 residents and staff staying in at our premises.",
@@ -2694,6 +2710,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "93842",
+      "name": "Fridge - Samsung 2-Door, 290L grey color",
+      "description": "Available for collection betw 28-30 Jun 2021. Used by Chinese Family since Feb 2020, passing it on due to house renovations.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "28 Jun 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "93840",
       "name": "Ikea Customised Study Desk",
