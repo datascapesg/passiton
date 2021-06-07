@@ -1,5 +1,45 @@
 [
   {
+    "id": "93861",
+    "name": "Children items",
+    "description": "Children toy, stationery, clothings",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "20 Jun 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "93860",
+    "name": "Coffee table",
+    "description": "Glass top, oval shape coffee table",
+    "location": "Jurong",
+    "validTill": "29 Jun 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "93859",
+    "name": "Braun coffee maker",
+    "description": "4 cups of coffee. Easy to clean. Good condition. Only used it during occasional entertainment with friends, now most of them prefers tea.",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "15 Jun 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "93857",
+    "name": "Fisher & Paykel fridge",
+    "description": "Fridge is functioning well. The interior is clean and cold. The bottom freezer is frost free type. Fridge is in good condition, but the door gasket may need thorough cleaning.",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "15 Jun 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "93848",
     "name": "Queen size pocket springs mattress",
     "description": "Queen size mattress only. Does not come with bed frame",
@@ -56,16 +96,6 @@
     "location": "Balestier, Toa Payoh, Serangoon",
     "validTill": "28 Jun 2021",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "93842",
-    "name": "Fridge - Samsung 2-Door, 290L grey color",
-    "description": "Available for collection betw 28-30 Jun 2021. Used by Chinese Family since Feb 2020, passing it on due to house renovations.",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "28 Jun 2021",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -324,16 +354,6 @@
     "name": "2 Outdoor Rattan Chairs",
     "description": "Outdoor / Indoor Rattan Chairs without Cushions. Still in good condition. Need to buy own seat cushion.",
     "location": "Katong, Joo Chiat, Amber Road",
-    "validTill": "05 Jul 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "93793",
-    "name": "Samsung TV",
-    "description": "Samsung TV with antenna provided, remote control with battery",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
     "validTill": "05 Jul 2021",
     "ageInYears": 4,
     "dimensions": null,
@@ -970,16 +990,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "93446",
-    "name": "Child's Desk",
-    "description": "White children's desk from Ikea, has 3 shelves below desk for storage. \nSome marks on the desk, but generally good condition.",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "25 Jun 2021",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "93436",
     "name": "Panasonic hairdryer",
     "description": "Working panasonic hairdryer",
@@ -1081,16 +1091,6 @@
   },
   {
     "id": "93531",
-    "name": "Rehab Items",
-    "description": "1. Hospital bed - Used, no mattress, fully functional with remote and side rails.\n2. Geriatric chair - Used, can fully recline, mobile with wheels and brakes and dining tray.\n3. Shower chair - Never been used, height adjustable.",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "26 Jun 2021",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "93546",
     "name": "Rehab Items",
     "description": "1. Hospital bed - Used, no mattress, fully functional with remote and side rails.\n2. Geriatric chair - Used, can fully recline, mobile with wheels and brakes and dining tray.\n3. Shower chair - Never been used, height adjustable.",
     "location": "Bishan, Ang Mo Kio",
