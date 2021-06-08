@@ -2896,26 +2896,19 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "10 May 2021"
-    },
-    {
-      "id": "90054",
-      "name": "Laptop",
-      "description": "A single mum who is caring for a daughter who has a few mental health condition. Mum hopes to have a laptop so she could start looking for a part time job and that she could also coach daughter in her studies.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Lim Sheau Huey",
-        "email": "limsheauhuey@fycs.org",
-        "phone": [
-          "63519151",
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 May 2021"
     }
   ],
   "offers": [
+    {
+      "id": "93975",
+      "name": "Cornell Electric oven",
+      "description": "Was used mostly for baking during Deepavali",
+      "location": "Yishun, Sembawang",
+      "validTill": "08 Jul 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "93974",
       "name": "White Shelf",
