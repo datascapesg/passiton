@@ -1,5 +1,15 @@
 [
   {
+    "id": "93925",
+    "name": "Brand new shelves",
+    "description": "Brand new shelves.\nDimensions indicated in 3rd picture. \n\nSelf collection or recipient to borne delivery fee.\n\nCollection timing:\n9 to 12pm or\n3 to 6pm.",
+    "location": null,
+    "validTill": "30 Jun 2021",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "93922",
     "name": "Baby stroller",
     "description": "Please self collect",
@@ -10,52 +20,12 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "93920",
-    "name": "Morris induction cooker",
-    "description": "Even though it’s about 2 years old, it has been used less than 5 times. As item is quite portable, appreciate if pick up can get arranged at commonwealth MRT by VWO staff or volunteer",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "01 Jul 2021",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "93918",
-    "name": "chest of drawers",
-    "description": "Ikea Hemnest chest of drawers, image from Ikea website. I moved out and left mine at my old place. Condition very well maintained, sturdy, the drawers work as good as new, smooth open-close and very clean inside. A little bit of paint chipped on the corners (not the wood). Was used to keep books.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "15 Jun 2021",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "93917",
-    "name": "wardrobe",
-    "description": "2 doors with mirror, very well maintained. Both side have the same configuration. it's huge so may need  disassembling and reassembling",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "15 Jun 2021",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "93916",
     "name": "A Pair of swivel chair",
     "description": "A pair (2pcs) of Ikea Langfjall swivel chairs. white, condition very well maintain, recently wash, almost as good as new. no casters. I'm moving out so won't need it anymore.",
     "location": "Serangoon Garden, Hougang, Ponggol",
     "validTill": "15 Jun 2021",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "93914",
-    "name": "2 seater red sofa",
-    "description": "Red fabric sofa.\nFrom Crate & Barrel.\nGood condition.\nCushion covers - machine washable.\nFirm cushion fillers.",
-    "location": "Orchard, Cairnhill, River Valley",
-    "validTill": "30 Jun 2021",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -350,16 +320,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "93824",
-    "name": "4 door cupboard, dresser and Side table",
-    "description": "All items in good condition. The legs of the items have scratches due to movements. Other than that they are perfectly fine. \nGood wood. Contact me at 9021 8492 directly to liase.",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "15 Jun 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "93823",
     "name": "cd",
     "description": "ALL ABOUT 50++ PCES\n\nGOT CARTOON,DRAMA SHOW,AND MORE",
@@ -466,16 +426,6 @@
     "location": "Katong, Joo Chiat, Amber Road",
     "validTill": "05 Jul 2021",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "93792",
-    "name": "Sofa",
-    "description": "Sofa",
-    "location": "Raffles Place, Cecil, Marina, People's Park",
-    "validTill": "10 Jun 2021",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -640,6 +590,16 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
+    "id": "93930",
+    "name": "Solid wood TV console",
+    "description": "WoodenTV console with 3 drawers",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "13 Jun 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "93710",
     "name": "Wooden coffee table",
     "description": "Sturdy rectangular wooden coffee table",
@@ -685,6 +645,16 @@
     "description": "Single Bed with mattress.  There is a pull out bed also with mattress",
     "location": "Queenstown, Tiong Bahru",
     "validTill": "03 Jul 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "93928",
+    "name": "Fabric Sofa Set",
+    "description": "Sofa Set",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "01 Jul 2021",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
@@ -806,16 +776,6 @@
     "location": "Queenstown, Tiong Bahru",
     "validTill": "02 Jul 2021",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "93639",
-    "name": "Bed frame foldable",
-    "description": "Foldable bed",
-    "location": null,
-    "validTill": "30 Jun 2021",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
