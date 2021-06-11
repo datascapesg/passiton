@@ -1,6 +1,57 @@
 {
   "requests": [
     {
+      "id": "94140",
+      "name": "laptop",
+      "description": "A sec 4 girl is having difficulty catching up with his school as she has to share one laptop with the rest of her siblings. Hence this is top priority for the sake of her education",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Nur Syazwani Binte Kamsani",
+        "email": "Syazwanikamsani@amkfsc.org.sg",
+        "phone": [
+          "64535349",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "11 Jun 2021"
+    },
+    {
+      "id": "94138",
+      "name": "Wardrobe for children's clothes",
+      "description": "Family is staying with their one year old child. Wife is unable to work as she needs to take care of their child, and husband is working as a cleaner and earns a low income. They need a wardrobe for the daughter's clothes as they currently have no storage unit for it.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Annabel Dass",
+        "email": "annabeldass@fycs.org",
+        "phone": [
+          "69783483",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Jun 2021"
+    },
+    {
+      "id": "94137",
+      "name": "Wheelchair needed",
+      "description": "Client is an elderly woman who has trouble with her eyesight. She is a single mother and one of her children is in a nursing home. She requires a wheelchair to go for her medical appointments.",
+      "specifications": null,
+      "contact": {
+        "org": "Rotary Family Service Centre",
+        "name": "Nur Hamizah Bte Abdul Rahim",
+        "email": "nurhamizah@rotaryfsc.org",
+        "phone": [
+          "67799488ext26",
+          "67799488"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Jun 2021"
+    },
+    {
       "id": "94134",
       "name": "King Size mattress",
       "description": "4 people will sleep on the matress.\nThey need a NEW mattress and preferably not used ones due to hygiene purposes.\n\nTheir current one is infected with bedbugs. Thus, it will be better if they get a new one.",
@@ -308,38 +359,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "10 Jun 2021"
-    },
-    {
-      "id": "94087",
-      "name": "Microwave",
-      "description": "Client lives in a 1room/1 hall rental flat with her husband and two school going children (14 and 11). Client is unemployed due to health issues and husband was recently retrenched due to Covid. Client has significant financial hardship and client does not have a microwave at home. Client request for a microwave to ease her children to heat food after school.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Dini Dzulaikha Bte Dzulkifli",
-        "email": null,
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "10 Jun 2021"
-    },
-    {
-      "id": "94086",
-      "name": "Blender",
-      "description": "Client lives in a 1room/1 hall rental flat with her husband and two school going children (14 and 11). Client is unemployed due to health issues and husband was recently retrenched due to Covid. Client has significant financial hardship and client's blender has become faulty. Client requested for a blender that can help her with the cooking.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Dini Dzulaikha Bte Dzulkifli",
-        "email": null,
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "10 Jun 2021"
     },
     {
@@ -3253,9 +3272,19 @@
   ],
   "offers": [
     {
-      "id": "94135",
-      "name": "Juicer/Blender",
-      "description": "Overstocked juicer/blender\nNew never used\n5 piece item (see foto_\nSmall and compact\nA bit noisy \nMade in China\n\n2 pieces available\n\nPlease indicate taking one piece or 2 piece thank you!",
+      "id": "94139",
+      "name": "Japanese Language Books and DVD",
+      "description": "Japanese Language Books\n- Good condition\n- Elementary\n- Grammer\n- Dictionary\n- 11 books, 2 CD\n\nDelivery only to Toa Payoh Serangoon and Braddell.  Petrol too expensive cannot afford to go so far.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "11 Jul 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "94136",
+      "name": "Fishing rod bag",
+      "description": "Fishing rod bag for fishing rods\nNew item\n120cm height, 10cm by 8cm width\nWith shoulder sling\nFew pieces to give away for needy family or for VWO if it is allowed.\n\nCan deliver to Serangoon Toa Payoh and Braddell only.  Too far petrol very expensive.",
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "11 Jul 2021",
       "ageInYears": 1,
@@ -3297,16 +3326,6 @@
       "name": "Philips Rice Cooker (preloved)",
       "description": "I have a perfectly working rice cooker to bless. However pls take note I wont be able to pay for the collection fee or send to VWO- Would need to collect from my unit.",
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "11 Jul 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "94125",
-      "name": "King size Mattress, Washing Machine",
-      "description": "I have a king size mattress that I will not be using anymore.\n\nWashing machine 8kg front load looking for new owner as well.",
-      "location": "Yishun, Sembawang",
       "validTill": "11 Jul 2021",
       "ageInYears": 3,
       "dimensions": null,
@@ -3833,16 +3852,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "93845",
-      "name": "Gas Hob, Teka 90cm 4 Gas Burners",
-      "description": "Available for collection betw 28-30 Jun 2021. Used by Chinese Family, still in good condition, passing it on due to house renovations.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "28 Jun 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "93844",
       "name": "Sofa, 3m Fabric 3-seater with extra cover set",
       "description": "Overall dimensions: L298 D92 H58.5 (back) H42 (seat) + Right sided L-arm L178 W77.5.  Available for collection betw 28-30 Jun 2021. Used by Chinese Family, passing it on due to house renovations.",
@@ -3899,16 +3908,6 @@
       "location": "Orchard, Cairnhill, River Valley",
       "validTill": "15 Jun 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93833",
-      "name": "Stroller with accessories",
-      "description": "Very comfortable stroller for babies/kids. \nStroller is bigger & heavier in terms of size but is firm and stable.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "06 Jul 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
