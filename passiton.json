@@ -1337,22 +1337,6 @@
       "date": "04 Jun 2021"
     },
     {
-      "id": "93684",
-      "name": "Evaporative air cooler",
-      "description": "Low income family of 5 young children needs an evaporative air cooler as some family members have enzyme. So they need cooler air to sleep. Would appreciate donation of working cooler or purchase of new ones. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Josherine Toh",
-        "email": "josherinetoh@carecorner.org.sg",
-        "phone": [
-          "64761481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "03 Jun 2021"
-    },
-    {
       "id": "93683",
       "name": "Washing machine",
       "description": "Client is a 65 year-old widow. She is unemployed and has several health issues. Her sons are unable to support her financially as they are not coping well with their mental health issues. Client requires a washing machine to replace her faulty one.",
@@ -2680,6 +2664,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "94181",
+      "name": "Baby and toddler clothes",
+      "description": "Lightly worn",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "13 Jul 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "94179",
       "name": "Dining table set",
