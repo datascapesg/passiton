@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "94196",
-      "name": "Small Dining Table",
-      "description": "Single mother with two young children needs a small dining table for her 2 room rental flat. Please respond if you are keen to donate. Note: Donor to pay for the delivery fee.",
-      "specifications": null,
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Melody Chan",
-        "email": "melodychan@fycs.org",
-        "phone": [
-          "81217685",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Jun 2021"
-    },
-    {
       "id": "94195",
       "name": "S26 Stage 3 (2 tins)",
       "description": "Single mother with 2 young children is making ends meet and needs help with milk powder. Please respond if you are keen to donate.",
@@ -2567,6 +2550,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "94198",
+      "name": "Ikea White Wardrobe",
+      "description": "The wardrobe is still in good working condition",
+      "location": "Orchard, Cairnhill, River Valley",
+      "validTill": "20 Jun 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "94197",
+      "name": "Baby Cot",
+      "description": "Baby cot from Mothercare, with new mattress unused. \nHave dismantle the cot, need to fix it up.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "13 Jul 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "94193",
       "name": "Foldable round table",
