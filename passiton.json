@@ -187,22 +187,6 @@
       "date": "11 Jun 2021"
     },
     {
-      "id": "94118",
-      "name": "Wardrobe",
-      "description": "A single mother hopes to have a wardrobe for her HDB rental flat which she got from the government.  She has 3 young children. She is unable to work because her youngest child still needs breastfeeding. She relies on financial assistance to meet the family basic needs.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Jun 2021"
-    },
-    {
       "id": "94113",
       "name": "Refrigerator",
       "description": "Client requires a refrigerator to store his groceries. Client is not able to sustain his employment due to his incarceration background and poor cognitive functioning. As such, he takes ad-hoc jobs as in when he is provided.",
@@ -2550,6 +2534,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "94199",
+      "name": "Air Flyer",
+      "description": "air flyer to give  out",
+      "location": null,
+      "validTill": "13 Jul 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "94198",
       "name": "Ikea White Wardrobe",
