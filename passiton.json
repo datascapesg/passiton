@@ -268,22 +268,6 @@
       "date": "10 Jun 2021"
     },
     {
-      "id": "94100",
-      "name": "Television",
-      "description": "Single father with 5yo is requesting for a TV. The one that he has is spoilt.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Jane Antony",
-        "email": "jane@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Jun 2021"
-    },
-    {
       "id": "94098",
       "name": "Clothes Cupboard",
       "description": "Father and son (still schooling) shifting into their new 1-room rental flat is requesting for a cupboard for their home. Thank you very much.",
@@ -2599,6 +2583,46 @@
     }
   ],
   "offers": [
+    {
+      "id": "94191",
+      "name": "Rice cooker",
+      "description": "It's still in perfect working condition",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "30 Jun 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "94190",
+      "name": "portable table",
+      "description": "item at amk street 12",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "19 Jun 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "94189",
+      "name": "children’s bag",
+      "description": "item at amk street 12",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "23 Jun 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "94188",
+      "name": "One pair of crutches",
+      "description": "One pair of crutches. (Purchased in March 2021, used for roughly three weeks.)",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "13 Jul 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "94187",
       "name": "Crutches",
