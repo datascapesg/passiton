@@ -1,6 +1,73 @@
 {
   "requests": [
     {
+      "id": "94330",
+      "name": "Adult Diapers (Lifree)",
+      "description": "Recently divorced elderly, 70 years old, requires assistance with getting diapers as she is unable to afford them on her own. Due to her recent change in marital status, she is no longer supported by her children or ex-husband, leaving her with rental and bill arrears. Hoping to find a donor who would be able to sponsor some adult diapers so she may alleviate costs for her medical needs. She prefers Lifree brand as it does not cause discomfort to her.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Yishun",
+        "name": "Dian Maisarah Sulaiman",
+        "email": "dian.maisarah@montfortcare.org.sg",
+        "phone": [
+          "64848040"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Jun 2021"
+    },
+    {
+      "id": "92498",
+      "name": "Laptop",
+      "description": "Client is a mother of 2 toddlers and hopes to seek your kind provision of a laptop (with Microsoft Office installed) as she is embarking on her new journey under the SGUnited Skills (SGUS) programme. Client is really excited entering into a new season of her life after being a homemaker and main caregiver of her toddlers. Your blessing of a laptop would truly spark joy and encouragement in her life. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Transitional Shelter",
+        "name": "Siti Syuhada Binte Shahbudin",
+        "email": "siti_syuhada@awwa.org.sg",
+        "phone": [
+          "65117274",
+          "65117272"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Jun 2021"
+    },
+    {
+      "id": "94329",
+      "name": "Dumex Dulac Stage 1",
+      "description": "Client's EDD is 22 June but have yet to prepare her baby items. Client is currently unemployed and would not be able to afford these items. Client would need 1)Dumex Dulac Stage 1 2)Milk bottles-3 3)Drypers newborn 4)Newborn clothes (neutral) 5)Bathtub 6)Baby mattress",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Syarifah Amirah Binte Jumat",
+        "email": "syarifahamirah1@fycs.org",
+        "phone": [
+          "91266100",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Jun 2021"
+    },
+    {
+      "id": "94328",
+      "name": "Milk bottles",
+      "description": "Client's EDD is 22 June but have yet to prepare her baby items. Client is currently unemployed and would not be able to afford these items. Client would need \n\n1)Dumex Dulac Stage 1 \n2)Milk bottles-3\n3)Drypers newborn\n4)Newborn clothes (neutral)\n5)Bathtub\n6)Baby mattress",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Syarifah Amirah Binte Jumat",
+        "email": "syarifahamirah1@fycs.org",
+        "phone": [
+          "91266100",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Jun 2021"
+    },
+    {
       "id": "94326",
       "name": "Wardrobe",
       "description": "Client is the main caregiver of 3 children(aged 17, 9 and 3 years old)  lives with husband in a rented flat. Client is experiencing marital issues. Husband is the sole breadwinner who is earning low income and is not supporting the family. The eldest child has stopped schooling to provide caregiving duties for the youngest child due to HBL while client is out souring for a job. Client's current clothing wardrobe is in poor condition and would need a replacement to store the whole family's clothing.",
@@ -2711,6 +2778,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "94327",
+      "name": "Boy Clothing",
+      "description": "Boy clothing for aged around 2 years old",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "15 Jul 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "94325",
       "name": "Baby Walker cum Ride-on (2-in-1)",
