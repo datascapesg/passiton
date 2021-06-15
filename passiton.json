@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "94302",
+      "name": "Washing Machine",
+      "description": "Clients are two elderly ladies who will be moving to their rental flat very soon! They will need the washing machine to do laundry. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "New Hope Community Services",
+        "name": "Teo Xiao Ting",
+        "email": "xiaoting@newhopecs.org.sg",
+        "phone": [
+          "63059635",
+          "63059620"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "15 Jun 2021"
+    },
+    {
+      "id": "94301",
+      "name": "Refrigerator",
+      "description": "Clients are two elderly ladies who will be moving into their rental flat soon! They will need a refrigerator to store their food items as they cook. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "New Hope Community Services",
+        "name": "Teo Xiao Ting",
+        "email": "xiaoting@newhopecs.org.sg",
+        "phone": [
+          "63059635",
+          "63059620"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "15 Jun 2021"
+    },
+    {
       "id": "94295",
       "name": "Fridge",
       "description": "The family is in need of a new or second hand fridge. The item will be directly sent to beneficiary's home. Please contact us for delivery details. * Note: Delivery costs will be covered by donors. We appreciate your kind donation and generosity. Every makes a difference!",
@@ -2599,6 +2633,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "94303",
+      "name": "Grey Fabric 2 Seater Sofa",
+      "description": "Grey fabric couch in good condition with no visible stains or defects. Giving away as I am getting a bigger sofa.",
+      "location": "Anson, Tanjong Pagar",
+      "validTill": "30 Jun 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "94300",
+      "name": "Baby cot",
+      "description": "Full size baby cot with adjustable height and railings. Can fit from infant to age 4-5 years old. White in colour with canopy and wooden frame.",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "18 Jun 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "94299",
+      "name": "Wooden Sofa Set",
+      "description": "1x3-Seater, 2x1-Seater. This belongs to my mother-in-law, please check with her directly at 9030-7200 for the dimensions.",
+      "location": null,
+      "validTill": "01 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "94298",
       "name": "Nursing mother's Freemie collection cups",
