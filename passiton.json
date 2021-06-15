@@ -1,6 +1,70 @@
 {
   "requests": [
     {
+      "id": "94349",
+      "name": "Mircowave",
+      "description": "Client is a middle aged lady who does not have enough money to buy a microwave at home for her food as she is not working currently due to chronic health issues. She is currently on financial assistance, but it is only enough to cover her basic needs and not replace her microwave. It would be very helpful if a donor could donate a new or preloved microwave in good working condition so that she can cook her food to meet her own basic needs. Thank you for helping client!",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Punggol",
+        "name": "Anabelle Lim",
+        "email": "anabellelim@amkfsc.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Jun 2021"
+    },
+    {
+      "id": "94347",
+      "name": "Television",
+      "description": "Client has multiple chronic medical conditions and is certified permanently unfit for work. His wife is a foreigner and is unable to work due to caregiving needs. The couple has no access to TV for more than a year as they have no financial means to repair their faulty TV or purchase a new one. They are relying on SSO financial assistance. Due to deteriorating health, client is relatively homebound with limited activities to do. A TV donation will enable client to occupy his leisure time more meaningfully and allow his wife to have some respite from caregiving.",
+      "specifications": "Flat screen TV (can be second hand)",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Ang Bi Xia",
+        "email": "angbixia@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Jun 2021"
+    },
+    {
+      "id": "94346",
+      "name": "Cloth drying rack",
+      "description": "",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Jun 2021"
+    },
+    {
+      "id": "94345",
+      "name": "Fan (Standing)",
+      "description": "\"Client is single mother, sole breadwinner of the family of 6. Client\n is earning minimal income with growing consumption needs. The furniture at home are wearing and tearing.\"",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Jun 2021"
+    },
+    {
       "id": "94344",
       "name": "Washing machine",
       "description": "Family of 5 (with 3 young children) staying in a rental flat. Current washing machine is not working and parents are unable to afford a new purchase as they do not have regular monthly income currently.",
@@ -450,22 +514,6 @@
       "id": "94295",
       "name": "Fridge",
       "description": "The family is in need of a new or second hand fridge. The item will be directly sent to beneficiary's home. Please contact us for delivery details. * Note: Delivery costs will be covered by donors. We appreciate your kind donation and generosity. Every makes a difference!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Peng Hui",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Jun 2021"
-    },
-    {
-      "id": "94294",
-      "name": "Furniture",
-      "description": "1.Single size mattress 2.Racks for putting plates, bowls, cups and glasses, no size specific 3. Wardrobe, no size specific. All the above items are not brand. The furniture will be directly sent to beneficiary's home. Please contact us for delivery details. * Note: Delivery costs will be covered by donors. We appreciate your kind donation and generosity. Every makes a difference!",
       "specifications": null,
       "contact": {
         "org": "Singapore Children's Society - Yishun FSC",
@@ -2911,6 +2959,26 @@
   ],
   "offers": [
     {
+      "id": "94350",
+      "name": "2-seater couch",
+      "description": "2-seater blue couch, leather",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "15 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "94348",
+      "name": "IKEA double bed with mattress, dismantled, IKEA set of drawers",
+      "description": "Bed frame dismantled with a double size mattress IKEA, good condition \nSet of drawers, 4 level good condition except for scratches on top, IKEA, 70x100 cm",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "15 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "94340",
       "name": "Leather Sofa",
       "description": "brown leather sofa which is still in very good condition. large enough for 3 or even 4 people to sit. sofa comes in 2 portions, so you can arrange according to your living room space.",
@@ -3047,16 +3115,6 @@
       "location": null,
       "validTill": "20 Jun 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "94286",
-      "name": "Double bed",
-      "description": "It has a head board as well. Comes with an additional IKEA bed matelas",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-      "validTill": "01 Jul 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3831,16 +3889,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "93844",
-      "name": "Sofa, 3m Fabric 3-seater with extra cover set",
-      "description": "Overall dimensions: L298 D92 H58.5 (back) H42 (seat) + Right sided L-arm L178 W77.5.  Available for collection betw 28-30 Jun 2021. Used by Chinese Family, passing it on due to house renovations.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "28 Jun 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "93840",
       "name": "Ikea Customised Study Desk",
       "description": "Ikea customised desk, white colour with red legs. \nAdditional white leg in the middle for stability.\nUsed less than 1 year, no stains or scratches.\nSuitable for 2 adults.\nCan support up to 30-35kg of weight.",
@@ -4084,16 +4132,6 @@
       "id": "93677",
       "name": "Wardrobe",
       "description": "Wardrobe with 2 drawers. Good condition",
-      "location": "Telok Blangah, Harbourfront",
-      "validTill": "23 Jun 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93671",
-      "name": "Shoe cabinet",
-      "description": "Super Single bed c/w mattress and 3 drawers.",
       "location": "Telok Blangah, Harbourfront",
       "validTill": "23 Jun 2021",
       "ageInYears": 4,
