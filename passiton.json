@@ -1,6 +1,22 @@
 {
   "requests": [
     {
+      "id": "94344",
+      "name": "Washing machine",
+      "description": "Family of 5 (with 3 young children) staying in a rental flat. Current washing machine is not working and parents are unable to afford a new purchase as they do not have regular monthly income currently.",
+      "specifications": "Front load, 7kg and above with hot water.",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Ang Bi Xia",
+        "email": "angbixia@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Jun 2021"
+    },
+    {
       "id": "94343",
       "name": "Oven",
       "description": "Family has 3 school-going children. The family is experiencing financial difficulty and is unable to afford for an oven. The family would greatly benefit by receiving an oven.",
@@ -4171,16 +4187,6 @@
       "location": null,
       "validTill": "01 Jul 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93757",
-      "name": "Baby  Pram/Stroller",
-      "description": "Peg Pete Go Pliko, Very good condition, becomes flat. Easy to fold, sturdy. Pet free, smoke free house.",
-      "location": "Orchard, Cairnhill, River Valley",
-      "validTill": "25 Jun 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
