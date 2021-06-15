@@ -1,6 +1,56 @@
 {
   "requests": [
     {
+      "id": "94309",
+      "name": "Wardrobe",
+      "description": "Clt was a single mother and still looking for jobs, finding hard to make ends meet with young children to care for. Her wardrobe has given way and requires proper storage to keep her and her childrens' clothes to prevent clutter.  Appreciate your kind assistance.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Jun 2021"
+    },
+    {
+      "id": "94308",
+      "name": "Dressing table",
+      "description": "Family requires a dressing table to put their belongings. The family has unstable employment due to mental health issue which led to financial issue and unable to have resources to meet their need.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Syarifah Amirah Binte Jumat",
+        "email": "syarifahamirah1@fycs.org",
+        "phone": [
+          "91266100",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Jun 2021"
+    },
+    {
+      "id": "94307",
+      "name": "2 new single mattresses",
+      "description": "Client is a divorcee with a son, they are currently staying in a rental flat. Client is currently unemployed, and she is in the midst of looking for employment. Family requires a replacement of their mattresses and sofa as their existing ones are currently worn-out, client reported that the metal spring from this furniture is protruding out and is causing her to have back pains when she sleeps on it. However, family does not have the financial means to afford a replacement given the current financial strain. Client's son has eczema so client is requesting for the items to be preferable new, so as to prevent any aggravation to his skin condition",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Syarifah Amirah Binte Jumat",
+        "email": "syarifahamirah1@fycs.org",
+        "phone": [
+          "91266100",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Jun 2021"
+    },
+    {
       "id": "94302",
       "name": "Washing Machine",
       "description": "Clients are two elderly ladies who will be moving to their rental flat very soon! They will need the washing machine to do laundry. Thank you!",
@@ -324,22 +374,6 @@
         "email": "reinachantelle@mws.sg",
         "phone": [
           "62828558"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Jun 2021"
-    },
-    {
-      "id": "94238",
-      "name": "Baby pram",
-      "description": "She’s a mother of two primary school kids living at rental block. She is going to give birth in Aug. A donation of a Pram will be greatly appreciated. (Iris)",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Teddy Fu",
-        "email": "teddyfu@thkmc.org.sg",
-        "phone": [
-          "64491440"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2549,22 +2583,22 @@
   ],
   "offers": [
     {
+      "id": "94306",
+      "name": "Hospital Bed",
+      "description": "3 Crank Electrical Luxury Hospital Bed\n\n    S$1,600.00\n\nThe 3 Crank Electrical Hospital Bed New Luxury Version has split side panels such that the user can hold on to one of the side rails for added safety and stability while getting off the bed.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "15 Jul 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "94305",
       "name": "Mocca leather 2.5 sofa",
       "description": "2.5 leather sofa, well kept condition",
       "location": "Queenstown, Tiong Bahru",
       "validTill": "20 Jun 2021",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "94303",
-      "name": "Grey Fabric 2 Seater Sofa",
-      "description": "Grey fabric couch in good condition with no visible stains or defects. Giving away as I am getting a bigger sofa.",
-      "location": "Anson, Tanjong Pagar",
-      "validTill": "30 Jun 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2765,16 +2799,6 @@
       "location": "Orchard, Cairnhill, River Valley",
       "validTill": "21 Jun 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "94225",
-      "name": "Mattress pad, Queensize",
-      "description": "As we are leaving Singapore, we cant take our beloved mattress topper with us. It made a huge difference for sleep comfort for us. Absolute recommendation!! The cover of the pad can be taken off and washed. \n\nIkea Mattress Pad/Topper Tussöy (white). Good condition. \nDimensions: 150x200 cm (Queensize)\nOriginal price: 299S$\nCondition: 7/10\nMore info on product: \n\nhttps://www.ikea.com/sg/en/p/tussoey-mattress-pad-white-00298133/",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "19 Jun 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
