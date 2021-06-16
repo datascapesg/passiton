@@ -1,6 +1,39 @@
 {
   "requests": [
     {
+      "id": "94386",
+      "name": "Refridgerator",
+      "description": "The family of four (parents with two school-going children) are facing financial difficulties. Their fridge is spoilt but do not have sufficient funds to get another, thus requesting for donations.",
+      "specifications": "71 x 77 x 175 (Width x Depth x Height in cm)",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@amkfsc.org.sg",
+        "phone": [
+          "64546678ext217",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Jun 2021"
+    },
+    {
+      "id": "94385",
+      "name": "Microwave for Muslim Family",
+      "description": "Single mother with 4 children is looking for a microwave. This will help her children prepare food safely for themselves when she goes to work. The family would require a new item or donations from a Muslim family due to Halal requirements. They are also unable to cover the cost for delivery. Please contact Fumi at fscqt.intern2@carecorner.org.sg or 6978 4340, thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Rachel Ong",
+        "email": "rachelong@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Jun 2021"
+    },
+    {
       "id": "94383",
       "name": "Rations needed",
       "description": "Single mother with two young children requires small amount of frozen rations and soap/laundry supplies. Please whatsapp me at 8109-6845 if donor keen to donate. Thanks.",
@@ -280,22 +313,6 @@
       "date": "15 Jun 2021"
     },
     {
-      "id": "94346",
-      "name": "Cloth drying rack",
-      "description": "",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Jun 2021"
-    },
-    {
       "id": "94344",
       "name": "Washing machine",
       "description": "Family of 5 (with 3 young children) staying in a rental flat. Current washing machine is not working and parents are unable to afford a new purchase as they do not have regular monthly income currently.",
@@ -511,22 +528,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "15 Jun 2021"
-    },
-    {
-      "id": "94321",
-      "name": "Cloth drying rack",
-      "description": "",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "15 Jun 2021"
     },
     {
@@ -768,22 +769,6 @@
         "email": "fsceast@ppis.sg",
         "phone": [
           "69503503"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Jun 2021"
-    },
-    {
-      "id": "94252",
-      "name": "Diaper- MamyPoko pants Extra Dry Skin, Pants, Girls, XXXL",
-      "description": "Client is the current sole breadwinner of the household as husband was incarcerated (due to release in July 2021). The family is living in a public rental flat, with household consisting of client and 3 young daughters aged 10, 4 and 8 months old. Due to limited income, client resorted to borrowing money from family to make ends meet. With this supply of diapers, it would help client reduce her financial load.",
-      "specifications": "6 packs if possible",
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3019,16 +3004,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "94374",
-      "name": "Mini microwave and oven grill",
-      "description": "Moving out. Standing compact 1 microwave and 1 oven grill in usable condition.",
-      "location": "Orchard, Cairnhill, River Valley",
-      "validTill": "16 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "94373",
       "name": "Queen size mattress with storage bedframe",
       "description": "Moving out. 8 years old queen size bedframe with storage underneath, equipped with hydraulic pump for easy lifting. Queen size mattress is about 3 years old, in good condition aside a slight discoloration on the side due to red wine spill.",
@@ -3095,16 +3070,6 @@
       "location": "Seletar",
       "validTill": "25 Jun 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "94354",
-      "name": "Cupboard",
-      "description": "Kids cupboard",
-      "location": "Seletar",
-      "validTill": "26 Jun 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3335,16 +3300,6 @@
       "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
       "validTill": "27 Jun 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "94232",
-      "name": "Breast Pump",
-      "description": "Used only for 5 months. In new condition. Bottles unused. Comes with spare parts and in the box.",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "14 Jul 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3585,6 +3540,16 @@
       "location": null,
       "validTill": "18 Jun 2021",
       "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "94384",
+      "name": "Ikea pine laminate with removable adjustable legs",
+      "description": "Ikea Table with removable adjustable legs\nGood for family with space constraints as table can be installed or disassemble easily and tucked away conveniently.\n\nVery good condition.\n\nHas 4 sets - please indicate number.\n\nDelivery only to Toa Payoh Serangoon or Braddell",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "11 Jul 2021",
+      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4325,16 +4290,6 @@
       "location": null,
       "validTill": "01 Jul 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93758",
-      "name": "Baby  Pram/Stroller",
-      "description": "Peg Pete Go Pliko, Very good condition, becomes flat. Easy to fold, sturdy. Pet free, smoke free house.",
-      "location": "Orchard, Cairnhill, River Valley",
-      "validTill": "25 Jun 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
