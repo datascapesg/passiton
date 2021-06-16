@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "94387",
+      "name": "New phone",
+      "description": "A mum from a low-income family needs a new phone in order to keep in contact with her family and make medical appointments, etc. Her current phone is faulty and overheating with an old battery, which cannot be replaced as the phone model is too outdated. She has 2 young children and is due to give birth anytime soon. She will need a phone to keep in touch with her children while she is in hospital.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Victoria Chong",
+        "email": "victoriachong@fycs.org",
+        "phone": [
+          "69783482",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Jun 2021"
+    },
+    {
       "id": "94386",
       "name": "Refridgerator",
       "description": "The family of four (parents with two school-going children) are facing financial difficulties. Their fridge is spoilt but do not have sufficient funds to get another, thus requesting for donations.",
@@ -2994,6 +3011,36 @@
   ],
   "offers": [
     {
+      "id": "94393",
+      "name": "Kuche clothes dryer",
+      "description": "Fully functioning clothes dryer.",
+      "location": null,
+      "validTill": "16 Jul 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "94392",
+      "name": "Study chair",
+      "description": "Ikea brand. Very good condition. More suitable for child up to primary school level, due to its size.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "16 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "94391",
+      "name": "Double bed. Size is super single.",
+      "description": "King Koil brand. Comes with 2 mattresses. Some cat scratch marks but still very good condition. Changing bed now because daughter wants new design.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "16 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "94382",
       "name": "Computer chair",
       "description": "Computer chair - leather",
@@ -4140,16 +4187,6 @@
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "01 Jul 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93697",
-      "name": "2.5 seater fabric sofa",
-      "description": "Still in good condition and located in Tampines St 71",
-      "location": "Watten Estate, Novena, Thomson",
-      "validTill": "30 Jun 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
