@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "94368",
+      "name": "Nestle Resource 2.0",
+      "description": "Client has Stage 4 Throat Cancer. He had surgery to remove tumor from his throat recently and lost his ability to speak. Nestle Resource 2.0 is his only sustenance during this recovery period. He needs it as it replaces his daily meals.\n\nClient was the sole breadwinner. Family is struggling with expenses as he is unable to work now.",
+      "specifications": null,
+      "contact": {
+        "org": "AIN Society",
+        "name": "Nur'Ain Binte Mohamed Said",
+        "email": "nurain@ainsociety.org.sg",
+        "phone": [
+          "68485116",
+          "68485166"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Jun 2021"
+    },
+    {
       "id": "94363",
       "name": "Fresh vegetables and rations",
       "description": "Mother of 5 children is struggling with limited household income to care for her children. They are now aged between 11-18 and she finds it a challenge to manage her expenses while providing healthy food for them when it is towards month end due to lack of money. Mother is hoping to get some fresh vegetables and food rations for her family as she struggles towards the month end.",
@@ -37,22 +54,6 @@
       "id": "94360",
       "name": "Baby items",
       "description": "Client is a single unwed mother who is presently 7mo+ pregnant. Client will require support in obtaining the following items: Baby cot, pram, newborn diapers, breast pump to prepare for the arrival of her newborn daughter.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Koh Fang Qi",
-        "email": "kohfangqi@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Jun 2021"
-    },
-    {
-      "id": "94359",
-      "name": "Queen size bed with mattress",
-      "description": "Client is a single unwed mother who is presently 7mo+ pregnant. Client will require support in obtaining a Queen size bed with mattress",
       "specifications": null,
       "contact": {
         "org": "AMKFSC Community Services Ltd - Sengkang",
@@ -2941,6 +2942,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "94369",
+      "name": "Fabric Sofa Bed",
+      "description": "Fabric sofa bed",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "30 Jun 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "94366",
       "name": "Walking Frame (Foldable)",
