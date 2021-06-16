@@ -1,6 +1,22 @@
 {
   "requests": [
     {
+      "id": "94383",
+      "name": "Rations needed",
+      "description": "Single mother with two young children requires small amount of frozen rations and soap/laundry supplies. Please whatsapp me at 8109-6845 if donor keen to donate. Thanks.",
+      "specifications": null,
+      "contact": {
+        "org": "Hougang Sheng Hong Family Service Centre",
+        "name": "Angie Tan",
+        "email": "angenette@shenghong.org.sg",
+        "phone": [
+          "62895022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Jun 2021"
+    },
+    {
       "id": "94381",
       "name": "Milk and Diapers",
       "description": "2 different family, both single mothers with 2 young children ranges from 3-8 years old. Both does not have support from their husband and one of them is unemployed due to caregiving issues and is having difficulties to send children to childcare at this moment due to financial difficulties. Looking for Milk Powder preferably brands from the Abbott family. Milk Powder for age 3-5 years old. Diapers size L-XL\n\nKindly contact Ms Taferine at 96777165 should there be anyone who is able to fulfill this request via Whatsapp. Thank you.",
@@ -949,23 +965,6 @@
         "email": "nurnadhirah.abukhalid@ppis.sg",
         "phone": [
           "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Jun 2021"
-    },
-    {
-      "id": "94215",
-      "name": "Light Soya Sauce",
-      "description": "Our home need 40 bottles Light Soya Sauce (any brand) for our 522 elderly residents. Thank you",
-      "specifications": null,
-      "contact": {
-        "org": "Ju Eng Home For Senior Citizens",
-        "name": "Lee Jun Hui",
-        "email": "junhui@jeh.org.sg",
-        "phone": [
-          "64846890ext127",
-          "64846890"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3009,6 +3008,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "94382",
+      "name": "Computer chair",
+      "description": "Computer chair - leather",
+      "location": "Jurong",
+      "validTill": "16 Jul 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "94374",
       "name": "Mini microwave and oven grill",
