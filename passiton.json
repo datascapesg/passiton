@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "94410",
+      "name": "Television",
+      "description": "An elderly staying with her mother is requesting for a donated television to be sent directly to their house. They are both unemployed due to multiple medical condition. They would benefit having a television as their current one is broken, and they stay indoor most of the time during this Covid-19 period.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Siti Raudhah Bte Azman",
+        "email": "sitiraudhah@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Jun 2021"
+    },
+    {
+      "id": "94409",
+      "name": "Fan",
+      "description": "Family of 9, with 7 children below 10 YO, have children who with eczema skin condition. Father was not able to work due to medical issues and the family lost a substantial amount of income. Family now depends on mother's income as the sole breadwinner. The donation will greatly reduce the eczema condition as well as the financial stress on the couple. Family is requesting for 1 or 2 standing or table fan as their current one is broken.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Siti Raudhah Bte Azman",
+        "email": "sitiraudhah@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Jun 2021"
+    },
+    {
       "id": "94406",
       "name": "2 new single mattresses",
       "description": "Client is a divorcee with a son, they are currently staying in a rental flat. Client is currently unemployed, and she is in the midst of looking for employment. Family requires a replacement of their mattresses and sofa as their existing ones are currently worn-out, client reported that the metal spring from this furniture is protruding out and is causing her to have back pains when she sleeps on it. However, family does not have the financial means to afford a replacement given the current financial strain. Client's son has eczema so client is requesting for the items to be preferable new, so as to prevent any aggravation to his skin condition",
@@ -2980,6 +3014,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "94412",
+      "name": "baby gate",
+      "description": "Safety 1st Easy Install Metal Baby Gate with Pressure Mount Fastening (White)",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "17 Jul 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "94411",
+      "name": "Stroller",
+      "description": "Sliver cross foldable stroller. Union Jack flag design. In fantastic shape. Our son has outgrown.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "17 Jul 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "94408",
       "name": "Baby cot",
