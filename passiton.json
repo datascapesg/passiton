@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "94417",
+      "name": "Replacing power socket / rewiring",
+      "description": "One of client's power socket is currently not working which may require rewiring work. The power socket is near the study table which client's daughter require to use to plug-in her laptop during her home-based learning.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Yew Tee",
+        "name": "Evelyn Chan",
+        "email": "evelynchan@fycs.org",
+        "phone": [
+          "64162158",
+          "64162162"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "17 Jun 2021"
+    },
+    {
       "id": "94410",
       "name": "Television",
       "description": "An elderly staying with her mother is requesting for a donated television to be sent directly to their house. They are both unemployed due to multiple medical condition. They would benefit having a television as their current one is broken, and they stay indoor most of the time during this Covid-19 period.",
@@ -1088,22 +1105,6 @@
         "email": "zulhakim@kkcs.org.sg",
         "phone": [
           "62997662"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "10 Jun 2021"
-    },
-    {
-      "id": "94111",
-      "name": "Washing Machine",
-      "description": "Family is a household of five and have 3 school-going children. They require washing machine as theirs is spoilt.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Amos Liu",
-        "email": "amosliu@amkfsc.org.sg",
-        "phone": [
-          "64355323"
         ]
       },
       "deliveryCostsCoveredByDonor": false,
@@ -3014,6 +3015,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "94416",
+      "name": "Glass study/ office table",
+      "description": "Table in very good condition. No chip at all. Seldom used.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "17 Jul 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "94415",
+      "name": "Rotatable Cabinet with Mirror",
+      "description": "This is a used cabinet. It is rotatable, storage racks on 1 side, a full-length mirror on the opposite side.",
+      "location": "Jurong",
+      "validTill": "15 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "94414",
       "name": "Sofa bed - 2 seater - IKEA Lycksele",
