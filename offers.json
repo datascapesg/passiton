@@ -1,5 +1,15 @@
 [
   {
+    "id": "94480",
+    "name": "Weighing Scale",
+    "description": "It's hardly used",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "25 Jun 2021",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "94479",
     "name": "Electronic jettle",
     "description": "Toyomi 1.8L s/s kettle",
@@ -76,16 +86,6 @@
     "location": "Upper Thomson, Springleaf",
     "validTill": "17 Jul 2021",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "94426",
-    "name": "Blue Sofa",
-    "description": "Dimensions are a close estimate. Sofa is in good condition.",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "17 Jul 2021",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -396,16 +396,6 @@
     "location": "Geylang, Eunos",
     "validTill": "24 Jun 2021",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "94197",
-    "name": "Baby Cot",
-    "description": "Baby cot from Mothercare, with new mattress unused. \nHave dismantle the cot, need to fix it up.",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "13 Jul 2021",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
