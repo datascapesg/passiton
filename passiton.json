@@ -1,6 +1,54 @@
 {
   "requests": [
     {
+      "id": "94524",
+      "name": "Vacuum",
+      "description": "Family has 5 school-going children (from tertiary education to kindergarten). Both parents have incarceration history and hence have difficulties looking for full time employment. Mother is employed part time as a cashier while father does odd jobs to supplement the household income. Family does not have sufficient financial resources, and requires a vacuum cleaner to keep their house clean for their youngest child (3 years old), and prepare for their new baby (Mum is currently 5 months pregnant).",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Jio Hui Zhen",
+        "email": "jiohuizhen@amkfsc.org.sg",
+        "phone": [
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "18 Jun 2021"
+    },
+    {
+      "id": "94523",
+      "name": "XXL Diapers",
+      "description": "Low income family with 5 children (youngest is 3 years old). All children are attending school and tertiary education, and hence are not able to work. Parents have difficulty sustaining long term full time jobs due to past incarceration history. However, they are very committed and pro-active. The parents currently have regular part time jobs, and also take on double shifts (as cashiers and warehouse assistants), while doing food delivery. Financial resources is very tight for the family as they have many children who have complex and growing needs as they are growing up.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Jio Hui Zhen",
+        "email": "jiohuizhen@amkfsc.org.sg",
+        "phone": [
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "18 Jun 2021"
+    },
+    {
+      "id": "94522",
+      "name": "Chest drawer",
+      "description": "A single mother hopes to have a washing machine and wardrobefor her HDB rental flat which she got from the government. She has 3 young children. She is unable to work because her youngest child still needs breastfeeding. She relies on financial assistance to meet the family basic needs.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Jun 2021"
+    },
+    {
       "id": "94516",
       "name": "coffee table (rectangular)",
       "description": "A single mother hopes to have a washing machine and wardrobefor her HDB rental flat which she got from the government.  She has 3 young children. She is unable to work because her youngest child still needs breastfeeding. She relies on financial assistance to meet the family basic needs.",
@@ -3260,6 +3308,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "94525",
+      "name": "Big wooden rack",
+      "description": "Wooden rack",
+      "location": "Little India",
+      "validTill": "18 Jul 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "94521",
       "name": "Black Steel super single bed frame and mattress",
