@@ -1,6 +1,22 @@
 {
   "requests": [
     {
+      "id": "94512",
+      "name": "Laptop",
+      "description": "Client has just lost her job due to multiple health conditions. She is in need of laptop for e-learning.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Ng Shiuh Shuen",
+        "email": "ngshiuhshuen@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Jun 2021"
+    },
+    {
       "id": "94507",
       "name": "Laptop",
       "description": "Client is currently unfit-for-employment for a year due to multiple health conditions. She is depending solely on SSO financial assistance for her daily needs. In this period of time, client hopes to upgrade her IT skills in order to expand her job opportunities and explore home online business for additional income. A laptop will be helpful in this regard. Due to her financial constraints, she is unable to afford a laptop of her own.",
@@ -3229,6 +3245,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "94511",
+      "name": "television",
+      "description": "Akira 32 inch television",
+      "location": "Jurong",
+      "validTill": "01 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "94510",
       "name": "Dining Table (Solid wood)",
