@@ -1191,22 +1191,6 @@
       "date": "15 Jun 2021"
     },
     {
-      "id": "94295",
-      "name": "Fridge",
-      "description": "The family is in need of a new or second hand fridge. The item will be directly sent to beneficiary's home. Please contact us for delivery details. * Note: Delivery costs will be covered by donors. We appreciate your kind donation and generosity. Every makes a difference!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Peng Hui",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Jun 2021"
-    },
-    {
       "id": "94265",
       "name": "Washing Machine",
       "description": "Low-income family staying in rental flat is in need of a replacement of their current washing machine as their current one produces an unpleasant odor.",
@@ -3015,6 +2999,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "94606",
+      "name": "Diaper bag",
+      "description": "Bag is still in good condition. Has lots of compartments. Comes with diaper changing pad.",
+      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+      "validTill": "15 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "94605",
       "name": "Baby Hip Seat Carrier",
