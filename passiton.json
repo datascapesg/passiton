@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "94547",
+      "name": "Respironics Dreamstation with humidifier",
+      "description": "A staff of The Helping Hand Halfway House is diagnosed with obstructive sleep apnea. He is required to sleep with the monitoring of a respironics dreamstation with humidifier every night. He cannot afford to purchase a set of the respoionics dreamstation with humidifier for regulating his breathing while sleeping.",
+      "specifications": null,
+      "contact": {
+        "org": "The Helping Hand",
+        "name": "Chan Toh Han",
+        "email": "chantohhan@thehelpinghand.org.sg",
+        "phone": [
+          "62832204ext120",
+          "62832204"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "19 Jun 2021"
+    },
+    {
+      "id": "94545",
+      "name": "10 tubs of 2.75kg of Planta Margarine",
+      "description": "We are requesting for 10 tubs of 2.75kg of Planta Margarine for cooking or meal for our residents from Monday to Saturday. The Helping Hand is a Voluntary Welfare Organization affiliated with the National Council of Social Service. We run a home providing drug rehabilitation and after-care services to male drug addicts and ex-offenders in Singapore. This is a residential programme carried out in our agency home, which was graciously provided by the Singapore government in recognition of our services to the community. We have a total of about 100 residents and staff staying in at our premises.",
+      "specifications": null,
+      "contact": {
+        "org": "The Helping Hand",
+        "name": "Chan Toh Han",
+        "email": "chantohhan@thehelpinghand.org.sg",
+        "phone": [
+          "62832204ext120",
+          "62832204"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "19 Jun 2021"
+    },
+    {
       "id": "94540",
       "name": "Laptop (with webcam)",
       "description": "Family consisting of parents with school-going children. Father is the sole breadwinner as mother has health issues. Family is unable to afford to buy a laptop and they require it for their child’s home-based learning. (Omai)",
@@ -641,23 +675,6 @@
       "date": "17 Jun 2021"
     },
     {
-      "id": "94406",
-      "name": "2 new single mattresses",
-      "description": "Client is a divorcee with a son, they are currently staying in a rental flat. Client is currently unemployed, and she is in the midst of looking for employment. Family requires a replacement of their mattresses and sofa as their existing ones are currently worn-out, client reported that the metal spring from this furniture is protruding out and is causing her to have back pains when she sleeps on it. However, family does not have the financial means to afford a replacement given the current financial strain. Client's son has eczema so client is requesting for the items to be preferable new, so as to prevent any aggravation to his skin condition",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Champions Way",
-        "name": "Syarifah Amirah Binte Jumat",
-        "email": "syarifahamirah1@fycs.org",
-        "phone": [
-          "91266100",
-          "66901000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Jun 2021"
-    },
-    {
       "id": "92334",
       "name": "Motorized Wheelchair",
       "description": "Client is a single mother of 4 children. Her 4th child has Dandy-walker syndrome and low IQ. Client is unemployed due to health issues and is reliant on SSO FA and St. Vincent De Paul FA. She recently had difficulty walking due to backpain and is now required to use a wheelchair when travelling outside of the home. Client is reliant on her children to push her while in the chair, which is a strain on their body. Client would gain more independence if she received a motorised wheelchair.",
@@ -868,23 +885,6 @@
         "phone": [
           "81217685",
           "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Jun 2021"
-    },
-    {
-      "id": "94375",
-      "name": "LCD/LED Television with Built in Digital Tuner Box",
-      "description": "Male elderly who lives alone in a HDB rental flat and has little income hopes to have a television as he is at home very often with only a radio for company.",
-      "specifications": "24 inch preferred",
-      "contact": {
-        "org": "Metta Welfare Association",
-        "name": "Steven Kuah",
-        "email": "stevenkuah@metta.org.sg",
-        "phone": [
-          "65804643",
-          "65804688"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1281,22 +1281,6 @@
         "email": "tm.vce@carecorner.org.sg",
         "phone": [
           "67866225"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Jun 2021"
-    },
-    {
-      "id": "94249",
-      "name": "Baby Bath Chair",
-      "description": "Client is a 25 year old single mother with a newborn and a 4-year-old child. She is learning to gain independence in caring for the newborn after moving out from her mother's place and a baby bath chair will greatly help to boost her confidence in caring for her newborn.",
-      "specifications": null,
-      "contact": {
-        "org": "Kampong Kapor Community Services",
-        "name": "Gwendoline Ng",
-        "email": "gwendolineng@kkcs.org.sg",
-        "phone": [
-          "62997662"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3096,6 +3080,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "94546",
+      "name": "Single Mattress",
+      "description": "Single mattress from Muji. Good condition.",
+      "location": null,
+      "validTill": "27 Jun 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "94544",
       "name": "Acoustic Drumset",
