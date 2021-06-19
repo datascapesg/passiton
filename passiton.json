@@ -513,22 +513,6 @@
       "date": "17 Jun 2021"
     },
     {
-      "id": "94450",
-      "name": "New Baby Mattress",
-      "description": "Client has a baby daughter. Client and family has just received keys to a new rental flat. Both parents are working but experiencing financial difficulty. They are deeply concerned about their baby daughter’s safety and wellbeing. They are urgently looking for a new mattress in view of their baby’s skin condition.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Sajidah Binte Sazali",
-        "email": "sajidahsazali@amkfsc.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Jun 2021"
-    },
-    {
       "id": "94447",
       "name": "2-3 seater sofa bed",
       "description": "Client is a single mother to 2 youth children, one of whom has special needs and requires constant supervision. She is also the full-time caregiver for her elderly mother who is bed-ridden, and requires oxygen machine to breathe. Due to her caregiving responsibilities, client had not been able to work. The family is moving to a new house which is better equipped for the care of client's mother. However, they do not have the money to get several household items for the new house, as they will have to prioritize the family's daily needs. (Kamie)",
@@ -3129,6 +3113,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "94543",
+      "name": "Baby walker",
+      "description": "Item still in good condition",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "19 Jul 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "94542",
       "name": "Plates and bowls",
