@@ -1059,23 +1059,6 @@
       "date": "15 Jun 2021"
     },
     {
-      "id": "94332",
-      "name": "BP Machine",
-      "description": "Client is an elderly lady who lives alone in a rented flat. She has multiple chronic illnesses and has been advised by her doctor to get a BP machine to monitor her BP daily. Client cannot afford to purchase a BP machine given her financial constraints and is hoping to find a donor who would be able to sponsor one for her.",
-      "specifications": null,
-      "contact": {
-        "org": "Vanguard Healthcare Pte Ltd - Woodlands",
-        "name": "Nur Faizah Binte Hairil Basar",
-        "email": "nur.faizah@vanguardhealthcare.com.sg",
-        "phone": [
-          "65409234",
-          "65409200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Jun 2021"
-    },
-    {
       "id": "94331",
       "name": "Wardrobe",
       "description": "Client is the main caregiver of 3 children(aged 17, 9 and 3 years old)  lives with husband in a rented flat. Client is experiencing marital issues. Husband is the sole breadwinner who is earning low income and is not supporting the family. The eldest child has stopped schooling to provide caregiving duties for the youngest child due to HBL while client is out souring for a job. Client's current clothing wardrobe is in poor condition and would need a replacement to store the whole family's clothing.",
@@ -2983,6 +2966,16 @@
   ],
   "offers": [
     {
+      "id": "94610",
+      "name": "Air Fryer",
+      "description": "Air Fryer, 2.5L capacity, Brand Mayer. Brand New, never been used",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "20 Jul 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "94607",
       "name": "Key board",
       "description": "Fairly good condition.",
@@ -3029,16 +3022,6 @@
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "02 Jul 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "94602",
-      "name": "Oven",
-      "description": "Used oven.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "02 Jul 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
