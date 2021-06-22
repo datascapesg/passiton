@@ -1,6 +1,39 @@
 {
   "requests": [
     {
+      "id": "94699",
+      "name": "Washing Machine and Foldable Table",
+      "description": "Individual living in a 1-room rental flat requires a washing machine as the current one has broken down. She has multiple medical conditions that cause painful swelling in her limbs. She is unfit for work and needs a new machine as she is unable to handwash. She also requires a foldable table to help organize her kitchen space.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Annie Lee",
+        "email": "annie@sccfsc.org.sg",
+        "phone": [
+          "62593191",
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Jun 2021"
+    },
+    {
+      "id": "94698",
+      "name": "Wall-Mounted Kitchen Cabinet",
+      "description": "Family of 6 is living in a rental flat with 4 school-going children, and experiences challenges related to finances, system barrier, and living condition. Current kitchen shelf is not in usable condition. The mother has a small home-based cooking business and a new kitchen cabinet will be useful in organising her kitchen space. Anyone who is keen to donate to this family can reach me directly for more details. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Jasmine Leong",
+        "email": "jasmine@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Jun 2021"
+    },
+    {
       "id": "94696",
       "name": "Milk Powder & Diapers",
       "description": "Family of 4 is living in a 3-room flat. Client is the main caregiver to her 3-years-old daughter who suffers from eczema, as well as an elderly mother with chronic illness, who has just underwent toe amputation due to poorly-controlled diabetes. Client has not been able to work due to her caregiving duties and is in a tight financial situation. She is needing urgent assistance for these items: Isomil Plus (for 1 to 10 years old and MamyPoko Pull-Ups Pants Size: XXXL (extra dry skin for daughter's eczema issues). Requesting for delivery to our office at Wisma Geylang Serai #03-01. For further liaison and enquiries, kindly contact me at 98598768 from Mon-Fri 9-5pm, thank you.",
@@ -28,23 +61,6 @@
         "phone": [
           "65536643",
           "64535349"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Jun 2021"
-    },
-    {
-      "id": "94694",
-      "name": "Wardrobe",
-      "description": "Family of five with a single income earner as spouse is recovering from a stroke. Family will benefit from item as existing wardrobe's door has broke.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
-        "name": "Tan Yong Ren",
-        "email": "tanyongren@fycs.org",
-        "phone": [
-          "69783125",
-          "67625215"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -250,22 +266,6 @@
       "date": "21 Jun 2021"
     },
     {
-      "id": "94662",
-      "name": "Washing Machine",
-      "description": "Client has two school going children in Primary 5 and primary 3. Client and husband are unemployed due to health issues and client has to be his caregiver. Client lives in a 1 room/1 hall rental flat. Client's washing machine has broken down and client requested for a washing machine. As client has lack of funds, she is looking for donors who are willing to cover the delivery cost.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Dini Dzulaikha Bte Dzulkifli",
-        "email": null,
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "21 Jun 2021"
-    },
-    {
       "id": "94661",
       "name": "Washing Machine",
       "description": "Client is a kinship carer which took up the responsibility of looking for one of her distant 1 year old niece. And 2 other children, 1 biological another one adopted. Due to COVID19 client's husband the sole breadwinner of the family lost his job, right now they rely strongly on SSO. As their washing machine recently spoiled it became very taxing for client as she is currently also on medication for several illnesses. Hence to better help client i would really like to ask for your donation for a washing machine. To alleviate her stress thereby giving her more capacity to take care of the children and infant under her care.",
@@ -286,22 +286,6 @@
       "id": "94658",
       "name": "kitchen cabinet",
       "description": "A single mother hopes to have a kitchen cabinet her HDB rental flat which she got from the government.  She has 3 young children. She is unable to work because her youngest child still needs breastfeeding. She relies on financial assistance to meet the family basic needs.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Jun 2021"
-    },
-    {
-      "id": "94657",
-      "name": "coffee table (rectangular)",
-      "description": "A single mother hopes to have a coffee table for her HDB rental flat which she got from the government. She has 3 young children. She is unable to work because her youngest child still needs breastfeeding. She relies on financial assistance to meet the family basic needs.",
       "specifications": null,
       "contact": {
         "org": "Care Corner Family Service Centre - Tampines",
@@ -2734,6 +2718,16 @@
   ],
   "offers": [
     {
+      "id": "94697",
+      "name": "Single bed mattress American Twin Size",
+      "description": "Please note that this mattress is about 7 years old but clean, lightly used, mattress vacuuming done. It is not normal single size but slightly wider (American Twin).",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "25 Jun 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "94690",
       "name": "King size bed frame",
       "description": "King size fabric bed frame without mattress . \nGrey in color. Need to dismantle. Please arrange & pay collection fee .",
@@ -2864,31 +2858,11 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "94652",
-      "name": "Vaccum cleaner",
-      "description": "I have 2 vaccum cleaners, 1 is 30 yrs n the others is 20 yrs, both in working condition.",
-      "location": "Yishun, Sembawang",
-      "validTill": "21 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "94651",
       "name": "Sofa - 3-seater Fabric, L-shaped with extra set of covers.",
       "description": "Fabric 3-seater sofa with extra cover set. Overall dimensions: L2980 D920 H585 (back) H420 (seat) + Right sided L-arm L1780 W775",
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "30 Jun 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "94648",
-      "name": "Vacuum cleaner",
-      "description": "The item is used for more than 10 years but still very well functional. I just stopped using as new cleaner is purchased.",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "21 Jul 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -3244,16 +3218,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "94573",
-      "name": "Dining table & chairs for 6",
-      "description": "Wooden dining table & chairs for 6",
-      "location": null,
-      "validTill": "19 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "94572",
       "name": "Outdoor 3-seater",
       "description": "3 seater outdoor chair from fortytwo.  In good quality - just needs a wipe down due to being in storage.  3 cushions all in good condition.",
@@ -3560,16 +3524,6 @@
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
       "validTill": "25 Jun 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "94479",
-      "name": "Electronic jettle",
-      "description": "Toyomi 1.8L s/s kettle",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "18 Jul 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4170,16 +4124,6 @@
       "location": "Yishun, Sembawang",
       "validTill": "30 Jun 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93987",
-      "name": "Knee length gowns for Girls",
-      "description": "Party wear for girls in the age group of 7-10",
-      "location": "Yishun, Sembawang",
-      "validTill": "09 Jul 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
