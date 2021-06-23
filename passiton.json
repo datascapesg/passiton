@@ -1,6 +1,39 @@
 {
   "requests": [
     {
+      "id": "94782",
+      "name": "TV",
+      "description": "Family of 5 requires a TV to replace the current faulty one. Family is unable to afford a replacement due to financial constraint. They are receiving financial assistance under SSO.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Ye Jiancheng",
+        "email": "jiancheng@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Jun 2021"
+    },
+    {
+      "id": "94778",
+      "name": "Laptop",
+      "description": "Family has 2 school-going children. The family is experiencing financial difficulty and is unable to afford for a laptop. Their current laptop is faulty. The family would greatly benefit by receiving a laptop.",
+      "specifications": null,
+      "contact": {
+        "org": "Club Rainbow (Singapore)",
+        "name": "Nurulhuda Binte Abu Bakar",
+        "email": "nurul@clubrainbow.org",
+        "phone": [
+          "81336189",
+          "63771789"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "23 Jun 2021"
+    },
+    {
       "id": "94777",
       "name": "Milk Powder",
       "description": "Husband is a low-income earner and currently struggles to pay household bills & support family of 7 (including 3 school-going children and twin-daughters (aged 1). Wife is a full-time housewife and unemployed due to caregiving needs especially for her pair of twins. Due to financial difficulties, they need help for their twins' milk powder. Due to their digestive issue, they can only drink Similac Gain (growing up milk) - Stage 3 and need a total of 4 tins per month.",
@@ -3092,6 +3125,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "94781",
+      "name": "Breast pump, nappies, baby linen etc",
+      "description": "Most items not in photo. \nBreast pump with bag\nPillows and linen\nMuslin cloth\nAll clean and very good condition",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "12 Jul 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "94780",
+      "name": "Playpen",
+      "description": "Good condition",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "12 Jul 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "94779",
+      "name": "Baby stroller",
+      "description": "Joolz brand comes with bassinet",
+      "location": null,
+      "validTill": "23 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "94763",
       "name": "2- seater sofa",
