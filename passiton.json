@@ -605,22 +605,6 @@
       "date": "23 Jun 2021"
     },
     {
-      "id": "94766",
-      "name": "Water heater",
-      "description": "Single mother has 3 school-going children and they are moving to their own rental flat in Bukit Batok. The house is bare with no furniture and appliances. She is working full-time supporting her children on her own, but does not earn enough or have savings to be able to afford any new furniture or appliances for the new flat. They need a water heater and appreciate if installation is included as they can't afford a handyman.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Lim Yi Xi",
-        "email": "yixi@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Jun 2021"
-    },
-    {
       "id": "94761",
       "name": "Fridge",
       "description": "Mdm Roseldalisa was recently diagnosed with cancer. She has 4 school-going children and her husband works as a delivery rider.",
@@ -1291,23 +1275,6 @@
       "name": "Disinfectant Spray",
       "description": "Volunteer Centre @ Clementi Requesting for 30 bottles of disinfectant sprays for surface cleaning for Community Partners Beneficiaries.",
       "specifications": "30 bottles",
-      "contact": {
-        "org": "Rotary Family Service Centre",
-        "name": "Aarathanna Maria Mohan",
-        "email": "aarathanna@frcsfsc.sg",
-        "phone": [
-          "67799488ext29",
-          "67799488"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Jun 2021"
-    },
-    {
-      "id": "94666",
-      "name": "Disposable Surgical Masks",
-      "description": "Volunteer Centre @ Clementi Requesting for 100 packets of 10 pieces of surgical face masks for Community Partners Beneficiaries.",
-      "specifications": "100 packets of 10 pieces",
       "contact": {
         "org": "Rotary Family Service Centre",
         "name": "Aarathanna Maria Mohan",
@@ -3447,6 +3414,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "94817",
+      "name": "Disposable Masks",
+      "description": "Disposable Masks 50 x 2 boxes",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "23 Jul 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "94814",
       "name": "black glass dining table",
