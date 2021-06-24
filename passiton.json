@@ -1,6 +1,38 @@
 {
   "requests": [
     {
+      "id": "94903",
+      "name": "diaper - Pampers Premium Care Diapers (Taped) - M (6 - 11kg)",
+      "description": "Client is the current sole breadwinner of the household as husband was incarcerated (due to release in July 2021). The family is living in a public rental flat, with household consisting of client and 3 young daughters aged 10, 4 and 8 months old. Due to limited income, client resorted to borrowing money from family to make ends meet. With this supply of diapers, it would help client reduce her financial load.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Jun 2021"
+    },
+    {
+      "id": "94902",
+      "name": "diaper - Mamy Poko Pant M size",
+      "description": "Client's husband was incarcerated in end May'21, as such, client will be the sole bread winner providing for her 4 children (youngest infant) and one more baby EDD in Aug'21. She has stopped working to prep for her labour.",
+      "specifications": "4 packs if possible",
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Jun 2021"
+    },
+    {
       "id": "94900",
       "name": "Smart TV",
       "description": "Client is the sole caregiver for her 8 children.\nShe is  unable to work at the current moment as her husband is currently in police custody. \nFamily was previously dependent on husband's income since he was the main breadwinner. \nThey had wished for TV as their current TV is spoilt and the children do not have any other entertainment sources.\n\nWith multiple financial commitments, they are unable to afford a TV",
@@ -938,22 +970,6 @@
       "date": "24 Jun 2021"
     },
     {
-      "id": "94826",
-      "name": "XL Diapers Pants",
-      "description": "Low income family of 4 young children require XL diapers (Pants version, any brand). Wife is the sole breadwinner as spouse has health complications. Help for the family is greatly appreciated! Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Simranjit Kaur",
-        "email": "simranjit.kaur@montfortcare.org.sg",
-        "phone": [
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Jun 2021"
-    },
-    {
       "id": "94825",
       "name": "Mamypoko diapers",
       "description": "Low income family of 3 young children, of which two children are with special needs, require XXL diapers (Mamypoko). Husband is the sole breadwinner as spouse has health complications. Help for the family is greatly appreciated!",
@@ -1614,23 +1630,6 @@
       "id": "94737",
       "name": "Diapers",
       "description": "Couple facing financial difficulties is in need of Mammy POKO size M diapers. Father is the sole bread winner and his income has been affected due to the Pandemic. Mother is a full time care giver to their child.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Community Services",
-        "name": "Tan Shi Yun",
-        "email": "tanshiyun@fycs.org",
-        "phone": [
-          "67690430ext108",
-          "63809169"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Jun 2021"
-    },
-    {
-      "id": "94736",
-      "name": "Baby Wipes",
-      "description": "Couple facing financial difficulties is in need of Kodomo bay wipes or Watson baby wipes. Father is the sole bread winner and his income has been affected due to the Pandemic. Mother is a full time care giver to their child.",
       "specifications": null,
       "contact": {
         "org": "Fei Yue Community Services",
@@ -4187,6 +4186,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "94904",
+      "name": "Study table",
+      "description": "White Ikea study desk. In good used condition. Comes with two drawers. \nCan deliver to family who takes it.",
+      "location": "Orchard, Cairnhill, River Valley",
+      "validTill": "24 Jul 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "94901",
       "name": "Red Sofa with additional NEW grey cover",
