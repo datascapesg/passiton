@@ -1856,23 +1856,6 @@
       "date": "31 May 2021"
     },
     {
-      "id": "93362",
-      "category": "Mobility Aids",
-      "name": "Electric Wheelchair",
-      "description": "Client has difficulties walking due to being in a road accident months back. Due to difficulty walking, client would usually stay in the room and not go out. Having a motorised wheelchair/ scooter will allow client to be able to be more independent and less isolated as he can move around by himself",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Jurong",
-        "name": "Nathan Hou",
-        "email": "nathanhou@thkmc.org.sg",
-        "phone": [
-          "67169466"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 May 2021"
-    },
-    {
       "id": "94833",
       "category": "Home Furnishing",
       "name": "Dressing table",
@@ -2202,23 +2185,6 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "31 May 2021"
-    },
-    {
-      "id": "93342",
-      "category": "Home Furnishing",
-      "name": "Cupboard",
-      "description": "Client is a 67 single man living in a HDB rental flat by himself. He is subsisting on ComCare assistance as he has issues with his mobility due to a hip injury, making him unable to work. He is looking for a small cupboard (with a hanging rack and some shelves) to hang his clothes. Any kind of assistance will be appreciated, thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "NTUC Health Cluster Support - Taman Jurong",
-        "name": "Evelyn Tan",
-        "email": "huiling.t@ntuchealth.sg",
-        "phone": [
-          "62674197"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "27 May 2021"
     },
     {
       "id": "94894",
@@ -3027,6 +2993,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "95012",
+      "name": "Rice cooker - new",
+      "description": "New, never been used",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "27 Jul 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "95011",
       "name": "Female clothes (S size)",
@@ -4818,26 +4794,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "94733",
-      "name": "Bed frame foldable",
-      "description": "Foldable bed",
-      "location": null,
-      "validTill": "30 Jun 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93648",
-      "name": "Comic Books",
-      "description": "Adventure comic books by local writer/illustrator.\nBrand new, 5 comics per set. \nSuitable for children aged 8-12. \nFor student/ low-income support welfare groups or reading centers. To encourage reading & exposure to local writers. \nMultiple sets provided.",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "02 Jul 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "93638",
       "name": "Queen bed",
       "description": "Used for 5 years. In good condition",
@@ -4914,76 +4870,6 @@
       "location": "Bishan, Ang Mo Kio",
       "validTill": "29 Jun 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93450",
-      "name": "IV Drip Stand",
-      "description": "IV Drip Stand, a bit rusty, but fully functional.",
-      "location": "Katong, Joo Chiat, Amber Road",
-      "validTill": "28 Jun 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93449",
-      "name": "Hospital Bed",
-      "description": "Hospital Bed, old, but all functions checked and in working order.",
-      "location": "Katong, Joo Chiat, Amber Road",
-      "validTill": "28 Jun 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93434",
-      "name": "study table",
-      "description": "two tier ergonomics study/ computer table. adjustable height with ergonomics chair.",
-      "location": "Little India",
-      "validTill": "28 Jun 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93431",
-      "name": "Umbrella reinforced with rubber tip",
-      "description": "The item is unused. Still in wrapping. It’s actually more than 10 years old but brand new. I have not opened to check if umbrella works well.",
-      "location": null,
-      "validTill": "28 Jun 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93428",
-      "name": "Kids car",
-      "description": "This is a car suitable for 1 to 2 year old kids.",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "28 Jun 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93962",
-      "name": "Kids table",
-      "description": "This is a kids table that can be used from 2 to 6. It has signs of use but otherwise in great condition.",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "28 Jun 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "93963",
-      "name": "Kids table",
-      "description": "This is a kids table that can be used from 2 to 6. It has signs of use but otherwise in great condition.",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "28 Jun 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     }
