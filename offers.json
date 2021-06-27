@@ -20,16 +20,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "95010",
-    "name": "Microwave oven",
-    "description": "Good condition microwave oven for a home that needs it.  Sharp brand",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "27 Jul 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "95009",
     "name": "Large Coffee Table",
     "description": "Square large coffee table, half table with glass top for placement of displays via a drawer and other half wood top with storage drawee",
@@ -1540,16 +1530,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "94073",
-    "name": "Leather Sofa",
-    "description": "This sofa is about 5 years old. Leather in good condition. Soft",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "28 Jun 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "94048",
     "name": "IKEA whiteboard easel board",
     "description": "IKEA whiteboard easel. Slightly decorated with old stickers and some wear and tear but can use the whiteboard.",
@@ -1636,16 +1616,6 @@
     "location": "Yishun, Sembawang",
     "validTill": "07 Jul 2021",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "93846",
-    "name": "Cooker Hood, EFCH 90cm Slim Hood, black",
-    "description": "Available for collection betw 28-30 Jun 2021. Used by Chinese Family since July 2020, still in good condition, passing it on due to house renovations.",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "28 Jun 2021",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -1796,6 +1766,26 @@
     "location": "Geylang, Eunos",
     "validTill": "02 Jul 2021",
     "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "94733",
+    "name": "Bed frame foldable",
+    "description": "Foldable bed",
+    "location": null,
+    "validTill": "30 Jun 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "93648",
+    "name": "Comic Books",
+    "description": "Adventure comic books by local writer/illustrator.\nBrand new, 5 comics per set. \nSuitable for children aged 8-12. \nFor student/ low-income support welfare groups or reading centers. To encourage reading & exposure to local writers. \nMultiple sets provided.",
+    "location": "Queenstown, Tiong Bahru",
+    "validTill": "02 Jul 2021",
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
