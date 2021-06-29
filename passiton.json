@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "95094",
+      "category": "Electrical Home Appliances",
+      "name": "Table Fan",
+      "description": "Family from lower socio-economic background consisting of parents together with 6 children are in need of a table fan. Their existing ones at home are faulty and could be a fire hazard.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Ernie Lydia Binte Abu Yamin",
+        "email": "ernielydia@amkfsc.org.sg",
+        "phone": [
+          "64535349",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Jun 2021"
+    },
+    {
+      "id": "95093",
+      "category": "Electrical Home Appliances",
+      "name": "Floor standing Fan",
+      "description": "Family from lower socio-economic background consisting of parents together with 6 children are in need of a floor-standing fan. Their existing ones at home are faulty and could be a fire hazard.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Ernie Lydia Binte Abu Yamin",
+        "email": "ernielydia@amkfsc.org.sg",
+        "phone": [
+          "64535349",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Jun 2021"
+    },
+    {
       "id": "95092",
       "category": "Electrical Home Appliances",
       "name": "Portable Air Conditioner",
@@ -15,24 +51,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": false,
-      "date": "29 Jun 2021"
-    },
-    {
-      "id": "95091",
-      "category": "Electrical Home Appliances",
-      "name": "Medium-Large size Refrigerator",
-      "description": "Client (29/F) is a single mother for her 2 children (7/F and 6/F). She is currently unemployed due to caregiving responsibilities for the children and the outlook of covid-19 is difficult for her to find a suitable job. Family is reliant on SSO assistance and struggles to cope financially. The family refrigerator has broke down recently. Client would greatly appreciate the donation of a Medium-Large size Refrigerator to the family so as to aid in food preparation.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Champions Way",
-        "name": "Syarifah Amirah Binte Jumat",
-        "email": "syarifahamirah1@fycs.org",
-        "phone": [
-          "91266100",
-          "66901000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
       "date": "29 Jun 2021"
     },
     {
@@ -1720,6 +1738,24 @@
       "date": "21 Jun 2021"
     },
     {
+      "id": "95097",
+      "category": "Mobility Aids",
+      "name": "Wheelchair",
+      "description": "Client has end stage blood cancer. He is 62yo male who is elderly and married. Wife, 60, has chronic illnesses. The couple lives on their own. Client's condition has deteriorated and requires a wheelchair to remain mobile.",
+      "specifications": null,
+      "contact": {
+        "org": "AIN Society",
+        "name": "Nur'Ain Binte Mohamed Said",
+        "email": "nurain@ainsociety.org.sg",
+        "phone": [
+          "68485116",
+          "68485166"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "29 Jun 2021"
+    },
+    {
       "id": "95084",
       "category": "Mobility Aids",
       "name": "wheelchair",
@@ -1874,6 +1910,57 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "31 May 2021"
+    },
+    {
+      "id": "93375",
+      "category": "Infant and Children Items",
+      "name": "Kari Home Growing Up Formula",
+      "description": "The child is in need of Kari Home Growing Up Formula  (1-3 years old). We welcome whatever quantities that the donor wishes to donate. Please contact us for delivery details prior the online order/sending. Note: Delivery costs will be covered by donors. Even the smallest donation will make a big difference to other’s lives. We greatly appreciate your kind donation and generosity to the children and the society!",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Peng Hui",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Jun 2021"
+    },
+    {
+      "id": "95096",
+      "category": "Infant and Children Items",
+      "name": "Lactogen Stage 4 Milk Powder",
+      "description": "Family has 5 young children at home and father is the main breadwinner of the family doing food delivery. Mum is also working part-time but has to help caregive for the family due to presence of young children",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Punggol",
+        "name": "Koh Tai Sheng",
+        "email": "taisheng@amkfsc.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "29 Jun 2021"
+    },
+    {
+      "id": "95095",
+      "category": "Infant and Children Items",
+      "name": "Dryper Pull Size XL",
+      "description": "Family has 5 young children at home and father is the main breadwinner of the family doing Grab. Mother has to help caregive for the children but is also doing Grab part-time",
+      "specifications": "XL",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Punggol",
+        "name": "Koh Tai Sheng",
+        "email": "taisheng@amkfsc.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "29 Jun 2021"
     },
     {
       "id": "95088",
