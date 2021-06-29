@@ -1156,6 +1156,23 @@
       "date": "31 May 2021"
     },
     {
+      "id": "95098",
+      "category": "Others",
+      "name": "[Urgent] Food Ration",
+      "description": "Families at Yishun community are currently in need of basic necessities and all the food items below must be halal certified: Rice in 5 kg (urgent), Cooking oil(urgent), Biscuits(urgent), Canned food in sardine, tuna, mushroom(urgent), UHT milk packets 1L, MILO refill packs, Breakfast cereals ( Milo, Kokocrunch), Milk packet drinks 6s (chocolate, strawberry, MILO), Instant noodles.\n\nWe welcome whatever quantities that the donor wishes to donate and there is no obligation on the minimum items donated. Please contact us for delivery details prior the online order/sending. Thank you for your kindness and generous support!",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Peng Hui",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Jun 2021"
+    },
+    {
       "id": "95085",
       "category": "Others",
       "name": "Adult diapers(Tena) pull up L Size (6 packets)",
@@ -2817,6 +2834,23 @@
       "date": "01 Jun 2021"
     },
     {
+      "id": "95099",
+      "category": "Home Furnishing",
+      "name": "shoe cabinet",
+      "description": "",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Jun 2021"
+    },
+    {
       "id": "95083",
       "category": "Home Furnishing",
       "name": "Mattress (no frame)",
@@ -3290,6 +3324,24 @@
       "date": "01 Jun 2021"
     },
     {
+      "id": "95100",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Low-income single parent family is looking for a laptop for her primary school child to support in his e-learning needs while exploring longer-term solutions such as the NEU-PC Plus programme.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Lee Yan Jun",
+        "email": "leeyanjun@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Jun 2021"
+    },
+    {
       "id": "95090",
       "category": "Learning Aids",
       "name": "Used handphone or tablet",
@@ -3432,9 +3484,9 @@
   ],
   "offers": [
     {
-      "id": "95086",
-      "name": "Toshiba fridge",
-      "description": "In good condition",
+      "id": "95101",
+      "name": "3 seater sofa",
+      "description": "Seahorse 3 seater sofa",
       "location": "Bishan, Ang Mo Kio",
       "validTill": "24 Jul 2021",
       "ageInYears": 4,
@@ -3442,11 +3494,11 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95082",
-      "name": "Cooking Hob (2 Burner)",
-      "description": "Installation and delivery will be provided.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "20 Jul 2021",
+      "id": "95086",
+      "name": "Toshiba fridge",
+      "description": "In good condition",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "24 Jul 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -3842,29 +3894,9 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "94982",
-      "name": "2 door cupboard",
-      "description": "Condition is 6/10",
-      "location": "Yishun, Sembawang",
-      "validTill": "26 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "94981",
       "name": "Single cupboard",
       "description": "Condition is 6/10",
-      "location": "Yishun, Sembawang",
-      "validTill": "26 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "94980",
-      "name": "Cupboard with sliding door",
-      "description": "Condition is 5/10",
       "location": "Yishun, Sembawang",
       "validTill": "26 Jul 2021",
       "ageInYears": 4,
@@ -3928,16 +3960,6 @@
       "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
       "validTill": "26 Jul 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "94967",
-      "name": "Double decker bed with storage",
-      "description": "Double decker bedframe from seahorse \nRarely used as its in guest room. Does not come with mattress",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "01 Jul 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
