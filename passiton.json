@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "95089",
+      "category": "Electrical Home Appliances",
+      "name": "TV",
+      "description": "Family of 5 requesting for a smart TV. Thank you very much!",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Pek Jie Hui",
+        "email": "jiehui@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Jun 2021"
+    },
+    {
       "id": "95035",
       "category": "Electrical Home Appliances",
       "name": "Portable Gas Stove",
@@ -1157,23 +1174,6 @@
       "date": "28 Jun 2021"
     },
     {
-      "id": "94921",
-      "category": "Others",
-      "name": "Bicycle",
-      "description": "Client is currently homeless and has a job interview on Monday (28 July). He has been walking to all his destinations as he cannot afford transport. A bicycle would greatly reduce his travel time.",
-      "specifications": null,
-      "contact": {
-        "org": "St. Hilda's Community Services Centre",
-        "name": "Jaime Yeo Min",
-        "email": "jaime.yeo@sthildascsc.org.sg",
-        "phone": [
-          "63450054"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Jun 2021"
-    },
-    {
       "id": "94853",
       "category": "Others",
       "name": "Ovomaltine Crunchy Cream with Malted Crunchy Pieces & Cocoa",
@@ -1839,6 +1839,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "31 May 2021"
+    },
+    {
+      "id": "95088",
+      "category": "Infant and Children Items",
+      "name": "Drypantz XL size",
+      "description": "Family of 6 requires drypantz for 2 young toddlers. Family of 6’s depends on 2 adults to provide for their 2 young children as well as for their 2 parents staying with them. Wife’s is unable to provide more financial help as her job has been severely impacted by COVID resulting in finances being very tight. Assistance for the toddlers would be well appreciated as it will lift some of the burden of the parents as well as allocate money to parent’s medical cost as well.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Nathan Hou",
+        "email": "nathanhou@thkmc.org.sg",
+        "phone": [
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Jun 2021"
+    },
+    {
+      "id": "95087",
+      "category": "Infant and Children Items",
+      "name": "Nestle Nan Optipro 3 / Nestle Nan Optipro 4",
+      "description": "Family of 6 requires Milk for 2 young toddlers. Family of 6’s depends on 2 adults to provide for their 2 young children as well as for their 2 parents staying with them. Wife’s is unable to provide more financial help as her job has been severely impacted by COVID resulting in finances being very tight. Assistance for the toddlers would be well appreciated as it will lift some of the burden of the parents as well as allocate money to parent’s medical cost as well.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Nathan Hou",
+        "email": "nathanhou@thkmc.org.sg",
+        "phone": [
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Jun 2021"
     },
     {
       "id": "95071",
@@ -3062,24 +3096,6 @@
       "date": "28 Jun 2021"
     },
     {
-      "id": "94760",
-      "category": "Medical Aids",
-      "name": "Wisp mask",
-      "description": "Please contact Social Worker Hwee Xin at hweexin@thkmc.org.sg or 9227 1951 for donation. Client, unemployed due to mental health issue and unable to afford wisp mark for her special need daughter. Daughter is diagnosed with sleep apnea. Wisp mask need replacement as current one is worn out.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Navarraj",
-        "email": "navarraj@thkmc.org.sg",
-        "phone": [
-          "64961278",
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Jun 2021"
-    },
-    {
       "id": "94734",
       "category": "Medical Aids",
       "name": "L size - Tena Pull up diapers",
@@ -3167,6 +3183,24 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "01 Jun 2021"
+    },
+    {
+      "id": "95090",
+      "category": "Learning Aids",
+      "name": "Used handphone or tablet",
+      "description": "Low-income single-father with elderly depressive mother and two young children requires one used tablet or handphone for children's learning aid.  Non-Apple products only please.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Phua Shan Yong",
+        "email": "phuashanyong@fycs.org",
+        "phone": [
+          "69783014",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Jun 2021"
     },
     {
       "id": "95050",
