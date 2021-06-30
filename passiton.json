@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "95164",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "We hope to seek your kind provision of a washing machine as the existing one in the shelter has broken down. The washing machine will be shared between two families (8 people in total) who are residing in the shelter unit. Receiving this washing machine will truly provide great relief for the financially distressed families. Your kind blessing is deeply appreciated by the families who are in need of your great support. Thank you!",
+      "specifications": "10 kg",
+      "contact": {
+        "org": "AWWA Transitional Shelter",
+        "name": "Esther Tan",
+        "email": "esther_tan@awwa.org.sg",
+        "phone": [
+          "65117278",
+          "65117272"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Jun 2021"
+    },
+    {
       "id": "95162",
       "category": "Electrical Home Appliances",
       "name": "TV",
@@ -50,40 +68,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "30 Jun 2021"
-    },
-    {
-      "id": "95146",
-      "category": "Electrical Home Appliances",
-      "name": "TV",
-      "description": "Stay alone senior requires TV in his rental unit. Senior is unable to work due to medical issues",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - GoodLife! @ Kreta Ayer",
-        "name": "Abdul Rahman Bin Abdul Hakim Sayat",
-        "email": "rahman.hakim@montfortcare.org.sg",
-        "phone": [
-          "62746904"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "30 Jun 2021"
-    },
-    {
-      "id": "95144",
-      "category": "Electrical Home Appliances",
-      "name": "TV",
-      "description": "Stay alone senior requires TV in his rental unit. Senior is unable to work due to medical issues.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - GoodLife! @ Kreta Ayer",
-        "name": "Abdul Rahman Bin Abdul Hakim Sayat",
-        "email": "rahman.hakim@montfortcare.org.sg",
-        "phone": [
-          "62746904"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "30 Jun 2021"
     },
     {
@@ -3886,6 +3870,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "95163",
+      "name": "Electric Pot",
+      "description": "Panasonic Thermos pot in good working condition.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "30 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "95161",
       "name": "Stand fan",
