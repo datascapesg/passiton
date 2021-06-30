@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "95189",
+      "category": "Electrical Home Appliances",
+      "name": "TV",
+      "description": "My client an elderly man needs a television for his recreation. Due to his ill health, client was not able to work for many years",
+      "specifications": null,
+      "contact": {
+        "org": "SAMH Mobile Support Team",
+        "name": "John Cheang",
+        "email": "john_cheang@samhealth.org.sg",
+        "phone": [
+          "65155718",
+          "85112678"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "30 Jun 2021"
+    },
+    {
       "id": "95186",
       "category": "Electrical Home Appliances",
       "name": "Electric fan",
@@ -1341,24 +1359,6 @@
         "phone": [
           "64961278",
           "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Jun 2021"
-    },
-    {
-      "id": "95127",
-      "category": "Others",
-      "name": "Resource 2.0",
-      "description": "Client is a single and terminally ill patient whose household currently has no income. She will require support for Resource 2.0 200ml milk nutritional feeds given that she has poor oral intake due to her terminal cancer symptoms like nausea and vomitting. It will be crucial for her to continue on this recommended milk nutritional feeds to supplement her poor oral intake/diet. \n\nKindly contact me at 84282545 if you are able to assist.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Cancer Society",
-        "name": "Amanda Tay",
-        "email": "amanda_tay@singaporecancersociety.org.sg",
-        "phone": [
-          "64215886",
-          "62219578"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3884,10 +3884,10 @@
       "date": "04 Jun 2021"
     },
     {
-      "id": "95187",
+      "id": "95190",
       "category": "Medical Aids",
       "name": "Tena Adult Diapers, L size, 6 packets",
-      "description": "TENA adult size L, 6 packets\nStudent comes from an extended family of 7. Father is the sole breadwinner of the family. Student has multiple disabilities, and require diapers on a daily basis. The family is under financial assistance, and diapers take up a significant percentage of their income. Hence, provision of diapers would be very helpful in reducing the family's financial burden.",
+      "description": "Tena Adult size, L, 6 packets\nFamily of 7 has a child who has multiple disabilities who requires diapers on a daily basis. Father is the sole breadwinner, and the family is on financial assistance. As diapers make up a large expense, the provision of diapers will help the family greatly in reducing their financial burden",
       "specifications": "Adult size L, 6 packets",
       "contact": {
         "org": "Rainbow Centre - Magaret Drive School",
@@ -4028,22 +4028,22 @@
   ],
   "offers": [
     {
+      "id": "95191",
+      "name": "Ikea Brimnes Day Bed",
+      "description": "bed frame and mattress, single bed or double bed when pulled out",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "07 Jul 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "95188",
       "name": "3 seater and 2 seater reclining fabric sofa",
       "description": "3 seater and 2 seater reclining fabric sofa, gray in colour. Available to collect from 28th July to 13th Aug",
       "location": null,
       "validTill": "30 Jul 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95180",
-      "name": "Toyomi Kettle",
-      "description": "Electric water kettle 1.5litres",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "20 Jul 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4128,16 +4128,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95130",
-      "name": "Washer",
-      "description": "Washing machine works well. Rust spots in parts because washing machine is placed outdoors.",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "19 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95104",
       "name": "Queen size bed with mattress",
       "description": "Queen size bed frame with mattress",
@@ -4204,16 +4194,6 @@
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "28 Jul 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95072",
-      "name": "Single Induction cooker",
-      "description": "Techno Induction cooker.  I have the manual for it as well.",
-      "location": "Middle Road, Golden Mile",
-      "validTill": "07 Jul 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4343,16 +4323,6 @@
       "description": "Square large coffee table, half table with glass top for placement of displays via a drawer and other half wood top with storage drawee",
       "location": "Tampines, Pasir Ris",
       "validTill": "27 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95008",
-      "name": "Storage / bathroom cabinet",
-      "description": "Handy storage cabinet for bathroom or bedroom, slight stain on top see pic.",
-      "location": "Katong, Joo Chiat, Amber Road",
-      "validTill": "15 Jul 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
