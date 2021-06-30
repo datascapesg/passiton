@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "95179",
+      "category": "Electrical Home Appliances",
+      "name": "Sewing Machine",
+      "description": "Client is a single mother taking care of one primary school going son. Client has not been unemployed as son is suspected experiencing trauma issues and requires client's full-time caregiving. Client needed a sewing machine to help mend her clothes at home and to sew some basic household items like pillow cases, and curtains, etc. Donor to pay for delivery fees.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Yew Tee",
+        "name": "Calyn Xu",
+        "email": "calynxu@fycs.org",
+        "phone": [
+          "64162155",
+          "64162162"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "30 Jun 2021"
+    },
+    {
       "id": "95172",
       "category": "Electrical Home Appliances",
       "name": "Floor-Standing Fan",
@@ -2661,23 +2679,6 @@
       "date": "24 Jun 2021"
     },
     {
-      "id": "94824",
-      "category": "Infant and Children Items",
-      "name": "baby gate",
-      "description": "Low income family of 3 young children, of which two children are with special needs, require baby gate as their current baby gate is faulty. Husband is the sole breadwinner as spouse has health complications. Help for the family is greatly appreciated!",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Simranjit Kaur",
-        "email": "simranjit.kaur@montfortcare.org.sg",
-        "phone": [
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Jun 2021"
-    },
-    {
       "id": "94823",
       "category": "Infant and Children Items",
       "name": "Milk Powder & Diapers",
@@ -3938,6 +3939,46 @@
     }
   ],
   "offers": [
+    {
+      "id": "95180",
+      "name": "Toyomi Kettle",
+      "description": "Electric water kettle 1.5litres",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "20 Jul 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95178",
+      "name": "Wooden shelf",
+      "description": "Sturdy 3 levels wooden shelf",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "20 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95177",
+      "name": "IKEA footstool",
+      "description": "IKEA footstool with storage. \nCover is removable and can be machine washed.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "20 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95176",
+      "name": "IKEA Armchair",
+      "description": "Red Ikea armchair.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "20 Jul 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "95175",
       "name": "iKEA 8 drawers cabinet",
