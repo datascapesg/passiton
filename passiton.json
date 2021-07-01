@@ -1894,23 +1894,6 @@
       "date": "29 Jun 2021"
     },
     {
-      "id": "95084",
-      "category": "Mobility Aids",
-      "name": "wheelchair",
-      "description": "Client (M/62) is currently awaiting placement in nursing home. He is an above knee amputee due to his diabetic condition & requires dialysis 3x a week. As client is staying in a hospital due to medical condition, donation of a wheelchair would be greatly appreciated.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Teddy Fu",
-        "email": "teddyfu@thkmc.org.sg",
-        "phone": [
-          "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Jun 2021"
-    },
-    {
       "id": "95065",
       "category": "Mobility Aids",
       "name": "Wheelchair (Battery-Operated)",
@@ -2048,6 +2031,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "31 May 2021"
+    },
+    {
+      "id": "95226",
+      "category": "Infant and Children Items",
+      "name": "Diapers in size M, L and XL",
+      "description": "Need diapers in sizes M, L and XL at 3 packs each. No brand preference. It is for in-office stock, to be distributed to beneficiaries in case of emergency need. The items will be sent to our Community Services & Programmes centre located at Block 529 Bedok North Street 3 #01-570, Singapore 460529. Please arrange delivery on 6th July, between 9.30am to 11.30am if possible. Kindly inform us the expected delivery in advance so we are able to prepare the logistics. Thank you!",
+      "specifications": "M, L and XL",
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Peng Hui",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Jul 2021"
+    },
+    {
+      "id": "95224",
+      "category": "Infant and Children Items",
+      "name": "PediaSure TripleSure Milk Powder",
+      "description": "PediaSure TripleSure Milk Powder - Classic Vanilla (850g) for total 9 tins. The Child depends on the milk for his daily food intake as he is unable to take solid food. Items will be directly sent to beneficiary's home and please contact us for delivery details. Thank you for every donation to make a difference!",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Peng Hui",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Jul 2021"
     },
     {
       "id": "95216",
@@ -3515,6 +3532,24 @@
       "date": "31 May 2021"
     },
     {
+      "id": "95227",
+      "category": "Learning Aids",
+      "name": "LAPTOP",
+      "description": "The beneficiary is a cancer patient who is currently going through treatment and also has some other health conditions. Due to her health, she could no longer leave home to  work. She has a positive attitude to overcome her challenges, and does not wish to solely depend on social assistance. She has signed up for some online courses to upgrade her skills, and has plans to do online business. She has skills in flower arrangements and hope that her skills can help her generate income. Recently, her old laptop crashed, and she currently do not have any means to purchase a  new one. She is grateful if she could have a second-hand laptop to continue attending courses and sell her products online.",
+      "specifications": null,
+      "contact": {
+        "org": "AIN Society",
+        "name": "Nur'Ain Binte Mohamed Said",
+        "email": "nurain@ainsociety.org.sg",
+        "phone": [
+          "68485116",
+          "68485166"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "01 Jul 2021"
+    },
+    {
       "id": "95213",
       "category": "Learning Aids",
       "name": "Electric Piano",
@@ -3688,6 +3723,23 @@
       "date": "04 Jun 2021"
     },
     {
+      "id": "95229",
+      "category": "Medical Aids",
+      "name": "Mamy Poko Pants - Pants, Extra Dry Skin (XXXL)",
+      "description": "Client is a full-time housewife due to caregiving responsibilities for a youth with autism, who uses at least 4 packets of diapers every month. Client's husband is gainfully employed, but his income is insufficient to meet the family's basic needs.",
+      "specifications": null,
+      "contact": {
+        "org": "Whispering Hearts Family Service Centre",
+        "name": "Law Jia Yi",
+        "email": "jiayi@viriya.org.sg",
+        "phone": [
+          "67951008"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Jul 2021"
+    },
+    {
       "id": "95202",
       "category": "Medical Aids",
       "name": "Tena Pull up diapers (L size) - 3 packs",
@@ -3850,12 +3902,22 @@
   ],
   "offers": [
     {
-      "id": "95223",
-      "name": "Sona Remote Air Cooler, Model: SAC 6029",
-      "description": "Used Sonna Brand Remote Air Cooler, Model no. SAC 6029",
-      "location": "Kranji, Woodgrove",
-      "validTill": "30 Jul 2021",
-      "ageInYears": 3,
+      "id": "95228",
+      "name": "Shoe cabinet",
+      "description": "Need to make space, hence donating the cabinet.",
+      "location": "Orchard, Cairnhill, River Valley",
+      "validTill": "04 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95225",
+      "name": "Dinner table , King Size Marttress N Coffee table",
+      "description": "1 King Size Marttress\n1 Dinner Table: H 29 Chin 740m\n                W 35 Chin 900m\n                L 63 Chin 1.6M \nCoffee Table",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "03 Jul 2021",
+      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
