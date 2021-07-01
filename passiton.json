@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "95210",
+      "category": "Electrical Home Appliances",
+      "name": "Standing Fan",
+      "description": "Client has been certified unfit for work while his wife is still waiting for her employer’s call to work to return to work as a dish washer. The family is staying in a HDB rental unit and they are heavily relying on the financial assistance from the Social Service Office, hence, they do not have the extra financial resources to get a new coffee table and a standing fan.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "01 Jul 2021"
+    },
+    {
       "id": "95189",
       "category": "Electrical Home Appliances",
       "name": "TV",
@@ -2679,24 +2696,6 @@
       "date": "22 Jun 2021"
     },
     {
-      "id": "94735",
-      "category": "Infant and Children Items",
-      "name": "Milk Powder",
-      "description": "Couple facing financial difficulties is in need of  Similac infant formula milk powder + stage from 0 – 1 year old. Father is the sole bread winner and his income has been affected due to the Pandemic. Mother is a full time care giver to their child.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Community Services",
-        "name": "Tan Shi Yun",
-        "email": "tanshiyun@fycs.org",
-        "phone": [
-          "67690430ext108",
-          "63809169"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Jun 2021"
-    },
-    {
       "id": "94728",
       "category": "Infant and Children Items",
       "name": "Bed Guard for Toodler/Baby",
@@ -3081,6 +3080,23 @@
       "date": "01 Jun 2021"
     },
     {
+      "id": "95211",
+      "category": "Home Furnishing",
+      "name": "Coffee Table",
+      "description": "Client has been certified unfit for work while his wife is still waiting for her employer’s call to work to return to work as a dish washer. The family is staying in a HDB rental unit and they are heavily relying on the financial assistance from the Social Service Office, hence, they do not have the extra financial resources to get a new coffee table and a standing fan.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "01 Jul 2021"
+    },
+    {
       "id": "95171",
       "category": "Home Furnishing",
       "name": "Drawers",
@@ -3463,6 +3479,40 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "31 May 2021"
+    },
+    {
+      "id": "95213",
+      "category": "Learning Aids",
+      "name": "Electric Piano",
+      "description": "Client is the sole breadwinner of the family. She works as a security guard but it is an unstable job. The family is staying in a HDB rental unit and they are heavily relying on the financial assistance from the Social Service Office, hence, they are unable to provide much entertainment options to their son in view of the lack of extra financial resources. They are hoping to get a donation of a PS4 and also an electric piano so that their 11-year-old son can have some fun while at home.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "01 Jul 2021"
+    },
+    {
+      "id": "95212",
+      "category": "Learning Aids",
+      "name": "PlayStation 4 with games",
+      "description": "Client is the sole breadwinner of the family. She works as a security guard but it is an unstable job. The family is staying in a HDB rental unit and they are heavily relying on the financial assistance from the Social Service Office, hence, they are unable to provide much entertainment options to their son in view of the lack of extra financial resources. They are hoping to get a donation of a PS4 and also an electric piano so that their 11-year-old son can have some fun while at home.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "01 Jul 2021"
     },
     {
       "id": "95193",
@@ -4356,6 +4406,16 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
+      "id": "95209",
+      "name": "Hitachi refrigerator",
+      "description": "Hitachi top and bottom 2 door refrigerator.\nClose to 5 years old but in good working condition.\nModel number: R-V480P3MS-SLS",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "15 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "94949",
       "name": "Sofa",
       "description": "the measurement is an estimation",
@@ -4932,16 +4992,6 @@
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "16 Jul 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "94643",
-      "name": "Mattress",
-      "description": "King Size Mattress used for 3 years. Still in good condition.",
-      "location": "Yishun, Sembawang",
-      "validTill": "16 Jul 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
