@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "95218",
+      "category": "Electrical Home Appliances",
+      "name": "MICROWAVE OVEN",
+      "description": "We are appealing for a MICROWAVE OVEN for an elderly single father who is on financial assistance with teenage children to raise WE SEEK FURTHER ASSISTANCE FROM THE DONOR TO ASSIST IN THE TRANSPORTATION OR COVER THE TRANSPORTTION COST",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
+        "name": "Maggie Gan",
+        "email": "maggiegan@amkfsc.org.sg",
+        "phone": [
+          "65536643",
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Jul 2021"
+    },
+    {
       "id": "95210",
       "category": "Electrical Home Appliances",
       "name": "Standing Fan",
@@ -3814,6 +3832,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "95217",
+      "name": "Rice Cooker",
+      "description": "Panasonic rice cooker with 1L capacity. Can cook up to 5 cups of rice (uncooked), which means about 10 cups of cooked rice.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "31 Jul 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "95215",
       "name": "Turkish red Carpet",
