@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "95234",
+      "category": "Electrical Home Appliances",
+      "name": "table lamp",
+      "description": "\"A single mother hopes to have a table lamp her HDB rental flat which she got from the government.  She has 3 young children. She is unable to work because her youngest child still needs breastfeeding. She relies on financial assistance to meet the family basic needs.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Jul 2021"
+    },
+    {
+      "id": "95233",
+      "category": "Electrical Home Appliances",
+      "name": "portable air cooler",
+      "description": "A single mother hopes to have a portable air cooler for her HDB rental flat which she got from the government.  She has 3 young children. She is unable to work because her youngest child still needs breastfeeding. She relies on financial assistance to meet the family basic needs.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Jul 2021"
+    },
+    {
       "id": "95222",
       "category": "Electrical Home Appliances",
       "name": "Standing fan",
@@ -364,23 +398,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "28 Jun 2021"
-    },
-    {
-      "id": "94944",
-      "category": "Electrical Home Appliances",
-      "name": "portable aircon",
-      "description": "Couple is staying with 9 children in a 2 rm rental flat of which the eldest is 16yo and youngest is 1yo. 1 of the children (Pri 1 girl) have serious ezcema. The family has tried many methods to manage it, brought her to see doc 5x, cleaned the hse multiple times, washed the bedsheets and clothes with dettol, used soap free body wash, have several rooms in the rm but to no avail. Boils and torn skin started to appear all over the body , including her feet. The last resort is getting a portable aircon for her due to the humidity of the weather and at home with many people in the house. However the family is unable to afford 1.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Jun 2021"
     },
     {
       "id": "94942",
@@ -3132,6 +3149,24 @@
       "date": "01 Jun 2021"
     },
     {
+      "id": "95235",
+      "category": "Home Furnishing",
+      "name": "Cabinet",
+      "description": "Client is an elderly women who stay alone. Her kitchen cabinet has spoiled and needs to replace to keep cutlery.",
+      "specifications": "W135 X D50 X H98",
+      "contact": {
+        "org": "Rotary Family Service Centre",
+        "name": "Chey Siow Wei",
+        "email": "siowwei@frcsfsc.sg",
+        "phone": [
+          "67799488ext14",
+          "67799488"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Jul 2021"
+    },
+    {
       "id": "95232",
       "category": "Home Furnishing",
       "name": "Two-Door Wardrobe",
@@ -3515,6 +3550,24 @@
       "date": "31 May 2021"
     },
     {
+      "id": "95237",
+      "category": "Learning Aids",
+      "name": "laptop",
+      "description": "Family of 5 require a working laptop for the children's studies. They are unable to afford for one as their combined household income is only $1500, and is not enough to make ends meet. Mother is unable to work in higher paying sectors to increase their income as she is illiterate, hence she is trying her best to support the family through menial labour jobs.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Choong Ying",
+        "email": "choongying@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Jul 2021"
+    },
+    {
       "id": "95227",
       "category": "Learning Aids",
       "name": "LAPTOP",
@@ -3885,12 +3938,12 @@
   ],
   "offers": [
     {
-      "id": "95231",
-      "name": "Milk powder",
-      "description": "Would like to order and deliver milk powder to the needy families with young kids",
-      "location": "Jurong",
-      "validTill": "20 Jul 2021",
-      "ageInYears": 1,
+      "id": "95236",
+      "name": "Green Fabric Sofa",
+      "description": "Large fabric sofa. Left end adjustable. Seats 4-5. C/w 5 throw cushions.\n\nMoving house. Too large to suit our new place. So offering to others.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "05 Jul 2021",
+      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4101,16 +4154,6 @@
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "30 Jul 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95142",
-      "name": "Queen Size Bed Frame with Mattress",
-      "description": "Queen Size Bed Frame with Mattress.\nPass it on as new house cannot fit in",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-      "validTill": "21 Jul 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
