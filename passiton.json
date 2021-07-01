@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "95241",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine 7.5kg to 8kg",
+      "description": "Client is an unemployed mother with two young children (4 years old and 6 years old).  Family has been in chronic poverty as the sole breadwinner is husband and they have accumulated debts and arrears. Mother is currently only able to do her laundry at the nearest laundromat.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Jul 2021"
+    },
+    {
       "id": "95234",
       "category": "Electrical Home Appliances",
       "name": "table lamp",
@@ -2033,6 +2050,40 @@
       "date": "31 May 2021"
     },
     {
+      "id": "95240",
+      "category": "Infant and Children Items",
+      "name": "Playpen (With Safety Gate)",
+      "description": "Client is currently pregnant and expected EDD is in September. Father is the only sole breadwinner working adhoc jobs and working hours have been reduced due to Covid-19 heightened measures.  Hence employment is unstable. They have a total of 5 young children.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Jul 2021"
+    },
+    {
+      "id": "95239",
+      "category": "Infant and Children Items",
+      "name": "Double Stroller / Single Stroller",
+      "description": "Client is an unemployed mother with two young children (4 years old and 6 years old).  Family has been in chronic poverty as the sole breadwinner is husband and they have accumulated debts and arrears. Mother is currently only able to do her laundry at the nearest laundromat.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Jul 2021"
+    },
+    {
       "id": "95230",
       "category": "Infant and Children Items",
       "name": "Friso Gold Milk (Stage 4) - 3/6 tins",
@@ -2169,24 +2220,6 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "30 Jun 2021"
-    },
-    {
-      "id": "95132",
-      "category": "Infant and Children Items",
-      "name": "Diapers for Newborn",
-      "description": "Please contact Social Worker Jimmy at jimmygoh@thkmc.org.sg or 8718 8444 to liaise. Family living in public rental housing and facing financial crisis is seeking support for diapers for their newborn expected to be delivered in early to mid-July 2021.",
-      "specifications": "NA",
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Navarraj",
-        "email": "navarraj@thkmc.org.sg",
-        "phone": [
-          "64961278",
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Jun 2021"
     },
     {
       "id": "95125",
@@ -4238,16 +4271,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95063",
-      "name": "Table and 2 chairs",
-      "description": "Table and matching 2 chairs from IKEA. 2 years old with minimal wear. \nhttps://www.ikea.com/sg/en/p/lerhamn-table-black-brown-20444299/",
-      "location": "Geylang, Eunos",
-      "validTill": "10 Jul 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95061",
       "name": "Couch",
       "description": "3 person couch from IKEA. 2 years old with minimal wear. \nhttps://www.ikea.com/sa/en/p/haesselby-3-seat-sofa-knisa-grey-s19325457/",
@@ -4564,16 +4587,6 @@
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "26 Jul 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95209",
-      "name": "Hitachi refrigerator",
-      "description": "Hitachi top and bottom 2 door refrigerator.\nClose to 5 years old but in good working condition.\nModel number: R-V480P3MS-SLS",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "15 Jul 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
