@@ -1258,6 +1258,24 @@
       "date": "01 Jun 2021"
     },
     {
+      "id": "95258",
+      "category": "Others",
+      "name": "Ensure milk",
+      "description": "A client with a physical disability needs a carton of Ensure milk powder for daily feed in a month.",
+      "specifications": "Ensure milk",
+      "contact": {
+        "org": "Society For The Physically Disabled (SPD)",
+        "name": "Koh Yeng Yeng",
+        "email": "koh_yeng_yeng@spd.org.sg",
+        "phone": [
+          "65790750",
+          "65790700"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "02 Jul 2021"
+    },
+    {
       "id": "95245",
       "category": "Others",
       "name": "Rations and Supplies needed",
@@ -1980,6 +1998,23 @@
       "date": "04 Jun 2021"
     },
     {
+      "id": "95257",
+      "category": "Infant and Children Items",
+      "name": "diaper - Drypers dry pants XXL",
+      "description": "A single mother hopes to donate diapers for her daughter. She has 3 young children. She is unable to work because her youngest child still needs breastfeeding. She relies on financial assistance to meet the family basic needs.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Jul 2021"
+    },
+    {
       "id": "95253",
       "category": "Infant and Children Items",
       "name": "Wee Wee Drypers XL (3 packs)",
@@ -2098,23 +2133,6 @@
         "email": "amychua@mws.sg",
         "phone": [
           "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Jul 2021"
-    },
-    {
-      "id": "95230",
-      "category": "Infant and Children Items",
-      "name": "Friso Gold Milk (Stage 4) - 3/6 tins",
-      "description": "Client is a single mother who is unemployed due to caregiving responsibilities for her two young children (2 yo, 4 yo). Although she tries to take up adhoc jobs whenever possible, the household income is insufficient to meet the family's basic needs; especially the young children's nutritional needs.",
-      "specifications": null,
-      "contact": {
-        "org": "Whispering Hearts Family Service Centre",
-        "name": "Law Jia Yi",
-        "email": "jiayi@viriya.org.sg",
-        "phone": [
-          "67951008"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3150,6 +3168,23 @@
       "date": "01 Jun 2021"
     },
     {
+      "id": "95255",
+      "category": "Home Furnishing",
+      "name": "Queen size Mattress",
+      "description": "Low-income single parent family requires a queen size mattress for their home. Please consider covering the cost of delivery as they are unable to afford it. Please contact Fumi at fscqt.intern2@carecorner.org.sg or 6978 4340, thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Rachel Ong",
+        "email": "rachelong@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Jul 2021"
+    },
+    {
       "id": "95242",
       "category": "Home Furnishing",
       "name": "Mattress with bed frame",
@@ -3517,6 +3552,23 @@
       "date": "02 Jun 2021"
     },
     {
+      "id": "95254",
+      "category": "Learning Aids",
+      "name": "Desktop Computer",
+      "description": "Student requires desktop computer with at least Windows 10 OS to run a software needed for her Electrical Engineering course. She comes from a low-income single-parent family who is unable to afford to purchase one for her. Please contact Fumi at fscqt.intern2@carecorner.org.sg or 6978 4340, thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Rachel Ong",
+        "email": "rachelong@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Jul 2021"
+    },
+    {
       "id": "95237",
       "category": "Learning Aids",
       "name": "laptop",
@@ -3726,6 +3778,24 @@
       "date": "04 Jun 2021"
     },
     {
+      "id": "95256",
+      "category": "Medical Aids",
+      "name": "Tena Diaper Size M",
+      "description": "A client with a physical disability needs a carton of TENA diapers monthly.",
+      "specifications": "Tena",
+      "contact": {
+        "org": "Society For The Physically Disabled (SPD)",
+        "name": "Koh Yeng Yeng",
+        "email": "koh_yeng_yeng@spd.org.sg",
+        "phone": [
+          "65790750",
+          "65790700"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "02 Jul 2021"
+    },
+    {
       "id": "95202",
       "category": "Medical Aids",
       "name": "Tena Pull up diapers (L size) - 3 packs",
@@ -3888,6 +3958,16 @@
   ],
   "offers": [
     {
+      "id": "95259",
+      "name": "Camerich 3 seater L-shape sofa (Big)",
+      "description": "Large 3 seater L shape sofa to donate to charity organization. \nSofa has been sanitized late last year. \nIn very good condition. \nKindly self collect.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "01 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "95247",
       "name": "Euro",
       "description": "Upgraded to a bigger capacity. Item used by chinese family still in working condition.",
@@ -3904,16 +3984,6 @@
       "location": "Queenstown, Tiong Bahru",
       "validTill": "31 Jul 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95236",
-      "name": "Green Fabric Sofa",
-      "description": "Large fabric sofa. Left end adjustable. Seats 4-5. C/w 5 throw cushions.\n\nMoving house. Too large to suit our new place. So offering to others.",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "05 Jul 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
