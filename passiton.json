@@ -681,40 +681,6 @@
       "date": "23 Jun 2021"
     },
     {
-      "id": "94769",
-      "category": "Electrical Home Appliances",
-      "name": "Washing machine",
-      "description": "Single mother has 3 school-going children and they are moving to their own rental flat. The house is bare with no furniture and appliances. She is working full-time supporting her children on her own, but does not earn enough or have savings to be able to afford any new items for the flat. They need a washing machine as they do not have one.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Lim Yi Xi",
-        "email": "yixi@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Jun 2021"
-    },
-    {
-      "id": "94767",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Single mother has 3 school-going children and they are moving to their own rental flat in Bukit Batok. The house is bare with no furniture and appliances. She is working full-time supporting her children on her own, but does not earn enough or have savings to be able to afford any new items for the flat. They need a refrigerator (halal) in new or good secondhand condition as they do not have one.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Lim Yi Xi",
-        "email": "yixi@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Jun 2021"
-    },
-    {
       "id": "94761",
       "category": "Electrical Home Appliances",
       "name": "Fridge",
@@ -4031,6 +3997,16 @@
   ],
   "offers": [
     {
+      "id": "95280",
+      "name": "Dining Table",
+      "description": "Extendable dining table -\nDismantling & assembling simple\nstraight-forward job",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "12 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "95278",
       "name": "Baby Carrier",
       "description": "New Baby Carrier, up to 20kg",
@@ -4266,6 +4242,16 @@
       "description": "IKEA footstool with storage. \nCover is removable and can be machine washed.",
       "location": "Bishan, Ang Mo Kio",
       "validTill": "20 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95279",
+      "name": "iKEA 8 drawers cabinet",
+      "description": "IKEA chest of 8 drawers. Good for keeping small items.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "25 Jul 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
