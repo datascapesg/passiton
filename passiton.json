@@ -471,23 +471,6 @@
       "date": "28 Jun 2021"
     },
     {
-      "id": "95034",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Client needs a washing machine for her family. Her present one is not working. \nClient is a housewife who is caring for her husband who has Colonic Polyposis. Husband is not able to control his bowels and clothes have to be repeatedly washed as he regularly stains his clothes. Client has spinal issues and is not unable wash clothes manually. The washing machine will certainly help her manage her chores.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Vijaya Rani d/o Jayaguru",
-        "email": "rani@amkfsc.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "28 Jun 2021"
-    },
-    {
       "id": "95023",
       "category": "Electrical Home Appliances",
       "name": "Portable air cooler",
@@ -1329,6 +1312,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "01 Jun 2021"
+    },
+    {
+      "id": "95309",
+      "category": "Others",
+      "name": "2 Laptops",
+      "description": "We are requesting for 2 laptops for our residents to learn to use computer. The Helping Hand is a Voluntary Welfare Organization affiliated with the National Council of Social Service. We run a home providing drug rehabilitation and after-care services to male drug addicts and ex-offenders in Singapore. This is a residential programme carried out in our agency home, which was graciously provided by the Singapore government in recognition of our services to the community. We have a total of about 100 residents and staff staying in at our premises.",
+      "specifications": null,
+      "contact": {
+        "org": "The Helping Hand",
+        "name": "Chan Toh Han",
+        "email": "chantohhan@thehelpinghand.org.sg",
+        "phone": [
+          "62832204ext120",
+          "62832204"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "02 Jul 2021"
     },
     {
       "id": "95307",
@@ -4292,6 +4293,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "95310",
+      "name": "Foldie bicycle -NEW",
+      "description": "New foldie with rack and accessories like lock, bell, mud guard and bottle cage",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "21 Jul 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "95296",
       "name": "L-Shaped Couch",
