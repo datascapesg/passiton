@@ -1949,23 +1949,6 @@
       "date": "02 Jul 2021"
     },
     {
-      "id": "95255",
-      "category": "Home Furnishing",
-      "name": "Queen size Mattress",
-      "description": "Low-income single parent family requires a queen size mattress for their home. Please consider covering the cost of delivery as they are unable to afford it. Please contact Fumi at fscqt.intern2@carecorner.org.sg or 6978 4340, thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Rachel Ong",
-        "email": "rachelong@carecorner.org.sg",
-        "phone": [
-          "64761481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Jul 2021"
-    },
-    {
       "id": "95242",
       "category": "Home Furnishing",
       "name": "Mattress with bed frame",
@@ -2335,23 +2318,6 @@
       "date": "02 Jul 2021"
     },
     {
-      "id": "95293",
-      "category": "Electrical Home Appliances",
-      "name": "Fridge",
-      "description": "Client with 7 children recently gave birth 3 months ago and staying in rental blk. The children are aged from 17 years old to 3 months old. Family is in need of a fridge as their current fridge is leaking. Halal fridge required.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Jurong",
-        "name": "Nathan Hou",
-        "email": "nathanhou@thkmc.org.sg",
-        "phone": [
-          "67169466"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Jul 2021"
-    },
-    {
       "id": "95291",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -2382,23 +2348,6 @@
         "phone": [
           "62672945",
           "62672900"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Jul 2021"
-    },
-    {
-      "id": "95286",
-      "category": "Electrical Home Appliances",
-      "name": "Small Fridge",
-      "description": "Client is a single unwed mother who is presently 7mo+ pregnant. Client will require support in obtaining a small fridge to store breast milk",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Koh Fang Qi",
-        "email": "kohfangqi@amkfsc.org.sg",
-        "phone": [
-          "63128100"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3893,6 +3842,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "95333",
+      "name": "Blender / juicer (New)",
+      "description": "Made in China Blender/Juicer with accessories.  New never used.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "02 Aug 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95332",
+      "name": "Fridge",
+      "description": "Fridge is in good working condition",
+      "location": null,
+      "validTill": "31 Jul 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95331",
+      "name": "Ikea Table with removable adjustable legs",
+      "description": "Ikea Table with removable adjustable legs Good for family with space constraints as table can be installed or disassemble easily and tucked away conveniently. Very good condition. Has 3 sets - please indicate number.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "02 Aug 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "95330",
       "name": "Bed frame and Mattress (queen)",
