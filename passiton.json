@@ -73,24 +73,6 @@
       "date": "02 Jul 2021"
     },
     {
-      "id": "95292",
-      "category": "Others",
-      "name": "Pillows",
-      "description": "Client is from a low-income family. recently husband's, who is sole breadwinner, his employment situation has not been very stable. She's a stay home mother looking after 3 children. They are in need of pillows as their current one has been damaged by stray cats. It would be helpful if they are able to receive one! Thank you :)",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Services @ Taman Jurong SSO",
-        "name": "Charmaine Lim",
-        "email": "charmainelim@fycs.org",
-        "phone": [
-          "62672945",
-          "62672900"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Jul 2021"
-    },
-    {
       "id": "95266",
       "category": "Others",
       "name": "Halal fresh/frozen food assistance for 3 to 6 months",
@@ -2320,24 +2302,6 @@
       "date": "02 Jul 2021"
     },
     {
-      "id": "95264",
-      "category": "Electrical Home Appliances",
-      "name": "Floor Standing Fan",
-      "description": "Family of 2 infants, staying in a one-room rental unit requires a working floor-standing fan as their current fan's stand is unstable, and poses a danger to the children. Father has health issues and will be undergoing a surgery. He is currently taking up ad-hoc jobs while mother is the homemaker.",
-      "specifications": null,
-      "contact": {
-        "org": "Kampong Kapor Community Services",
-        "name": "Renganathan s/o Panneer Selvam",
-        "email": "renganathan@kkcs.org.sg",
-        "phone": [
-          "62997535",
-          "62997662"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "02 Jul 2021"
-    },
-    {
       "id": "95241",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine 7.5kg to 8kg",
@@ -3755,6 +3719,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "95343",
+      "name": "Bed/side table",
+      "description": "Pine wood bed/side table",
+      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+      "validTill": "02 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95342",
+      "name": "27 inch computer monitor",
+      "description": "27 inch computer monitor, working well and comes with cables.",
+      "location": "Middle Road, Golden Mile",
+      "validTill": "02 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "95341",
       "name": "3 seater sofa IKEA with 3 throw cushions",
