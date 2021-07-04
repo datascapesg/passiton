@@ -513,23 +513,6 @@
       "date": "14 Jun 2021"
     },
     {
-      "id": "94220",
-      "category": "Others",
-      "name": "CCTV (Delivery Is payable by Donor)",
-      "description": "Family of four is facing a difficult time as the sole breadwinner who also suffers from chronic health issues is struggling to keep pace with the long working hours. To support the business and provide for the basic needs of the family, the father of the family has to take on a 12 hours shift despite his failing health. \nAt present, he is unable to work and was recently admitted to the hospital. Mother, on the other hand, has only recently started the job. \nHaving to reside in a rental flat, the family of four is unable to pay large purchases and would like to receive a CCTV to monitor the children's well-being at home, as well as the father's health when he resides back at home.",
-      "specifications": "With Audio",
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "amychua@mws.sg",
-        "phone": [
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Jun 2021"
-    },
-    {
       "id": "94177",
       "category": "Others",
       "name": "Halal Fresh/ Frozen Food",
@@ -3405,6 +3388,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "95364",
+      "name": "Bed & Mattress",
+      "description": "Mattress is foam mattress. There are 2.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "03 Aug 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "95363",
       "name": "White sneaker shoe",
