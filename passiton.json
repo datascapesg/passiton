@@ -1518,24 +1518,6 @@
       "date": "02 Jul 2021"
     },
     {
-      "id": "95291",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Client is from a low-income family. recently husband's, who is sole breadwinner, his employment situation has not been very stable. She's a stay home mother looking after 3 children. They are looking for a washing machine however is unable to afford a new one. It would be helpful if they are able to receive one! Thank you :)",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Services @ Taman Jurong SSO",
-        "name": "Charmaine Lim",
-        "email": "charmainelim@fycs.org",
-        "phone": [
-          "62672945",
-          "62672900"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "02 Jul 2021"
-    },
-    {
       "id": "95287",
       "category": "Electrical Home Appliances",
       "name": "Freezer",
@@ -3298,6 +3280,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "95386",
+      "name": "Desktop PC",
+      "description": "Used desktop PC with monitor, keyboard and speaker. Maintained properly and functional.",
+      "location": "Jurong",
+      "validTill": "04 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95385",
+      "name": "Washing Machine",
+      "description": "Extra at home and works perfectly well.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "04 Aug 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "95378",
       "name": "Adidas ladies trainers shoes",
