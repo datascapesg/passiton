@@ -247,6 +247,42 @@
       "date": "04 Jun 2021"
     },
     {
+      "id": "95417",
+      "category": "Infant and Children Items",
+      "name": "Milk powder",
+      "description": "Single mother with a 2+ years old son, requires some assistance in providing milk for her son. He is smaller in size and requires to drink GROW milk powder to support growth.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Charmaine Pang",
+        "email": "charmaine.pang@montfortcare.org.sg",
+        "phone": [
+          "63254116",
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Jul 2021"
+    },
+    {
+      "id": "95415",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder",
+      "description": "Couple facing financial difficulties is in need of Similac infant formula milk powder + stage from 0 – 1 year old. Father is the sole bread winner and his income has been affected due to the Pandemic. Mother is a full time care giver to their child.",
+      "specifications": "Similac infant formula milk powder",
+      "contact": {
+        "org": "Fei Yue Community Services",
+        "name": "Daniel Tang",
+        "email": "danieltang@fycs.org",
+        "phone": [
+          "67690430",
+          "63809169"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "05 Jul 2021"
+    },
+    {
       "id": "95414",
       "category": "Infant and Children Items",
       "name": "Diapers",
@@ -2375,24 +2411,6 @@
       "date": "09 Jun 2021"
     },
     {
-      "id": "94014",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Living alone single senior recently had his washing machine faulty when he is doing his laundry. He is an amputee and move around on a motorised vehicle. Because of his financial background, he invited another person to stay to help out with the rent.",
-      "specifications": "600 x 850 x 560 mm",
-      "contact": {
-        "org": "Fei Yue Community Services",
-        "name": "Adelle Wai",
-        "email": "adellewai@fycs.org",
-        "phone": [
-          "63809157",
-          "63809169"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Jun 2021"
-    },
-    {
       "id": "93983",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine 9kg",
@@ -3314,6 +3332,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "95418",
+      "name": "Hair dryer",
+      "description": "Pick up @ commonwealth MRT station",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "11 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95416",
+      "name": "Diapers, diaper cream, bottle teats",
+      "description": "Recently opened packet of Huggies size S diapers - slightly more than half left (approx 35), unopened box of desitin diaper cream (extra strong) and recently used pigeon wide neck years s and medium sizes",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "01 Aug 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "95412",
       "name": "Hello Kitty soft toys",
