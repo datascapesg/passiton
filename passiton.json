@@ -37,10 +37,10 @@
       "date": "21 Jun 2021"
     },
     {
-      "id": "95380",
+      "id": "95387",
       "category": "Mobility Aids",
       "name": "Wheelchair",
-      "description": "Low-income family is in need of a wheelchair as their current one is too small. Requires one which can withstand weight up to 90kg.",
+      "description": "Low-income family is in need of a wheelchair as their current one is too small. Requires one which can withstand weight up to 120kg.",
       "specifications": null,
       "contact": {
         "org": "AMKFSC Community Services Ltd - Cheng San",
@@ -2393,24 +2393,6 @@
       "date": "02 Jul 2021"
     },
     {
-      "id": "95307",
-      "category": "Others",
-      "name": "25 x 3kg Coarse Sugar",
-      "description": "We are requesting for 25 packets of 3kg of coarse sugar as we cook 3 meals a day for our residents from Monday to Saturday. The Helping Hand is a Voluntary Welfare Organization affiliated with the National Council of Social Service. We run a home providing drug rehabilitation and after-care services to male drug addicts and ex-offenders in Singapore. This is a residential programme carried out in our agency home, which was graciously provided by the Singapore government in recognition of our services to the community. We have a total of about 100 residents and staff staying in at our premises.",
-      "specifications": null,
-      "contact": {
-        "org": "The Helping Hand",
-        "name": "Chan Toh Han",
-        "email": "chantohhan@thehelpinghand.org.sg",
-        "phone": [
-          "62832204ext120",
-          "62832204"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "02 Jul 2021"
-    },
-    {
       "id": "95266",
       "category": "Others",
       "name": "Halal fresh/frozen food assistance for 3 to 6 months",
@@ -3263,22 +3245,42 @@
   ],
   "offers": [
     {
+      "id": "95390",
+      "name": "Clothings for Young Adults",
+      "description": "M size - clothes for young female adult.",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "15 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95389",
+      "name": "Pram bag",
+      "description": "Stoke pram travel bag, well used and worn however in good working order. Fits almost any stroller on the market. Reinforced materials provide solid protection on the airplane, or any other travel mode.\nThe Stokke PramPack is easy to pack and easy to manoeuvre, with a lightweight design and wheels. Plus, when you arrive, simply roll up the bag for compact storage.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "01 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95388",
+      "name": "Baby cot",
+      "description": "Boori Casa Cot Bed (Dropside), well-worn however in ok condition and free to someone who can use it.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "01 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "95386",
       "name": "Desktop PC",
       "description": "Used desktop PC with monitor, keyboard and speaker. Maintained properly and functional.",
       "location": "Jurong",
       "validTill": "04 Aug 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95385",
-      "name": "Washing Machine",
-      "description": "Extra at home and works perfectly well.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "04 Aug 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3615,7 +3617,7 @@
     {
       "id": "95319",
       "name": "Tempered Glass Table",
-      "description": "Mondi Tempered Glass Dining Table in very good condition. Can be easily dismantled for removal. 1.6m x 1.9m.",
+      "description": "Mondi Tempered Glass Dining Table in very good condition. Can be easily dismantled for removal. 1.6m x 0.9m.",
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "31 Jul 2021",
       "ageInYears": 4,
@@ -3686,16 +3688,6 @@
       "id": "95276",
       "name": "Computer table / study table",
       "description": "1 year old table. clean and mint condition.",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "01 Aug 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95274",
-      "name": "Midea Small Rice cooker- only cook rice & up to 4pax",
-      "description": "Rarely used and still quite new. Cook for Up to 4 pax",
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
       "validTill": "01 Aug 2021",
       "ageInYears": 1,
