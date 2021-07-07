@@ -1,5 +1,25 @@
 [
   {
+    "id": "95492",
+    "name": "King Mattress (or protector, as good as new)",
+    "description": "Mattress protector, but could be used as mattress as well.",
+    "location": "Orchard, Cairnhill, River Valley",
+    "validTill": "06 Aug 2021",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "95488",
+    "name": "Ikea Bed Frame (white) (double size)",
+    "description": "White IKEA Wooden Bedframe that fits double mattress size. Used for 5 years.",
+    "location": "Queenstown, Tiong Bahru",
+    "validTill": "17 Jul 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "95483",
     "name": "Dining Table 1.2m with 2 dining chairs and bench",
     "description": "Ceramic dining table, comes with 2 dining chairs and a bench",
@@ -266,16 +286,6 @@
     "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
     "validTill": "04 Aug 2021",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "95479",
-    "name": "Bed & Mattress",
-    "description": "Mattress is foam mattress. There are 2.",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "03 Aug 2021",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
