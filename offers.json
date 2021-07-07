@@ -10,26 +10,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "95466",
-    "name": "Clothes Dryer",
-    "description": "Dryer need to be delivered on 5th Sept.",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "06 Aug 2021",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "95465",
-    "name": "Router",
-    "description": "Router",
-    "location": "Yishun, Sembawang",
-    "validTill": "06 Aug 2021",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "95455",
     "name": "Flowers",
     "description": "Fake flowers",
@@ -276,16 +256,6 @@
     "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
     "validTill": "04 Aug 2021",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "95364",
-    "name": "Bed & Mattress",
-    "description": "Mattress is foam mattress. There are 2.",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "03 Aug 2021",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -1056,6 +1026,16 @@
     "location": "Balestier, Toa Payoh, Serangoon",
     "validTill": "23 Jul 2021",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "95478",
+    "name": "Small Coffee Table",
+    "description": "Small coffee table with marker stain.\nWill try to clean it as best as possible.",
+    "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
+    "validTill": "15 Jul 2021",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
