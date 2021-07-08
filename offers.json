@@ -1,5 +1,15 @@
 [
   {
+    "id": "95546",
+    "name": "Student chair with wheels",
+    "description": "Used chair in great condition. For student or small adult. Has wheels and modern look.",
+    "location": "Orchard, Cairnhill, River Valley",
+    "validTill": "07 Aug 2021",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "95545",
     "name": "mattress covers",
     "description": "beddings",
@@ -70,20 +80,10 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "95534",
-    "name": "Seahorse single bed frame with mattress",
-    "description": "Seahorse single bed frame with mattress",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "15 Jul 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "95533",
     "name": "Chest of drawer",
     "description": "chest of drawer",
-    "location": "Balestier, Toa Payoh, Serangoon",
+    "location": "Toa Payoh",
     "validTill": "15 Jul 2021",
     "ageInYears": 4,
     "dimensions": null,
@@ -93,7 +93,7 @@
     "id": "95532",
     "name": "2 door wardrobe",
     "description": "2 door wardrobe",
-    "location": "Balestier, Toa Payoh, Serangoon",
+    "location": "Toa Payoh",
     "validTill": "15 Jul 2021",
     "ageInYears": 4,
     "dimensions": null,

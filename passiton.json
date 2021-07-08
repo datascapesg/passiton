@@ -2506,24 +2506,6 @@
       "date": "08 Jul 2021"
     },
     {
-      "id": "95523",
-      "category": "Home Furnishing",
-      "name": "Coffee table",
-      "description": "The coffee table is for a 71 year-old single elderly caregiver who is caring for his single elderly brother. Both of them are unemployed due to their physical and mental health conditions. Their house was previously infested with bed bugs and hence their sofas and coffee table were disposed. They would like to look for 2x one seater sofa and 1x coffee table.",
-      "specifications": null,
-      "contact": {
-        "org": "Alzheimer’s Disease Association",
-        "name": "Sim Rong Her",
-        "email": "rongher@alz.org.sg",
-        "phone": [
-          "63895388",
-          "63895103"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "08 Jul 2021"
-    },
-    {
       "id": "95522",
       "category": "Home Furnishing",
       "name": "One-seater Sofa x 2",
@@ -2785,6 +2767,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "08 Jun 2021"
+    },
+    {
+      "id": "95547",
+      "category": "Learning Aids",
+      "name": "Laptop with charger and mouse",
+      "description": "Single mum with 2 young children is currently unemployed. She is keen to apply for part-time jobs and seeking to attend an online course. A laptop would enable her to attend her online classes to upskill and improve her chances at securing a job with a better designed resume.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Victoria Chong",
+        "email": "victoriachong@fycs.org",
+        "phone": [
+          "69783482",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Jul 2021"
     },
     {
       "id": "95495",
@@ -3176,6 +3176,16 @@
   ],
   "offers": [
     {
+      "id": "95546",
+      "name": "Student chair with wheels",
+      "description": "Used chair in great condition. For student or small adult. Has wheels and modern look.",
+      "location": "Orchard, Cairnhill, River Valley",
+      "validTill": "07 Aug 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "95545",
       "name": "mattress covers",
       "description": "beddings",
@@ -3246,20 +3256,10 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95534",
-      "name": "Seahorse single bed frame with mattress",
-      "description": "Seahorse single bed frame with mattress",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "15 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95533",
       "name": "Chest of drawer",
       "description": "chest of drawer",
-      "location": "Balestier, Toa Payoh, Serangoon",
+      "location": "Toa Payoh",
       "validTill": "15 Jul 2021",
       "ageInYears": 4,
       "dimensions": null,
@@ -3269,7 +3269,7 @@
       "id": "95532",
       "name": "2 door wardrobe",
       "description": "2 door wardrobe",
-      "location": "Balestier, Toa Payoh, Serangoon",
+      "location": "Toa Payoh",
       "validTill": "15 Jul 2021",
       "ageInYears": 4,
       "dimensions": null,
