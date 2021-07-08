@@ -124,24 +124,6 @@
       "date": "05 Jul 2021"
     },
     {
-      "id": "95379",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "Low-income family staying in rental flat is in need of a new wheelchair as their current one is faulty/not stable for pushing across long distance.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Lee Yan Jun",
-        "email": "leeyanjun@amkfsc.org.sg",
-        "phone": [
-          "64546678",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Jul 2021"
-    },
-    {
       "id": "95344",
       "category": "Mobility Aids",
       "name": "Electronic wheelchair",
@@ -262,6 +244,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "09 Jun 2021"
+    },
+    {
+      "id": "95556",
+      "category": "Infant and Children Items",
+      "name": "Diaper M size (tape)",
+      "description": "Client low-income with 6 children. Client has a 7 months old baby. She wishes for diapers and milk to help her cut some household expenses.",
+      "specifications": "any brand",
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Jul 2021"
+    },
+    {
+      "id": "95555",
+      "category": "Infant and Children Items",
+      "name": "Milk powder-Enfagrow fomula stage 3 (1-3 years old)",
+      "description": "Client low-income with 6 children. Client has a 7 months old baby. She wishes for diapers and milk to help her cut some household expenses.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Jul 2021"
     },
     {
       "id": "95536",
@@ -1134,6 +1150,24 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "07 Jun 2021"
+    },
+    {
+      "id": "95554",
+      "category": "Electrical Home Appliances",
+      "name": "Induction Cooker",
+      "description": "Client is a single mother with four children living in rental flat. She has no income as she needs to care for her nonverbal autistic son. Her stove is faulty.",
+      "specifications": null,
+      "contact": {
+        "org": "Lakeside Family Centre - Jurong West",
+        "name": "Theresa Jude",
+        "email": "theresa-jude@lakeside.org.sg",
+        "phone": [
+          "65671908ext401",
+          "65671908"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Jul 2021"
     },
     {
       "id": "95544",
@@ -2489,23 +2523,6 @@
       "date": "08 Jun 2021"
     },
     {
-      "id": "95529",
-      "category": "Home Furnishing",
-      "name": "3 seater sofa",
-      "description": "Family has 3 children who require financial support as wife is the sole breadwinner. Husband is certified to be unfit for work. They require support for a 3 seater sofa, preferably black, fabric. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Koh Fang Qi",
-        "email": "kohfangqi@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "08 Jul 2021"
-    },
-    {
       "id": "95522",
       "category": "Home Furnishing",
       "name": "One-seater Sofa x 2",
@@ -3176,6 +3193,16 @@
   ],
   "offers": [
     {
+      "id": "95550",
+      "name": "Brandt washing machine 6L",
+      "description": "Very good working condition \"Made in France\" top-load washing machine despite more than 4 years",
+      "location": "Watten Estate, Novena, Thomson",
+      "validTill": "25 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "95549",
       "name": "Baby Bath & Potty",
       "description": "Baby bath tubs 50 x 70cm\nPotty\nToilet seat for toddler (to be placed over adult toilet seat)",
@@ -3256,16 +3283,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95538",
-      "name": "Queen bed c/w mattress",
-      "description": "Good clean condition with no sign of wear and tear. Nor scratch or stain. Come with Good size storage below.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "07 Aug 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95537",
       "name": "Ikea loft bed",
       "description": "Just the frame, very new. No underneath desk. Need help to dissemble.",
@@ -3276,9 +3293,9 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95533",
-      "name": "Chest of drawer",
-      "description": "chest of drawer",
+      "id": "95552",
+      "name": "2 door wardrobe",
+      "description": "2 door wardrobe",
       "location": "Toa Payoh",
       "validTill": "15 Jul 2021",
       "ageInYears": 4,
@@ -3286,7 +3303,7 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95532",
+      "id": "95553",
       "name": "2 door wardrobe",
       "description": "2 door wardrobe",
       "location": "Toa Payoh",
@@ -3389,6 +3406,16 @@
       "id": "95508",
       "name": "chair",
       "description": "4 plastic chair, 2 wooden chair",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "15 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95551",
+      "name": "cupboard",
+      "description": "as good as brand new",
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "15 Jul 2021",
       "ageInYears": 4,
