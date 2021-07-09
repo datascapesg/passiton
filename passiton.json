@@ -2071,23 +2071,6 @@
       "date": "02 Jul 2021"
     },
     {
-      "id": "95233",
-      "category": "Electrical Home Appliances",
-      "name": "portable air cooler",
-      "description": "A single mother hopes to have a portable air cooler for her HDB rental flat which she got from the government.  She has 3 young children. She is unable to work because her youngest child still needs breastfeeding. She relies on financial assistance to meet the family basic needs.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Jul 2021"
-    },
-    {
       "id": "95109",
       "category": "Electrical Home Appliances",
       "name": "TV",
@@ -2506,24 +2489,6 @@
       "date": "09 Jul 2021"
     },
     {
-      "id": "95571",
-      "category": "Learning Aids",
-      "name": "Laptop needed for HBL",
-      "description": "Client is a single father who is caring for his 8 year old daughter who is in need of a laptop for her HBL. Client is currently working in McDonalds to support his daughter, mother, and his nephew and niece occasionally and hence is stretched financially. Thank you for the support for this family.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Daphne Koh",
-        "email": "daphnekohsukin@fycs.org",
-        "phone": [
-          "69783484",
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Jul 2021"
-    },
-    {
       "id": "95560",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -2894,6 +2859,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "95585",
+      "name": "Panasonic 2-door fridge",
+      "description": "Panasonic 2-door fridge",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "15 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "95581",
       "name": "Samsung Front Load Washer",
