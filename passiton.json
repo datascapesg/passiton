@@ -1047,6 +1047,23 @@
       "date": "09 Jun 2021"
     },
     {
+      "id": "95590",
+      "category": "Others",
+      "name": "Adult diapers",
+      "description": "Client is the sole breadwinner of two teenage children. Client's mother requires adult diapers for her care needs. Client works as a school bus attendant and struggles to cope with her mother's caregiving needs and children's educational expenses.",
+      "specifications": "XL",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Aw Chin Bee",
+        "email": "awchinbee@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "09 Jul 2021"
+    },
+    {
       "id": "95576",
       "category": "Others",
       "name": "Piano/Keyboard",
@@ -1737,6 +1754,23 @@
       "date": "08 Jun 2021"
     },
     {
+      "id": "95589",
+      "category": "Home Furnishing",
+      "name": "Wardrobe",
+      "description": "Family of 7, with 5 young children requires a wardrobe to replace the current faulty one. Husband is the sole breadwinner and family is under SSO financial assistance. They are unable to afford to buy a replacement wardrobe.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Ye Jiancheng",
+        "email": "jiancheng@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Jul 2021"
+    },
+    {
       "id": "95490",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -1946,6 +1980,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "08 Jun 2021"
+    },
+    {
+      "id": "95598",
+      "category": "Electrical Home Appliances",
+      "name": "TV digital antenna cable",
+      "description": "Elderly man is a stroke survivor and unable to fix his faulty, old TV by himself due to difficulty mobilising. He cannot afford a new TV due to tight finances. When TV has become all digital, he can't watch TV to pass his time and remain up-to-date with current events.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Victoria Chong",
+        "email": "victoriachong@fycs.org",
+        "phone": [
+          "69783482",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Jul 2021"
     },
     {
       "id": "95587",
@@ -2383,23 +2435,6 @@
       "date": "10 Jun 2021"
     },
     {
-      "id": "94061",
-      "category": "Electrical Home Appliances",
-      "name": "Fridge (HALAL ONLY)",
-      "description": "Client is a single mother of three teenage schooling children. \nShe recently resigned from her previous job due to unfair treatment, which affected her psychological and mental wellbeing. \nWhilst she is on assistance, the family has outstanding bills to clear and are struggling with financial difficulties due to the loss of sole income earner. As such, they are not able to make provision for large purchases.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "amychua@mws.sg",
-        "phone": [
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Jun 2021"
-    },
-    {
       "id": "94015",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -2822,6 +2857,86 @@
     }
   ],
   "offers": [
+    {
+      "id": "95599",
+      "name": "Desk",
+      "description": "Desk with two drawers in good condition, including two matching shelves to put pictures or frames",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "26 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95597",
+      "name": "Desk lamp",
+      "description": "Can be extended to a height of 94 cm. Clamp to desk base.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "15 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95596",
+      "name": "Walking stick with 4 legged broad base",
+      "description": "walking frame with friendly handle and 4 legged base.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "15 Jul 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95595",
+      "name": "Computer desk with drawer and key lock",
+      "description": "In good condition. Has two sliding out shelves - one for keyboard and one for printer. Also has a drawer with key to lock it.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "15 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95594",
+      "name": "Brown bookcase",
+      "description": "Giving away both book cases but the one in the description is the brown one on the right. Bought from IKEA. In good condition.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "15 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95593",
+      "name": "Bookcase with glass slideing doors and swingout doors",
+      "description": "It's the grey and white bookshelf on the left. It has all doors (glass sliding doors and bottom are swingout doors). Excellent bookcase if you do not want dust to settle.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "15 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95592",
+      "name": "WOODEN CHEST",
+      "description": "Wooden chest with one shelf in the middle. Solid wood.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "31 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95591",
+      "name": "WHITE CABINET WITH SLIDE DOORS",
+      "description": "White with sliding doors. can be used as a shoe cabinet or a general cabinet. Leans against the wall with no back legs.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "31 Jul 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "95578",
       "name": "Mattress",
