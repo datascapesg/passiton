@@ -722,6 +722,23 @@
       "date": "14 Jun 2021"
     },
     {
+      "id": "95667",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder",
+      "description": "Client is the primary caregiver of 2 young children (8 and 5 yo). 5 yo son requires caregiving needs due to his asthma and learning disabilities. Father provides limited contribution despite maintenance was sought and mother has limited job opportunities. Mother is struggling to cope with the daily needs of her children while she pend for the Court outcome.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Aw Chin Bee",
+        "email": "awchinbee@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "12 Jul 2021"
+    },
+    {
       "id": "95660",
       "category": "Infant and Children Items",
       "name": "Dugro Stage 4 Milk Powder",
@@ -756,42 +773,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "12 Jul 2021"
-    },
-    {
-      "id": "95624",
-      "category": "Infant and Children Items",
-      "name": "Mamy Poko Pants Diapers (XL)",
-      "description": "Family with 3 young children needs support with diapers for the youngest two children. Father is the sole breadwinner currently. Mother is pregnant with the 4th child and is unable to work due to mental health concerns and a difficult pregnancy. \n\nIf you can help, please contact Jessie at 91250028. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Jessie Lim",
-        "email": "jessielim@fycs.org",
-        "phone": [
-          "68199173",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "11 Jul 2021"
-    },
-    {
-      "id": "95622",
-      "category": "Infant and Children Items",
-      "name": "Pedia Sure Gold (Strawberry) Milk Powder",
-      "description": "Family with 3 young children needs support with milk powder for the youngest two children. Father is the sole breadwinner currently. Mother is pregnant with the 4th child and is unable to work due to mental health concerns and a difficult pregnancy. \n\nIf you can help, please contact Jessie at 91250028. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Jessie Lim",
-        "email": "jessielim@fycs.org",
-        "phone": [
-          "68199173",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "11 Jul 2021"
     },
     {
       "id": "95582",
@@ -1644,6 +1625,57 @@
       "date": "11 Jun 2021"
     },
     {
+      "id": "95671",
+      "category": "Electrical Home Appliances",
+      "name": "washing machine",
+      "description": "\"A single mother hopes to have a washing machine for her HDB rental flat which she got from the government.  She has 3 young children. She is unable to work because her youngest child still needs breastfeeding. She relies on financial assistance to meet the family basic needs.\"",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Jul 2021"
+    },
+    {
+      "id": "95669",
+      "category": "Electrical Home Appliances",
+      "name": "Top load washing machine",
+      "description": "Client is a single full-time working parent living in a one room rental flat. The family’s current washing machine has broken down and would appreciate to get a top load washing machine (>9kg) to help with laundry.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "12 Jul 2021"
+    },
+    {
+      "id": "95668",
+      "category": "Electrical Home Appliances",
+      "name": "Instant Water Heater (for showering)",
+      "description": "2 uncles 60+ yrs old living in 1-room HDB rental flat need a water heater for showering. They have just moved into the flat and it doesn't have any water heater. Please also include installation. Many Thanks.",
+      "specifications": "Installation included",
+      "contact": {
+        "org": "Moral Senior Activity Center @ Kaki Bukit",
+        "name": "Gary Tan",
+        "email": "garytan@chkmps.org.sg",
+        "phone": [
+          "64486247"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Jul 2021"
+    },
+    {
       "id": "95661",
       "category": "Electrical Home Appliances",
       "name": "Vacuum Cleaner",
@@ -2330,6 +2362,16 @@
   ],
   "offers": [
     {
+      "id": "95670",
+      "name": "Soft toys",
+      "description": "Collection of soft toys",
+      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+      "validTill": "11 Aug 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "95666",
       "name": "Dining Table 1.5metres",
       "description": "1.5 metres dining table to give away. doesnt come with dining chairs.",
@@ -2400,32 +2442,12 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95653",
-      "name": "Tower fan",
-      "description": "3 x Mistral tower fan (no remote) \n\nHeight: approx 123cm\nBase: 27x27cm",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95651",
       "name": "Stationery",
       "description": "A bagful of brand-new stationery suitable for primary school children, including a lightly used bag. Stationery includes pens,pencils,pencil cases,notebooks, highlighters,coloured pens,markers,erasers,sharpener,post-its.",
       "location": "Jurong",
       "validTill": "10 Aug 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95649",
-      "name": "Well Kept Marble Dining Table 1.6m x 0.9m",
-      "description": "Used well kept marble dining table. Donating due to shifting house",
-      "location": null,
-      "validTill": "23 Jul 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2480,7 +2502,7 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95640",
+      "id": "95672",
       "name": "Wardrobe, 2 single bed frames",
       "description": "Wardrobe is about 1 meter Width\nAbout 2 meters height",
       "location": null,
@@ -2560,16 +2582,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95627",
-      "name": "Massager",
-      "description": "Massager for legs and feet. It was hardly used and is still in good condition.",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "10 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95626",
       "name": "L shaped Sofa",
       "description": "L shaped Sofa consists of 2 partitions can be treated as separate sofa items, amd of more than 10 yrs which is well kept in good comdition.",
@@ -2640,16 +2652,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95608",
-      "name": "Sofa bed",
-      "description": "Width: \n    142 cm\nDepth: \n    100 cm\nHeight: \n    87 cm\nSeat depth: \n    60 cm\nSeat height: \n    39 cm\nBed width: \n    140 cm\nBed length: \n    188 cm\nMattress thickness: \n    10 cm\nMattress length: \n    188 cm\nMattress width: \n    140 cm",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "09 Aug 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95606",
       "name": "Bed sheet",
       "description": "Two fitted bed sheets. One quilt cover. 2 bolster covers",
@@ -2680,29 +2682,9 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95602",
-      "name": "Slim book case",
-      "description": "Slim, white ikea bookcase. In good condition.",
-      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-      "validTill": "26 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95601",
       "name": "Small white desk",
       "description": "Small, white desk with drawer. .In good condition",
-      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-      "validTill": "26 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95600",
-      "name": "Book case",
-      "description": "White ikea book case, in good condition.",
       "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
       "validTill": "26 Jul 2021",
       "ageInYears": 4,
@@ -2715,16 +2697,6 @@
       "description": "Desk with two drawers in good condition, including two matching shelves to put pictures or frames",
       "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
       "validTill": "26 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95597",
-      "name": "Desk lamp",
-      "description": "Can be extended to a height of 94 cm. Clamp to desk base.",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "15 Jul 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -2776,16 +2748,6 @@
       "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
       "validTill": "31 Jul 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95591",
-      "name": "WHITE CABINET WITH SLIDE DOORS",
-      "description": "White with sliding doors. can be used as a shoe cabinet or a general cabinet. Leans against the wall with no back legs.",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2986,16 +2948,6 @@
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "16 Jul 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95513",
-      "name": "Sea Horse Single Size Foldable Hard Healthy Mattress（3-fold)",
-      "description": "The high density and ultimate hard foam layers together provide firm support to backbone.\n\nThe foldable design into three layers allows easy and space-saving storage.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },

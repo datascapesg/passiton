@@ -1,5 +1,15 @@
 [
   {
+    "id": "95670",
+    "name": "Soft toys",
+    "description": "Collection of soft toys",
+    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+    "validTill": "11 Aug 2021",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "95666",
     "name": "Dining Table 1.5metres",
     "description": "1.5 metres dining table to give away. doesnt come with dining chairs.",
@@ -70,32 +80,12 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "95653",
-    "name": "Tower fan",
-    "description": "3 x Mistral tower fan (no remote) \n\nHeight: approx 123cm\nBase: 27x27cm",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "31 Jul 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "95651",
     "name": "Stationery",
     "description": "A bagful of brand-new stationery suitable for primary school children, including a lightly used bag. Stationery includes pens,pencils,pencil cases,notebooks, highlighters,coloured pens,markers,erasers,sharpener,post-its.",
     "location": "Jurong",
     "validTill": "10 Aug 2021",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "95649",
-    "name": "Well Kept Marble Dining Table 1.6m x 0.9m",
-    "description": "Used well kept marble dining table. Donating due to shifting house",
-    "location": null,
-    "validTill": "23 Jul 2021",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -150,7 +140,7 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "95640",
+    "id": "95672",
     "name": "Wardrobe, 2 single bed frames",
     "description": "Wardrobe is about 1 meter Width\nAbout 2 meters height",
     "location": null,
@@ -230,16 +220,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "95627",
-    "name": "Massager",
-    "description": "Massager for legs and feet. It was hardly used and is still in good condition.",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "10 Aug 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "95626",
     "name": "L shaped Sofa",
     "description": "L shaped Sofa consists of 2 partitions can be treated as separate sofa items, amd of more than 10 yrs which is well kept in good comdition.",
@@ -310,16 +290,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "95608",
-    "name": "Sofa bed",
-    "description": "Width: \n    142 cm\nDepth: \n    100 cm\nHeight: \n    87 cm\nSeat depth: \n    60 cm\nSeat height: \n    39 cm\nBed width: \n    140 cm\nBed length: \n    188 cm\nMattress thickness: \n    10 cm\nMattress length: \n    188 cm\nMattress width: \n    140 cm",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "09 Aug 2021",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "95606",
     "name": "Bed sheet",
     "description": "Two fitted bed sheets. One quilt cover. 2 bolster covers",
@@ -350,29 +320,9 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "95602",
-    "name": "Slim book case",
-    "description": "Slim, white ikea bookcase. In good condition.",
-    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-    "validTill": "26 Jul 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "95601",
     "name": "Small white desk",
     "description": "Small, white desk with drawer. .In good condition",
-    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-    "validTill": "26 Jul 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "95600",
-    "name": "Book case",
-    "description": "White ikea book case, in good condition.",
     "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
     "validTill": "26 Jul 2021",
     "ageInYears": 4,
@@ -385,16 +335,6 @@
     "description": "Desk with two drawers in good condition, including two matching shelves to put pictures or frames",
     "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
     "validTill": "26 Jul 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "95597",
-    "name": "Desk lamp",
-    "description": "Can be extended to a height of 94 cm. Clamp to desk base.",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "15 Jul 2021",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
@@ -446,16 +386,6 @@
     "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
     "validTill": "31 Jul 2021",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "95591",
-    "name": "WHITE CABINET WITH SLIDE DOORS",
-    "description": "White with sliding doors. can be used as a shoe cabinet or a general cabinet. Leans against the wall with no back legs.",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "31 Jul 2021",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -656,16 +586,6 @@
     "location": "Balestier, Toa Payoh, Serangoon",
     "validTill": "16 Jul 2021",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "95513",
-    "name": "Sea Horse Single Size Foldable Hard Healthy Mattress（3-fold)",
-    "description": "The high density and ultimate hard foam layers together provide firm support to backbone.\n\nThe foldable design into three layers allows easy and space-saving storage.",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "31 Jul 2021",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
