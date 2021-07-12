@@ -794,23 +794,6 @@
       "date": "11 Jul 2021"
     },
     {
-      "id": "95588",
-      "category": "Infant and Children Items",
-      "name": "Diapers & Milk Powder",
-      "description": "Client is the primary caregiver of 2 young children (8 and 5 yo). 5 yo son requires caregiving needs due to his asthma and learning disabilities. Father provides limited contribution despite maintenance was sought and mother has limited job opportunities. Mother is struggling to cope with the daily needs of her children while she pend for the Court outcome.",
-      "specifications": "nil",
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Aw Chin Bee",
-        "email": "awchinbee@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "09 Jul 2021"
-    },
-    {
       "id": "95582",
       "category": "Infant and Children Items",
       "name": "Diapers (Pull-up pants)",
@@ -1661,6 +1644,23 @@
       "date": "11 Jun 2021"
     },
     {
+      "id": "95661",
+      "category": "Electrical Home Appliances",
+      "name": "Vacuum Cleaner",
+      "description": "Client has two school going children in Primary 5 and primary 3. Client and husband are unemployed due to health issues and client has to be his caregiver. Client lives in a 1 room/1 hall rental flat. Client does not have a vacuum at home. Her children has asthma and a vacuum can help with the dust at home.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Dini Dzulaikha Bte Dzulkifli",
+        "email": null,
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "12 Jul 2021"
+    },
+    {
       "id": "95544",
       "category": "Electrical Home Appliances",
       "name": "Portable Aircon (Not Air-Cooler)",
@@ -2330,6 +2330,56 @@
   ],
   "offers": [
     {
+      "id": "95666",
+      "name": "Dining Table 1.5metres",
+      "description": "1.5 metres dining table to give away. doesnt come with dining chairs.",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "06 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95665",
+      "name": "Coffee Table",
+      "description": "Walnut wood coffee table. pls arrange for self pick up or delivery thanks.",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "06 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95664",
+      "name": "TV console Walnut Wood",
+      "description": "TV console walnut wood. Pls arrange for own pick up and delivery as item is really bulky/heavy",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "05 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95663",
+      "name": "King Sized Bed Frame",
+      "description": "Giving away PVC leather king sized bed frame (without mattress)",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "06 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95662",
+      "name": "Steel Filing Cabinet",
+      "description": "Brand new condition. Comes with key",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "14 Jul 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "95656",
       "name": "Table",
       "description": "Brand new condition! 2+1 tables. \n\nPerfect for any home or office use. Simple yet stylish design.\n\nTable top size: W1400 x D640 x THK25mm\nLaminated top colour: White\nTable legs colour: Red\n\nComes with cable tray",
@@ -2366,16 +2416,6 @@
       "location": "Jurong",
       "validTill": "10 Aug 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95650",
-      "name": "Samsung 2 door fridge",
-      "description": "Item still in working condition although already 8 years old.",
-      "location": "Yishun, Sembawang",
-      "validTill": "06 Aug 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
