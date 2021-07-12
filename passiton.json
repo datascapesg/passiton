@@ -1695,24 +1695,6 @@
       "date": "18 Jun 2021"
     },
     {
-      "id": "94151",
-      "category": "Learning Aids",
-      "name": "Laptop",
-      "description": "Single-parent with a school-going child who requires a laptop for school work and projects. Their current laptop is faulty. Family hopes to get a laptop that is not too heavy.",
-      "specifications": null,
-      "contact": {
-        "org": "Club Rainbow (Singapore)",
-        "name": "Nurulhuda Binte Abu Bakar",
-        "email": "nurul@clubrainbow.org",
-        "phone": [
-          "81336189",
-          "63771789"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "11 Jun 2021"
-    },
-    {
       "id": "95567",
       "category": "Medical Aids",
       "name": "Pressure Relief Mattress",
@@ -2273,6 +2255,24 @@
       "date": "16 Jun 2021"
     },
     {
+      "id": "95716",
+      "category": "Home Furnishing",
+      "name": "Queen-size bed frame (non-wood) in dark colour with mattress",
+      "description": "Single mother with young children needs a queen sized bed frame in dark colours (non-wood) along with mattress (no more than 60 by 80 inches). They are currently sleeping on the floor. Please respond if you are keen to donate. Note: Delivery fee to be paid by the donor. Thank you.",
+      "specifications": "no more than 60 by 80 inches",
+      "contact": {
+        "org": "HEART @ Fei Yue",
+        "name": "Melody Chan",
+        "email": "melodychan@fycs.org",
+        "phone": [
+          "81217685",
+          "68199170"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Jul 2021"
+    },
+    {
       "id": "95589",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -2450,6 +2450,46 @@
   ],
   "offers": [
     {
+      "id": "95717",
+      "name": "Drawer",
+      "description": "Home furnishings",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "31 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95715",
+      "name": "Cabinet",
+      "description": "We have 2 sets available.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "25 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95714",
+      "name": "Writing Desk",
+      "description": "We have 2 writing desks available.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "25 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95713",
+      "name": "Chest of Drawers",
+      "description": "We have 2 sets of chest of drawers.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "25 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "95712",
       "name": "IKEA double sofa bed",
       "description": "Like new. Only used on two occasions",
@@ -2543,16 +2583,6 @@
       "id": "95666",
       "name": "Dining Table 1.5metres",
       "description": "1.5 metres dining table to give away. doesnt come with dining chairs.",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "06 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95665",
-      "name": "Coffee Table",
-      "description": "Walnut wood coffee table. pls arrange for self pick up or delivery thanks.",
       "location": "Tampines, Pasir Ris",
       "validTill": "06 Aug 2021",
       "ageInYears": 4,
@@ -2755,16 +2785,6 @@
       "description": "Christmas Tree w/deocrations\n6 foot tall when assembled",
       "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
       "validTill": "30 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95611",
-      "name": "Coffee Table",
-      "description": "White coffee table with glass top",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "22 Jul 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -3376,16 +3396,6 @@
       "location": "Jurong",
       "validTill": "13 Jul 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95283",
-      "name": "Stroller",
-      "description": "Stroller for infant to 3 or 4 years.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "01 Aug 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
