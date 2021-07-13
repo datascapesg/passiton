@@ -2378,23 +2378,6 @@
       "date": "01 Jul 2021"
     },
     {
-      "id": "95193",
-      "category": "Learning Aids",
-      "name": "Laptop",
-      "description": "2 laptops for use for HBL learning. Client has 3 children, 2 of them are in the primary school level. Client has financial difficulties and is going through a difficult divorce with husband. Husband is not assisting her with financial maintenance of the children. Client is unable to afford laptops / computers for children’s HBL learning.",
-      "specifications": null,
-      "contact": {
-        "org": "Sembawang Family Service Centre",
-        "name": "Po Woei Yee",
-        "email": "powoeiyee@sfsc.org.sg",
-        "phone": [
-          "67547050"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "30 Jun 2021"
-    },
-    {
       "id": "95050",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -2640,6 +2623,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "95777",
+      "name": "Ikea 4 seater foldable dining table",
+      "description": "brown wooden ikea table with 4 chairs. The table can be folded on both sides and kept in very compact spaces. Can be used for 2 or 4.",
+      "location": "Loyang, Changi",
+      "validTill": "20 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "95773",
       "name": "Bar stools",
