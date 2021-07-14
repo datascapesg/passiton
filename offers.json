@@ -1,5 +1,25 @@
 [
   {
+    "id": "95817",
+    "name": "Dining table",
+    "description": "White dining table with marble like pattern",
+    "location": "Queenstown, Tiong Bahru",
+    "validTill": "28 Jul 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "95816",
+    "name": "Sofa",
+    "description": "Good condition sofa. Slight tear on bottom right corner of sofa. Refer to attached (3rd photo).",
+    "location": "Queenstown, Tiong Bahru",
+    "validTill": "28 Jul 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "95809",
     "name": "Double decker bed without mattresses",
     "description": "Wooden  double decker bed with pull out bed to serve as third bed. No mattresses provided",
@@ -23,16 +43,6 @@
     "id": "95805",
     "name": "Sofa Bed",
     "description": "Good quality sofa\nEasy to change to bed\nDimensions: \nSofaSize: 1450mmx1000mm \nBed Size: 1250mmx1980mm",
-    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-    "validTill": "24 Jul 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "95803",
-    "name": "Fridge",
-    "description": "740 width\n729 Depth \n1818 Height\nIn good condition",
     "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
     "validTill": "24 Jul 2021",
     "ageInYears": 4,
@@ -250,16 +260,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "95721",
-    "name": "Washing machine",
-    "description": "Self-collection at your own cost only.\nWashing function in good condition.\ndryer function faulty\nModel: Electrolux EWW12742\nItem at Pasir Ris area",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "15 Jul 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "95719",
     "name": "Bowls, plates, utensils",
     "description": "Bowls, plates, utensils - Chinese family",
@@ -376,16 +376,6 @@
     "location": "Balestier, Toa Payoh, Serangoon",
     "validTill": "10 Aug 2021",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "95750",
-    "name": "Samsung 2 door fridge",
-    "description": "Item still in working condition although already 8 years old.",
-    "location": "Yishun, Sembawang",
-    "validTill": "06 Aug 2021",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -1366,16 +1356,6 @@
     "location": "West",
     "validTill": "15 Jul 2021",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "94829",
-    "name": "3 in 1 baby cot",
-    "description": "Preloved baby cot that can be converted as the child grows. Lightly used. Mattress is not provided",
-    "location": "Telok Blangah, Harbourfront",
-    "validTill": "24 Jul 2021",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },

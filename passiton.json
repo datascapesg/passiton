@@ -193,6 +193,42 @@
       "date": "14 Jun 2021"
     },
     {
+      "id": "95813",
+      "category": "Infant and Children Items",
+      "name": "NatureOne Milk Powder",
+      "description": "Family of 5 living in a 1-room rental flat. Father was previously the sole breadwinner of the family. However, the COVID-19 situation had significantly impacted father's job. Father is currently sourcing for a job. The family is currently relying on assistance and in-kind donations from social service agencies to provide for their children's basic necessities. The family would urgently require 3 tins of NatureOne milk powder for their children.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue - Early Intervention Centre For Children",
+        "name": "Joanna Tay",
+        "email": "joannatay@fycs.org",
+        "phone": [
+          "67719600",
+          "65656260"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "14 Jul 2021"
+    },
+    {
+      "id": "95812",
+      "category": "Infant and Children Items",
+      "name": "S26 Milk Powder",
+      "description": "Family of 5 living in a 1-room rental flat. Father was previously the sole breadwinner of the family. However, the COVID-19 situation had significantly impacted father's job. Father is currently sourcing for a job. The family is currently relying on assistance and in-kind donations from social service agencies to provide for their children's basic necessities. The family would urgently require S26 milk powder for their youngest child.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue - Early Intervention Centre For Children",
+        "name": "Joanna Tay",
+        "email": "joannatay@fycs.org",
+        "phone": [
+          "67719600",
+          "65656260"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "14 Jul 2021"
+    },
+    {
       "id": "95794",
       "category": "Infant and Children Items",
       "name": "Milk Powder",
@@ -1115,6 +1151,59 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "14 Jun 2021"
+    },
+    {
+      "id": "95818",
+      "category": "Electrical Home Appliances",
+      "name": "Television",
+      "description": "The family has 7 young children and their current television has broken down. Though both parents are working, they still suffer from financial difficulties. The mother is also taking night classes to upgrade herself to have better job opportunities.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Yew Tee",
+        "name": "Sherlyn Chan",
+        "email": "sherlynchan@fycs.org",
+        "phone": [
+          "64162183",
+          "64162162"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Jul 2021"
+    },
+    {
+      "id": "95815",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave",
+      "description": "For a senior who stays alone, currently not fit for work due to medical reasons and is in financial difficulty. Senior needs a microwave to heat up food packs for his meals. Please contact me at 91147293. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Yishun",
+        "name": "Geraldine Ng",
+        "email": "geraldine.ng@montfortcare.org.sg",
+        "phone": [
+          "64848040"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Jul 2021"
+    },
+    {
+      "id": "95814",
+      "category": "Electrical Home Appliances",
+      "name": "Top Load Washing Machine",
+      "description": "Single parent with a child who just shifted into her 2 room rental flat requires a top load washing machine (preferably 8L above so she can wash her beddings)",
+      "specifications": "Prefer 8L",
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Cynthia Koe",
+        "email": "goodwill@sccfsc.org.sg",
+        "phone": [
+          "96565633(WhatsappOnly)",
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Jul 2021"
     },
     {
       "id": "95810",
@@ -2645,6 +2734,26 @@
   ],
   "offers": [
     {
+      "id": "95817",
+      "name": "Dining table",
+      "description": "White dining table with marble like pattern",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "28 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95816",
+      "name": "Sofa",
+      "description": "Good condition sofa. Slight tear on bottom right corner of sofa. Refer to attached (3rd photo).",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "28 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "95809",
       "name": "Double decker bed without mattresses",
       "description": "Wooden  double decker bed with pull out bed to serve as third bed. No mattresses provided",
@@ -2668,16 +2777,6 @@
       "id": "95805",
       "name": "Sofa Bed",
       "description": "Good quality sofa\nEasy to change to bed\nDimensions: \nSofaSize: 1450mmx1000mm \nBed Size: 1250mmx1980mm",
-      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-      "validTill": "24 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95803",
-      "name": "Fridge",
-      "description": "740 width\n729 Depth \n1818 Height\nIn good condition",
       "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
       "validTill": "24 Jul 2021",
       "ageInYears": 4,
@@ -2895,16 +2994,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95721",
-      "name": "Washing machine",
-      "description": "Self-collection at your own cost only.\nWashing function in good condition.\ndryer function faulty\nModel: Electrolux EWW12742\nItem at Pasir Ris area",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "15 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95719",
       "name": "Bowls, plates, utensils",
       "description": "Bowls, plates, utensils - Chinese family",
@@ -3021,16 +3110,6 @@
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "10 Aug 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95750",
-      "name": "Samsung 2 door fridge",
-      "description": "Item still in working condition although already 8 years old.",
-      "location": "Yishun, Sembawang",
-      "validTill": "06 Aug 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4011,16 +4090,6 @@
       "location": "West",
       "validTill": "15 Jul 2021",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "94829",
-      "name": "3 in 1 baby cot",
-      "description": "Preloved baby cot that can be converted as the child grows. Lightly used. Mattress is not provided",
-      "location": "Telok Blangah, Harbourfront",
-      "validTill": "24 Jul 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
