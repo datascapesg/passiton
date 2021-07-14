@@ -244,23 +244,6 @@
       "date": "13 Jul 2021"
     },
     {
-      "id": "95771",
-      "category": "Infant and Children Items",
-      "name": "Urgent Milk Powder needed",
-      "description": "Malaysian mum with a baby is a victim of spousal violence. She is isolated at home and has no friends in Singapore. As she is a full time caregiver, she requires a one-off assistance of Bellamy milk powder stage 2. Looking for kind donors. Pls whatsapp me at 8109-6845. Thanks.",
-      "specifications": null,
-      "contact": {
-        "org": "Hougang Sheng Hong Family Service Centre",
-        "name": "Angie Tan",
-        "email": "angenette@shenghong.org.sg",
-        "phone": [
-          "62895022"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Jul 2021"
-    },
-    {
       "id": "95765",
       "category": "Infant and Children Items",
       "name": "Milk powder",
@@ -1149,24 +1132,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "14 Jun 2021"
-    },
-    {
-      "id": "95793",
-      "category": "Electrical Home Appliances",
-      "name": "Television in good condition",
-      "description": "Client is unfit for work as she has long-term epileptic conditions where she will black out. She is also on havy medication. thus, she is home most of the time. Her TV is spoilt. Hope to receive a replacement to keep her occupied at home.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Janetta Tan",
-        "email": "janettatan@amkfsc.org.sg",
-        "phone": [
-          "64546678",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Jul 2021"
     },
     {
       "id": "95792",
@@ -2430,17 +2395,18 @@
       "date": "18 Jun 2021"
     },
     {
-      "id": "95790",
+      "id": "95795",
       "category": "Home Furnishing",
-      "name": "Queen Size Mattress w/ Bed Frame",
-      "description": "Client is a single mother who is raising a child with special needs on her own. Presently, she is living on her own in a public rental house and some of her household items are malfunctioning. \nDue to her financial difficulties, she cannot afford to replace her refrigerator and mattress, therefore, hopes to be blessed with these household items. Client will appreciate if the transport fees can be covered as well.",
-      "specifications": "The item must be relatively new- can be second hand/ new purchase [Reason: Client's son has sensitive skin and they have previously received secondhand mattress with bed bugs",
+      "name": "Queen Mattress",
+      "description": "Mdm Zhang is a single mother to a 5 y/o boy who seeks for your provision of a queen mattress for her and her boy. Mdm Zhang has just started her job and your kind blessing of a queen mattress will greatly help her cope better with her financial constraints as she is striving her best to meet their expenses, especially for the legal fees that she is paying instalment for. We seek your kindest understanding that our shelter could only receive brand new mattress due to the units that are prone to bed bug infestation. Thank you so much!",
+      "specifications": null,
       "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "amychua@mws.sg",
+        "org": "AWWA Transitional Shelter",
+        "name": "Esther Tan",
+        "email": "esther_tan@awwa.org.sg",
         "phone": [
-          "67564995"
+          "65117278",
+          "65117272"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2657,6 +2623,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "95798",
+      "name": "Stainless steel milk bottles",
+      "description": "Pura milk bottles without teats. Some with dents and wobble",
+      "location": "Jurong",
+      "validTill": "13 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95797",
+      "name": "Baby stroller",
+      "description": "Maclaren day tripper stroller light weight and compact.",
+      "location": "Jurong",
+      "validTill": "13 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95796",
+      "name": "Preloved Sea Horse baby mattress",
+      "description": "Preloved Sea horse customise baby mattress. The cover can be removed",
+      "location": "Jurong",
+      "validTill": "13 Aug 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "95781",
       "name": "IKEA 4x2 bookshelf (Expedit)",
