@@ -982,24 +982,6 @@
       "date": "24 Jun 2021"
     },
     {
-      "id": "94777",
-      "category": "Infant and Children Items",
-      "name": "Milk Powder",
-      "description": "Husband is a low-income earner and currently struggles to pay household bills & support family of 7 (including 3 school-going children and twin-daughters (aged 1). Wife is a full-time housewife and unemployed due to caregiving needs especially for her pair of twins. Due to financial difficulties, they need help for their twins' milk powder. Due to their digestive issue, they can only drink Similac Gain (growing up milk) - Stage 3 and need a total of 4 tins per month.",
-      "specifications": null,
-      "contact": {
-        "org": "Lakeside Family Centre - Jurong West",
-        "name": "Magdalene Ng",
-        "email": "magdalene-ng@lakeside.org.sg",
-        "phone": [
-          "65671908ext436",
-          "65671908"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Jun 2021"
-    },
-    {
       "id": "94771",
       "category": "Infant and Children Items",
       "name": "Diapers",
@@ -1102,23 +1084,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "18 Jun 2021"
-    },
-    {
-      "id": "94454",
-      "category": "Infant and Children Items",
-      "name": "Abbott Similac Follow on Formula Stage 2, 1.8kg",
-      "description": "Client has 10-month-old baby. Client and spouse are both working daily but experiencing financial difficulty. They need diapers for their baby. They are unable to afford the diapers after their current supplies run out.",
-      "specifications": "Formula Stage 2, 1.8kg",
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Sajidah Binte Sazali",
-        "email": "sajidahsazali@amkfsc.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Jun 2021"
     },
     {
       "id": "95909",
@@ -2862,6 +2827,26 @@
   ],
   "offers": [
     {
+      "id": "95916",
+      "name": "Shoe cabinets",
+      "description": "2 shoe cabinets with hinged doors in good condition.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "06 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95915",
+      "name": "Adult diapers size M (Tape not pull up pants)",
+      "description": "6 packets (New). Additional 1 pk opened.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "15 Aug 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "95914",
       "name": "Adult diapers size M (Tape not pull up pants)",
       "description": "6 packets (New). Additional 1 pk opened.",
@@ -3202,16 +3187,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95679",
-      "name": "Samsung Monitor 22 Inches",
-      "description": "Good working monitor less than 2 years old, 22 inches available.",
-      "location": "Macpherson, Braddell",
-      "validTill": "17 Jul 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95673",
       "name": "Kids single bed",
       "description": "Kids car single bed for donation. Item still maintain well after 4 years. Include mattress and bed sheet. Will arrange delivery on 18-19Jul21 only.",
@@ -3298,16 +3273,6 @@
       "location": "Yishun, Sembawang",
       "validTill": "10 Aug 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95615",
-      "name": "Side table",
-      "description": "Side table",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "17 Jul 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3498,16 +3463,6 @@
       "location": "Orchard, Cairnhill, River Valley",
       "validTill": "06 Aug 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95488",
-      "name": "Ikea Bed Frame (white) (double size)",
-      "description": "White IKEA Wooden Bedframe that fits double mattress size. Used for 5 years.",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "17 Jul 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4418,16 +4373,6 @@
       "location": "Tampines, Pasir Ris",
       "validTill": "18 Jul 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "94430",
-      "name": "Ironing board",
-      "description": "Rarely used, good condition ironing board with cover.",
-      "location": "Upper Thomson, Springleaf",
-      "validTill": "17 Jul 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     }
