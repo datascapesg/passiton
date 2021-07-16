@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "95886",
+      "category": "Leisure and Healthy Lifestyle",
+      "name": "Number painting and embroidery kits",
+      "description": "Client has multiple medical conditions and has to be bounded to his bed where his oxygen tank is. He is also deemed medically unfit for work. Client is not engaged in any activities everyday and is at risk of isolation. He expressed that he enjoys number painting and embroidery.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Shena Tan",
+        "email": "shenatan@fycs.org",
+        "phone": [
+          "69782982",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "16 Jul 2021"
+    },
+    {
       "id": "95846",
       "category": "Leisure and Healthy Lifestyle",
       "name": "Bicycle",
@@ -1861,6 +1879,23 @@
       "date": "15 Jun 2021"
     },
     {
+      "id": "95885",
+      "category": "Others",
+      "name": "Food item/Groceries",
+      "description": "Client and husband are in their 50s with medical conditions. They are a single-income household with 1 grandchild (4 y/o). Client is the primary caregiver to grandson since birth and takes care of husband who is diabetic. Caregiving has been a struggle for client as her daughter has not been present to care for the child (born out of wedlock). The family needs help with food ration/groceries.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Siti Nur Sa’iidah",
+        "email": "sitinursaiidah@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "16 Jul 2021"
+    },
+    {
       "id": "95880",
       "category": "Others",
       "name": "HospiCare Adult Body Wipes",
@@ -2809,6 +2844,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "95883",
+      "name": "Dining light",
+      "description": "Good condition dining light",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "23 Jul 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "95878",
       "name": "Swatch watches",
