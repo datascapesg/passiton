@@ -1209,24 +1209,6 @@
       "date": "15 Jul 2021"
     },
     {
-      "id": "95862",
-      "category": "Electrical Home Appliances",
-      "name": "Fridge",
-      "description": "Family of 5, single mother with 4 children, and she is a sole breadwinner on a low income. Family requires a fridge asap as current fridge just broke down on them. They have lost most of their wet food supplies and relying on their dry food supplies for now.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
-        "name": "Adeline Choo",
-        "email": "adelinechoo@fycs.org",
-        "phone": [
-          "67719538",
-          "67625215"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "15 Jul 2021"
-    },
-    {
       "id": "95850",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -2827,22 +2809,32 @@
   ],
   "offers": [
     {
+      "id": "95890",
+      "name": "wardrobe",
+      "description": "3 wardrobes for donation.  more than 8 years of age but still in working condition.  need to arrange for own tpt and delivery",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "05 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "95889",
+      "name": "fridge",
+      "description": "used fridge of more than 8 years but still in working condition",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "05 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "95888",
       "name": "Child Car Seat",
       "description": "Fisher Price Preloved Child Car Seat to bless any family who needs. Self-Collection at Sengkang",
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "01 Aug 2021",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95883",
-      "name": "Dining light",
-      "description": "Good condition dining light",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "23 Jul 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
