@@ -1539,23 +1539,6 @@
       "date": "16 Jul 2021"
     },
     {
-      "id": "95863",
-      "category": "Others",
-      "name": "(Urgent) Milk powders and diapers for baby",
-      "description": "Low income family of 6 requesting for 3 cans of Milk powder (similac) , 3 packet of merries diapers (S size) and 3 packet of XL merries diapers",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Max Hong",
-        "email": "maxhong@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Jul 2021"
-    },
-    {
       "id": "95701",
       "category": "Others",
       "name": "Bicycle",
@@ -2402,6 +2385,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "95953",
+      "name": "baby cot with mattress",
+      "description": "has been used for more than 4 years and less than 8 years. still in good condition. note that the frame has some stickers.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "01 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "95952",
       "name": "Ogawa Massage Chair",
