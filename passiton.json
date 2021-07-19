@@ -73,23 +73,6 @@
       "date": "17 Jul 2021"
     },
     {
-      "id": "95911",
-      "category": "Infant and Children Items",
-      "name": "Milk & Diapers",
-      "description": "Young family of 5 living in 2-room rental flat. Client is the sole breadwinner family and has just recently started working. Wife is unable to work due to caregiving of the youngest child. Please contact Nurul via whatsapp at 98598767 for details of client to deliver item over. Family would need assistance for milk powder & diapers for 3 children aged 3,2 and 10 months old. Items required : 1) Lactogen Stage 3 - 2 tins 2) Diapers Drypers Tape - 2 packets Size L",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (East)",
-        "name": "Nur Afrina",
-        "email": "fsceast@ppis.sg",
-        "phone": [
-          "69503503"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Jul 2021"
-    },
-    {
       "id": "95906",
       "category": "Infant and Children Items",
       "name": "Milk Powder and Diapers",
@@ -840,21 +823,21 @@
       "date": "18 Jun 2021"
     },
     {
-      "id": "95955",
+      "id": "95965",
       "category": "Electrical Home Appliances",
-      "name": "Standing Fan",
-      "description": "Client just moved in to his rental flat with his friend under the joint single scheme. He was homeless for 4 years prior to moving in. Client's flat is empty. Client had multiple health issues - COPD and Parkinson's disease. Client requested for a standing fan.",
+      "name": "Washing Machine",
+      "description": "A large family of 7 school going children recently moved into their rental flat in June 2021. Up till now, mother is currently washing their clothes by hand or using the laundromat (unfortunately this exhausts financial resources). A donated or a sponsored new machine will be greatly appreciated.",
       "specifications": null,
       "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Dini Dzulaikha Bte Dzulkifli",
-        "email": null,
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Khairunisa Rusli",
+        "email": "khairunisa.rusli@ppis.sg",
         "phone": [
-          "67537331"
+          "65613462"
         ]
       },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "18 Jul 2021"
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jul 2021"
     },
     {
       "id": "95894",
@@ -2332,6 +2315,16 @@
   ],
   "offers": [
     {
+      "id": "95964",
+      "name": "Antique teak 2 door cupboard",
+      "description": "an old teak antique cupboard in good working condition but old.",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "31 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "95963",
       "name": "Single arm chair-sofa bed",
       "description": "Arm chair that can be pulled out in a very easy way to a single bed. Comes with an extra top mattress to make the single bed extra comfortable.",
@@ -2442,16 +2435,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95950",
-      "name": "Sony Analog TV 40\"",
-      "description": "Item is about 10yrs old but still in good condition. Not a smart tv. Analog tv. Comes with remote control.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95949",
       "name": "Double decker super single bed",
       "description": "Double decker bed with 3rd pull out bed beneath. It’s in good condition.",
@@ -2477,16 +2460,6 @@
       "description": "Wooden bed frames x 2\nPegasus mattress x 1",
       "location": "Little India",
       "validTill": "15 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95945",
-      "name": "Fridge",
-      "description": "LG 2 door fridge in good working condition. Clean and looks as good as new.",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "30 Jul 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -2577,16 +2550,6 @@
       "description": "Refer to pictures for details",
       "location": "Kranji, Woodgrove",
       "validTill": "16 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95926",
-      "name": "Leather sofa (3 seater)",
-      "description": "Well maintained. Good condition. Very comfortable leather sofa.",
-      "location": null,
-      "validTill": "08 Aug 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -2702,16 +2665,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95889",
-      "name": "fridge",
-      "description": "used fridge of more than 8 years but still in working condition",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "05 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95888",
       "name": "Child Car Seat",
       "description": "Fisher Price Preloved Child Car Seat to bless any family who needs. Self-Collection at Sengkang",
@@ -2735,16 +2688,6 @@
       "id": "95824",
       "name": "Spectra S9 pump with accessories",
       "description": "Spectra S9 breast pump with hands free accessories. Will include some additional related accessories too.",
-      "location": "Watten Estate, Novena, Thomson",
-      "validTill": "13 Aug 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95821",
-      "name": "Cimilre F1 breast pump",
-      "description": "Almost brand new breast pump in original packaging.",
       "location": "Watten Estate, Novena, Thomson",
       "validTill": "13 Aug 2021",
       "ageInYears": 1,
@@ -2792,32 +2735,12 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95797",
-      "name": "Baby stroller",
-      "description": "Maclaren day tripper stroller light weight and compact.",
-      "location": "Jurong",
-      "validTill": "13 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95796",
       "name": "Preloved Sea Horse baby mattress",
       "description": "Preloved Sea horse customise baby mattress. The cover can be removed",
       "location": "Jurong",
       "validTill": "13 Aug 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95773",
-      "name": "Bar stools",
-      "description": "Set of 3 bar stools",
-      "location": "Katong, Joo Chiat, Amber Road",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2917,16 +2840,6 @@
       "description": "Not very used although it’s 4 years old as we were overseas most of the time.",
       "location": null,
       "validTill": "12 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95721",
-      "name": "Washing machine",
-      "description": "Self-collection at your own cost only.\nWashing function in good condition.\ndryer function faulty\nModel: Electrolux EWW12742\nItem at Pasir Ris area",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "30 Jul 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
