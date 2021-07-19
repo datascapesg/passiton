@@ -55,24 +55,6 @@
       "date": "21 Jun 2021"
     },
     {
-      "id": "95935",
-      "category": "Infant and Children Items",
-      "name": "Wee Wee Drypantz Size M (3 packs)",
-      "description": "Low-income family with 8 children, mother is the sole breadwinner as father is medically unfit for work. Please respond if you are keen to donate. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Melody Chan",
-        "email": "melodychan@fycs.org",
-        "phone": [
-          "81217685",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Jul 2021"
-    },
-    {
       "id": "95906",
       "category": "Infant and Children Items",
       "name": "Milk Powder and Diapers",
@@ -120,23 +102,6 @@
         "phone": [
           "64162186",
           "64162162"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Jul 2021"
-    },
-    {
-      "id": "95848",
-      "category": "Infant and Children Items",
-      "name": "Milk Powder & Diapers",
-      "description": "Client is the sole-breadwinner of his family. Together with his Vietnamese wife and his 2 young children, aged 23 months (coming to 2 years old) and 8 months-old baby, the family lives in a one-room rental flat in Marine Terrace. Client is hoping for some donations of milk supplies and diapers to lighten his financial burden. Due to his unstable income since the start of Covid-19 pandemic, family has been struggling financially. Client hopes to request for: 1) a few tins of Nestle NAN Optipro H.A. Growing Up Milk Stage 3 2) a few tins of Nestle Nan Optipro Infant Milk Formula Stage 2 3) a few packets of Merries XXL Walker Pants 4) a few packets of Pampers L Tape. Do contact/WhatsApp me at 98598768 from Mon-Fri at 9-5pm for further liaison on delivery address etc. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (East)",
-        "name": "Nur Afrina",
-        "email": "fsceast@ppis.sg",
-        "phone": [
-          "69503503"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -823,6 +788,40 @@
       "date": "18 Jun 2021"
     },
     {
+      "id": "95969",
+      "category": "Electrical Home Appliances",
+      "name": "Food Blender",
+      "description": "Client is the caregiver of 3 young children. The family is on financial assistance as her husband is serving his sentence. The family resides in a rental flat, whereby finances are only sufficient for day-to-day necessities. As such, she is unable to afford the purchase of a food blender and is willing to receive any donation of such an item.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jul 2021"
+    },
+    {
+      "id": "95966",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Client just moved in to his rental flat with his friend under the joint single scheme. He was homeless for 4 years prior to moving in. Client's flat is empty. Client had multiple health issues - COPD and Parkinson's disease. Client does not have a refrigerator at home. Client requested for a medium sized refrigerator that can fit his studio rental flat.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Dini Dzulaikha Bte Dzulkifli",
+        "email": null,
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "19 Jul 2021"
+    },
+    {
       "id": "95965",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -1276,6 +1275,23 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "23 Jun 2021"
+    },
+    {
+      "id": "95968",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Client is unfit for work while her husband is a sole breadwinner for a family of 7. \nThe family experiences chronic poverty due to accumulated debts and arrears, thus struggling financially. \nThe laptop would be helpful during a HBL situation for the children.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jul 2021"
     },
     {
       "id": "95912",
@@ -2315,6 +2331,16 @@
   ],
   "offers": [
     {
+      "id": "95967",
+      "name": "2 door wardrobe",
+      "description": "Nil",
+      "location": "Little India",
+      "validTill": "07 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "95964",
       "name": "Antique teak 2 door cupboard",
       "description": "an old teak antique cupboard in good working condition but old.",
@@ -2329,16 +2355,6 @@
       "name": "Single arm chair-sofa bed",
       "description": "Arm chair that can be pulled out in a very easy way to a single bed. Comes with an extra top mattress to make the single bed extra comfortable.",
       "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-      "validTill": "26 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95962",
-      "name": "Bed",
-      "description": "Bed with bed frame. Mattress still in good, clean condition.",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
       "validTill": "26 Jul 2021",
       "ageInYears": 4,
       "dimensions": null,
@@ -2621,16 +2637,6 @@
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "16 Aug 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95917",
-      "name": "2 pieces of brand new pillow",
-      "description": "2 brand new King Koil pillows which i got as a gift purchase.",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "16 Aug 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2945,26 +2951,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95636",
-      "name": "Baby toy jumper",
-      "description": "Good condtion.",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "10 Aug 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95632",
-      "name": "Baby cot",
-      "description": "Washed.suitable for boy and girl. Comes with freebies (new, in wrapper).",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "10 Aug 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95625",
       "name": "Various book to giveaway",
       "description": "Various book to giveaway ,full list of book in link below,self collection only\n\nhttps://sonicericsg.blogspot.com/2021/07/book-giveaway.html?m=1",
@@ -3035,16 +3021,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95573",
-      "name": "Little tikes toddler bike",
-      "description": "Little times bike for toddlers. Rarely used and in good condition although we’ve had it for a few years.\nGood for parents to push toddlers on short walks.\nPaddling paddles seem not connected to the wheel, has been like that since day 1.",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "08 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95566",
       "name": "Utensils, bowls, plates",
       "description": "Good condition, clean, Chinese family use",
@@ -3071,16 +3047,6 @@
       "location": "Seletar",
       "validTill": "07 Aug 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95561",
-      "name": "Super single bed frame + englander mattress + pillow",
-      "description": "Clean mattress \nGood condition, giving away as teens are overseas \nSELF COLLECT ONLY",
-      "location": "Seletar",
-      "validTill": "20 Jul 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3141,16 +3107,6 @@
       "location": "High Street, Beach Road (part)",
       "validTill": "22 Jul 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95493",
-      "name": "Rice cooker 1.2L- only cook rice",
-      "description": "Still new as used only once",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "06 Aug 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3545,16 +3501,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95074",
-      "name": "Philips Avent Bottle Warmer",
-      "description": "Philips Avent Bottle Warmer. Some stains on the knob due to use.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "28 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95900",
       "name": "Wooden Dining Table",
       "description": "Wooden Dining Table. 120cm in diameter and can be extended to 150cam. 80cm in height. Good condition",
@@ -3911,16 +3857,6 @@
       "location": null,
       "validTill": "20 Jul 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "94615",
-      "name": "Food blender/processor - Sunmaki brand",
-      "description": "Handy, multi-use. Compact, doesn’t take up much space. Used maybe only a few times.",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "20 Jul 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
