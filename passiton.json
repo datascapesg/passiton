@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "96005",
+      "category": "Electrical Home Appliances",
+      "name": "Vacuum Cleaner",
+      "description": "Client is the caregiver of 3 young children. \nThe family is on financial assistance as her husband is serving his sentence. The family resides in a rental flat, whereby finances are only sufficient for day-to-day necessities. Her vacuum cleaner has malfunctioned and she would not be able to make a purchase of this item. As such, she is willing to receive any pre-loved donation.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jul 2021"
+    },
+    {
+      "id": "96000",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "A family with 6 children and an elderly requiring a refrigerator to store food and groceries for the household. The current fridge has been leaking. Father is unemployed and mother is earning low wage income.",
+      "specifications": "90cm (L), 175 (H), 67cm (w)",
+      "contact": {
+        "org": "MWS Covenant Family Service Centre - Hougang",
+        "name": "Reina Chantelle Reyes",
+        "email": "reinachantelle@mws.sg",
+        "phone": [
+          "62828558"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jul 2021"
+    },
+    {
       "id": "95975",
       "category": "Electrical Home Appliances",
       "name": "TV (wall-mounted)",
@@ -562,10 +596,27 @@
       "date": "21 Jun 2021"
     },
     {
-      "id": "95999",
+      "id": "96002",
       "category": "Infant and Children Items",
       "name": "Diapers",
-      "description": "Family has 3 young children. They are also currently looking after one auntie and mother. Family requires support for a carton of dryper brand diapers, size XXL for tape and pants.",
+      "description": "Family has 3 young children. They are also currently looking after one auntie and mother. Family requires support of dryper brand diapers, 1 carton each for tape, XXL size and pants, XL size",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Koh Fang Qi",
+        "email": "kohfangqi@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jul 2021"
+    },
+    {
+      "id": "96001",
+      "category": "Infant and Children Items",
+      "name": "Diapers",
+      "description": "Family has 3 young children. They are also currently looking after one auntie and mother. Family requires support of dryper brand diapers(for their twins), 2 cartons each for tape, L size and pants, M size",
       "specifications": null,
       "contact": {
         "org": "AMKFSC Community Services Ltd - Sengkang",
@@ -1520,18 +1571,17 @@
       "date": "18 Jun 2021"
     },
     {
-      "id": "95998",
+      "id": "96003",
       "category": "Others",
-      "name": "Mobile Phone",
-      "description": "Family consists of client and her 4 children. Family is facing financial difficulties and is not able to repair and purchase a new phone to replace her current spoilt one. Family hopes to get a phone so that she can still be easily contacted.",
+      "name": "Adult Diapers",
+      "description": "Family has 3 young children. They are also currently looking after one auntie and mother. Family requires support of adult diapers for their aunt, size M.",
       "specifications": null,
       "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Louise Quek",
-        "email": "louisequek@amkfsc.org.sg",
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Koh Fang Qi",
+        "email": "kohfangqi@amkfsc.org.sg",
         "phone": [
-          "64535349",
-          "64578559"
+          "63128100"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1976,24 +2026,6 @@
       "date": "17 Jul 2021"
     },
     {
-      "id": "95804",
-      "category": "Medical Aids",
-      "name": "TENA XL ADULT PULL UP DIAPERS",
-      "description": "We are appealing for TENA XL ADULT DIAPERS for a low income family whose mother is suffering from long term bladder issues and need to us this item long item and is financially unable to do so WE SEEK FURTHER ASSISTANCE FROM THE DONOR TO ASSIST IN THE TRANSPORTTION OR COVER THE TRANSPORTATION COST",
-      "specifications": "XL PULL UP",
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
-        "name": "Maggie Gan",
-        "email": "maggiegan@amkfsc.org.sg",
-        "phone": [
-          "65536643",
-          "64535349"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Jul 2021"
-    },
-    {
       "id": "95567",
       "category": "Medical Aids",
       "name": "Pressure Relief Mattress",
@@ -2135,6 +2167,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "19 Jun 2021"
+    },
+    {
+      "id": "96004",
+      "category": "Home Furnishing",
+      "name": "2-door cupboard",
+      "description": "A family with 6 children and an elderly requiring a cupboard to store clothes for daughters. Father is unemployed and mother is earning low wage income.",
+      "specifications": "140cm(L), 200cm (height) , 50(w)",
+      "contact": {
+        "org": "MWS Covenant Family Service Centre - Hougang",
+        "name": "Reina Chantelle Reyes",
+        "email": "reinachantelle@mws.sg",
+        "phone": [
+          "62828558"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jul 2021"
     },
     {
       "id": "95989",
@@ -2542,6 +2591,16 @@
   ],
   "offers": [
     {
+      "id": "96006",
+      "name": "Toshiba rice cooker 5.5 cup",
+      "description": "Toshiba rice cooker in working condition, can fit 5 cups of rice",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "18 Aug 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "95982",
       "name": "Poppy Seat - rigid seat and table cover for weaning",
       "description": "- Food is most likely to stay in place: the mat is wide enough for infants not to reach the edges and flip it over themselves, it has risen edges for liquids not to pour into our laps and suction cups that keep it stuck to the table top\n\n- Easy to use, store and bring along: can fit almost any chair, whether with a backrest or not, with harness or not, at the table or using the chair feeding tray; it folds and unfolds fast, cleans up well after messy eating, and you can store utensils and other items in the pockets\n\n- Looks good and saves you from embarrassing messes when eating outside home",
@@ -2587,16 +2646,6 @@
       "description": "IKEA dining table, cork table top, including 4 cork stools. Table is 4-5 years old and we’ll used as both dining table and arts and crafts table. So has some marks and scratches. At same time it is still very usable and in reasonable condition.",
       "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
       "validTill": "26 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95959",
-      "name": "26\" Toshiba Analog LCD Color TV with digital TV HD set-top box & controller",
-      "description": "TV more than 4 years but still in good working condition, only need one remote control to control the TV on/off & volume & also set up box on/off & channel. VWO need to help to re-adjust/re-tune the channel in the set up box as 2 channels are not inside. Comes with operating instruction manual for both TV & set up box.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "17 Aug 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -2687,16 +2736,6 @@
       "description": "Wooden bed frames x 2\nPegasus mattress x 1",
       "location": "Little India",
       "validTill": "15 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95943",
-      "name": "IKEA BED FRAME WITH STORAGE & HEADBOARD",
-      "description": "Good condition.\nKing Size Bed Frame with storage and headboard\nNo mattress\nSelf collection and self dismantle preferred",
-      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-      "validTill": "01 Aug 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -3428,16 +3467,6 @@
       "location": "Tampines, Pasir Ris",
       "validTill": "01 Aug 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95349",
-      "name": "Training pants",
-      "description": "Used for 1 month. Good for potty training. Size 95 to 100.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "03 Aug 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },

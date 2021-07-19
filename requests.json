@@ -1,5 +1,39 @@
 [
   {
+    "id": "96005",
+    "category": "Electrical Home Appliances",
+    "name": "Vacuum Cleaner",
+    "description": "Client is the caregiver of 3 young children. \nThe family is on financial assistance as her husband is serving his sentence. The family resides in a rental flat, whereby finances are only sufficient for day-to-day necessities. Her vacuum cleaner has malfunctioned and she would not be able to make a purchase of this item. As such, she is willing to receive any pre-loved donation.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Amy Chua",
+      "email": "amychua@mws.sg",
+      "phone": [
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Jul 2021"
+  },
+  {
+    "id": "96000",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "A family with 6 children and an elderly requiring a refrigerator to store food and groceries for the household. The current fridge has been leaking. Father is unemployed and mother is earning low wage income.",
+    "specifications": "90cm (L), 175 (H), 67cm (w)",
+    "contact": {
+      "org": "MWS Covenant Family Service Centre - Hougang",
+      "name": "Reina Chantelle Reyes",
+      "email": "reinachantelle@mws.sg",
+      "phone": [
+        "62828558"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Jul 2021"
+  },
+  {
     "id": "95975",
     "category": "Electrical Home Appliances",
     "name": "TV (wall-mounted)",
@@ -561,10 +595,27 @@
     "date": "21 Jun 2021"
   },
   {
-    "id": "95999",
+    "id": "96002",
     "category": "Infant and Children Items",
     "name": "Diapers",
-    "description": "Family has 3 young children. They are also currently looking after one auntie and mother. Family requires support for a carton of dryper brand diapers, size XXL for tape and pants.",
+    "description": "Family has 3 young children. They are also currently looking after one auntie and mother. Family requires support of dryper brand diapers, 1 carton each for tape, XXL size and pants, XL size",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Sengkang",
+      "name": "Koh Fang Qi",
+      "email": "kohfangqi@amkfsc.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Jul 2021"
+  },
+  {
+    "id": "96001",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Family has 3 young children. They are also currently looking after one auntie and mother. Family requires support of dryper brand diapers(for their twins), 2 cartons each for tape, L size and pants, M size",
     "specifications": null,
     "contact": {
       "org": "AMKFSC Community Services Ltd - Sengkang",
@@ -1519,18 +1570,17 @@
     "date": "18 Jun 2021"
   },
   {
-    "id": "95998",
+    "id": "96003",
     "category": "Others",
-    "name": "Mobile Phone",
-    "description": "Family consists of client and her 4 children. Family is facing financial difficulties and is not able to repair and purchase a new phone to replace her current spoilt one. Family hopes to get a phone so that she can still be easily contacted.",
+    "name": "Adult Diapers",
+    "description": "Family has 3 young children. They are also currently looking after one auntie and mother. Family requires support of adult diapers for their aunt, size M.",
     "specifications": null,
     "contact": {
-      "org": "AMKFSC Community Services Ltd - Cheng San",
-      "name": "Louise Quek",
-      "email": "louisequek@amkfsc.org.sg",
+      "org": "AMKFSC Community Services Ltd - Sengkang",
+      "name": "Koh Fang Qi",
+      "email": "kohfangqi@amkfsc.org.sg",
       "phone": [
-        "64535349",
-        "64578559"
+        "63128100"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -1975,24 +2025,6 @@
     "date": "17 Jul 2021"
   },
   {
-    "id": "95804",
-    "category": "Medical Aids",
-    "name": "TENA XL ADULT PULL UP DIAPERS",
-    "description": "We are appealing for TENA XL ADULT DIAPERS for a low income family whose mother is suffering from long term bladder issues and need to us this item long item and is financially unable to do so WE SEEK FURTHER ASSISTANCE FROM THE DONOR TO ASSIST IN THE TRANSPORTTION OR COVER THE TRANSPORTATION COST",
-    "specifications": "XL PULL UP",
-    "contact": {
-      "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
-      "name": "Maggie Gan",
-      "email": "maggiegan@amkfsc.org.sg",
-      "phone": [
-        "65536643",
-        "64535349"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "14 Jul 2021"
-  },
-  {
     "id": "95567",
     "category": "Medical Aids",
     "name": "Pressure Relief Mattress",
@@ -2134,6 +2166,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "19 Jun 2021"
+  },
+  {
+    "id": "96004",
+    "category": "Home Furnishing",
+    "name": "2-door cupboard",
+    "description": "A family with 6 children and an elderly requiring a cupboard to store clothes for daughters. Father is unemployed and mother is earning low wage income.",
+    "specifications": "140cm(L), 200cm (height) , 50(w)",
+    "contact": {
+      "org": "MWS Covenant Family Service Centre - Hougang",
+      "name": "Reina Chantelle Reyes",
+      "email": "reinachantelle@mws.sg",
+      "phone": [
+        "62828558"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Jul 2021"
   },
   {
     "id": "95989",
