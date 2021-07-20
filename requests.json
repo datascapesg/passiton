@@ -2226,92 +2226,6 @@
     "date": "22 Jun 2021"
   },
   {
-    "id": "95968",
-    "category": "Learning Aids",
-    "name": "Laptop",
-    "description": "Client is unfit for work while her husband is a sole breadwinner for a family of 7. \nThe family experiences chronic poverty due to accumulated debts and arrears, thus struggling financially. \nThe laptop would be helpful during a HBL situation for the children.",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Family Service Centre - Yishun",
-      "name": "Amy Chua",
-      "email": "amychua@mws.sg",
-      "phone": [
-        "67564995"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Jul 2021"
-  },
-  {
-    "id": "95912",
-    "category": "Learning Aids",
-    "name": "27 inch monitor needed",
-    "description": "27 inch computer monitor needed for a youth with learning needs. The monitor will help in her visual as she has some issues with sight. Kind donors, please whatsapp me at 81096845. Thanks.",
-    "specifications": null,
-    "contact": {
-      "org": "Hougang Sheng Hong Family Service Centre",
-      "name": "Angie Tan",
-      "email": "angenette@shenghong.org.sg",
-      "phone": [
-        "62895022"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Jul 2021"
-  },
-  {
-    "id": "95213",
-    "category": "Learning Aids",
-    "name": "Electric Piano",
-    "description": "Client is the sole breadwinner of the family. She works as a security guard but it is an unstable job. The family is staying in a HDB rental unit and they are heavily relying on the financial assistance from the Social Service Office, hence, they are unable to provide much entertainment options to their son in view of the lack of extra financial resources. They are hoping to get a donation of a PS4 and also an electric piano so that their 11-year-old son can have some fun while at home.",
-    "specifications": null,
-    "contact": {
-      "org": "Sembawang Family Service Centre",
-      "name": "Po Woei Yee",
-      "email": "powoeiyee@sfsc.org.sg",
-      "phone": [
-        "67547050"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "01 Jul 2021"
-  },
-  {
-    "id": "95212",
-    "category": "Learning Aids",
-    "name": "PlayStation 4 with games",
-    "description": "Client is the sole breadwinner of the family. She works as a security guard but it is an unstable job. The family is staying in a HDB rental unit and they are heavily relying on the financial assistance from the Social Service Office, hence, they are unable to provide much entertainment options to their son in view of the lack of extra financial resources. They are hoping to get a donation of a PS4 and also an electric piano so that their 11-year-old son can have some fun while at home.",
-    "specifications": null,
-    "contact": {
-      "org": "Sembawang Family Service Centre",
-      "name": "Po Woei Yee",
-      "email": "powoeiyee@sfsc.org.sg",
-      "phone": [
-        "67547050"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "01 Jul 2021"
-  },
-  {
-    "id": "95050",
-    "category": "Learning Aids",
-    "name": "Laptop",
-    "description": "Low-income family of three (parents & 10 month old). Parents are currently undergoing full-time courses to upgrade themselves while working odd jobs. Their current laptop is faulty and they are in need of a laptop to attend their course.",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Family Service Centre - Tampines",
-      "name": "Nabila bte Abdul Aziz Alkaff",
-      "email": "nabilaaziz@mws.sg",
-      "phone": [
-        "67867366",
-        "67872001"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "28 Jun 2021"
-  },
-  {
     "id": "95840",
     "category": "Mobility Aids",
     "name": "Wheelchair with elevating leg rest",
@@ -2414,6 +2328,57 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "28 Jun 2021"
+  },
+  {
+    "id": "95912",
+    "category": "Learning Aids",
+    "name": "27 inch monitor needed",
+    "description": "27 inch computer monitor needed for a youth with learning needs. The monitor will help in her visual as she has some issues with sight. Kind donors, please whatsapp me at 81096845. Thanks.",
+    "specifications": null,
+    "contact": {
+      "org": "Hougang Sheng Hong Family Service Centre",
+      "name": "Angie Tan",
+      "email": "angenette@shenghong.org.sg",
+      "phone": [
+        "62895022"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Jul 2021"
+  },
+  {
+    "id": "95213",
+    "category": "Learning Aids",
+    "name": "Electric Piano",
+    "description": "Client is the sole breadwinner of the family. She works as a security guard but it is an unstable job. The family is staying in a HDB rental unit and they are heavily relying on the financial assistance from the Social Service Office, hence, they are unable to provide much entertainment options to their son in view of the lack of extra financial resources. They are hoping to get a donation of a PS4 and also an electric piano so that their 11-year-old son can have some fun while at home.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "01 Jul 2021"
+  },
+  {
+    "id": "95212",
+    "category": "Learning Aids",
+    "name": "PlayStation 4 with games",
+    "description": "Client is the sole breadwinner of the family. She works as a security guard but it is an unstable job. The family is staying in a HDB rental unit and they are heavily relying on the financial assistance from the Social Service Office, hence, they are unable to provide much entertainment options to their son in view of the lack of extra financial resources. They are hoping to get a donation of a PS4 and also an electric piano so that their 11-year-old son can have some fun while at home.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "01 Jul 2021"
   },
   {
     "id": "95991",
