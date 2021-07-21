@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "96075",
+      "category": "Electrical Home Appliances",
+      "name": "Television",
+      "description": "Family of 2 (client and grandmother) just moved into their new rental flat. Their current television has lines on the screen and will be good if they can receive a new one in case the current one breaks down.",
+      "specifications": "32\"",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Louise Quek",
+        "email": "louisequek@amkfsc.org.sg",
+        "phone": [
+          "64535349",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Jul 2021"
+    },
+    {
       "id": "96063",
       "category": "Electrical Home Appliances",
       "name": "Wall-mounted TV",
@@ -2519,6 +2537,36 @@
   ],
   "offers": [
     {
+      "id": "96074",
+      "name": "Study table",
+      "description": "Study desk with built-in upper cupboard and display shelf.",
+      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+      "validTill": "12 Aug 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96073",
+      "name": "Sliding door cupboard",
+      "description": "Sliding door wardrobe with shelves and drawer",
+      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+      "validTill": "12 Aug 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96072",
+      "name": "Stand Mixer",
+      "description": "Pre-loved Stand mixer which is in good working condition. Brand: Jakada",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "20 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "96071",
       "name": "Study table",
       "description": "A white IKEA study table in good condition. Can be use as a dining table too.",
@@ -2595,16 +2643,6 @@
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "20 Aug 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96027",
-      "name": "Coffee Table",
-      "description": "Old but still functioning well coffee table.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "19 Aug 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
