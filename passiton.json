@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "96045",
+      "category": "Electrical Home Appliances",
+      "name": "TV",
+      "description": "Client is a 49 year old who lives alone. He suffered a stroke and is now hospitalised. Most of his furniture is run-down and needs new furniture. As he is stateless, it limits his employment opportunities and his disability from birth (a weaker right side of the body) limits his options even more. He would need a basic bed as his current mattress is too low for him to get into after he is discharged from hospital. He would also need a small TV as he will spend some time being confined to the house as he recovers.(Grace)",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Bedok North",
+        "name": "Teddy Fu",
+        "email": "teddyfu@thkmc.org.sg",
+        "phone": [
+          "64491440"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Jul 2021"
+    },
+    {
+      "id": "96043",
+      "category": "Electrical Home Appliances",
+      "name": "Induction stove (electric)",
+      "description": "Client is a single mother with two youths, and caring for her elderly mother with dementia. They had just moved into a new house, and unable to install piped gas due to the structure of the block. However, client has trauma using gas canisters, due to an accident in the past. Client thus would like an induction stove for her to cook for her family.(Kamie)",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Bedok North",
+        "name": "Teddy Fu",
+        "email": "teddyfu@thkmc.org.sg",
+        "phone": [
+          "64491440"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Jul 2021"
+    },
+    {
       "id": "96038",
       "category": "Electrical Home Appliances",
       "name": "Top Load Washing Machine",
@@ -1434,6 +1468,23 @@
       "date": "21 Jun 2021"
     },
     {
+      "id": "96044",
+      "category": "Learning Aids",
+      "name": "Desktop CPU / Laptop",
+      "description": "Client and husband are new parents to a 6-month old. Husband is the sole breadwinner, as client has mental health issues since young, and currently having post-natal depression as well. Client is keen to support her husband, and intends to start a home-based business. However, she requires a CPU or laptop to continue with her plans. (Kamie)",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Bedok North",
+        "name": "Teddy Fu",
+        "email": "teddyfu@thkmc.org.sg",
+        "phone": [
+          "64491440"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Jul 2021"
+    },
+    {
       "id": "94540",
       "category": "Learning Aids",
       "name": "Laptop (with webcam)",
@@ -1483,6 +1534,23 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "01 Jul 2021"
+    },
+    {
+      "id": "96042",
+      "category": "Home Furnishing",
+      "name": "4 door wardrobe",
+      "description": "Client is a single mother to 2 youth children, one of whom has special needs and requires constant supervision. She is also the full-time caregiver for her elderly mother who is bed-ridden, and requires oxygen machine to breathe. Due to her caregiving responsibilities, client had not been able to work. The family is moving to a new house which is better equipped for the care of client's mother. However, they do not have the money to get several household items for the new house, as they will have to prioritize the family's daily needs. (Kamie)",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Bedok North",
+        "name": "Teddy Fu",
+        "email": "teddyfu@thkmc.org.sg",
+        "phone": [
+          "64491440"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Jul 2021"
     },
     {
       "id": "96004",
@@ -2347,6 +2415,16 @@
   ],
   "offers": [
     {
+      "id": "96041",
+      "name": "Dining Set",
+      "description": "In excellent condition with 8 chairs.",
+      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+      "validTill": "30 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "96040",
       "name": "Dining Table / Desk",
       "description": "Solid wood dining table, can be extended to fit 6 people. A few scratches but in good condition. I hope a family can enjoy their meals around this table as we did.",
@@ -2450,16 +2528,6 @@
       "id": "96020",
       "name": "Bed side table",
       "description": "IKEA bed side table (I have only one) \n\nSome stains but otherwise functional",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96019",
-      "name": "Books + book shelf",
-      "description": "An assortment of English and Chinese books plus a book shelf for kids. \n\nBooks range from toddler to about 6 years and beyond.",
       "location": "Tampines, Pasir Ris",
       "validTill": "31 Jul 2021",
       "ageInYears": 4,
@@ -3023,16 +3091,6 @@
       "location": "Tampines, Pasir Ris",
       "validTill": "06 Aug 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95655",
-      "name": "Combi baby stroller",
-      "description": "Lightly used baby stroller",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "10 Aug 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
