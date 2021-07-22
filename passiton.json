@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "96153",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Family requires a washing machine. Client  is the sole breadwinner for the family as her husband is unable to work due to health reasons. She is also mother to her three children of which one is of special needs. Presently she has been washing the clothes by hand.",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Jerry Leon Kasman",
+        "email": "jerry.leon@reach.org.sg",
+        "phone": [
+          "68010712",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Jul 2021"
+    },
+    {
       "id": "96139",
       "category": "Electrical Home Appliances",
       "name": "Cordless Vacuum Cleaner",
@@ -769,6 +787,58 @@
       "date": "28 Jun 2021"
     },
     {
+      "id": "96156",
+      "category": "Infant and Children Items",
+      "name": "Dumex Dugro® Step 4 Growing Up Milk",
+      "description": "Family of 4 living in a rental flat. The father used to be the sole breadwinner, but is presently unemployed and recuperating from a heart stem surgery. The married couple has 2 young children. Donation of milk powder/diapers will be helpful in alleviating the household expenses.",
+      "specifications": "1.6kg",
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Jasmine Leong",
+        "email": "jasmine@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Jul 2021"
+    },
+    {
+      "id": "96154",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder Assistance",
+      "description": "Mother who is a victim of spousal violence does not receive any assistance and is the main caregiver of two young children. Requires one-off milk powder assistance. Looking for kind donors. Please whatsapp me at 8109-6845. Thanks.",
+      "specifications": null,
+      "contact": {
+        "org": "Hougang Sheng Hong Family Service Centre",
+        "name": "Angie Tan",
+        "email": "angenette@shenghong.org.sg",
+        "phone": [
+          "62895022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Jul 2021"
+    },
+    {
+      "id": "96151",
+      "category": "Infant and Children Items",
+      "name": "Pedia Sure Gold Strawberry flavour",
+      "description": "Client is requesting for Pedia Sure Gold (Strawberry flavour) milk powder for her granddaughter whom she is caring for. They are living in a rental flat and has financial support but is not able to purchase the retail item for the granddaughter's needs.",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Jerry Leon Kasman",
+        "email": "jerry.leon@reach.org.sg",
+        "phone": [
+          "68010712",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Jul 2021"
+    },
+    {
       "id": "96150",
       "category": "Infant and Children Items",
       "name": "MamyPoko diapers",
@@ -958,23 +1028,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": false,
-      "date": "21 Jul 2021"
-    },
-    {
-      "id": "96037",
-      "category": "Infant and Children Items",
-      "name": "Pediasure Milk needed",
-      "description": "Single mother who is the main caregiver of two preschool children requires some help with milk powder. Mum had just found a job but struggles with the caregiving of two children who are often sick. Due to this, her salary had been cut and there is not enough for her to purchase needed supplies for her children this month. Looking for kind donors. Please whatsapp me at 8109-6845. Thanks.",
-      "specifications": null,
-      "contact": {
-        "org": "Hougang Sheng Hong Family Service Centre",
-        "name": "Angie Tan",
-        "email": "angenette@shenghong.org.sg",
-        "phone": [
-          "62895022"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
       "date": "21 Jul 2021"
     },
     {
@@ -2592,6 +2645,26 @@
   ],
   "offers": [
     {
+      "id": "96155",
+      "name": "Panasonic Microwave Oven",
+      "description": "Panasonic microwave oven in good working condition.  Model Number NN-DS592B. \n Collection by 31 July 2021.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "31 Jul 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96152",
+      "name": "Panasonic Microwave Oven",
+      "description": "Panasonic microwave oven in good working condition. Collection by 31 July 2021.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "31 Jul 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "96148",
       "name": "hospital bed",
       "description": "Because it is a heavy and big item which need time to dismantle and assemble. Hence, please give us time to arrange and do the delivery. However, if is good if VWOs can help us and also pay for the transportation. (hope)\nAs for item ceases availability, it will be ASAP or in first come first serve manner. Do call to check before committed to needy.",
@@ -2608,26 +2681,6 @@
       "location": "Bishan, Ang Mo Kio",
       "validTill": "21 Aug 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96145",
-      "name": "Toyogo plastic  storage container",
-      "description": "plastic  storage container",
-      "location": "Yishun, Sembawang",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96144",
-      "name": "Wardrobe",
-      "description": "Good condition",
-      "location": "Yishun, Sembawang",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2655,16 +2708,6 @@
       "id": "96120",
       "name": "Study lamps",
       "description": "Study lamps in good working condition..",
-      "location": "Yishun, Sembawang",
-      "validTill": "21 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96119",
-      "name": "Fridge",
-      "description": "Fridge in good working condition",
       "location": "Yishun, Sembawang",
       "validTill": "21 Aug 2021",
       "ageInYears": 4,
