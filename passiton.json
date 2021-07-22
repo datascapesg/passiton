@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "96111",
+      "category": "Electrical Home Appliances",
+      "name": "Small Fridge/Freezer",
+      "description": "Client is a single unwed mother who is presently 7mo+ pregnant. Client will require support in obtaining a small fridge/freezer to store breast milk",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Koh Fang Qi",
+        "email": "kohfangqi@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Jul 2021"
+    },
+    {
       "id": "96102",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine (Top Loader)",
@@ -12,23 +29,6 @@
         "email": "navin@kkcs.org.sg",
         "phone": [
           "62997662"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Jul 2021"
-    },
-    {
-      "id": "96101",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Hi I have a single mom with 3 children is requesting for a medium size refrigerator for their own use. Thank you in advance.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Low Yiing Jia",
-        "email": "jialow@amkfsc.org.sg",
-        "phone": [
-          "63128100"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -661,6 +661,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "21 Jun 2021"
+    },
+    {
+      "id": "96112",
+      "category": "Mobility Aids",
+      "name": "Motorised Scooter",
+      "description": "Client is a cancer patient and staying alone. Client has some mobility issues. Thus, having a motorised scooter will allow client to go about his daily activities.\n\nNote: Client can only use a motorised scooter that is able to support 100-150kg   in weight.",
+      "specifications": null,
+      "contact": {
+        "org": "AIN Society",
+        "name": "Nur'Ain Binte Mohamed Said",
+        "email": "nurain@ainsociety.org.sg",
+        "phone": [
+          "68485116",
+          "68485166"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "22 Jul 2021"
     },
     {
       "id": "96081",
@@ -1994,40 +2012,6 @@
       "date": "22 Jun 2021"
     },
     {
-      "id": "96108",
-      "category": "Home Furnishing",
-      "name": "3 seater sofa",
-      "description": "Family has 3 children who require financial support as wife is the sole breadwinner. Husband is certified to be unfit for work. They require support for a 3 seater sofa, preferably black, fabric. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Koh Fang Qi",
-        "email": "kohfangqi@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Jul 2021"
-    },
-    {
-      "id": "96095",
-      "category": "Home Furnishing",
-      "name": "Wardrobe",
-      "description": "Family of 3 has been granted a rental flat but is unable to move in fully at present due to a lack of necessary furniture such as a wardrobe. The family is facing financial difficulties and unable to purchase the furniture on their own. Thank you for helping this family while they work to stabilize their financial circumstances.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Carissa Chan",
-        "email": "carissachan@amkfsc.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Jul 2021"
-    },
-    {
       "id": "96088",
       "category": "Home Furnishing",
       "name": "Wooden Drawer",
@@ -2360,24 +2344,6 @@
       "date": "21 Jul 2021"
     },
     {
-      "id": "96064",
-      "category": "Medical Aids",
-      "name": "Adult Diaperss Size XL",
-      "description": "Mdm S is an elderly client known to Thye Hua Kwan Moral Charities (THKMC), who has has multiple chronic illnesses, including a history of stroke that makes her difficult to walk. Mdm S requires adult diapers (pull-up, XL) to improve her quality of life.  \n\n \n\nTHKMC is looking for 4 packs of adult pull-up diapers, size XL. \n\n \n\nIf you know of someone who has the items for donation, please contact Raihana at 8292 2215. The recipient is located at Henderson.\n\n \n\nSince October 2011, THKMC was incorporated as a charity with an IPC status to provide multiple social and welfare services to the community at large. THKMC provides assistance to the Elderly, Families, Children & Youth, and Persons with Disabilities, through more than 70 programmes and services. \n\n \n\nTHK Elderly Services Division provides many programmes and services to serve the elderly in need – one of which includes THK Cluster Support. THK Cluster Support provides social support through case management, monitoring, and basic counselling services to vulnerable seniors, and facilitates coordination in the provision of community-based care and support services to the seniors. This service aims to improve the quality of life of vulnerable seniors, particularly for low or no income seniors who are socially-isolated and have minimal or no family support.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Crest @ Central",
-        "name": "Siti Raihana Binte Mohd Rawoof",
-        "email": "sitiraihana@thkmc.org.sg",
-        "phone": [
-          "69240367",
-          "69242951"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "21 Jul 2021"
-    },
-    {
       "id": "95567",
       "category": "Medical Aids",
       "name": "Pressure Relief Mattress",
@@ -2555,6 +2521,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "96113",
+      "name": "Single size wooden bedframe with mattress",
+      "description": "Single size wooden bedframe with mattress.",
+      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+      "validTill": "12 Aug 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96110",
+      "name": "Wooden extendable table",
+      "description": "Dining table that can be extended to 200cm in length. More details at:\n\nhttps://www.castlery.com/sg/products/seb-extendable-dining-table?fbclid=IwAR3-ilmQp0PEdyXr9i_sqwmxiVW4y75Z_er6UJfzRSyYe0Ao2GgIpTbGs64",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "21 Aug 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "96106",
       "name": "Foldable Sofa Bed",
