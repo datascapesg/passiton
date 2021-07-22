@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "96132",
+      "category": "Electrical Home Appliances",
+      "name": "Small oven",
+      "description": "Please contact Social Worker Amanda at amandayeo@thkmc.org.sg or 8718 8452 to liaise. Single mother is currently going for baking classes to upgrade her skills. She plans to start a small business after learning to earn a living to support her family. She needs a small oven for baking.",
+      "specifications": "NA",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Navarraj",
+        "email": "navarraj@thkmc.org.sg",
+        "phone": [
+          "64961278",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Jul 2021"
+    },
+    {
       "id": "96131",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -191,23 +209,6 @@
       "date": "19 Jul 2021"
     },
     {
-      "id": "96000",
-      "category": "Electrical Home Appliances",
-      "name": "Fridge",
-      "description": "A family with 6 children and an elderly requiring a refrigerator to store food and groceries for the household. The current fridge has been leaking. Father is unemployed and mother is earning low wage income.",
-      "specifications": "90cm (L), 175 (H), 67cm (w)",
-      "contact": {
-        "org": "MWS Covenant Family Service Centre - Hougang",
-        "name": "Reina Chantelle Reyes",
-        "email": "reinachantelle@mws.sg",
-        "phone": [
-          "62828558"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Jul 2021"
-    },
-    {
       "id": "89306",
       "category": "Electrical Home Appliances",
       "name": "Portable AirCon",
@@ -258,23 +259,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "15 Jul 2021"
-    },
-    {
-      "id": "95828",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "An elderly, who requires a working refrigerator, as she moves into a rental flat with an elderly co-occupier. Both of them are unemployed.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Chavonne Tan",
-        "email": "ywctan@childrensociety.org.sg",
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Jul 2021"
     },
     {
       "id": "95822",
@@ -782,6 +766,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "28 Jun 2021"
+    },
+    {
+      "id": "96133",
+      "category": "Infant and Children Items",
+      "name": "Dumex Dulac Infant Milk Formula - Step 1",
+      "description": "Family of 4 living in a rental flat. The father used to be the sole breadwinner, but is presently unemployed and recuperating from a heart stem surgery. The married couple has 2 young children. Donation of milk powder/diapers will be helpful in alleviating the household expenses.",
+      "specifications": "800g",
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Jasmine Leong",
+        "email": "jasmine@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Jul 2021"
     },
     {
       "id": "96130",
@@ -1587,6 +1588,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "22 Jun 2021"
+    },
+    {
+      "id": "96134",
+      "category": "Others",
+      "name": "Bacteria and virus disinfectant spray",
+      "description": "Sunbeam Place @ Children's Society is currently in need the following items for the kids' activities: Bacteria and virus disinfectant spray; Yoga pants(size S,M,L and XL);Sports shoes for girls(size 36,37,39,40 and 42); Shoe box; Sport bra for girls(size XXL and XXXL); Vertical whiteboard with rolling stand; Locked Cabinet for storage. Please contact us for the quantities needed and the delivery details. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Peng Hui",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Jul 2021"
     },
     {
       "id": "96114",
@@ -2606,16 +2624,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "96106",
-      "name": "Foldable Sofa Bed",
-      "description": "It is a sofa bed with removable cover. Cover is slightly dirty due to age but can be changed. When opened, the sofa will turn into a queen sized bed.",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "28 Jul 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "96105",
       "name": "Wooden TV console with drawers",
       "description": "Extremely Hardy, wood TV console with 2 drawers",
@@ -2906,16 +2914,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "96099",
-      "name": "Bed",
-      "description": "Bed with bed frame. Mattress still in good, clean condition.",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-      "validTill": "26 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95960",
       "name": "Table and 4 stools",
       "description": "IKEA dining table, cork table top, including 4 cork stools. Table is 4-5 years old and we’ll used as both dining table and arts and crafts table. So has some marks and scratches. At same time it is still very usable and in reasonable condition.",
@@ -2961,6 +2959,26 @@
       "description": "Immaculate conditions as it was under utilised",
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
       "validTill": "23 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96135",
+      "name": "Sony Analog TV 40\"",
+      "description": "Item is about 10yrs old but still in good condition. Not a smart tv. Analog tv. Comes with remote control.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "31 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96136",
+      "name": "Sony Analog TV 40\"",
+      "description": "Item is about 10yrs old but still in good condition. Not a smart tv. Analog tv. Comes with remote control.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "31 Jul 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
