@@ -297,24 +297,6 @@
       "date": "14 Jul 2021"
     },
     {
-      "id": "95810",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "A family of 5 has recently got their rental flat and required a refrigerator. Client has just lost her job and does not have extra financial to get a refrigerator.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Yew Tee",
-        "name": "Fu Xiu Ting",
-        "email": "fuxiuting@fycs.org",
-        "phone": [
-          "64162186",
-          "64162162"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Jul 2021"
-    },
-    {
       "id": "95783",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -576,23 +558,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "22 Jul 2021"
-    },
-    {
-      "id": "96047",
-      "category": "Leisure and Healthy Lifestyle",
-      "name": "bicycle",
-      "description": "Client (F/26) is the sole breadwinner of the household (consisting of her and her parents). She has multiple mental health conditions and has unstable employment. Family is struggling financially, and she requires a bicycle for her to do Grab Food delivery to extra income to support the family's daily expenses. (Melissa)",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Teddy Fu",
-        "email": "teddyfu@thkmc.org.sg",
-        "phone": [
-          "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Jul 2021"
     },
     {
       "id": "92259",
@@ -2592,6 +2557,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "96166",
+      "name": "Queen size bed n frame",
+      "description": "Queen size bed seally brand. 7 yrs old w frame.",
+      "location": null,
+      "validTill": "26 Jul 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "96165",
       "name": "Moveable computer/ laptop table desk",
