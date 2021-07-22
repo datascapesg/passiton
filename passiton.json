@@ -907,23 +907,6 @@
       "date": "21 Jul 2021"
     },
     {
-      "id": "96032",
-      "category": "Infant and Children Items",
-      "name": "Milk powders and diapers",
-      "description": "Client has just found a job and is financially struggling due to some family issues. She requires Durgo 3 Milk Powder and Huggies Pull up Pants (L SIZE) for her child.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Ng Shiuh Shuen",
-        "email": "ngshiuhshuen@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Jul 2021"
-    },
-    {
       "id": "96002",
       "category": "Infant and Children Items",
       "name": "Diapers",
@@ -953,24 +936,6 @@
         "phone": [
           "63179990",
           "63770122"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "19 Jul 2021"
-    },
-    {
-      "id": "95973",
-      "category": "Infant and Children Items",
-      "name": "MamyPoko Diapers",
-      "description": "Family of 5 living in a 1-room rental flat. Father was previously the sole breadwinner of the family. However, the COVID-19 situation had significantly impacted father's job. Father is currently sourcing for a job. The family is currently relying on assistance and in-kind donations from social service agencies to provide for their children's basic necessities. The family would urgently require Mamypoko diapers for their older children - size XL and XXL",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue - Early Intervention Centre For Children",
-        "name": "Joanna Tay",
-        "email": "joannatay@fycs.org",
-        "phone": [
-          "67719600",
-          "65656260"
         ]
       },
       "deliveryCostsCoveredByDonor": false,
@@ -1590,6 +1555,24 @@
       "date": "22 Jun 2021"
     },
     {
+      "id": "96114",
+      "category": "Others",
+      "name": "TENA L PANTS ADULT DIAPERS",
+      "description": "Client is diagnosed with Rectal Cancer and living alone. Client is financially needy and requires the use of diapers as client experiences incontinence.",
+      "specifications": null,
+      "contact": {
+        "org": "AIN Society",
+        "name": "Nur'Ain Binte Mohamed Said",
+        "email": "nurain@ainsociety.org.sg",
+        "phone": [
+          "68485116",
+          "68485166"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "22 Jul 2021"
+    },
+    {
       "id": "96100",
       "category": "Others",
       "name": "Children diapers",
@@ -1641,24 +1624,6 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "21 Jul 2021"
-    },
-    {
-      "id": "95988",
-      "category": "Others",
-      "name": "Dressing table",
-      "description": "The family has unstable employment due to mental health issue which led to financial issue and unable to have resources to meet their need.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Champions Way",
-        "name": "Joycelyn Wong",
-        "email": "joycelynwong@fycs.org",
-        "phone": [
-          "66901010",
-          "66901000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Jul 2021"
     },
     {
       "id": "95983",
@@ -2521,6 +2486,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "96116",
+      "name": "single wooden bed and mattress",
+      "description": "Single wooden bed",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "27 Jul 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96115",
+      "name": "Used Ikea baby cot spring mattress",
+      "description": "Used Ikea pocket spring cot mattress (VYSSA VACKERT). Mattress only, cot not included. \n\nUsed for approx 3 years and 8 months.",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "15 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "96113",
       "name": "Single size wooden bedframe with mattress",
