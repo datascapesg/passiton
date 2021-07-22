@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "96131",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "The family is currently in need of a fridge, about 375 litres. The items will be directly sent to beneficiary's home and please contact us for delivery details. Thank you!",
+      "specifications": "About 375 litres fridge",
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Peng Hui",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Jul 2021"
+    },
+    {
       "id": "96111",
       "category": "Electrical Home Appliances",
       "name": "Small Fridge/Freezer",
@@ -765,6 +782,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "28 Jun 2021"
+    },
+    {
+      "id": "96130",
+      "category": "Infant and Children Items",
+      "name": "Drypers Drypantz Pants",
+      "description": "Family of 4 living in a rental flat. The father used to be the sole breadwinner, but is presently unemployed and recuperating from a heart stem surgery. The married couple has 2 young children. Donation of diapers/milk powder will be helpful in alleviating the household expenses.",
+      "specifications": "XXL (15 - 25kg)",
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Jasmine Leong",
+        "email": "jasmine@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "22 Jul 2021"
     },
     {
       "id": "96129",
