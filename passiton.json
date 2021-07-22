@@ -1,24 +1,6 @@
 {
   "requests": [
     {
-      "id": "96153",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Family requires a washing machine. Client  is the sole breadwinner for the family as her husband is unable to work due to health reasons. She is also mother to her three children of which one is of special needs. Presently she has been washing the clothes by hand.",
-      "specifications": null,
-      "contact": {
-        "org": "REACH Family Service Centre",
-        "name": "Jerry Leon Kasman",
-        "email": "jerry.leon@reach.org.sg",
-        "phone": [
-          "68010712",
-          "62522566"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Jul 2021"
-    },
-    {
       "id": "96139",
       "category": "Electrical Home Appliances",
       "name": "Cordless Vacuum Cleaner",
@@ -1662,6 +1644,24 @@
       "date": "22 Jun 2021"
     },
     {
+      "id": "96162",
+      "category": "Others",
+      "name": "20 office Pedestals with key lock",
+      "description": "We are requesting for 20 office Pedestals with key lock for our office use. The Helping Hand is a Voluntary Welfare Organization affiliated with the National Council of Social Service. We run a home providing drug rehabilitation and after-care services to male drug addicts and ex-offenders in Singapore. This is a residential programme carried out in our agency home, which was graciously provided by the Singapore government in recognition of our services to the community. We are serving about 100 residents at our premises.",
+      "specifications": null,
+      "contact": {
+        "org": "The Helping Hand",
+        "name": "Chan Toh Han",
+        "email": "chantohhan@thehelpinghand.org.sg",
+        "phone": [
+          "62832204ext120",
+          "62832204"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "22 Jul 2021"
+    },
+    {
       "id": "96147",
       "category": "Others",
       "name": "Laptop",
@@ -2080,23 +2080,6 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "22 Jun 2021"
-    },
-    {
-      "id": "96127",
-      "category": "Home Furnishing",
-      "name": "queen sized mattress",
-      "description": "Client lives in a 2-room rental flexi flat with her husband and 3 school going children and her father who is advanced in age and has health issues. Client is unemployed as she has to care for her two youngest children age 4 and 3 and they have learning difficulties. Client's husband is working and earns $1200 which is not enough to feed a family of 6 especially with client's father who have multiple chronic illness. Client requested for a queen sized mattress as her mattress has become thinned. Preferably new.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Dini Dzulaikha Bte Dzulkifli",
-        "email": null,
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "22 Jul 2021"
     },
     {
       "id": "96126",
@@ -2644,6 +2627,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "96164",
+      "name": "Lucky baby milk bottle warmer",
+      "description": "Brand new in box",
+      "location": "Kranji, Woodgrove",
+      "validTill": "21 Aug 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96163",
+      "name": "Nursing Pillow",
+      "description": "Brand new from Kiddy palace\nFor breastfeeding support or baby bum support while sleeping",
+      "location": "Kranji, Woodgrove",
+      "validTill": "21 Aug 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96161",
+      "name": "Study Table",
+      "description": "Well-used study table with 4 functional drawers. There are signs of use but the table can still be used for another 1 - 2 years.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "21 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "96160",
       "name": "SONA Air Cooler",
