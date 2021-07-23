@@ -508,6 +508,24 @@
       "date": "23 Jun 2021"
     },
     {
+      "id": "96200",
+      "category": "Mobility Aids",
+      "name": "Hospital Bed",
+      "description": "Elderly man living with severe dementia and severe heart condition requires a hospital bed upon his discharge from the hospital. \n\nFamily has financial concerns, and is unable to pay for a new bed and the delivery. Would be good if donor can cover the cost of delivery.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Telok Blangah",
+        "name": "Chen Jie Mei",
+        "email": "jiemei.chen@montfortcare.org.sg",
+        "phone": [
+          "62746904",
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Jul 2021"
+    },
+    {
       "id": "96194",
       "category": "Mobility Aids",
       "name": "Walking Stick",
@@ -2349,36 +2367,6 @@
   ],
   "offers": [
     {
-      "id": "96199",
-      "name": "Ikea cabinet / shelving unit large",
-      "description": "Ikea Kallax shelving unit only available, without the desk\nIn very good condition",
-      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-      "validTill": "29 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96198",
-      "name": "Ikea cabinet / shelving unit",
-      "description": "Ikea Kallax shelving unit, with 4 door and 4 drawer sections. In very good condition",
-      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-      "validTill": "29 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96192",
-      "name": "Washing machine - top loading",
-      "description": "Top-loading functioning washing machine",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "10 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "96191",
       "name": "Single Bed",
       "description": "Brown single bed",
@@ -2635,16 +2623,6 @@
       "location": "Jurong",
       "validTill": "20 Aug 2021",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96072",
-      "name": "Stand Mixer",
-      "description": "Pre-loved Stand mixer which is in good working condition. Brand: Jakada",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "20 Aug 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3429,16 +3407,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95429",
-      "name": "Philips Avent Breast Pump",
-      "description": "Breast pump barely used. See photos for details. I am unable to deliver as I am under treatment for cancer and not vaccinated. I would prefer if someone collects from home please.",
-      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
-      "validTill": "05 Aug 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95419",
       "name": "Bouncing play table",
       "description": "Bouncing play table for baby age 6mths above.\nPlease self collect.",
@@ -3695,6 +3663,16 @@
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "30 Jul 2021",
       "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96205",
+      "name": "Queen size bed with mattress",
+      "description": "Queen size bed frame with mattress",
+      "location": "Orchard, Cairnhill, River Valley",
+      "validTill": "29 Jul 2021",
+      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
