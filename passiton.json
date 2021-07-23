@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "96210",
+      "category": "Electrical Home Appliances",
+      "name": "Standing Fan",
+      "description": "Family of 8 with young children living in a rental flat, experiencing multiple stressors. Their current fan is spoilt and will require a replacement. Any donation of a new standing fan or a fan in good condition will be appreciated.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Jasmine Leong",
+        "email": "jasmine@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Jul 2021"
+    },
+    {
+      "id": "96208",
+      "category": "Electrical Home Appliances",
+      "name": "Dryer",
+      "description": "Elderly grandmother who is permanently unfit for work and has mobility issues is looking for a dryer, as she is unable to use the bamboo poles for drying of her clothes due to her health issues. She is living with one son who is still schooling in ITE. The family is dependent on government assistance to get by and are unable to afford on their own.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Lim Yi Xi",
+        "email": "yixi@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Jul 2021"
+    },
+    {
       "id": "96139",
       "category": "Electrical Home Appliances",
       "name": "Cordless Vacuum Cleaner",
@@ -784,23 +818,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": false,
-      "date": "22 Jul 2021"
-    },
-    {
-      "id": "96118",
-      "category": "Infant and Children Items",
-      "name": "Children Safety Gate (minimum 100cm width)",
-      "description": "Client is the main caregiver for her two young children (3yo, 2yo). The children safety gate will support her in ensuring the safety of the children as she manages the different household tasks at home.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Koh Fang Qi",
-        "email": "kohfangqi@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
       "date": "22 Jul 2021"
     },
     {
@@ -2366,6 +2383,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "96209",
+      "name": "Peg Perego High Chair",
+      "description": "Suitable for baby 6mo up to toddler of 15kg. Can also recline and allow new born to lie on it.\nCan also be folded and kept away if not in use. Chair is very sturdy and comes with safety harness.",
+      "location": "Loyang, Changi",
+      "validTill": "05 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "96207",
       "name": "Radio",
