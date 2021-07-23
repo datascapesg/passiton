@@ -37,23 +37,6 @@
       "date": "22 Jul 2021"
     },
     {
-      "id": "96131",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "The family is currently in need of a fridge, about 375 litres. The items will be directly sent to beneficiary's home and please contact us for delivery details. Thank you!",
-      "specifications": "About 375 litres fridge",
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Peng Hui",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Jul 2021"
-    },
-    {
       "id": "96111",
       "category": "Electrical Home Appliances",
       "name": "Small Fridge/Freezer",
@@ -2418,6 +2401,36 @@
   ],
   "offers": [
     {
+      "id": "96192",
+      "name": "Washing machine - top loading",
+      "description": "Top-loading functioning washing machine",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "10 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96191",
+      "name": "Single Bed",
+      "description": "Brown single bed",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "15 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96190",
+      "name": "Single Bed",
+      "description": "Brown single bed",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "15 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "96189",
       "name": "Glass Side Table",
       "description": "Glass side table",
@@ -2488,42 +2501,12 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "96177",
-      "name": "Garment Steamer",
-      "description": "good working condition garment steamer. have probably used it once.",
-      "location": "Yishun, Sembawang",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "96176",
       "name": "Kettle",
       "description": "Good working condition electric kettle to giveaway.",
       "location": "Yishun, Sembawang",
       "validTill": "31 Jul 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96174",
-      "name": "Closet",
-      "description": "Sturdy closet with different compartments for storage.",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "01 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96173",
-      "name": "Refrigerator",
-      "description": "Refrigerator for kitchen. Samsung, 2-door.",
-      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
-      "validTill": "19 Aug 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2624,16 +2607,6 @@
       "location": "Katong, Joo Chiat, Amber Road",
       "validTill": "15 Aug 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96113",
-      "name": "Single size wooden bedframe with mattress",
-      "description": "Single size wooden bedframe with mattress.",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-      "validTill": "12 Aug 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
