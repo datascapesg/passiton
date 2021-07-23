@@ -542,24 +542,6 @@
       "date": "23 Jun 2021"
     },
     {
-      "id": "96200",
-      "category": "Mobility Aids",
-      "name": "Hospital Bed",
-      "description": "Elderly man living with severe dementia and severe heart condition requires a hospital bed upon his discharge from the hospital. \n\nFamily has financial concerns, and is unable to pay for a new bed and the delivery. Would be good if donor can cover the cost of delivery.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - GoodLife! @ Telok Blangah",
-        "name": "Chen Jie Mei",
-        "email": "jiemei.chen@montfortcare.org.sg",
-        "phone": [
-          "62746904",
-          "62708327"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Jul 2021"
-    },
-    {
       "id": "96194",
       "category": "Mobility Aids",
       "name": "Walking Stick",
@@ -1451,6 +1433,24 @@
       "date": "22 Jun 2021"
     },
     {
+      "id": "96211",
+      "category": "Others",
+      "name": "Bicycle",
+      "description": "The family of four (parents with two young children) are facing financial challenges due to wife's kidney health issues and husband's lack of F&B work due to the COVID-19 restrictions. Thus, husband hopes to get a bicycle to do food delivery.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@amkfsc.org.sg",
+        "phone": [
+          "64546678ext217",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Jul 2021"
+    },
+    {
       "id": "96195",
       "category": "Others",
       "name": "Air Purifier",
@@ -2135,6 +2135,24 @@
       "date": "22 Jun 2021"
     },
     {
+      "id": "96212",
+      "category": "Medical Aids",
+      "name": "Adult Absorbent Protector",
+      "description": "Elderly man with bladder control issues requires urine absorbent pads while he recovers from a recent accident.",
+      "specifications": "Tena for men Level 2",
+      "contact": {
+        "org": "New Hope Community Services",
+        "name": "Loh Khoon Mun",
+        "email": "khoonmun@newhopecs.org.sg",
+        "phone": [
+          "94511244",
+          "63059620"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Jul 2021"
+    },
+    {
       "id": "96149",
       "category": "Medical Aids",
       "name": "Sebamed Liquid Face & Body Wash for sensitive skin",
@@ -2409,26 +2427,6 @@
       "description": "Super single mattress\nStill firm",
       "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
       "validTill": "22 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96191",
-      "name": "Single Bed",
-      "description": "Brown single bed",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "15 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96190",
-      "name": "Single Bed",
-      "description": "Brown single bed",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "15 Aug 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -2810,16 +2808,6 @@
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
       "validTill": "25 Jul 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96011",
-      "name": "Toilet commode",
-      "description": "This is a used but relatively new toilet commode as my dad had it when he suffered a fracture",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "30 Jul 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
