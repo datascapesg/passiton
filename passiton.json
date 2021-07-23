@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "96218",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client just moved into a 1 room HDB public rental flat in Bedok North. He works odd jobs and has limited mobility due to a neck surgery. He speaks only Mandarin, uses voice recording and photos and could not do data-entry due to an impaired nerves in his hands as well. His partner also has limited mobility and will need the convenience of a washing machine for their daily hygiene.",
+      "specifications": null,
+      "contact": {
+        "org": "New Hope Community Services",
+        "name": "Goh Ann Tat",
+        "email": "anntat@newhopecs.org.sg",
+        "phone": [
+          "87952925",
+          "63059620"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "23 Jul 2021"
+    },
+    {
       "id": "96210",
       "category": "Electrical Home Appliances",
       "name": "Standing Fan",
@@ -1853,6 +1871,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "22 Jun 2021"
+    },
+    {
+      "id": "96217",
+      "category": "Home Furnishing",
+      "name": "1 single size bedframe",
+      "description": "Two homeless elderly persons are moving into their rental flat soon and they need furnitures and electrical appliances for their rental flat as it is empty. Both of them are not working and they are not able to afford to buy a bed. They are currently staying in our homeless shelter.\n\nIf you would like to donate a bed, please contact Mr Derek Lim at 84558203 or derek@newhopecs.org.sg.",
+      "specifications": "Single size",
+      "contact": {
+        "org": "New Hope Community Services",
+        "name": "Goh Ann Tat",
+        "email": "anntat@newhopecs.org.sg",
+        "phone": [
+          "87952925",
+          "63059620"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Jul 2021"
     },
     {
       "id": "96088",
