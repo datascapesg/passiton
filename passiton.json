@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "96300",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Family has 2 school-going children and they require a fridge in good working condition as their current one has spoilt. Father recently started work and the family does not have sufficient savings or income to buy a new fridge. Appreciate if fridge is in good working condition as their previous one was donated and not in good condition when received. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Lim Yi Xi",
+        "email": "yixi@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jul 2021"
+    },
+    {
       "id": "96299",
       "category": "Electrical Home Appliances",
       "name": "Washing machine",
@@ -22,24 +39,6 @@
       "category": "Electrical Home Appliances",
       "name": "CCTVs",
       "description": "Needy household requesting for 4 CCTVs (E.g. XiaoMi Home security camera 360)to monitor the safety and movements of two 80 plus years old elderly staying in the flat. Please include delivery fees as they will not be able to pay for it. Thank you so much.",
-      "specifications": null,
-      "contact": {
-        "org": "NTUC Health Cluster Support - Taman Jurong",
-        "name": "Roger Khoo Lay Yeau",
-        "email": "roger.khoo@ntuchealth.sg",
-        "phone": [
-          "96922814",
-          "62674197"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Jul 2021"
-    },
-    {
-      "id": "96293",
-      "category": "Electrical Home Appliances",
-      "name": "Table/Desk 16'' Fan",
-      "description": "Needy elderly requested for a Table/Desk 16'' Fan because he has no income or extra savings to purchase it. Please do include delivery fees as he will not be able to pay for it.",
       "specifications": null,
       "contact": {
         "org": "NTUC Health Cluster Support - Taman Jurong",
@@ -350,23 +349,6 @@
       "date": "16 Jul 2021"
     },
     {
-      "id": "95894",
-      "category": "Electrical Home Appliances",
-      "name": "Washing machine",
-      "description": "Single mother with 3 children requires a washing machine with a 13amp plug (normal 3-pin, not the rounded plug). Their old one has spoilt and they cannot afford to go laundromat daily to wash their clothes. \n\nThey were previously given another washing machine but it comes with the 15amp pin (round ones) and they do not have the 15amp socket installed in the house, and cannot afford to install a new socket. As such, will need another washing machine suitable for the house.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Lim Yi Xi",
-        "email": "yixi@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Jul 2021"
-    },
-    {
       "id": "95822",
       "category": "Electrical Home Appliances",
       "name": "Fridge",
@@ -547,23 +529,6 @@
       "category": "Mobility Aids",
       "name": "4-wheeled Mobility Scooter",
       "description": "Elderly grandmother has multiple health issues and is unfit for work. She requires a 4-wheeled Mobility Scooter to get around and is hoping to get a secondhand one in good condition.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Lim Yi Xi",
-        "email": "yixi@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Jul 2021"
-    },
-    {
-      "id": "96268",
-      "category": "Mobility Aids",
-      "name": "Electric Scooter",
-      "description": "Elderly grandmother with multiple health issues who is unfit for work requires a electric scooter for her mobility. She requires a secondhand one in good condition.",
       "specifications": null,
       "contact": {
         "org": "South Central Community FSC Ltd",
@@ -2209,22 +2174,22 @@
   ],
   "offers": [
     {
+      "id": "96301",
+      "name": "Dog Food",
+      "description": "6kg Fish for Dogs \nNatural Core Sensitive Salmon Dog Treat\nClient has access due to passing away of dog. Would like to give away for anyone who might need.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "25 Aug 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "96298",
       "name": "full size bed",
       "description": "full size bed with mattress",
       "location": "Katong, Joo Chiat, Amber Road",
       "validTill": "20 Aug 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96294",
-      "name": "gray L-shaped sofa",
-      "description": "gray L-shaped sofa, moving and we no longer have room in new place for it.",
-      "location": "Katong, Joo Chiat, Amber Road",
-      "validTill": "24 Aug 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2409,31 +2374,11 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "96244",
-      "name": "Brown 2 seater leather sofa",
-      "description": "2 seater brown half leather sofa. Uppers are real leather while non-skin-contact parts are PU leather. Bought from Courts.",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "24 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "96242",
       "name": "Round dining table",
       "description": "Solid wood round dining table",
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "05 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96238",
-      "name": "King Koil Bed Frame + Mattress",
-      "description": "Mattress with Storage bed frame.  Good condition and very clean.  Hardly used.",
-      "location": "Yishun, Sembawang",
-      "validTill": "23 Aug 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -2455,16 +2400,6 @@
       "location": "Little India",
       "validTill": "23 Aug 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96234",
-      "name": "Microwave, silver in colour",
-      "description": "Still in great condition.",
-      "location": null,
-      "validTill": "01 Aug 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2853,6 +2788,16 @@
       "name": "IKEA baby high chair",
       "description": "Blue and in very good condition",
       "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "18 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96302",
+      "name": "Radio & 3 speakers",
+      "description": "Item more than 4 years. Still in working condition.",
+      "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "18 Aug 2021",
       "ageInYears": 4,
       "dimensions": null,
