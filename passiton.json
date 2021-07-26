@@ -1,6 +1,77 @@
 {
   "requests": [
     {
+      "id": "96289",
+      "category": "Electrical Home Appliances",
+      "name": "Heater",
+      "description": "A family of 5 has recently got their rental flat and required to install a heater for her children. Client has just lost her job and does not have extra financial to purchase a heater for her young children.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Yew Tee",
+        "name": "Fu Xiu Ting",
+        "email": "fuxiuting@fycs.org",
+        "phone": [
+          "64162186",
+          "64162162"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jul 2021"
+    },
+    {
+      "id": "96288",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "A family of 5 has recently got their rental flat and required a washing machine. Client has just lost her job and does not have extra financial to get a washing machine.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Yew Tee",
+        "name": "Fu Xiu Ting",
+        "email": "fuxiuting@fycs.org",
+        "phone": [
+          "64162186",
+          "64162162"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jul 2021"
+    },
+    {
+      "id": "96287",
+      "category": "Electrical Home Appliances",
+      "name": "Standing Fan",
+      "description": "A family of 5 has recently got their rental flat and required a standing fan. Client has just lost her job and does not have extra financial to get a standing fan.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Yew Tee",
+        "name": "Fu Xiu Ting",
+        "email": "fuxiuting@fycs.org",
+        "phone": [
+          "64162186",
+          "64162162"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jul 2021"
+    },
+    {
+      "id": "96286",
+      "category": "Electrical Home Appliances",
+      "name": "Oven",
+      "description": "Client is certificated medically unfit for work whereas his wife is currently unemployed. They are surviving on the financial assistance from the Social Service Office (SSO)@Sembawang. They are in need of an oven, wardrobe, standing fan and an android handphone as they do not have the resources or financial ability to purchase and get the items replaced.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "26 Jul 2021"
+    },
+    {
       "id": "96277",
       "category": "Electrical Home Appliances",
       "name": "Android handphone",
@@ -242,24 +313,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "16 Jul 2021"
-    },
-    {
-      "id": "95836",
-      "category": "Electrical Home Appliances",
-      "name": "TV",
-      "description": "Homeless low-income individual is moving into his new unfurnished rental flat with another unemployed individual who is medically certified unfit for work.",
-      "specifications": null,
-      "contact": {
-        "org": "New Hope Community Services - TP@MD",
-        "name": "Amanda Soo",
-        "email": "amanda@newhopecs.org.sg",
-        "phone": [
-          "91190180",
-          "9119n0180"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Jul 2021"
     },
     {
       "id": "95822",
@@ -2051,6 +2104,26 @@
   ],
   "offers": [
     {
+      "id": "96290",
+      "name": "2 Single Beds",
+      "description": "2 Single Beds. Bed frame and headboard includes storage compartments. Comes with 2 mattresses. In good condition.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "01 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96285",
+      "name": "King Size Bed Frame without mattress",
+      "description": "King Size Bed Frame without mattress in good working condition.",
+      "location": null,
+      "validTill": "25 Aug 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "96284",
       "name": "Two seater sofa",
       "description": "NA",
@@ -2067,16 +2140,6 @@
       "location": null,
       "validTill": "10 Aug 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96282",
-      "name": "Single Mattress",
-      "description": "excellent condition, no stains\nprofessionally sanitisied every 6 months",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-      "validTill": "01 Aug 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2114,16 +2177,6 @@
       "id": "96266",
       "name": "Queen bed",
       "description": "Queen bed with four storage drawers and headboard with side shelves. Headboards add 28 cm additional length. IKEA Brimnes line.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96265",
-      "name": "King bed",
-      "description": "King bed with mattress and four storage drawers. IKEA Brimnes line.",
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "31 Jul 2021",
       "ageInYears": 3,
@@ -2291,16 +2344,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "96235",
-      "name": "SHARP Television 32'",
-      "description": "Workable tv, no sign of damage though it is an old model tv. \nAble to received local tv channel by plug-in digital box or connect to other devices e.g; VCD/DVD player",
-      "location": "Seletar",
-      "validTill": "23 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "96234",
       "name": "Microwave, silver in colour",
       "description": "Still in great condition.",
@@ -2435,16 +2478,6 @@
       "name": "Writing desk & Chair",
       "description": "Writing desk & Chair",
       "location": "Katong, Joo Chiat, Amber Road",
-      "validTill": "22 Aug 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96183",
-      "name": "Queen Bed, mattress, side tables, pillows and blanket",
-      "description": "Queen bed frame\nMattress\nSide tables\nPillows",
-      "location": "Geylang, Eunos",
       "validTill": "22 Aug 2021",
       "ageInYears": 2,
       "dimensions": null,
@@ -2746,16 +2779,6 @@
       "description": "has been used for more than 4 years and less than 8 years. still in good condition. note that the frame has some stickers.",
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
       "validTill": "01 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96261",
-      "name": "Sony Analog TV 40\"",
-      "description": "Item is about 10yrs old but still in good condition. Not a smart tv. Analog tv. Comes with remote control.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 Jul 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
