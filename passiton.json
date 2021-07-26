@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "96270",
+      "category": "Electrical Home Appliances",
+      "name": "Induction Cooker",
+      "description": "Client is an elderly person with multiple medical conditions. She is unemployed and is looking for an induction cooker as her home stove has spoilt",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Lim Daniel",
+        "email": null,
+        "phone": [
+          "68010719",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jul 2021"
+    },
+    {
       "id": "96218",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -420,6 +438,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "28 Jun 2021"
+    },
+    {
+      "id": "96272",
+      "category": "Mobility Aids",
+      "name": "4-wheeled Mobility Scooter",
+      "description": "Elderly grandmother has multiple health issues and is unfit for work. She requires a 4-wheeled Mobility Scooter to get around and is hoping to get a secondhand one in good condition.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Lim Yi Xi",
+        "email": "yixi@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jul 2021"
     },
     {
       "id": "96268",
@@ -1949,6 +1984,26 @@
   ],
   "offers": [
     {
+      "id": "96271",
+      "name": "2 seater sofa",
+      "description": "2 seater sofa suitable for small spaces. Will go nicely with a throwrug on it.  A few fabric stains which should be removable.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "25 Aug 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96269",
+      "name": "Bed",
+      "description": "Single bed from ikea. Hardly used.  (Picture for reference. Only bed frame and mattress offered)",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "25 Aug 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "96266",
       "name": "Queen bed",
       "description": "Queen bed with four storage drawers and headboard with side shelves. Headboards add 28 cm additional length. IKEA Brimnes line.",
@@ -2634,16 +2689,6 @@
       "description": "has been used for more than 4 years and less than 8 years. still in good condition. note that the frame has some stickers.",
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
       "validTill": "01 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96077",
-      "name": "Ogawa Massage Chair",
-      "description": "It’s an under use massage chair but the leather was worn out due to our humility weather. I have a piece of cloth to cover it up or you may use a blanket over it for different user. I will like to donate to the elderly whom will need it to ease their aching body",
-      "location": "Little India",
-      "validTill": "17 Aug 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
