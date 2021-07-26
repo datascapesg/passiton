@@ -1,18 +1,71 @@
 {
   "requests": [
     {
-      "id": "96289",
+      "id": "96299",
       "category": "Electrical Home Appliances",
-      "name": "Heater",
-      "description": "A family of 5 has recently got their rental flat and required to install a heater for her children. Client has just lost her job and does not have extra financial to purchase a heater for her young children.",
+      "name": "Washing machine",
+      "description": "Single mother with 3 children living in a 2-rm rental flat requires a washing machine in good condition as theirs has spoilt. She does not have income nor savings to pay for a new washing machine. Appreciate if donor can deliver.",
       "specifications": null,
       "contact": {
-        "org": "Fei Yue Family Service Centre @ Yew Tee",
-        "name": "Fu Xiu Ting",
-        "email": "fuxiuting@fycs.org",
+        "org": "South Central Community FSC Ltd",
+        "name": "Lim Yi Xi",
+        "email": "yixi@sccfsc.org.sg",
         "phone": [
-          "64162186",
-          "64162162"
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jul 2021"
+    },
+    {
+      "id": "96297",
+      "category": "Electrical Home Appliances",
+      "name": "CCTVs",
+      "description": "Needy household requesting for 4 CCTVs (E.g. XiaoMi Home security camera 360)to monitor the safety and movements of two 80 plus years old elderly staying in the flat. Please include delivery fees as they will not be able to pay for it. Thank you so much.",
+      "specifications": null,
+      "contact": {
+        "org": "NTUC Health Cluster Support - Taman Jurong",
+        "name": "Roger Khoo Lay Yeau",
+        "email": "roger.khoo@ntuchealth.sg",
+        "phone": [
+          "96922814",
+          "62674197"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jul 2021"
+    },
+    {
+      "id": "96293",
+      "category": "Electrical Home Appliances",
+      "name": "Table/Desk 16'' Fan",
+      "description": "Needy elderly requested for a Table/Desk 16'' Fan because he has no income or extra savings to purchase it. Please do include delivery fees as he will not be able to pay for it.",
+      "specifications": null,
+      "contact": {
+        "org": "NTUC Health Cluster Support - Taman Jurong",
+        "name": "Roger Khoo Lay Yeau",
+        "email": "roger.khoo@ntuchealth.sg",
+        "phone": [
+          "96922814",
+          "62674197"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jul 2021"
+    },
+    {
+      "id": "96291",
+      "category": "Electrical Home Appliances",
+      "name": "Gas Cartridge Stove",
+      "description": "Low-income family staying in 1-room rental flat is in need of a new Gas Cartridge Stove as their current one is faulty, resulting in them unable to cook at home. \n\nSample: https://shopee.sg/Golden-Fuji-Gas-Cartridge-Stove-GF-8000-i.142964695.9616142879?gclid=EAIaIQobChMIvL7B9-f_8QIVz30rCh0nrgH0EAQYBSABEgLsivD_BwE&__hybrid_pc__=1&stm_referrer=)",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Lee Yan Jun",
+        "email": "leeyanjun@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -23,24 +76,6 @@
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
       "description": "A family of 5 has recently got their rental flat and required a washing machine. Client has just lost her job and does not have extra financial to get a washing machine.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Yew Tee",
-        "name": "Fu Xiu Ting",
-        "email": "fuxiuting@fycs.org",
-        "phone": [
-          "64162186",
-          "64162162"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Jul 2021"
-    },
-    {
-      "id": "96287",
-      "category": "Electrical Home Appliances",
-      "name": "Standing Fan",
-      "description": "A family of 5 has recently got their rental flat and required a standing fan. Client has just lost her job and does not have extra financial to get a standing fan.",
       "specifications": null,
       "contact": {
         "org": "Fei Yue Family Service Centre @ Yew Tee",
@@ -296,6 +331,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "19 Jul 2021"
+    },
+    {
+      "id": "95894",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "Single mother with 3 children requires a washing machine with a 13amp plug (normal 3-pin, not the rounded plug). Their old one has spoilt and they cannot afford to go laundromat daily to wash their clothes. \n\nThey were previously given another washing machine but it comes with the 15amp pin (round ones) and they do not have the 15amp socket installed in the house, and cannot afford to install a new socket. As such, will need another washing machine suitable for the house.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Lim Yi Xi",
+        "email": "yixi@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Jul 2021"
     },
     {
       "id": "95894",
@@ -679,6 +731,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "28 Jun 2021"
+    },
+    {
+      "id": "96296",
+      "category": "Infant and Children Items",
+      "name": "Electric breast pump, Milk bottle warmer and Bottle Sterilizer",
+      "description": "The family is currently in need of new Electric breast pump, Milk bottle warmer and Bottle Sterilizer for new born baby. Items will be sent directly to beneficiary's home and please contact us for details. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Peng Hui",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jul 2021"
     },
     {
       "id": "96167",
@@ -1772,6 +1841,24 @@
       "date": "28 Jun 2021"
     },
     {
+      "id": "96292",
+      "category": "Home Furnishing",
+      "name": "4 Pillows and 2 Bolsters",
+      "description": "A family of 8 have 6 school-going children ranging from 5 to 11 years old, of which 4 have special needs/learning difficulties. Father is the sole breadwinner and the mother is the main caregiver of children and maternal grandparent who undergoes thrice-weekly dialysis.\n\nThe family needs 4 pillows and 2 bolsters to replace the ones damaged at home for a better night's rest.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue - Early Intervention Centre For Children",
+        "name": "Nicole Wong",
+        "email": "wongyuejunnicole@fycs.org",
+        "phone": [
+          "64310470",
+          "65656260"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jul 2021"
+    },
+    {
       "id": "96088",
       "category": "Home Furnishing",
       "name": "Wooden Drawer",
@@ -1981,6 +2068,24 @@
       "date": "30 Jun 2021"
     },
     {
+      "id": "96295",
+      "category": "Learning Aids",
+      "name": "Laptop for HBL, Zoom Lessons",
+      "description": "A family of 8 have 6 school-going children ranging from 5 to 11 years old, of which 4 have special needs/learning difficulties. Father is the sole breadwinner and the mother is the main caregiver of children and maternal grandparent who undergoes thrice-weekly dialysis. \n\nChildren who need to attend lessons via Zoom are currently using Mother's mobile phone, limiting the participation of children to enhance learning. \n\nThe laptop that was issued by the school had been damaged and the family is unable to afford a new one. \n\nAlternatively, a working iPad would be helpful as well.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue - Early Intervention Centre For Children",
+        "name": "Nicole Wong",
+        "email": "wongyuejunnicole@fycs.org",
+        "phone": [
+          "64310470",
+          "65656260"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jul 2021"
+    },
+    {
       "id": "96168",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -2103,6 +2208,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "96298",
+      "name": "full size bed",
+      "description": "full size bed with mattress",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "20 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96294",
+      "name": "gray L-shaped sofa",
+      "description": "gray L-shaped sofa, moving and we no longer have room in new place for it.",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "24 Aug 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "96290",
       "name": "2 Single Beds",
@@ -2299,16 +2424,6 @@
       "description": "Solid wood round dining table",
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "05 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96239",
-      "name": "Glass dinning table",
-      "description": "Tampered glass dinning table",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "04 Aug 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -2738,16 +2853,6 @@
       "name": "IKEA baby high chair",
       "description": "Blue and in very good condition",
       "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "18 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95980",
-      "name": "Radio & 3 speakers",
-      "description": "Item more than 4 years. Still in working condition.",
-      "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "18 Aug 2021",
       "ageInYears": 4,
       "dimensions": null,
