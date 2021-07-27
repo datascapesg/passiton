@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "96353",
+      "category": "Electrical Home Appliances",
+      "name": "Gas Stove",
+      "description": "Client is living with her husband and 3 children, and have another child on the way. The family are struggling financially and have unstable employment. They have recently moved into a new rental flat, and require refurbishment assistance. The gas stove should be able to link up with the main gas supply provided.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Toa Payoh",
+        "name": "Nathania Chua",
+        "email": "nathaniachua@carecorner.org.sg",
+        "phone": [
+          "63561622"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Jul 2021"
+    },
+    {
+      "id": "96352",
+      "category": "Electrical Home Appliances",
+      "name": "2 Standing Fan",
+      "description": "Client is a single parent with 4 teenagers. Each family member has medical condition. Client is the sole breadwinner with stagnant income as she is unable to fully commit to a full-time job due to her physical and mental health. Children are still schooling thus, dependent on client",
+      "specifications": null,
+      "contact": {
+        "org": "Viriya Family Service Centre",
+        "name": "Nur Atika Bte Razali",
+        "email": "atika@viriya.org.sg",
+        "phone": [
+          "62858033"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Jul 2021"
+    },
+    {
       "id": "96346",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -1881,6 +1915,24 @@
       "date": "28 Jun 2021"
     },
     {
+      "id": "96350",
+      "category": "Home Furnishing",
+      "name": "Queen Mattress",
+      "description": "A single mother with two young children staying in our shelter require your kind provision of a queen size mattress and bedsheets. Family has been sleeping on two single mattresses on the floor since their admission into shelter. Gradually, the mattresses have worn out and became thin, as a result, hurting their backs when they sleep and affecting their sleep quality. Your blessing of a queen mattress will certainly provide a more comfortable and better sleep and rest to the family. We seek your kindest understanding that our shelter could only receive brand new mattress due to the units that are prone to bed bug infestation. Thank you so much!",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Transitional Shelter",
+        "name": "Esther Tan",
+        "email": "esther_tan@awwa.org.sg",
+        "phone": [
+          "65117278",
+          "65117272"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Jul 2021"
+    },
+    {
       "id": "96348",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -2248,6 +2300,16 @@
   ],
   "offers": [
     {
+      "id": "96351",
+      "name": "Pre-loved office/casual dresses",
+      "description": "I have 6 items to be given away free. These are as good as new casual/office dresses.All are pretty and of good comfortable material. Pls arrange for collection.",
+      "location": null,
+      "validTill": "26 Aug 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "96343",
       "name": "9-6",
       "description": "Hipseat. Almost new as seldom use.",
@@ -2342,16 +2404,6 @@
       "name": "Dining Chair",
       "description": "Solid wooden chair with cushion. 4 available",
       "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "09 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96328",
-      "name": "LCD Television with TV box (NOT Smart TV)",
-      "description": "32\" Sharp Aquos TV. This is not a smart TV. As such, we will include the TV box that is required to make the TV work.",
-      "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "09 Aug 2021",
       "ageInYears": 4,
       "dimensions": null,
