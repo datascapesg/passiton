@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "96368",
+      "category": "Electrical Home Appliances",
+      "name": "Television",
+      "description": "Client is a 50+ year old male senior who has major depression and is faced with financial challenges as he is unfit for work. He hopes to purchase a television but have financial difficulty in affording it. He hopes that with some entertainment at home, he may keep himself occupied on days when his mood is bad and allow him some rest from negative and difficult thoughts.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Bedok",
+        "name": "Alasdair Yee",
+        "email": "alasdair.yee@montfortcare.org.sg",
+        "phone": [
+          "63123988"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Jul 2021"
+    },
+    {
       "id": "96363",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -66,23 +83,6 @@
         "email": "nathaniachua@carecorner.org.sg",
         "phone": [
           "63561622"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Jul 2021"
-    },
-    {
-      "id": "96352",
-      "category": "Electrical Home Appliances",
-      "name": "2 Standing Fan",
-      "description": "Client is a single parent with 4 teenagers. Each family member has medical condition. Client is the sole breadwinner with stagnant income as she is unable to fully commit to a full-time job due to her physical and mental health. Children are still schooling thus, dependent on client",
-      "specifications": null,
-      "contact": {
-        "org": "Viriya Family Service Centre",
-        "name": "Nur Atika Bte Razali",
-        "email": "atika@viriya.org.sg",
-        "phone": [
-          "62858033"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1880,6 +1880,24 @@
       "date": "29 Jun 2021"
     },
     {
+      "id": "96369",
+      "category": "Medical Aids",
+      "name": "Adult diapers (L size, Institutional pack)",
+      "description": "Client is a cancer pt and spouse is full-time carer. No income earner.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Cancer Society",
+        "name": "Vivian Koo",
+        "email": "vivian_koo@singaporecancersociety.org.sg",
+        "phone": [
+          "97277507",
+          "62219578"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "27 Jul 2021"
+    },
+    {
       "id": "96280",
       "category": "Medical Aids",
       "name": "Adult Diapers Size L",
@@ -2424,6 +2442,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "96367",
+      "name": "Bookshelves",
+      "description": "4 pieces available. In good condition.\nCan deliver to receipient",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "09 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "96364",
       "name": "Tena Underpad",
