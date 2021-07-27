@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "96363",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Please contact Social Worker Seelvi at Seelvi.Nadarasan@thkmc.org.sg for to liaise. Single mother with low income is living in a 1-room flat with her young child. She requires a washing machine as her current one is spoilt and she is unable to purchase one on her own.",
+      "specifications": "NA",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Navarraj",
+        "email": "navarraj@thkmc.org.sg",
+        "phone": [
+          "64961278",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Jul 2021"
+    },
+    {
       "id": "96362",
       "category": "Electrical Home Appliances",
       "name": "Oven Toaster",
@@ -2372,6 +2390,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "96364",
+      "name": "Tena Underpad",
+      "description": "Qty 9 new in packaging & loose pieces",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "07 Aug 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "96351",
       "name": "Pre-loved office/casual dresses",
