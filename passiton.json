@@ -1,6 +1,41 @@
 {
   "requests": [
     {
+      "id": "96339",
+      "category": "Electrical Home Appliances",
+      "name": "Ceiling Fan",
+      "description": "Low-income single father with two young children and elderly depressive mother requires a ceiling fan with installation included as their current ceiling fan is shaky.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Phua Shan Yong",
+        "email": "phuashanyong@fycs.org",
+        "phone": [
+          "69783014",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Jul 2021"
+    },
+    {
+      "id": "96338",
+      "category": "Electrical Home Appliances",
+      "name": "Televsion",
+      "description": "An elderly man has intellectual disability and is taken care by caregiver, caregiver finds difficulties to manage him,  with the recent breakdown of the TV caregiver is at the loss on how to keep him engaged, they wish to have a secondhand functional TV to help to better manage him.",
+      "specifications": null,
+      "contact": {
+        "org": "SingHealth (CGH) – Community Care",
+        "name": "Yick Lai Cheng",
+        "email": "yick.lai.cheng@singhealth.com.sg",
+        "phone": [
+          "64268053"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Jul 2021"
+    },
+    {
       "id": "96326",
       "category": "Electrical Home Appliances",
       "name": "2-Burner Gas Stove",
@@ -510,6 +545,24 @@
       "date": "28 Jun 2021"
     },
     {
+      "id": "96337",
+      "category": "Mobility Aids",
+      "name": "Mountain Bicycle",
+      "description": "The client is a person with mental health concerns, he needs to engage on activity to reduce stress and anxiety. This is one of the way he could release trapped condition. Seeking a kind donor to support the client.",
+      "specifications": "26",
+      "contact": {
+        "org": "Lakeside Family Centre - Jurong West",
+        "name": "Christopher Nasser",
+        "email": "christopher-nasser@lakeside.org.sg",
+        "phone": [
+          "65671908ext429",
+          "65671908"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "27 Jul 2021"
+    },
+    {
       "id": "96272",
       "category": "Mobility Aids",
       "name": "4-wheeled Mobility Scooter",
@@ -681,6 +734,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "28 Jun 2021"
+    },
+    {
+      "id": "96341",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder & Diapers",
+      "description": "Client is the sole-breadwinner of his family. Together with his Vietnamese wife and his 2 young children, aged 23 months (coming to 2 years old) and 8 months-old baby, the family lives in a one-room rental flat in Marine Terrace. Client is hoping for some donations of milk supplies and diapers to lighten his financial burden. Due to his unstable income since the start of Covid-19 pandemic, family has been struggling financially. Client hopes to request for: 1) a few tins of Nestle NAN Optipro H.A. Growing Up Milk Stage 3 2) a few tins of Nestle Nan Optipro Infant Milk Formula Stage 2 3) a few packets of Merries XXL Walker Pants 4) a few packets of Pampers L Tape. Do contact/WhatsApp me at 98598768 from Mon-Fri at 9-5pm for further liaison on delivery address etc. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (East)",
+        "name": "Nur Afrina",
+        "email": "fsceast@ppis.sg",
+        "phone": [
+          "69503503"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Jul 2021"
     },
     {
       "id": "96327",
@@ -2109,6 +2179,56 @@
   ],
   "offers": [
     {
+      "id": "96343",
+      "name": "9-6",
+      "description": "Hipseat. Almost new as seldom use.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "26 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96342",
+      "name": "Ikea Clothing racks",
+      "description": "Ikea clothing hanger rack. Still sturdy",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "26 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96340",
+      "name": "Bedframe -Queen size",
+      "description": "Queen-size bedframe",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "26 Aug 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96335",
+      "name": "Study Table",
+      "description": "Brown Study Table\nComes with the chest of drawers at the side attached to the table.\n3 available!\n\nDimensions: 150cm (l) x 90cm (w)\nChair and items on the table not \nincluded\n\nREQUEST FOR COLLECTION/DELIVERY TO BE PAID BY THE VWO",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "09 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96334",
+      "name": "Rectangle Side/Study Table",
+      "description": "Brown Rectangle Side Table\n- can be used as study table for children\n\nDimensions: 105 x 45 x 68cm\n\n(Items underneath the table not included)\n\nREQUEST FOR COLLECTION/DELIVERY TO BE PAID BY THE VWO",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "09 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "96333",
       "name": "TV Console",
       "description": "Dark Brown TV Console\nDimensions: 153 x 60 x 62cm\n\n(Items in the console not included)\n\nREQUEST FOR COLLECTION/DELIVERY TO BE PAID BY THE VWO",
@@ -2165,16 +2285,6 @@
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "09 Aug 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96321",
-      "name": "CURTAINS, FULL SET OF BEDSHEETS, KIDS CLOTHINGS",
-      "description": "HDB WINDOW CURTAINS, KIDS CLOTHING FROM 9-13YO, FULL SET OF BEDSHEETS",
-      "location": "Yishun, Sembawang",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
