@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "96362",
+      "category": "Electrical Home Appliances",
+      "name": "Oven Toaster",
+      "description": "Client is an older adult who has multiple chronic conditions and is in the midst of recovery from cancer. She is unable to work and is looking for a multipurpose rice cooker as she has difficulties cooking",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Lim Daniel",
+        "email": null,
+        "phone": [
+          "68010719",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Jul 2021"
+    },
+    {
+      "id": "96361",
+      "category": "Electrical Home Appliances",
+      "name": "Multipurpose Rice Cooker",
+      "description": "Client is an older adult who has multiple chronic conditions and is in the midst of recovery from cancer. She is unable to work and is looking for a multipurpose rice cooker as she has difficulties cooking",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Lim Daniel",
+        "email": null,
+        "phone": [
+          "68010719",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Jul 2021"
+    },
+    {
       "id": "96353",
       "category": "Electrical Home Appliances",
       "name": "Gas Stove",
@@ -100,23 +136,6 @@
         "email": "yick.lai.cheng@singhealth.com.sg",
         "phone": [
           "64268053"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Jul 2021"
-    },
-    {
-      "id": "96326",
-      "category": "Electrical Home Appliances",
-      "name": "2-Burner Gas Stove",
-      "description": "Client, a low-wage worker, is a sole breadwinner to his family of 4, including two children agreed 7 and 9. Client’s wife, a homemaker, is diagnosed with significant health issues and certified permanently unfit for work. The family’s gas stove is faulty and poses as a fire risk to\nthem. However, they are unable to afford a replacement of a gas stove.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Toa Payoh",
-        "name": "Winsome Foo",
-        "email": "winsomefoo@carecorner.org.sg",
-        "phone": [
-          "63561622"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1491,41 +1510,6 @@
       "date": "27 Jul 2021"
     },
     {
-      "id": "96354",
-      "category": "Others",
-      "name": "50kg Coarse Sugar",
-      "description": "We are requesting for 50kg of Coarse sugar as we cook 3 meals a day for our residents from Monday to Saturday. The Helping Hand is a Voluntary Welfare Organization affiliated with the National Council of Social Service. We run a home providing drug rehabilitation and after-care services to male drug addicts and ex-offenders in Singapore. This is a residential programme carried out in our agency home, which was graciously provided by the Singapore government in recognition of our services to the community. We have a total of about 100 residents and staff staying in at our premises.",
-      "specifications": null,
-      "contact": {
-        "org": "The Helping Hand",
-        "name": "Chan Toh Han",
-        "email": "chantohhan@thehelpinghand.org.sg",
-        "phone": [
-          "62832204ext120",
-          "62832204"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "27 Jul 2021"
-    },
-    {
-      "id": "96325",
-      "category": "Others",
-      "name": "Grocery Trolley",
-      "description": "Client is a single mother caring for two children aged 7 and 8, of which one has special needs. Client’s husband was the sole breadwinner of the family but was recently incarcerated. Hence, client relies on SSO financial assistance to make ends meet. Client expressed difficulty in carrying heavy items including food rations and groceries due to her limited physical\nstrength but is unable to afford a trolley to ease transportation.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Toa Payoh",
-        "name": "Winsome Foo",
-        "email": "winsomefoo@carecorner.org.sg",
-        "phone": [
-          "63561622"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Jul 2021"
-    },
-    {
       "id": "96275",
       "category": "Others",
       "name": "Bicycle",
@@ -2663,16 +2647,6 @@
       "name": "White Dining Set",
       "description": "We have re furnished a white dining set",
       "location": "Geylang, Eunos",
-      "validTill": "24 Aug 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96249",
-      "name": "Blue Sofa Bed",
-      "description": "Some minor stains from markers",
-      "location": "Seletar",
       "validTill": "24 Aug 2021",
       "ageInYears": 3,
       "dimensions": null,
