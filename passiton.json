@@ -36,24 +36,6 @@
       "date": "27 Jul 2021"
     },
     {
-      "id": "96362",
-      "category": "Electrical Home Appliances",
-      "name": "Oven Toaster",
-      "description": "Client is an older adult who has multiple chronic conditions and is in the midst of recovery from cancer. She is unable to work and is looking for a multipurpose rice cooker as she has difficulties cooking",
-      "specifications": null,
-      "contact": {
-        "org": "REACH Family Service Centre",
-        "name": "Lim Daniel",
-        "email": null,
-        "phone": [
-          "68010719",
-          "62522566"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Jul 2021"
-    },
-    {
       "id": "96353",
       "category": "Electrical Home Appliances",
       "name": "Gas Stove",
@@ -2406,6 +2388,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "96377",
+      "name": "Wooden Sofa",
+      "description": "1x 3 Seater \n1x 1 Seater",
+      "location": null,
+      "validTill": "31 Jul 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96376",
+      "name": "children cupboard",
+      "description": "Still in-use, but need to buy a bigger one",
+      "location": null,
+      "validTill": "17 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96375",
+      "name": "queen size bed",
+      "description": "Queen Size bed ( standard size ) with mattress. Still in-use, but need to renovate room for children",
+      "location": null,
+      "validTill": "17 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "96374",
       "name": "Cradle",
