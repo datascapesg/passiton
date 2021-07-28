@@ -2019,23 +2019,6 @@
       "date": "27 Jul 2021"
     },
     {
-      "id": "96347",
-      "category": "Home Furnishing",
-      "name": "Wardrobe",
-      "description": "Client is a single parent. She is currently doing part-time and also  surviving on the financial assistance from the Social Service Office (SSO)@Sembawang. She is hoping to receive a donated wardrobe as she do not have the resources or financial ability to purchase and get the item replaced.",
-      "specifications": null,
-      "contact": {
-        "org": "Sembawang Family Service Centre",
-        "name": "Po Woei Yee",
-        "email": "powoeiyee@sfsc.org.sg",
-        "phone": [
-          "67547050"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "27 Jul 2021"
-    },
-    {
       "id": "96344",
       "category": "Home Furnishing",
       "name": "Coffee Table",
@@ -2333,6 +2316,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "96383",
+      "name": "Games",
+      "description": "Thanks Please WhatsApp if keen. Thabks",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "01 Aug 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "96380",
       "name": "Study desk",
@@ -2930,6 +2923,16 @@
       "location": "Katong, Joo Chiat, Amber Road",
       "validTill": "15 Aug 2021",
       "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96113",
+      "name": "Single size wooden bedframe with mattress",
+      "description": "Single size wooden bedframe with mattress.",
+      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+      "validTill": "12 Aug 2021",
+      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
