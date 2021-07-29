@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "96479",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "A family with a teenage child needs a washing machine as their existing one has broken down. It is challenging for the family to save up for a new washing machine. The family would like support from the donor to cover transport. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "Whampoa Family Service Centre",
+        "name": "Tan Jia Wei",
+        "email": "tanjiawei@kkcs.org.sg",
+        "phone": [
+          "63260305",
+          "63260300"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Jul 2021"
+    },
+    {
       "id": "96474",
       "category": "Electrical Home Appliances",
       "name": "Mircowave",
@@ -2315,6 +2333,26 @@
   ],
   "offers": [
     {
+      "id": "96481",
+      "name": "Brown leather sofa and armchair",
+      "description": "Genuine leather sofa and arm chair (3 seater sofa) with some wear marks from a dog on 2 legs. Furniture is 8-9 years old but still in relatively good condition",
+      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
+      "validTill": "06 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96480",
+      "name": "Child study desk",
+      "description": "A set of child study desk.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "20 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "96471",
       "name": "Coffee table",
       "description": "Coffee table",
@@ -2521,16 +2559,6 @@
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "03 Aug 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96397",
-      "name": "Ikea 2-Seater Sofa",
-      "description": "The cover is dirty which it is washable. Structure wise is in ok condition",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "03 Aug 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2911,6 +2939,16 @@
       "location": "Geylang, Eunos",
       "validTill": "23 Aug 2021",
       "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96478",
+      "name": "IKEA KLIPPAN seat sofa, Vissle grey",
+      "description": "Grey sofa",
+      "location": "Jurong",
+      "validTill": "23 Aug 2021",
+      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
