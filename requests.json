@@ -1,5 +1,22 @@
 [
   {
+    "id": "96474",
+    "category": "Electrical Home Appliances",
+    "name": "Mircowave",
+    "description": "Client is a middle aged lady who does not have enough money to buy a microwave at home for her food as she is not working currently due to chronic health issues. She is currently on financial assistance, but it is only enough to cover her basic needs and not replace her microwave. It would be very helpful if a donor could donate a new or preloved microwave in good working condition so that she can cook her food to meet her own basic needs. Thank you for helping client!",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Punggol",
+      "name": "Anabelle Lim",
+      "email": "anabellelim@amkfsc.org.sg",
+      "phone": [
+        "64355323"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Jul 2021"
+  },
+  {
     "id": "96464",
     "category": "Electrical Home Appliances",
     "name": "Television",
@@ -14,24 +31,6 @@
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "29 Jul 2021"
-  },
-  {
-    "id": "96457",
-    "category": "Electrical Home Appliances",
-    "name": "Floor Standing Fan",
-    "description": "Client is an 83 male currently going through treatment for prostate cancer. His fan is broken recently and could not afford a new one. He is using an old small fan without a case cover which is quite dangerous. Appreciate any donor to consider helping him.",
-    "specifications": "small to medium",
-    "contact": {
-      "org": "NTUC Health Cluster Support @ Bukit Merah",
-      "name": "Jordan Kek",
-      "email": "jordan.k@ntuchealth.sg",
-      "phone": [
-        "97978057",
-        "62741602"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
     "date": "29 Jul 2021"
   },
   {
@@ -102,24 +101,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "28 Jul 2021"
-  },
-  {
-    "id": "96363",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "Please contact Social Worker Seelvi at Seelvi.Nadarasan@thkmc.org.sg for to liaise. Single mother with low income is living in a 1-room flat with her young child. She requires a washing machine as her current one is spoilt and she is unable to purchase one on her own.",
-    "specifications": "NA",
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Navarraj",
-      "email": "navarraj@thkmc.org.sg",
-      "phone": [
-        "64961278",
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "27 Jul 2021"
   },
   {
     "id": "96353",
@@ -733,6 +714,77 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "28 Jun 2021"
+  },
+  {
+    "id": "96477",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Low income of 3 young children require XL diapers. Appreciate donation of at least 4 packs. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Josherine Toh",
+      "email": "josherinetoh@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "29 Jul 2021"
+  },
+  {
+    "id": "96476",
+    "category": "Infant and Children Items",
+    "name": "Nestle Nan Optipro Toddler Milk Formula - Stage 3",
+    "description": "Child, who has suspected ASD, lives with his parents and paternal grandparents. Parents income were greatly affected due to COVID-19, but does not qualify for COVID grants. Mother is pregnant and has increased expenditure due to medical appointments. Paternal grandfather has cancer and is fully dependent for his daily living skills. Family will benefit from your kind assistance. \n\nhttps://www.fairprice.com.sg/product/nan--------optipro-3------------850g-13193245 (x2 tins)",
+    "specifications": null,
+    "contact": {
+      "org": "Rainbow Centre - Magaret Drive School",
+      "name": "Charis Teo",
+      "email": "charisteo@rainbowcentre.org.sg",
+      "phone": [
+        "68179430",
+        "64752072"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "29 Jul 2021"
+  },
+  {
+    "id": "96475",
+    "category": "Infant and Children Items",
+    "name": "Mamypoko Extra Soft Pants (XXXL)14s Boy",
+    "description": "Child, who has suspected ASD, lives with his parents and paternal grandparents. Parents income were greatly affected due to COVID-19, but does not qualify for COVID grants. Mother is pregnant and has increased expenditure due to medical appointments. Paternal grandfather has cancer and is fully dependent for his daily living skills. Family will benefit from your kind assistance.\n\nhttps://s.lazada.sg/s.Z8E8g (x2 packet)",
+    "specifications": null,
+    "contact": {
+      "org": "Rainbow Centre - Magaret Drive School",
+      "name": "Charis Teo",
+      "email": "charisteo@rainbowcentre.org.sg",
+      "phone": [
+        "68179430",
+        "64752072"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "29 Jul 2021"
+  },
+  {
+    "id": "96472",
+    "category": "Infant and Children Items",
+    "name": "Dumex Mamil Gold Step 4",
+    "description": "Please contact Social Worker Jimmy at jimmygoh@thkmc.org.sg or 8718 8444 to liaise. Financially stressed single-mother seeking support for Dumex Mamil Gold Step 4 for her toddler. Family lives in public rental housing with another 3 children in secondary school and 1 in primary school.",
+    "specifications": "NA",
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Navarraj",
+      "email": "navarraj@thkmc.org.sg",
+      "phone": [
+        "64961278",
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Jul 2021"
   },
   {
     "id": "96466",
@@ -1802,24 +1854,6 @@
     "date": "21 Jul 2021"
   },
   {
-    "id": "95983",
-    "category": "Others",
-    "name": "2 sets of 3 door wardrobe",
-    "description": "This is a family of 8 children with client's husband as the only income earner. Client has not been able to work because of the ongoing pains from her recent neck surgery. Client is looking for 2 sets of 3-doors secondhand wardrobe and a set of 3-seater dark-color sofa to replace the old and broken sets",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Champions Way",
-      "name": "Joycelyn Wong",
-      "email": "joycelynwong@fycs.org",
-      "phone": [
-        "66901010",
-        "66901000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "19 Jul 2021"
-  },
-  {
     "id": "95977",
     "category": "Others",
     "name": "Washing machine (6.5kg top load)",
@@ -2014,41 +2048,6 @@
     "date": "29 Jul 2021"
   },
   {
-    "id": "96408",
-    "category": "Home Furnishing",
-    "name": "Wardrobe and Shoe Rack",
-    "description": "Family has three children aged 2 years, 1 year and 5 months old. As family recently moved from HDB rental flat to purchased flat, they have additional expenses.  Also, husband has lost job and only managed to find new job this week. Hence, family has very tight finances to meet basic needs. They will benefit from wardrobe for their kids and shoe rack.",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner Family Service Centre - Queenstown",
-      "name": "Esther Benert",
-      "email": "estherbenert@carecorner.org.sg",
-      "phone": [
-        "69784218",
-        "64761481"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "28 Jul 2021"
-  },
-  {
-    "id": "96042",
-    "category": "Home Furnishing",
-    "name": "4 door wardrobe",
-    "description": "Client is a single mother to 2 youth children, one of whom has special needs and requires constant supervision. She is also the full-time caregiver for her elderly mother who is bed-ridden, and requires oxygen machine to breathe. Due to her caregiving responsibilities, client had not been able to work. The family is moving to a new house which is better equipped for the care of client's mother. However, they do not have the money to get several household items for the new house, as they will have to prioritize the family's daily needs. (Kamie)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Teddy Fu",
-      "email": "teddyfu@thkmc.org.sg",
-      "phone": [
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Jul 2021"
-  },
-  {
     "id": "95928",
     "category": "Home Furnishing",
     "name": "make up table",
@@ -2083,41 +2082,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "17 Jul 2021"
-  },
-  {
-    "id": "95464",
-    "category": "Home Furnishing",
-    "name": "3 door wardrobe",
-    "description": "Client will be shifting into an interim flat with her husband after staying many years apart due to their lack of stable housing and complex needs. The couple is looking for a 3-door wardrobe and a kitchen cabinet for their new home.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Champions Way",
-      "name": "Syarifah Amirah Binte Jumat",
-      "email": "syarifahamirah1@fycs.org",
-      "phone": [
-        "91266100",
-        "66901000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "07 Jul 2021"
-  },
-  {
-    "id": "95441",
-    "category": "Home Furnishing",
-    "name": "Wardrobe",
-    "description": "Family has recently had home works done for a bedbug infestation. Got rid of previous wardrobe and is in need of a new one.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ MacPherson",
-      "name": "Connie Ng",
-      "email": "connieng@thkmc.org.sg",
-      "phone": [
-        "67414255"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Jul 2021"
   },
   {
     "id": "95235",
