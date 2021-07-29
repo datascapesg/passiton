@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "96483",
+      "category": "Electrical Home Appliances",
+      "name": "Television",
+      "description": "Client is a 50 year old male living in a 2 room rental flat. He has major depression and is faced with financial challenges as he is medically unfit for work. He hopes to purchase a television but have financial difficulty in affording it. \n\nHe hopes that with some entertainment at home, he may keep himself engaged on days when negative emotions become overwhelming, thus allowing some rest from negative and difficult thoughts.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Bedok",
+        "name": "Alasdair Yee",
+        "email": "alasdair.yee@montfortcare.org.sg",
+        "phone": [
+          "63123988"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Jul 2021"
+    },
+    {
       "id": "96479",
       "category": "Electrical Home Appliances",
       "name": "Washing machine",
@@ -2332,6 +2349,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "96482",
+      "name": "Bathtub with stand",
+      "description": "Used bathtub with stand. \nBathtub is in good condition - last used without stand between 2020-2021. \nStand’s connecting joints a little rusty but item is very usable.",
+      "location": null,
+      "validTill": "28 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "96481",
       "name": "Brown leather sofa and armchair",
