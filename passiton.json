@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "96445",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Family of 6 (with 4 young children) is unable to replace washing machine that has broken down unexpectedly. Parents' employment have been impacted by the heightened alert measures. Parents are now hand-washing clothes while caring for 4 young children (2 are under 2 years old). Having a working washing machine will allow parents to better attend to their children's needs.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
+        "name": "Pek Yan Zhan",
+        "email": "pekyanzhan@amkfsc.org.sg",
+        "phone": [
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Jul 2021"
+    },
+    {
       "id": "96441",
       "category": "Electrical Home Appliances",
       "name": "2x standing fan (new)",
@@ -2213,6 +2230,23 @@
       "date": "28 Jun 2021"
     },
     {
+      "id": "96444",
+      "category": "Learning Aids",
+      "name": "Printer",
+      "description": "Printer needed \n\nFamily has 6 school-going children who requires a working printer to help with their school work and print necessary documents. Their current printer is faulty. Family has only one sole breadwinner, 4 of the children have special needs.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Grace Lim",
+        "email": "gracelim@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Jul 2021"
+    },
+    {
       "id": "96140",
       "category": "Learning Aids",
       "name": "Printer",
@@ -2344,16 +2378,6 @@
       "description": "3 seater, 2 seater and a 1 seater sofa set. With a coffee table too.",
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "14 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96429",
-      "name": "Zanussi 1800w",
-      "description": "Works well",
-      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-      "validTill": "10 Aug 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -2615,16 +2639,6 @@
       "location": "Katong, Joo Chiat, Amber Road",
       "validTill": "26 Aug 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96413",
-      "name": "Study Table",
-      "description": "In good condition without any wood chippings",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "26 Aug 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
