@@ -36,24 +36,6 @@
       "date": "29 Jul 2021"
     },
     {
-      "id": "96438",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Client is staying in a rental flat and facing financial difficulties. Client does not have familial support and is seeking a washing machine as a chronic hand injury has made it difficult for her to wash her laundry by hand.",
-      "specifications": null,
-      "contact": {
-        "org": "REACH Family Service Centre",
-        "name": "Lim Daniel",
-        "email": null,
-        "phone": [
-          "68010719",
-          "62522566"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Jul 2021"
-    },
-    {
       "id": "96404",
       "category": "Electrical Home Appliances",
       "name": "40L Oven",
@@ -719,6 +701,23 @@
       "date": "28 Jun 2021"
     },
     {
+      "id": "96453",
+      "category": "Infant and Children Items",
+      "name": "Baby Gate",
+      "description": "Family requires a baby gate to prevent their 1 year old from entering the kitchen. This will help ensure the child's safety. Please considering supporting the family in this, thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Rachel Ong",
+        "email": "rachelong@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Jul 2021"
+    },
+    {
       "id": "96448",
       "category": "Infant and Children Items",
       "name": "Mamypoko Extra Dry Pants - Female",
@@ -768,24 +767,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "29 Jul 2021"
-    },
-    {
-      "id": "96410",
-      "category": "Infant and Children Items",
-      "name": "Milk & Diapers",
-      "description": "Ct is a working mother as well as main caregiver to 4 children. Despite being a dual income family, they are facing finanical difficulties due to children expenses  C2 is dx with global developmental delay and has several medical condition, including bladder condition which requires for C2 to wear two types of adult diapers as well as change up to 8 times/day. As such, assistance in terms of diapers and milk powder will ease family's financial strain and allow them to progress to a better financial standing.\n\n-Adult Tape Diapers (M Size) \n-Adult Pull up Diapers (M Size)\n-Children Diapers (L Size)\n-Milk powder (Stage 3)",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bukit Panjang",
-        "name": "Nur Ashikin Binte Hazlan",
-        "email": "NurAshikin@thkmc.org.sg",
-        "phone": [
-          "90021391",
-          "67671740"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Jul 2021"
     },
     {
       "id": "96406",
@@ -1434,6 +1415,41 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "28 Jun 2021"
+    },
+    {
+      "id": "96451",
+      "category": "Others",
+      "name": "Nature One Premium Milk Powder (1-3 Years Old) x 3 small tins",
+      "description": "A young couple with children requires assistance to adjust after both their release from incarceration. They are in the midst of stabilizing in gainful employment. They need financial support for milk and diaper of their child.\nDonation will help them in reducing their financial load.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Joycelyn Wong",
+        "email": "joycelynwong@fycs.org",
+        "phone": [
+          "66901010",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Jul 2021"
+    },
+    {
+      "id": "96450",
+      "category": "Others",
+      "name": "Fresh Food Ration",
+      "description": "Family of 5 looking for fresh wet rations. Client has depression, and is on MC. Her husband recently underwent a surgery to remove his abscess and is unable to work until mid-August. They are in the process of seeking SSO assistance, and would benefit from wet rations to tide them over. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Rachel Koh",
+        "email": "rachelkoh@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Jul 2021"
     },
     {
       "id": "96431",
@@ -3666,6 +3682,16 @@
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "31 Jul 2021",
       "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96452",
+      "name": "Chest of Drawer",
+      "description": "Appointment",
+      "location": "Macpherson, Braddell",
+      "validTill": "31 Jul 2021",
+      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
