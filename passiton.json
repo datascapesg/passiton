@@ -2019,6 +2019,16 @@
   ],
   "offers": [
     {
+      "id": "96530",
+      "name": "Hospital Bed",
+      "description": "Hospital Bed with Mattress",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "06 Aug 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "96529",
       "name": "King size bed and mattress",
       "description": "White metal king size bed frame from UK. In good condition apart from a minor damage to one slat but it doesn’t affect use. \nMattress is the IKEA Hesseng king size firm mattress in very good condition.",
@@ -2209,6 +2219,16 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
+      "id": "96469",
+      "name": "Dining Table (6 seater)",
+      "description": "White table with 6 accompanying dining chairs",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "20 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "96455",
       "name": "Air Cast Ankle Boot",
       "description": "Air Cast boot used for a month after Ligament surgery.",
@@ -2379,16 +2399,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "96390",
-      "name": "Clothing for male and female",
-      "description": "Big bag of clothing; tshirts (men&ladies), blouse, shorts, jeans, cardigan, pajama, work dress.\n\nSize men: XS/S\nSize ladies: S/M",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "96383",
       "name": "Games",
       "description": "Thanks Please WhatsApp if keen. Thabks",
@@ -2405,16 +2415,6 @@
       "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
       "validTill": "27 Aug 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96377",
-      "name": "Wooden Sofa",
-      "description": "1x 3 Seater \n1x 1 Seater",
-      "location": null,
-      "validTill": "31 Jul 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2585,36 +2585,6 @@
       "location": null,
       "validTill": "25 Aug 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96266",
-      "name": "Queen bed",
-      "description": "Queen bed with four storage drawers and headboard with side shelves. Headboards add 28 cm additional length. IKEA Brimnes line.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96264",
-      "name": "Bunk beds w/rollaway bed",
-      "description": "Metal frame bunk beds with rollaway bed, all with mattresses. IKEA Tromso beds. Disassembled for transport, instructions and parts included.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96262",
-      "name": "Baby cot",
-      "description": "Wooden baby cot with mattress. IKEA Sniglar. Cot is disassembled and ready for transport.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2799,16 +2769,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "96176",
-      "name": "Kettle",
-      "description": "Good working condition electric kettle to giveaway.",
-      "location": "Yishun, Sembawang",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "96164",
       "name": "Lucky baby milk bottle warmer",
       "description": "Brand new in box",
@@ -2969,16 +2929,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "96021",
-      "name": "Assortment of toys",
-      "description": "An assortment of toys from 2 to 7 years. Includes kitchen play toys, doctor set, mini jigsaw, toy microscope, memory game, and a coding robot. \n\nThere are some other misc dino figurines and toy cars in the box too",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95982",
       "name": "Poppy Seat - rigid seat and table cover for weaning",
       "description": "- Food is most likely to stay in place: the mat is wide enough for infants not to reach the edges and flip it over themselves, it has risen edges for liquids not to pour into our laps and suction cups that keep it stuck to the table top\n\n- Easy to use, store and bring along: can fit almost any chair, whether with a backrest or not, with harness or not, at the table or using the chair feeding tray; it folds and unfolds fast, cleans up well after messy eating, and you can store utensils and other items in the pockets\n\n- Looks good and saves you from embarrassing messes when eating outside home",
@@ -3039,16 +2989,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95948",
-      "name": "Dining table extendable",
-      "description": "Wooden dining table. Extendable.",
-      "location": null,
-      "validTill": "31 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95946",
       "name": "Children Single Size Wooden Bedframes",
       "description": "Wooden bed frames x 2\nPegasus mattress x 1",
@@ -3064,16 +3004,6 @@
       "description": "Animal soft toys, all new",
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "16 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95941",
-      "name": "Work Table",
-      "description": "condition is 7/10",
-      "location": "Yishun, Sembawang",
-      "validTill": "31 Jul 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -3189,16 +3119,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95717",
-      "name": "Drawer",
-      "description": "Home furnishings",
-      "location": "Katong, Joo Chiat, Amber Road",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95684",
       "name": "Queen Size mattress",
       "description": "We bought this when we rent a room back in 2018 and moved it with us when we bought a house in 2019. \n\nThis mattress have been used for about 3 years. \n\nWe used this mattress in our guest room as we changed to a king size bed when we move to our new house.",
@@ -3299,36 +3219,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95537",
-      "name": "Ikea loft bed",
-      "description": "Just the frame, very new. No underneath desk. Need help to dissemble.",
-      "location": null,
-      "validTill": "31 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95531",
-      "name": "Cuddly teddy bear soft toy",
-      "description": "brand new soft and cuddly teddy bear which would bring great joy to any child.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96452",
-      "name": "Chest of Drawer",
-      "description": "Appointment",
-      "location": "Macpherson, Braddell",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95511",
       "name": "Small-sized Jeans",
       "description": "Uniqlo jean x1 (22inch waist) \nUniqlo jean x1 (23inch waist) \nPadini jean x1 (Size S)",
@@ -3379,16 +3269,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95437",
-      "name": "Reinforced umbrella",
-      "description": "Unused in perfect condition. Ideal for someone who prefers a walking stick that doubles up as an umbrella. Very sturdy.",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95996",
       "name": "6 seater dining table- Oval",
       "description": "Black oval 6 seater dining table. Good quality and well maintain.",
@@ -3405,26 +3285,6 @@
       "location": "Bishan, Ang Mo Kio",
       "validTill": "05 Aug 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95419",
-      "name": "Bouncing play table",
-      "description": "Bouncing play table for baby age 6mths above.\nPlease self collect.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96098",
-      "name": "Queen size latex mattress with bed frame ans two pillows",
-      "description": "Mattress Brand: Hilker\nMattress: Full Latex\nUsed by one person\n2 new pillows to give away\n\nPlease contact to arrange for collection and to let me know the collection fees i will need to pay.\n\nThank you.",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3549,16 +3409,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "95319",
-      "name": "Tempered Glass Table",
-      "description": "Mondi Tempered Glass Dining Table in very good condition. Can be easily dismantled for removal. 1.6m x 0.9m.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "95282",
       "name": "Trampoline",
       "description": "used less than 3 months.good quality trampoline.",
@@ -3604,26 +3454,6 @@
       "description": "we have exceed 6 working/ study table. it is suitable to use for home/office.",
       "location": "Macpherson, Braddell",
       "validTill": "01 Aug 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95246",
-      "name": "Ceiling LED lights",
-      "description": "LED CEILING LIGHTS. Can pay for installation if needed. Good condition.",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "31 Jul 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95214",
-      "name": "big multipurpose table with 2 layers,",
-      "description": "almost new multipurpose table with glaas and laminate layers - still good for 5-8 years",
-      "location": "Loyang, Changi",
-      "validTill": "31 Jul 2021",
       "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
