@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "96504",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Client's family is heavily affected financially by the Covid-19 situation. Their fridge had recently malfunctioned and will be removed on 7 Aug 2021. Hence, they will need a new halal fridge by then as they are Muslims. Client hopes for fridge to be in well condition so that they can keep it for the long run and save on future expenses.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Shena Tan",
+        "email": "shenatan@fycs.org",
+        "phone": [
+          "69782982",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "30 Jul 2021"
+    },
+    {
       "id": "96491",
       "category": "Electrical Home Appliances",
       "name": "Portable aircon",
@@ -224,23 +242,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "26 Jul 2021"
-    },
-    {
-      "id": "96286",
-      "category": "Electrical Home Appliances",
-      "name": "Oven",
-      "description": "Client is certificated medically unfit for work whereas his wife is currently unemployed. They are surviving on the financial assistance from the Social Service Office (SSO)@Sembawang. They are in need of an oven, wardrobe, standing fan and an android handphone as they do not have the resources or financial ability to purchase and get the items replaced.",
-      "specifications": null,
-      "contact": {
-        "org": "Sembawang Family Service Centre",
-        "name": "Po Woei Yee",
-        "email": "powoeiyee@sfsc.org.sg",
-        "phone": [
-          "67547050"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "26 Jul 2021"
     },
     {
@@ -523,6 +524,24 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "29 Jun 2021"
+    },
+    {
+      "id": "96502",
+      "category": "Mobility Aids",
+      "name": "wheelchair",
+      "description": "Client is incarcerated. Son is in a community rehab centre and his Ex-wife is living with 14yo daughter. The ex-wife has a stroke and is a single-leg amputee and the 14yo daughter is the primary caregiver. They are looking for a wheelchair to aid with mobility and caregiving. It would be helpful for them to receive one!",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services @ Taman Jurong SSO",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@fycs.org",
+        "phone": [
+          "62672945",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Jul 2021"
     },
     {
       "id": "96349",
@@ -1212,6 +1231,41 @@
       "date": "29 Jun 2021"
     },
     {
+      "id": "96509",
+      "category": "Others",
+      "name": "Smart Handphone",
+      "description": "Homeless 68 year old senior, daily waged worker, living at our shelter, recently damaged his phone. He needs his phone to remain contactable for work.  Appreciate a 2ndhand phone that he can use for whatsapp and singpass. Email or whatsapp 8795 2925 (Ann Tat, Social Worker)",
+      "specifications": null,
+      "contact": {
+        "org": "New Hope Community Services",
+        "name": "Goh Ann Tat",
+        "email": "anntat@newhopecs.org.sg",
+        "phone": [
+          "87952925",
+          "63059620"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Jul 2021"
+    },
+    {
+      "id": "96505",
+      "category": "Others",
+      "name": "Sticky Notes / Post its / Adult Colouring Book",
+      "description": "Sticky notes / post its / adult colouring book needed for 14 year old girl to write down her thoughts and colour due to her depression. Any kind donors please contact me at whatsapp 8109-6845. Thanks!",
+      "specifications": null,
+      "contact": {
+        "org": "Hougang Sheng Hong Family Service Centre",
+        "name": "Angie Tan",
+        "email": "angenette@shenghong.org.sg",
+        "phone": [
+          "62895022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Jul 2021"
+    },
+    {
       "id": "96493",
       "category": "Others",
       "name": "Laptop",
@@ -1616,6 +1670,42 @@
       "date": "29 Jun 2021"
     },
     {
+      "id": "96508",
+      "category": "Home Furnishing",
+      "name": "Shelf with lock",
+      "description": "Client is from a low-income family and lives with her husband and 4 daughters. The family has some financial difficulties and caregiving stress. One of their daughters really loves arts, can be very messy and unkept. Hence the family is looking for a shelf/ table with a lock to be able to keep the things properly. However, due to financial constraints, the family is unable to afford it. Hence it would be helpful for the family to receive it. Thank you",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services @ Taman Jurong SSO",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@fycs.org",
+        "phone": [
+          "62672945",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Jul 2021"
+    },
+    {
+      "id": "96503",
+      "category": "Home Furnishing",
+      "name": "Sliding wardrobe",
+      "description": "Client is incarcerated. Son is in a community rehab centre and his Ex-wife is living with 14yo daughter. The ex-wife has a stroke and is a single-leg amputee and the 14yo daughter is the primary caregiver. They are looking for a sliding wardrobe which is more suitable for the ex-wife. However, they cannot afford it. Hence it would be helpful for them to receive one! Thank you :)",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services @ Taman Jurong SSO",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@fycs.org",
+        "phone": [
+          "62672945",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Jul 2021"
+    },
+    {
       "id": "96498",
       "category": "Home Furnishing",
       "name": "Wardrobe and Shoe Rack",
@@ -1830,6 +1920,41 @@
       "date": "01 Jul 2021"
     },
     {
+      "id": "96507",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Family with 2 schooling children need a working laptop for their school work and home base learning.",
+      "specifications": null,
+      "contact": {
+        "org": "Woodlands Social Centre",
+        "name": "Josephine Tan",
+        "email": "josephine@wsc.org.sg",
+        "phone": [
+          "63655234"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "30 Jul 2021"
+    },
+    {
+      "id": "96506",
+      "category": "Learning Aids",
+      "name": "Art supplies",
+      "description": "Client is from a low-income family and lives with her husband and 4 daughters. The family has some financial difficulties and caregiving stress. One of their daughters really loves arts, however, due to financial constraints, the family is unable to provide the materials. Hence it would be helpful for the family to receive some art supplies for their daughter. Thank you",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services @ Taman Jurong SSO",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@fycs.org",
+        "phone": [
+          "62672945",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Jul 2021"
+    },
+    {
       "id": "96494",
       "category": "Learning Aids",
       "name": "Desktop or Laptop for HBL",
@@ -1987,6 +2112,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "96501",
+      "name": "Compressor Nebulizer",
+      "description": "Apex Mini Plus Compressor Nebulizer\n\nUsed a few times for my kid when she was asthmatic. \n\nThe kit comes with u new respirator tube/mask for children (still in packet), instruction manual and portable bag.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "29 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "96500",
       "name": "Study Desk",
