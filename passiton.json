@@ -456,24 +456,6 @@
       "date": "02 Jul 2021"
     },
     {
-      "id": "96349",
-      "category": "Mobility Aids",
-      "name": "Bed Rail",
-      "description": "Client is almost fully bed-bound but risks falling off the bed when he moves while asleep or tries to sit up to eat. Wife constantly wakes up at night whenever client moves, to ensure that he does not fall off.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Community Services - Mental Health",
-        "name": "Clarissa Liew",
-        "email": "clarissaliew@fycs.org",
-        "phone": [
-          "62024681",
-          "64712022"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Jul 2021"
-    },
-    {
       "id": "96337",
       "category": "Mobility Aids",
       "name": "Mountain Bicycle",
@@ -1088,24 +1070,6 @@
       "date": "01 Jul 2021"
     },
     {
-      "id": "95158",
-      "category": "Home Furnishing",
-      "name": "KITCHEN CABINET",
-      "description": "We are appealing for a KITCHEN CANINET for a single mother who is unemployed due to care giving issues and on financial assistance  she needs this item so she put a induction on top of it to cook for her child WE SEEK FURTHER ASSISTANCE FROM THE DONOR ASSIST IN THE TRANSPORTATION OR COVER THE TRANSPORTATION COST",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
-        "name": "Maggie Gan",
-        "email": "maggiegan@amkfsc.org.sg",
-        "phone": [
-          "65536643",
-          "64535349"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 Jun 2021"
-    },
-    {
       "id": "96538",
       "category": "Infant and Children Items",
       "name": "Dumex Dugro Stage 5",
@@ -1489,23 +1453,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "16 Jul 2021"
-    },
-    {
-      "id": "95765",
-      "category": "Infant and Children Items",
-      "name": "Milk powder",
-      "description": "Client is a single unwed mother who is presently 7mo+ pregnant. Client will require support in obtaining milk powder. Either Enfamil PRO A+ Stage 1 or Similac Infant Formula Stage 1 will do.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Koh Fang Qi",
-        "email": "kohfangqi@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Jul 2021"
     },
     {
       "id": "95762",
@@ -1896,6 +1843,16 @@
   ],
   "offers": [
     {
+      "id": "96558",
+      "name": "Super Single pull out bed",
+      "description": "Super single pull out bed with mattress",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "30 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "96556",
       "name": "Chair",
       "description": "IKEA chair",
@@ -2181,16 +2138,6 @@
       "description": "Full desk set with two sets of drawers. with minor wear and tear.",
       "location": "Yishun, Sembawang",
       "validTill": "19 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96497",
-      "name": "Color Laser Printer",
-      "description": "Color Laser Printer.  Used infrequently.  Very good condition.",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "29 Aug 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -3132,6 +3079,16 @@
       "location": "Jurong",
       "validTill": "13 Aug 2021",
       "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96557",
+      "name": "Office / Study Chair",
+      "description": "Black office chair",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "12 Aug 2021",
+      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
