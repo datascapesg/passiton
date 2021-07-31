@@ -648,24 +648,6 @@
       "date": "30 Jul 2021"
     },
     {
-      "id": "96493",
-      "category": "Others",
-      "name": "Laptop",
-      "description": "Low-income family of 3 with young child diagnosed with special needs living in government rental housing is requesting for a laptop so that child will be able to access home-based learning and mother can also use it for work purposes as the old donated laptop has spoilt.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue - Early Intervention Centre For Children",
-        "name": "Tessa Nai",
-        "email": "tessanai@fycs.org",
-        "phone": [
-          "66810508",
-          "65656260"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 Jul 2021"
-    },
-    {
       "id": "96463",
       "category": "Others",
       "name": "2nd Hand Laptop",
@@ -1913,6 +1895,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "96550",
+      "name": "Bed frame and Matress",
+      "description": "Wooden bed frame \nThick matress\n\nSingle bed",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "30 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "96549",
       "name": "Bookshelf with glass doors and drawers",
