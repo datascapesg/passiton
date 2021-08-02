@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "96638",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Family requires a washing machine. Client is the sole breadwinner for the family as her husband is unable to work due to health reasons. She is also mother to her three children of which one is of special needs. Presently she has been washing the clothes by hand.",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Jerry Leon Kasman",
+        "email": "jerry.leon@reach.org.sg",
+        "phone": [
+          "68010712",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Aug 2021"
+    },
+    {
       "id": "96629",
       "category": "Electrical Home Appliances",
       "name": "Microwave Oven",
@@ -1512,6 +1530,24 @@
       "date": "07 Jul 2021"
     },
     {
+      "id": "96639",
+      "category": "Medical Aids",
+      "name": "Adult Diaper (Brand: Tena) Size XS/S",
+      "description": "11 year-old child with cerebral palsy requires adult diapers, as she is wheelchair bound and requires assistance with her daily cares. Family of 6 has only 1 breadwinner who earns a low income, struggling to make ends meet. Diaper is needed to maintain basic hygiene.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Victoria Chong",
+        "email": "victoriachong@fycs.org",
+        "phone": [
+          "69783482",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Aug 2021"
+    },
+    {
       "id": "96610",
       "category": "Medical Aids",
       "name": "Adult Diaper - Dr P M size",
@@ -1758,6 +1794,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "96637",
+      "name": "queen Bed with Mattress",
+      "description": "queen size Bed with Mattress ,well used",
+      "location": "Loyang, Changi",
+      "validTill": "06 Aug 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "96636",
       "name": "Kid study table set",
