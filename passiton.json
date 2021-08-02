@@ -332,24 +332,6 @@
       "date": "21 Jul 2021"
     },
     {
-      "id": "96075",
-      "category": "Electrical Home Appliances",
-      "name": "Television",
-      "description": "Family of 2 (client and grandmother) just moved into their new rental flat. Their current television has lines on the screen and will be good if they can receive a new one in case the current one breaks down.",
-      "specifications": "32\"",
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Louise Quek",
-        "email": "louisequek@amkfsc.org.sg",
-        "phone": [
-          "64535349",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Jul 2021"
-    },
-    {
       "id": "96054",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -629,6 +611,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "07 Jul 2021"
+    },
+    {
+      "id": "96612",
+      "category": "Others",
+      "name": "Milk powder - Fernleaf family milk",
+      "description": "Client is a divorcee mother of an adult daughter with special needs. Client who is the caregiver has recently placed her in a new day care centre for persons with special needs which allowed her to return to employment. She has recently secured a full time job but does not earn adequately enough to meet ends meet. To alleviate client's financial constraints, she would appreciate for kind donors willing to sponsor milk powder.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "02 Aug 2021"
     },
     {
       "id": "96584",
@@ -922,24 +921,6 @@
         "phone": [
           "67799488ext55",
           "67799488"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "02 Jul 2021"
-    },
-    {
-      "id": "95258",
-      "category": "Others",
-      "name": "Ensure milk",
-      "description": "A client with a physical disability needs a carton of Ensure milk powder for daily feed in a month.",
-      "specifications": "Ensure milk",
-      "contact": {
-        "org": "Society For The Physically Disabled (SPD)",
-        "name": "Koh Yeng Yeng",
-        "email": "koh_yeng_yeng@spd.org.sg",
-        "phone": [
-          "65790750",
-          "65790700"
         ]
       },
       "deliveryCostsCoveredByDonor": false,
@@ -1809,23 +1790,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "21 Jul 2021"
-    },
-    {
-      "id": "96279",
-      "category": "Leisure and Healthy Lifestyle",
-      "name": "Bicycle",
-      "description": "Mother of 4 children is requesting for a bicycle which she will use to fetch her kid to and from childcare. The family of 6 lives in a 2-room rental flat; a very motivated family. Thank you very much.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Pek Jie Hui",
-        "email": "jiehui@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Jul 2021"
     },
     {
       "id": "96487",
@@ -3013,16 +2977,6 @@
       "location": "Katong, Joo Chiat, Amber Road",
       "validTill": "15 Aug 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96113",
-      "name": "Single size wooden bedframe with mattress",
-      "description": "Single size wooden bedframe with mattress.",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-      "validTill": "12 Aug 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
