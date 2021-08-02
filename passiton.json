@@ -946,10 +946,10 @@
       "date": "02 Jul 2021"
     },
     {
-      "id": "96603",
+      "id": "96608",
       "category": "Home Furnishing",
-      "name": "evelynchan@fycs.org",
-      "description": "Client and her family with 3 young children is of low-income and they have just moved into their rental flat. They are currently sourcing for furniture.",
+      "name": "Wardrobe",
+      "description": "Client and her family with 3 young children is of low-income and they have just moved into their rental flat. They are currently sourcing for a wardrobe.",
       "specifications": null,
       "contact": {
         "org": "Fei Yue Family Service Centre @ Yew Tee",
@@ -1829,6 +1829,16 @@
   ],
   "offers": [
     {
+      "id": "96609",
+      "name": "COMMODE",
+      "description": "Used Commode to give away.",
+      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+      "validTill": "31 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "96607",
       "name": "TV Glass  Console",
       "description": "TV console consists of 4 drawers,top is heavy Glass.",
@@ -2330,16 +2340,6 @@
     },
     {
       "id": "96528",
-      "name": "Queen size & super single mattress, foldable bed frame (for queen size mattress)",
-      "description": "1) Queen size mattress with foldable bed frame (no headboard)\n2) Super single mattress",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "10 Aug 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96527",
       "name": "Queen size & super single mattress, foldable bed frame (for queen size mattress)",
       "description": "1) Queen size mattress with foldable bed frame (no headboard)\n2) Super single mattress",
       "location": "Tampines, Pasir Ris",
