@@ -3,7 +3,7 @@
     {
       "id": "96629",
       "category": "Electrical Home Appliances",
-      "name": "anntat@newhopecs.org.sg",
+      "name": "Microwave Oven",
       "description": "Homeless senior who just shifted from our Transitional Shelter to his rental flat requires a Microwave to help him settle in. Would appreciate donor to support the item including delivery costs. Please contact Mr Sunil (Social Worker) sunil@newhopecs.org.sg or whatsapp 91001491",
       "specifications": null,
       "contact": {
@@ -21,7 +21,7 @@
     {
       "id": "96628",
       "category": "Electrical Home Appliances",
-      "name": "anntat@newhopecs.org.sg",
+      "name": "Washing Machine",
       "description": "Homeless senior who just shifted from our Transitional Shelter to his rental flat requires a Washing Machine to help him settle in. Would appreciate donor to support the item including delivery costs. Please contact Mr Sunil (Social Worker) sunil@newhopecs.org.sg or whatsapp 91001491",
       "specifications": null,
       "contact": {
@@ -39,7 +39,7 @@
     {
       "id": "96627",
       "category": "Electrical Home Appliances",
-      "name": "anntat@newhopecs.org.sg",
+      "name": "Refrigerator",
       "description": "Homeless senior who just shifted from our Transitional Shelter to his rental flat requires a Refrigerator to help him settle in. Would appreciate donor to support the item including delivery costs. Please contact Mr Sunil (Social Worker) sunil@newhopecs.org.sg or whatsapp 91001491",
       "specifications": null,
       "contact": {
@@ -753,23 +753,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "28 Jul 2021"
-    },
-    {
-      "id": "96372",
-      "category": "Others",
-      "name": "Food Rations",
-      "description": "Requesting halal food rations for needy families who may not have money to buy food items due to financial issues. Items needed such as - 20x Bags of Rice(5kg), 20x Bags of Rice (2.5kg), 10x Packets of Beehoon (Chilli Brand), 40x Assorted Packet of Maggi Noodles [Chicken/Curry/Vegetarian], 20 Bottles of Cooking oil (1L), 30x Packets of 3-in-1 (Milo) (3in1 sachet bags), 30x Packets of Assorted Biscuits, 40x Halal Can Food [Meat -Sardine/Chicken etc] / [Vegetarian -Corn/Mushroom etc]",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Koh Fang Qi",
-        "email": "kohfangqi@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Jul 2021"
     },
     {
       "id": "96275",
@@ -1776,6 +1759,46 @@
   ],
   "offers": [
     {
+      "id": "96636",
+      "name": "Kid study table set",
+      "description": "Children study set with retractable table and many book shelves attrached",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "06 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96635",
+      "name": "Single hob gas stove",
+      "description": "Gas stove for connecting to gas cylinder. Was used for under 2 years, but have been in storage (unused) for another 2 years.  I can arrange courier to recipient’s address.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "08 Aug 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96634",
+      "name": "2 x desks",
+      "description": "2 study desks that can be used as dressing table.  Solid wood and good quality",
+      "location": null,
+      "validTill": "15 Aug 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96633",
+      "name": "Motorised spring cot. Yaolan",
+      "description": "Barely used. There’s also extra spring and sarong",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "08 Aug 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "96626",
       "name": "Children Bookshelf",
       "description": "Low bookshelf for children",
@@ -1892,16 +1915,6 @@
       "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
       "validTill": "31 Aug 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96607",
-      "name": "TV Glass  Console",
-      "description": "TV console consists of 4 drawers,top is heavy Glass.",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "06 Aug 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
