@@ -107,24 +107,6 @@
       "date": "30 Jul 2021"
     },
     {
-      "id": "96504",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Client's family is heavily affected financially by the Covid-19 situation. Their fridge had recently malfunctioned and will be removed on 7 Aug 2021. Hence, they will need a new halal fridge by then as they are Muslims. Client hopes for fridge to be in well condition so that they can keep it for the long run and save on future expenses.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Shena Tan",
-        "email": "shenatan@fycs.org",
-        "phone": [
-          "69782982",
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "30 Jul 2021"
-    },
-    {
       "id": "96491",
       "category": "Electrical Home Appliances",
       "name": "Portable aircon",
@@ -1797,6 +1779,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "96650",
+      "name": "Brand new 2-in-1 scooter",
+      "description": "Sit or stand scooter",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "01 Sep 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96649",
+      "name": "Ikea Day bed with mattress",
+      "description": "A well used day bed in usable condition. Happy to give to someone who can use it.",
+      "location": null,
+      "validTill": "01 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "96646",
       "name": "Rice Cooker",
