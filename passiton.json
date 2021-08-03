@@ -1,6 +1,41 @@
 {
   "requests": [
     {
+      "id": "96681",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Family of 5 (parents and 3 children) who requires a washing machine as their current one stopped functioning unexpectedly. Husband is main breadwinner for family while wife is unable to work due to health issues. Family is unable to afford purchasing a washing machine.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Muhammad Shafi'ie Syahmi",
+        "email": "shafiiesyahmi@amkfsc.org.sg",
+        "phone": [
+          "64535349",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Aug 2021"
+    },
+    {
+      "id": "96680",
+      "category": "Electrical Home Appliances",
+      "name": "Blender",
+      "description": "Family has 3 young children and father is sole breadwinner of the family working grab while 2 younger children are still not in childcare. Family is currently facing tight financial situation.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Punggol",
+        "name": "Koh Tai Sheng",
+        "email": "taisheng@amkfsc.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "03 Aug 2021"
+    },
+    {
       "id": "96661",
       "category": "Electrical Home Appliances",
       "name": "table lamp",
@@ -1624,12 +1659,12 @@
   ],
   "offers": [
     {
-      "id": "96679",
-      "name": "12 tubs of Nestle NAN sensitive infant formula",
-      "description": "12 tubs of Nestle NAN sensitive specialized infant formula are giving away to needy families may need it. Each tub is 800g with expiry date of 31st August 2022.",
-      "location": null,
-      "validTill": "02 Sep 2021",
-      "ageInYears": 1,
+      "id": "96682",
+      "name": "2 door sliding cupboard",
+      "description": "2 door sliding cupboard. Single piece fully assembled.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "12 Aug 2021",
+      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
