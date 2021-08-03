@@ -577,6 +577,24 @@
       "date": "07 Jul 2021"
     },
     {
+      "id": "96674",
+      "category": "Others",
+      "name": "Glucometer",
+      "description": "Family consists of 5 family members (mum and 4 children). Mum has diabetes and is blind on one eye. She is currently not working and family has financial difficulties in getting a new glucometer to measure her blood sugar level.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Louise Quek",
+        "email": "louisequek@amkfsc.org.sg",
+        "phone": [
+          "64535349",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Aug 2021"
+    },
+    {
       "id": "96662",
       "category": "Others",
       "name": "Adult Diapers",
@@ -840,6 +858,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "06 Jul 2021"
+    },
+    {
+      "id": "96675",
+      "category": "Home Furnishing",
+      "name": "Queen-sized bed frame with mattress",
+      "description": "Family is looking for queen-sized bed frame with mattress for elderly grandmother and a primary school child. Family prefers a metal frame as previous wooden frames broke. Bed frame should preferably be higher so that it is easier for the grandmother to get up from the bed.",
+      "specifications": null,
+      "contact": {
+        "org": "Canossaville Children and Community Services",
+        "name": "Jervis Kang",
+        "email": "jervis.kang@canossaville.org.sg",
+        "phone": [
+          "68120697"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Aug 2021"
     },
     {
       "id": "96667",
@@ -1659,6 +1694,16 @@
   ],
   "offers": [
     {
+      "id": "96676",
+      "name": "Dining table",
+      "description": "Dining table with glass top",
+      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
+      "validTill": "06 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "96673",
       "name": "Large blue sofa",
       "description": "Large blue material sofa, a hole in the material, as seen in the photo, can be covered up or recovered.\n\nThe sofa is in 2 sections, which makes it easier to transport (see drawing attached).",
@@ -1674,16 +1719,6 @@
       "description": "King size bed with a very good mattress. Condition very good!",
       "location": null,
       "validTill": "06 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96671",
-      "name": "Queen size bed x 3 qty",
-      "description": "Queen size bed x 3 qty In good working condition",
-      "location": "Geylang, Eunos",
-      "validTill": "31 Aug 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -2219,31 +2254,11 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "96550",
-      "name": "Bed frame and Matress",
-      "description": "Wooden bed frame \nThick matress\n\nSingle bed",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "30 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "96548",
       "name": "Extendable Dinning Table with 6 cushion-chairs",
       "description": "21 years. Though slight scratches but still solid and extendable for 8 seaters (only 6 chairs are included).",
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
       "validTill": "11 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96545",
-      "name": "Single Size Mattress",
-      "description": "Single Size Mattress with several sets of bedsheet, pillow case n bloster case",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "15 Aug 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
