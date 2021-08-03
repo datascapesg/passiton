@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "96689",
+      "category": "Electrical Home Appliances",
+      "name": "Single door fridge",
+      "description": "Family of 4 with only one breadwinner. Children are aged 6 and 3. The family only has a bar fridge at home and can only store limited amounts of food each time. This is difficult for the family as mother usually cooks to save money. The family cannot afford to purchase a bigger fridge at this time.",
+      "specifications": "Width - 60cm",
+      "contact": {
+        "org": "Kampong Kapor Community Services",
+        "name": "Stella Wong",
+        "email": "stellawong@kkcs.org.sg",
+        "phone": [
+          "64224546",
+          "62997662"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "03 Aug 2021"
+    },
+    {
       "id": "96681",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -558,6 +576,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "07 Jul 2021"
+    },
+    {
+      "id": "96688",
+      "category": "Others",
+      "name": "Handphone",
+      "description": "Client is a single living alone. She has no family support and no source of income. She is presently seeking employment. However, it has been difficult for her to find a job with no phone. Her current phone is not working and she has no money to purchase a new one.",
+      "specifications": null,
+      "contact": {
+        "org": "Kampong Kapor Community Services",
+        "name": "Stella Wong",
+        "email": "stellawong@kkcs.org.sg",
+        "phone": [
+          "64224546",
+          "62997662"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "03 Aug 2021"
     },
     {
       "id": "96687",
@@ -1717,16 +1753,6 @@
       "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
       "validTill": "06 Aug 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96682",
-      "name": "2 door sliding cupboard",
-      "description": "2 door sliding cupboard. Single piece fully assembled.",
-      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-      "validTill": "12 Aug 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
