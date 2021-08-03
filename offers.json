@@ -1,5 +1,15 @@
 [
   {
+    "id": "96683",
+    "name": "Dining table",
+    "description": "Dining table with glass top",
+    "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
+    "validTill": "06 Aug 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "96682",
     "name": "2 door sliding cupboard",
     "description": "2 door sliding cupboard. Single piece fully assembled.",
@@ -180,16 +190,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "96633",
-    "name": "Motorised spring cot. Yaolan",
-    "description": "Barely used. There’s also extra spring and sarong",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "08 Aug 2021",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "96626",
     "name": "Children Bookshelf",
     "description": "Low bookshelf for children",
@@ -333,16 +333,6 @@
     "id": "96600",
     "name": "Pop-top toaster",
     "description": "Pop-top toaster giving away.  Self collection at boon keng mrt.",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "31 Aug 2021",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "96599",
-    "name": "Mini blender (Philip)",
-    "description": "Mini blender giving away. Self collection at boon keng mrt.",
     "location": "Balestier, Toa Payoh, Serangoon",
     "validTill": "31 Aug 2021",
     "ageInYears": 1,
