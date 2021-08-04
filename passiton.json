@@ -578,24 +578,6 @@
       "date": "04 Aug 2021"
     },
     {
-      "id": "96724",
-      "category": "Others",
-      "name": "Handphone Needed",
-      "description": "Client is a single mother to three children (one in secondary school, one in primary school and one in K2). She is the sole breadwinner and does not have other family or social support. Her eldest daughter's handphone had finally spoilt (daughter used a secondhand handphone) and client is unable to afford a new one. Daughter uses the phone for her school matters.",
-      "specifications": null,
-      "contact": {
-        "org": "Rotary Family Service Centre",
-        "name": "Nur Hamizah Bte Abdul Rahim",
-        "email": "nurhamizah@rotaryfsc.org",
-        "phone": [
-          "67799488ext26",
-          "67799488"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Aug 2021"
-    },
-    {
       "id": "96710",
       "category": "Others",
       "name": "Nestle Cerelac from 8 months (Wheat, Honey and Dates)",
@@ -1852,6 +1834,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "96748",
+      "name": "Baby cot",
+      "description": "Standard baby cot. No mattress",
+      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+      "validTill": "24 Aug 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96747",
+      "name": "Simmons BackCare 4 Pocketed Coil Queen Sized Bed and Platform Frame",
+      "description": "Simmons BackCare 4 Pocketed Coil Queen Sized Bed\n\nLength: 1.90m\nWidth: 1.55m\nHeight (Frame) 0.27m\nHeight (Mattress): 0.28m\nTotal Height: 0.55m\n\nThe mattress in the background is not for donation.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "06 Aug 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "96746",
       "name": "Delphine DP 1001 vacuum cleaner",
