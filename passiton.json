@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "96716",
+      "category": "Electrical Home Appliances",
+      "name": "Vacuum Cleaner",
+      "description": "Please contact Social Worker Alexia at alexialim@thkmc.org.sg to liaise. 79 years old single elderly client has just moved into 1-room rental flat after more than a decade of being homeless. He needs a vacuum cleaner to help him better to clean the place as he finds it difficult to sweep the floor with a  broom due to his age and physical condition. Thank you.",
+      "specifications": "NA",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Navarraj",
+        "email": "navarraj@thkmc.org.sg",
+        "phone": [
+          "64961278",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Aug 2021"
+    },
+    {
       "id": "96700",
       "category": "Electrical Home Appliances",
       "name": "water heater",
@@ -985,6 +1003,42 @@
       "date": "06 Jul 2021"
     },
     {
+      "id": "96720",
+      "category": "Home Furnishing",
+      "name": "2 x Queen Fitted Sheet",
+      "description": "A single mother with a 2 y/o and 6 y/o staying in our shelter require your kind provision of 2 new queen fitted bedsheet. Mother is the sole caregiver of her children and relying on formal financial support to make ends meet. Family has recently received a blessing of new mattress, however, they do not have a proper queen bedsheet. Your blessing of 2 fitted bedsheet will definitely ease the family's financial constraints. We seek your kindest understanding that our shelter could only receive new fitted sheet to avoid any occurrence of bed bug infestation as our shelter is prone to that. Thank you so much for your support!",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Transitional Shelter",
+        "name": "Esther Tan",
+        "email": "esther_tan@awwa.org.sg",
+        "phone": [
+          "65117278",
+          "65117272"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Aug 2021"
+    },
+    {
+      "id": "96719",
+      "category": "Home Furnishing",
+      "name": "Queen Frame and Mattress",
+      "description": "69 y/o and 75 y/o elderly couple hope to seek your kind provision of a new bed frame and mattress. Wife has chronic health condition and they are mainly depending on monthly CPF payouts for their daily expenses as they are both retirees. The elderly couple are currently sleeping on single mattresses on the floor. Your blessing of a new frame and mattress is deeply appreciated as it would ensure better rest and sleep quality for the elderly couple, enhancing their well-being and health. We seek your kindest understanding that our shelter is only able to receive new frame and mattress to avoid any occurrence of bed bug infestation. Thank you so much for your support!",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Transitional Shelter",
+        "name": "Esther Tan",
+        "email": "esther_tan@awwa.org.sg",
+        "phone": [
+          "65117278",
+          "65117272"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Aug 2021"
+    },
+    {
       "id": "96684",
       "category": "Home Furnishing",
       "name": "Queen-sized bed frame with mattress",
@@ -1143,6 +1197,60 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Jul 2021"
+    },
+    {
+      "id": "96718",
+      "category": "Infant and Children Items",
+      "name": "Diapers (Pull-up, size: XL)",
+      "description": "Client is a single-parent of 5 children (3 older teens who are schooling and 2 younger children aged 2 & 4). Besides supporting her children, client also needs to support her elderly parents. She recently faced a dip in her income due to lesser working hours, and is struggling to support her younger children's diapers needs. She thus hopes to receive support for milk to tide her over the next 2 months while waiting for her job to stabilise.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Lynn Yeo",
+        "email": "lynnyeo@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Aug 2021"
+    },
+    {
+      "id": "96717",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder (Similac Stage 4 - 1.8kg)",
+      "description": "Client is a single-parent of 5 children (3 older teens who are schooling and 2 younger children aged 2 & 4). Besides supporting her children, client also needs to support her elderly parents. She recently faced a dip in her income due to lesser working hours, and is struggling to support her younger children's milk needs. She thus hopes to receive support for milk to tide her over the next 2 months while waiting for her job to stabilise.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Lynn Yeo",
+        "email": "lynnyeo@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Aug 2021"
+    },
+    {
+      "id": "96715",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder (Grow - Stage 3)",
+      "description": "Client is a single-parent of 5 children (3 older teens who are schooling and 2 younger children aged 2 & 4). Besides supporting her children, client also needs to support her elderly parents. She recently faced a dip in her income due to lesser working hours, and is struggling to support her younger children's milk needs. She thus hopes to receive support for milk to tide her over the next 2 months while waiting for her job to stabilise.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Lynn Yeo",
+        "email": "lynnyeo@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Aug 2021"
     },
     {
       "id": "96693",
@@ -2659,16 +2767,6 @@
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "09 Aug 2021",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96420",
-      "name": "Single bed (with mattress)",
-      "description": "Single bed with mattress (and wooden legs)",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "10 Aug 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
