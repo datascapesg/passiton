@@ -194,23 +194,6 @@
       "date": "30 Jul 2021"
     },
     {
-      "id": "96483",
-      "category": "Electrical Home Appliances",
-      "name": "Television",
-      "description": "Client is a 50 year old male living in a 2 room rental flat. He has major depression and is faced with financial challenges as he is medically unfit for work. He hopes to purchase a television but have financial difficulty in affording it. \n\nHe hopes that with some entertainment at home, he may keep himself engaged on days when negative emotions become overwhelming, thus allowing some rest from negative and difficult thoughts.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - GoodLife! @ Bedok",
-        "name": "Alasdair Yee",
-        "email": "alasdair.yee@montfortcare.org.sg",
-        "phone": [
-          "63123988"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Jul 2021"
-    },
-    {
       "id": "96479",
       "category": "Electrical Home Appliances",
       "name": "Washing machine",
@@ -1781,6 +1764,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "96703",
+      "name": "Crutches and leg boot",
+      "description": "Crutches and a aircast boot",
+      "location": "Telok Blangah, Harbourfront",
+      "validTill": "29 Aug 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96702",
+      "name": "Solid wood baby cot bed.",
+      "description": "Solid wood baby cot bed (item > 4yrs but in very good condition) with removable drop-side. Can convert from cot to toddler bed. Suitable from birth to 6 yrs.",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "31 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96701",
+      "name": "Omron Compressor Nebulizer NE-C801",
+      "description": "The set used few times and I bought extra and brand new parts. \nOmron Compressor Nebulizer NE-C801",
+      "location": "Yishun, Sembawang",
+      "validTill": "31 Aug 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "96696",
       "name": "Sanitary pads",
