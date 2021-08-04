@@ -71,23 +71,6 @@
       "date": "03 Aug 2021"
     },
     {
-      "id": "96661",
-      "category": "Electrical Home Appliances",
-      "name": "table lamp",
-      "description": "",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Aug 2021"
-    },
-    {
       "id": "96628",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -313,23 +296,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": false,
-      "date": "21 Jul 2021"
-    },
-    {
-      "id": "96083",
-      "category": "Electrical Home Appliances",
-      "name": "Electric oven",
-      "description": "We are requesting for a client who would need an oven as she is learning to bake on her free time, and hopes to eventually set up her own homebased business in the long term. She suffers from a genetic heart condition and is currently waiting to get a job as she was recently deemed fit for work. SSO has been supporting her financially in the meantime.",
-      "specifications": "525mm (L) x 400 mm (B) x 335mm",
-      "contact": {
-        "org": "Singapore After Care Association",
-        "name": "Devan Ragupathi",
-        "email": "devan@saca.org.sg",
-        "phone": [
-          "62942350"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
       "date": "21 Jul 2021"
     },
     {
@@ -1092,6 +1058,40 @@
       "date": "17 Jul 2021"
     },
     {
+      "id": "96753",
+      "category": "Infant and Children Items",
+      "name": "Drypers XL (pants)",
+      "description": "My client is a family of 4 and there are presently no income-earners in the household. Due to limited financial resources, they are not able to afford diapers for their youngest child. The family will appreciate assistance in the form of diapers. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Woodlands",
+        "name": "Lee Hui En",
+        "email": "leehuien@carecorner.org.sg",
+        "phone": [
+          "63622481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Aug 2021"
+    },
+    {
+      "id": "96751",
+      "category": "Infant and Children Items",
+      "name": "Similac Stage 3 Milk Powder",
+      "description": "My client is a family of 4 and there are presently no income-earners in the household. Due to limited financial resources, they are not able to afford milk powder for their youngest child. The family will appreciate assistance in the form of milk powder. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Woodlands",
+        "name": "Lee Hui En",
+        "email": "leehuien@carecorner.org.sg",
+        "phone": [
+          "63622481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Aug 2021"
+    },
+    {
       "id": "96733",
       "category": "Infant and Children Items",
       "name": "Similac stage 1 and stage 4 milk powder",
@@ -1834,6 +1834,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "96752",
+      "name": "Rice cooker",
+      "description": "Rice cooker can cook for 5-7 people giving away. self collection.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "31 Aug 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96750",
+      "name": "Slow cooker",
+      "description": "Slow cooker can cook for 5-7 peoples giving away, self collection at boon keng mrt.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "31 Aug 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "96749",
       "name": "Beko Front Load Washing Machine",
