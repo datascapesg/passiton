@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "96763",
+      "category": "Electrical Home Appliances",
+      "name": "Rice Cooker",
+      "description": "Client is a single father with a 12 year old son. He has been unemployed since 2014 due to his health issues and relying on government financial assistance.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Admiralty",
+        "name": "Serene Koh",
+        "email": "serenekoh@carecorner.org.sg",
+        "phone": [
+          "69784103",
+          "63658751"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "05 Aug 2021"
+    },
+    {
+      "id": "96762",
+      "category": "Electrical Home Appliances",
+      "name": "Rice Cooker",
+      "description": "Client is newly married, staying in a rental flat. She was born with disability and is wheelchair-bound. She lost her job Mar 2020 as a result of Covid-19 and has been unemployed and relying on financial assistance from government.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Admiralty",
+        "name": "Serene Koh",
+        "email": "serenekoh@carecorner.org.sg",
+        "phone": [
+          "69784103",
+          "63658751"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "05 Aug 2021"
+    },
+    {
       "id": "96760",
       "category": "Electrical Home Appliances",
       "name": "Microwave oven",
@@ -527,6 +563,23 @@
       "date": "07 Jul 2021"
     },
     {
+      "id": "96764",
+      "category": "Others",
+      "name": "Handphone",
+      "description": "As our clients are both working parents,  Adequate supervision is required (e.g. where she is) of primary school going daughter through a phone. \nHowever, daughter's phone is spoilt. Family experiences financial strain due to current job instability and is unable to replace daughter's phone.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Aug 2021"
+    },
+    {
       "id": "96725",
       "category": "Others",
       "name": "Volunteer Driver",
@@ -879,6 +932,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "06 Jul 2021"
+    },
+    {
+      "id": "96765",
+      "category": "Home Furnishing",
+      "name": "Wardrobe For A Family Of 7",
+      "description": "Our client has 5 children, and is the main caregiver for her children. \nHer husband is the only breadwinner of the family. \nShe experiences high stress from caregiving and limited financial resources.\nHence, she is looking for a wardrobe that can fit in her children clothings. \nThank you.",
+      "specifications": "Kindly give us 2-3 weeks for arranging of transportation",
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Aug 2021"
     },
     {
       "id": "96719",
@@ -1905,16 +1975,6 @@
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "06 Aug 2021",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96745",
-      "name": "Bed and bed frame",
-      "description": "It has not been used at all. Mattress is in good condition. However bed frame has some scratches.",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "01 Sep 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
