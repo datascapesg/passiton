@@ -37,24 +37,6 @@
       "date": "05 Aug 2021"
     },
     {
-      "id": "96760",
-      "category": "Electrical Home Appliances",
-      "name": "Microwave oven",
-      "description": "Client has 4 children ranging from baby to teenager, and would benefit from having a microwave to heat up food when his children come home from school at staggered timings. Client is servicing debts for his family's home and is unable to afford one at this point.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Gracia Leong",
-        "email": "gracialeong@fycs.org",
-        "phone": [
-          "69783485",
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Aug 2021"
-    },
-    {
       "id": "96727",
       "category": "Electrical Home Appliances",
       "name": "Dryer",
@@ -580,23 +562,6 @@
       "date": "05 Aug 2021"
     },
     {
-      "id": "96780",
-      "category": "Others",
-      "name": "Food Rations",
-      "description": "Family consists of a single-mother and 2 school-going children, who require basic food items (Rice, Oil, Condiments, Canned Food, Instant Noodles, Cereal, Biscuits, Dugro Stage 3, and L sized Drypers - Pants). Mother is currently unemployed due to caregiving responsibilities.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Chavonne Tan",
-        "email": "ywctan@childrensociety.org.sg",
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Aug 2021"
-    },
-    {
       "id": "96764",
       "category": "Others",
       "name": "Handphone",
@@ -698,23 +663,6 @@
         "phone": [
           "66901010",
           "66901000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Aug 2021"
-    },
-    {
-      "id": "96705",
-      "category": "Others",
-      "name": "Infrared Thermometer",
-      "description": "The beneficiary is in need of one Infrared Thermometer for daily check-in of temperature. The beneficiary is able to self-collect the item. Or thermometer can be delivered to beneficiary's home and please contact us for delivery details. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Peng Hui",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "67537331"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1321,23 +1269,6 @@
       "category": "Infant and Children Items",
       "name": "Similac stage 1 and stage 4 milk powder",
       "description": "Single mother of 5 young children require milk powder support for her 4yo and 6month old. Client works as a admin worker, however, her income is insufficient to support her financial stressors.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Ang Xue Er",
-        "email": "xeang@childrensociety.org.sg",
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Aug 2021"
-    },
-    {
-      "id": "96732",
-      "category": "Infant and Children Items",
-      "name": "Dumex dulac stage 1 milk powder",
-      "description": "Single mother of 3 month old infant requires help with milk powder for her daughter. She's currently unemployed and dependent on her parents for financial support. However, her father works as a pump attendant and does not earn enough to help provide for her child's needs.",
       "specifications": null,
       "contact": {
         "org": "Singapore Children's Society - Yishun FSC",
@@ -1988,6 +1919,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "96798",
+      "name": "Nursing cover",
+      "description": "Nursing cover for breastfeeding mums",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "04 Sep 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "96795",
       "name": "Elmark Ceiling Fan DMD39",
@@ -3374,16 +3315,6 @@
       "description": "Single Bedframe and pull out bed with 2 spring mattresses\n\nDescription: Single bedframe with pull out bed. Pull out bed can be combined to make a double bed. \n\nBedframe condition: Stable and sturdy. No sounds. Headboard has bit wear and tear. Pull out bedframe has some rusted parts at the underside but do not affect functionality.\n\nMattress condition: Spring mattress, no sunken areas and minimal stains. \n\nAge of item: 8 years\n\nDimensions:  2.14m x 0.92m x 0.57 m (H) (with mattress). Height of headboard: 1.08m\n\nRequests: \n1) Deliver to be on Monday (5-8pm) or Sunday afternoons by mid August. Please note the age of item and availability of client before reserving. \n2) Please briefly share circumstances of the famlly so that donor can understand whom they are helping.",
       "location": "Yishun, Sembawang",
       "validTill": "08 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96071",
-      "name": "Study table",
-      "description": "A white IKEA study table in good condition. Can be use as a dining table too.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "20 Aug 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
