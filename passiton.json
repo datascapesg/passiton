@@ -1,57 +1,6 @@
 {
   "requests": [
     {
-      "id": "96827",
-      "category": "Electrical Home Appliances",
-      "name": "Standing fan x 4",
-      "description": "Family has 6 school-going children. The family requires 2 table fans and 2 standing fans as theirs spoilt while they were in the midst of moving house. The father is working full-time but does not earn enough to be able to afford new fans for the household.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Lim Yi Xi",
-        "email": "yixi@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Aug 2021"
-    },
-    {
-      "id": "96825",
-      "category": "Electrical Home Appliances",
-      "name": "Fan",
-      "description": "Requesting for donated fan for Client’s family. Family is moving into a new rental home from a shelter and require a fan for ventilation.  \n\nFamily is unable to afford a new fan due to lack of income. Family is on SSO financial assistance.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Toa Payoh",
-        "name": "Sheryl Tay",
-        "email": "sheryltay@carecorner.org.sg",
-        "phone": [
-          "63561622"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Aug 2021"
-    },
-    {
-      "id": "96821",
-      "category": "Electrical Home Appliances",
-      "name": "Standing Fan",
-      "description": "Family consisting of a single mother living with 4 children and 2 grandchildren, who are experiencing multiple stressors. The family is prone to eczema especially during hot weathers, and their existing fan is spoilt. In-kind donation of 1 or 2 standing fans for the family will be helpful in minimising their expenses for this month. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Jasmine Leong",
-        "email": "jasmine@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Aug 2021"
-    },
-    {
       "id": "96819",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -630,6 +579,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "07 Jul 2021"
+    },
+    {
+      "id": "96829",
+      "category": "Others",
+      "name": "router wifi",
+      "description": "",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Admiralty",
+        "name": "Juanna Sia",
+        "email": null,
+        "phone": [
+          "63658751"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Aug 2021"
+    },
+    {
+      "id": "96828",
+      "category": "Others",
+      "name": "router wifi",
+      "description": "",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Admiralty",
+        "name": "Juanna Sia",
+        "email": null,
+        "phone": [
+          "63658751"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Aug 2021"
     },
     {
       "id": "96812",
@@ -1881,23 +1864,6 @@
       "date": "04 Aug 2021"
     },
     {
-      "id": "96824",
-      "category": "Kitchen Utility Items",
-      "name": "induction Cooker",
-      "description": "Client is the sole bread winner in the family of 5. Due to Covid-19, client has income has decrease drastically and wife is struggling to find job. Current induction cooker has just broken beyond repair and they are unable to afford a new one. Family experiencing difficulty in preparing meals for themselves and 3 children.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Simranjit Kaur",
-        "email": "simranjit.kaur@montfortcare.org.sg",
-        "phone": [
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Aug 2021"
-    },
-    {
       "id": "96757",
       "category": "Kitchen Utility Items",
       "name": "4'5 Kitchen Cabinet",
@@ -1914,36 +1880,9 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "05 Aug 2021"
-    },
-    {
-      "id": "96796",
-      "category": "Leisure and Healthy Lifestyle",
-      "name": "Bicycle",
-      "description": "Requesting for a donated bicycle for client. Client is a pregnant mother who is caregiving for a young son. \n\nClient used to send Son to Childcare on foot (45 mins walk) but walking to Childcare has became tiring for client since her pregnancy. Furthermore, client has a weakened cervix due to previous miscarriages. An alternative route would be to take two buses and walk 10 minutes, thus client would prefer to cycle to Childcare if possible. \n\nFamily is currently reliant on SSO financial assistance and is not able to afford a bicycle or the cost of bicycle-sharing daily.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Toa Payoh",
-        "name": "Sheryl Tay",
-        "email": "sheryltay@carecorner.org.sg",
-        "phone": [
-          "63561622"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Aug 2021"
     }
   ],
   "offers": [
-    {
-      "id": "96826",
-      "name": "Electrolux Washer EWX147410W",
-      "description": "Self collection only\n\nThis is actually a washer/dryer but we turned off the dryer so now only functioning as washer.",
-      "location": "Macpherson, Braddell",
-      "validTill": "15 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
     {
       "id": "96814",
       "name": "Hospital bed, air mattress, wheel chair, diapers",
