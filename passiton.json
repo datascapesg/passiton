@@ -918,24 +918,6 @@
       "date": "06 Aug 2021"
     },
     {
-      "id": "96778",
-      "category": "Home Furnishing",
-      "name": "Wardrobe (2-door)",
-      "description": "Family of 6, including 3 teenage children, have no breadwinner as both parents are medically unfit for work and unable to afford a new one. They require a new wardrobe as their old one has been discarded, due to cracks and unstable support.\nThey currently store their clothes in organised stacks in the living room. A wardrobe would be much welcomed to properly store their clothes in clean conditions.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Victoria Chong",
-        "email": "victoriachong@fycs.org",
-        "phone": [
-          "69783482",
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Aug 2021"
-    },
-    {
       "id": "96777",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -968,24 +950,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "05 Aug 2021"
-    },
-    {
-      "id": "96719",
-      "category": "Home Furnishing",
-      "name": "Queen Frame and Mattress",
-      "description": "69 y/o and 75 y/o elderly couple hope to seek your kind provision of a new bed frame and mattress. Wife has chronic health condition and they are mainly depending on monthly CPF payouts for their daily expenses as they are both retirees. The elderly couple are currently sleeping on single mattresses on the floor. Your blessing of a new frame and mattress is deeply appreciated as it would ensure better rest and sleep quality for the elderly couple, enhancing their well-being and health. We seek your kindest understanding that our shelter is only able to receive new frame and mattress to avoid any occurrence of bed bug infestation. Thank you so much for your support!",
-      "specifications": null,
-      "contact": {
-        "org": "AWWA Transitional Shelter",
-        "name": "Esther Tan",
-        "email": "esther_tan@awwa.org.sg",
-        "phone": [
-          "65117278",
-          "65117272"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Aug 2021"
     },
     {
       "id": "96684",
@@ -1623,24 +1587,6 @@
       "date": "13 Jul 2021"
     },
     {
-      "id": "95692",
-      "category": "Infant and Children Items",
-      "name": "milk powder",
-      "description": "one foreign couple requested for Bellamy Stage 2 Follow-on milk powder for their 10-months son. the family is facing multiple difficulties at this juncture.",
-      "specifications": "milk powder",
-      "contact": {
-        "org": "Hougang Sheng Hong Family Service Centre",
-        "name": "Pang Yan Chyun",
-        "email": "yan_chyun@shenghong.org.sg",
-        "phone": [
-          "62895022ext107",
-          "62895022"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "12 Jul 2021"
-    },
-    {
       "id": "96731",
       "category": "Medical Aids",
       "name": "CPAP Machine with Humidifier",
@@ -1816,6 +1762,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "96814",
+      "name": "Hospital bed, air mattress, wheel chair, diapers",
+      "description": "Hospital bed\nAir pressure mattress\nWheelchair\nL size diapers",
+      "location": null,
+      "validTill": "05 Sep 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "96807",
       "name": "Sofzsleep Brand Cot Mattress",
