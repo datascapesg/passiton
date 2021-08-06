@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "96835",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine (Top-loading)",
+      "description": "An elderly lady and her son are both unemployed. Their current washing machine is faulty and they cannot afford to purchase a new one, and would appreciate a brand new washing machine.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Victoria Chong",
+        "email": "victoriachong@fycs.org",
+        "phone": [
+          "69783482",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Aug 2021"
+    },
+    {
       "id": "96819",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -1849,6 +1867,46 @@
     }
   ],
   "offers": [
+    {
+      "id": "96834",
+      "name": "3 mirrors",
+      "description": "3 mirrors . 5ft high",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "15 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96833",
+      "name": "Candle stands",
+      "description": "Floor standing wooden candle stands",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "15 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96832",
+      "name": "Table lamp",
+      "description": "Big table lamp",
+      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+      "validTill": "15 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96831",
+      "name": "High chairs and table",
+      "description": "Two high chairs and a table",
+      "location": null,
+      "validTill": "15 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "96814",
       "name": "Hospital bed, air mattress, wheel chair, diapers",
