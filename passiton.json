@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "96815",
+      "category": "Electrical Home Appliances",
+      "name": "electric kettle",
+      "description": "My client is requesting for an electric kettle as his present kettle is faulty. He uses the kettle on a daily basis to boil water to make coffee/tea. The donated electric would benefit my clients who are brothers staying in a rental flat and are receiving financial assistance.",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Jerry Leon Kasman",
+        "email": "jerry.leon@reach.org.sg",
+        "phone": [
+          "68010712",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Aug 2021"
+    },
+    {
       "id": "96813",
       "category": "Electrical Home Appliances",
       "name": "Installation of ceiling fan",
@@ -1657,6 +1675,24 @@
       "date": "22 Jul 2021"
     },
     {
+      "id": "96816",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "60 year old wheelchair bound man would like to take up data entry job. Found an employer but criteria is he must have a laptop or computer to do the data entry job. \nApplying Home Access for internet but he would still need a laptop. \nPlease help him be employable and earn an income.",
+      "specifications": null,
+      "contact": {
+        "org": "Yayasan Mendaki",
+        "name": "Rashmuna Binte Mohd Sumeri",
+        "email": "rashmuna.sumeri@mendaki.org.sg",
+        "phone": [
+          "62748853",
+          "62455710"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "06 Aug 2021"
+    },
+    {
       "id": "96784",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -1762,6 +1798,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "96817",
+      "name": "Classical Guitar",
+      "description": "Classical guitar fully functional. I have two to spare.",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "31 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "96814",
       "name": "Hospital bed, air mattress, wheel chair, diapers",
@@ -1888,16 +1934,6 @@
       "description": "Rarely used cushion chair / sofa for give away",
       "location": "Anson, Tanjong Pagar",
       "validTill": "31 Aug 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96766",
-      "name": "3 seater sofa fabric",
-      "description": "like new 3 seater sofa. can be use as a bed. fabric. solid.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "14 Aug 2021",
       "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -2564,16 +2600,6 @@
     },
     {
       "id": "96654",
-      "name": "Queen size & super single mattress, foldable bed frame (for queen size mattress)",
-      "description": "1) Queen size mattress with foldable bed frame (no headboard)\n2) Super single mattress",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "10 Aug 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96655",
       "name": "Queen size & super single mattress, foldable bed frame (for queen size mattress)",
       "description": "1) Queen size mattress with foldable bed frame (no headboard)\n2) Super single mattress",
       "location": "Tampines, Pasir Ris",
