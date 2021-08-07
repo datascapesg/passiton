@@ -1127,24 +1127,6 @@
       "date": "04 Aug 2021"
     },
     {
-      "id": "96718",
-      "category": "Infant and Children Items",
-      "name": "Diapers (Pull-up, size: XL)",
-      "description": "Client is a single-parent of 5 children (3 older teens who are schooling and 2 younger children aged 2 & 4). Besides supporting her children, client also needs to support her elderly parents. She recently faced a dip in her income due to lesser working hours, and is struggling to support her younger children's diapers needs. She thus hopes to receive support for milk to tide her over the next 2 months while waiting for her job to stabilise.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Lynn Yeo",
-        "email": "lynnyeo@amkfsc.org.sg",
-        "phone": [
-          "64546678",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Aug 2021"
-    },
-    {
       "id": "96693",
       "category": "Infant and Children Items",
       "name": "Milk & Diapers",
@@ -1160,24 +1142,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "03 Aug 2021"
-    },
-    {
-      "id": "96670",
-      "category": "Infant and Children Items",
-      "name": "Drypers Drypantz XXL",
-      "description": "Family of 6, including parents and children aged 8, 6, 4 and 3. Father was recently remanded and mother is holding a job which was greatly affected by COVID-19 since 2020. Family solely depends on mother's income and struggles to support younger children basic needs such as diapers and milk, and daily needs such as detergent.",
-      "specifications": null,
-      "contact": {
-        "org": "NTUC First Campus Co-operative Ltd",
-        "name": "Jacelyn Chong",
-        "email": "huibing.c@ntucfirstcampus.com",
-        "phone": [
-          "89220113",
-          "97229008"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "03 Aug 2021"
     },
     {
@@ -1904,6 +1868,46 @@
   ],
   "offers": [
     {
+      "id": "96868",
+      "name": "Slow cooker",
+      "description": "Mayer slow cooker",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "31 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96867",
+      "name": "Fruit juicer",
+      "description": "Kenwood fruit juicer",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "30 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96866",
+      "name": "NIRPO Syringe (5ml)",
+      "description": "NIRPO Syringe (5ml)\nManufactured: 2020-04\nExp: 2025-03-31\nQty: 4",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "31 Aug 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96865",
+      "name": "NIRPO Needle (21G)",
+      "description": "NIRPO Needle (21G)\nQty: 99 pieces",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "31 Aug 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "96863",
       "name": "Playpen",
       "description": "Can be easily stowed away when not in use. Comes with a bassinet attachment that can be used for younger babies",
@@ -1940,16 +1944,6 @@
       "location": null,
       "validTill": "30 Aug 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96856",
-      "name": "Electric Kettle",
-      "description": "Used for a short while.\nGotten a permanent flask.\nSo giving away this eletric kettle.\nMuslim Family",
-      "location": "Yishun, Sembawang",
-      "validTill": "15 Aug 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
