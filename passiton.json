@@ -19,23 +19,6 @@
       "date": "06 Aug 2021"
     },
     {
-      "id": "96819",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Client is an elderly lady who has difficulty washing clothes by hand due to issues with her left arm. Client's washing machine has broken down and she has difficulty with doing laundry for herself and her family. Client is from a low-income household and unable to afford buying a new washing machine.",
-      "specifications": null,
-      "contact": {
-        "org": "MontfortCare - Marine Parade Family Service Centre",
-        "name": "Fatimah Hakeem",
-        "email": "fatimah.hakeem@montfortcare.org.sg",
-        "phone": [
-          "64450100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Aug 2021"
-    },
-    {
       "id": "96813",
       "category": "Electrical Home Appliances",
       "name": "Installation of ceiling fan",
@@ -1428,23 +1411,6 @@
       "date": "13 Jul 2021"
     },
     {
-      "id": "96823",
-      "category": "Home Furnishing",
-      "name": "foldable wooden dining table",
-      "description": "A family with a toddler staying in their rental flat. Father is working as a delivery rider and his income fluctuates according to the availability of orders. They are tapping on financial support in order to make their ends meet. They requires a dining table because father has back injury and no longer able to sit on the floor to have their meals.",
-      "specifications": "square or rectangle",
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Simranjit Kaur",
-        "email": "simranjit.kaur@montfortcare.org.sg",
-        "phone": [
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Aug 2021"
-    },
-    {
       "id": "96809",
       "category": "Home Furnishing",
       "name": "TV Console",
@@ -1512,23 +1478,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "05 Aug 2021"
-    },
-    {
-      "id": "96684",
-      "category": "Home Furnishing",
-      "name": "Queen-sized bed frame with mattress",
-      "description": "Family is looking for queen-sized bed frame with mattress for elderly grandmother and a primary school child. Family prefers a metal frame as previous wooden frames broke. Bed frame should preferably be higher so that it is easier for the grandmother to get up from the bed.",
-      "specifications": null,
-      "contact": {
-        "org": "Canossaville Children and Community Services",
-        "name": "Jervis Kang",
-        "email": "jervis.kang@canossaville.org.sg",
-        "phone": [
-          "68120697"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Aug 2021"
     },
     {
       "id": "96667",
@@ -1672,24 +1621,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "04 Aug 2021"
-    },
-    {
-      "id": "96639",
-      "category": "Medical Aids",
-      "name": "Adult Diaper (Brand: Tena) Size XS/S",
-      "description": "11 year-old child with cerebral palsy requires adult diapers, as she is wheelchair bound and requires assistance with her daily cares. Family of 6 has only 1 breadwinner who earns a low income, struggling to make ends meet. Diaper is needed to maintain basic hygiene.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Victoria Chong",
-        "email": "victoriachong@fycs.org",
-        "phone": [
-          "69783482",
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Aug 2021"
     },
     {
       "id": "96212",
@@ -1867,6 +1798,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "96872",
+      "name": "Soft Toys",
+      "description": "I have many different soft toys to bless children whom wants it. It is relatively new and clean. I will put into washing machine to wash and disinfect from time to time. The photos are just some samples.",
+      "location": "Yishun, Sembawang",
+      "validTill": "06 Sep 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "96871",
       "name": "King Sized Bed Frame",
