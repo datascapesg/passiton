@@ -54,24 +54,6 @@
       "date": "10 Aug 2021"
     },
     {
-      "id": "96945",
-      "category": "Electrical Home Appliances",
-      "name": "Cooking Stove",
-      "description": "URGENT REQUEST: Client is a single-mother with a primary school going son. Client is unemployed as she needs to care for his son who is having trauma-related symptoms. Client's cooking stove recently spoilt and needed a new one to cook for the family. Donor to pay for delivery fees. Thank you!",
-      "specifications": "2-burner cooking stove",
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Yew Tee",
-        "name": "Calyn Xu",
-        "email": "calynxu@fycs.org",
-        "phone": [
-          "64162155",
-          "64162162"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Aug 2021"
-    },
-    {
       "id": "96941",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -388,6 +370,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "13 Jul 2021"
+    },
+    {
+      "id": "96983",
+      "category": "Mobility Aids",
+      "name": "Walking Frame with Wheels",
+      "description": "Elderly with mobility difficulty requests for a Walking Frame with front wheels. Please include delivery fees, if any, because he will not be able to pay for it.",
+      "specifications": null,
+      "contact": {
+        "org": "NTUC Health Cluster Support - Taman Jurong",
+        "name": "Roger Khoo Lay Yeau",
+        "email": "roger.khoo@ntuchealth.sg",
+        "phone": [
+          "96922814",
+          "62674197"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Aug 2021"
     },
     {
       "id": "96830",
@@ -1284,23 +1284,6 @@
       "date": "10 Aug 2021"
     },
     {
-      "id": "96970",
-      "category": "Home Furnishing",
-      "name": "Single Bed needed for an elderly lady",
-      "description": "An elderly women is staying at the HDB one room rental flat for the last 10 years. She is the mother of one of our operation staff who has been with us for the last 5 to 7 years. For the last few weeks, she is sleeping on the floor due to the damage old single \nbed. Her son who is with us, he has been doing very well. He is looking for single bed for her mother. \nWe run a home providing drug rehabilitation and after-care services to male drug addicts and ex-offenders in Singapore. This is a residential programme carried out in our agency home, which was graciously provided by the Singapore government in recognition of our services to the community. WE have total about 80 to 90 in house stay of residents and staffs. The Helping Hand is a Volunteer Welfare Organization affiliated with the National Council of Social Service.",
-      "specifications": null,
-      "contact": {
-        "org": "The Helping Hand",
-        "name": "Raymond Choo",
-        "email": "raymondchoo@thehelpinghand.org.sg",
-        "phone": [
-          "62832204"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Aug 2021"
-    },
-    {
       "id": "96957",
       "category": "Home Furnishing",
       "name": "Pillow & Bolster",
@@ -1602,6 +1585,26 @@
   ],
   "offers": [
     {
+      "id": "96984",
+      "name": "IKEA Poang Chair",
+      "description": "Poang chair.  We've bought a brand new cushion for it in order to gift it to a new home.",
+      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
+      "validTill": "01 Sep 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96982",
+      "name": "Motorcycle Helmet",
+      "description": "2 full faced motorcycle helmets, one is size L and the other is size M.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "09 Sep 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "96980",
       "name": "Bags of clean LEGO",
       "description": "3 bags of Lego, mostly for building cars. Wheels, windscreens, steering wheels etc. Good condition, just washed it in the washing machine. No instructions.",
@@ -1838,16 +1841,6 @@
       "location": "Macpherson, Braddell",
       "validTill": "08 Sep 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96910",
-      "name": "STUDY DESK",
-      "description": "In good condition, less than 1 year old. Made of solid wood.",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "11 Aug 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2752,16 +2745,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "96563",
-      "name": "Pressure Relief Mattress",
-      "description": "Air mattress with pump to relieve pressure sores. Suitable for those who are bed-bound. In good condition.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "11 Aug 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "96849",
       "name": "Shower chair/bath seat for elderly, walking stick",
       "description": "Adjustable & dismantle shower chair for elderly\nFixed walking stick for elderly",
@@ -2777,16 +2760,6 @@
       "description": "Though the table top has some wear and tear，the top can be covered by a nice table cloth and overall table still very functional.",
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "30 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96548",
-      "name": "Extendable Dinning Table with 6 cushion-chairs",
-      "description": "21 years. Though slight scratches but still solid and extendable for 8 seaters (only 6 chairs are included).",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "11 Aug 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -3418,26 +3391,6 @@
       "location": "Bishan, Ang Mo Kio",
       "validTill": "12 Aug 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95684",
-      "name": "Queen Size mattress",
-      "description": "We bought this when we rent a room back in 2018 and moved it with us when we bought a house in 2019. \n\nThis mattress have been used for about 3 years. \n\nWe used this mattress in our guest room as we changed to a king size bed when we move to our new house.",
-      "location": "Punggol",
-      "validTill": "11 Aug 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "95670",
-      "name": "Soft toys",
-      "description": "Collection of soft toys",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-      "validTill": "11 Aug 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     }
