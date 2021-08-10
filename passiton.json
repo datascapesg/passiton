@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "96972",
+      "category": "Electrical Home Appliances",
+      "name": "Standing Fan",
+      "description": "Elderly who staying with her 2 school going grandson are asking for standing fan to replace their spoiled one.",
+      "specifications": null,
+      "contact": {
+        "org": "Rotary Family Service Centre",
+        "name": "Chey Siow Wei",
+        "email": "siowwei@frcsfsc.sg",
+        "phone": [
+          "67799488ext14",
+          "67799488"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "10 Aug 2021"
+    },
+    {
       "id": "96966",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -863,6 +881,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "19 Jul 2021"
+    },
+    {
+      "id": "96971",
+      "category": "Infant and Children Items",
+      "name": "Dumex Dugro Stage 3 Milk Formula",
+      "description": "Unemployed couples required toddler's milk powder for their daughter who is taking Dumex Dugro Stage 3 milk formula currently.",
+      "specifications": "Dumex Dugro Stage 3 Milk Formula",
+      "contact": {
+        "org": "Rotary Family Service Centre",
+        "name": "Chey Siow Wei",
+        "email": "siowwei@frcsfsc.sg",
+        "phone": [
+          "67799488ext14",
+          "67799488"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Aug 2021"
     },
     {
       "id": "96961",
@@ -2981,16 +3017,6 @@
       "id": "96376",
       "name": "children cupboard",
       "description": "Still in-use, but need to buy a bigger one",
-      "location": null,
-      "validTill": "17 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96375",
-      "name": "queen size bed",
-      "description": "Queen Size bed ( standard size ) with mattress. Still in-use, but need to renovate room for children",
       "location": null,
       "validTill": "17 Aug 2021",
       "ageInYears": 4,
