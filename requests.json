@@ -546,6 +546,23 @@
     "date": "15 Jul 2021"
   },
   {
+    "id": "96964",
+    "category": "Others",
+    "name": "Sewing machine",
+    "description": "Family has 6 school-going children staying in a rental flat. Mother is looking for a sewing machine as hers has spoilt so that she can mend clothes at home to save cost. Husband is working full-time as an ambulance driver but is unable to afford a new/secondhand sewing machine.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Lim Yi Xi",
+      "email": "yixi@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Aug 2021"
+  },
+  {
     "id": "96960",
     "category": "Others",
     "name": "Tablet or Ipad x 2 pcs",
@@ -773,23 +790,6 @@
       ]
     },
     "deliveryCostsCoveredByDonor": false,
-    "date": "22 Jul 2021"
-  },
-  {
-    "id": "96147",
-    "category": "Others",
-    "name": "Laptop",
-    "description": "The family is in need of a laptop for Home-based learning. No brand specific, accept both new and second-hand laptop as long as it is in good working condition. Installed with Microsoft Office (word/excel/PowerPoint) for project works. The item will be directly sent to beneficiary's home and please contact us for delivery details. Thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore Children's Society - Yishun FSC",
-      "name": "Peng Hui",
-      "email": "dik@childrensociety.org.sg",
-      "phone": [
-        "67537331"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
     "date": "22 Jul 2021"
   },
   {
@@ -1216,8 +1216,8 @@
   {
     "id": "96957",
     "category": "Home Furnishing",
-    "name": "Brand New Pillow & Bolster",
-    "description": "Client's family has headlice issues and has infested their mattress, pillows and bolsters. They hope to replace with brand new ones if possible.",
+    "name": "Pillow & Bolster",
+    "description": "Client's family has headlice issues and has infested their mattress, pillows and bolsters. They hope to replace with preferable brand new ones if possible.",
     "specifications": null,
     "contact": {
       "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
@@ -1234,8 +1234,8 @@
   {
     "id": "96956",
     "category": "Home Furnishing",
-    "name": "New Queen or King Size Mattress",
-    "description": "Client's family has headlice issues and has infested their current mattress, pillows and bolsters. They hope to replace them, hopefully with brand new ones.",
+    "name": "Queen or King Size Mattress",
+    "description": "Client's family has headlice issues and has infested their current mattress, pillows and bolsters. They hope to replace them, hopefully with preferable brand new ones.",
     "specifications": null,
     "contact": {
       "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
@@ -1494,5 +1494,22 @@
     },
     "deliveryCostsCoveredByDonor": false,
     "date": "05 Aug 2021"
+  },
+  {
+    "id": "96965",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Bicycle (adult)",
+    "description": "Family has 2 school-going children. Mother is looking for a bicycle so that she can do some delivery work to supplement the household income as husband is the sole income earner.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Lim Yi Xi",
+      "email": "yixi@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Aug 2021"
   }
 ]
