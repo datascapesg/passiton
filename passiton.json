@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "96966",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Family's current fridge has broken down. Family consists of parents and 3 children. Both parents have chronic medical issues which do not allow them to work, thus family lacks income and unable to afford to purchase a new fridge. The family thus requests for a donation of a refrigerator.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Sutraima Saphadi",
+        "email": "sutraima@awwa.org.sg",
+        "phone": [
+          "65119469",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "10 Aug 2021"
+    },
+    {
       "id": "96959",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -545,6 +563,23 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "15 Jul 2021"
+    },
+    {
+      "id": "96967",
+      "category": "Others",
+      "name": "Request for TPG compatible mobile phone for elderly please",
+      "description": "Client is a 72 year old elderly who lives in rental housing. She is currently in between job and makes many calls for job search purposes. As a result, she has been topping up approximately $30-$40 a month to her prepaid card which is quite costly to her. She heard about TPG and has signed up for the $10 per month plan in hope to reduce her expenses. \n\nHer current phone is not TPG compatible. As such, she needs to use the TPG app to make calls, in which she has difficulty accessing which limits her call making.\n\nClient hopes to be able to self-reliant and continue working as she is still in good general health. Hence, she hopes to have a TPG compatible phone which she is unable to afford due to her unemployment and limited savings. Thank you very much for your consideration and attention!",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Jesline Teo Kia Ling",
+        "email": "jeslineteo@amkfsc.org.sg",
+        "phone": [
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Aug 2021"
     },
     {
       "id": "96964",
@@ -1515,16 +1550,6 @@
     }
   ],
   "offers": [
-    {
-      "id": "96963",
-      "name": "Smart TV",
-      "description": "Sony Smart TV 42 inches",
-      "location": "Katong, Joo Chiat, Amber Road",
-      "validTill": "25 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
     {
       "id": "96962",
       "name": "Dryer",
