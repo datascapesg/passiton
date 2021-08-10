@@ -530,6 +530,23 @@
       "date": "15 Jul 2021"
     },
     {
+      "id": "96953",
+      "category": "Others",
+      "name": "Adult diapers (Softess brand: Pull-up type)",
+      "description": "Client and husband are supporting a household of 7 individuals, including 3 school-going children, a retired elderly father, a domestic helper (father's caregiver). Client faces financial constraints with father's care and medical needs and the support will greatly alleviate her concerns while caring for father.",
+      "specifications": "Size M",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Ang Bi Xia",
+        "email": "angbixia@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Aug 2021"
+    },
+    {
       "id": "96845",
       "category": "Others",
       "name": "Adult Diapers",
@@ -1147,6 +1164,42 @@
       "date": "13 Jul 2021"
     },
     {
+      "id": "96957",
+      "category": "Home Furnishing",
+      "name": "Brand New Pillow & Bolster",
+      "description": "Client's family has headlice issues and has infested their mattress, pillows and bolsters. They hope to replace with brand new ones if possible.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
+        "name": "Cindy Goh",
+        "email": "cindygoh@amkfsc.org.sg",
+        "phone": [
+          "64535349ext230",
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Aug 2021"
+    },
+    {
+      "id": "96956",
+      "category": "Home Furnishing",
+      "name": "New Queen or King Size Mattress",
+      "description": "Client's family has headlice issues and has infested their current mattress, pillows and bolsters. They hope to replace them, hopefully with brand new ones.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
+        "name": "Cindy Goh",
+        "email": "cindygoh@amkfsc.org.sg",
+        "phone": [
+          "64535349ext230",
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Aug 2021"
+    },
+    {
       "id": "96939",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -1395,6 +1448,16 @@
   ],
   "offers": [
     {
+      "id": "96958",
+      "name": "Exercise bike",
+      "description": "Stationery exercise bike",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "09 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "96952",
       "name": "Sofa bed",
       "description": "Sofa Bed.",
@@ -1431,16 +1494,6 @@
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "20 Aug 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96942",
-      "name": "Leather arm chair",
-      "description": "Leather reclining Arm chair. Less than 1 year & in excellent condition. Khaki colour",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-      "validTill": "09 Sep 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -1795,16 +1848,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "96946",
-      "name": "wheelchair",
-      "description": "6 months old",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "30 Aug 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "96885",
       "name": "Plates, bowls, chopsticks",
       "description": "Hardly used and wish to donate out to whoever needs it.",
@@ -1941,6 +1984,26 @@
       "location": "Bishan, Ang Mo Kio",
       "validTill": "05 Sep 2021",
       "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96954",
+      "name": "ASSURE Underpads Absorbent Protection (75cm x 75cm)",
+      "description": "ASSURE Underpads Absorbent Protection (75cm x 75cm)\nQty: 5 packs (10 pcks/pkt) + 7 loose pieces",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "31 Aug 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96955",
+      "name": "TENA Pants Plus Unisex Adult Diapers (M)",
+      "description": "TENA Pants Plus Unisex Adult Diapers (M)\nQty: 1 pack (14 pcs/pkt) + 2 loose pieces",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "31 Aug 2021",
+      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2250,6 +2313,16 @@
       "description": "SPI school bag in very good condition",
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
       "validTill": "31 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96651",
+      "name": "Sofa with changeable cushion cover",
+      "description": "Extra Cushion covers is available.",
+      "location": "Yishun, Sembawang",
+      "validTill": "20 Aug 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
