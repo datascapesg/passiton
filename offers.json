@@ -1,5 +1,15 @@
 [
   {
+    "id": "96952",
+    "name": "Sofa bed",
+    "description": "Sofa Bed.",
+    "location": "Orchard, Cairnhill, River Valley",
+    "validTill": "12 Aug 2021",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "96947",
     "name": "fabric 3 seater sofa",
     "description": "There are some stains but not very obvious. It is still usable but not for fussy users. The cushion covers can be washed and changed.",
@@ -80,16 +90,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "96930",
-    "name": "IKEA sofa bed",
-    "description": "Nyhamn sofa bed with foam mattress bought from IKEA.",
-    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-    "validTill": "21 Aug 2021",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "96929",
     "name": "Office chair",
     "description": "Office chair to give away. Two years old. Self collect at golden mile complex",
@@ -156,16 +156,6 @@
     "location": "Tampines, Pasir Ris",
     "validTill": "08 Sep 2021",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "96920",
-    "name": "Dining table",
-    "description": "Dining table",
-    "location": "Macpherson, Braddell",
-    "validTill": "08 Sep 2021",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -420,16 +410,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "96887",
-    "name": "Plates, bowls, chopsticks",
-    "description": "Hardly used and wish to donate out to whoever needs it.",
-    "location": "Jurong",
-    "validTill": "01 Sep 2021",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "96885",
     "name": "Plates, bowls, chopsticks",
     "description": "Hardly used and wish to donate out to whoever needs it.",
@@ -540,16 +520,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "96857",
-    "name": "Tv console set",
-    "description": "Dimensions as shown in picture 1. Measurements are in cm. The left hand side portion in picture 2 (131cm x 47cm) part can be placed together or separated from the right hand side portion. Brand new unused and left in storage.",
-    "location": null,
-    "validTill": "30 Aug 2021",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "96855",
     "name": "Altar",
     "description": "self pickup if possible please. otherwise can discuss further. contents on and within cabinet not included. some specks of white paint at the right side bottom.",
@@ -624,16 +594,6 @@
     "name": "Candle stands",
     "description": "Floor standing wooden candle stands",
     "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-    "validTill": "15 Aug 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "96832",
-    "name": "Table lamp",
-    "description": "Big table lamp",
-    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
     "validTill": "15 Aug 2021",
     "ageInYears": 4,
     "dimensions": null,
@@ -1530,16 +1490,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "96259",
-    "name": "Queen size Mattress",
-    "description": "Queen size mattress - used but in good condition",
-    "location": "Katong, Joo Chiat, Amber Road",
-    "validTill": "25 Aug 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "96251",
     "name": "Baby Cot",
     "description": "I can buy a brand new mattress.",
@@ -1684,6 +1634,16 @@
     "name": "Study Table",
     "description": "Well-used study table with 4 functional drawers. There are signs of use but the table can still be used for another 1 - 2 years.",
     "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "21 Aug 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "96949",
+    "name": "Radio",
+    "description": "Radio\nPhone​ signal not detectable. Use radio function only as media player.",
+    "location": "Yishun, Sembawang",
     "validTill": "21 Aug 2021",
     "ageInYears": 4,
     "dimensions": null,
