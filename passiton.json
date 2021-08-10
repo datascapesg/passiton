@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "96941",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Client is currently unemployed. Because of the couple’s strained marital relationship, her husband is not contributing financially to the family. Due to a lack of familial, social support and financial resources, she is appealing for a donor to donate a fridge as the one she has is reported to be “not cold” to preserve the food.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "10 Aug 2021"
+    },
+    {
       "id": "96884",
       "category": "Electrical Home Appliances",
       "name": "Air fryer",
@@ -1413,6 +1430,16 @@
   ],
   "offers": [
     {
+      "id": "96940",
+      "name": "Ikea Queen size bed (White)",
+      "description": "Well used by single user. In good condition and clean. With 2 storage drawers was not use and well maintained.",
+      "location": "Yishun, Sembawang",
+      "validTill": "22 Aug 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "96936",
       "name": "King Koil Queen-sized mattress",
       "description": "Still in good condition. Please contact me to discuss logistics. Item must be collected by 5pm, 17 Aug 2021 at the latest.",
@@ -1428,16 +1455,6 @@
       "description": "Mothercare Jamestown baby cot in very good condition.\n3 position height fixed sides with removable side\nSolid wood\nMattress excluded",
       "location": "Telok Blangah, Harbourfront",
       "validTill": "30 Aug 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96933",
-      "name": "Queen size mattress with storage frame",
-      "description": "Guest bed in great condition - used just a handful of times over the past two years. Bedframe material: fabric, Mattress: queen-size, seldom used, like new. Added benefit: storage drawer is very useful - can store lots of things!",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "16 Aug 2021",
       "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -1829,16 +1846,6 @@
       "location": "Yishun, Sembawang",
       "validTill": "06 Sep 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96878",
-      "name": "Miele Compact Vacuum",
-      "description": "Good condition with extra filters (unused)",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "06 Sep 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2293,16 +2300,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "96652",
-      "name": "Adjustable Chair",
-      "description": "Adjustable back, cushion is less than 2 months old",
-      "location": "Yishun, Sembawang",
-      "validTill": "12 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "96650",
       "name": "Brand new 2-in-1 scooter",
       "description": "Sit or stand scooter",
@@ -2529,16 +2526,6 @@
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "31 Aug 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96583",
-      "name": "White Dining Set",
-      "description": "Dining table with 2 stools",
-      "location": "Geylang, Eunos",
-      "validTill": "31 Aug 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3107,26 +3094,6 @@
       "name": "Study Table",
       "description": "Well-used study table with 4 functional drawers. There are signs of use but the table can still be used for another 1 - 2 years.",
       "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "21 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96137",
-      "name": "Used toaster",
-      "description": "Non-halah kitchen but only used with breads.",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "21 Aug 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96121",
-      "name": "Radio",
-      "description": "Radio\nPhone​ signal not detectable. Use radio function only as media player.",
-      "location": "Yishun, Sembawang",
       "validTill": "21 Aug 2021",
       "ageInYears": 4,
       "dimensions": null,
