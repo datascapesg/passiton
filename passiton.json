@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "97001",
+      "category": "Electrical Home Appliances",
+      "name": "Front Load Washing Machine (8.5kg)",
+      "description": "Client is a mother of 6 (F/15, F/9, F/8, M/7, F/5, F3) and is currently pregnant (EDD: 30th August 2021). Client and her husband currently live in a 1-room-1-hall with their youngest daughter. \nThe 4 older children are presently in the care of relatives and foster parents. \nFSC is currently in discussion on the reunification plans for the children, projected to be by end 2021. Client has been unable to work due to gestational hypertension, which requires long periods of rest, and her husband is currently unemployed as he is taking care of and accompanying her for gynae visits. The couple's washing machine broke down in July 2021, resulting in minor flooding in the house. With the impending reunification of the children back home, the couple would require a washing machine to support the laundry needs of everyone.",
+      "specifications": "At Least A 8.5kg",
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Aug 2021"
+    },
+    {
       "id": "96999",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -284,24 +301,6 @@
       "date": "26 Jul 2021"
     },
     {
-      "id": "96139",
-      "category": "Electrical Home Appliances",
-      "name": "Cordless Vacuum Cleaner",
-      "description": "Single mother of 6 children requires vacuum cleaner to help ease her cleaning at home.",
-      "specifications": "Any",
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Zuriel Ong",
-        "email": "zurielong@fycs.org",
-        "phone": [
-          "69783018",
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Jul 2021"
-    },
-    {
       "id": "96087",
       "category": "Electrical Home Appliances",
       "name": "Washing machine",
@@ -544,6 +543,24 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "15 Jul 2021"
+    },
+    {
+      "id": "97003",
+      "category": "Others",
+      "name": "Ensure Milk 250ml (Vanilla)",
+      "description": "Child who was diagnosed with cancer and is bed-bound requires 6 tins of Ensure Milk, 250ml/can (Vanilla) daily. Mum is the main caregiver and also has 3 other school-going children to support.",
+      "specifications": null,
+      "contact": {
+        "org": "AIN Society",
+        "name": "Norhashimah Binti Kamarudin",
+        "email": "shimah@ainsociety.org.sg",
+        "phone": [
+          "68485163",
+          "68485166"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "11 Aug 2021"
     },
     {
       "id": "97000",
@@ -1584,6 +1601,16 @@
   ],
   "offers": [
     {
+      "id": "97002",
+      "name": "Single Bed Frame",
+      "description": "Single bed frame, used for only 10 months. There are minor scuff marks along the sides but overall condition of bed is good.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "20 Aug 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "96990",
       "name": "Used Cups",
       "description": "need to collect by 12 Aug 2021,",
@@ -1740,16 +1767,6 @@
       "location": "Middle Road, Golden Mile",
       "validTill": "31 Aug 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96927",
-      "name": "Metal book shelf",
-      "description": "Metal bookshelf",
-      "location": null,
-      "validTill": "08 Sep 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2949,16 +2966,6 @@
       "description": "3 seater, 2 seater and a 1 seater sofa set. With a coffee table too.",
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "14 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96380",
-      "name": "Study desk",
-      "description": "Still in good condition",
-      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-      "validTill": "27 Aug 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
