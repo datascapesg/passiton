@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "96999",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Very young couple has recently moved into their rental unit with their 2-year-old child. Parents are working to stabilize their finances. The family lacks social support for help and due to their current financial issues, are not able to purchase costly items. Father will be starting a job next week and will need some time to save up. As such the family needs help in acquiring a fridge to store their groceries.",
+      "specifications": "300 – 400L",
+      "contact": {
+        "org": "HEART @ Fei Yue",
+        "name": "Sonia Singh",
+        "email": "sonia@fycs.org",
+        "phone": [
+          "88692114",
+          "68199170"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Aug 2021"
+    },
+    {
+      "id": "96993",
+      "category": "Electrical Home Appliances",
+      "name": "thermo pot",
+      "description": "Senior 64yrs staying alone wish to be bless with a thermo pot as the current one is not warm anymore. She has been using the thermo flask for few years.",
+      "specifications": "3.0L",
+      "contact": {
+        "org": "Lions Befrienders Cluster Support",
+        "name": "Noor Hashah Binti Hassan",
+        "email": "noor.hashah@lb.org.sg",
+        "phone": [
+          "66814942",
+          "66814020"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "11 Aug 2021"
+    },
+    {
       "id": "96992",
       "category": "Electrical Home Appliances",
       "name": "digital box and antenna",
@@ -354,6 +390,23 @@
       "date": "13 Jul 2021"
     },
     {
+      "id": "96995",
+      "category": "Mobility Aids",
+      "name": "Electric Scooter",
+      "description": "Elderly man requires portable electronic scooter due to his legs being weakened  after decades of damage from kidney transport, swelling and also having blood clots.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Nathan Hou",
+        "email": "nathanhou@thkmc.org.sg",
+        "phone": [
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Aug 2021"
+    },
+    {
       "id": "96830",
       "category": "Mobility Aids",
       "name": "PMD Mobility Scooter",
@@ -491,6 +544,41 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "15 Jul 2021"
+    },
+    {
+      "id": "97000",
+      "category": "Others",
+      "name": "Halal Groceries",
+      "description": "A single mother with four children moved into their 2-rm rental flat last month. Mother recently acquired a job.. The family will need help with the groceries this month as they wait for the mother to receive her salary at the end of the month.",
+      "specifications": "Will specify to donor",
+      "contact": {
+        "org": "HEART @ Fei Yue",
+        "name": "Sonia Singh",
+        "email": "sonia@fycs.org",
+        "phone": [
+          "88692114",
+          "68199170"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Aug 2021"
+    },
+    {
+      "id": "96996",
+      "category": "Others",
+      "name": "E-Bike",
+      "description": "A family of 3 with a young child aged 3 requires an e-bike to work as a food delivery person. Currently, they have one e-bike but would require another one so that both husband & wife can work full time.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Jane Antony",
+        "email": "jane@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Aug 2021"
     },
     {
       "id": "96986",
@@ -863,24 +951,6 @@
       "date": "11 Aug 2021"
     },
     {
-      "id": "96971",
-      "category": "Infant and Children Items",
-      "name": "Dumex Dugro Stage 3 Milk Formula",
-      "description": "Unemployed couples required toddler's milk powder for their daughter who is taking Dumex Dugro Stage 3 milk formula currently.",
-      "specifications": "Dumex Dugro Stage 3 Milk Formula",
-      "contact": {
-        "org": "Rotary Family Service Centre",
-        "name": "Chey Siow Wei",
-        "email": "siowwei@frcsfsc.sg",
-        "phone": [
-          "67799488ext14",
-          "67799488"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Aug 2021"
-    },
-    {
       "id": "96961",
       "category": "Infant and Children Items",
       "name": "Diapers and Milk Powder",
@@ -892,23 +962,6 @@
         "email": "dik@childrensociety.org.sg",
         "phone": [
           "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Aug 2021"
-    },
-    {
-      "id": "96937",
-      "category": "Infant and Children Items",
-      "name": "Milk powder and diapers",
-      "description": "Family needs milk powder and diapers due to financial constraint.\n\nItems needed are:\nDumex dugro stage 4 (1.6/1.8kg) x2, Drypers drypantz size XXL, Mamypoko diapers pantz size XXXL. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Koh Fang Qi",
-        "email": "kohfangqi@amkfsc.org.sg",
-        "phone": [
-          "63128100"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1264,6 +1317,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "13 Jul 2021"
+    },
+    {
+      "id": "96994",
+      "category": "Medical Aids",
+      "name": "Blood Pressure Monitor",
+      "description": "Couple staying in rental flat requires blood pressure measuring machine to do daily check in due to their individual chronic health problem. Husband is unable to work due to having minimum heart function and wife is full time caregiver with her own health issues.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Nathan Hou",
+        "email": "nathanhou@thkmc.org.sg",
+        "phone": [
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Aug 2021"
     },
     {
       "id": "96731",
@@ -2050,6 +2120,26 @@
       "location": "Bishan, Ang Mo Kio",
       "validTill": "05 Sep 2021",
       "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96997",
+      "name": "Portable gas stove and cabinet",
+      "description": "self pickup if possible please. otherwise can discuss further. items in cabinet not included.\nstove dimensions: L71 x D37 x H12 cm\ncabinet dimensions: L78.7, D43.5, H83.5 cm",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "05 Sep 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "96998",
+      "name": "Portable gas stove and cabinet",
+      "description": "self pickup if possible please. otherwise can discuss further. items in cabinet not included.\nstove dimensions: L71 x D37 x H12 cm\ncabinet dimensions: L78.7, D43.5, H83.5 cm",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "05 Sep 2021",
+      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
