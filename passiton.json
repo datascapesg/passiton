@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "97029",
+      "category": "Mobility Aids",
+      "name": "Wheelchair",
+      "description": "Low-income family of 4 who requires a wheelchair for their elderly father who has difficulty walking due to an injury in his legs many years ago. Currently, elderly father would walk around using grips and furniture to support him.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Admiralty",
+        "name": "Juanna Sia",
+        "email": null,
+        "phone": [
+          "63658751"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "12 Aug 2021"
+    },
+    {
       "id": "96995",
       "category": "Mobility Aids",
       "name": "Electric Scooter",
@@ -949,6 +966,24 @@
       "date": "13 Jul 2021"
     },
     {
+      "id": "97028",
+      "category": "Electrical Home Appliances",
+      "name": "Standing Fan",
+      "description": "Client is staying in a rental flat and facing financial difficulties. Client does not have familial support and is seeking a fan as their only one has broken and Client has difficulties affording a new one",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Lim Daniel",
+        "email": null,
+        "phone": [
+          "68010719",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Aug 2021"
+    },
+    {
       "id": "96992",
       "category": "Electrical Home Appliances",
       "name": "digital box and antenna",
@@ -1685,6 +1720,16 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
+      "id": "97023",
+      "name": "Samsung fridge",
+      "description": "Pre-loved fridge",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "22 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "96899",
       "name": "Rice Cooker",
       "description": "https://tiger-sg.com/eng/product-detail/rice-cookers/108-microcomputer-controlled-rice-cooker-jaj-a",
@@ -1875,6 +1920,16 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
+      "id": "97024",
+      "name": "Electric Kettle",
+      "description": "Used for a short while.\nGotten a permanent flask.\nSo giving away this eletric kettle.\nMuslim Family",
+      "location": "Yishun, Sembawang",
+      "validTill": "15 Aug 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "96855",
       "name": "Altar",
       "description": "self pickup if possible please. otherwise can discuss further. contents on and within cabinet not included. some specks of white paint at the right side bottom.",
@@ -1959,6 +2014,16 @@
       "name": "High chairs and table",
       "description": "Two high chairs and a table",
       "location": null,
+      "validTill": "15 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97025",
+      "name": "Electrolux Washer EWX147410W",
+      "description": "Self collection only\n\nThis is actually a washer/dryer but we turned off the dryer so now only functioning as washer.",
+      "location": "Macpherson, Braddell",
       "validTill": "15 Aug 2021",
       "ageInYears": 4,
       "dimensions": null,
@@ -2930,6 +2995,16 @@
       "description": "Used Ikea pocket spring cot mattress (VYSSA VACKERT). Mattress only, cot not included. \n\nUsed for approx 3 years and 8 months.",
       "location": "Katong, Joo Chiat, Amber Road",
       "validTill": "15 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97026",
+      "name": "Study table",
+      "description": "A white IKEA study table in good condition. Can be use as a dining table too.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "20 Aug 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
