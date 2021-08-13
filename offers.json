@@ -1,5 +1,25 @@
 [
   {
+    "id": "97075",
+    "name": "sofabed",
+    "description": "item to be self-pick up.",
+    "location": null,
+    "validTill": "12 Sep 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "97073",
+    "name": "Single bed frame",
+    "description": "Item to be self-pickup. Not providing delivery.",
+    "location": null,
+    "validTill": "12 Sep 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "97072",
     "name": "Ikea Baby Cot",
     "description": "IKEA baby cot with mattress to bless . Already disassembled, for dimensions please refer to \n\nhttps://www.ikea.com/gb/en/p/sniglar-cot-beech-30248537/",
@@ -540,16 +560,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "97023",
-    "name": "Samsung fridge",
-    "description": "Pre-loved fridge",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "22 Aug 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "96899",
     "name": "Rice Cooker",
     "description": "https://tiger-sg.com/eng/product-detail/rice-cookers/108-microcomputer-controlled-rice-cooker-jaj-a",
@@ -800,16 +810,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "97025",
-    "name": "Electrolux Washer EWX147410W",
-    "description": "Self collection only\n\nThis is actually a washer/dryer but we turned off the dryer so now only functioning as washer.",
-    "location": "Macpherson, Braddell",
-    "validTill": "15 Aug 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "96814",
     "name": "Hospital bed, air mattress, wheel chair, diapers",
     "description": "Hospital bed\nAir pressure mattress\nWheelchair\nL size diapers",
@@ -986,16 +986,6 @@
     "location": "Tampines, Pasir Ris",
     "validTill": "31 Aug 2021",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "96678",
-    "name": "walking frame",
-    "description": "hardly used walking frame, in very good condition.",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "31 Aug 2021",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },

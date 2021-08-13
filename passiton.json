@@ -19,24 +19,6 @@
       "date": "13 Aug 2021"
     },
     {
-      "id": "97039",
-      "category": "Mobility Aids",
-      "name": "Wheelchair (good condition)",
-      "description": "Client has long-term leg issues from his surgery. He would require a wheelchair to assist him to travel to nearby market for his grocery purchases",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Janetta Tan",
-        "email": "janettatan@amkfsc.org.sg",
-        "phone": [
-          "64546678",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Aug 2021"
-    },
-    {
       "id": "96995",
       "category": "Mobility Aids",
       "name": "Electric Scooter",
@@ -1319,6 +1301,23 @@
       "date": "22 Jul 2021"
     },
     {
+      "id": "97074",
+      "category": "Home Furnishing",
+      "name": "wooden foldable dining table",
+      "description": ": A family with a toddler staying in their rental flat. Father is working as a delivery rider and his income fluctuates according to the availability of orders. They are tapping on financial support in order to make their ends meet. They requires a dining table because father has back injury and no longer able to sit on the floor to have their meals.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Simranjit Kaur",
+        "email": "simranjit.kaur@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Aug 2021"
+    },
+    {
       "id": "97047",
       "category": "Home Furnishing",
       "name": "Single-size Mattress",
@@ -1546,6 +1545,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "97075",
+      "name": "sofabed",
+      "description": "item to be self-pick up.",
+      "location": null,
+      "validTill": "12 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97073",
+      "name": "Single bed frame",
+      "description": "Item to be self-pickup. Not providing delivery.",
+      "location": null,
+      "validTill": "12 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "97072",
       "name": "Ikea Baby Cot",
@@ -2087,16 +2106,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "97023",
-      "name": "Samsung fridge",
-      "description": "Pre-loved fridge",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "22 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "96899",
       "name": "Rice Cooker",
       "description": "https://tiger-sg.com/eng/product-detail/rice-cookers/108-microcomputer-controlled-rice-cooker-jaj-a",
@@ -2347,16 +2356,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "97025",
-      "name": "Electrolux Washer EWX147410W",
-      "description": "Self collection only\n\nThis is actually a washer/dryer but we turned off the dryer so now only functioning as washer.",
-      "location": "Macpherson, Braddell",
-      "validTill": "15 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "96814",
       "name": "Hospital bed, air mattress, wheel chair, diapers",
       "description": "Hospital bed\nAir pressure mattress\nWheelchair\nL size diapers",
@@ -2533,16 +2532,6 @@
       "location": "Tampines, Pasir Ris",
       "validTill": "31 Aug 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96678",
-      "name": "walking frame",
-      "description": "hardly used walking frame, in very good condition.",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "31 Aug 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
