@@ -473,23 +473,6 @@
       "date": "10 Aug 2021"
     },
     {
-      "id": "96845",
-      "category": "Others",
-      "name": "Adult Diapers",
-      "description": "Hi there, there is a family of 5 with only one main breadwinner is requesting help for adult diapers. Brand: Tena; Size: L and NOT the pants type with high absorbency level. Thank you in advance.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Low Yiing Jia",
-        "email": "jialow@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Aug 2021"
-    },
-    {
       "id": "96837",
       "category": "Others",
       "name": "Dryers or Huggies pants (XL)",
@@ -1262,23 +1245,6 @@
       "date": "13 Aug 2021"
     },
     {
-      "id": "97068",
-      "category": "Electrical Home Appliances",
-      "name": "Television",
-      "description": "Client is home-bound, socially more isolated due to covid-19.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Cluster Support @ Toa Payoh",
-        "name": "Lael Pang",
-        "email": "laelpang@carecorner.org.sg",
-        "phone": [
-          "62586601"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "13 Aug 2021"
-    },
-    {
       "id": "96297",
       "category": "Electrical Home Appliances",
       "name": "CCTVs",
@@ -1628,6 +1594,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "97114",
+      "name": "Dining Table",
+      "description": "Dining table",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "15 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "97112",
       "name": "New dresses/blouses for 4-5 yr old girl",
