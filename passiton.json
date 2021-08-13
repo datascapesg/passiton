@@ -227,6 +227,23 @@
       "date": "15 Jul 2021"
     },
     {
+      "id": "97098",
+      "category": "Others",
+      "name": "Diapers",
+      "description": "Family with 5 children requires diapers support for the youngest son. Father is the sole breadwinner and family currently experiencing tight financial situation. Mother is a housewife and unable to work due to caregiving needs of the children. Family is also under financial assistance.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Ye Jiancheng",
+        "email": "jiancheng@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Aug 2021"
+    },
+    {
       "id": "97089",
       "category": "Others",
       "name": "Nanny Cam",
@@ -238,24 +255,6 @@
         "email": "teddyfu@thkmc.org.sg",
         "phone": [
           "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Aug 2021"
-    },
-    {
-      "id": "97077",
-      "category": "Others",
-      "name": "Used Smartphone",
-      "description": "Helping a senior who is single and staying alone in a rental flat to get a used smartphone as his current one is malfunction and is beyond repair. Senior is a stroke patient and require monthly financial assistances from the Tampines Social Service Office therefore he does not have any money to pay for a used phone. Thanks.",
-      "specifications": null,
-      "contact": {
-        "org": "Presbyterian Community Services",
-        "name": "Andy Toh",
-        "email": "andytoh@pcs.org.sg",
-        "phone": [
-          "67866826",
-          "63344445"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1196,6 +1195,24 @@
       "date": "13 Jul 2021"
     },
     {
+      "id": "97097",
+      "category": "Electrical Home Appliances",
+      "name": "Standing Fan",
+      "description": "Beneficiary requires a standing fan.",
+      "specifications": "Any size",
+      "contact": {
+        "org": "New Hope Community Services",
+        "name": "Loh Khoon Mun",
+        "email": "khoonmun@newhopecs.org.sg",
+        "phone": [
+          "94511244",
+          "63059620"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Aug 2021"
+    },
+    {
       "id": "97069",
       "category": "Electrical Home Appliances",
       "name": "Vacuum cleaner",
@@ -1228,24 +1245,6 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "13 Aug 2021"
-    },
-    {
-      "id": "96992",
-      "category": "Electrical Home Appliances",
-      "name": "digital box and antenna",
-      "description": "Senior 63yrs staying alone with multiple chronic illnesses wish to be bless with a digital tv box. With his amputation he had difficulty moving around to get the box and fixing it. The current 1 he has is not working.",
-      "specifications": "small",
-      "contact": {
-        "org": "Lions Befrienders Cluster Support",
-        "name": "Noor Hashah Binti Hassan",
-        "email": "noor.hashah@lb.org.sg",
-        "phone": [
-          "66814942",
-          "66814020"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "11 Aug 2021"
     },
     {
       "id": "96297",
@@ -1751,16 +1750,6 @@
       "location": "Yishun, Sembawang",
       "validTill": "30 Aug 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97066",
-      "name": "Wardrobe",
-      "description": "Self pickup and self dismantle/assemble please. Wardrobe is older than 4 years old but still in good working condition.",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "11 Sep 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2431,6 +2420,26 @@
       "location": "Tampines, Pasir Ris",
       "validTill": "06 Sep 2021",
       "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97095",
+      "name": "Fruit juicer",
+      "description": "Kenwood fruit juicer",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "30 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97096",
+      "name": "Fruit juicer",
+      "description": "Kenwood fruit juicer",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "30 Aug 2021",
+      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },

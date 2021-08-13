@@ -90,16 +90,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "97066",
-    "name": "Wardrobe",
-    "description": "Self pickup and self dismantle/assemble please. Wardrobe is older than 4 years old but still in good working condition.",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "11 Sep 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "97065",
     "name": "Children Bed with Mattress",
     "description": "Used Children bed with mattress",
@@ -766,6 +756,26 @@
     "location": "Tampines, Pasir Ris",
     "validTill": "06 Sep 2021",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "97095",
+    "name": "Fruit juicer",
+    "description": "Kenwood fruit juicer",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "30 Aug 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "97096",
+    "name": "Fruit juicer",
+    "description": "Kenwood fruit juicer",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "30 Aug 2021",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
