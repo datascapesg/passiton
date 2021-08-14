@@ -652,40 +652,6 @@
       "date": "19 Jul 2021"
     },
     {
-      "id": "97113",
-      "category": "Infant and Children Items",
-      "name": "Diapers",
-      "description": "Family has 2 young children and need extra diapers for next 1 month due to financial difficulties.",
-      "specifications": "XXL and XL size",
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Tan Kwan Boon",
-        "email": "kwanboon@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Aug 2021"
-    },
-    {
-      "id": "97109",
-      "category": "Infant and Children Items",
-      "name": "mamypoko pants size XXXL and XXL",
-      "description": "Client lives in a 2-room rental flexi flat with her husband and 3 school going children and her father who is advanced in age and has health issues. Client is unemployed as she has to care for her two youngest children age 4 and 3 and they have learning difficulties. Client's husband is working and earns $1200 which is not enough to feed a family of 6 especially with client's father who have multiple chronic illness. Client requested for mamypoko pants size XXL and XXXL for her youngest children.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Dini Dzulaikha Bte Dzulkifli",
-        "email": null,
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "13 Aug 2021"
-    },
-    {
       "id": "97108",
       "category": "Infant and Children Items",
       "name": "Huggies M diapers",
@@ -841,23 +807,6 @@
       "date": "11 Aug 2021"
     },
     {
-      "id": "96961",
-      "category": "Infant and Children Items",
-      "name": "Diapers and Milk Powder",
-      "description": "The child is currently in need of Diapers in size L and Milk Powder of Dumex Dugro Stage 3, qty 2 at each item. All the items will be directly delivered to beneficiary's home and please contact us for delivery details. Thank you.",
-      "specifications": "Size L",
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Peng Hui",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Aug 2021"
-    },
-    {
       "id": "96773",
       "category": "Infant and Children Items",
       "name": "Diapers & Milk",
@@ -924,24 +873,6 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "05 Aug 2021"
-    },
-    {
-      "id": "96729",
-      "category": "Infant and Children Items",
-      "name": "XL non-tape Diapers - 5 packs",
-      "description": "Family of 3, low-income young parents, just started work, struggling to afford milk and diapers for new born.",
-      "specifications": "5 packs",
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Gan Chai",
-        "email": "ganchai@fycs.org",
-        "phone": [
-          "97406761",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Aug 2021"
     },
     {
       "id": "96728",
@@ -1540,6 +1471,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "97124",
+      "name": "Rocking chair",
+      "description": "63cm wide 124 cm tall\nVery good condition",
+      "location": "Seletar",
+      "validTill": "13 Sep 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "97123",
       "name": "Electrical hospital bed",
