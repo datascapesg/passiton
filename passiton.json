@@ -1086,23 +1086,6 @@
       "date": "22 Jul 2021"
     },
     {
-      "id": "97046",
-      "category": "Medical Aids",
-      "name": "Infrared Thermometer",
-      "description": "Client is the caregiver of 3 young children. The family is on financial assistance as her husband is serving his sentence. The family resides in a rental flat, whereby finances are only sufficient for day-to-day necessities.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "amychua@mws.sg",
-        "phone": [
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Aug 2021"
-    },
-    {
       "id": "96212",
       "category": "Medical Aids",
       "name": "Adult Absorbent Protector",
@@ -1365,6 +1348,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "97128",
+      "name": "Single mattress (used less than a month)",
+      "description": "Used for less than a month.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "13 Sep 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "97127",
       "name": "Arm’s reach original bedside sleeper / playpen",
