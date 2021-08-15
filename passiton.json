@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "97090",
-      "category": "Mobility Aids",
-      "name": "wheelchair",
-      "description": "Elderly client requiring a new wheelchair as previous wheel chair have broken down. The client will require a wheelchair that can allow the client to move themselves around the community. A lightweight wheelchair is more preferred as this client is an elder. A donation of a wheelchair is greatly appreciated! Thank you(Omai)",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Teddy Fu",
-        "email": "teddyfu@thkmc.org.sg",
-        "phone": [
-          "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Aug 2021"
-    },
-    {
       "id": "96995",
       "category": "Mobility Aids",
       "name": "Electric Scooter",
@@ -1137,6 +1120,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "97146",
+      "name": "Wall shelf & towel hanger",
+      "description": "Wall shelf & towel hanger giving away, self collection at boon keng mrt.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "31 Aug 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "97143",
       "name": "Philips rice cooker 1.5L (cook up to 7 pax)",
