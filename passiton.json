@@ -263,24 +263,6 @@
       "date": "12 Aug 2021"
     },
     {
-      "id": "97053",
-      "category": "Others",
-      "name": "60 bottles of Kaya / Jam",
-      "description": "We are requesting for 60 bottles of kaya/jam for breakfast to our residents from Monday to Saturday. The Helping Hand is a Voluntary Welfare Organization affiliated with the National Council of Social Service. We run a home providing drug rehabilitation and after-care services to male drug addicts and ex-offenders in Singapore. This is a residential programme carried out in our agency home, which was graciously provided by the Singapore government in recognition of our services to the community. We have a total of about 100 residents and staff staying in at our premises.",
-      "specifications": null,
-      "contact": {
-        "org": "The Helping Hand",
-        "name": "Chan Toh Han",
-        "email": "chantohhan@thehelpinghand.org.sg",
-        "phone": [
-          "62832204ext120",
-          "62832204"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "12 Aug 2021"
-    },
-    {
       "id": "97031",
       "category": "Others",
       "name": "Food Rations",
@@ -1295,6 +1277,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "97142",
+      "name": "Home Vacuum, Wired",
+      "description": "Vacuum and Vacuum bag available.",
+      "location": "Yishun, Sembawang",
+      "validTill": "14 Sep 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "97141",
       "name": "Rivaroxaban Blood Thinner",
