@@ -564,6 +564,23 @@
       "date": "21 Jul 2021"
     },
     {
+      "id": "97175",
+      "category": "Infant and Children Items",
+      "name": "Drypers Drypantz (Size L and XL)",
+      "description": "Family consists a young married couple with 3 young children (1-3 years old), experiencing multiple stressors, living in a rental flat. As the father has experienced a recent drop of income due to defects in his delivery vehicle, a donation of diapers for his children will be helpful to help the family tide through this period. Thank you.",
+      "specifications": "Size L and XL",
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Jasmine Leong",
+        "email": "jasmine@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Aug 2021"
+    },
+    {
       "id": "97171",
       "category": "Infant and Children Items",
       "name": "Drypers Wee Wee (Size: L)",
@@ -1067,6 +1084,42 @@
       "date": "16 Jul 2021"
     },
     {
+      "id": "97177",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "A family of 5 is living in a rental flat. The family has been depending on client's husband for their basic needs (who is earning low wages). They do not have additional finances to get a fridge.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Yew Tee",
+        "name": "Fu Xiu Ting",
+        "email": "fuxiuting@fycs.org",
+        "phone": [
+          "64162186",
+          "64162162"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Aug 2021"
+    },
+    {
+      "id": "97176",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "A family of 5 is living in a rental flat. The family has been depending on client's husband for their basic needs (who is earning low wages). They do not have additional finances to get a fridge.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Yew Tee",
+        "name": "Fu Xiu Ting",
+        "email": "fuxiuting@fycs.org",
+        "phone": [
+          "64162186",
+          "64162162"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Aug 2021"
+    },
+    {
       "id": "97172",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -1261,23 +1314,6 @@
       "date": "12 Aug 2021"
     },
     {
-      "id": "96939",
-      "category": "Home Furnishing",
-      "name": "Wardrobe",
-      "description": "Wardrobe for 10y/o child\n\nFamily has 1 children. Family requires assistance as they are in debt due to medical health. Wife is the sole incomer earner (low income) and caregiver to both child and husband.",
-      "specifications": "Length - 1.5 to 1.8m, Height - 1.8 to 2m, 2 door",
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Max Hong",
-        "email": "maxhong@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Aug 2021"
-    },
-    {
       "id": "96644",
       "category": "Home Furnishing",
       "name": "A table of length 4'5",
@@ -1436,6 +1472,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "97178",
+      "name": "Baby Clothes",
+      "description": "0-3 months Infant/Baby clothes, mittens, socks, swaddles and blankets",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "15 Sep 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "97170",
       "name": "Toilet vanity bund basins",
