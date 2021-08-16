@@ -385,23 +385,6 @@
       "date": "10 Aug 2021"
     },
     {
-      "id": "96960",
-      "category": "Others",
-      "name": "Tablet or Ipad x 2 pcs",
-      "description": "We are seeking for 2 pcs of Tablet or IPAD and wish to use these 2 items to track the safe entry purpose such as vaccination status and etc. of the visitors to our premises. We run a home providing drug rehabilitation and after-care services to male drug addicts and ex-offenders in Singapore. This is a residential programme carried out in our agency home, which was graciously provided by the Singapore government in recognition of our services to the community. WE have total about 80 to 90 in house stay of residents and staffs. The Helping Hand is a Volunteer Welfare Organization affiliated with the National Council of Social Service.",
-      "specifications": null,
-      "contact": {
-        "org": "The Helping Hand",
-        "name": "Raymond Choo",
-        "email": "raymondchoo@thehelpinghand.org.sg",
-        "phone": [
-          "62832204"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Aug 2021"
-    },
-    {
       "id": "96837",
       "category": "Others",
       "name": "Dryers or Huggies pants (XL)",
@@ -580,6 +563,57 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "21 Jul 2021"
+    },
+    {
+      "id": "97189",
+      "category": "Infant and Children Items",
+      "name": "Drypers Diapers and Durgro Milk Powders",
+      "description": "The family is currently in need of Drypers diapers, 8 packs in size L and 16 packs in size XL. 6 tins of Dugro stage 3 (or 14 value packs) and 3 tins of Dugro stage 4 (or 8 value packs). The diapers and milk powders are for 3 children and will be directly sent to beneficiary's home. Please contact us for delivery details. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Peng Hui",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Aug 2021"
+    },
+    {
+      "id": "97188",
+      "category": "Infant and Children Items",
+      "name": "Diapers",
+      "description": "Family B has 3 kids. Family requires support for diapers as parents faces financial constraints despite both parents being employed.",
+      "specifications": "M-L",
+      "contact": {
+        "org": "MWS Covenant Family Service Centre - Hougang",
+        "name": "Reina Chantelle Reyes",
+        "email": "reinachantelle@mws.sg",
+        "phone": [
+          "62828558"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Aug 2021"
+    },
+    {
+      "id": "97186",
+      "category": "Infant and Children Items",
+      "name": "Diapers",
+      "description": "Family A has 3 kids and require support with diapers. Parents are limited financially due to low education.",
+      "specifications": "XL",
+      "contact": {
+        "org": "MWS Covenant Family Service Centre - Hougang",
+        "name": "Reina Chantelle Reyes",
+        "email": "reinachantelle@mws.sg",
+        "phone": [
+          "62828558"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Aug 2021"
     },
     {
       "id": "97175",
@@ -1156,23 +1190,6 @@
       "date": "16 Aug 2021"
     },
     {
-      "id": "97165",
-      "category": "Electrical Home Appliances",
-      "name": "Fan",
-      "description": "Family has 3 children who require financial support as wife is the sole breadwinner. Husband is certified to be unfit for work. They require support for a floor-standing fan. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Koh Fang Qi",
-        "email": "kohfangqi@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Aug 2021"
-    },
-    {
       "id": "97162",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -1490,6 +1507,16 @@
   ],
   "offers": [
     {
+      "id": "97187",
+      "name": "Tefal Activys Oven (26L) Turbo Convection",
+      "description": "A well used but in good working condition medium sized oven suitable for roasting whole chickens and baking. \nDimensions approx 53 x 35.5 x 30.5 cm. \nComes with one wire rack and one baking tray.",
+      "location": "Telok Blangah, Harbourfront",
+      "validTill": "30 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "97180",
       "name": "Used Washing machine + used Dryer",
       "description": "My pre-loved washing machine has extended warranty till Oct 2022, in good working condition. Stacked up with Dryer ( faulty in timer button) is in working condition but need to monitor manually for drying time.",
@@ -1606,16 +1633,6 @@
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "27 Aug 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97138",
-      "name": "2-4 years old kids bicycle with balanced wheel",
-      "description": "Kids Bike",
-      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-      "validTill": "14 Sep 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
