@@ -564,6 +564,24 @@
       "date": "21 Jul 2021"
     },
     {
+      "id": "97166",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder",
+      "description": "Young Couple recently delivered their son in late May. As both are still studying in a local Institute, they are relying on their savings to provide for the esssential items for their newborn.   Husband stopped the PT delivery job to focus on his studies and caregiving. As it gets increasingly overwhelming for him to strike the balance. In August, couple places their son in an infantcare centre to prepare wife returns to full-time studies in Oct.  The infantcare fees add on to their financial burdens.  As such, they are seeking milk powder donation to hopefully relieve part of their financial burdens.",
+      "specifications": "Friscolac Gold Stage 1 (for 0-6m onwards,1.8kg) X6",
+      "contact": {
+        "org": "Fei Yue Community Services",
+        "name": "Daniel Tang",
+        "email": "danieltang@fycs.org",
+        "phone": [
+          "67690430",
+          "63809169"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Aug 2021"
+    },
+    {
       "id": "97159",
       "category": "Infant and Children Items",
       "name": "Drypers pants and Fernleaf/Lactogen Milk Powder",
@@ -1031,6 +1049,23 @@
       "date": "16 Jul 2021"
     },
     {
+      "id": "97165",
+      "category": "Electrical Home Appliances",
+      "name": "Fan",
+      "description": "Family has 3 children who require financial support as wife is the sole breadwinner. Husband is certified to be unfit for work. They require support for a floor-standing fan. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Koh Fang Qi",
+        "email": "kohfangqi@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Aug 2021"
+    },
+    {
       "id": "97162",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -1366,6 +1401,16 @@
   ],
   "offers": [
     {
+      "id": "97169",
+      "name": "Bench",
+      "description": "Sturdy and in very good condition just a tiny bit of white paint splashed on one of the “legs”",
+      "location": "Yishun, Sembawang",
+      "validTill": "15 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "97151",
       "name": "Queen sized mattress",
       "description": "Ikea Hokkasen mattress (queen sized). Excellent condition, only used for 1 year",
@@ -1501,16 +1546,6 @@
       "description": "USA brand Compact co-sleeper great for small space. It can be a small playpen to keep baby safe.\nLots of life left. All original accessories will be included. Also include an additional latex mattress.\nCO-SLEEPERÂ® brand Original bassinet is 40\" x 28\" x 31\" and has a weight limit of 30 lbs. in the cosleeping position and 50 lbs. when used as a playard.\n\nhttps://www.amazon.com/dp/B0001D12XA",
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "13 Sep 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97125",
-      "name": "Expandable solid wood dining/ work table",
-      "description": "Solid wood both sides expandable dining table. In good working condition,",
-      "location": "Yishun, Sembawang",
-      "validTill": "22 Aug 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -2266,16 +2301,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "96997",
-      "name": "Portable gas stove and cabinet",
-      "description": "self pickup if possible please. otherwise can discuss further. items in cabinet not included.\nstove dimensions: L71 x D37 x H12 cm\ncabinet dimensions: L78.7, D43.5, H83.5 cm",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "05 Sep 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "96998",
       "name": "Portable gas stove and cabinet",
       "description": "self pickup if possible please. otherwise can discuss further. items in cabinet not included.\nstove dimensions: L71 x D37 x H12 cm\ncabinet dimensions: L78.7, D43.5, H83.5 cm",
@@ -2352,6 +2377,26 @@
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "04 Sep 2021",
       "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97167",
+      "name": "Elmark Ceiling Fan DMD39",
+      "description": "Elmark fan with LED light. I will deliver to the VWO but won't be able to bear the installation charges.",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "04 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97168",
+      "name": "Elmark Ceiling Fan DMD39",
+      "description": "Elmark fan with LED light. I will deliver to the VWO but won't be able to bear the installation charges.",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "04 Sep 2021",
+      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
