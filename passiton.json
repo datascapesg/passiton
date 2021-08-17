@@ -618,6 +618,24 @@
       "date": "21 Jul 2021"
     },
     {
+      "id": "97262",
+      "category": "Medical Aids",
+      "name": "Blood pressure monitor",
+      "description": "Client is a long term dialysis patient. He also has multiple health issues such as renal failure, diabetes, hyperglycemia. Due to his health issues and poor mobility, he is unable to work. He is single and has limited family support. He requires the BP machine to closely monitor his blood pressure.",
+      "specifications": null,
+      "contact": {
+        "org": "St Luke's Hospital Ltd",
+        "name": "Janelle Cheong",
+        "email": "janellecheongje@stluke.org.sg",
+        "phone": [
+          "68953434",
+          "65632281"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Aug 2021"
+    },
+    {
       "id": "97252",
       "category": "Medical Aids",
       "name": "Adult Diapers",
@@ -1845,6 +1863,26 @@
   ],
   "offers": [
     {
+      "id": "97261",
+      "name": "Bedframe",
+      "description": "A used bed frame condition 7.5/10.\nBedrame has been dismantled.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "31 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97260",
+      "name": "Super single teak bed (without mattress)",
+      "description": "Solid, sturdy Super Single wooden bedframe without mattress. Suitable for older folks as not too high and not too low. I can provide some clean bedsheets and pillow covers too.",
+      "location": "Yishun, Sembawang",
+      "validTill": "31 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "97257",
       "name": "Baby clothing",
       "description": "Pre-loved clothing for baby girl, but some can be unisex. First set is newborn (size 0000) and second set is 0-3 months (size 000), including pants. All in good condition.",
@@ -1881,16 +1919,6 @@
       "location": "Geylang, Eunos",
       "validTill": "27 Aug 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97234",
-      "name": "Panasonic TV",
-      "description": "More than 16 years old tube TV still in working condition.",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-      "validTill": "16 Sep 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
