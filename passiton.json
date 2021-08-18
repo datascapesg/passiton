@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "97283",
+      "category": "Mobility Aids",
+      "name": "Wheel Chair",
+      "description": "An elderly client of Thye Hua Kwan Moral Charities (THKMC) who had an above knee amputation is staying in 1-room rental flat. She is also a caregiver for a husband who is frail with severe arthritis.  \n\nOn behalf of the client, THKMC is seeking for a donation of a wheelchair as the seat of the current one has worn off.  \n\nIf you know of someone who has the item for donation, please contact Gregory Ho 8292 2210. We appreciate if the donor could deliver the item to the client’s place at Blk 91 Henderson Road #04-150. For more information on THKMC, do visit: https://www.thkmc.org.sg",
+      "specifications": "20 inch seat",
+      "contact": {
+        "org": "THK Cluster Support @ Bukit Merah",
+        "name": "Gregory Ho",
+        "email": "Gregory.Ho@thkmc.org.sg",
+        "phone": [
+          "69240357",
+          "69242951"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Aug 2021"
+    },
+    {
       "id": "97277",
       "category": "Mobility Aids",
       "name": "Manual Wheelchair",
@@ -173,6 +191,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "21 Jul 2021"
+    },
+    {
+      "id": "97282",
+      "category": "Others",
+      "name": "Glucerna Milk",
+      "description": "Client has multiple medical conditions and had went through multiple operations. She is from a low income family with 3 children to care for. Although she needs to drink Glucerna triple care milk for her condition, she is unable to stretch her finances without it affecting the meals of her family. As such, having this milk would benefit client by aiding in client’s recovery.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services @ Taman Jurong SSO",
+        "name": "Nur Sabrina Binte Aswan",
+        "email": "nursabrina@fycs.org",
+        "phone": [
+          "62672935",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Aug 2021"
     },
     {
       "id": "97253",
@@ -656,42 +692,6 @@
       "date": "18 Aug 2021"
     },
     {
-      "id": "95303",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "My client is single, aged 60 and is currently residing in a 1 room rental unit. Due to mental health condition, he is unable to stabilise his employment, and thus, he is currently doing ad-hoc job as a cleaner. Client requests for a working washing machine as his current washing machine is on the verge to spoil.",
-      "specifications": null,
-      "contact": {
-        "org": "Kampong Kapor Community Services",
-        "name": "Renganathan s/o Panneer Selvam",
-        "email": "renganathan@kkcs.org.sg",
-        "phone": [
-          "62997535",
-          "62997662"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Aug 2021"
-    },
-    {
-      "id": "97249",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Client is from a low-income family. She is married but lives separately from her husband and 2 stepsons. Client has a biological daughter living with her aged 16. Currently, client has her parents staying with her as her father had a recent heart attack and bypass surgery, which requires caregiving. Her current washing machine is spoiling and hence is looking for a washing machine. It would be helpful for them to receive one.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Services @ Taman Jurong SSO",
-        "name": "Charmaine Lim",
-        "email": "charmainelim@fycs.org",
-        "phone": [
-          "62672945",
-          "62672900"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Aug 2021"
-    },
-    {
       "id": "97246",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -704,24 +704,6 @@
         "phone": [
           "65119431",
           "65119456"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Aug 2021"
-    },
-    {
-      "id": "97236",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Client is the sole breadwinner but due to caregiving responsibilities for her young children, she is not able to work fulltime. Her husband is unable to work due to medical reasons. She requested for a donated washing machine as her present one is faulty and she is presently washing the clothes by hand.",
-      "specifications": null,
-      "contact": {
-        "org": "REACH Family Service Centre",
-        "name": "Jerry Leon Kasman",
-        "email": "jerry.leon@reach.org.sg",
-        "phone": [
-          "68010712",
-          "62522566"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1617,23 +1599,6 @@
       "date": "13 Aug 2021"
     },
     {
-      "id": "97044",
-      "category": "Home Furnishing",
-      "name": "Small Cabinet",
-      "description": "Client is living with her husband & 3 children, and they have another child on the way. They have recently moved into a new rental house, and require refurbishing assistance. The family has poor employment stability, and is struggling financially.",
-      "specifications": "L: 80-120cm, H: 100-110cm, W: 40cm",
-      "contact": {
-        "org": "Care Corner Family Service Centre - Toa Payoh",
-        "name": "Nathania Chua",
-        "email": "nathaniachua@carecorner.org.sg",
-        "phone": [
-          "63561622"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Aug 2021"
-    },
-    {
       "id": "96644",
       "category": "Home Furnishing",
       "name": "A table of length 4'5",
@@ -1737,23 +1702,6 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "16 Aug 2021"
-    },
-    {
-      "id": "97091",
-      "category": "Leisure and Healthy Lifestyle",
-      "name": "bicycle",
-      "description": "Client (F/26) is the sole breadwinner of the household (consisting of her and her parents). She has multiple mental health conditions and has unstable employment. Family is struggling financially, and she requires a bicycle for her to do Grab Food delivery to extra income to support the family's daily expenses. (Melissa)",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Teddy Fu",
-        "email": "teddyfu@thkmc.org.sg",
-        "phone": [
-          "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Aug 2021"
     },
     {
       "id": "96965",
@@ -1920,16 +1868,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "97257",
-      "name": "Baby clothing",
-      "description": "Pre-loved clothing for baby girl, but some can be unisex. First set is newborn (size 0000) and second set is 0-3 months (size 000), including pants. All in good condition.",
-      "location": "Katong, Joo Chiat, Amber Road",
-      "validTill": "16 Sep 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "97247",
       "name": "Exercise bike - display panel not working",
       "description": "The bike was hardly used but the display panel is spoilt. You can still cycle and the tension is manually controlled. The brand is AIBI",
@@ -2010,6 +1948,16 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
+      "id": "97196",
+      "name": "Single bedframe",
+      "description": "Good quality wooden bedframe w/o mattress. Part on doubledecker bed that we separated. Made if solid wood",
+      "location": "Yishun, Sembawang",
+      "validTill": "15 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "97190",
       "name": "Tefal Activys Oven (26L) Turbo Convection",
       "description": "A well used but in good working condition medium sized oven suitable for roasting whole chickens and baking. \nDimensions approx 53 x 35.5 x 30.5 cm. \nComes with one wire rack and one baking tray.",
@@ -2026,16 +1974,6 @@
       "location": "Telok Blangah, Harbourfront",
       "validTill": "30 Aug 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97178",
-      "name": "Baby Clothes",
-      "description": "0-3 months Infant/Baby clothes, mittens, socks, swaddles and blankets",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "15 Sep 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
