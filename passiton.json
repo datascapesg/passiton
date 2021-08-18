@@ -746,24 +746,6 @@
       "date": "18 Aug 2021"
     },
     {
-      "id": "97246",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Client's top load washing machine has broken down. Looking for a new or second hand one with at least 9kg load. Client is from a large family of 8 members with 6 children, would greatly benefit from a washing machine.",
-      "specifications": null,
-      "contact": {
-        "org": "AWWA Family Service Centre",
-        "name": "Lim Hui Ying",
-        "email": "huiying_lim@awwa.org.sg",
-        "phone": [
-          "65119431",
-          "65119456"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Aug 2021"
-    },
-    {
       "id": "97224",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -1885,6 +1867,16 @@
   ],
   "offers": [
     {
+      "id": "97304",
+      "name": "IKEA Micke desk (white)",
+      "description": "Paint slightly chipped in front but otherwise in good condition.",
+      "location": "Orchard, Cairnhill, River Valley",
+      "validTill": "22 Aug 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "97303",
       "name": "Baby safety with extensions",
       "description": "Gate with 4 extensions.\n56cmx3\n29cmx1 \nMain gate is 70cm.",
@@ -2270,16 +2262,6 @@
       "description": "Unused wall putty tub to give away. Six tubs available. To patch holes in the wall. For self collection at golden mile complex",
       "location": "Middle Road, Golden Mile",
       "validTill": "30 Aug 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97128",
-      "name": "Single mattress (used less than a month)",
-      "description": "Used for less than a month.",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "13 Sep 2021",
       "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
