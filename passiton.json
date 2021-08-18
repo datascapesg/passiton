@@ -638,6 +638,24 @@
       "date": "17 Aug 2021"
     },
     {
+      "id": "97278",
+      "category": "Electrical Home Appliances",
+      "name": "Laptop computer",
+      "description": "The family has 3 school going children who requires a working laptop to help with their study and homework. They do not have a laptop at home.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Tan Kwang Eng",
+        "email": "tankwangeng@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "18 Aug 2021"
+    },
+    {
       "id": "95303",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -1775,6 +1793,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "97279",
+      "name": "Queen size bed and mattress (hardly used)",
+      "description": "Gently used queen size bed and mattress; hardly used as it's in our guest bedroom; in good condition",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "26 Aug 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "97275",
       "name": "Dining table , cupboards, bed frame",
@@ -3252,16 +3280,6 @@
       "location": "Tampines, Pasir Ris",
       "validTill": "31 Aug 2021",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96849",
-      "name": "Shower chair/bath seat for elderly, walking stick",
-      "description": "Adjustable & dismantle shower chair for elderly\nFixed walking stick for elderly",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "30 Aug 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
