@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "97277",
+      "category": "Mobility Aids",
+      "name": "Manual Wheelchair",
+      "description": "Hi! I am looking for a manual wheelchair for an elderly client who has limited mobility and high fall risk. The wheelchair will be helpful for her caregiver to bring her out for medical appointments.",
+      "specifications": "-",
+      "contact": {
+        "org": "AWWA Health and Senior Care",
+        "name": "Cheryl Pua",
+        "email": "cheryl_pua@awwa.org.sg",
+        "phone": [
+          "65116689",
+          "64562557"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "18 Aug 2021"
+    },
+    {
       "id": "97228",
       "category": "Mobility Aids",
       "name": "Reacher Grabber - Mobility Aid",
@@ -797,6 +815,23 @@
       "date": "21 Jul 2021"
     },
     {
+      "id": "97274",
+      "category": "Infant and Children Items",
+      "name": "Mamypoko Extra Dry Pants - Female",
+      "description": "Ct is married with a female toddler. Family is struggling financially and experiencing difficulty in purchasing pants for child.",
+      "specifications": "XXL",
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Simranjit Kaur",
+        "email": "simranjit.kaur@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "18 Aug 2021"
+    },
+    {
       "id": "97255",
       "category": "Infant and Children Items",
       "name": "XL Diapers (any brand, pants type)",
@@ -1388,6 +1423,24 @@
       "date": "22 Jul 2021"
     },
     {
+      "id": "97276",
+      "category": "Home Furnishing",
+      "name": "New bed and mattress (Queen size)",
+      "description": "(KR) Single mother of a 10 mth old infant is moving into a Interim Shelter while she awaits the outcome of her public rental flat application. Client has poor family support and is working as a grab food rider to meet her basic needs. The shelter is unable to accept donation of 2nd hand bed and mattress due to concerns of bug infestation, hence seeking donation of new bed and mattress for client and her infant.",
+      "specifications": "Queen size",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Navarraj",
+        "email": "navarraj@thkmc.org.sg",
+        "phone": [
+          "64961278",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Aug 2021"
+    },
+    {
       "id": "97250",
       "category": "Home Furnishing",
       "name": "cabinet with lock",
@@ -1722,6 +1775,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "97275",
+      "name": "Dining table , cupboards, bed frame",
+      "description": "2 bedframes , 2 cupboards and one dining table",
+      "location": "Orchard, Cairnhill, River Valley",
+      "validTill": "17 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97273",
+      "name": "TV console",
+      "description": "Slightly chip  at one corner",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "23 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97272",
+      "name": "Single wooden bed",
+      "description": "Single wooden bed without mattress",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "22 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "97271",
       "name": "Sofa bed and Queen Size bed with mattress",
