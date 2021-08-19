@@ -812,6 +812,23 @@
       "date": "21 Jul 2021"
     },
     {
+      "id": "97327",
+      "category": "Infant and Children Items",
+      "name": "Baby Walker",
+      "description": "Client is employed, living in a one-room rental flat, and trying her utmost best to look after her grandchild (9 months) and her own children. Both parents of 9 month old baby are incarcerated. Client would like a baby walker for her grandchild.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Edna Sim",
+        "email": "ednasim@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Aug 2021"
+    },
+    {
       "id": "97322",
       "category": "Infant and Children Items",
       "name": "Dumex Dupro Milk Formula Stage 2 800g",
@@ -1824,6 +1841,36 @@
   ],
   "offers": [
     {
+      "id": "97330",
+      "name": "Children Mattress",
+      "description": "Small mattress for kids",
+      "location": "Yishun, Sembawang",
+      "validTill": "18 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97329",
+      "name": "Avent Single Breast Pump",
+      "description": "1 Single side Avent Breast Pump\nAvent Containers as seen in the pics (New)",
+      "location": "Yishun, Sembawang",
+      "validTill": "18 Sep 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97328",
+      "name": "Electrolux Bagless Vacuum Cleaner",
+      "description": "Electrolux MobiLITE vacuum cleaner in good condition. Powerful suction with 4 accessories.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "18 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "97325",
       "name": "Divan Mattress",
       "description": "Divan mattress",
@@ -2129,16 +2176,6 @@
       "description": "Used (6yrs old) toilet vanity basin x 2 sets with taps(cold and warm water).\n\nI will deliver to your location but no installation included.\nPlease find your own plumber.",
       "location": null,
       "validTill": "30 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97169",
-      "name": "Bench",
-      "description": "Sturdy and in very good condition just a tiny bit of white paint splashed on one of the “legs”",
-      "location": "Yishun, Sembawang",
-      "validTill": "15 Sep 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
