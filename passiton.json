@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "97397",
+      "category": "Mobility Aids",
+      "name": "walking frame with front wheels",
+      "description": "Client is single mother with one daughter. Medically certified not fit for work, dependent on financial assistance. She would require a walking frame to aid her ambulation in the community with support",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Simranjit Kaur",
+        "email": "simranjit.kaur@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Aug 2021"
+    },
+    {
       "id": "97362",
       "category": "Mobility Aids",
       "name": "Wheelchair with elevated foot rest",
@@ -173,6 +190,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "21 Jul 2021"
+    },
+    {
+      "id": "97399",
+      "category": "Others",
+      "name": "Mobile Phone",
+      "description": "Client is wheelchair-bound due to spinal compression. His current handphone is not working and does not have the financial means to buy a new one. He shares a strained relationship with his family. Without a phone, he might not be able to seek help during emergency.",
+      "specifications": "nil",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Aw Chin Bee",
+        "email": "awchinbee@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "20 Aug 2021"
     },
     {
       "id": "97393",
@@ -794,6 +828,23 @@
       "date": "17 Aug 2021"
     },
     {
+      "id": "97396",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is single mother with one daughter. the washing machine at home has been malfunctioning. She would appreciate kind donation for the item.",
+      "specifications": "Top Load 10kg",
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Simranjit Kaur",
+        "email": "simranjit.kaur@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Aug 2021"
+    },
+    {
       "id": "97394",
       "category": "Electrical Home Appliances",
       "name": "Floor Standing Fan",
@@ -1021,6 +1072,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "21 Jul 2021"
+    },
+    {
+      "id": "97400",
+      "category": "Infant and Children Items",
+      "name": "Dumex Dugro Step 3/4/5 (Milk powder)",
+      "description": "Single mum with 2 children (15y/o & 6y/o). Mum is currently working as a delivery rider, typically to support the caregiving of her youngest son who has a disability and requires frequent medical check-ups and annual surgery. Mum is also supporting in the caregiving of child's maternal grandmother. As such. she is hoping to attain milk powder and diapers (in a separate post) for 3 months \n\n(2 packets/month)",
+      "specifications": null,
+      "contact": {
+        "org": "HEART @ Fei Yue",
+        "name": "Sean Ashwin NJ",
+        "email": "seanashwin@fycs.org",
+        "phone": [
+          "68199170ext123",
+          "68199170"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Aug 2021"
+    },
+    {
+      "id": "97398",
+      "category": "Infant and Children Items",
+      "name": "Drypers Wee Wee Dry Size (XXL)",
+      "description": "Single mum with 2 children (15y/o & 6y/o). Mum is currently working as a delivery rider, typically to support the caregiving of her youngest son who has a disability and requires frequent medical check-ups and annual surgery. \n\nMum is also supporting in the caregiving of child's maternal grandmother. As such. she is hoping to attain diapers and milk (in a separate post) for 3 months\n\n(4 packets per month)",
+      "specifications": "Size XXL",
+      "contact": {
+        "org": "HEART @ Fei Yue",
+        "name": "Sean Ashwin NJ",
+        "email": "seanashwin@fycs.org",
+        "phone": [
+          "68199170ext123",
+          "68199170"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Aug 2021"
     },
     {
       "id": "97389",
