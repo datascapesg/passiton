@@ -175,6 +175,23 @@
       "date": "21 Jul 2021"
     },
     {
+      "id": "97380",
+      "category": "Others",
+      "name": "Food Ration",
+      "description": "1.The family is in need of the following food items and al must be Halal certified as the family observes the halal dietary requirements: Instant noodles, 5kg Rice, Cooking Oil, Mushroom/tuna Canned food, Biscuit, Cereal \nMilk. 2. Food donation to Sunbeam Place (halal certified): Spaghetti pasta, Pasta sauce, White rice, Bee hoon and Peanut butter. 3. Food Donation to Student Care @ Children's Society (Halal certified): Fresh milk, Condense milk, Tuna canned food, Baked beans and Ribena. Please contact us for delivery details. Email: dik@childrensociety.org.sg. Contact No.: 9436 7401. *Note: Delivery costs will be covered by donors. We appreciate your kind donation and generosity. Everyone can make a difference!",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Peng Hui",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Aug 2021"
+    },
+    {
       "id": "97366",
       "category": "Others",
       "name": "Food rations",
@@ -2033,7 +2050,17 @@
   ],
   "offers": [
     {
-      "id": "97376",
+      "id": "97381",
+      "name": "Dish Washer",
+      "description": "Electrolux Dish Washer.\nHardly use. Good Condition.\nCollect at Macpherson\n\nSelf Collection",
+      "location": "Macpherson, Braddell",
+      "validTill": "30 Aug 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97382",
       "name": "Dish Washer",
       "description": "Electrolux Dish Washer.\nHardly use. Good Condition.\nCollect at Macpherson\n\nSelf Collection",
       "location": "Macpherson, Braddell",
@@ -2079,16 +2106,6 @@
       "location": "Yishun, Sembawang",
       "validTill": "19 Sep 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97360",
-      "name": "2 seater sofa (Castlery)",
-      "description": "Good condition",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "19 Sep 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
