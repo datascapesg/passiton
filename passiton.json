@@ -1594,23 +1594,6 @@
       "date": "19 Aug 2021"
     },
     {
-      "id": "97311",
-      "category": "Electrical Home Appliances",
-      "name": "Microwave Oven",
-      "description": "client is a single father of 5 children. He has lost the function of his right arm and is also facing financial issues. Donor would have to arrange for shipping/delivery.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Covenant Family Service Centre - Hougang",
-        "name": "Glenn Lim",
-        "email": "glennlim@mws.sg",
-        "phone": [
-          "62828558"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Aug 2021"
-    },
-    {
       "id": "97278",
       "category": "Electrical Home Appliances",
       "name": "Laptop computer",
@@ -1769,23 +1752,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "20 Aug 2021"
-    },
-    {
-      "id": "97352",
-      "category": "Home Furnishing",
-      "name": "3 seater sofa",
-      "description": "Low income family with 2 children requires a 3 seater sofa. Current sofa is broken and unable to function anymore. Both parents are working but adhoc based, due to COVID-19 situation. For more information required, please contact me 89407231.",
-      "specifications": null,
-      "contact": {
-        "org": "Monfort Care - Big Love Child Protection",
-        "name": "Lilys Amirah Abdullah",
-        "email": "lilys.abdullah@montfortcare.org.sg",
-        "phone": [
-          "64450400"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Aug 2021"
     },
     {
       "id": "97324",
@@ -2104,6 +2070,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "97425",
+      "name": "Rice cooker",
+      "description": "Pre-loved Rice cooker, portion suitable for small family. Still functioning.",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "21 Sep 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97424",
+      "name": "2 seater sofa",
+      "description": "3 seater brown sofa. Material. Removable covers so you can wash easily.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "04 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97423",
+      "name": "3 seater sofa",
+      "description": "3 seater brown sofa. Material. Removable covers so you can wash easily.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "04 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "97422",
       "name": "Table",
