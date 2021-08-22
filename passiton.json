@@ -1841,24 +1841,6 @@
       "date": "13 Aug 2021"
     },
     {
-      "id": "96644",
-      "category": "Home Furnishing",
-      "name": "A table of length 4'5",
-      "description": "A family of two, a son who is the sole breadwinner and the only caregiver to his dementia father needs a table for cooking. The dimension of the table is 4 feet 5 inches in length and 2 feet in width is suitable for their flat.",
-      "specifications": null,
-      "contact": {
-        "org": "The Helping Hand",
-        "name": "Chan Toh Han",
-        "email": "chantohhan@thehelpinghand.org.sg",
-        "phone": [
-          "67184081",
-          "62832204"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "02 Aug 2021"
-    },
-    {
       "id": "96503",
       "category": "Home Furnishing",
       "name": "Sliding wardrobe",
@@ -2034,6 +2016,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "97431",
+      "name": "Dialysate, cassets, drainage bags, mini caps",
+      "description": "The 1.5% dialysate bags x 21 boxes, drainage bag x 1 box, casette x 1 box , minicaps 1 box, shield x 1 box. Basically items are good for almost 1 month supply",
+      "location": "Jurong",
+      "validTill": "21 Sep 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "97430",
       "name": "Sofa",
