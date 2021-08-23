@@ -122,6 +122,24 @@
       "date": "24 Jul 2021"
     },
     {
+      "id": "97445",
+      "category": "Electrical Home Appliances",
+      "name": "vertical steamer",
+      "description": "Client is from a low-income family with 4 children. The family is facing financial strains as the wife lost her job due to coivd-19 and the husband has recently job transition to a lower-paying job. They are looking for a vertical iron/steamer however they are unable to afford it. It would be helpful for the family to receive one. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services @ Taman Jurong SSO",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@fycs.org",
+        "phone": [
+          "62672945",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Aug 2021"
+    },
+    {
       "id": "97343",
       "category": "Electrical Home Appliances",
       "name": "2-Door Refrigerator",
@@ -226,6 +244,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "26 Jul 2021"
+    },
+    {
+      "id": "97446",
+      "category": "Infant and Children Items",
+      "name": "Diaper- Size M",
+      "description": "Client cut off contact with her family and is currently temporarily staying with her husband's extended family. They are waiting for HDB rental approval. She is not working as she just gave birth in May, she plans to search for job in 1-2 months time once her infant is more adjusted. The family is currently depending on husband's sole income as a delivery man with unfixed weekly income.",
+      "specifications": "4 packets per month",
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Aug 2021"
     },
     {
       "id": "97444",
@@ -1909,6 +1944,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "97447",
+      "name": "Pillow",
+      "description": "2 new pillows to donate.",
+      "location": null,
+      "validTill": "22 Sep 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "97433",
       "name": "Double Decker Bed",
