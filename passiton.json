@@ -1150,6 +1150,24 @@
       "date": "27 Jul 2021"
     },
     {
+      "id": "97476",
+      "category": "Others",
+      "name": "HospiCare Adult Body Wipes",
+      "description": "Client is diagnosed with cancer and is financially needy. Due to client's condition, client depends heavily on his spouse to support and assist in his daily routine.",
+      "specifications": null,
+      "contact": {
+        "org": "AIN Society",
+        "name": "Nur'Ain Binte Mohamed Said",
+        "email": "nurain@ainsociety.org.sg",
+        "phone": [
+          "68485116",
+          "68485166"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "23 Aug 2021"
+    },
+    {
       "id": "97464",
       "category": "Others",
       "name": "Sugar",
@@ -1885,6 +1903,24 @@
       "date": "29 Jul 2021"
     },
     {
+      "id": "97474",
+      "category": "Home Furnishing",
+      "name": "Metal Single Bed Frame with Mattress",
+      "description": "Please contact Social Worker Wai Hong at kongwaihong@thkmc.org.sg or 8718 8435 to liaise. Client is unemployed due to his medical conditions. He needs a metal single bed frame with mattress as his existing wooden bed and mattress need to be disposed due to bed bug infestation.",
+      "specifications": "Single Size",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Navarraj",
+        "email": "navarraj@thkmc.org.sg",
+        "phone": [
+          "64961278",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Aug 2021"
+    },
+    {
       "id": "97443",
       "category": "Home Furnishing",
       "name": "Foldable mattress",
@@ -2149,6 +2185,24 @@
       "date": "10 Aug 2021"
     },
     {
+      "id": "97475",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Please contact Social Worker Wai Hong at kongwaihong@thkmc.org.sg or 8718 8435 to liaise. A low-income blended family with 3 children requires a laptop for their eldest son who is a foreigner and not eligible for assistance scheme. Eldest son is a student at a local secondary school.",
+      "specifications": "NA",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Navarraj",
+        "email": "navarraj@thkmc.org.sg",
+        "phone": [
+          "64961278",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Aug 2021"
+    },
+    {
       "id": "97451",
       "category": "Learning Aids",
       "name": "Art supplies",
@@ -2238,6 +2292,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "97473",
+      "name": "Baby high chair",
+      "description": "Ikea high chair for eating.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "22 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "97466",
       "name": "Sofa",
@@ -2639,16 +2703,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "97260",
-      "name": "Super single teak bed (without mattress)",
-      "description": "Solid, sturdy Super Single wooden bedframe without mattress. Suitable for older folks as not too high and not too low. I can provide some clean bedsheets and pillow covers too.",
-      "location": "Yishun, Sembawang",
-      "validTill": "31 Aug 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "97235",
       "name": "nice modest wear women’s clothing",
       "description": "Feminine long-sleeved dresses, long-sleeved blouses, and some scarves. Mostly suitable for malay/muslim women. All in good condition. Some never worn before.",
@@ -2735,6 +2789,26 @@
       "location": null,
       "validTill": "30 Aug 2021",
       "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97471",
+      "name": "Used bed frame and mattress",
+      "description": "Only used for 2 mths. Please come collect and I hope I don't need to pay collection fees.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "31 Aug 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97472",
+      "name": "Used bed frame and mattress",
+      "description": "Only used for 2 mths. Please come collect and I hope I don't need to pay collection fees.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "31 Aug 2021",
+      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
