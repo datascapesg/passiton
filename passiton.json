@@ -280,6 +280,23 @@
       "date": "26 Jul 2021"
     },
     {
+      "id": "97461",
+      "category": "Infant and Children Items",
+      "name": "Drypers Baby Diapers",
+      "description": "PPIS Family Service Centre (West) would like to appeal for 20 packets of size L, XL and XXL Dryper Baby Diapers for its beneficiaries with very young children. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Yuliza Mohamad Yusoff",
+        "email": "yuliza@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Aug 2021"
+    },
+    {
       "id": "97446",
       "category": "Infant and Children Items",
       "name": "Diaper- Size M",
@@ -1098,6 +1115,57 @@
       "date": "27 Jul 2021"
     },
     {
+      "id": "97464",
+      "category": "Others",
+      "name": "Sugar",
+      "description": "PPIS Family Service Centre (West) would like to appeal for 20 packets of sugar for its beneficiaries and their families. Thank You.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Yuliza Mohamad Yusoff",
+        "email": "yuliza@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Aug 2021"
+    },
+    {
+      "id": "97463",
+      "category": "Others",
+      "name": "Halal Nutella",
+      "description": "PPIS family Service Centre (West) would like to appeal for 20 bottles of Halal Nutella for its beneficiaries with school going children. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Yuliza Mohamad Yusoff",
+        "email": "yuliza@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Aug 2021"
+    },
+    {
+      "id": "97462",
+      "category": "Others",
+      "name": "Halal Kaya",
+      "description": "PPIS Family Service Centre (West) would like to appeal for 20 bottles of Halal Kaya for its beneficiaries and their families. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Yuliza Mohamad Yusoff",
+        "email": "yuliza@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Aug 2021"
+    },
+    {
       "id": "97460",
       "category": "Others",
       "name": "Halal Condensed Milk",
@@ -1425,23 +1493,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "19 Aug 2021"
-    },
-    {
-      "id": "97306",
-      "category": "Others",
-      "name": "Stable Ladder",
-      "description": "The family is currently experiencing spider infestation at home and requires a ladder to reach areas that they experience difficulty cleaning. \nThe family has insufficient income to sustain for basic needs, hence they do not have the additional money to resolve this issue with professional services.",
-      "specifications": "Tall and Stable Ladder",
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "amychua@mws.sg",
-        "phone": [
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Aug 2021"
     },
     {
       "id": "97287",
@@ -1959,6 +2010,24 @@
       "date": "30 Jul 2021"
     },
     {
+      "id": "97465",
+      "category": "Attires/Clothings",
+      "name": "boys shoes (soccer & indoorcourt)",
+      "description": "For two primary school siblings of shoe sizes 37 & 38 whom are currently staying in one of the homes for children. They wish to have a decent soccer and indoor court shoes for them to play soccer and badminton at the children's home during their free time.",
+      "specifications": "Size 37 & 38",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
+        "name": "Muhammad Farhan",
+        "email": "muhammadfarhan@amkfsc.org.sg",
+        "phone": [
+          "64511252",
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Aug 2021"
+    },
+    {
       "id": "96730",
       "category": "Attires/Clothings",
       "name": "Baby Rompers& Dressing Table",
@@ -2135,6 +2204,16 @@
   ],
   "offers": [
     {
+      "id": "97466",
+      "name": "Sofa",
+      "description": "Less than 4 months sofa bed.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "30 Aug 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "97452",
       "name": "Queen size bed with divan",
       "description": "Very new guest bed. Just bought a single bed instead due to space constraints.",
@@ -2271,16 +2350,6 @@
       "location": "Seletar",
       "validTill": "20 Sep 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97405",
-      "name": "Queen size spring mattress with bed frame",
-      "description": "Queen size spring mattress with complete black bed frame with head board. All in very good condition",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "26 Aug 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2999,16 +3068,6 @@
       "name": "Table",
       "description": "Two study tables",
       "location": "Macpherson, Braddell",
-      "validTill": "08 Sep 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96916",
-      "name": "Black velour seat",
-      "description": "Two Black velour seat",
-      "location": null,
       "validTill": "08 Sep 2021",
       "ageInYears": 4,
       "dimensions": null,

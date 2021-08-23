@@ -1,5 +1,15 @@
 [
   {
+    "id": "97466",
+    "name": "Sofa",
+    "description": "Less than 4 months sofa bed.",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "30 Aug 2021",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "97452",
     "name": "Queen size bed with divan",
     "description": "Very new guest bed. Just bought a single bed instead due to space constraints.",
@@ -136,16 +146,6 @@
     "location": "Seletar",
     "validTill": "20 Sep 2021",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "97405",
-    "name": "Queen size spring mattress with bed frame",
-    "description": "Queen size spring mattress with complete black bed frame with head board. All in very good condition",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "26 Aug 2021",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -864,16 +864,6 @@
     "name": "Table",
     "description": "Two study tables",
     "location": "Macpherson, Braddell",
-    "validTill": "08 Sep 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "96916",
-    "name": "Black velour seat",
-    "description": "Two Black velour seat",
-    "location": null,
     "validTill": "08 Sep 2021",
     "ageInYears": 4,
     "dimensions": null,
