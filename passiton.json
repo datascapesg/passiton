@@ -19,6 +19,23 @@
       "date": "17 Aug 2021"
     },
     {
+      "id": "97512",
+      "category": "Mobility Aids",
+      "name": "Good And Sturdy Wheelchair (For Home Use)",
+      "description": "Client is a single mother of a teenager son. The mother and son resides in a 2 room HDB flat, and the single parent is unemployed due to complicating health issues. Being unemployed, client does not have additional savings and solely relies on kind donations (e.g., food rations) and SSO financial assistance for day to day necessities.\nDue to her health condition, she is unable to walk and relies on a wheelchair to move around. As the current one has been worn out, she has kindly requested for a preloved item to replace the one that she has. \nClient is about 130kg , hence will need a sturdy wheelchair that can sustain her weight and move around in the house.",
+      "specifications": "Client is 130kg, she will need a wheelchair that can sustain her weight. Thank you.",
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Aug 2021"
+    },
+    {
       "id": "97440",
       "category": "Mobility Aids",
       "name": "Wheelchair with elevated foot rest",
@@ -126,23 +143,6 @@
       "category": "Electrical Home Appliances",
       "name": "Wall Fan",
       "description": "Client has two school going children in Primary 5 and primary 3. Client and husband are unemployed due to health issues and client has to be his caregiver. Client lives in a 1 room/1 hall rental flat. Client sleeps at a bunk bed with her daughter. And as they do not have a wall fan, it gets very hot at night. Client requested for a wall fan. Also, as client has lack of funds, client hopes for donor to cover delivery charges.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Dini Dzulaikha Bte Dzulkifli",
-        "email": null,
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "24 Aug 2021"
-    },
-    {
-      "id": "97500",
-      "category": "Electrical Home Appliances",
-      "name": "Vacuum Cleaner",
-      "description": "Client has two school going children in Primary 5 and primary 3. Client and husband are unemployed due to health issues and client has to be his caregiver. Client lives in a 1 room/1 hall rental flat. Client does not have a vacuum at home. Her children has asthma and a vacuum can help with the dust at home.",
       "specifications": null,
       "contact": {
         "org": "Singapore Children's Society - Yishun FSC",
@@ -1890,24 +1890,6 @@
       "date": "24 Aug 2021"
     },
     {
-      "id": "97250",
-      "category": "Home Furnishing",
-      "name": "cabinet with lock",
-      "description": "Client is from a low-income family and lives with her husband and 4 daughters. The family has some financial difficulties and caregiving stress. One of their daughters really loves arts, can be very messy and unkept. Hence the family is looking for a shelf/cabinet with a lock to be able to keep the things properly. However, due to financial constraints, the family is unable to afford it. Hence it would be helpful for the family to receive it. Thank you",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Services @ Taman Jurong SSO",
-        "name": "Charmaine Lim",
-        "email": "charmainelim@fycs.org",
-        "phone": [
-          "62672945",
-          "62672900"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Aug 2021"
-    },
-    {
       "id": "97216",
       "category": "Home Furnishing",
       "name": "3-seater sofa",
@@ -2190,6 +2172,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "97513",
+      "name": "Tempered glass dining table",
+      "description": "1.2m extendable to 1.6m \nHeight 700mm",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "23 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97511",
+      "name": "4 x Hotel King Size bed with Divan",
+      "description": "King size mattress (Hotel dimension) and divan bought for standby. Used once only. Please collect on your own.",
+      "location": null,
+      "validTill": "23 Sep 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "97509",
       "name": "TENA Institution Pack (Large)",
