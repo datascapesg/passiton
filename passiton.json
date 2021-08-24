@@ -1518,24 +1518,6 @@
       "date": "19 Aug 2021"
     },
     {
-      "id": "97345",
-      "category": "Others",
-      "name": "Gas stove",
-      "description": "Patient is a 91-year-old elderly man who is living with his wife in a one-room HDB rental flat.\n\nThe elderly couple has 4 children. 2 are living in Singapore while 2 are living in India. All of them are unable to provide financially for the elderly couple due to their own financial circumstances. The couple is dependent on ComCare assistance from the Social Service Office for their daily subsistence.\n\nThe couple’s current gas stove is faulty hence they are unable to cook for themselves. Due to their financial difficulty, they are unable to afford a new gas stove. If you are keen to support, please contact Jia Ling at 82479135 via whatsapp for details. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Home Nursing Foundation",
-        "name": "Loo Jia Ling",
-        "email": "jialing.loo@hnf.org.sg",
-        "phone": [
-          "68545068",
-          "68545558"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Aug 2021"
-    },
-    {
       "id": "97316",
       "category": "Others",
       "name": "Adult diapers",
@@ -2118,24 +2100,6 @@
       "date": "10 Aug 2021"
     },
     {
-      "id": "97502",
-      "category": "Learning Aids",
-      "name": "Laptop",
-      "description": "Family of 6 children sharing 1 laptop. They need more laptops for their assignments and HBL (2 children in Pri, 1 in Sec and 1 in ITE). Father sole breadwinner and mother has medical issues.",
-      "specifications": null,
-      "contact": {
-        "org": "Yayasan Mendaki",
-        "name": "Rashmuna Binte Mohd Sumeri",
-        "email": "rashmuna.sumeri@mendaki.org.sg",
-        "phone": [
-          "65512839",
-          "62455710"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "24 Aug 2021"
-    },
-    {
       "id": "97494",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -2244,6 +2208,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "97509",
+      "name": "TENA Institution Pack (Large)",
+      "description": "1 pack containing 10 pieces",
+      "location": "Orchard, Cairnhill, River Valley",
+      "validTill": "23 Sep 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97508",
+      "name": "TENA PROSKIN PANTS - XL",
+      "description": "2 diaper packs. Each pack has 12 diapers.",
+      "location": "Orchard, Cairnhill, River Valley",
+      "validTill": "23 Sep 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "97506",
       "name": "Divan - single bed",
