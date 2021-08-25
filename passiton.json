@@ -868,6 +868,23 @@
       "date": "27 Jul 2021"
     },
     {
+      "id": "97551",
+      "category": "Others",
+      "name": "Luggage",
+      "description": "Client is currently unfit for work and is having financial difficulties. She was recently allocated a HDB rental flat, and she need a big luggage for her moving. In addition, she needs a fan for her new rental flat.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "25 Aug 2021"
+    },
+    {
       "id": "97522",
       "category": "Others",
       "name": "Ensure Milk Power (Vanilla/Strawberry/Chocolate)",
@@ -1726,6 +1743,23 @@
       "date": "10 Aug 2021"
     },
     {
+      "id": "97550",
+      "category": "Electrical Home Appliances",
+      "name": "Standing Fan",
+      "description": "Client is currently unfit for work and is having financial difficulties. She was recently allocated a HDB rental flat, and she need a luggage for her moving. In addition, she needs a standing fan for her new rental flat.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "25 Aug 2021"
+    },
+    {
       "id": "97521",
       "category": "Electrical Home Appliances",
       "name": "Fridge",
@@ -2080,6 +2114,16 @@
   ],
   "offers": [
     {
+      "id": "97552",
+      "name": "Folding bed- slightly used",
+      "description": "I have a slightly used folding bed to pass. Punggol area pref.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "24 Sep 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "97548",
       "name": "Dinosaur slide",
       "description": "Some pen marks, \nBasketball hoop not included because it broke, \nOne of the steps has a little crack (not visible after assembled), \n190cm length, 80cm height",
@@ -2246,26 +2290,6 @@
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "23 Sep 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97509",
-      "name": "TENA Institution Pack (Large)",
-      "description": "1 pack containing 10 pieces",
-      "location": "Orchard, Cairnhill, River Valley",
-      "validTill": "23 Sep 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97508",
-      "name": "TENA PROSKIN PANTS - XL",
-      "description": "2 diaper packs. Each pack has 12 diapers.",
-      "location": "Orchard, Cairnhill, River Valley",
-      "validTill": "23 Sep 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2821,16 +2845,6 @@
     },
     {
       "id": "97218",
-      "name": "hospital bed",
-      "description": "the bed is electrical control and condition is @ 8.5/10. It has just replaced a new control device in May 21. I could send the item to needy directly but to give me time to look for transportation.",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "13 Sep 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97219",
       "name": "hospital bed",
       "description": "the bed is electrical control and condition is @ 8.5/10. It has just replaced a new control device in May 21. I could send the item to needy directly but to give me time to look for transportation.",
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
@@ -3435,16 +3449,6 @@
       "description": "Baby Carrier ring sling type",
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "04 Sep 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97231",
-      "name": "Adult Diapers Ultra (Unisex)",
-      "description": "Unisex (10 pcs)\nWaist/Hip Size: 32” - 50”\nSize L",
-      "location": "Jurong",
-      "validTill": "01 Sep 2021",
       "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
