@@ -1,5 +1,15 @@
 [
   {
+    "id": "97622",
+    "name": "Chair",
+    "description": "Large comfy chair",
+    "location": "Orchard, Cairnhill, River Valley",
+    "validTill": "12 Sep 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "97620",
     "name": "KDK standing fan with remote",
     "description": "KDK standing fan with remote control",
@@ -1466,16 +1476,6 @@
     "location": "Orchard, Cairnhill, River Valley",
     "validTill": "01 Sep 2021",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "96617",
-    "name": "Play mat",
-    "description": "Baby play mat with overhead toys",
-    "location": "Orchard, Cairnhill, River Valley",
-    "validTill": "01 Sep 2021",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
