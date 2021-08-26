@@ -175,6 +175,24 @@
       "date": "26 Jul 2021"
     },
     {
+      "id": "97649",
+      "category": "Infant and Children Items",
+      "name": "Dugro Stage 4 Milk Powder",
+      "description": "Family of 8 with father being the sole breadwinner require support with milk powder as his job has been greatly affected by covid 19 working in the F&B sector with the heightened alert measures. Mother is unable to work due to her her chronic heart condition.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Choong Ying",
+        "email": "choongying@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Aug 2021"
+    },
+    {
       "id": "97644",
       "category": "Infant and Children Items",
       "name": "Merries Diapers XL size",
@@ -206,24 +224,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": false,
-      "date": "26 Aug 2021"
-    },
-    {
-      "id": "97630",
-      "category": "Infant and Children Items",
-      "name": "Similac Milk Powder Stage 3",
-      "description": "Due to COVID-19 and the loss of income, client has accummulated high arrears with HDB as he had been unable to pay for the monthly mortgage. This had caused client and his wife to skip their meals and default on bills to uphold the family finances. Client is the sole breadwinner of 5 children, and is trying to negotiate with HDB for a more manageable monthly repayment and would require temporary diapers and milk for his young children while the application is under processing so that they can meet their daily needs.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Choong Ying",
-        "email": "choongying@amkfsc.org.sg",
-        "phone": [
-          "64546678",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
       "date": "26 Aug 2021"
     },
     {
@@ -2510,6 +2510,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "97648",
+      "name": "Dining table",
+      "description": "Glass top dining table with 4 chairs.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "10 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "97642",
       "name": "Luxury Antique Cabinet",
