@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "97666",
+      "category": "Medical Aids",
+      "name": "Tena XL pulled up pants ( super dry)",
+      "description": "Client is a single mother, with a 9yo daughter, living with her elderly mother. She is currently working part time due to multi-caregiving stressors, and is unable to afford adult diapers for her elderly mother who is wheelchair bound, who also needs support for her activities of daily living.",
+      "specifications": "4 packets",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Janetta Tan",
+        "email": "janettatan@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Aug 2021"
+    },
+    {
       "id": "97647",
       "category": "Medical Aids",
       "name": "Adult Diapers Pulled up pants (XL)",
@@ -34,6 +52,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Aug 2021"
+    },
+    {
+      "id": "97664",
+      "category": "Infant and Children Items",
+      "name": "XL (pull up) and L (tape) diapers",
+      "description": "Father,28, sole breadwinner for his family of 6, is currently financially struggling to purchase diapers for his three younger children aged 3, 1 and 5 months. Children need XL diapers (pull up) and L diapers (taped).",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Janarthanan S/O Lingasparan",
+        "email": "jana.lingasparan@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Aug 2021"
     },
     {
       "id": "97649",
@@ -881,6 +916,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "27 Jul 2021"
+    },
+    {
+      "id": "97667",
+      "category": "Others",
+      "name": "Kotex overnight panties (S-M size)",
+      "description": "Client is a single mother to a 10y/o daughter, and is currently living with her elderly mother. Client's daughter was recently hospitalized in July 2021 and suspected to have blood thinning disorder, which could be a hereditary condition. Hence, this results in her having heavy bleeding during menstruation and thus the number of overnight panties used.\n\nconsumption per month: approx 40 pieces\nrequesting for 2 months supplies.",
+      "specifications": "100 pieces",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Janetta Tan",
+        "email": "janettatan@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Aug 2021"
+    },
+    {
+      "id": "97663",
+      "category": "Others",
+      "name": "Oven",
+      "description": "A teenage mother with mental health condition is in need of an oven as she is unable to get one herself due to financial difficulties.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Joycelyn Wong",
+        "email": "joycelynwong@fycs.org",
+        "phone": [
+          "66901010",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Aug 2021"
     },
     {
       "id": "97661",
@@ -1900,6 +1971,24 @@
       "date": "05 Aug 2021"
     },
     {
+      "id": "97665",
+      "category": "Electrical Home Appliances",
+      "name": "Television (LCD/LED)",
+      "description": "I have a elder client who stays in a rental HDB unit with another elder needing a television so that he can spend some time catching up with news and to pass time. If you can donate a relatively good set, please contact me at michaeltiew@slec.org.sg or 92357508 (whatsApp). Would appreciate if you can also include delivery of item to client's house.",
+      "specifications": null,
+      "contact": {
+        "org": "St Luke's Eldercare Ltd - HQ",
+        "name": "Michael Tiew",
+        "email": "michaeltiew@slec.org.sg",
+        "phone": [
+          "63909365",
+          "63909368"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Aug 2021"
+    },
+    {
       "id": "97658",
       "category": "Electrical Home Appliances",
       "name": "Kitchen Blender/Grinder (Wet and Dry - Spice)",
@@ -2530,6 +2619,16 @@
   ],
   "offers": [
     {
+      "id": "97662",
+      "name": "45l powerpack electric oven",
+      "description": "4&1 cook, grill, toast and bake.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "05 Sep 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "97657",
       "name": "Shower seat",
       "description": "1 shower seat. Suitable for small bathrooms.",
@@ -2724,16 +2823,6 @@
       "name": "Car child seat",
       "description": "Car child seat in good condition",
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "23 Sep 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97542",
-      "name": "Nokia Windows Phone",
-      "description": "Working phone for making calls and surfing web. Due to age of phone, battery may not be the most optimal (requires daily charging).",
-      "location": "Queenstown, Tiong Bahru",
       "validTill": "23 Sep 2021",
       "ageInYears": 4,
       "dimensions": null,
