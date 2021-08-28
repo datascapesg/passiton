@@ -1,5 +1,15 @@
 [
   {
+    "id": "97715",
+    "name": "Bed with Mattress",
+    "description": "Queen-size bed & mattress",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "31 Aug 2021",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "97714",
     "name": "utensils plates bowls",
     "description": "plates bowls cups glasses",
@@ -220,26 +230,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "97642",
-    "name": "Luxury Antique Cabinet",
-    "description": "Luxury antique cabinets",
-    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-    "validTill": "29 Aug 2021",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "97635",
-    "name": "Luxury Antique Cabinet",
-    "description": "Luxury antique cabinets",
-    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-    "validTill": "29 Aug 2021",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "97696",
     "name": "Chair",
     "description": "Large comfy chair",
@@ -456,16 +446,6 @@
     "location": "Jurong",
     "validTill": "21 Sep 2021",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "97430",
-    "name": "Sofa",
-    "description": "sofa 2 seater",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "29 Aug 2021",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -1410,16 +1390,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "96703",
-    "name": "Crutches and leg boot",
-    "description": "Crutches and a aircast boot",
-    "location": "Telok Blangah, Harbourfront",
-    "validTill": "29 Aug 2021",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "96702",
     "name": "Solid wood baby cot bed.",
     "description": "Solid wood baby cot bed (item > 4yrs but in very good condition) with removable drop-side. Can convert from cot to toddler bed. Suitable from birth to 6 yrs.",
@@ -1726,26 +1696,6 @@
     "location": "Geylang, Eunos",
     "validTill": "30 Aug 2021",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "96514",
-    "name": "Ikea Baby High Chair",
-    "description": "Width: \n56 cm\nDepth: \n59 cm\nHeight: \n90 cm\nSeat width: \n25 cm\nSeat depth: \n22 cm\nSeat height: \n54 cm\nMax. load: \n15 kg",
-    "location": "Seletar",
-    "validTill": "29 Aug 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "96501",
-    "name": "Compressor Nebulizer",
-    "description": "Apex Mini Plus Compressor Nebulizer\n\nUsed a few times for my kid when she was asthmatic. \n\nThe kit comes with u new respirator tube/mask for children (still in packet), instruction manual and portable bag.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "29 Aug 2021",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
