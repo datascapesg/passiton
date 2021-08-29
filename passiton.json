@@ -106,23 +106,6 @@
       "date": "26 Aug 2021"
     },
     {
-      "id": "97567",
-      "category": "Others",
-      "name": "Sewing machine",
-      "description": "Family has 6 school-going children staying in a rental flat. Mother is looking for a sewing machine as hers has spoilt so that she can mend clothes at home to save cost. Husband is working full-time as an ambulance driver but is unable to afford a new/secondhand sewing machine.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Lim Yi Xi",
-        "email": "yixi@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Aug 2021"
-    },
-    {
       "id": "97522",
       "category": "Others",
       "name": "Ensure Milk Power (Vanilla/Strawberry/Chocolate)",
@@ -592,24 +575,6 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "01 Aug 2021"
-    },
-    {
-      "id": "96451",
-      "category": "Others",
-      "name": "Nature One Premium Milk Powder (1-3 Years Old) x 3 small tins",
-      "description": "A young couple with children requires assistance to adjust after both their release from incarceration. They are in the midst of stabilizing in gainful employment. They need financial support for milk and diaper of their child.\nDonation will help them in reducing their financial load.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Champions Way",
-        "name": "Joycelyn Wong",
-        "email": "joycelynwong@fycs.org",
-        "phone": [
-          "66901010",
-          "66901000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Jul 2021"
     },
     {
       "id": "97677",
@@ -1369,24 +1334,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "02 Aug 2021"
-    },
-    {
-      "id": "96485",
-      "category": "Infant and Children Items",
-      "name": "S26 Milk Powder Stage 3",
-      "description": "Client is in her 60s and caregiver to her 80+ year old mother and 3 grandchildren (5,2,1). The children's parents are not involved in the care of the grandparents and reside at a different address. Thus, client who is unemployed struggles financially to bring up the children.\n\nClient receives milk powder rations for 1 year old toddler but milk powder is not suitable for him and causes him to have diarrhoea. Thus, client hopes to get the suitable milk powder (S26 brand Stage 3) for her youngest grandchild.",
-      "specifications": null,
-      "contact": {
-        "org": "NTUC Health Cluster Support - Taman Jurong",
-        "name": "Xavierlyn Tan",
-        "email": "xavierlyn.t@ntuchealth.sg",
-        "phone": [
-          "94552344",
-          "62674197"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "29 Jul 2021"
     },
     {
       "id": "97639",
@@ -2317,6 +2264,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "97745",
+      "name": "Castle House (Toy)",
+      "description": "Castle toy, which can open up to show the inside of the building.\n\n(I think I still have some miscellaneous items for the inside of the castle, which I will include too).",
+      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
+      "validTill": "28 Sep 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97744",
+      "name": "bed frame",
+      "description": "sea horse single bed frame",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "28 Sep 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97743",
+      "name": "Push Cart Toys",
+      "description": "Children push cart that little girls will love putting their dolls in and pretend to be pushing a pram.",
+      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
+      "validTill": "28 Sep 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "97742",
       "name": "Guzheng",
