@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "97882",
+      "category": "Medical Aids",
+      "name": "Abominal Binder",
+      "description": "Client is a mother of 7 (F/15, F/9, F/8, M/7, F/5, F3, M/newborn). \nShe just gave birth on 30th August 2021. Client and her husband currently live in a 1-room-1-hall with F/9, M/7, F/3 and M/newborn. \nThe other 3 children are presently in the care of relatives and foster parents. \nFSC is currently in discussion on the reunification plans for all the children, projected to be by end 2021. \nClient has been unable to work due to gestational hypertension, which requires long periods of rest, and her husband is currently unemployed as he is taking care of the children and accompanying her for gynae visits. \nAs client has just given birth, she requires an abdominal binder to augment the recovery process after her cesarean section (c-section).",
+      "specifications": "3 Panels Dale Abdominal Binder, Measurement for Female Hip size: Stretches 90cm - 117cm (GREEN), M(411)",
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Sep 2021"
+    },
+    {
       "id": "97797",
       "category": "Medical Aids",
       "name": "Adult Diapers",
@@ -630,6 +647,24 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "01 Aug 2021"
+    },
+    {
+      "id": "97878",
+      "category": "Infant and Children Items",
+      "name": "Newborn Baby Milk Formula",
+      "description": "A young couple who are first-time parents welcomed the arrival of their baby in late August 2021, a month earlier than expected. They are currently facing some financial difficulties and would benefit from donations of Dumex Dulac Stage 1 Infant Newborn Baby Milk Formula.",
+      "specifications": null,
+      "contact": {
+        "org": "Kampong Kapor Community Services",
+        "name": "Liao Li Wen",
+        "email": "liaoliwen@kkcs.org.sg",
+        "phone": [
+          "64224545",
+          "62997662"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "01 Sep 2021"
     },
     {
       "id": "97877",
@@ -1532,6 +1567,23 @@
       "date": "04 Aug 2021"
     },
     {
+      "id": "97879",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave",
+      "description": "Family with 6 school-going children staying in a 2-rm rental flat requires a microwave as they do not have one at home. Father is working full-time but does not earn enough to be able to afford a microwave. Appreciate if donor can deliver.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Lim Yi Xi",
+        "email": "yixi@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Sep 2021"
+    },
+    {
       "id": "97874",
       "category": "Electrical Home Appliances",
       "name": "Mini Fridge",
@@ -2106,6 +2158,40 @@
       "date": "16 Aug 2021"
     },
     {
+      "id": "97884",
+      "category": "Home Furnishing",
+      "name": "King-Sized Storage Bed",
+      "description": "Elderly grandmother and her school-going son requires a king-sized storage bed frame. She is medically unfit for work while her son is schooling full-time. As the flat is small in size (only 1 bedroom), a storage bed will help save space much needed as client has some mobility issues and needs ample walking space around the house. Appreciate if donor can deliver.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Lim Yi Xi",
+        "email": "yixi@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Sep 2021"
+    },
+    {
+      "id": "97883",
+      "category": "Home Furnishing",
+      "name": "Wardrobe For A Family Of 7",
+      "description": "Client has 5 children, and is the main caregiver for her children. Her husband is the only breadwinner of the family. She experiences high stress from caregiving and limited financial resources.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Sep 2021"
+    },
+    {
       "id": "97866",
       "category": "Home Furnishing",
       "name": "Computer chair",
@@ -2383,6 +2469,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "97881",
+      "name": "Electric recliner",
+      "description": "Very new and in very good condition",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "05 Sep 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97880",
+      "name": "Electric recliner",
+      "description": "Very new and in very good condition",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "05 Sep 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "97875",
       "name": "avent steam steriliser",
