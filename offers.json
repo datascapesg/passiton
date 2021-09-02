@@ -1,5 +1,15 @@
 [
   {
+    "id": "97914",
+    "name": "Beige sofa",
+    "description": "Beige 3-seater sofa",
+    "location": "Raffles Place, Cecil, Marina, People's Park",
+    "validTill": "30 Sep 2021",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "97910",
     "name": "King size mattress",
     "description": "Good quality king size mattress",
@@ -176,6 +186,16 @@
     "location": "Kranji, Woodgrove",
     "validTill": "07 Sep 2021",
     "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "97782",
+    "name": "Single Size Bed",
+    "description": "Standard Single size bed with king koil matteress",
+    "location": "Jurong",
+    "validTill": "15 Sep 2021",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
