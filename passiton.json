@@ -71,6 +71,23 @@
       "date": "17 Aug 2021"
     },
     {
+      "id": "97957",
+      "category": "Infant and Children Items",
+      "name": "Diapers & Milk Powder",
+      "description": "Family has 5 children and father is the only sole breadwinner of the family. Mother is the primary caregiver of the children and has to provide monitoring for her second son with ADHD and Dyslexia. Family requires support for children's needs such as diapers and milk powder, which can be a stressor on the family's finances.",
+      "specifications": "XL",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Aw Chin Bee",
+        "email": "awchinbee@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "02 Sep 2021"
+    },
+    {
       "id": "97954",
       "category": "Infant and Children Items",
       "name": "Milk Powder & Diapers",
@@ -1793,23 +1810,6 @@
       "date": "31 Aug 2021"
     },
     {
-      "id": "97824",
-      "category": "Electrical Home Appliances",
-      "name": "3 Standing Fans",
-      "description": "Client is currently living with her newly married husband and her 6 children from her previous marriage. Husband is the sole income earner and is earning a low income as a driver. Client has to sell her home by Sept and move by Oct as part of the divorce agreements. Due to the low income in the family, family is unable to afford many household furniture to upkeep the family needs. Hence, the need to ask for donations of these various items",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Covenant Family Service Centre - Hougang",
-        "name": "Reina Chantelle Reyes",
-        "email": "reinachantelle@mws.sg",
-        "phone": [
-          "62828558"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "31 Aug 2021"
-    },
-    {
       "id": "97811",
       "category": "Electrical Home Appliances",
       "name": "Television with Bracket (Wall-mounted)",
@@ -3272,6 +3272,16 @@
       "location": "Little India",
       "validTill": "26 Sep 2021",
       "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97958",
+      "name": "PlanToys baby walker with wooden blocks",
+      "description": "Used, some scratches, no missing pieces",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "25 Sep 2021",
+      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
