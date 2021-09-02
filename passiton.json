@@ -488,23 +488,6 @@
       "date": "19 Aug 2021"
     },
     {
-      "id": "97321",
-      "category": "Infant and Children Items",
-      "name": "Drypantz Mega Diapers",
-      "description": "Family has 3 young children, living in a rental flat. The household experienced a sudden reduction in income this month - the father has not been receiving work slots from his employer the past 3 weeks and the mother's new home-based curry puff business has no sales for the past 2 weeks. With no savings, the family is looking for immediate help for donation of diapers and milk powder (in a separate post). The donation will very much help to tide the family through this period. Thank you.",
-      "specifications": "48s, L, 9-14kg",
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Jasmine Leong",
-        "email": "jasmine@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Aug 2021"
-    },
-    {
       "id": "97280",
       "category": "Infant and Children Items",
       "name": "Milk and Diapers",
@@ -829,6 +812,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "02 Aug 2021"
+    },
+    {
+      "id": "97926",
+      "category": "Others",
+      "name": "Food Ration",
+      "description": "Family with no income and 4 children require Food ration to provide Basic needs for children.\nHalal\n\n1. Jasmine Rice - 10Kg\n2. Cooking Oil - 2kg\n3. 1 big tray of Eggs\n4. Biscuits for children\n5. Maggi Curry and Chicken Instant noodle\n6. Bread\n7. Frozen Chicken wings\n8. Sardine Can - 6\n9. Nutella / Peanut Butter\n10. Potato\n11.Tissue\n12.Toothpaste\n13.Cloth Detergent \n14.Bath Shower\n15.Shampoo\n17. Mushroom Can\n18. Carrot\n19. Onion\n20. Salt\n21. Sugar\n22. Sweet Kichap\n23. Pepper\n24. Hotdogs\n25. Tomatoes\n26. Nuggets\n27. Vegetables",
+      "specifications": "Halal Food Ration",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "R.Sangeetha Ivy",
+        "email": "ivysangeetha@amkfsc.org.sg",
+        "phone": [
+          "63128100ext206",
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Sep 2021"
     },
     {
       "id": "97876",
@@ -1651,23 +1652,6 @@
       "date": "26 Aug 2021"
     },
     {
-      "id": "97607",
-      "category": "Electrical Home Appliances",
-      "name": "Microwave",
-      "description": "Client is a divorced 73 year old male, living alone. He has no family support in Singapore as his children are all in India and his ex-wife had passed away. Client has several health conditions, mild cognitive impairment and is also due for a cornea transplant surgery in September.His current electrical appliances in his house are no longer functioning. Please contact Nurul via whatsapp at 98598767 for further liaison for delivery.",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (East)",
-        "name": "Nur Afrina",
-        "email": "fsceast@ppis.sg",
-        "phone": [
-          "69503503"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Aug 2021"
-    },
-    {
       "id": "97600",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -2414,6 +2398,16 @@
   ],
   "offers": [
     {
+      "id": "97925",
+      "name": "Hospital Bed",
+      "description": "In good functioning condition with remote inclination.  The only flaw is the wheel tyres cracked and worn out.  Overall good and clean condition.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "02 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "97923",
       "name": "cake and small present",
       "description": "sponsoring a cake and small present for a below 12 years old child whose birthday is in sept.\n\nplease whatsapp or sms",
@@ -2444,42 +2438,12 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "97915",
-      "name": "Brown rug",
-      "description": "Brown \"hair\" rug/carpet",
-      "location": "Raffles Place, Cecil, Marina, People's Park",
-      "validTill": "02 Oct 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "97914",
       "name": "Beige sofa",
       "description": "Beige 3-seater sofa",
       "location": "Raffles Place, Cecil, Marina, People's Park",
       "validTill": "30 Sep 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97910",
-      "name": "King size mattress",
-      "description": "Good quality king size mattress",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "07 Sep 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97908",
-      "name": "Sofa Bed",
-      "description": "Hardly used sofa bed as it was meant for overnight guests. When lay flat can it will be a double bed. Cushion cover will provided Lay flat measurements : 202x140x42cm (L x W x H)",
-      "location": "Yishun, Sembawang",
-      "validTill": "01 Oct 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
