@@ -980,24 +980,6 @@
       "date": "01 Sep 2021"
     },
     {
-      "id": "97803",
-      "category": "Infant and Children Items",
-      "name": "Baby Wipes",
-      "description": "Family of 5 living in a 1-room rental flat. Father was previously the sole breadwinner of the family. However, the COVID-19 situation had significantly impacted father's job. Father is currently sourcing for a job. The family is currently relying on assistance and in-kind donations from social service agencies to provide for their children's basic necessities.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue - Early Intervention Centre For Children",
-        "name": "Joanna Tay",
-        "email": "joannatay@fycs.org",
-        "phone": [
-          "67719600",
-          "65656260"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "31 Aug 2021"
-    },
-    {
       "id": "97755",
       "category": "Infant and Children Items",
       "name": "Drypers Drypants L size and Dugro 3 milk powder",
@@ -2502,6 +2484,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "98010",
+      "name": "Queen Size Bed with Mattress",
+      "description": "A queen size divan with mattress which is still in good condition.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "19 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "98009",
       "name": "Home furnishing",
