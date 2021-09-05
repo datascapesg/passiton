@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "98034",
+      "category": "Medical Aids",
+      "name": "Blood pressure monitor",
+      "description": "For family of 3, father who has diagnosis of high blood pressure. This would allow him to monitor his condition regular and be supported by the healthcare system.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Cheong Ming Fang",
+        "email": "mingfang@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Sep 2021"
+    },
+    {
       "id": "97971",
       "category": "Medical Aids",
       "name": "Adult Diapers Ultra - Size M (Stick-on)",
@@ -2291,6 +2308,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "98035",
+      "name": "Grey fabric sofa bed",
+      "description": "Lightly used. No stains.",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "05 Oct 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "98033",
       "name": "King sized solid wood bed frame and mattress",
