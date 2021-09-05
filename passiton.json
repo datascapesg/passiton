@@ -2241,6 +2241,16 @@
   ],
   "offers": [
     {
+      "id": "98041",
+      "name": "Study table",
+      "description": "Multi purpose study table for donation. Still in good condition.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "06 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "98039",
       "name": "Mattress",
       "description": "I have a queen sized mattress to give away. It is still in good condition. Please collect it by 10 sep 2021. If you need more time to collect it, please let me know. Thank you",
@@ -2426,16 +2436,6 @@
       "description": "A queen size divan with mattress which is still in good condition.",
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "19 Sep 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98009",
-      "name": "Home furnishing",
-      "description": "Bookshelves ( 2 units, 120Lx200Hx300D, 90x200x300mm) , bedroom set for display table 130Lx860Hx450D) + 2x side cupboards , sliding cabinet(160Lx120Hx450D)",
-      "location": "Jurong",
-      "validTill": "06 Sep 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -3131,26 +3131,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "97916",
-      "name": "3 seater sofa",
-      "description": "3 seater faux leather sofa.\n\nHas a small hole but does not affect function.",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-      "validTill": "06 Sep 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97917",
-      "name": "3 seater sofa",
-      "description": "3 seater faux leather sofa.\n\nHas a small hole but does not affect function.",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-      "validTill": "06 Sep 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "97413",
       "name": "Dresser with mirror",
       "description": "Simple dresser, usable condition. Some tarnishing or fading of color",
@@ -3351,16 +3331,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "97035",
-      "name": "Black Sofa",
-      "description": "5-year-old Black leather sofa, still in relatively good condition but some peeling of the leather on edges is visible.",
-      "location": "Geylang, Eunos",
-      "validTill": "06 Sep 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "97020",
       "name": "Computer chair",
       "description": "Computer chairs are still in acceptable condition, not needed as I've stopped working from home",
@@ -3457,66 +3427,6 @@
       "location": null,
       "validTill": "07 Sep 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96882",
-      "name": "Hangers (more than 50pcs)",
-      "description": "Rarely use. In good condition.",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "06 Sep 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96881",
-      "name": "Thyroxine medication",
-      "description": "Thyroxine medication - 2 months supply",
-      "location": null,
-      "validTill": "06 Sep 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96880",
-      "name": "Baraclude 0.5mg (Entecavir)",
-      "description": "Liver cancer medication - 1 month supply",
-      "location": "Yishun, Sembawang",
-      "validTill": "06 Sep 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96872",
-      "name": "Soft Toys",
-      "description": "I have many different soft toys to bless children whom wants it. It is relatively new and clean. I will put into washing machine to wash and disinfect from time to time. The photos are just some samples.",
-      "location": "Yishun, Sembawang",
-      "validTill": "06 Sep 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96870",
-      "name": "LED Clamp Spotlight",
-      "description": "IKEA LED clamp spotlight, black",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "06 Sep 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "96869",
-      "name": "Lancet",
-      "description": "23G, 1.8mm",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "06 Sep 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     }
