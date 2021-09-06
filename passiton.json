@@ -176,6 +176,24 @@
       "date": "06 Aug 2021"
     },
     {
+      "id": "98057",
+      "category": "Infant and Children Items",
+      "name": "Baby items",
+      "description": "For a mother caring for her baby needs some items to ease her responsibilities - baby high chair, diaper/milk bag, walker, changing bed and safety gate (about 3).",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
+        "name": "Muhammad Farhan",
+        "email": "muhammadfarhan@amkfsc.org.sg",
+        "phone": [
+          "64511252",
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Sep 2021"
+    },
+    {
       "id": "97981",
       "category": "Infant and Children Items",
       "name": "Wet wipes and Diapers",
@@ -1376,23 +1394,6 @@
       "date": "02 Sep 2021"
     },
     {
-      "id": "97902",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Client is an elderly gentleman that has just recently been employed. His refrigerator has spoilt and cannot be repaired. Client is unable to afford a new refrigerator.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Janarthanan S/O Lingasparan",
-        "email": "jana.lingasparan@montfortcare.org.sg",
-        "phone": [
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Sep 2021"
-    },
-    {
       "id": "97889",
       "category": "Electrical Home Appliances",
       "name": "top load washing machine",
@@ -1493,23 +1494,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": false,
-      "date": "26 Aug 2021"
-    },
-    {
-      "id": "97600",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Client is an elderly gentleman that has just recently been employed. His refrigerator has spoilt and cannot be repaired. Client is unable to afford a new refrigerator.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Simranjit Kaur",
-        "email": "simranjit.kaur@montfortcare.org.sg",
-        "phone": [
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
       "date": "26 Aug 2021"
     },
     {
@@ -2226,6 +2210,16 @@
   ],
   "offers": [
     {
+      "id": "98056",
+      "name": "Malm Queen Size Bed Frame w pull out storage",
+      "description": "Original price at $479. Ash grey oak color Malm Ikea Queen Size Bed Frame (Without Mattress) complete with two pull-out storage below. In very good condition, cannot find obvious defects nor stain.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "30 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "98043",
       "name": "Sofa chair",
       "description": "Sofa chair for donation. Still usable despite in slightly wear condition.",
@@ -2281,16 +2275,6 @@
       "description": "Almost new. Please collect by yourself. \nAvailable time: weekends or 4-5pm on Mon, Wed, Thurs, Friday",
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
       "validTill": "20 Sep 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98031",
-      "name": "Baby High chair",
-      "description": "360 rotatable. suitable from 6 months to 3 years old. Brand:Joie mimzy 360\n\nWell used, in good condition. Full set. The only item running old is the seat cushion, which is easily replaceable.",
-      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
-      "validTill": "14 Sep 2021",
       "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -2807,16 +2791,6 @@
     },
     {
       "id": "97710",
-      "name": "Second hand Joie Playpen",
-      "description": "Second Joie playpen in good condition, has bassinet and mid-tier level, suitable for infants to toddlers. Brand-new mattress board and mattress avail with donation",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "27 Sep 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97778",
       "name": "Second hand Joie Playpen",
       "description": "Second Joie playpen in good condition, has bassinet and mid-tier level, suitable for infants to toddlers. Brand-new mattress board and mattress avail with donation",
       "location": "Balestier, Toa Payoh, Serangoon",
