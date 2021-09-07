@@ -834,6 +834,41 @@
       "date": "11 Aug 2021"
     },
     {
+      "id": "98106",
+      "category": "Others",
+      "name": "Handphone",
+      "description": "Client has recently lost her mobile phone and requires a phone to communicate with the hospital. The client has regular appointments at the hospital/polyclinics for her physical infirmity and asthmatic condition. She is unable to work due to her health condition and is facing financial difficulty.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Joycelyn Wong",
+        "email": "joycelynwong@fycs.org",
+        "phone": [
+          "66901010",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Sep 2021"
+    },
+    {
+      "id": "98105",
+      "category": "Others",
+      "name": "A Stable Ladder with hand grips",
+      "description": "The family is currently experiencing spider infestation at home and requires a ladder to reach areas that they experience difficulty cleaning. \nAs our client is always having giddy spells, hence she will need a ladder that can let her hold on while she is doing the cleaning.\nThe family has insufficient income to sustain for basic needs, hence they do not have the additional money to resolve this issue with professional services.",
+      "specifications": "A Stable Ladder with handgrips",
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Sep 2021"
+    },
+    {
       "id": "98102",
       "category": "Others",
       "name": "Printer with scanner",
@@ -1395,6 +1430,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "11 Aug 2021"
+    },
+    {
+      "id": "98107",
+      "category": "Electrical Home Appliances",
+      "name": "Rice Cooker For Family of 5",
+      "description": "Client is the caregiver of 3 young children. The family is on financial assistance as her husband is serving his sentence. The family resides in a rental flat, whereby finances are only sufficient for day-to-day necessities.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Sep 2021"
+    },
+    {
+      "id": "98104",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine 7.5kg to 8kg",
+      "description": "Our client is a single mother raising a toddler by herself.\nShe experiences stressors from the caregiving needs of her mother and daughter and has some financial challenges due to accumulated debts.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Sep 2021"
     },
     {
       "id": "98099",
@@ -2530,16 +2599,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "98042",
-      "name": "Book shelf",
-      "description": "Multi-purpose book shelf for donation. Still in good condition.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "06 Oct 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "98041",
       "name": "Study table",
       "description": "Multi purpose study table for donation. Still in good condition.",
@@ -2576,16 +2635,6 @@
       "location": null,
       "validTill": "20 Sep 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98032",
-      "name": "Eliptical trainer",
-      "description": "Almost new. Please collect by yourself. \nAvailable time: weekends or 4-5pm on Mon, Wed, Thurs, Friday",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "20 Sep 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2706,6 +2755,16 @@
       "location": "Tampines, Pasir Ris",
       "validTill": "01 Oct 2021",
       "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "98103",
+      "name": "Aibi bicycle exercise",
+      "description": "hardly used",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "03 Oct 2021",
+      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3276,16 +3335,6 @@
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "21 Sep 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97420",
-      "name": "USED COMPUTER DESK CHAIR",
-      "description": "USED COMPUTER CHAIR",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "21 Sep 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },

@@ -90,16 +90,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "98042",
-    "name": "Book shelf",
-    "description": "Multi-purpose book shelf for donation. Still in good condition.",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "06 Oct 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "98041",
     "name": "Study table",
     "description": "Multi purpose study table for donation. Still in good condition.",
@@ -136,16 +126,6 @@
     "location": null,
     "validTill": "20 Sep 2021",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "98032",
-    "name": "Eliptical trainer",
-    "description": "Almost new. Please collect by yourself. \nAvailable time: weekends or 4-5pm on Mon, Wed, Thurs, Friday",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "20 Sep 2021",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -266,6 +246,16 @@
     "location": "Tampines, Pasir Ris",
     "validTill": "01 Oct 2021",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "98103",
+    "name": "Aibi bicycle exercise",
+    "description": "hardly used",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "03 Oct 2021",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -836,16 +826,6 @@
     "location": "Balestier, Toa Payoh, Serangoon",
     "validTill": "21 Sep 2021",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "97420",
-    "name": "USED COMPUTER DESK CHAIR",
-    "description": "USED COMPUTER CHAIR",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "21 Sep 2021",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
