@@ -1415,6 +1415,58 @@
       "date": "11 Aug 2021"
     },
     {
+      "id": "98129",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Single mother recently moving in to a rental flat with two toddlers. Family in need of a washing machine.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Nur Nadhirah Binte Abu Khalid",
+        "email": "nurnadhirah.abukhalid@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Sep 2021"
+    },
+    {
+      "id": "98128",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Single mother recently moving in to a rental flat with two toddlers. Family in need of a refrigerator. Preferably from a Muslim home if preloved.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Nur Nadhirah Binte Abu Khalid",
+        "email": "nurnadhirah.abukhalid@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Sep 2021"
+    },
+    {
+      "id": "98126",
+      "category": "Electrical Home Appliances",
+      "name": "Television",
+      "description": "Please WhatsApp Alexia during office hours @ 8718 8441 or email to alexialim@thkmc.org.sg. Client is a single elderly, retired man living with 2 other landlords with minimum contact. His TV has spoilt many months ago and will appreciate receiving a TV for his leisure. He does not have any income and has high medical bills hence is unable to buy a new one on his own. Please contact Alexia for more info. Thank you.",
+      "specifications": "NA",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Navarraj",
+        "email": "navarraj@thkmc.org.sg",
+        "phone": [
+          "64961278",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Sep 2021"
+    },
+    {
       "id": "98108",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -2526,6 +2578,16 @@
   ],
   "offers": [
     {
+      "id": "98127",
+      "name": "Turquoise Sofa Bed",
+      "description": "2 independent sofa seat that can be put together to form a Single sofa bed",
+      "location": "Geylang, Eunos",
+      "validTill": "30 Sep 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "98124",
       "name": "Juicer",
       "description": "Rarely used",
@@ -2662,6 +2724,16 @@
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
       "validTill": "10 Sep 2021",
       "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "98038",
+      "name": "Cooler box",
+      "description": "I have one cooler box collect yourself. \n\nDimension: H:26cm L:36 W;22cm",
+      "location": "Little India",
+      "validTill": "30 Sep 2021",
+      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2862,6 +2934,16 @@
       "location": "Watten Estate, Novena, Thomson",
       "validTill": "13 Sep 2021",
       "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97913",
+      "name": "Portable mini sewing machine",
+      "description": "Self pick up power wire is missing have to replace yourself.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "30 Sep 2021",
+      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
