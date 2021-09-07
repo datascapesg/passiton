@@ -1,24 +1,6 @@
 {
   "requests": [
     {
-      "id": "98122",
-      "category": "Mobility Aids",
-      "name": "Walking Stick",
-      "description": "Client, in his late 80s, with newly diagnosed dementia has difficulties with mobility. He furniture cruises at home and requires mobility aid while ambulating in the community.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - GoodLife! @ Bedok",
-        "name": "Lim Jia Min",
-        "email": "jiamin.lim@montfortcare.org.sg",
-        "phone": [
-          "89074013",
-          "63123988"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Sep 2021"
-    },
-    {
       "id": "91343",
       "category": "Mobility Aids",
       "name": "Motorised scooter",
@@ -229,6 +211,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Aug 2021"
+    },
+    {
+      "id": "98141",
+      "category": "Infant and Children Items",
+      "name": "Huggies pull-up pants",
+      "description": "Single mother has lost her part-time job because her company's business was impacted by Covid-19. She has difficulties finding another flexi-hour job as her 2-year daughter needs her caregiving. Due to low savings, she struggles to buy her diapers (Huggies, XL-size, pull-up pants, ). She needs 3 pkts per month. She tried other cheaper brands but they are not suitable for the child. She needs help.",
+      "specifications": null,
+      "contact": {
+        "org": "Lakeside Family Centre - Jurong West",
+        "name": "Magdalene Ng",
+        "email": "magdalene-ng@lakeside.org.sg",
+        "phone": [
+          "65671908ext436",
+          "65671908"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Sep 2021"
     },
     {
       "id": "98140",
@@ -833,6 +833,23 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "11 Aug 2021"
+    },
+    {
+      "id": "98145",
+      "category": "Others",
+      "name": "Preloved Working Handphone",
+      "description": "This is a family of 4 with chronic medical conditions for all family members even the children. As such, the family often experiences tight finances and they do not have money to replace their handphones once its spoilt. Client would like a donor to donate a preloved working Android phone and its charger for her to use for contact as her phone is spoilt, and having a phone for contact purposes is very important for her. It would be very helpful if client could get even a preloved phone. Thank you so much for helping the family!",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Punggol",
+        "name": "Anabelle Lim",
+        "email": "anabellelim@amkfsc.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Sep 2021"
     },
     {
       "id": "98137",
@@ -1450,60 +1467,9 @@
       "date": "11 Aug 2021"
     },
     {
-      "id": "98134",
-      "category": "Electrical Home Appliances",
-      "name": "Electric kettle",
-      "description": "Single mother with 3 children 16yo, 14yo & 10yo. She was divorced last year and has to move out of the matrimonial flat. The ex-husband has granted her temporary stay till the rental unit is available. She has collected her keys to the rental unit and needs assistance to secure the essential items.\n\nShe has been working part-time as call centre agent on a contract basis. She is not able to work full-time due to caregiving needs and also existing medical condition. The client has limited funds to purchase the items to move to stay in the rental unit.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Woodlands",
-        "name": "Clarissa Wong",
-        "email": "clarissawong@carecorner.org.sg",
-        "phone": [
-          "63622481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "07 Sep 2021"
-    },
-    {
       "id": "98133",
       "category": "Electrical Home Appliances",
       "name": "Washing machine",
-      "description": "Single mother with 3 children 16yo, 14yo & 10yo. She was divorced last year and has to move out of the matrimonial flat. The ex-husband has granted her temporary stay till the rental unit is available. She has collected her keys to the rental unit and needs assistance to secure the essential items.\n\nShe has been working part-time as call centre agent on a contract basis. She is not able to work full-time due to caregiving needs and also existing medical condition. The client has limited funds to purchase the items to move to stay in the rental unit.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Woodlands",
-        "name": "Clarissa Wong",
-        "email": "clarissawong@carecorner.org.sg",
-        "phone": [
-          "63622481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "07 Sep 2021"
-    },
-    {
-      "id": "98132",
-      "category": "Electrical Home Appliances",
-      "name": "Rice cooker",
-      "description": "Single mother with 3 children 16yo, 14yo & 10yo. She was divorced last year and has to move out of the matrimonial flat. The ex-husband has granted her temporary stay till the rental unit is available. She has collected her keys to the rental unit and needs assistance to secure the essential items.\n\nShe has been working part-time as call centre agent on a contract basis. She is not able to work full-time due to caregiving needs and also existing medical condition. The client has limited funds to purchase the items to move to stay in the rental unit.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Woodlands",
-        "name": "Clarissa Wong",
-        "email": "clarissawong@carecorner.org.sg",
-        "phone": [
-          "63622481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "07 Sep 2021"
-    },
-    {
-      "id": "98131",
-      "category": "Electrical Home Appliances",
-      "name": "Standing fan",
       "description": "Single mother with 3 children 16yo, 14yo & 10yo. She was divorced last year and has to move out of the matrimonial flat. The ex-husband has granted her temporary stay till the rental unit is available. She has collected her keys to the rental unit and needs assistance to secure the essential items.\n\nShe has been working part-time as call centre agent on a contract basis. She is not able to work full-time due to caregiving needs and also existing medical condition. The client has limited funds to purchase the items to move to stay in the rental unit.",
       "specifications": null,
       "contact": {
@@ -1532,23 +1498,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": false,
-      "date": "07 Sep 2021"
-    },
-    {
-      "id": "98129",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Single mother recently moving in to a rental flat with two toddlers. Family in need of a washing machine.",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Nur Nadhirah Binte Abu Khalid",
-        "email": "nurnadhirah.abukhalid@ppis.sg",
-        "phone": [
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
       "date": "07 Sep 2021"
     },
     {
@@ -2680,6 +2629,26 @@
   ],
   "offers": [
     {
+      "id": "98144",
+      "name": "SIngle mattress (188cm)",
+      "description": "Single mattress",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "07 Oct 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "98143",
+      "name": "Office chair",
+      "description": "in good working condition except fabric seat needs some cleaning. Pls collect. Will throw if need to pay collection fee. Email contact preferred",
+      "location": "Telok Blangah, Harbourfront",
+      "validTill": "12 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "98139",
       "name": "Child safety gate",
       "description": "Sg-199 child safety gate. Brand new. Need mounting on the wall though.",
@@ -2920,16 +2889,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "98012",
-      "name": "Bion Light pushchair",
-      "description": "Bion Light pushchair, all parts in good working conditions. There's a small break-off on the right armrest which has been secured down with a cable tie.",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "04 Oct 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "98010",
       "name": "Queen Size Bed with Mattress",
       "description": "A queen size divan with mattress which is still in good condition.",
@@ -2956,16 +2915,6 @@
       "location": "Tampines, Pasir Ris",
       "validTill": "01 Oct 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98103",
-      "name": "Aibi bicycle exercise",
-      "description": "hardly used",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "03 Oct 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3360,16 +3309,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "98051",
-      "name": "Fridge",
-      "description": "388L. Clean and working very well.",
-      "location": "Raffles Place, Cecil, Marina, People's Park",
-      "validTill": "24 Sep 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "97594",
       "name": "children bed frame",
       "description": "children bed frame, bought in 2019, barely use, looks new.",
@@ -3606,6 +3545,16 @@
       "location": null,
       "validTill": "18 Sep 2021",
       "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "98142",
+      "name": "Pennsylvania House cupboard / wardrobe",
+      "description": "pretty sturdy wood. has a bar at the top for hanging clothes. cloth covering wardrobe has discolored due to sunlight and washing but does not affect the function. cloth just washed a month ago so should not be too dusty\n\nhope this item can be blessed and delivered to suitable family before 31 aug",
+      "location": "Yishun, Sembawang",
+      "validTill": "15 Sep 2021",
+      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
