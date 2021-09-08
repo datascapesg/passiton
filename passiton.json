@@ -213,6 +213,42 @@
       "date": "17 Aug 2021"
     },
     {
+      "id": "98189",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder",
+      "description": "(KR) Single mother works as a part time grab delivery rider and lives with 1 year old son in interim shelter.",
+      "specifications": "Friso Stage 3",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Navarraj",
+        "email": "navarraj@thkmc.org.sg",
+        "phone": [
+          "64961278",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Sep 2021"
+    },
+    {
+      "id": "98188",
+      "category": "Infant and Children Items",
+      "name": "Drypers (Size M)",
+      "description": "(KR) Single mother works as a part time grab delivery rider and lives with 1 year old son in interim shelter.",
+      "specifications": "Drypers (Size M)",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Navarraj",
+        "email": "navarraj@thkmc.org.sg",
+        "phone": [
+          "64961278",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Sep 2021"
+    },
+    {
       "id": "98175",
       "category": "Infant and Children Items",
       "name": "Diapers needed",
@@ -907,6 +943,24 @@
       "date": "11 Aug 2021"
     },
     {
+      "id": "98186",
+      "category": "Others",
+      "name": "technician/repair services for TV's screen display issue",
+      "description": "Client (20/F) and sister (14/F) are school going teenagers who is requesting for free technician/repair services for their TV's screen display issue as they are not able to watch TV at home as it has been spoil for a while and was nearly scammed of $800 when they tried to look for repair services online themselves. The family has financial constraints after the cthe family's sole breadwinner (father) passed on and mother is currently hospitalized and has not been working due to medical reasons. Would appreciate kind technician/repair services to help them fix their TV.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Joycelyn Wong",
+        "email": "joycelynwong@fycs.org",
+        "phone": [
+          "66901010",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Sep 2021"
+    },
+    {
       "id": "98184",
       "category": "Others",
       "name": "Ebike Battery",
@@ -1024,23 +1078,6 @@
         "email": "amychua@mws.sg",
         "phone": [
           "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Sep 2021"
-    },
-    {
-      "id": "98102",
-      "category": "Others",
-      "name": "Printer with scanner",
-      "description": "Client is requesting for a printer and scanner. As the family's financial situation is tight, they are unable to afford a printer and scanner. Since they would often need to print out documents for application of assistance or other school-related matters, it is difficult when they do not have access to a printer. Presently, due to the Covid-19 situation, it is difficult for them to head to various locations, e.g. bank, CCs, to print out the separate documents.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Covenant Family Service Centre - Hougang",
-        "name": "Reina Chantelle Reyes",
-        "email": "reinachantelle@mws.sg",
-        "phone": [
-          "62828558"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1505,6 +1542,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "11 Aug 2021"
+    },
+    {
+      "id": "98187",
+      "category": "Electrical Home Appliances",
+      "name": "1 person rice cooker",
+      "description": "Senior 70 yrs staying alone wish to be bless with a 1 person rice cooker as she cooks only for her own consumption. Her current cooker has spoilt due to wear and tear.",
+      "specifications": "small",
+      "contact": {
+        "org": "Lions Befrienders Cluster Support",
+        "name": "Noor Hashah Binti Hassan",
+        "email": "noor.hashah@lb.org.sg",
+        "phone": [
+          "66814942",
+          "66814020"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "08 Sep 2021"
     },
     {
       "id": "98180",
@@ -2599,6 +2654,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "98185",
+      "name": "2 seater sofa",
+      "description": "A two seater sofa that has been loved my family, giving it away as a form of donation to anyone.",
+      "location": "Jurong",
+      "validTill": "15 Sep 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "98181",
       "name": "10 Litre/Minute NUVO 10 Oxygen Concentrator",
