@@ -1837,24 +1837,6 @@
       "date": "08 Sep 2021"
     },
     {
-      "id": "98187",
-      "category": "Electrical Home Appliances",
-      "name": "1 person rice cooker",
-      "description": "Senior 70 yrs staying alone wish to be bless with a 1 person rice cooker as she cooks only for her own consumption. Her current cooker has spoilt due to wear and tear.",
-      "specifications": "small",
-      "contact": {
-        "org": "Lions Befrienders Cluster Support",
-        "name": "Noor Hashah Binti Hassan",
-        "email": "noor.hashah@lb.org.sg",
-        "phone": [
-          "66814942",
-          "66814020"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "08 Sep 2021"
-    },
-    {
       "id": "98180",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -2981,6 +2963,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "98214",
+      "name": "Wooden sofa",
+      "description": "Solid wooden sofa. Good Condition",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "25 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "98213",
+      "name": "Plastic 5-tiers cabinet",
+      "description": "Plastic 5-tiers cabinet. Previously used to store children clothes and books",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "30 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "98212",
+      "name": "Bed side barrier for baby/ young toddler",
+      "description": "Safety Bed side barrier for baby/ toddlers, with soft net material on top, metal frame to be tuck under mattress for support. So a child can sleep together with mother on normal bed and will not fall down.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "30 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "98211",
       "name": "Document Trays",
