@@ -1784,6 +1784,24 @@
       "date": "11 Aug 2021"
     },
     {
+      "id": "98222",
+      "category": "Electrical Home Appliances",
+      "name": "Television",
+      "description": "(KR) Elderly couple aged 75 and 92 live together in a 1 room rental flat. Current TV is spoilt.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Navarraj",
+        "email": "navarraj@thkmc.org.sg",
+        "phone": [
+          "64961278",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Sep 2021"
+    },
+    {
       "id": "98208",
       "category": "Electrical Home Appliances",
       "name": "Fridge",
@@ -2963,6 +2981,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "98221",
+      "name": "Table lamps",
+      "description": "Table lamps self collection.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "08 Oct 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "98220",
       "name": "Blue Lounge Cable Organizer",
