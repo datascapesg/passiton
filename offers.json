@@ -1,5 +1,15 @@
 [
   {
+    "id": "98152",
+    "name": "sofa",
+    "description": "grey fabric - 3 seater",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "15 Sep 2021",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "98151",
     "name": "Milk powder",
     "description": "Unopened. Never used. Mistakenly brought (I needed stage 2 instead)",
@@ -146,16 +156,6 @@
     "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
     "validTill": "07 Oct 2021",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "98110",
-    "name": "Hospital bed",
-    "description": "Please arrange own transportation for collection thank you.",
-    "location": "Geylang, Eunos",
-    "validTill": "07 Oct 2021",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
