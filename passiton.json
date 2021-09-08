@@ -90,6 +90,40 @@
       "date": "11 Aug 2021"
     },
     {
+      "id": "98183",
+      "category": "Medical Aids",
+      "name": "Blood Pressure Measuring Machine",
+      "description": "A family of 4 with 2 young children require a blood pressure measuring machine. The youngest child, almost 2 years old has chronic asthma and requires this to monitor her condition. They need the smallest size machine.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Jane Antony",
+        "email": "jane@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Sep 2021"
+    },
+    {
+      "id": "98182",
+      "category": "Medical Aids",
+      "name": "Oximeter",
+      "description": "A family of 4 with 2 young children require an oximeter. The youngest child, almost 2 years old has chronic asthma and requires this to monitor her condition.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Jane Antony",
+        "email": "jane@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Sep 2021"
+    },
+    {
       "id": "98136",
       "category": "Medical Aids",
       "name": "Adult Diapers",
@@ -871,6 +905,23 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "11 Aug 2021"
+    },
+    {
+      "id": "98184",
+      "category": "Others",
+      "name": "Ebike Battery",
+      "description": "A family of 3 requires a Zebra Ebike 10AH battery for them to do their food delivery work. The current battery is about 1 yr old and not working well.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Jane Antony",
+        "email": "jane@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Sep 2021"
     },
     {
       "id": "98171",
@@ -1870,23 +1921,6 @@
       "date": "26 Aug 2021"
     },
     {
-      "id": "97619",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Client is recovering from a stroke and has only recently secured her own rental flat after years of not having a home. She is unable to secure a working refrigerator and hopes to have one to ensure she is able to store her food.",
-      "specifications": null,
-      "contact": {
-        "org": "MontfortCare - Marine Parade Family Service Centre",
-        "name": "Naazilah Hidayatullah",
-        "email": "naazilah.hidayatullah@montfortcare.org.sg",
-        "phone": [
-          "64450100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "26 Aug 2021"
-    },
-    {
       "id": "97565",
       "category": "Electrical Home Appliances",
       "name": "Hot & Cold Electric Water Dispenser",
@@ -2576,16 +2610,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "98179",
-      "name": "Electrolux Bagless Vacuum Cleaner",
-      "description": "A bagless vacuum cleaner with high suction power. Good condition.",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "08 Oct 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "98177",
       "name": "Bao Bao Hao Stroller",
       "description": "https://www.lazada.sg/products/travel-system-pram-jogger-pushcar-stroller-67kgone-hand-folding-carrier-with-maximum-air-ventilation-i747142544-s2412180740.html?",
@@ -2632,16 +2656,6 @@
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "08 Oct 2021",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98162",
-      "name": "Wheelchair",
-      "description": "Wheelchair lightly used with adjustable legs and lean back . Foldable for easy storage .",
-      "location": "Middle Road, Golden Mile",
-      "validTill": "08 Oct 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
