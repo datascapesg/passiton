@@ -282,24 +282,6 @@
       "date": "08 Sep 2021"
     },
     {
-      "id": "98189",
-      "category": "Infant and Children Items",
-      "name": "Milk Powder",
-      "description": "(KR) Single mother works as a part time grab delivery rider and lives with 1 year old son in interim shelter.",
-      "specifications": "Friso Stage 3",
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Navarraj",
-        "email": "navarraj@thkmc.org.sg",
-        "phone": [
-          "64961278",
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Sep 2021"
-    },
-    {
       "id": "98175",
       "category": "Infant and Children Items",
       "name": "Diapers needed",
@@ -2877,7 +2859,37 @@
   ],
   "offers": [
     {
-      "id": "98223",
+      "id": "98227",
+      "name": "KIPLING A4 ladies sling bag in chevron design from US.",
+      "description": "Well kept and clean. Can be machine washed. There is a small pen mark inside the bag.",
+      "location": "Kranji, Woodgrove",
+      "validTill": "16 Sep 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "98226",
+      "name": "MUJI Linen women's top in grey and beige",
+      "description": "I am L-sized lady but this MUJI is S size and it fits me well. Full front button and 2 side pockets. Long sleeve. Good material in neutral colors for office or weekend.",
+      "location": "Kranji, Woodgrove",
+      "validTill": "16 Sep 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "98225",
+      "name": "3 Seater Sofa",
+      "description": "Leather sofa",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "15 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "98229",
       "name": "Storage bed and mattress",
       "description": "Storage bed comes with mattress. Its always been used with mattress protector",
       "location": null,
