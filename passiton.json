@@ -72,24 +72,6 @@
       "date": "24 Aug 2021"
     },
     {
-      "id": "97440",
-      "category": "Mobility Aids",
-      "name": "Wheelchair with elevated foot rest",
-      "description": "Father is the sole breadwinner earning a low-income for the household of 4 living in government rental housing, with a young child diagnosed with special needs. The family is requesting for a wheelchair with elevated foot rest for grandfather who recently met with a traffic accident and is unable to rest well on the current donated wheelchair with fixed footrest.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue - Early Intervention Centre For Children",
-        "name": "Tessa Nai",
-        "email": "tessanai@fycs.org",
-        "phone": [
-          "66810508",
-          "65656260"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Aug 2021"
-    },
-    {
       "id": "96995",
       "category": "Mobility Aids",
       "name": "Electric Scooter",
@@ -106,41 +88,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "11 Aug 2021"
-    },
-    {
-      "id": "98295",
-      "category": "Medical Aids",
-      "name": "Blood Pressure Monitor Machine",
-      "description": "Client, 63 years old is a peritoneal dialysis patient. He has been on dialysis for 4 years. He is currently not working and his family of 4 (wife & 2 kids) are solely dependent on his wife's income for subsistence. With him being a dialysis patient, it is necessary and crucial to monitor his blood pressure daily however he do not have a working BP set as his previous one has spoilt. He requires a BP set so as not to compromise his dialysis treatment.",
-      "specifications": "Blood Pressure Monitor Machine",
-      "contact": {
-        "org": "National Kidney Foundation (NKF)",
-        "name": "Melissa Tan",
-        "email": "melissa.tan@nkfs.org",
-        "phone": [
-          "65062254",
-          "65062244"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "10 Sep 2021"
-    },
-    {
-      "id": "98232",
-      "category": "Medical Aids",
-      "name": "Adult Diapers",
-      "description": "Family which consists of divorced mom with her 2 young school going children and elderly mother needs support with Adult diapers L size. Elderly mother is 75yo with high medical and caregiving needs.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Mohd Fadil Bin Hassan",
-        "email": "mohdfadil@amkfsc.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Sep 2021"
     },
     {
       "id": "98196",
@@ -2304,23 +2251,6 @@
       "date": "09 Sep 2021"
     },
     {
-      "id": "98260",
-      "category": "Electrical Home Appliances",
-      "name": "Blender (Halal)",
-      "description": "Family of 4 are in need of a blender. Family has just moved into their own rental flat. Husband was recently released from prison this year. Wife is pregnant with their 3rd child. Their two children are under the age of 3 years old.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Rachel Koh",
-        "email": "rachelkoh@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Sep 2021"
-    },
-    {
       "id": "98255",
       "category": "Electrical Home Appliances",
       "name": "Bar Fridge (around 90L)",
@@ -3554,6 +3484,16 @@
   ],
   "offers": [
     {
+      "id": "98322",
+      "name": "WALKING STICK",
+      "description": "The walking sticks are still in good working condition.",
+      "location": null,
+      "validTill": "10 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "98320",
       "name": "hospital bed",
       "description": "hospital bed used for 6 months",
@@ -3790,16 +3730,6 @@
       "location": "Orchard, Cairnhill, River Valley",
       "validTill": "01 Oct 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98274",
-      "name": "Wooden Ikea Sniglar Baby cot without mattress",
-      "description": "Wooden Ikea Sniglar Baby cot without mattress",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "30 Sep 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4050,6 +3980,16 @@
       "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
       "validTill": "05 Oct 2021",
       "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "98321",
+      "name": "Baby cot with mattress and 5 mattress covers",
+      "description": "Preloved baby cot with new mattress and 5 mattress covers",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "30 Sep 2021",
+      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },

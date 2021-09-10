@@ -1,5 +1,15 @@
 [
   {
+    "id": "98322",
+    "name": "WALKING STICK",
+    "description": "The walking sticks are still in good working condition.",
+    "location": null,
+    "validTill": "10 Oct 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "98320",
     "name": "hospital bed",
     "description": "hospital bed used for 6 months",
@@ -236,16 +246,6 @@
     "location": "Orchard, Cairnhill, River Valley",
     "validTill": "01 Oct 2021",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "98274",
-    "name": "Wooden Ikea Sniglar Baby cot without mattress",
-    "description": "Wooden Ikea Sniglar Baby cot without mattress",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "30 Sep 2021",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -496,6 +496,16 @@
     "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
     "validTill": "05 Oct 2021",
     "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "98321",
+    "name": "Baby cot with mattress and 5 mattress covers",
+    "description": "Preloved baby cot with new mattress and 5 mattress covers",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "30 Sep 2021",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
