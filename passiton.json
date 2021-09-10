@@ -1,27 +1,10 @@
 {
   "requests": [
     {
-      "id": "98307",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "Single elderly with chronic health requires wheelchair urgently.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Nadiah Binte Shafiee",
-        "email": "nadiah@amkfsc.org.sg",
-        "phone": [
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Sep 2021"
-    },
-    {
       "id": "98306",
       "category": "Mobility Aids",
-      "name": "Brand New Wheelchair",
-      "description": "Elder single with chronic health condition requires urgently a brand new wheelchair.",
+      "name": "Wheelchair",
+      "description": "Elder single with chronic health condition requires urgently a preferable brand new wheelchair.",
       "specifications": null,
       "contact": {
         "org": "AMKFSC Community Services Ltd - Cheng San",
@@ -2061,23 +2044,6 @@
       "date": "10 Sep 2021"
     },
     {
-      "id": "98302",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator (Halal)",
-      "description": "Family has 2 young kids. The sole breadwinner has recently quitted the job and is in the midst of looking for job. Their refrigerator is spoilt and could not afford one.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Ng Shiuh Shuen",
-        "email": "ngshiuhshuen@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Sep 2021"
-    },
-    {
       "id": "98300",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -3553,6 +3519,16 @@
   ],
   "offers": [
     {
+      "id": "98310",
+      "name": "Beige fabric sofa & chairs",
+      "description": "Two seater sofa and 2 matching lounge chairs.\nVery good quality, very comfortable\nNeeds collecting please, unable to pay transport",
+      "location": "Anson, Tanjong Pagar",
+      "validTill": "17 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "98309",
       "name": "Dining table & 4 chairs",
       "description": "Wooden dining table with extending leaf. Plus 4 dining chairs.\nNeeds to be collected please from Cantonment Towers/Tanjong Pagar.\nUnable to pay transport.",
@@ -4649,16 +4625,6 @@
       "location": "Orchard, Cairnhill, River Valley",
       "validTill": "16 Sep 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97267",
-      "name": "Exercise bike - display panel not working",
-      "description": "The bike was hardly used but the display panel is spoilt. You can still cycle and the tension is manually controlled. The brand is AIBI",
-      "location": "Seletar",
-      "validTill": "16 Sep 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
