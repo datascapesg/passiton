@@ -212,6 +212,42 @@
       "date": "17 Aug 2021"
     },
     {
+      "id": "98291",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder (Children)",
+      "description": "Low income family has 2 young children (5 and 3 years old) and are currently staying in a rental unit. They currently rely on father's income who works for long hours as cleaner. Assistance in the form of milk powder and diapers for the children would greatly help to ease their financial load. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Stella Png",
+        "email": "stella.png@reach.org.sg",
+        "phone": [
+          "68010879",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Sep 2021"
+    },
+    {
+      "id": "98288",
+      "category": "Infant and Children Items",
+      "name": "XXL Diapers",
+      "description": "Low income family has 2 young children (5 and 3 years old) and are currently staying in a rental unit. They currently rely on father's income who works for long hours as cleaner. Assistance in the form of milk powder and diapers would greatly help to ease their financial load. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Stella Png",
+        "email": "stella.png@reach.org.sg",
+        "phone": [
+          "68010879",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "10 Sep 2021"
+    },
+    {
       "id": "98265",
       "category": "Infant and Children Items",
       "name": "Dumex Dugro Stage 4 (8 packs)",
@@ -3451,6 +3487,26 @@
   ],
   "offers": [
     {
+      "id": "98290",
+      "name": "iPhone XR - Blue",
+      "description": "iPhone XR - Second Hand. 64MB. Good Condition, just needs a new screen protector. Case available.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "10 Oct 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "98289",
+      "name": "iPhone XR - Red",
+      "description": "iPhone XR - Second Hand.\n64MB.\nGood Condition, just needs a new screen protector.\nCase available, but with a few of son’s stickers.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "10 Oct 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "98276",
       "name": "Kids bed frame",
       "description": "Bed frame for kids from ikea",
@@ -3676,16 +3732,6 @@
       "description": "Puzzle toys for kids between 2 -5 years old",
       "location": "Hougang",
       "validTill": "08 Oct 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98156",
-      "name": "Commode - large",
-      "description": "Purchased from rehab mart few years back and lightly used . In good condition .",
-      "location": "Middle Road, Golden Mile",
-      "validTill": "01 Oct 2021",
       "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
