@@ -1150,24 +1150,6 @@
       "date": "10 Sep 2021"
     },
     {
-      "id": "98279",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Family with 3 school-going children is from a low-income family; although both parents are working, their\ncombined take-home income is less than $2,000. The current refrigerator is a donated set and the freezer is not working, making it difficult for family to keep their frozen produce fresh in their fridge. The family is\nunable to purchase a new fridge due to their low income. As such, family appreciates if they could receive assistance for a refrigerator. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Lynn Yeo",
-        "email": "lynnyeo@amkfsc.org.sg",
-        "phone": [
-          "64546678",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Sep 2021"
-    },
-    {
       "id": "98268",
       "category": "Electrical Home Appliances",
       "name": "Fridge",
@@ -2826,6 +2808,60 @@
       "date": "16 Aug 2021"
     },
     {
+      "id": "98369",
+      "category": "Home Furnishing",
+      "name": "Shoe Rack",
+      "description": "A single parent with a school going child requires a shoe rack as her existing one is quite worn out. Family is unable to afford as their income is only sufficient for their basic needs.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Chua Bee Guet",
+        "email": "chuabeeguet@fycs.org",
+        "phone": [
+          "66901004",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Sep 2021"
+    },
+    {
+      "id": "98368",
+      "category": "Home Furnishing",
+      "name": "Cabinets",
+      "description": "A single parent with a school going child requires a cabinet as her existing one is quite worn out. A cabinet would enable family to keep their things in a proper place as family resides in a rental flat with limited space. Family is unable to afford as their income is only sufficient for their basic needs.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Chua Bee Guet",
+        "email": "chuabeeguet@fycs.org",
+        "phone": [
+          "66901004",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Sep 2021"
+    },
+    {
+      "id": "98367",
+      "category": "Home Furnishing",
+      "name": "Wardrobe",
+      "description": "A single parent with a school going child requires a wardrobe as her existing one is quite worn out. A wardrobe would enable family to keep their clothing in a proper place as family resides in a rental flat with limited space.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Chua Bee Guet",
+        "email": "chuabeeguet@fycs.org",
+        "phone": [
+          "66901004",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Sep 2021"
+    },
+    {
       "id": "98292",
       "category": "Home Furnishing",
       "name": "Donation for Kitchen Cupboard",
@@ -3192,6 +3228,36 @@
   ],
   "offers": [
     {
+      "id": "98366",
+      "name": "children clothes",
+      "description": "Infant clothes for children under 8mths",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "13 Oct 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "98365",
+      "name": "children clothes",
+      "description": "Jackets for children under 3yrs",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "18 Sep 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "98364",
+      "name": "children clothes",
+      "description": "Infant socks",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "18 Sep 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "98363",
       "name": "children clothes",
       "description": "Clothes for 1yr old.",
@@ -3492,32 +3558,12 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "98319",
-      "name": "Kitchen Scale",
-      "description": "Brand new 5KG Capacity Kitchen Scale from Redman.",
-      "location": "Telok Blangah, Harbourfront",
-      "validTill": "10 Oct 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "98318",
       "name": "Study table",
       "description": "Black and red study table. \nVery sturdy, lightly used for <1 year.",
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
       "validTill": "10 Oct 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98317",
-      "name": "Storage Table",
-      "description": "Swinging storage coffee table with glossy table top.\n\nLength: 100cm \nWidth: 60cm \nHeight: 35cm \n\nAll corners intact, no scratches on the wooden frame.",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "10 Oct 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3778,16 +3824,6 @@
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "08 Oct 2021",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98161",
-      "name": "Air mattress medpro",
-      "description": "Anti decubitus mattress in good working condition.",
-      "location": "Middle Road, Golden Mile",
-      "validTill": "08 Oct 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
