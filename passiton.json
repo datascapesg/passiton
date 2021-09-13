@@ -1134,6 +1134,23 @@
       "date": "16 Aug 2021"
     },
     {
+      "id": "98406",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Young adult caregiver of aged mother with limited mobility and deteriorating mental ability. Due to her caregiving duties, she has not been able to work fulltime. Income is inconsistent and barely enough to meet household needs. Does not have the finances to buy essential household items like a washing machine.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
+        "name": "Hernawatie Binte Abdullah",
+        "email": "hernawatieabdullah@amkfsc.org.sg",
+        "phone": [
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Sep 2021"
+    },
+    {
       "id": "98392",
       "category": "Electrical Home Appliances",
       "name": "Blender",
@@ -3472,6 +3489,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "98405",
+      "name": "wheelchair and Walking sticks",
+      "description": "The wheelchair is in good condition, it seldom used. Still in very good condition",
+      "location": null,
+      "validTill": "13 Oct 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "98404",
       "name": "Super single mattress",
