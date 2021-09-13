@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "98396",
+      "category": "Mobility Aids",
+      "name": "Reclining Geriatric Chair With Wheels & Adjustable Arm Rest",
+      "description": "Family the father is bedbound and looking for a reclining geriatric chair, so that her father can seat up and rest.",
+      "specifications": null,
+      "contact": {
+        "org": "NTUC Health Senior Activity Centre @ Boon Lay",
+        "name": "David Hong",
+        "email": "david.hong@ntuchealth.sg",
+        "phone": [
+          "65904368"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Sep 2021"
+    },
+    {
       "id": "93362",
       "category": "Mobility Aids",
       "name": "Electric Wheelchair",
@@ -189,23 +206,6 @@
         "phone": [
           "66810508",
           "65656260"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Sep 2021"
-    },
-    {
-      "id": "98387",
-      "category": "Infant and Children Items",
-      "name": "Milk & Diapers",
-      "description": "Family requires the following milk & diapers donation for her toddler. \n\n1) Nestle NAN Optipro HA Stage 3 - 4 tins\n2) Huggies Gold Pants - Size M - 4 packets\n\nFor further information, please contact me at 89407231 during office hours ( Mon to Fri , 9-6pm )",
-      "specifications": null,
-      "contact": {
-        "org": "Monfort Care - Big Love Child Protection",
-        "name": "Lilys Amirah Abdullah",
-        "email": "lilys.abdullah@montfortcare.org.sg",
-        "phone": [
-          "64450400"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2999,6 +2999,24 @@
       "date": "16 Aug 2021"
     },
     {
+      "id": "98399",
+      "category": "Home Furnishing",
+      "name": "Cupboard",
+      "description": "Low-income family with 2 young children (4 and 3 years old) needs a new cupboard for their home. They are currently relying on a temporary zipped-bag for storage which is on the verge of breaking. Both parents stopped work due to heightened COVID-19 measures, leading to a shortage in financial resources. Mother has recently resumed work as a kitchen assistant while Father is still currently searching for work.",
+      "specifications": "70.6cm (L) x 44.6cm (B) x 173.0cm (H)",
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Stella Png",
+        "email": "stella.png@reach.org.sg",
+        "phone": [
+          "68010879",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Sep 2021"
+    },
+    {
       "id": "98394",
       "category": "Home Furnishing",
       "name": "5 single beds with mattresses",
@@ -3098,23 +3116,6 @@
         "phone": [
           "64546678",
           "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Sep 2021"
-    },
-    {
-      "id": "98371",
-      "category": "Home Furnishing",
-      "name": "metal rack",
-      "description": "Client (single mother with a 17 year old daughter) just got her 1 room rental unit and will shift in on 28 June 2021 after staying in a shelter for 2 years. As client is currently pursuing her studies in nursing to upgrade herself. She appreciate donations for a metal rack to put cooker.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3523,6 +3524,26 @@
   ],
   "offers": [
     {
+      "id": "98398",
+      "name": "Heel dressing pads; Adult body wipes",
+      "description": "Mediplex border heel dressing pads and HospiCare adult body wipes. All new in sealed package.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "10 Oct 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "98397",
+      "name": "Syringes, feeding tube",
+      "description": "Terumo 50ml syringes (6x) and 36 inch Kangaroo feeding tube(1x). All new in sealed package.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "10 Oct 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "98390",
       "name": "Single Mattress, Walking Frame, Wheelchair, Shower Chair",
       "description": "Single Mattress, Walking Frame, Wheelchair, Shower Chair. Used by cancer patient who has passed away. All very well maintained and stainless, relatively new too.",
@@ -3703,26 +3724,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "98340",
-      "name": "1litre electric kettle for 2 persons",
-      "description": "Unused and good condition",
-      "location": "Seletar",
-      "validTill": "11 Oct 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98339",
-      "name": "Rice Cooker",
-      "description": "Enough to cook for 4 persons",
-      "location": "Seletar",
-      "validTill": "11 Oct 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "98335",
       "name": "Hospital Bed",
       "description": "Used hospital bed",
@@ -3848,16 +3849,6 @@
       "description": "Two seater sofa and 2 matching lounge chairs.\nVery good quality, very comfortable\nNeeds collecting please, unable to pay transport",
       "location": "Anson, Tanjong Pagar",
       "validTill": "17 Sep 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98304",
-      "name": "Study table with shelf",
-      "description": "White study table with shelf in good condition. Table is slightly stained",
-      "location": "Yishun, Sembawang",
-      "validTill": "30 Sep 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
