@@ -562,23 +562,6 @@
       "date": "08 Sep 2021"
     },
     {
-      "id": "98164",
-      "category": "Infant and Children Items",
-      "name": "XL (pull up) and L (tape) diapers",
-      "description": "Father,28, sole breadwinner for his family of 6, is currently financially struggling to purchase diapers for his three younger children aged 3, 1 and 5 months. Children need XL diapers (pull up) and L diapers (taped).",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Janarthanan S/O Lingasparan",
-        "email": "jana.lingasparan@montfortcare.org.sg",
-        "phone": [
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Sep 2021"
-    },
-    {
       "id": "98141",
       "category": "Infant and Children Items",
       "name": "Huggies pull-up pants",
@@ -1062,6 +1045,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "16 Aug 2021"
+    },
+    {
+      "id": "98378",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is a single mother who is unemployed as she has to care for her young daughter. Client is struggling financially and her washing machine has stopped working. Client requested for a washing machine and she is okay with a top or front loader. Looking for donor who can cover delivery fees too due to client's lack of funds.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Dini Dzulaikha Bte Dzulkifli",
+        "email": null,
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "13 Sep 2021"
     },
     {
       "id": "98370",
@@ -2826,6 +2826,40 @@
       "date": "16 Aug 2021"
     },
     {
+      "id": "98380",
+      "category": "Home Furnishing",
+      "name": "Single sized mattress",
+      "description": "Client is a single mother who is unemployed as she has to care for her young daughter. Client lives in a 1 room HDB rental. Client is struggling financially and she does not have a mattress at home for her daughter. Client requested for a single size mattress for her daughter, preferably a new one as she has skin issues. Looking for donor who can cover delivery fees too due to client's lack of funds.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Dini Dzulaikha Bte Dzulkifli",
+        "email": null,
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "13 Sep 2021"
+    },
+    {
+      "id": "98379",
+      "category": "Home Furnishing",
+      "name": "queen sized mattress",
+      "description": "Client is a single mother who is unemployed as she has to care for her young daughter. Client is struggling financially and she does not have a mattress at home. Client requested for a queen size mattress for her, preferably a new one as she has skin issues. Looking for donor who can cover delivery fees too due to client's lack of funds.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Dini Dzulaikha Bte Dzulkifli",
+        "email": null,
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "13 Sep 2021"
+    },
+    {
       "id": "98377",
       "category": "Home Furnishing",
       "name": "Sliding door wardrobe",
@@ -4086,16 +4120,6 @@
       "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
       "validTill": "02 Oct 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97913",
-      "name": "Portable mini sewing machine",
-      "description": "Self pick up power wire is missing have to replace yourself.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "30 Sep 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
