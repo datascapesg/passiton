@@ -1,11 +1,11 @@
 [
   {
-    "id": "98411",
-    "name": "Dining table",
-    "description": "The dining table is in good condition with marble top.",
-    "location": "Jurong",
+    "id": "98415",
+    "name": "Hospital bed",
+    "description": "lightly used (less than 8mths and well-maintained and sanitized) hospital bed with air mattress. suitable for bed-bound patients to prevent bedsores.",
+    "location": "Tampines, Pasir Ris",
     "validTill": "14 Oct 2021",
-    "ageInYears": 4,
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -30,32 +30,12 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "98408",
-    "name": "shoe cupboard",
-    "description": "Good condition",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "23 Sep 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "98407",
     "name": "queen size mattress",
     "description": "Good condition",
     "location": "Tampines, Pasir Ris",
     "validTill": "23 Sep 2021",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "98405",
-    "name": "wheelchair and Walking sticks",
-    "description": "The wheelchair is in good condition, it seldom used. Still in very good condition",
-    "location": null,
-    "validTill": "13 Oct 2021",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -194,6 +174,16 @@
     "name": "Well used wheelchair",
     "description": "- well used but still in working condition\n- brakes still functioning \n- no tears\n- lightweight",
     "location": "Tampines, Pasir Ris",
+    "validTill": "12 Oct 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "98354",
+    "name": "Queen size mattress",
+    "description": "Mattress is more than 4 years but in good condition.",
+    "location": "Serangoon Garden, Hougang, Ponggol",
     "validTill": "12 Oct 2021",
     "ageInYears": 4,
     "dimensions": null,
