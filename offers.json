@@ -1,5 +1,15 @@
 [
   {
+    "id": "98420",
+    "name": "Hospital Bed",
+    "description": "Hospital Beds Motorised",
+    "location": "Loyang, Changi",
+    "validTill": "14 Oct 2021",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "98419",
     "name": "microwave oven",
     "description": "Good condition",
@@ -436,16 +446,6 @@
     "location": "Balestier, Toa Payoh, Serangoon",
     "validTill": "09 Oct 2021",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "98273",
-    "name": "Hospital Bed with Airpump mattress",
-    "description": "My dad was using the bed before he eventually passed on in hospice and not on this bed.",
-    "location": null,
-    "validTill": "09 Oct 2021",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
