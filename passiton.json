@@ -1445,23 +1445,6 @@
       "date": "08 Sep 2021"
     },
     {
-      "id": "98130",
-      "category": "Electrical Home Appliances",
-      "name": "TV",
-      "description": "Hi there, I am looking for a flat screen television for a low income family of 4. The house is a 1-room flat and therefore, unable to put bulky TV. It is a single mother with 3 children. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Low Yiing Jia",
-        "email": "jialow@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "07 Sep 2021"
-    },
-    {
       "id": "98128",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -3643,6 +3626,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "98444",
+      "name": "47 Inch Philips TV with Wall Bracket",
+      "description": "TV in good working condition",
+      "location": "Upper Thomson, Springleaf",
+      "validTill": "14 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "98443",
       "name": "Electrolux vacuum cleaner",
