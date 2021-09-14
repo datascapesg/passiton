@@ -2313,23 +2313,6 @@
       "date": "08 Sep 2021"
     },
     {
-      "id": "98202",
-      "category": "Others",
-      "name": "Halal Canned Fruits",
-      "description": "PPIS Family Service Centre (West) would like to appeal for 20 canned fruits for its beneficiaries with families. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Yuliza Mohamad Yusoff",
-        "email": "yuliza@ppis.sg",
-        "phone": [
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Sep 2021"
-    },
-    {
       "id": "98200",
       "category": "Others",
       "name": "Dried Prawns",
@@ -3556,6 +3539,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "98450",
+      "name": "Portable mini sewing machine",
+      "description": "Giving away portable sewing machine. Wire is missing have to buy yourself.",
+      "location": "Little India",
+      "validTill": "14 Oct 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "98449",
+      "name": "Rice cooker",
+      "description": "Rice cooker can cook for 5-7 persons. Arrange own transport.",
+      "location": "Little India",
+      "validTill": "14 Oct 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "98448",
       "name": "Fabric sofa",
