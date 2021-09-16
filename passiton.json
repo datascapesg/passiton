@@ -1080,6 +1080,24 @@
       "date": "16 Aug 2021"
     },
     {
+      "id": "98529",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave",
+      "description": "A 41yo client with mental health needs staying alone in rental flat. Medically unfit for work and has limited mobility. Unsafe to use the gas stove, requires microwave to heat up his donated food packets when he eats them late or they arrive early.",
+      "specifications": "Any",
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Tan Wee Han",
+        "email": "weehan_tan@awwa.org.sg",
+        "phone": [
+          "65119462",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Sep 2021"
+    },
+    {
       "id": "98519",
       "category": "Electrical Home Appliances",
       "name": "computer webcam and earphone",
@@ -4655,6 +4673,16 @@
       "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
       "validTill": "02 Oct 2021",
       "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "98531",
+      "name": "Brown rug",
+      "description": "Brown \"hair\" rug/carpet",
+      "location": "Raffles Place, Cecil, Marina, People's Park",
+      "validTill": "02 Oct 2021",
+      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
