@@ -213,23 +213,6 @@
       "date": "16 Sep 2021"
     },
     {
-      "id": "98524",
-      "category": "Infant and Children Items",
-      "name": "Diapers",
-      "description": "Client has 5 children and living in rental flat. Husband has recently left the family, so client has to sustain the family on her own. She has withdrawn youngest child from infant care due to child's severe separation anxiety. She is working part-time but has barely enough for necessities. She requires Diapers -Drypers tape type Size M , XL & XXL.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Gladdys Heng",
-        "email": "gladdysheng@amkfsc.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Sep 2021"
-    },
-    {
       "id": "98522",
       "category": "Infant and Children Items",
       "name": "Pull up diapers, proskin pants",
@@ -2034,6 +2017,23 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "16 Aug 2021"
+    },
+    {
+      "id": "98527",
+      "category": "Learning Aids",
+      "name": "Laptop for HBL",
+      "description": "The child is in need of a laptop for home-based learning. No brand specific but prefers light weight. Can be brand new or second-hand as long as in good working condition. Laptop comes with built-in camera for online class. It would be plus benefits to equip with a mouse. The laptop will delivered to beneficiary's place and please contact us for delivery details (Email: dik@childrensociety.org.sg, contact:9436 7401).*Note:the delivery cost will be covered by the donor. Thank you for your kind support!",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Peng Hui",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Sep 2021"
     },
     {
       "id": "98517",
@@ -3993,6 +3993,16 @@
       "name": "Wheelchair",
       "description": "High back wheelchair for immobile person who can still sit. Has a reclining and tilting function, can bring outdoors for person who still enjoys going outside.",
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "14 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "98528",
+      "name": "Dining table",
+      "description": "The dining table is in good condition with marble top.",
+      "location": "Jurong",
       "validTill": "14 Oct 2021",
       "ageInYears": 4,
       "dimensions": null,
