@@ -264,6 +264,23 @@
       "date": "17 Aug 2021"
     },
     {
+      "id": "98588",
+      "category": "Others",
+      "name": "Working Laptop",
+      "description": "Client with low income due to health issues wishes to seek employment and would require a laptop to create his resume.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Clarice Lim",
+        "email": "claricelim@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Sep 2021"
+    },
+    {
       "id": "96996",
       "category": "Others",
       "name": "E-Bike",
@@ -1190,6 +1207,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Aug 2021"
+    },
+    {
+      "id": "98591",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is from a low-income family. She is a single mother looking after 4 young children. She is looking for a washing machine as her current one has shown signs of breakdowns, however, she is unable to afford one. It would be helpful if the family can receive one. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services @ Taman Jurong SSO",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@fycs.org",
+        "phone": [
+          "62672945",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Sep 2021"
+    },
+    {
+      "id": "98589",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is a single mother looking after 2 school-going children. The family is reliant on SSO for their expenses. She is looking for a top load washing machine as the one she has is leaking, however, she cannot afford one. She has a history of medical issues on her back. hence top load will be better for her. It would be helpful for her to receive one. Thank you",
+      "specifications": "Top load",
+      "contact": {
+        "org": "Fei Yue Family Services @ Taman Jurong SSO",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@fycs.org",
+        "phone": [
+          "62672945",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Sep 2021"
     },
     {
       "id": "98584",
@@ -3347,6 +3400,42 @@
       "date": "17 Aug 2021"
     },
     {
+      "id": "98592",
+      "category": "Home Furnishing",
+      "name": "Study table",
+      "description": "Client is from a low-income family. She is a single mother looking after 4 young children. She is looking for a study table for her children to do work on however, she is unable to afford one. It would be helpful if the family can receive one. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services @ Taman Jurong SSO",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@fycs.org",
+        "phone": [
+          "62672945",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Sep 2021"
+    },
+    {
+      "id": "98590",
+      "category": "Home Furnishing",
+      "name": "Pillows",
+      "description": "Client is from a low-income family. She is a single mother looking after 4 young children. she is looking for pillows as the ones at home have spoilt. it would be helpful for the family to receive them.",
+      "specifications": "looking for 5-6 pillows",
+      "contact": {
+        "org": "Fei Yue Family Services @ Taman Jurong SSO",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@fycs.org",
+        "phone": [
+          "62672945",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Sep 2021"
+    },
+    {
       "id": "98581",
       "category": "Home Furnishing",
       "name": "Shower chair",
@@ -3993,16 +4082,6 @@
     }
   ],
   "offers": [
-    {
-      "id": "98585",
-      "name": "Foldable single bed",
-      "description": "Foldable single bed with foam mattress",
-      "location": "Yishun, Sembawang",
-      "validTill": "17 Oct 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
     {
       "id": "98575",
       "name": "Wooden Wardrobe",
@@ -5140,16 +5219,6 @@
       "location": "Bishan, Ang Mo Kio",
       "validTill": "27 Sep 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97676",
-      "name": "Bed Frame and mattress (Queen size)",
-      "description": "Queen",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-      "validTill": "26 Sep 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
