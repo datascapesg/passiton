@@ -141,6 +141,23 @@
       "date": "24 Aug 2021"
     },
     {
+      "id": "98582",
+      "category": "Medical Aids",
+      "name": "Adult Diapers",
+      "description": "Client is wheelchair bound and stays in a 1-room rental flat with her 2 son and daughter. Her son is only able to work part-time as he has to help with the caregiving of client and send her to medical appointments. Her daughter is in the final year of ITE. The family is reliant on financial assistance to meet their basic needs. In recent months, she has developed a medical condition that has caused an increase in her use of adult diapers throughout the day and night. Please contact Nurul via whatsapp at 98598767 for further liaison for delivery.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (East)",
+        "name": "Nur Afrina",
+        "email": "fsceast@ppis.sg",
+        "phone": [
+          "69503503"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Sep 2021"
+    },
+    {
       "id": "98504",
       "category": "Medical Aids",
       "name": "Adult Diapers",
@@ -227,6 +244,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Aug 2021"
+    },
+    {
+      "id": "98584",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator (Halal)",
+      "description": "Low income family in in urgent need of refrigerator to store food as they could not afford one. Their current one is spoilt and all the food in their refrigerator are spoilt also.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Ng Shiuh Shuen",
+        "email": "ngshiuhshuen@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Sep 2021"
     },
     {
       "id": "98579",
@@ -2061,6 +2095,24 @@
       "date": "17 Aug 2021"
     },
     {
+      "id": "98583",
+      "category": "Infant and Children Items",
+      "name": "Milk powder",
+      "description": "Family has 3 school-going children and twin-daughters (18 months). Husband is a low-earner earner supporting the family of 7. Client is unable to work due to full-time caregiving to her children, especially twins. They struggle to buy milk powder for twins as income insufficient to pay for household expenses. Tried other cheaper brands milk powder but not suitable. Twins can only take Similac Gain (stage 3) - 2 tins per month per child. Family needs help.",
+      "specifications": null,
+      "contact": {
+        "org": "Lakeside Family Centre - Jurong West",
+        "name": "Magdalene Ng",
+        "email": "magdalene-ng@lakeside.org.sg",
+        "phone": [
+          "65671908ext436",
+          "65671908"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Sep 2021"
+    },
+    {
       "id": "98576",
       "category": "Infant and Children Items",
       "name": "Diapers for 4yo of Single Father",
@@ -3243,6 +3295,24 @@
       "date": "17 Aug 2021"
     },
     {
+      "id": "98581",
+      "category": "Home Furnishing",
+      "name": "Shower chair",
+      "description": "Elderly female client is unemployed, stays alone without family support. Due to her weak legs and health problems, she fell twice in her toilet recently while taking shower. She needs a shower chair with adjustable height & stability to fit into her small toilet, but can't afford to buy due to lack of income & savings. She needs help.",
+      "specifications": null,
+      "contact": {
+        "org": "Lakeside Family Centre - Jurong West",
+        "name": "Magdalene Ng",
+        "email": "magdalene-ng@lakeside.org.sg",
+        "phone": [
+          "65671908ext436",
+          "65671908"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Sep 2021"
+    },
+    {
       "id": "98577",
       "category": "Home Furnishing",
       "name": "Shelf",
@@ -3871,6 +3941,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "98585",
+      "name": "Foldable single bed",
+      "description": "Foldable single bed with foam mattress",
+      "location": "Yishun, Sembawang",
+      "validTill": "17 Oct 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "98575",
       "name": "Wooden Wardrobe",
