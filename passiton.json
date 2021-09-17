@@ -1,24 +1,6 @@
 {
   "requests": [
     {
-      "id": "98580",
-      "category": "Mobility Aids",
-      "name": "Walking frame with wheels attached",
-      "description": "Elderly is homebound and frail. Elderly needs a walking frame with two wheels attached at the back to help her move around the house with ease. Walking frame without wheels restrict her movements as she needs more energy to lift the frame up to move forward. \nPreferably DNR brand of walking frame.",
-      "specifications": null,
-      "contact": {
-        "org": "NTUC Health Cluster Support @ Bukit Merah",
-        "name": "Nurul Ashikin Binte Samsuri",
-        "email": "ashikin.s@ntuchealth.sg",
-        "phone": [
-          "88175763",
-          "62741602"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "17 Sep 2021"
-    },
-    {
       "id": "98564",
       "category": "Mobility Aids",
       "name": "Wheelchair battery",
@@ -1305,6 +1287,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Aug 2021"
+    },
+    {
+      "id": "98603",
+      "category": "Others",
+      "name": "Groceries",
+      "description": "Family of low income with 5 children require groceries. Some of the children are underweight and parents are not able to work temporarily due to medical condition. Groceries include:\n-Cooking oil\n-Rice\n-Milo\n-Sweetener Milk\n-Condensed milk\n-Coco crunch n milk(if possible) for breakfast\n-sardine n can food\n-Chili n tomato sauce",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Clarice Lim",
+        "email": "claricelim@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Sep 2021"
     },
     {
       "id": "98595",
@@ -3490,24 +3489,6 @@
       "date": "17 Sep 2021"
     },
     {
-      "id": "98581",
-      "category": "Home Furnishing",
-      "name": "Shower chair",
-      "description": "Elderly female client is unemployed, stays alone without family support. Due to her weak legs and health problems, she fell twice in her toilet recently while taking shower. She needs a shower chair with adjustable height & stability to fit into her small toilet, but can't afford to buy due to lack of income & savings. She needs help.",
-      "specifications": null,
-      "contact": {
-        "org": "Lakeside Family Centre - Jurong West",
-        "name": "Magdalene Ng",
-        "email": "magdalene-ng@lakeside.org.sg",
-        "phone": [
-          "65671908ext436",
-          "65671908"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Sep 2021"
-    },
-    {
       "id": "98577",
       "category": "Home Furnishing",
       "name": "Shelf",
@@ -4136,6 +4117,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "98602",
+      "name": "Slow cooker",
+      "description": "Slow cooker",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "30 Sep 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "98558",
       "name": "Single-size mattresses",
