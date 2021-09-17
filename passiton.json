@@ -1864,23 +1864,6 @@
       "date": "07 Sep 2021"
     },
     {
-      "id": "98120",
-      "category": "Others",
-      "name": "Adult Dispers",
-      "description": "Adult Diapers - Size M (Stick-on 26",
-      "specifications": null,
-      "contact": {
-        "org": "NTUC Health Senior Activity Centre @ Boon Lay",
-        "name": "David Hong",
-        "email": "david.hong@ntuchealth.sg",
-        "phone": [
-          "65904368"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "07 Sep 2021"
-    },
-    {
       "id": "98106",
       "category": "Others",
       "name": "Handphone",
@@ -3453,24 +3436,6 @@
       "date": "17 Aug 2021"
     },
     {
-      "id": "98592",
-      "category": "Home Furnishing",
-      "name": "Study table",
-      "description": "Client is from a low-income family. She is a single mother looking after 4 young children. She is looking for a study table for her children to do work on however, she is unable to afford one. It would be helpful if the family can receive one. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Services @ Taman Jurong SSO",
-        "name": "Charmaine Lim",
-        "email": "charmainelim@fycs.org",
-        "phone": [
-          "62672945",
-          "62672900"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Sep 2021"
-    },
-    {
       "id": "98577",
       "category": "Home Furnishing",
       "name": "Shelf",
@@ -4099,6 +4064,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "98604",
+      "name": "angelianeo@gmail.com",
+      "description": "Two mattress available which is rarely used. Foam material. Bedsheet cover is not included.",
+      "location": "Jurong",
+      "validTill": "17 Oct 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "98602",
       "name": "Slow cooker",
