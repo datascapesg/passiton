@@ -963,23 +963,6 @@
       "date": "20 Aug 2021"
     },
     {
-      "id": "97316",
-      "category": "Others",
-      "name": "Adult diapers",
-      "description": "Hello, a family of 5 is in desperate need of adult diapers. Brand: Tena; Size: L. If you are interested to donate, kindly email me. Thanks in advance.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Low Yiing Jia",
-        "email": "jialow@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Aug 2021"
-    },
-    {
       "id": "98638",
       "category": "Electrical Home Appliances",
       "name": "washing machine",
@@ -1206,23 +1189,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "15 Sep 2021"
-    },
-    {
-      "id": "98473",
-      "category": "Electrical Home Appliances",
-      "name": "Small refrigerator",
-      "description": "Client is an 85yo elderly lady. Client will be moving into a rental flat alone in Bedok soon, and will require basic home appliances. As she will be alone, client will only require a small refrigerator (to prevent hoarding of food items and control electrical bills). Client has minimal family support.",
-      "specifications": null,
-      "contact": {
-        "org": "Whispering Hearts Family Service Centre",
-        "name": "Samuel Lie",
-        "email": "samuel@viriya.org.sg",
-        "phone": [
-          "67951008"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "15 Sep 2021"
     },
     {
@@ -3137,24 +3103,6 @@
       "date": "13 Sep 2021"
     },
     {
-      "id": "98368",
-      "category": "Home Furnishing",
-      "name": "Cabinets",
-      "description": "A single parent with a school going child requires a cabinet as her existing one is quite worn out. A cabinet would enable family to keep their things in a proper place as family resides in a rental flat with limited space. Family is unable to afford as their income is only sufficient for their basic needs.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Champions Way",
-        "name": "Chua Bee Guet",
-        "email": "chuabeeguet@fycs.org",
-        "phone": [
-          "66901004",
-          "66901000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Sep 2021"
-    },
-    {
       "id": "98367",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -3784,6 +3732,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "98641",
+      "name": "3 seater sofa",
+      "description": "Well maintained, with 1 light stain. Usually used with sofa protector.",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "19 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "98640",
       "name": "Mattress",
