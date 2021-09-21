@@ -89,6 +89,60 @@
       "date": "24 Aug 2021"
     },
     {
+      "id": "98731",
+      "category": "Infant and Children Items",
+      "name": "Diapers for 1yo and 3yo child from low-income family",
+      "description": "Family with young children in need of diapers (Drypers Tape Type Size XXL x 3qty AND Drypers Tape Type Size XL x 3qty). Children come from a low-income family and father (main breadwinner) has recently changed a job with a lower pay. Interested donors please contact worker at shiyan@frcsfsc.sg or 8554-8219. Thank you",
+      "specifications": null,
+      "contact": {
+        "org": "FRCS Family Service Centre - Clementi",
+        "name": "Lim Shi Yan",
+        "email": "shiyan@frcsfsc.sg",
+        "phone": [
+          "67799488ext55",
+          "67799488"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "21 Sep 2021"
+    },
+    {
+      "id": "98730",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder",
+      "description": "Client is living in a crisis shelter with her 2 y/o daughter after experiencing family violence. She was previously dependent on her husband for financial support but is now cut off. The FSC is supporting her as she stabilises her financial situation. However, in the meantime, she needs assistance for her child's basic needs.",
+      "specifications": "Similac Gain Stage 3",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Lavania Maria Rajasuria",
+        "email": "lavania@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Sep 2021"
+    },
+    {
+      "id": "98729",
+      "category": "Infant and Children Items",
+      "name": "Diapers",
+      "description": "Client is living in a crisis shelter with her 2 y/o daughter after experiencing family violence. She was previously dependent on her husband for financial support but is now cut off. The FSC is supporting her as she stabilises her financial situation. However, in the meantime, she needs assistance for her child's basic needs.",
+      "specifications": "Drypers or Huggies XL",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Lavania Maria Rajasuria",
+        "email": "lavania@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Sep 2021"
+    },
+    {
       "id": "98727",
       "category": "Infant and Children Items",
       "name": "Diapers & Milk Powder",
@@ -3137,23 +3191,6 @@
       "date": "14 Sep 2021"
     },
     {
-      "id": "98254",
-      "category": "Leisure and Healthy Lifestyle",
-      "name": "Portable CD Player with Radio function",
-      "description": "Elderly uncle 68 yrs old living alone in 1-room HDB rental flat needs CD cum radio player. His existing player has stopped working. Besides listening to radio, uncle has a collection of CDs that he like to listen to. Many Thanks.",
-      "specifications": null,
-      "contact": {
-        "org": "Moral Senior Activity Center @ Kaki Bukit",
-        "name": "Gary Tan",
-        "email": "garytan@chkmps.org.sg",
-        "phone": [
-          "64486247"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Sep 2021"
-    },
-    {
       "id": "97646",
       "category": "Leisure and Healthy Lifestyle",
       "name": "Bicycle",
@@ -3711,6 +3748,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "98728",
+      "name": "Yamaha Sound Bar",
+      "description": "Yamaha soundbar with Sub-Woofer in good working condition; suitable for Activity Centre use",
+      "location": null,
+      "validTill": "21 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "98722",
       "name": "Study table lamp",
