@@ -2497,24 +2497,6 @@
       "date": "21 Sep 2021"
     },
     {
-      "id": "98700",
-      "category": "Learning Aids",
-      "name": "Mobile Phone",
-      "description": "Single-income family with 3 children (a teenager aged 13 and 2 preschoolers). Mother is currently not working due to caregiving responsibilities and has health issues at the moment. The teenager is keen to be engaged by youth agency programmes but due to current covid situation, activities are online. However given family’s financial constraints, teenager is unable to have a device to access these online activities.\nThe donation of a functioning mobile phone would be most helpful to enable teenager to be linked to the youth programmes and activities to be engaged meaningfully.",
-      "specifications": null,
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Mindy Choo",
-        "email": "mindychoo@fycs.org",
-        "phone": [
-          "89078297",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Sep 2021"
-    },
-    {
       "id": "98697",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -2704,6 +2686,24 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "24 Aug 2021"
+    },
+    {
+      "id": "98797",
+      "category": "Others",
+      "name": "Urgent/ Short term - Help with halal meals for family on quarantine",
+      "description": "A family with 3 young children are placed on home quarantine until 29/9 and they have lack of informal support to purchase meals. Mother is feeling stressed in taking care of the children on her own at home. The family is residing in a rental flat as they have financial difficulties. Any help with providing meals delivery will be a great support to help the family tide through this period. Pls whatsapp me at 68010718 if it is more convenient. Thank you very much.",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Angeline Cheng",
+        "email": "angeline.cheng@reach.org.sg",
+        "phone": [
+          "68010718",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Sep 2021"
     },
     {
       "id": "98773",
@@ -3546,24 +3546,6 @@
       "date": "26 Aug 2021"
     },
     {
-      "id": "98778",
-      "category": "Home Furnishing",
-      "name": "Sofa",
-      "description": "Client has multiple medical conditions and had went through multiple operations. She is from a low income family with 3 children to care for. As Such, the family has just enough to pay for their 3 meals and medical care. They do not have enough for any additional expense. Client requires a sofa as a sofa will enable the children and the family to have a more comfortable experience. Client prefers an L-shape sofa due to spacial limitations in her home",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Services @ Taman Jurong SSO",
-        "name": "Nur Sabrina Binte Aswan",
-        "email": "nursabrina@fycs.org",
-        "phone": [
-          "62672935",
-          "62672900"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Sep 2021"
-    },
-    {
       "id": "98774",
       "category": "Home Furnishing",
       "name": "Dinning Table & Chairs",
@@ -4089,6 +4071,46 @@
   ],
   "offers": [
     {
+      "id": "98798",
+      "name": "Bedframe (Super Single)",
+      "description": "Super single bedframe.  Very good condition. Hardly used.",
+      "location": "Kranji, Woodgrove",
+      "validTill": "22 Oct 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "98796",
+      "name": "dinning table and chairs",
+      "description": "dining table and 2 chairs, no scratch, no strain",
+      "location": "Jurong",
+      "validTill": "15 Oct 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "98795",
+      "name": "Sofa",
+      "description": "Sofa, 2 years old, start to be wear and tear, but still usable",
+      "location": "Jurong",
+      "validTill": "15 Oct 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "98794",
+      "name": "Thea",
+      "description": "Bed is almost brand new. My Grandma used it for less than a month. I will get professional movers to move and assemble the hospital bed.",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "22 Oct 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "98787",
       "name": "Queen bed frame",
       "description": "Disassembled queen size bed frames",
@@ -4254,16 +4276,6 @@
       "description": "Big metal cup.",
       "location": "Tampines, Pasir Ris",
       "validTill": "20 Oct 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98709",
-      "name": "Office Chair",
-      "description": "Office chair, black color.",
-      "location": "Watten Estate, Novena, Thomson",
-      "validTill": "10 Oct 2021",
       "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -4445,16 +4457,6 @@
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "20 Oct 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98771",
-      "name": "3 seater sofa",
-      "description": "Well maintained, with 1 light stain. Usually used with sofa protector.",
-      "location": "Katong, Joo Chiat, Amber Road",
-      "validTill": "19 Oct 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
