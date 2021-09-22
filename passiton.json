@@ -4018,6 +4018,16 @@
   ],
   "offers": [
     {
+      "id": "98827",
+      "name": "Wardrobe, dressing table, side table, single bed",
+      "description": "great condition, wardrobe comes with matching dressing table, side table and single bed frame with mattress",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "23 Oct 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "98826",
       "name": "TV",
       "description": "In good working condition but need self pick up ps",
@@ -4634,16 +4644,6 @@
       "location": "Little India",
       "validTill": "17 Oct 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98548",
-      "name": "Dining Table with 6 chairs",
-      "description": "Redwood Oriental Dining Table",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "23 Sep 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -5584,46 +5584,6 @@
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "24 Sep 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97545",
-      "name": "School bag",
-      "description": "Lego school bag in good condition. suitable for primary school kids.",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "23 Sep 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97544",
-      "name": "Car child seat",
-      "description": "Car child seat in good condition",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "23 Sep 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97495",
-      "name": "Boys clothing",
-      "description": "Boys clothing for age 2-3",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "23 Sep 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "97493",
-      "name": "Various toys",
-      "description": "Toys for age 2-3",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "23 Sep 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     }
