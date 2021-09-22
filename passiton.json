@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "98820",
+      "category": "Mobility Aids",
+      "name": "Wheelchair",
+      "description": "Patient (55/M) is currently unemployed and will benefit from a new wheelchair to support him in getting around. He had undergone bilateral toe amputation, most recently in June 2021, hence has to rely on a wheelchair to get around safely. Patient is currently borrowing his elderly mother’s wheelchair while she is at home to commute. Having a wheelchair will greatly support him in travelling in the community.",
+      "specifications": "Medium to Large Wheelchair",
+      "contact": {
+        "org": "National Kidney Foundation (NKF)",
+        "name": "Melissa Tan",
+        "email": "melissa.tan@nkfs.org",
+        "phone": [
+          "65062254",
+          "65062244"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "22 Sep 2021"
+    },
+    {
+      "id": "98819",
+      "category": "Mobility Aids",
+      "name": "Motorised Scooter",
+      "description": "Patient (57/F) has difficulties walking due to frequent giddiness after dialysis and shortness of breath due to her health conditions. She has difficulty traveling on her own and hence she would usually not be able to go out much unless someone accompanies her. Hence having a motorised scooter will increase her ease of access in the community and allow her to travel safely and independently.",
+      "specifications": "Medium Motorised Scooter",
+      "contact": {
+        "org": "National Kidney Foundation (NKF)",
+        "name": "Melissa Tan",
+        "email": "melissa.tan@nkfs.org",
+        "phone": [
+          "65062254",
+          "65062244"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "22 Sep 2021"
+    },
+    {
       "id": "98564",
       "category": "Mobility Aids",
       "name": "Wheelchair battery",
