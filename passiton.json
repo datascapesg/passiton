@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "98838",
+      "category": "Mobility Aids",
+      "name": "Wheelchair",
+      "description": "Client has multiple chronic illness and requires to do followups at the hospital at least once a week. Client faces water retention at her legs making it challenging for her to walk. The wheelchair will be helpful to support her mobility.",
+      "specifications": null,
+      "contact": {
+        "org": "Lakeside Family Centre - Jurong East",
+        "name": "Jodie Chong",
+        "email": "jodie-chong@lakeside.org.sg",
+        "phone": [
+          "65649722"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Sep 2021"
+    },
+    {
       "id": "98819",
       "category": "Mobility Aids",
       "name": "Motorised Scooter",
@@ -1273,6 +1290,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "23 Aug 2021"
+    },
+    {
+      "id": "98840",
+      "category": "Electrical Home Appliances",
+      "name": "Cooler Fan",
+      "description": "Elderly lady requires a cooler fan as she gets heaty easily due to hypertension. Her daughter had passed away recently, leaving behind young grandson. Lady is a divorcee and working as p/t cleaner to support grandchild.",
+      "specifications": null,
+      "contact": {
+        "org": "Hougang Sheng Hong Family Service Centre",
+        "name": "Chow Yin Ying",
+        "email": "yinying@shenghong.org.sg",
+        "phone": [
+          "62895022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Sep 2021"
     },
     {
       "id": "98830",
@@ -3494,23 +3528,6 @@
       "date": "23 Sep 2021"
     },
     {
-      "id": "98834",
-      "category": "Home Furnishing",
-      "name": "Queen size bed frame",
-      "description": "Client is a single mother who is unemployed as she has to care for her young daughter. Client stays in a 1 room HDB Rental flat. Client is struggling financially and she does not have a bed frame. Client request for a queen size bed frame. Also, donor who is willing to cover the delivery charges as client is unable to afford the charges.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Dini Dzulaikha Bte Dzulkifli",
-        "email": null,
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "23 Sep 2021"
-    },
-    {
       "id": "98833",
       "category": "Home Furnishing",
       "name": "Shelves Rack Portable",
@@ -4312,16 +4329,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "98707",
-      "name": "Pull out super single beds",
-      "description": "Teak wood pull out super single beds along with two mattresses in very good condition",
-      "location": null,
-      "validTill": "20 Oct 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "98687",
       "name": "Sofa",
       "description": "Grey fabric sofa, slight discoloration on fabric but can be cleaned",
@@ -4648,16 +4655,6 @@
       "location": "Little India",
       "validTill": "17 Oct 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98547",
-      "name": "Manual Reclining Geriatric Chair with Tray",
-      "description": "Manual Reclining Geriatric Chair with Tray is in very good condition.  \n\nBelow is the url link of the product:\nhttps://www.dnrwheels.com/collections/geriatric-chairs/products/manual-reclining-geriatric-chair-with-tray",
-      "location": "Kranji, Woodgrove",
-      "validTill": "16 Oct 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -5275,6 +5272,16 @@
       "id": "98113",
       "name": "TV stand",
       "description": "Preloved TV stand. You can also use it to put your printer on instead of a TV.\n\nW 60 cm x D 40 cm x H 60 cm\n\nPlease call or text to arrange self-collection.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "07 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "98839",
+      "name": "Preloved electric kettle (2 litre)",
+      "description": "Preloved electric kettle. Capacity 2 litre.\nSelf-collection - Holland Village MRT\n\nPlease call or text msg for details on self-collection.",
       "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
       "validTill": "07 Oct 2021",
       "ageInYears": 4,
