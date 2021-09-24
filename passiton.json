@@ -245,23 +245,6 @@
       "date": "24 Sep 2021"
     },
     {
-      "id": "98869",
-      "category": "Infant and Children Items",
-      "name": "baby cot",
-      "description": "Family has an infant and requires a baby cot to sleep in. Due to financial strains, family is unable to afford a baby cot.",
-      "specifications": null,
-      "contact": {
-        "org": "The SBL Vision Family Service Centre",
-        "name": "Goh Ping Kiat",
-        "email": "pingkiat@sblvisionfsc.org.sg",
-        "phone": [
-          "65442263"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Sep 2021"
-    },
-    {
       "id": "98829",
       "category": "Infant and Children Items",
       "name": "Enfamil Pro A+ Stage 1 900g",
@@ -627,23 +610,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "20 Sep 2021"
-    },
-    {
-      "id": "98658",
-      "category": "Infant and Children Items",
-      "name": "Drypers (Tape) Size S",
-      "description": "Same family as in post ID 98560. She needs diapers for her baby as well.  \n\nClient is 19 y/o with a 1 month+ newborn. They are living in a rental flat with her mother. She lacks financial support from her mother due to their strained relationship. She's relying on welfare assistance while on maternity leave currently as her part-time job provides her with low wages and her savings are insufficient.",
-      "specifications": "size S - 3 packets",
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Siti Nur Sa’iidah",
-        "email": "sitinursaiidah@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "20 Sep 2021"
     },
     {
@@ -1394,6 +1360,57 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "24 Aug 2021"
+    },
+    {
+      "id": "98909",
+      "category": "Electrical Home Appliances",
+      "name": "Standing Fan",
+      "description": "Client is a homeless elderly lady that is moving into a HDB rental flat. She has requested for a standing fan as her new rental flat does not come with a one. She has insufficient financial resources and is reliant on financial assistance for her subsistence.",
+      "specifications": null,
+      "contact": {
+        "org": "Hougang Sheng Hong Family Service Centre",
+        "name": "Janan Lee",
+        "email": "janan@shenghong.org.sg",
+        "phone": [
+          "62895022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "24 Sep 2021"
+    },
+    {
+      "id": "98907",
+      "category": "Electrical Home Appliances",
+      "name": "Induction Cooker",
+      "description": "Client is a homeless elderly lady that is moving into a HDB rental flat. She has requested for a induction cooker to be installed as her new rental flat does not come with a stove. She has insufficient financial resources and is reliant on financial assistance for her subsistence.",
+      "specifications": null,
+      "contact": {
+        "org": "Hougang Sheng Hong Family Service Centre",
+        "name": "Janan Lee",
+        "email": "janan@shenghong.org.sg",
+        "phone": [
+          "62895022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "24 Sep 2021"
+    },
+    {
+      "id": "98906",
+      "category": "Electrical Home Appliances",
+      "name": "Water heater",
+      "description": "Client is a homeless elderly lady that is moving into a HDB rental flat. She has requested for a water heater to be installed due for health reasons as her new rental flat does not have one. She has insufficient financial resources and is reliant on financial assistance for her subsistence.",
+      "specifications": null,
+      "contact": {
+        "org": "Hougang Sheng Hong Family Service Centre",
+        "name": "Janan Lee",
+        "email": "janan@shenghong.org.sg",
+        "phone": [
+          "62895022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "24 Sep 2021"
     },
     {
       "id": "98901",
@@ -3036,23 +3053,6 @@
       "date": "16 Sep 2021"
     },
     {
-      "id": "98520",
-      "category": "Others",
-      "name": "Pest control service (cockroach)",
-      "description": "The family has 3 young children, including a young infant at home. The house was recently infested with many cockroaches and request for pest control services. In view of the safety concerns of the children, pest control services are required to ensure a safe place for the children to stay in. Family is unable to afford for the pest control (cockroaches) due to financial constrains.",
-      "specifications": null,
-      "contact": {
-        "org": "The SBL Vision Family Service Centre",
-        "name": "Goh Ping Kiat",
-        "email": "pingkiat@sblvisionfsc.org.sg",
-        "phone": [
-          "65442263"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Sep 2021"
-    },
-    {
       "id": "98511",
       "category": "Others",
       "name": "Fresh food Rations needed",
@@ -4064,6 +4064,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "31 Aug 2021"
+    },
+    {
+      "id": "98908",
+      "category": "Kitchen Utility Items",
+      "name": "Cooking Pots and Pans",
+      "description": "Client is a homeless elderly lady that is moving into a HDB rental flat. She has requested for a set of Pots and Pans. She has insufficient financial resources and is reliant on financial assistance for her subsistence.",
+      "specifications": null,
+      "contact": {
+        "org": "Hougang Sheng Hong Family Service Centre",
+        "name": "Janan Lee",
+        "email": "janan@shenghong.org.sg",
+        "phone": [
+          "62895022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "24 Sep 2021"
     },
     {
       "id": "98846",
@@ -5454,6 +5471,26 @@
       "description": "Hospital bed without base mattress. Purchased from rehab mart . In good working condition.",
       "location": "Middle Road, Golden Mile",
       "validTill": "01 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "98904",
+      "name": "TV stand",
+      "description": "Preloved TV stand. You can also use it to put your printer on instead of a TV.\n\nW 60 cm x D 40 cm x H 60 cm\n\nPlease call or text to arrange self-collection.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "07 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "98905",
+      "name": "TV stand",
+      "description": "Preloved TV stand. You can also use it to put your printer on instead of a TV.\n\nW 60 cm x D 40 cm x H 60 cm\n\nPlease call or text to arrange self-collection.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "07 Oct 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
