@@ -124,6 +124,23 @@
       "date": "06 Sep 2021"
     },
     {
+      "id": "99010",
+      "category": "Infant and Children Items",
+      "name": "Child pulled up diapers",
+      "description": "Child is diagnosed with Global Development Delay (GDD) and Epilepsy. Her GDD impacts her mobility, speech and vision. Child is reliant on diapers as she is ADL dependent. Single father is supporting child, together with his elderly parents, where his elderly mother is wheelchair bound.",
+      "specifications": "XXL Mamy Poko",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Celestine Liow",
+        "email": "celestineliow@amkfsc.org.sg",
+        "phone": [
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "28 Sep 2021"
+    },
+    {
       "id": "99004",
       "category": "Infant and Children Items",
       "name": "Playmat",
@@ -266,24 +283,6 @@
       "date": "27 Sep 2021"
     },
     {
-      "id": "98952",
-      "category": "Infant and Children Items",
-      "name": "Milk Powder",
-      "description": "Wife is a full-time caregiver to her 1-year-old daughter. Husband works as a Grab delivery man. Currently, couple is struggling with outstanding bills and seeking financial assistance.",
-      "specifications": "Dumex Dugro Stage 3 Milk Powder (X3)",
-      "contact": {
-        "org": "Fei Yue Community Services",
-        "name": "Daniel Tang",
-        "email": "danieltang@fycs.org",
-        "phone": [
-          "67690430",
-          "63809169"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Sep 2021"
-    },
-    {
       "id": "98883",
       "category": "Infant and Children Items",
       "name": "Double Strollers - Lightweight",
@@ -313,23 +312,6 @@
         "phone": [
           "89078297",
           "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Sep 2021"
-    },
-    {
-      "id": "98879",
-      "category": "Infant and Children Items",
-      "name": "Lactogen milk powder (stage 3) & L sized diapers",
-      "description": "Client is the main caregiver for her young grandson. Due to client's health issues, she is unable to sustain employment for extended periods. Client's daughter (a single mother) is actively pursuing job opportunities to support the family income. Family would be greatly supported with diapers and milk to alleviate their financial constraints.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Thia Jun Hoong",
-        "email": "thiajunhoong@carecorner.org.sg",
-        "phone": [
-          "64761481"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1123,8 +1105,8 @@
     {
       "id": "99006",
       "category": "Others",
-      "name": "New Microwave",
-      "description": "Family with 9 month old infant have just moved into a shelter. They are facing financial difficulties and are in need of a new microwave to help prepare their meals.",
+      "name": "Microwave",
+      "description": "Family with 9 month old infant have just moved into a shelter. They are facing financial difficulties and are in need of a preferable new microwave to help prepare their meals.",
       "specifications": null,
       "contact": {
         "org": "AMKFSC Community Services Ltd - Sengkang",
@@ -2046,6 +2028,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "30 Aug 2021"
+    },
+    {
+      "id": "99009",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Our client is a of 6 who lives in a rental flat and is experiencing financial hardship. \nBoth parents are working but they are struggling with their basic needs as they also have debts to pay off. Their fridge has broken down, and they are presently unable to afford a replacement. Looking for a kind donor to help this family. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Sep 2021"
     },
     {
       "id": "99001",
@@ -3830,6 +3829,56 @@
   ],
   "offers": [
     {
+      "id": "99014",
+      "name": "Medicines",
+      "description": "Glipizide 5mg exp 12/24 \nTreatment for diabetes",
+      "location": null,
+      "validTill": "28 Oct 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99013",
+      "name": "Medicines",
+      "description": "1)irbesartan 150mg exp 04/22 \nTreatment for high blood .diabetes \n2) folic aid 5 mg exp 05/26 \n3) sodium biocarbonate 500mg exp 03/23\n     Melatonin 3 mg exp 02/24",
+      "location": null,
+      "validTill": "28 Oct 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99011",
+      "name": "Medicines",
+      "description": "1) Maltofer 100mb exp 12/25 iron tablets \n2)trajenta 5mg exp10-23 treatment for diabetes \n3)omeprazole exp 04/24 treatment for indigestion and heartburn",
+      "location": null,
+      "validTill": "28 Oct 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99008",
+      "name": "Medicine",
+      "description": "1)Nifedipine 30mg exp06/23 treat high blood pressure \n2)magtasil  exp 12/23\ntreatment for gastric,heartburn\n3)duphalac exp 02/23\ntreatment for constipation",
+      "location": null,
+      "validTill": "28 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99007",
+      "name": "Medicines",
+      "description": "1)High blood medicines -Atenolol 50mg \nexp 12/2024\n2)for treatment of constipation - senna7.5mg \nExp 05/2025\n3)anti-inflammatory cream-Dermasone 0.025% \nExp 10/2023",
+      "location": null,
+      "validTill": "28 Oct 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "98998",
       "name": "Honeywell CL20AE - Evaporative Air Cooler",
       "description": "No warranty\n6 years since bought\nRemote control spoilt\nBut still in good condition\nRarely used < 10 uses\nWill come with manual and also ice packs",
@@ -3855,26 +3904,6 @@
       "description": "It’s made of solid wood. Can be foldable. The cushion I bought it in June this year.",
       "location": "Yishun, Sembawang",
       "validTill": "10 Oct 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98994",
-      "name": "Brandt Dryer 8kg",
-      "description": "Dryer capacity 8kg",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "10 Oct 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98993",
-      "name": "Honeywell HEPA Air Purifier (Model 50250-S)",
-      "description": "A rarely used unit of Honeywell 50250-S True HEPA Germ Fighting Allergen Reducer Air Purifier",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "15 Oct 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -3906,16 +3935,6 @@
       "location": "Kranji, Woodgrove",
       "validTill": "27 Oct 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98944",
-      "name": "Beige Sofa/Couch",
-      "description": "Beige 3-seater sofa (\"suade\") with 2 cushions",
-      "location": "Raffles Place, Cecil, Marina, People's Park",
-      "validTill": "15 Oct 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
