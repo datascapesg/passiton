@@ -1,5 +1,22 @@
 [
   {
+    "id": "99049",
+    "category": "Mobility Aids",
+    "name": "Push wheelchair with small wheels",
+    "description": "A 70 years old woman suffered 2 strokes, she has to use a wheelchair in the community, her elderly husband is her caregiver who push her around,  they need a lighter weight push chair with small wheels so that husband can handle the physically taxing duties of caregiving.",
+    "specifications": "Push wheelchair with small wheels",
+    "contact": {
+      "org": "SingHealth (CGH) – Community Care",
+      "name": "Yick Lai Cheng",
+      "email": "yick.lai.cheng@singhealth.com.sg",
+      "phone": [
+        "64268053"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Sep 2021"
+  },
+  {
     "id": "96112",
     "category": "Mobility Aids",
     "name": "Motorised Scooter",
@@ -121,6 +138,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "06 Sep 2021"
+  },
+  {
+    "id": "99053",
+    "category": "Infant and Children Items",
+    "name": "Baby Bathtub with Stand",
+    "description": "Family of 6, with 3 school-going children and a coming newborn baby, needs a baby bathtub with stand as mother will not be able to squat down to care for the baby as she is due for a separate surgery immediately after delivery. Father is the sole-bread winner and Mother is unable to work due to physical health constraints.\n\nPlease contact Jessie at 9125 0028 if you would like to donate to help the family. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "HEART @ Fei Yue",
+      "name": "Jessie Lim",
+      "email": "jessielim@fycs.org",
+      "phone": [
+        "68199173",
+        "68199170"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Sep 2021"
   },
   {
     "id": "99039",
@@ -1078,23 +1113,6 @@
       "phone": [
         "68485116",
         "68485166"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "28 Sep 2021"
-  },
-  {
-    "id": "99036",
-    "category": "Others",
-    "name": "Groceries Trolley",
-    "description": "An elderly client of Thye Hua Kwan Moral Charities (THKMC), Mdm L, suffers from Parkinson’s disease which causes her lower limbs to frequently freeze up.  \n\n   \n\nOn behalf of the client, THKMC is seeking a donation of a grocery trolley with four wheels which will serve as a support to her and prevent her from falling when she goes to the market. \n\n   \n\nIf you know of someone who has the item for donation, please contact Case Manager Jaslyn at 8292 2216. We appreciate it if the donor could deliver the item to the client’s home directly at Jalan Bukit Ho Swee. For more information on THKMC, do visit: https://www.thkmc.org.sg",
-    "specifications": null,
-    "contact": {
-      "org": "THK Cluster Support @ Bukit Merah",
-      "name": "Jaslyn Heng",
-      "email": "jaslynheng@thkmc.org.sg",
-      "phone": [
-        "69242951"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -2063,6 +2081,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "30 Aug 2021"
+  },
+  {
+    "id": "99051",
+    "category": "Electrical Home Appliances",
+    "name": "a fan",
+    "description": "Client is single, living alone. Because of her health issues she is unemployed. She needs the fan because the old one is already spoilt.",
+    "specifications": null,
+    "contact": {
+      "org": "SAMH Mobile Support Team",
+      "name": "Valentina Any",
+      "email": "valentina_any@samhealth.org.sg",
+      "phone": [
+        "85112678"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "28 Sep 2021"
   },
   {
     "id": "99038",
@@ -3098,6 +3133,77 @@
     "date": "31 Aug 2021"
   },
   {
+    "id": "99057",
+    "category": "Home Furnishing",
+    "name": "wardrobe",
+    "description": "Client is from a low-income family with 4 children. They are moving into their BTO flat in Oct and are looking for a wardrobe to furnish their house. However, they are unable to afford it. Hence it would be helpful for the family to receive them.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services @ Taman Jurong SSO",
+      "name": "Charmaine Lim",
+      "email": "charmainelim@fycs.org",
+      "phone": [
+        "62672945",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Sep 2021"
+  },
+  {
+    "id": "99056",
+    "category": "Home Furnishing",
+    "name": "Sofa",
+    "description": "Client is from a low-income family with 4 children. They are moving into their BTO flat in Oct and are looking for a sofa to furnish their house. However, they are unable to afford it. Hence it would be helpful for the family to receive them.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services @ Taman Jurong SSO",
+      "name": "Charmaine Lim",
+      "email": "charmainelim@fycs.org",
+      "phone": [
+        "62672945",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Sep 2021"
+  },
+  {
+    "id": "99055",
+    "category": "Home Furnishing",
+    "name": "Dining table",
+    "description": "Client is from a low-income family with 4 children. They are moving into their BTO flat in Oct and are looking for a dining table to furnish their house. However, they are unable to afford it. Hence it would be helpful for the family to receive them.",
+    "specifications": "with 6 chairs if possible",
+    "contact": {
+      "org": "Fei Yue Family Services @ Taman Jurong SSO",
+      "name": "Charmaine Lim",
+      "email": "charmainelim@fycs.org",
+      "phone": [
+        "62672945",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Sep 2021"
+  },
+  {
+    "id": "99052",
+    "category": "Home Furnishing",
+    "name": "2 single bed frames/2 single mattreses",
+    "description": "2 sisters in their mid 50s with intellectual disability living in rental unit had their furniture destroyed by termites and bedbugs\nCurrently, unit is empty except for a few chairs.\n \nBoth sisters are unemployed, are reliant on each other, and is receiving Financial assistance from Social Service Office.",
+    "specifications": null,
+    "contact": {
+      "org": "SAMH Mobile Support Team",
+      "name": "Valentina Any",
+      "email": "valentina_any@samhealth.org.sg",
+      "phone": [
+        "85112678"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "28 Sep 2021"
+  },
+  {
     "id": "99048",
     "category": "Home Furnishing",
     "name": "Shelf",
@@ -3147,23 +3253,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "28 Sep 2021"
-  },
-  {
-    "id": "98984",
-    "category": "Home Furnishing",
-    "name": "Shoe Cabinet",
-    "description": "Client is a single mother with 5 children living in a 2 room rental flat. The current cabinet is spoiled. With a new born grandchild in the family, She needs support in getting a replacement.",
-    "specifications": "Roughly Width:150cm Height: 70cm if possible",
-    "contact": {
-      "org": "SHINE Children and Youth Services - Clementi",
-      "name": "Gwen Ho",
-      "email": "gwen_ho@shine.org.sg",
-      "phone": [
-        "67786867"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "27 Sep 2021"
   },
   {
     "id": "98982",
@@ -3288,23 +3377,6 @@
     "date": "22 Sep 2021"
   },
   {
-    "id": "98702",
-    "category": "Home Furnishing",
-    "name": "cupboard",
-    "description": "Client is an elderly low income worker and her husband is wheelchair bound. She just received the keys to her rental flat and is in need of household items.",
-    "specifications": null,
-    "contact": {
-      "org": "Serangoon Moral Family Service Centre",
-      "name": "Muhammad Al-Hakim",
-      "email": "hakim@smfsc.org.sg",
-      "phone": [
-        "62847123"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "20 Sep 2021"
-  },
-  {
     "id": "98516",
     "category": "Home Furnishing",
     "name": "Storage Cabinet",
@@ -3407,24 +3479,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "09 Sep 2021"
-  },
-  {
-    "id": "98054",
-    "category": "Home Furnishing",
-    "name": "Shoe Rack",
-    "description": "Ct is a single mother who has a daughter and grandson who would be moving in with her in November 2021 She is currently not working and needs support in getting a shoe rack to organise the shoes in the household.",
-    "specifications": null,
-    "contact": {
-      "org": "Whampoa Family Service Centre",
-      "name": "Tan Jia Wei",
-      "email": "tanjiawei@kkcs.org.sg",
-      "phone": [
-        "63260305",
-        "63260300"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Sep 2021"
   },
   {
     "id": "97884",
