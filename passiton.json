@@ -2190,6 +2190,24 @@
       "date": "30 Aug 2021"
     },
     {
+      "id": "99116",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine Needed! (Top Load)",
+      "description": "Client is a single mother, and the sole provider for her 3 school-going children.  Client earns a minimal income from her part-time employment, and as a result, the family experiences financial strains. The family requires a washing machine as their current one is faulty.",
+      "specifications": "Top Load",
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Farahlina Tan",
+        "email": "farahlina_tan@awwa.org.sg",
+        "phone": [
+          "65119458",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Sep 2021"
+    },
+    {
       "id": "99112",
       "category": "Electrical Home Appliances",
       "name": "Induction Cooker needed",
@@ -3185,6 +3203,23 @@
       "date": "31 Aug 2021"
     },
     {
+      "id": "99115",
+      "category": "Home Furnishing",
+      "name": "Wardrobe",
+      "description": "Client is the main caregiver to one of her grandchildren - a 8-year-old boy whose parents have not been present in most of his life. Client recently has her father's hoarded items cleared by Town Council and hopes to reorganise her flat. She hopes to get a wardrobe in replacement of the current one that the family has currently as it has worn out due to long period of usage. As client is unable to work due to her physical strain on her knees and medical conditions, client would appreciate a donation of a wardobe to store her and her grandson's personal belongings. Thank you so much.(Nasuha)",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Bedok North",
+        "name": "Teddy Fu",
+        "email": "teddyfu@thkmc.org.sg",
+        "phone": [
+          "64491440"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Sep 2021"
+    },
+    {
       "id": "99099",
       "category": "Home Furnishing",
       "name": "Single Mattress",
@@ -3340,23 +3375,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "24 Sep 2021"
-    },
-    {
-      "id": "98814",
-      "category": "Home Furnishing",
-      "name": "small wardrobe",
-      "description": "Client is a single mother to her 2-year-old son and is about 7-month pregnant to her unborn child. She was unable to continue with her work as a service crew due to the restrictions in dining in at F&B then and her frequent experiences of morning sickness and attempted work again to keep up with her expenses. However, she had to stop due to the fatigue given the work demands.\nClient had received donations of new baby clothing from other sources, both informal and formal. She has an existing portable wardrobe to store her son's clothings but it is not big enough to store them together with her unborn child's clothings. Therefore, a donation of wardrobe, would be greatly appreciated. Thank you very much.(Nasuha)",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Teddy Fu",
-        "email": "teddyfu@thkmc.org.sg",
-        "phone": [
-          "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Sep 2021"
     },
     {
       "id": "98512",
@@ -4005,12 +4023,22 @@
   ],
   "offers": [
     {
-      "id": "99108",
-      "name": "Drawer Cabinet",
-      "description": "Drawer cabinet is in good working condition.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "29 Oct 2021",
+      "id": "99114",
+      "name": "Electrical Hospital Bed",
+      "description": "The item is located at Sembawang for delivery. The donor is willing to pay for the delivery fee. Please contact Jek MUi (Dementia Singapore) for arrangements. Thanks.",
+      "location": "Yishun, Sembawang",
+      "validTill": "15 Oct 2021",
       "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99113",
+      "name": "Twin bean bag couch",
+      "description": "Twin couch with some thread run on the side",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "29 Oct 2021",
+      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
