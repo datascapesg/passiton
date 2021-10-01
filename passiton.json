@@ -159,23 +159,6 @@
       "date": "30 Sep 2021"
     },
     {
-      "id": "99171",
-      "category": "Infant and Children Items",
-      "name": "Diapers/Milk Powder",
-      "description": "Client is a young mother to 1yo son and 2 yo daughter, who is recently terminated from work due to COVID. Her spouse is unable to work due to his pending incarceration. The family struggles to purchase basic needs for their children.",
-      "specifications": "Milk Powder Lactogen 3 and Pulled up diapers (Size M and L)",
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Celestine Liow",
-        "email": "celestineliow@amkfsc.org.sg",
-        "phone": [
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "30 Sep 2021"
-    },
-    {
       "id": "99161",
       "category": "Infant and Children Items",
       "name": "Drypers XL",
@@ -1152,6 +1135,23 @@
       "date": "01 Sep 2021"
     },
     {
+      "id": "99182",
+      "category": "Electrical Home Appliances",
+      "name": "Fan",
+      "description": "Couple with 3 young children, one of whom is recently diagnosed with Autism & ADHD will require a fan. Father is in F&B but struggling with low pay. Mother could not work as she has to bring child for multiple therapy treatments",
+      "specifications": null,
+      "contact": {
+        "org": "Hougang Sheng Hong Family Service Centre",
+        "name": "Chow Yin Ying",
+        "email": "yinying@shenghong.org.sg",
+        "phone": [
+          "62895022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Oct 2021"
+    },
+    {
       "id": "99170",
       "category": "Electrical Home Appliances",
       "name": "Television",
@@ -2077,40 +2077,6 @@
       "date": "08 Sep 2021"
     },
     {
-      "id": "98128",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Single mother recently moving in to a rental flat with two toddlers. Family in need of a refrigerator. Preferably from a Muslim home if preloved.",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Nur Nadhirah Binte Abu Khalid",
-        "email": "nurnadhirah.abukhalid@ppis.sg",
-        "phone": [
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Sep 2021"
-    },
-    {
-      "id": "98108",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Unemployed single mother with 3 school going children needs a washing machine as their current washing machine is not working. Mom is not working due to bad knees and had to use her hands to manually wash clothes. This would further aggravates her bad knees.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Mohd Fadil Bin Hassan",
-        "email": "mohdfadil@amkfsc.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Sep 2021"
-    },
-    {
       "id": "98064",
       "category": "Electrical Home Appliances",
       "name": "Portable/Floor-standing Air-Con",
@@ -2122,24 +2088,6 @@
         "email": "victoriachong@fycs.org",
         "phone": [
           "69783482",
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Sep 2021"
-    },
-    {
-      "id": "98055",
-      "category": "Electrical Home Appliances",
-      "name": "Washing machine",
-      "description": "Client has multiple young children. Having a washing machine would help to increase efficiency. Client washing machine is spoilt and is not able to afford a new one.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Liew Huan Yi",
-        "email": "liewhuanyi@fycs.org",
-        "phone": [
-          "63519508",
           "65690381"
         ]
       },
@@ -4190,6 +4138,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "99181",
+      "name": "BLACK LEATHER HIGH BACK SOFA",
+      "description": "IN VERY GOOD CONDITION.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "31 Oct 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "99180",
       "name": "Glass top coffee table",
