@@ -141,6 +141,23 @@
       "date": "06 Sep 2021"
     },
     {
+      "id": "99185",
+      "category": "Infant and Children Items",
+      "name": "Nestle Nan Optipro HA Follow Up Formula 2'-FL - Stage 2",
+      "description": "Low-income family of 7. The whole family is currently on SHN and QO and hence, income is affected. Father is unable to work at his cash-pay jobs and has to pause his upskilling course as a security guard. Mother is main caregiver of 5 children aged 6mo-11yo. \n\nThe family is down to their last tin of milk powder and would appreciate donations to meet infant's nutrition needs. \n\nNestle Nan Optipro HA Follow Up Formula 2'-FL - Stage 2",
+      "specifications": "Milk powder",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Tricia Tee",
+        "email": "triciatee@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Oct 2021"
+    },
+    {
       "id": "99174",
       "category": "Infant and Children Items",
       "name": "Playpen",
@@ -189,23 +206,6 @@
         "phone": [
           "64546678",
           "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 Sep 2021"
-    },
-    {
-      "id": "99142",
-      "category": "Infant and Children Items",
-      "name": "Breast Pump",
-      "description": "Requesting for a breast pump for Client who just conceived a new-born. \n\nFamily is currently reliant on SSO financial assistance and is not able to afford a breast pump.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Toa Payoh",
-        "name": "Sheryl Tay",
-        "email": "sheryltay@carecorner.org.sg",
-        "phone": [
-          "63561622"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2196,23 +2196,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "28 Sep 2021"
-    },
-    {
-      "id": "98982",
-      "category": "Home Furnishing",
-      "name": "Wardrobe",
-      "description": "Client is a single mother with 5 children, living in a 2 room flat. Their current wardrobe is spoiled. With a new born member, family requires a roughly 2 to 4 door wardrobe to replace their current one.",
-      "specifications": "Width: 150cm Height :180cm.",
-      "contact": {
-        "org": "SHINE Children and Youth Services - Clementi",
-        "name": "Gwen Ho",
-        "email": "gwen_ho@shine.org.sg",
-        "phone": [
-          "67786867"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Sep 2021"
     },
     {
       "id": "98975",
@@ -4239,16 +4222,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "99134",
-      "name": "City mini stroller",
-      "description": "Toddler not willing to use stroller after CB/HA.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "30 Oct 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "99126",
       "name": "Chest of Drawers",
       "description": "Solid wood chest of drawers used in baby’s room.  Beautiful workmanship though there are a few scratches.",
@@ -4365,6 +4338,26 @@
       "location": "Yishun, Sembawang",
       "validTill": "29 Oct 2021",
       "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99183",
+      "name": "Ikea TV console",
+      "description": "IKEA TV console/cabinet.In very good condition.",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "29 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99184",
+      "name": "Ikea TV console",
+      "description": "IKEA TV console/cabinet.In very good condition.",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "29 Oct 2021",
+      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
