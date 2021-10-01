@@ -1153,18 +1153,17 @@
       "date": "01 Sep 2021"
     },
     {
-      "id": "99192",
+      "id": "99210",
       "category": "Electrical Home Appliances",
-      "name": "Induction cooker",
-      "description": "A single mother with two young children hope to seek your kind provision of a induction cooker. The family has finally gotten their keys to their rental flat and require support to refurbish their rental unit with basic necessities. Mother is the sole caregiver of her children and is currently relying on formal financial support to make ends meet. Your blessing of an induction cooker is greatly appreciated. Thank you!",
+      "name": "Ceramic Induction Cooker",
+      "description": "Elderly uncle 87 yrs old living in HDB 1-room rental flat needs a ceramic induction cooker. His existing cooker has stopped working. A ceramic cooker will allow him to use any type of pot. Many Thanks.",
       "specifications": null,
       "contact": {
-        "org": "AWWA Transitional Shelter",
-        "name": "Esther Tan",
-        "email": "esther_tan@awwa.org.sg",
+        "org": "Moral Senior Activity Center @ Kaki Bukit",
+        "name": "Gary Tan",
+        "email": "garytan@chkmps.org.sg",
         "phone": [
-          "65117278",
-          "65117272"
+          "64486247"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1204,41 +1203,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "01 Oct 2021"
-    },
-    {
-      "id": "99170",
-      "category": "Electrical Home Appliances",
-      "name": "Television",
-      "description": "Single elderly lady living alone in 1 room rental flat with financial and health challenges has a spoilt television and hopes to have a television to help her pass time.",
-      "specifications": "Around 24 inch",
-      "contact": {
-        "org": "Montfort Care - GoodLife! @ Bedok",
-        "name": "Alasdair Yee",
-        "email": "alasdair.yee@montfortcare.org.sg",
-        "phone": [
-          "63123988"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "30 Sep 2021"
-    },
-    {
-      "id": "99163",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Client and her husband have just received the keys to their new rental flat and are in the process of moving in. Due to family issues, client and husband have been full-time caregivers for their own new-born and family members’ children. They have thus not been able to secure employment and are reliant on financial assistance. Client and husband hence do not have the financial resources to purchase new appliances at the moment.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Toa Payoh",
-        "name": "Joanna Tan",
-        "email": "joannatan@carecorner.org.sg",
-        "phone": [
-          "67984211",
-          "63561622"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "30 Sep 2021"
     },
     {
       "id": "99146",
@@ -3685,6 +3649,40 @@
       "date": "06 Sep 2021"
     },
     {
+      "id": "99209",
+      "category": "Medical Aids",
+      "name": "Diapers",
+      "description": "Client has a three children with no income as client is diagnosed with stage 4 breast cancer. One of her children is diagnosed with cerebal palsy which requires an extensive medical aid. He is unable to go to toilet by himself and is highly ADL-Dependent.",
+      "specifications": "3 packets size M",
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Nursalihah Bte Abdullah",
+        "email": "nabdullah@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "01 Oct 2021"
+    },
+    {
+      "id": "99208",
+      "category": "Medical Aids",
+      "name": "Wet wipes",
+      "description": "Client has a three children with no income as client is diagnosed with stage 4 breast cancer. One of her children is diagnosed with cerebal palsy which requires an extensive medical aid. He is unable to go to toilet by himself and is highly ADL-Dependent.",
+      "specifications": "24 packets",
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Nursalihah Bte Abdullah",
+        "email": "nabdullah@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "01 Oct 2021"
+    },
+    {
       "id": "99168",
       "category": "Medical Aids",
       "name": "Citravescent",
@@ -4122,6 +4120,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "99207",
+      "name": "LG REFRIGERATOR",
+      "description": "Good working condition",
+      "location": "Yishun, Sembawang",
+      "validTill": "31 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99206",
+      "name": "King size mattress",
+      "description": "Used but good useable condition",
+      "location": "Yishun, Sembawang",
+      "validTill": "31 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "99203",
       "name": "Dining table set",
