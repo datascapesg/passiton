@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "99249",
+      "category": "Mobility Aids",
+      "name": "Grab-Bar",
+      "description": "Elderly on financial assistance staying with her mother in her 90s, requests for a grab-bar, as they have used up the quota that HDB has given to the Home Improvement Programme contractor.  The contractor has agreed to install for elderly, but needs elderly to obtain the grab-bar on her own.",
+      "specifications": null,
+      "contact": {
+        "org": "SACS Anglican Cluster Operator @ Jurong East",
+        "name": "Koh Leong Foo",
+        "email": "leongfoo_koh@sacs.org.sg",
+        "phone": [
+          "62621183ext209",
+          "62621183"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Oct 2021"
+    },
+    {
       "id": "99094",
       "category": "Mobility Aids",
       "name": "wheelchair",
@@ -139,24 +157,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "06 Sep 2021"
-    },
-    {
-      "id": "99246",
-      "category": "Infant and Children Items",
-      "name": "Dumex Mamil Gold Stage  4",
-      "description": "The family requires milk powders for their 3 year old son. Their father's income is unstable due to COVID-19. They are struggling financially. Hence, they have been feeding their son, milo and instant milk powder to keep him full.",
-      "specifications": null,
-      "contact": {
-        "org": "FRCS Family Service Centre - Clementi",
-        "name": "Nur Farhana Binte Harun",
-        "email": "nurfarhana@frcsfsc.sg",
-        "phone": [
-          "67799488ext31",
-          "67799488"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "02 Oct 2021"
     },
     {
       "id": "99224",
@@ -1066,57 +1066,6 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "02 Sep 2021"
-    },
-    {
-      "id": "97900",
-      "category": "Infant and Children Items",
-      "name": "XL (pull up) and L (tape) diapers",
-      "description": "Father,28, sole breadwinner for his family of 6, is currently financially struggling to purchase diapers for his three younger children aged 3, 1 and 5 months. Children need XL diapers (pull up) and L diapers (taped).",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Janarthanan S/O Lingasparan",
-        "email": "jana.lingasparan@montfortcare.org.sg",
-        "phone": [
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Sep 2021"
-    },
-    {
-      "id": "97873",
-      "category": "Infant and Children Items",
-      "name": "Pram (Double)",
-      "description": "Family has 3 young children. They are also currently looking after one auntie and mother. Family requires support for dryper their 3 children with:\n\nDouble Pram\n\nThank you",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Adil Matin Bin Mohd Ramlan",
-        "email": "adilmatin@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Sep 2021"
-    },
-    {
-      "id": "97869",
-      "category": "Infant and Children Items",
-      "name": "compact double stroller",
-      "description": "Client is a 24 year old single mother with 2 young children. She chauffeurs the children daily to childcare centers before work. A double stroller can support the ease of transportation for her.",
-      "specifications": null,
-      "contact": {
-        "org": "Lakeside Family Centre - Jurong East",
-        "name": "Jodie Chong",
-        "email": "jodie-chong@lakeside.org.sg",
-        "phone": [
-          "65649722"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Sep 2021"
     },
     {
       "id": "99190",
