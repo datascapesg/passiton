@@ -1396,24 +1396,6 @@
       "date": "02 Oct 2021"
     },
     {
-      "id": "99226",
-      "category": "Electrical Home Appliances",
-      "name": "Electric Kettle",
-      "description": "Live-alone senior with very limited family support.  His stove is broken and he is not able to boil water and cook his meals. Having an electric kettle (small capacity) and a simple induction cooker would help meet his daily needs.",
-      "specifications": "small",
-      "contact": {
-        "org": "Montfort Care - GoodLife! @ Telok Blangah",
-        "name": "Trishia Tan",
-        "email": "trishia.tan@montfortcare.org.sg",
-        "phone": [
-          "62746904",
-          "62708327"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "02 Oct 2021"
-    },
-    {
       "id": "99190",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine (Top Load)",
@@ -3968,6 +3950,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "99236",
+      "name": "Office chair",
+      "description": "A rolly chair",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "01 Nov 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "99235",
       "name": "Single Bed Frame and Mattress",
