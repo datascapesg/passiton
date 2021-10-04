@@ -2574,23 +2574,6 @@
       "date": "04 Oct 2021"
     },
     {
-      "id": "99309",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Family of 7 living in a 2-room rental flat is requesting for a fridge as theirs has broken down. Family comprises parents and 5 children. Thank you very much.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Pek Jie Hui",
-        "email": "jiehui@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Oct 2021"
-    },
-    {
       "id": "99307",
       "category": "Electrical Home Appliances",
       "name": "Washing machine",
@@ -3938,6 +3921,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "99350",
+      "name": "Bed Mattress Desk Kitchen rack",
+      "description": "Pick up only",
+      "location": null,
+      "validTill": "07 Oct 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "99348",
       "name": "Printer canon E480",
