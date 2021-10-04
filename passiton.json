@@ -141,6 +141,24 @@
       "date": "06 Sep 2021"
     },
     {
+      "id": "99302",
+      "category": "Infant and Children Items",
+      "name": "Diapers",
+      "description": "Family has 2 young children aged 7 and 1, the former diagnosed with special needs. Parents are separated and father does not contribute to the family. Mother has difficulty finding full-time stable employment after being asked to leave from her job in July 2021. She is currently doing Grab deliveries but the income is insufficient to support the household expenses. Mother would like to request for diapers (Huggies pull up pants, Size XL) for the younger child to tide through this period.",
+      "specifications": "Huggies, Size XL",
+      "contact": {
+        "org": "Fei Yue - Early Intervention Centre For Children",
+        "name": "Tessa Nai",
+        "email": "tessanai@fycs.org",
+        "phone": [
+          "66810508",
+          "65656260"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Oct 2021"
+    },
+    {
       "id": "99298",
       "category": "Infant and Children Items",
       "name": "Drypers M size",
@@ -1177,24 +1195,6 @@
       "category": "Others",
       "name": "24 bottles X 361g Smucker's sugar free jam (assorted flavor)",
       "description": "We are requesting for 24 bottles of 361g Smucker's sugar free jam (assorted flavor) for the consumption for our residents from Monday to Saturday. The Helping Hand is a Voluntary Welfare Organization affiliated with the National Council of Social Service. We run a home providing drug rehabilitation and after-care services to male drug addicts and ex-offenders in Singapore. This is a residential programme carried out in our agency home, which was graciously provided by the Singapore government in recognition of our services to the community. We have a total of about 100 residents and staff staying in at our premises.",
-      "specifications": null,
-      "contact": {
-        "org": "The Helping Hand",
-        "name": "Chan Toh Han",
-        "email": "chantohhan@thehelpinghand.org.sg",
-        "phone": [
-          "67184081",
-          "62832204"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "03 Oct 2021"
-    },
-    {
-      "id": "99260",
-      "category": "Others",
-      "name": "30 packets X 400g Tai Sun rice vermicelli",
-      "description": "We are requesting for 30 packets of 400g Tai Sun rice vermicelli as we cook 3 meals a day for our residents from Monday to Saturday. The Helping Hand is a Voluntary Welfare Organization affiliated with the National Council of Social Service. We run a home providing drug rehabilitation and after-care services to male drug addicts and ex-offenders in Singapore. This is a residential programme carried out in our agency home, which was graciously provided by the Singapore government in recognition of our services to the community. We have a total of about 100 residents and staff staying in at our premises.",
       "specifications": null,
       "contact": {
         "org": "The Helping Hand",
@@ -2334,6 +2334,23 @@
       "date": "03 Sep 2021"
     },
     {
+      "id": "99304",
+      "category": "Kitchen Utility Items",
+      "name": "Ice box",
+      "description": "Family of 2 (mother and 11-year-old son) is requesting for an ice box. The family will be shifting into their new rental flat which has no amenities.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Pek Jie Hui",
+        "email": "jiehui@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Oct 2021"
+    },
+    {
       "id": "99071",
       "category": "Kitchen Utility Items",
       "name": "Baking Accessories (Halal Kitchen)",
@@ -2436,6 +2453,74 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "06 Sep 2021"
+    },
+    {
+      "id": "99309",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Family of 7 living in a 2-room rental flat is requesting for a fridge as theirs has broken down. Family comprises parents and 5 children. Thank you very much.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Pek Jie Hui",
+        "email": "jiehui@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Oct 2021"
+    },
+    {
+      "id": "99307",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "Family of 7 living in a 2-room rental flat is requesting for washing machine because theirs have been malfunctioning. Thank you very much.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Pek Jie Hui",
+        "email": "jiehui@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Oct 2021"
+    },
+    {
+      "id": "99305",
+      "category": "Electrical Home Appliances",
+      "name": "TV",
+      "description": "Family of 2 (mother and 11-year-old son) is requesting for a TV. The family will be shifting into their new rental flat which has no amenities.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Pek Jie Hui",
+        "email": "jiehui@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Oct 2021"
+    },
+    {
+      "id": "99303",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Family of 2 (mother and 11-year-old son) is requesting for a washing machine. The family will be shifting into their new rental flat which has no amenities.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Pek Jie Hui",
+        "email": "jiehui@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Oct 2021"
     },
     {
       "id": "99296",
@@ -3210,6 +3295,23 @@
       "date": "08 Sep 2021"
     },
     {
+      "id": "99306",
+      "category": "Home Furnishing",
+      "name": "Wardrobe",
+      "description": "Client is a single elderly who is on financial assistance. \nHe has been trying to secure employment but to no avail due to his limited social skills & intellectual disability.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Oct 2021"
+    },
+    {
       "id": "99287",
       "category": "Home Furnishing",
       "name": "2 Door Wardrobe",
@@ -3451,6 +3553,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "09 Sep 2021"
+    },
+    {
+      "id": "99308",
+      "category": "Learning Aids",
+      "name": "Monitor and Keyboard",
+      "description": "Client is single and caring for her elderly mother who is currently in a elderly home. Client is battling with depression and anxiety however is determined to secure employment and work towards her action plan of financial stability to prepare for the return of her mother. Client has recently secured a job and is working from home. Due to the small screen of her laptop, she is having troubles working long hours. Having a monitor and desktop will greatly aid client from working from home.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "S Maheswari",
+        "email": null,
+        "phone": [
+          "64535349",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Oct 2021"
     },
     {
       "id": "99111",
@@ -3762,16 +3882,6 @@
       "location": "Geylang, Eunos",
       "validTill": "10 Oct 2021",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99288",
-      "name": "King-size Bed, Super-single bed",
-      "description": "Must be collected on 8th October, 12-1PM",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-      "validTill": "08 Oct 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
