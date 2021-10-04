@@ -1,5 +1,15 @@
 [
   {
+    "id": "99288",
+    "name": "King-size Bed, Super-single bed",
+    "description": "Must be collected on 8th October, 12-1PM",
+    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+    "validTill": "08 Oct 2021",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "99284",
     "name": "Seahorse super single storage bed",
     "description": "Without mattress. My late mother in law’s bed. She passed away in hospital.",
@@ -56,16 +66,6 @@
     "location": "Little India",
     "validTill": "02 Nov 2021",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "99278",
-    "name": "Chest of drawers",
-    "description": "45cm width x40cm depth x109cm ht",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "20 Oct 2021",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -345,16 +345,6 @@
     "description": "This is a compact vacuum cleaner, ideal for a small household, e.g. 2 bedroom flat. It is functional. Giving away as I have bought a new one.",
     "location": "Katong, Joo Chiat, Amber Road",
     "validTill": "01 Nov 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "99228",
-    "name": "Refrigirator",
-    "description": "2 door refrigerator in good working condition",
-    "location": "Little India",
-    "validTill": "05 Oct 2021",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
@@ -1456,6 +1446,16 @@
     "location": "Jurong",
     "validTill": "12 Oct 2021",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "99285",
+    "name": "Dining Table",
+    "description": "Black glass top dining table",
+    "location": "Kranji, Woodgrove",
+    "validTill": "12 Oct 2021",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
