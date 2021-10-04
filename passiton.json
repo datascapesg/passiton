@@ -175,6 +175,24 @@
       "date": "06 Sep 2021"
     },
     {
+      "id": "99330",
+      "category": "Infant and Children Items",
+      "name": "Baby clothes",
+      "description": "Family has 3 children, aged 7, 5, and 1 year old. Family hopes to receive baby clothes for the 1 year old child as he is growing out of the clothes that he is wearing now.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Louise Quek",
+        "email": "louisequek@amkfsc.org.sg",
+        "phone": [
+          "64535349",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Oct 2021"
+    },
+    {
       "id": "99325",
       "category": "Infant and Children Items",
       "name": "Milk Powder & Diapers",
@@ -186,23 +204,6 @@
         "email": "fsceast@ppis.sg",
         "phone": [
           "69503503"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Oct 2021"
-    },
-    {
-      "id": "99312",
-      "category": "Infant and Children Items",
-      "name": "Friso Gold Milk (Stage 4) - 3/6 tins",
-      "description": "Client is a single mother who is unemployed due to caregiving responsibilities for her two young children (2 yo, 4 yo). Although she tries to take up adhoc jobs whenever possible, the household income is insufficient to meet the family's basic needs; especially the young children's nutritional needs.",
-      "specifications": null,
-      "contact": {
-        "org": "Whispering Hearts Family Service Centre",
-        "name": "Law Jia Yi",
-        "email": "jiayi@viriya.org.sg",
-        "phone": [
-          "67951008"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2523,6 +2524,23 @@
       "date": "06 Sep 2021"
     },
     {
+      "id": "99332",
+      "category": "Electrical Home Appliances",
+      "name": "Stand fan",
+      "description": "Our client is a lady in her 50s, who is wheelchair bound. Both her and her husband are unemployed, and stay in a rental flat with their 3 teenage daughters. Their fan has broken down, and a stand fan would help to promote better ventilation in their living room. Interested donors kindly contact jessiemalar@carecorner.org.sg. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Admiralty",
+        "name": "Juanna Sia",
+        "email": null,
+        "phone": [
+          "63658751"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Oct 2021"
+    },
+    {
       "id": "99326",
       "category": "Electrical Home Appliances",
       "name": "washing machine",
@@ -3326,6 +3344,24 @@
       "date": "08 Sep 2021"
     },
     {
+      "id": "99331",
+      "category": "Home Furnishing",
+      "name": "3-door cupboard",
+      "description": "The back of the family's cupboard is falling apart and family is using scotch tape to tape it together, but family hopes to get a new one to replace this. Family faces financial difficulty to purchase a new one themselves.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Louise Quek",
+        "email": "louisequek@amkfsc.org.sg",
+        "phone": [
+          "64535349",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Oct 2021"
+    },
+    {
       "id": "99328",
       "category": "Home Furnishing",
       "name": "Kitchen Table",
@@ -3972,6 +4008,16 @@
   ],
   "offers": [
     {
+      "id": "99329",
+      "name": "Blue 3 seater sofa",
+      "description": "Blue 3 seater couch- Material is a dark blue denim. Still very comfy.",
+      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+      "validTill": "31 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "99322",
       "name": "Wooden Desk with Drawers",
       "description": "CASPER Study Table bought from MYSEAT.sg during the 2020 Circuit Breaker. Solid wood table with stylish metal legs. Built with two small pull-out drawers underneath the surface that provide sufficient storage for documents and small peripheral items, as well as a compartment with a drop-down hole at the back for neat cable management. Have some minor imperfections such as dents and ink marks.",
@@ -4302,16 +4348,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "99222",
-      "name": "Ameda Breast Pump Set",
-      "description": "Ameda Lactaline Breastpump. Good condition with full set but parts have been used. Includes hand pump for on the go as well as spare milk bags.",
-      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-      "validTill": "10 Oct 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "99219",
       "name": "Baby Stuffs",
       "description": "*PLS ONLY SELF COLLECT / i cant deliver or pay for the fees*\nBaby cot bumpers, new baby seat, playmat, baby hangers, new baby shoes. Not in picture: some baby clothes in good condition, preloved avent milk bottles, baby foodjars.",
@@ -4328,6 +4364,26 @@
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
       "validTill": "31 Oct 2021",
       "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99333",
+      "name": "4-seater yellow sofa",
+      "description": "4-seater L-shaped leather sofa.\nStill in good seating condition but recliner seat is not working.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "24 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99334",
+      "name": "4-seater yellow sofa",
+      "description": "4-seater L-shaped leather sofa.\nStill in good seating condition but recliner seat is not working.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "24 Oct 2021",
+      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4498,16 +4554,6 @@
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "29 Oct 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99078",
-      "name": "Baby cot",
-      "description": "Posting on behalf of my Sister in law, she would like to donate to people who really need it. Able to directly deliver to person house.",
-      "location": "Yishun, Sembawang",
-      "validTill": "29 Oct 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
