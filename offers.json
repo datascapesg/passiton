@@ -1,5 +1,15 @@
 [
   {
+    "id": "99375",
+    "name": "Dressing Table",
+    "description": "Dressing table with mirror and 1 drawer",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "19 Oct 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "99370",
     "name": "iPhone 4",
     "description": "The iPhone 4 works well and has just been reset to factory settings. The ON/OFF switch, however, does not work and so, it is ON all the time.",
@@ -136,16 +146,6 @@
     "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
     "validTill": "31 Oct 2021",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "99322",
-    "name": "Wooden Desk with Drawers",
-    "description": "CASPER Study Table bought from MYSEAT.sg during the 2020 Circuit Breaker. Solid wood table with stylish metal legs. Built with two small pull-out drawers underneath the surface that provide sufficient storage for documents and small peripheral items, as well as a compartment with a drop-down hole at the back for neat cable management. Have some minor imperfections such as dents and ink marks.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "06 Oct 2021",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -416,16 +416,6 @@
     "location": "Serangoon Garden, Hougang, Ponggol",
     "validTill": "24 Oct 2021",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "99199",
-    "name": "bed rail",
-    "description": "Bed rail to prevent elderly from falling from bed",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "31 Oct 2021",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
