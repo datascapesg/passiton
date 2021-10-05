@@ -1,5 +1,45 @@
 [
   {
+    "id": "99386",
+    "name": "Glasses",
+    "description": "Can be used For cold / warm beverages",
+    "location": null,
+    "validTill": "04 Nov 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "99385",
+    "name": "Double bund bed",
+    "description": "Still in good condition but no mattress\nUsed by helper",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "12 Oct 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "99381",
+    "name": "Chest of drawers",
+    "description": "Some scratches and sticker marks.\nBut functioning.\nAvailable for collection in December",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "04 Nov 2021",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "99380",
+    "name": "Wardrobe",
+    "description": "Wardrobe , hinges in good condition.\nCan collect only after 20th December",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "04 Nov 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "99375",
     "name": "Dressing Table",
     "description": "Dressing table with mirror and 1 drawer",
