@@ -53,23 +53,6 @@
       "date": "04 Oct 2021"
     },
     {
-      "id": "99317",
-      "category": "Mobility Aids",
-      "name": "Hospital Bed",
-      "description": "Patient relying on son who is the sole breadwinner for the family.\nPatient will require hospital bed to be in place before discharge from hospital.",
-      "specifications": null,
-      "contact": {
-        "org": "Alexandra Hospital - Care &amp; Counselling",
-        "name": "Lim Yu Bing",
-        "email": "yu_bing_lim@nuhs.edu.sg",
-        "phone": [
-          "63793260"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "04 Oct 2021"
-    },
-    {
       "id": "99094",
       "category": "Mobility Aids",
       "name": "wheelchair",
@@ -4010,10 +3993,20 @@
   ],
   "offers": [
     {
+      "id": "99392",
+      "name": "IKEA baby bathtub",
+      "description": "https://www.ikea.com/sg/en/p/laettsam-baby-bath-white-green-20248444/",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "04 Nov 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "99391",
       "name": "Wheelchair Ramp",
       "description": "Wheelchair ramp is available on 13-14 October.\nIdeal for flats that have a few steps.",
-      "location": "Yishun, Sembawang",
+      "location": "Singapore",
       "validTill": "14 Oct 2021",
       "ageInYears": 1,
       "dimensions": null,
