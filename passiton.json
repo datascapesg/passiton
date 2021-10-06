@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "99429",
+      "category": "Mobility Aids",
+      "name": "Rollator",
+      "description": "70years old lady has limited mobility, she has to use wheelchair for long distances, she wants to have a rollator to practice walking so that she is able to walk more stably and be able to sit when she needs to rest.",
+      "specifications": "Rollator with seat",
+      "contact": {
+        "org": "SingHealth (CGH) – Community Care",
+        "name": "Yick Lai Cheng",
+        "email": "yick.lai.cheng@singhealth.com.sg",
+        "phone": [
+          "64268053"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Oct 2021"
+    },
+    {
+      "id": "99427",
+      "category": "Mobility Aids",
+      "name": "Wheelchair",
+      "description": "65 years old Chinese female married and staying with her husband and daughter. Client is mostly homebound and is alone at home during the day, she experiences breathlessness whenever she ambulates in the Community. A wheelchair will help her to move around in the community.",
+      "specifications": "Self wheel wheelchair",
+      "contact": {
+        "org": "SingHealth (CGH) – Community Care",
+        "name": "Yick Lai Cheng",
+        "email": "yick.lai.cheng@singhealth.com.sg",
+        "phone": [
+          "64268053"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Oct 2021"
+    },
+    {
       "id": "99358",
       "category": "Mobility Aids",
       "name": "shower chair/commode",
@@ -174,6 +208,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "06 Sep 2021"
+    },
+    {
+      "id": "99425",
+      "category": "Infant and Children Items",
+      "name": "Baby high chair",
+      "description": "For a family with a 1 year old baby who are not able to afford a baby high chair to keep the baby seated when eating/resting.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
+        "name": "Muhammad Farhan",
+        "email": "muhammadfarhan@amkfsc.org.sg",
+        "phone": [
+          "64511252",
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Oct 2021"
     },
     {
       "id": "99421",
@@ -2278,6 +2330,42 @@
       "date": "06 Sep 2021"
     },
     {
+      "id": "99426",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge and Shoe Rack",
+      "description": "Client who recently started working as a cleaner, is looking for refrigerator and shoe rack.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Nurul Khairiah, Khai",
+        "email": "nurul_khairiah@awwa.org.sg",
+        "phone": [
+          "65119471",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Oct 2021"
+    },
+    {
+      "id": "99424",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Elderly grandmother who is caring for 2 teenage grandchildren (One of them has hearing impairment) is looking for washing machine. Their current washing machine is faulty and grandmother is currently washing clothes for family of 4 by hand. Grandmother is working part-time as cleaner while grandfather is unfit for work.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Nurul Khairiah, Khai",
+        "email": "nurul_khairiah@awwa.org.sg",
+        "phone": [
+          "65119471",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Oct 2021"
+    },
+    {
       "id": "99408",
       "category": "Electrical Home Appliances",
       "name": "Television",
@@ -3663,6 +3751,16 @@
   ],
   "offers": [
     {
+      "id": "99428",
+      "name": "Toshiba Washing Machine 9kg Load",
+      "description": "New washing machine brought to use during lockdown. Only used a few times. Still in original outer wrap to prevent damage. In good working condition. Only able to deliver to Jurong area. Self-collection will be preferred due to busy schedule.",
+      "location": "Jurong",
+      "validTill": "05 Nov 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "99420",
       "name": "TV console",
       "description": "Red TV console, celini brand. Stainless steel legs not rusty.",
@@ -4183,6 +4281,26 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
+      "id": "99422",
+      "name": "bed rail",
+      "description": "Bed rail to prevent elderly from falling from bed",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "31 Oct 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99423",
+      "name": "bed rail",
+      "description": "Bed rail to prevent elderly from falling from bed",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "31 Oct 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "99197",
       "name": "Ikea Baby cot/crib",
       "description": "Ikea Baby cot with mattress in very good condition as my son only used it for a few times. There are few stains from the edge protector that was installed before but functionality wise it’s still perfect.\n\n\nWill also include one mattress protector and bed sheet (colour white, used but clean and washed)\n\nThe height is not adjustable so I think it’s more suitable for younger and less mobile infants\n\nItem is disassembled so recipient should be able to assemble as well",
@@ -4268,16 +4386,6 @@
       "description": "foldable walking frame. Not used at all apart from practising at home as my mother was able to walk herself or else she would use the wheelchair instead.",
       "location": "Queenstown, Tiong Bahru",
       "validTill": "15 Oct 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99095",
-      "name": "Toddler Toy",
-      "description": "Brand new, never opened.  Here is the link to the item: https://www.amazon.com/Playskool-Step-Start-Walk-Ride/dp/B00004T2WP",
-      "location": "Anson, Tanjong Pagar",
-      "validTill": "12 Oct 2021",
       "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
