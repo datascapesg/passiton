@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "99379",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "Request for wheelchair for client who is smaller in size. Client is 60 years old, with a school-going child. Client recently fell down and is unable to walk. Low income family with limited financial resources to purchase/rent a wheelchair.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Jio Hui Zhen",
-        "email": "jiohuizhen@amkfsc.org.sg",
-        "phone": [
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "05 Oct 2021"
-    },
-    {
       "id": "99358",
       "category": "Mobility Aids",
       "name": "shower chair/commode",
@@ -275,24 +258,6 @@
         "phone": [
           "89078297",
           "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Oct 2021"
-    },
-    {
-      "id": "99352",
-      "category": "Infant and Children Items",
-      "name": "Huggies NatureMade (Pull-ups)",
-      "description": "Low-income, single mum looking for 2 packets of Huggies NatureMade (Pull-ups). Mum tried and tested other diaper brands on the baby but resulted in severe diaper rashes on the bottom. Huggies NatureMade seems to be the only brand the baby is comfortable with.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Community Services - Project Family",
-        "name": "Sherrie Ooi",
-        "email": "sherrieooi@fycs.org",
-        "phone": [
-          "67690430",
-          "62355224"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3241,6 +3206,23 @@
       "date": "08 Sep 2021"
     },
     {
+      "id": "99415",
+      "category": "Home Furnishing",
+      "name": "Foldable dining table",
+      "description": "A gentleman and his co-tenant had just moved into their rental unit. They require a foldable dining table that is good for 2-4 pax.",
+      "specifications": "Small, good for 2-4 pax",
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Chua Pei Ching",
+        "email": "peiching.chua@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Oct 2021"
+    },
+    {
       "id": "99412",
       "category": "Home Furnishing",
       "name": "Dining Table",
@@ -3856,12 +3838,12 @@
   ],
   "offers": [
     {
-      "id": "99411",
-      "name": "Assisted seat for the bathroom",
-      "description": "Assisted seat for the bathroom. Good for home for elderly folks",
-      "location": "Jurong West ",
-      "validTill": "31 Oct 2021",
-      "ageInYears": 1,
+      "id": "99414",
+      "name": "Samsung TV",
+      "description": "PLEASE NOTE : TV is 10+ years old but in good working order (please see pics for back connector panel) . It was brought with us from Australia hence adaptor will be provided. Base and remote control included and can be re-boxed for ease of moving. (Also have 1 x Ikea Floor Lamp, 1 x Argos Floor Lamp with matching Table Lamp and 1 x Ikea Bedside Table that I am happy to pay to be delivered with it. Pics can be provided).",
+      "location": "Orchard, Cairnhill, River Valley",
+      "validTill": "11 Oct 2021",
+      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -5012,16 +4994,6 @@
       "location": "Queenstown, Tiong Bahru",
       "validTill": "19 Oct 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98631",
-      "name": "Wooden 3 seater bench",
-      "description": "wooden 3 seater bench",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "19 Oct 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
