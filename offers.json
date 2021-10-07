@@ -1,5 +1,15 @@
 [
   {
+    "id": "99456",
+    "name": "Bed",
+    "description": "2 piece Queen size bed frame. No mattress",
+    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+    "validTill": "09 Oct 2021",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "99446",
     "name": "King size Lotus brand mattress",
     "description": "St flora model. Clean.",
@@ -25,16 +35,6 @@
     "description": "Each cupboard comes with 2 internal shelves (I have all the parts). These are 2 cupboards stacked on top of each other currently. They can be placed side by side or use individually. The dimensions listed are for each cupboard. The wooden legs are 10cm in height and can be removed if desired. There is stains on top of the top cupboard which cannot be removed.",
     "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
     "validTill": "15 Oct 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "99420",
-    "name": "TV console",
-    "description": "Red TV console, celini brand. Stainless steel legs not rusty.",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "05 Nov 2021",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
@@ -186,16 +186,6 @@
     "location": "Serangoon Garden, Hougang, Ponggol",
     "validTill": "31 Oct 2021",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "99354",
-    "name": "Doona infant car seat stroller",
-    "description": "A used doona infant car seat stroller which is still in good working condition. used for both my kids but they have grown up therefore it is better for whoever is in need and make full use of it.",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "04 Nov 2021",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -360,16 +350,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "99273",
-    "name": "500ml flakes",
-    "description": "500ml flakes giving away.",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "02 Nov 2021",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "99271",
     "name": "Flask",
     "description": "1.5 little hot water flasks giving away.",
@@ -383,16 +363,6 @@
     "id": "99270",
     "name": "Air Purifier",
     "description": "Air Purifier  giving away.",
-    "location": "Little India",
-    "validTill": "02 Nov 2021",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "99269",
-    "name": "Fruit juice machine",
-    "description": "Fruit juice machine giving away.",
     "location": "Little India",
     "validTill": "02 Nov 2021",
     "ageInYears": 1,
@@ -426,16 +396,6 @@
     "location": "Jurong",
     "validTill": "02 Nov 2021",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "99251",
-    "name": "Adult diaper pants M size (various brands)",
-    "description": "5 packs of Depend, 1 pack of NTUC fairprice and 1 pack of Tena proskin adult diaper pants size M to donate.",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "02 Nov 2021",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -700,16 +660,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "99065",
-    "name": "Fresubin Milk",
-    "description": "Fresubin 2kcal drink",
-    "location": "Kranji, Woodgrove",
-    "validTill": "28 Oct 2021",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "99060",
     "name": "King Size Bed Frame",
     "description": "Well taken care bedframe with only some cosmetic scratches. Wood is solid and fixed onto quality metal frame. This bedframe comes from a reputable furniture manufacturer in Singapore.",
@@ -736,16 +686,6 @@
     "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
     "validTill": "28 Oct 2021",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "99026",
-    "name": "Fresubin Milk",
-    "description": "Fresubin 2kcal drink",
-    "location": "Kranji, Woodgrove",
-    "validTill": "28 Oct 2021",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -845,16 +785,6 @@
     "description": "In good condition baby bathtub.",
     "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
     "validTill": "08 Oct 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "98929",
-    "name": "stove",
-    "description": "My client is moving out.  Leaving behind the stove, so we would like to donate out because it is still in a very good working condition.",
-    "location": "EUNOS",
-    "validTill": "15 Oct 2021",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
