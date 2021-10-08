@@ -2021,18 +2021,17 @@
       "date": "07 Sep 2021"
     },
     {
-      "id": "99492",
+      "id": "99500",
       "category": "Electrical Home Appliances",
-      "name": "Vacuum Cleaner",
-      "description": "Low-income family has 2 young children (5 and 3 years old) and currently relies on father's sole income as a cleaner/odd job worker. Family is looking for a vacuum cleaner that would help with maintaining the cleanliness of the house. Thank you!",
+      "name": "Mini Fridge",
+      "description": "Client is a middle-aged adult with multiple health conditions. He is currently unemployed and does not have sufficient for his daily needs. Client is renting a room from the open market and would require a mini fridge to store his medications and food.",
       "specifications": null,
       "contact": {
-        "org": "REACH Family Service Centre",
-        "name": "Stella Png",
-        "email": "stella.png@reach.org.sg",
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Clarice Lim",
+        "email": "claricelim@amkfsc.org.sg",
         "phone": [
-          "68010879",
-          "62522566"
+          "63128100"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3351,6 +3350,16 @@
   ],
   "offers": [
     {
+      "id": "99501",
+      "name": "One person sofa",
+      "description": "One person sofa, in fair condition.",
+      "location": "Orchard, Cairnhill, River Valley",
+      "validTill": "24 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "99499",
       "name": "Hospital Bed",
       "description": "Assure Rehab Hospital Bed to give away.  Will pay for transport cost if needed.",
@@ -3406,16 +3415,6 @@
       "description": "Clean well kept queen size mattress.",
       "location": "Bishan, Ang Mo Kio",
       "validTill": "11 Oct 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99490",
-      "name": "Table",
-      "description": "Table with metal legs - can be used as dining table, work desk, games table",
-      "location": "Orchard, Cairnhill, River Valley",
-      "validTill": "09 Oct 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true

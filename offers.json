@@ -1,5 +1,15 @@
 [
   {
+    "id": "99501",
+    "name": "One person sofa",
+    "description": "One person sofa, in fair condition.",
+    "location": "Orchard, Cairnhill, River Valley",
+    "validTill": "24 Oct 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "99499",
     "name": "Hospital Bed",
     "description": "Assure Rehab Hospital Bed to give away.  Will pay for transport cost if needed.",
@@ -55,16 +65,6 @@
     "description": "Clean well kept queen size mattress.",
     "location": "Bishan, Ang Mo Kio",
     "validTill": "11 Oct 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "99490",
-    "name": "Table",
-    "description": "Table with metal legs - can be used as dining table, work desk, games table",
-    "location": "Orchard, Cairnhill, River Valley",
-    "validTill": "09 Oct 2021",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
