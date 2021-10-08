@@ -998,24 +998,6 @@
       "date": "09 Sep 2021"
     },
     {
-      "id": "98231",
-      "category": "Infant and Children Items",
-      "name": "Pediasure (Chocolate) Milk Powder",
-      "description": "Family with 3 young children living in a rental flat requires help with milk powder. Father is the sole breadwinner while mother is still looking out for suitable jobs, but it has been challenging due to children's caregiving and the family has limited informal support.",
-      "specifications": null,
-      "contact": {
-        "org": "REACH Family Service Centre",
-        "name": "Angeline Cheng",
-        "email": "angeline.cheng@reach.org.sg",
-        "phone": [
-          "68010718",
-          "62522566"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Sep 2021"
-    },
-    {
       "id": "99493",
       "category": "Others",
       "name": "Food Rations",
@@ -3508,6 +3490,26 @@
   ],
   "offers": [
     {
+      "id": "99496",
+      "name": "Dining Table",
+      "description": "Wooden chairs & table. Some chairs a bit shaky, but table is still strong.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "10 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99495",
+      "name": "study table",
+      "description": "2 tables for study. Can request separately",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "07 Nov 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "99491",
       "name": "Mattress",
       "description": "Clean well kept queen size mattress.",
@@ -3593,16 +3595,6 @@
       "description": "Panasonic plasma TV. More than 10 years old but very good condition. Not smart TV but will provide the receiver to watch local shows.",
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
       "validTill": "01 Nov 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99478",
-      "name": "2 single beds",
-      "description": "2 single bedframes that can be stacked to form a double-decker bed",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "30 Oct 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -4064,6 +4056,16 @@
       "location": "Queenstown, Tiong Bahru",
       "validTill": "01 Nov 2021",
       "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99494",
+      "name": "Dining table, 6 chairs, sideboard",
+      "description": "Glass top table with chrome and stone base, 6 black leather dining chairs, matching side board with glass too and black doors. Not in perfect condition as been used daily, but still in working condition.",
+      "location": "Orchard, Cairnhill, River Valley",
+      "validTill": "18 Oct 2021",
+      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
