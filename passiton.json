@@ -947,24 +947,6 @@
       "date": "07 Oct 2021"
     },
     {
-      "id": "99464",
-      "category": "Others",
-      "name": "TV console",
-      "description": "Family (include 3 school going children) home is having pest infestation and hoarding issue. The pest infestation and mold issue had affected most furniture at home where furniture needs to be replaced. Family does not have financial means to purchase as there is only one breadwinner at home where finances are tight.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Champions Way",
-        "name": "Joycelyn Wong",
-        "email": "joycelynwong@fycs.org",
-        "phone": [
-          "66901010",
-          "66901000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Oct 2021"
-    },
-    {
       "id": "99463",
       "category": "Others",
       "name": "Kitchen Cabinet",
@@ -2021,6 +2003,40 @@
       "date": "07 Sep 2021"
     },
     {
+      "id": "99504",
+      "category": "Electrical Home Appliances",
+      "name": "Hot & Cold Water Dispenser",
+      "description": "Client is a household of 6 family members. \nThe sole-income earner takes on a low pay and the family is dependable on SSO Comcare financial assistance. \nThe main caregiver is facing health issues and is unable to support the family's financial situation apart from the caregiving of the children. Having to struggle with basic needs, the family do not have additional finances to afford the purchase of a (i) hot water dispenser, (ii) laptop, (iii) air-fryer.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Oct 2021"
+    },
+    {
+      "id": "99503",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Client is a family of 6 who lives in a rental flat and is experiencing financial hardship. \nBoth parents are working but they are struggling with their basic needs as they also have debts to pay off. Their fridge has broken down, and they are presently unable to afford a replacement. Looking for a kind donor to help this family.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Oct 2021"
+    },
+    {
       "id": "99500",
       "category": "Electrical Home Appliances",
       "name": "Mini Fridge",
@@ -2982,6 +2998,40 @@
       "date": "09 Sep 2021"
     },
     {
+      "id": "99505",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Client has a school-going daughter who requires a working laptop with Webcam functions to attend classes online and to complete her school work. The current borrowed laptop from school crashed and they are unable to get a replacement for it. The family is struggling to make ends meet as mother is working part-time but is the sole breadwinner of the family of 4. Husband had work injuries and is currently unable to work. Interested donors kindly contact annachan@carecorner.org.sg.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Admiralty",
+        "name": "Juanna Sia",
+        "email": null,
+        "phone": [
+          "63658751"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Oct 2021"
+    },
+    {
+      "id": "99502",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Client is a household of 6 family members.\nThe sole-income earner takes on a low pay and the family is dependable on SSO Comcare financial assistance. \nThe main caregiver is facing health issues and is unable to support the family's financial situation apart from the caregiving of the children. Having to struggle with basic needs, the family do not have additional finances to afford the purchase of a (i) hot water dispenser, (ii) laptop, (iii) air-fryer. Kindly look into this request, thank you so much.\n\n\n \"",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Oct 2021"
+    },
+    {
       "id": "99437",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -3350,6 +3400,16 @@
   ],
   "offers": [
     {
+      "id": "99506",
+      "name": "Foldable Dining Table",
+      "description": "Well used dining table, bought less than 10 months ago\ncondition: 9/10\n\nPlease contact: 84377716",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "12 Oct 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "99501",
       "name": "One person sofa",
       "description": "One person sofa, in fair condition.",
@@ -3556,16 +3616,6 @@
       "location": "Orchard, Cairnhill, River Valley",
       "validTill": "11 Oct 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99403",
-      "name": "Mothercare Walker",
-      "description": "Pre-loved Mothercare Walker - great condition.",
-      "location": "Watten Estate, Novena, Thomson",
-      "validTill": "05 Nov 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4694,6 +4744,16 @@
       "name": "Electric oven",
       "description": "60 mins timer with chime Adjustable thermostat from 100°C to 250°C Rotisserie function, convection fan Inner light Detachable upper element for easy cleaning.\n\n\nDimension: H: 31cm W: 27cm L: 44cm.",
       "location": "Little India",
+      "validTill": "15 Oct 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99507",
+      "name": "Neck massager",
+      "description": "I have two neck massager is giving away",
+      "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "15 Oct 2021",
       "ageInYears": 1,
       "dimensions": null,
