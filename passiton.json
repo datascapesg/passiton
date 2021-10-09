@@ -2774,23 +2774,6 @@
       "date": "08 Sep 2021"
     },
     {
-      "id": "99486",
-      "category": "Home Furnishing",
-      "name": "Standing Bookshelf",
-      "description": "Client is from a low-income family with 5 children. Home currently does not have a proper space for studying. Having a simple bookshelf to keep the books will provide a more conducive space for a P5 girl to study and do her work after school.",
-      "specifications": "Roughly around Height: 100cm, with 3-tier if possible",
-      "contact": {
-        "org": "SHINE Children and Youth Services - Clementi",
-        "name": "Gwen Ho",
-        "email": "gwen_ho@shine.org.sg",
-        "phone": [
-          "67786867"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Oct 2021"
-    },
-    {
       "id": "99372",
       "category": "Home Furnishing",
       "name": "Sliding door wardrobe",
@@ -3315,6 +3298,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "99537",
+      "name": "Queen size mattress",
+      "description": "Queen size spring mattress to give away.",
+      "location": "Loyang, Changi",
+      "validTill": "08 Nov 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "99536",
       "name": "Karcher Vacuum Cleaner",
