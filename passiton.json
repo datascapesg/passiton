@@ -2247,23 +2247,6 @@
       "date": "08 Oct 2021"
     },
     {
-      "id": "99451",
-      "category": "Electrical Home Appliances",
-      "name": "Television",
-      "description": "Elderly lady who is bedridden at home stays connected mainly through the television. However, the current television is faulty with dead pixel on the screen. As her daughter is unemployed currently, they are unable to afford a replacement.",
-      "specifications": null,
-      "contact": {
-        "org": "Kampong Kapor Community Services",
-        "name": "Tan Wen Shi",
-        "email": "tanwenshi@kkcs.org.sg",
-        "phone": [
-          "62997662"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Oct 2021"
-    },
-    {
       "id": "99449",
       "category": "Electrical Home Appliances",
       "name": "Portable cooler",
@@ -2930,6 +2913,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "99559",
+      "name": "Super single bed with mattress",
+      "description": "Solid bed and good mattress.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "31 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "99558",
       "name": "Full Set Children Bedroom Set",
