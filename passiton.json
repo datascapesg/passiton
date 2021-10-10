@@ -2861,6 +2861,26 @@
   ],
   "offers": [
     {
+      "id": "99562",
+      "name": "Table",
+      "description": "Study Table",
+      "location": "Watten Estate, Novena, Thomson",
+      "validTill": "31 Oct 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99561",
+      "name": "Piano",
+      "description": "Piano",
+      "location": null,
+      "validTill": "31 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "99560",
       "name": "Cooker",
       "description": "Repaired by me.\nSelf-collectio.",
