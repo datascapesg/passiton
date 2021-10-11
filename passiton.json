@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "99615",
+      "category": "Mobility Aids",
+      "name": "Wheelchair",
+      "description": "Low-income family has an adult who requires a wheelchair to move around. However, his current wheelchair is faulty and is in need of a new one. You may whatsapp Jaslin at 97219039 if you have a spare one. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Jaslin Ong",
+        "email": "jaslinong@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "11 Oct 2021"
+    },
+    {
       "id": "99429",
       "category": "Mobility Aids",
       "name": "Rollator",
@@ -155,6 +172,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "10 Sep 2021"
+    },
+    {
+      "id": "99616",
+      "category": "Infant and Children Items",
+      "name": "Similac Stage 3",
+      "description": "A young mother of 3 young children requires Similac Stage 3 for her 2 older daughters. She has recently given birth and is currently recovering. Her husband is medically certified unfit for employment. The family is currently dependent on financial assistance. Donations of Similac Stage 3 will be appreciated. Family needs at least 4 tins of 800g of similac stage 3 per month.",
+      "specifications": "800g",
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Khairunisa Rusli",
+        "email": "khairunisa.rusli@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Oct 2021"
     },
     {
       "id": "99609",
@@ -2773,6 +2807,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "99617",
+      "name": "Leather sofa",
+      "description": "Multi seat sofa",
+      "location": "Kranji, Woodgrove",
+      "validTill": "14 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "99596",
       "name": "Drawers on wheels",
