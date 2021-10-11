@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "99578",
+      "category": "Mobility Aids",
+      "name": "Koh_Yeng_Yeng@spd.org.sg",
+      "description": "Client, male, 69 year old, has multiple medical conditions and is a permanent wheelchair user. His wife, 67 years old, also has multiple medication conditions. They are staying with their daughter and her family in a 3 room flat (with the west). His wife would push him to the void deck for fresh air (pre-covid times). Their current manual wheelchair is not functional due to wear and tear. Would like to request for either a lightweight or manual wheelchair (18 inch)so she could continue their routine.",
+      "specifications": "18 inch.",
+      "contact": {
+        "org": "Society For The Physically Disabled (SPD)",
+        "name": "Koh Yeng Yeng",
+        "email": "koh_yeng_yeng@spd.org.sg",
+        "phone": [
+          "65790750",
+          "65790700"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Oct 2021"
+    },
+    {
       "id": "99429",
       "category": "Mobility Aids",
       "name": "Rollator",
@@ -2568,6 +2586,16 @@
   ],
   "offers": [
     {
+      "id": "99579",
+      "name": "Study table",
+      "description": "Only giving away study table. Self collection and own cost. Donor is not paying",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "15 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "99577",
       "name": "Dining table",
       "description": "Glass dining table\nRich look\nStill in good condition",
@@ -2608,16 +2636,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "99570",
-      "name": "3 Doors Wardrobe",
-      "description": "Item bought in Year 2021 and item is in good condition",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "01 Nov 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "99569",
       "name": "Mattress for Double bed",
       "description": "Very good quality mattress. Used for 4 years, but still in good conditions, despite some stains.",
@@ -2654,16 +2672,6 @@
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "15 Oct 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99564",
-      "name": "Chest of drawers",
-      "description": "Chest of drawers. Middle drawer is slightly loose and there is a little wear and tear on the side but otherwise in good working condition .",
-      "location": "Orchard, Cairnhill, River Valley",
-      "validTill": "02 Nov 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2933,16 +2941,6 @@
       "description": "Used Super Single Mattress (SEALY brand).  Used for 9 years.   In good conditions.   No stain.",
       "location": "Seletar",
       "validTill": "31 Oct 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99528",
-      "name": "Double deck bed with pull out",
-      "description": "Well kept bed frame with ladder",
-      "location": "Jurong",
-      "validTill": "29 Oct 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
