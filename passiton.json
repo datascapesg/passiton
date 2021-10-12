@@ -896,34 +896,17 @@
       "date": "14 Sep 2021"
     },
     {
-      "id": "99642",
-      "category": "Electrical Home Appliances",
-      "name": "Rice Cooker",
-      "description": "Client is a household of 6 family members. \nThe sole-income earner takes on a low pay and the family is dependable on SSO Comcare financial assistance. \nThe main caregiver is facing health issues and is unable to support the family's financial situation apart from the caregiving of the children. \nHaving to struggle with basic needs, the family do not have additional finances to afford the purchase a rice cooker.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "amychua@mws.sg",
-        "phone": [
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Oct 2021"
-    },
-    {
-      "id": "99634",
+      "id": "99648",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
-      "description": "Client is a single mother with 2 children, and the sole provider and caregiver in the family. Her fridge is currently not functioning well. The family is staying at a rental flat and saving up to shift into their HDB purchased flat. The fridge would be vital for their basic daily needs.",
-      "specifications": "-",
+      "description": "Single parent with 3 school-going children requires a refrigerator as their current one has spoilt. She is working full-time but does not earn enough or have sufficient savings to afford a replacement. Appreciate if donor can deliver.",
+      "specifications": null,
       "contact": {
-        "org": "MWS Covenant Family Service Centre - Hougang",
-        "name": "Chan Jun Ren",
-        "email": "chanjunren@mws.sg",
+        "org": "South Central Community FSC Ltd",
+        "name": "Lim Yi Xi",
+        "email": "yixi@sccfsc.org.sg",
         "phone": [
-          "62828558"
+          "64619200"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1027,23 +1010,6 @@
         "email": "amychua@mws.sg",
         "phone": [
           "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Oct 2021"
-    },
-    {
-      "id": "99500",
-      "category": "Electrical Home Appliances",
-      "name": "Mini Fridge",
-      "description": "Client is a middle-aged adult with multiple health conditions. He is currently unemployed and does not have sufficient for his daily needs. Client is renting a room from the open market and would require a mini fridge to store his medications and food.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Clarice Lim",
-        "email": "claricelim@amkfsc.org.sg",
-        "phone": [
-          "63128100"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2810,6 +2776,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "99646",
+      "name": "Brother Laser Printer - DCP7060D",
+      "description": "Product in good condition, able to print/scan as per usual. Comes with power adaptor and USB cable.",
+      "location": "Yishun, Sembawang",
+      "validTill": "11 Nov 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "99645",
       "name": "Black Study Table",
