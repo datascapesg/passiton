@@ -1,5 +1,15 @@
 [
   {
+    "id": "99661",
+    "name": "Queen sized bed",
+    "description": "This queen-sized bed-frame and mattress have been in our guest bedroom the past 3 years. Used lightly during the first year, but no guests since covid. We are having a baby and need the space for a nursery. Hoping to find it a new home.",
+    "location": "Katong, Joo Chiat, Amber Road",
+    "validTill": "05 Nov 2021",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "99660",
     "name": "Fridge",
     "description": "Looking to donate a fridge.I will handle transport/delivery on my own. Prompt confirmation via my mobile would be helpful :)",
@@ -46,16 +56,6 @@
     "location": "Watten Estate, Novena, Thomson",
     "validTill": "31 Oct 2021",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "99638",
-    "name": "2 Queen Size Bed + Mattress",
-    "description": "2 Queen size bed + mattresses and 1 single bed with mattress",
-    "location": "Watten Estate, Novena, Thomson",
-    "validTill": "31 Oct 2021",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -1053,7 +1053,7 @@
     "id": "98926",
     "name": "Children's Table with 2 stools",
     "description": "IKEA Children's table with 2 stools. Preloved. Well maintained.",
-    "location": "Kranji, Woodgrove",
+    "location": "North West",
     "validTill": "25 Oct 2021",
     "ageInYears": 4,
     "dimensions": null,
@@ -1370,29 +1370,9 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "98479",
-    "name": "Children clothes",
-    "description": "I have a box of clean children's clothes ranging from infant to toddler. They are either bought or passed down from close relatives. The clothes are mostly in very good condition as it has either never been worn or only worn a few times. I have already washed the clothes, but the recipient can wash them again as it has been in storage for a few months. There are beautiful dresses, pajamas, rompers, jackets inside the box. Please feel free to call me if you need any other details. Thank you.",
-    "location": null,
-    "validTill": "15 Oct 2021",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "98458",
     "name": "Pony",
     "description": "Fiji pony",
-    "location": "Little India",
-    "validTill": "15 Oct 2021",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "98456",
-    "name": "Electro-reflexologist (foot message)",
-    "description": "Electro-reflexologist (foot message)",
     "location": "Little India",
     "validTill": "15 Oct 2021",
     "ageInYears": 1,
