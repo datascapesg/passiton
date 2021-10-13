@@ -2805,24 +2805,6 @@
       "date": "23 Sep 2021"
     },
     {
-      "id": "99685",
-      "category": "Medical Aids",
-      "name": "Adult Diaper, Pants Type",
-      "description": "Elderly is on wheelchair, required of L size diaper in pants type. She is living with her 2 school going grandson, no source of income.",
-      "specifications": "Size L, pants type",
-      "contact": {
-        "org": "FRCS Family Service Centre - Clementi",
-        "name": "Chey Siow Wei",
-        "email": "siowwei@frcsfsc.sg",
-        "phone": [
-          "67799488ext14",
-          "67799488"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "13 Oct 2021"
-    },
-    {
       "id": "99665",
       "category": "Medical Aids",
       "name": "Blood pressure measuring machine",
@@ -3899,6 +3881,26 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
+      "id": "99695",
+      "name": "4 x drawers shelves",
+      "description": "These are 4 separate single piece drawer chest.\nEach chest is 60 x 60 x 22 inches",
+      "location": "Macpherson, Braddell",
+      "validTill": "26 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99696",
+      "name": "4 x drawers shelves",
+      "description": "These are 4 separate single piece drawer chest.\nEach chest is 60 x 60 x 22 inches",
+      "location": "Macpherson, Braddell",
+      "validTill": "26 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "98926",
       "name": "Children's Table with 2 stools",
       "description": "IKEA Children's table with 2 stools. Preloved. Well maintained.",
@@ -3914,6 +3916,16 @@
       "description": "Two white IKEA HISSMON study table desks. Slightly warped in the centre but still very sturdy.",
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "25 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99694",
+      "name": "TV Console",
+      "description": "TV Console",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "22 Oct 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
