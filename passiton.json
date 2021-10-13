@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "99719",
+      "category": "Mobility Aids",
+      "name": "Walking Frame",
+      "description": "Elderly man in his 90s requires a walking frame to walk around his house safely. He has poor relationship with family and does not have financial ability to purchase a walking frame.",
+      "specifications": null,
+      "contact": {
+        "org": "Agency for Integrated Care",
+        "name": "Lisa Lai",
+        "email": "lisa.lai@aic.sg",
+        "phone": [
+          "69567011",
+          "66036800"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Oct 2021"
+    },
+    {
       "id": "99683",
       "category": "Mobility Aids",
       "name": "Wheelchair",
@@ -188,6 +206,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Sep 2021"
+    },
+    {
+      "id": "99714",
+      "category": "Infant and Children Items",
+      "name": "Diapers and Milk",
+      "description": "The family is in need of diapers and milk for their 3 y/o and 1 y/o daughters.  \n\nDiapers:\n- Any brand in XL, except for Huggies in XXL\n\nMilk: \n- Dumex Dugro Milk Formula Stage 3/4/5 \n- Dutch Lady Stage 123 (1 to 3 years old) Milk Powder - Chocolate",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@amkfsc.org.sg",
+        "phone": [
+          "64546678ext217",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Oct 2021"
     },
     {
       "id": "99710",
@@ -625,23 +661,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "05 Oct 2021"
-    },
-    {
-      "id": "99346",
-      "category": "Infant and Children Items",
-      "name": "Enfamil Pro A+ Stage 1 900g",
-      "description": "Client is a single unwed mother who has an infant baby. Client will require support in obtaining milk for her child.\n\nNote: Client is also looking for\nBaby wipes (any brand) \nPampers (any brand)  \n\nThank you",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Adil Matin Bin Mohd Ramlan",
-        "email": "adilmatin@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Oct 2021"
     },
     {
       "id": "99216",
@@ -1132,6 +1151,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "16 Sep 2021"
+    },
+    {
+      "id": "99712",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator (halal)",
+      "description": "A malay muslim family of 2 (mother and son (11 years old)) is looking for a fridge (halal) as they are shifting into their new rental flat. Thank you very much.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Pek Jie Hui",
+        "email": "jiehui@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Oct 2021"
     },
     {
       "id": "99707",
@@ -1710,40 +1746,6 @@
       "date": "13 Oct 2021"
     },
     {
-      "id": "99706",
-      "category": "Home Furnishing",
-      "name": "coffee table",
-      "description": "Client is divorced with one child young child 12 years old. She just gotten her rental flat recently and would appreciate some donations to help her furnish her flat’s basic necessities. Thank you so much.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Simranjit Kaur",
-        "email": "simranjit.kaur@montfortcare.org.sg",
-        "phone": [
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Oct 2021"
-    },
-    {
-      "id": "99704",
-      "category": "Home Furnishing",
-      "name": "TV Console",
-      "description": "Client is divorced with one child young child 12 years old. She just gotten her rental flat recently and would appreciate some donations to help her furnish her flat’s basic necessities. Thank you so much.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Simranjit Kaur",
-        "email": "simranjit.kaur@montfortcare.org.sg",
-        "phone": [
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "13 Oct 2021"
-    },
-    {
       "id": "99703",
       "category": "Home Furnishing",
       "name": "Bed and mattress (unused)",
@@ -2073,6 +2075,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "14 Sep 2021"
+    },
+    {
+      "id": "99718",
+      "category": "Others",
+      "name": "Water Heater",
+      "description": "Stay alone and retired frail elderly require water heater for showering.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Kreta Ayer",
+        "name": "Abdul Rahman Bin Abdul Hakim Sayat",
+        "email": "rahman.hakim@montfortcare.org.sg",
+        "phone": [
+          "62746904"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Oct 2021"
     },
     {
       "id": "99692",
@@ -2906,23 +2925,6 @@
       "date": "07 Oct 2021"
     },
     {
-      "id": "99304",
-      "category": "Kitchen Utility Items",
-      "name": "Ice box",
-      "description": "Family of 2 (mother and 11-year-old son) is requesting for an ice box. The family will be shifting into their new rental flat which has no amenities.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Pek Jie Hui",
-        "email": "jiehui@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Oct 2021"
-    },
-    {
       "id": "98992",
       "category": "Kitchen Utility Items",
       "name": "Freestanding Gas Cooker and Oven",
@@ -3010,6 +3012,56 @@
     }
   ],
   "offers": [
+    {
+      "id": "99720",
+      "name": "3 Seater Sofa",
+      "description": "3 Seater Sofa with Storage as marked in green.",
+      "location": "Orchard, Cairnhill, River Valley",
+      "validTill": "12 Nov 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99717",
+      "name": "Mistral Standing fan over 5 years",
+      "description": "over 5 years; still working",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "31 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99716",
+      "name": "Mistral Standing fan over 5 years",
+      "description": "over 5 years; still working",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "31 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99715",
+      "name": "Fridge (Mitsubishi Electric) more than 5 years",
+      "description": "Over 5 years; still in good working condition",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "31 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99713",
+      "name": "Toshiba Washing machine (over 5 years)",
+      "description": "Its over 5 years and still in working condition.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "31 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "99701",
       "name": "Cot and mattresses",
@@ -3147,16 +3199,6 @@
       "location": "Punggol",
       "validTill": "01 Nov 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99627",
-      "name": "Ikea Study Desk",
-      "description": "Ikea MICKE study desk - White\n\nMaterials & care\nTable top/ Side panel/ Bottom panel:\nParticleboard, Fibreboard, Particle- and fibreboard with honeycomb paper filling (100% recycled paper), Acrylic paint, Plastic edging, Plastic edging\nSupporting leg:\nParticle- and fibreboard with honeycomb paper filling (100% recycled paper), Fibreboard, Acrylic paint, Plastic edging, Plastic edging\nCable management/ Back rail/ Shelf/ Front:\nParticleboard, Paper foil, Plastic edging, Plastic edging\nDrawer side/ Drawer back:\nPaper foil\nDrawer bottom:\nFibreboard, Acrylic paint\nLeg:\nSteel, Epoxy/polyester powder coating\nWipe clean with a damp cloth.\nCheck regularly that all assembly fastenings are properly tightened and retighten when necessary.",
-      "location": "Katong, Joo Chiat, Amber Road",
-      "validTill": "31 Oct 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3341,16 +3383,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "99557",
-      "name": "Double/Twin stroller",
-      "description": "Pre-loved twin/double stroller. Huge basket underneath to store items & bags. Able to drop off at organization.",
-      "location": null,
-      "validTill": "09 Nov 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "99556",
       "name": "Left arm brace (used); mesh arm sling (new)",
       "description": "Used left arm brace\nnew mesh arm sling",
@@ -3446,16 +3478,6 @@
       "description": "Good condition.",
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "01 Nov 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99537",
-      "name": "Queen size mattress",
-      "description": "Queen size spring mattress to give away.",
-      "location": "Loyang, Changi",
-      "validTill": "08 Nov 2021",
       "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -3606,16 +3628,6 @@
       "description": "Wheelchair ramp is available on 13-14 October.\nIdeal for flats that have a few steps.",
       "location": "Singapore",
       "validTill": "14 Oct 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99390",
-      "name": "Blue bean bag",
-      "description": "Bean bag",
-      "location": "Jurong",
-      "validTill": "04 Nov 2021",
       "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -4287,16 +4299,6 @@
       "location": "Queenstown, Tiong Bahru",
       "validTill": "19 Oct 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98629",
-      "name": "Mobility aid",
-      "description": "In good condition",
-      "location": "Yishun, Sembawang",
-      "validTill": "19 Oct 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
