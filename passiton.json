@@ -1344,23 +1344,6 @@
       "date": "13 Oct 2021"
     },
     {
-      "id": "99688",
-      "category": "Electrical Home Appliances",
-      "name": "Microwave Oven",
-      "description": "A family of 3 requires a working microwave oven to heat up the food.",
-      "specifications": "Mid-size",
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Chua Pei Ching",
-        "email": "peiching.chua@montfortcare.org.sg",
-        "phone": [
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Oct 2021"
-    },
-    {
       "id": "99632",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -1392,23 +1375,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "11 Oct 2021"
-    },
-    {
-      "id": "99605",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Family has 2 school-going children and son is diagnosed with speech delay and asthma. Client's husband does not contribute to the household and is often away for overseas deployment. The family's current washing machine is faulty and unable to afford the repair cost. Client is facing caregiving stress due to competing work demands and caregiving needs of her children.",
-      "specifications": "nil",
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Aw Chin Bee",
-        "email": "awchinbee@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "11 Oct 2021"
     },
     {
@@ -1533,24 +1499,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "04 Oct 2021"
-    },
-    {
-      "id": "99190",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine (Top Load)",
-      "description": "A single mother with two young children hope to seek your kind provision of a top load washing machine (8 kg). The family has finally gotten their keys to their rental flat and require support to refurbish their rental unit with basic necessities. Mother is the sole caregiver of her children and is currently relying on formal financial support to make ends meet. Your blessing of a top load washing machine is greatly appreciated. Thank you!",
-      "specifications": "8 kg",
-      "contact": {
-        "org": "AWWA Transitional Shelter",
-        "name": "Esther Tan",
-        "email": "esther_tan@awwa.org.sg",
-        "phone": [
-          "65117278",
-          "65117272"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Oct 2021"
     },
     {
       "id": "99146",
@@ -2996,6 +2944,23 @@
       "date": "23 Sep 2021"
     },
     {
+      "id": "99748",
+      "category": "Medical Aids",
+      "name": "Abdominal Binder",
+      "description": "Client is a mother of 7 (F/15, F/9, F/8, M/7, F/5, F3, M/newborn). \nShe just gave birth on 30th August 2021. Client and her husband currently live in a 1-room-1-hall with F/9, M/7, F/3 and M/newborn. \nThe other 3 children are presently in the care of relatives and foster parents. \nFSC is currently in discussion on the reunification plans for all the children, projected to be by end 2021. \nClient has been unable to work due to gestational hypertension, which requires long periods of rest, and her husband is currently unemployed as he is taking care of the children and accompanying her for gynae visits. \nAs client has just given birth, she requires an abdominal binder to augment the recovery process after her cesarean section (c-section).",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Oct 2021"
+    },
+    {
       "id": "99731",
       "category": "Medical Aids",
       "name": "3M Tegaderm Film",
@@ -3080,26 +3045,29 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "13 Oct 2021"
-    },
-    {
-      "id": "99693",
-      "category": "Attires/Clothings",
-      "name": "Clothing for 10-12 year old Boys",
-      "description": "Family of 7 relies on sole income of father who works as a security guard. As father works in cash-pay jobs, income is often unstable and the family has to rely on SSO financial assistance to ensure basic needs are met. Without disposable income, the parents are unable to afford new clothes for the 10 and 11 year old boys who have outgrown their clothes. \n\nThey would appreciate donation of clothing for the boys - top, bottoms, etc. Second-hand clothing are appreciated too. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Tricia Tee",
-        "email": "triciatee@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Oct 2021"
     }
   ],
   "offers": [
+    {
+      "id": "99747",
+      "name": "RECLINER CHAIR",
+      "description": "Grey recliner - used for slightly more than 1 year. Looks brand new. Fully functional.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "13 Nov 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99746",
+      "name": "2 Armchairs",
+      "description": "Two brown armchairs",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "11 Nov 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "99743",
       "name": "Mattress for double bed",
