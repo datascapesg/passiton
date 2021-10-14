@@ -1258,23 +1258,6 @@
       "date": "13 Oct 2021"
     },
     {
-      "id": "99678",
-      "category": "Others",
-      "name": "Groceries",
-      "description": "Elderly man is living with his teenage son and wife. He is certified unfit for work due to his medical condition. They are facing financial strains and would require food rations (soft foods): Canned Sardines x2, canned mushrooms x1, Tou Fu x2, eggs x1 carton, bread x1 loaf.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Clarice Lim",
-        "email": "claricelim@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Oct 2021"
-    },
-    {
       "id": "99610",
       "category": "Others",
       "name": "Food ration",
@@ -3268,41 +3251,11 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "99579",
-      "name": "Study table",
-      "description": "Only giving away study table. Self collection and own cost. Donor is not paying",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "15 Oct 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99577",
-      "name": "Dining table",
-      "description": "Glass dining table\nRich look\nStill in good condition",
-      "location": null,
-      "validTill": "15 Oct 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "99574",
       "name": "Wooden Play Kitchen",
       "description": "Wooden play kitchen, a few scuff marks but still functional. Rounded edges.",
       "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
       "validTill": "10 Nov 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99569",
-      "name": "Mattress for Double bed",
-      "description": "Very good quality mattress. Used for 4 years, but still in good conditions, despite some stains.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "15 Oct 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -3324,16 +3277,6 @@
       "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
       "validTill": "20 Oct 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99565",
-      "name": "Mattress for Double bed",
-      "description": "Very good quality mattress. Used for 4 years, but still in good conditions, despite some stains.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "15 Oct 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3454,6 +3397,46 @@
       "location": null,
       "validTill": "08 Nov 2021",
       "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99542",
+      "name": "Super Single Bed Frame",
+      "description": "Good condition.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "01 Nov 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99541",
+      "name": "Super Single Bed Frame",
+      "description": "Good condition.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "01 Nov 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99524",
+      "name": "Walking Stick",
+      "description": "Walking Stick",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "07 Nov 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99516",
+      "name": "Fabric Sofa",
+      "description": "Fabric Sofa in good condition – 4 yrs old.  (Length = 220 cm. Width = 100 cm. Height = 80 cm)\n\nCollection date is around mid to end Nov.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "07 Nov 2021",
+      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
