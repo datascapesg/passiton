@@ -2158,6 +2158,23 @@
       "date": "14 Sep 2021"
     },
     {
+      "id": "99821",
+      "category": "Electrical Home Appliances",
+      "name": "refrigerator",
+      "description": "Client was just incarcerated and have financial difficulties and there is total of 7 household members. Client's husband is a low income worker. They are in need of a refrigerator.",
+      "specifications": null,
+      "contact": {
+        "org": "Serangoon Moral Family Service Centre",
+        "name": "Muhammad Al-Hakim",
+        "email": "hakim@smfsc.org.sg",
+        "phone": [
+          "62847123"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "15 Oct 2021"
+    },
+    {
       "id": "99817",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -2667,6 +2684,57 @@
       "date": "23 Sep 2021"
     },
     {
+      "id": "99822",
+      "category": "Home Furnishing",
+      "name": "sofa",
+      "description": "Client was just incarcerated and have financial difficulties and there is total of 7 household members. Client's husband is a low income worker. They have disposed their sofas due to bedbug issues and just fumigated the house. They are in need of sofas.",
+      "specifications": null,
+      "contact": {
+        "org": "Serangoon Moral Family Service Centre",
+        "name": "Muhammad Al-Hakim",
+        "email": "hakim@smfsc.org.sg",
+        "phone": [
+          "62847123"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "15 Oct 2021"
+    },
+    {
+      "id": "99820",
+      "category": "Home Furnishing",
+      "name": "mattresses",
+      "description": "Client was just incarcerated and have financial difficulties and there is total of 7 household members. Husband is a low income worker. They have disposed their beds due to bedbugs issue and had just fumigated house. In need of new mattresses urgently for children.",
+      "specifications": null,
+      "contact": {
+        "org": "Serangoon Moral Family Service Centre",
+        "name": "Muhammad Al-Hakim",
+        "email": "hakim@smfsc.org.sg",
+        "phone": [
+          "62847123"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "15 Oct 2021"
+    },
+    {
+      "id": "99819",
+      "category": "Home Furnishing",
+      "name": "wardrobe",
+      "description": "Client is an elderly low income worker and her husband is wheelchair bound. She just received the keys to her rental flat and is in need of household items.",
+      "specifications": null,
+      "contact": {
+        "org": "Serangoon Moral Family Service Centre",
+        "name": "Muhammad Al-Hakim",
+        "email": "hakim@smfsc.org.sg",
+        "phone": [
+          "62847123"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Oct 2021"
+    },
+    {
       "id": "99813",
       "category": "Home Furnishing",
       "name": "wardrobe",
@@ -2979,6 +3047,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "99823",
+      "name": "Powdered Meal Replacement Drink",
+      "description": "2 x 780 g of powdered meal replacement.  Vanilla flavour.  Mixes with water.  Expires Aug 2022.\n\nNutritious for adults with 17 grams of protein.  Not a milk formula for babies.\n\nSee here for details:\nhttps://suremeal.com/collections/suremeal-classic/products/suremeal-classic",
+      "location": "Geylang, Eunos",
+      "validTill": "14 Nov 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "99815",
       "name": "2400mm by 1000mm cabinet",
