@@ -313,23 +313,6 @@
       "date": "14 Oct 2021"
     },
     {
-      "id": "99764",
-      "category": "Infant and Children Items",
-      "name": "diaper - Dryper L (pants)",
-      "description": "Client is currently homeless and waiting for a temporary shelter (rental) from HDB. She is living in a rented car with her 4 young children and husband. Her children age 1.5, 2, 4 and 7. She is unemployed as she needs to provide care for her younger 3 children while her husband does grab driving with their rented car. With the current earnings, they are not able to keep up to the milk and diaper supplies. After they transit into their HDB rental unit, they will have better financial capacity to manage the household expenses.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Oct 2021"
-    },
-    {
       "id": "99754",
       "category": "Infant and Children Items",
       "name": "Dryper XL size diapers",
@@ -1169,6 +1152,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "16 Sep 2021"
+    },
+    {
+      "id": "99816",
+      "category": "Others",
+      "name": "Groceries",
+      "description": "Family of 4 with infant are staying in a shelter and require food rations: Rice Bee Hoon Macaroni Cooking Oil Instant noodles Canned food: \n- Heinz farley’s rusks \n- milo powder\n- condensed milk\n- liquid detergent for clothes (any brand)\n- cerelac  \n- gripe water",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Clarice Lim",
+        "email": "claricelim@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Oct 2021"
     },
     {
       "id": "99811",
@@ -2140,6 +2140,23 @@
       "date": "14 Sep 2021"
     },
     {
+      "id": "99817",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "An elderly male newly referred to Thye Hua Kwan Moral Charities (THKMC) has a number of chronic illnesses and needs a wheelchair to move around at home. He is single and has no caregiver. \n\nHe requested for a new washing machine as his current one cannot spin dry his clothes. He will need a small top load washing machine. Pls kindly contact/whatsapp May at 8368 6286 if you are keen to donate a new one for this elderly. We appreciate if the donor can arrange for delivery of the washing machine to the elderly's home. For more information on THKMC, pls visit: https://www.thkmc.org.sg",
+      "specifications": null,
+      "contact": {
+        "org": "THK Cluster Support @ Bukit Merah",
+        "name": "Lee Wee May",
+        "email": "leeweemay@thkmc.org.sg",
+        "phone": [
+          "69242951"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Oct 2021"
+    },
+    {
       "id": "99800",
       "category": "Electrical Home Appliances",
       "name": "Television",
@@ -2980,6 +2997,16 @@
   ],
   "offers": [
     {
+      "id": "99815",
+      "name": "2400mm by 1000mm cabinet",
+      "description": "4 x 2400m cabinet for donation. Items are in good conditions, comes with number locks",
+      "location": "Anson, Tanjong Pagar",
+      "validTill": "21 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "99808",
       "name": "Matress",
       "description": "Super single matress",
@@ -3346,16 +3373,6 @@
       "location": "Queenstown, Tiong Bahru",
       "validTill": "16 Oct 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99596",
-      "name": "Drawers on wheels",
-      "description": "Rolling set of drawers, has 3 compartments",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "10 Nov 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
