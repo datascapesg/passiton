@@ -2087,23 +2087,6 @@
       "date": "17 Sep 2021"
     },
     {
-      "id": "98426",
-      "category": "Others",
-      "name": "eBike",
-      "description": "A family with a toddler staying in their rental flat. Father is working as a delivery rider and his income fluctuates according to the availability of orders. They are tapping on financial support in order to make their ends meet. Father’s electric bicycle is not working and he requires one which is LTA approved to continue support the family. A second-hand one is perfect!",
-      "specifications": "Any sizes",
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Chua Pei Ching",
-        "email": "peiching.chua@montfortcare.org.sg",
-        "phone": [
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Sep 2021"
-    },
-    {
       "id": "99755",
       "category": "Leisure and Healthy Lifestyle",
       "name": "bicycle",
@@ -2171,24 +2154,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "20 Sep 2021"
-    },
-    {
-      "id": "98416",
-      "category": "Leisure and Healthy Lifestyle",
-      "name": "Plant Rack",
-      "description": "Please contact Social Worker Venus at 8718 8454 during office hours or email to venustangxiaofeng@thkmc.org.sg to liaise. Client lives alone. She lost employment due to mental health issues and became socially isolated. She hopes to start a gardening hobby to spend her time. Her current rack is disintegrating after years of use.",
-      "specifications": "NA",
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Navarraj",
-        "email": "navarraj@thkmc.org.sg",
-        "phone": [
-          "64961278",
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Sep 2021"
     },
     {
       "id": "99821",
@@ -3030,6 +2995,16 @@
   ],
   "offers": [
     {
+      "id": "99835",
+      "name": "Dining Chairs (1 set: 2 singles seat + 1 bench)",
+      "description": "One whole sets of dining chairs includes:\n\n- 2 singles seats (come with 3 sets cushion covers)\n Dimension:\n ~ 84cm back rest height\n ~ 46cm seat height\n ~ 47cm witdth\n ~ 49cm length\n\n- 1 bench (for 2 person seating)\n  Dimension:\n  ~ 100cm length\n  ~ 47cm height\n  ~ 45cm width\n\nUsed but good condition. Due to is wooden material, hard for my toddlers to push it. So we are changing it to plastic dining chairs.",
+      "location": "Jurong",
+      "validTill": "22 Oct 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "99829",
       "name": "Baby seat for car",
       "description": "Baby seat for a car. It was only used for a year and in very good condition. Suitable for babies from 6 months onwards all the way till 25 kg. There are three settings for safety and comfort.",
@@ -3445,16 +3420,6 @@
       "description": "TV Stand/Cabinet - in good condition.",
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "30 Oct 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99620",
-      "name": "Leather ottoman.",
-      "description": "Genuine leather ottoman, with stainless steel legs. Good condition.",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "16 Oct 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -4386,26 +4351,6 @@
       "location": "Little India",
       "validTill": "17 Oct 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98545",
-      "name": "Nursing Bed",
-      "description": "Nursing bed have been use for 4 years. still in very good condition.",
-      "location": "Kranji, Woodgrove",
-      "validTill": "16 Oct 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98542",
-      "name": "kids swimming float",
-      "description": "Children swimming floats",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "16 Oct 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     }
