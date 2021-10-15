@@ -1172,6 +1172,23 @@
       "date": "16 Sep 2021"
     },
     {
+      "id": "99826",
+      "category": "Others",
+      "name": "Milk Powder",
+      "description": "Single mother of 2 young children requires short-term milk powder support. The mother lost her job recently and is currently looking for a new job.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Ye Jiancheng",
+        "email": "jiancheng@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "15 Oct 2021"
+    },
+    {
       "id": "99816",
       "category": "Others",
       "name": "Groceries",
@@ -2977,10 +2994,10 @@
       "date": "24 Sep 2021"
     },
     {
-      "id": "99799",
+      "id": "99828",
       "category": "Medical Aids",
       "name": "Adult Diapers Size L",
-      "description": "Family has an elderly mother who has several medical conditions such as dementia, diabetes, Parkinson's, etc and is wheel-chair bound. Client (son)'s employment contract is not renewed after being engaged as a temperature screener for a few months. Family needed adult diapers to assist elderly mother in her bowel movements.\n\nFamily prefers TOP brand Size L. Please contact me if donor would like to donate other brands.\n\nWebsite for TOP brand diapers:\nhttp://www.budgetdiapers.com/product/top-adult-pull-up-pants-10s-x-12-bags-new-pkg-12-bags/",
+      "description": "Family has an elderly mother who has several medical conditions such as dementia, diabetes, Parkinson's, etc and is wheel-chair bound. Client (son)'s employment contract is not renewed after being engaged as a temperature screener for a few months. Family needed adult diapers to assist elderly mother in her bowel movements. Family prefers TOP brand Size L. Please contact me if donor would like to donate other brands. Website for TOP brand diapers: http://www.budgetdiapers.com/product/top-adult-pull-up-pants-10s-x-12-bags-new-pkg-12-bags/",
       "specifications": "Size L (Top brand), Other brands (Size XL)",
       "contact": {
         "org": "Fei Yue Family Service Centre @ Yew Tee",
@@ -3047,6 +3064,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "99827",
+      "name": "Baby seat for car",
+      "description": "Baby seat for a car. It was only used for a year and in very good condition. Suitable for babies from 6 months onwards all the way till 25 kg. There are three settings for safety and comfort.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "14 Nov 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99825",
+      "name": "Thickener",
+      "description": "Thickener powder",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "14 Nov 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99824",
+      "name": "Medicine Electric Grinder",
+      "description": "Electric Medicine Grinder",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "14 Nov 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "99823",
       "name": "Powdered Meal Replacement Drink",
