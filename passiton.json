@@ -2033,24 +2033,6 @@
       "date": "15 Oct 2021"
     },
     {
-      "id": "99742",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Elderly woman aged 70+ staying alone in Toa Payoh Lor 5 needs a fridge for her daily groceries.",
-      "specifications": null,
-      "contact": {
-        "org": "Realm Of Tranquility",
-        "name": "Chooi May Yin",
-        "email": "admiralty@realmoftranquility.com",
-        "phone": [
-          "96327668",
-          "68911981"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "14 Oct 2021"
-    },
-    {
       "id": "99740",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -2698,6 +2680,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "99869",
+      "name": "Kids wardrobe",
+      "description": "Children's wardrobe  still in good conditionp",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "20 Oct 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "99868",
       "name": "2 Seater Fabric Sofa with Wooden Frame (2 units)",
