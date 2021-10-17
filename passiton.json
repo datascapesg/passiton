@@ -891,60 +891,6 @@
       "date": "17 Sep 2021"
     },
     {
-      "id": "98538",
-      "category": "Infant and Children Items",
-      "name": "Drypers diapers - XXL Size (6 packs)",
-      "description": "Low-income family with three children, father sole breadwinner with low-paying job, struggling to afford milk and diapers for 1 year old baby",
-      "specifications": "6 packs",
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Gan Chai",
-        "email": "ganchai@fycs.org",
-        "phone": [
-          "97406761",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Sep 2021"
-    },
-    {
-      "id": "98537",
-      "category": "Infant and Children Items",
-      "name": "S26 Gold Progress Stage 3 (6 packs)",
-      "description": "Low-income family with three children, father sole breadwinner with low-paying job, struggling to afford milk and diapers for 1 year old baby.",
-      "specifications": "6 packs",
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Gan Chai",
-        "email": "ganchai@fycs.org",
-        "phone": [
-          "97406761",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Sep 2021"
-    },
-    {
-      "id": "98526",
-      "category": "Infant and Children Items",
-      "name": "Mamypoko diapers",
-      "description": "Family of 5 living in a 1-room rental flat.The family is currently relying on assistance and in-kind donations from social service agencies to provide for their children's basic necessities. The family would urgently require Mamypoko diapers for their older children - size XL and XXL",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue - Early Intervention Centre For Children",
-        "name": "Joanna Tay",
-        "email": "joannatay@fycs.org",
-        "phone": [
-          "67719600",
-          "65656260"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "16 Sep 2021"
-    },
-    {
       "id": "99650",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -2541,6 +2487,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "99889",
+      "name": "Electrolux Bagless Vacuum cleaner",
+      "description": "This is a bagless vacuum cleaner. We will give the metal tube & rubber connector - all complete in 1 set.",
+      "location": "Middle Road, Golden Mile",
+      "validTill": "31 Oct 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "99888",
       "name": "Rice Cooker",
