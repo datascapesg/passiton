@@ -2350,24 +2350,6 @@
       "date": "22 Sep 2021"
     },
     {
-      "id": "99814",
-      "category": "Kitchen Utility Items",
-      "name": "metal shelf",
-      "description": "Family of 7 with 5 school-going children, youngest at 4 years old and one special needs child. The family is staying in a rental place. Father is the sole breadwinner as the mother needs to be home to look after the special needs child. Hope to have a shelf in the kitchen to put the microwave oven which is currently placed on the floor.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Services @ Taman Jurong SSO",
-        "name": "Charmaine Lim",
-        "email": "charmainelim@fycs.org",
-        "phone": [
-          "62672945",
-          "62672900"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Oct 2021"
-    },
-    {
       "id": "99585",
       "category": "Kitchen Utility Items",
       "name": "Gas Stove",
@@ -2419,23 +2401,6 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "23 Sep 2021"
-    },
-    {
-      "id": "99819",
-      "category": "Home Furnishing",
-      "name": "wardrobe",
-      "description": "Client is an elderly low income worker and her husband is wheelchair bound. She just received the keys to her rental flat and is in need of household items.",
-      "specifications": null,
-      "contact": {
-        "org": "Serangoon Moral Family Service Centre",
-        "name": "Muhammad Al-Hakim",
-        "email": "hakim@smfsc.org.sg",
-        "phone": [
-          "62847123"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Oct 2021"
     },
     {
       "id": "99803",
@@ -2663,6 +2628,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "99881",
+      "name": "Herschel School Bag with Laptop compartment",
+      "description": "Excellent condition school bag",
+      "location": "Kranji, Woodgrove",
+      "validTill": "16 Nov 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "99880",
       "name": "Electrolux Vacuum Cleaner",
