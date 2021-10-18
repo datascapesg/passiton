@@ -2543,6 +2543,16 @@
   ],
   "offers": [
     {
+      "id": "99950",
+      "name": "Queen Size mattress with head frame",
+      "description": "In good condition.",
+      "location": "Upper Thomson, Springleaf",
+      "validTill": "31 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "99949",
       "name": "IKEA 3 tier Drawer Closer",
       "description": "IKEA 3 Drawer Chest in good condition. Giving it away as we have new furnitures and space is limited.",
@@ -3673,16 +3683,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "99375",
-      "name": "Dressing Table",
-      "description": "Dressing table with mirror and 1 drawer",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "19 Oct 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "99363",
       "name": "A pair of bedside tables",
       "description": "A pair of wooden bedside tables with a drawer each and space for storage.",
@@ -4198,26 +4198,6 @@
       "description": "Used. In good condition",
       "location": "Queenstown, Tiong Bahru",
       "validTill": "20 Oct 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98636",
-      "name": "non-electrical hospital bed",
-      "description": "A non-electrical hospital bed that was used at home for only a year before the patient was sent to a nursing home.\nThe item has been kept at home since then but in pristine condition.",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "19 Oct 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "98627",
-      "name": "weighing scale",
-      "description": "working weighing scale",
-      "location": null,
-      "validTill": "19 Oct 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
