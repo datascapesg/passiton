@@ -226,6 +226,23 @@
       "date": "17 Sep 2021"
     },
     {
+      "id": "99899",
+      "category": "Infant and Children Items",
+      "name": "Milk powder - Dugro5 (Asli)",
+      "description": "Client is currently homeless and waiting for a temporary shelter (rental) from HDB. She is living in a rented car with her 4 young children and husband. Her children age 1.5, 2, 4 and 7. She is unemployed as she needs to provide care for her younger 3 children while her husband does grab driving with their rented car. With the current earnings, they are not able to keep up to the milk and diaper supplies. After they transit into their HDB rental unit, they will have better financial capacity to manage the household expenses.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Oct 2021"
+    },
+    {
       "id": "99818",
       "category": "Infant and Children Items",
       "name": "milk and diapers",
@@ -891,6 +908,23 @@
       "date": "17 Sep 2021"
     },
     {
+      "id": "99902",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "A family of 4 requires a working laptop with camera functions to attend zoom meetings and courses online from home. Single mother is the sole breadwinner and main caregiver for the family. The family currently does not have any laptop/tablets because they are financially strained. They rely on their mobile phones to assess any online documents and attend zoom meetings but finds it a great challenge to do so.  Interested donors kindly contact annachan@carecorner.org.sg",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Admiralty",
+        "name": "Juanna Sia",
+        "email": null,
+        "phone": [
+          "63658751"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Oct 2021"
+    },
+    {
       "id": "99650",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -1027,6 +1061,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "24 Sep 2021"
+    },
+    {
+      "id": "99901",
+      "category": "Others",
+      "name": "Food items",
+      "description": "Single mother with 2 children school-going who is working full-time but facing difficulties with basic needs such as food. Appealing for fresh/frozen and canned food donation for the following items: Veggies, Meat: Chicken and pork, Rice , Instant noodles, Milo, Canned food",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Juliana Binte Krishna Kassim",
+        "email": "julianakrishna@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "18 Oct 2021"
     },
     {
       "id": "99826",
@@ -1859,23 +1910,6 @@
       "date": "18 Oct 2021"
     },
     {
-      "id": "99896",
-      "category": "Electrical Home Appliances",
-      "name": "Standing fan",
-      "description": "A single mother of 3 young children needs sponsor for standing fan. The 3 children have been having difficulty in falling asleep at night because the weather was hot. She is on government financial assistance and therefore has limited financial resource.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Oct 2021"
-    },
-    {
       "id": "99817",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -2297,6 +2331,23 @@
       "date": "23 Sep 2021"
     },
     {
+      "id": "99900",
+      "category": "Home Furnishing",
+      "name": "Wardrobe",
+      "description": "Client is a single mother with a child under 12 years old. She is presently working full-time, but she earns minimum wage. Her employment contract is set to end in November 2021 and client has to find for a new job. Due to their medical needs, her current income is barely sufficient to support their basic needs. Hence, client has requested for some electric items for her household as her old ones have been spoilt.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "18 Oct 2021"
+    },
+    {
       "id": "99792",
       "category": "Home Furnishing",
       "name": "Single bed with pull out",
@@ -2507,6 +2558,16 @@
   ],
   "offers": [
     {
+      "id": "99903",
+      "name": "One White Dining Set (table and 4 chairs)",
+      "description": "Table was from Comfort Design. \nSurface of the table and chairs are clean. Faint scratches and light pink stains on the table. Small scratches on chairs.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "31 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "99895",
       "name": "Maxi Cosi Carseat",
       "description": "Reblessing away this carseat",
@@ -2522,6 +2583,26 @@
       "description": "Ikea bunkbed with mattress",
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "01 Nov 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99904",
+      "name": "hospital bed",
+      "description": "comes with hospital mattress. electrical bed",
+      "location": null,
+      "validTill": "07 Nov 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99905",
+      "name": "hospital bed",
+      "description": "comes with hospital mattress. electrical bed",
+      "location": null,
+      "validTill": "07 Nov 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
