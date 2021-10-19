@@ -1149,6 +1149,40 @@
       "date": "20 Sep 2021"
     },
     {
+      "id": "99957",
+      "category": "Others",
+      "name": "Groceries",
+      "description": "Client left home abruptly with her 5 children due to safety concerns. She is unemployed and financially strapped to meet the needs of her family. She will appreciate fresh and dry food rations to ensure that her children have sufficient to eat. Donated food will be delivered to Client's temporary accommodation. Address will be provided once confirmed. Thank you in advance.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Edna Sim",
+        "email": "ednasim@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Oct 2021"
+    },
+    {
+      "id": "99953",
+      "category": "Others",
+      "name": "milk powder",
+      "description": "Family with children aged 6 months and 3 years old requires assistance for milk powder as client is unable to source for employment due to health concerns. Hence, family face financial strains to meet the children's needs. \n\ngrow baby milk stage 1\ngrow preschool milk stage 4.",
+      "specifications": null,
+      "contact": {
+        "org": "The SBL Vision Family Service Centre",
+        "name": "Goh Ping Kiat",
+        "email": "pingkiat@sblvisionfsc.org.sg",
+        "phone": [
+          "65442263"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Oct 2021"
+    },
+    {
       "id": "99934",
       "category": "Others",
       "name": "Drypants XL",
@@ -1875,6 +1909,24 @@
       "date": "21 Sep 2021"
     },
     {
+      "id": "99956",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Family of 5, with husband as sole breadwinner on a low income. Family requires a washing machine asap as current washing machine just broke down on them. Client (wife) has been washing the clothes by hands for the household but struggles due to weak strength in her hands.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
+        "name": "Adeline Choo",
+        "email": "adelinechoo@fycs.org",
+        "phone": [
+          "67719538",
+          "67625215"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "19 Oct 2021"
+    },
+    {
       "id": "99952",
       "category": "Electrical Home Appliances",
       "name": "Halal Fridge",
@@ -2385,23 +2437,6 @@
       "date": "18 Oct 2021"
     },
     {
-      "id": "99792",
-      "category": "Home Furnishing",
-      "name": "Single bed with pull out",
-      "description": "Family of low-income requires bunk beds for their 6 children with the oldest being 13 years old and the youngest is 2 years old. Their father is unable to work at the moment due to medical concerns.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Clarice Lim",
-        "email": "claricelim@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Oct 2021"
-    },
-    {
       "id": "99766",
       "category": "Home Furnishing",
       "name": "King size bed with mattress and storage",
@@ -2673,32 +2708,12 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "99911",
-      "name": "Display Cabinet",
-      "description": "Good Condition Display Cabinet for books or items to keep.",
-      "location": "Jurong",
-      "validTill": "30 Oct 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "99907",
       "name": "Office Furniture",
       "description": "26 units of system furniture (workstation, office chair, pedestal), 14 units of low wooden cabinets and 4 units of high wooden cabinets",
       "location": "Bishan, Ang Mo Kio",
       "validTill": "17 Nov 2021",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99903",
-      "name": "One White Dining Set (table and 4 chairs)",
-      "description": "Table was from Comfort Design. \nSurface of the table and chairs are clean. Faint scratches and light pink stains on the table. Small scratches on chairs.",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "31 Oct 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2743,7 +2758,7 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "99891",
+      "id": "99954",
       "name": "wheelchair",
       "description": "delivery possible for west or northeast area",
       "location": "jurong",
@@ -2889,16 +2904,6 @@
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
       "validTill": "31 Oct 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99865",
-      "name": "IKEA Mirror",
-      "description": "Standing mirror, can be mounted as per photo",
-      "location": "Jurong",
-      "validTill": "23 Oct 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3138,16 +3143,6 @@
       "description": "Wooden\n\nSofa(x1): 5ft x 2 ft\nChair (x2) : 2ft x 2ft\nLeg rest (x1) : 2ft x 2 ft",
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "10 Nov 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99836",
-      "name": "Glass TV Console",
-      "description": "Glass TV console\nLightly used, in 10/10 condition",
-      "location": "Seletar",
-      "validTill": "13 Nov 2021",
       "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
