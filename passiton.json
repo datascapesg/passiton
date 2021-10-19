@@ -1909,21 +1909,37 @@
       "date": "21 Sep 2021"
     },
     {
-      "id": "99956",
+      "id": "99963",
       "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Family of 5, with husband as sole breadwinner on a low income. Family requires a washing machine asap as current washing machine just broke down on them. Client (wife) has been washing the clothes by hands for the household but struggles due to weak strength in her hands.",
+      "name": "Microwave Oven",
+      "description": "Family of 2 shifting into a new rental flat  is requesting for a microwave oven. Family comprises mother and son (11 years old). Thank you very much.",
       "specifications": null,
       "contact": {
-        "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
-        "name": "Adeline Choo",
-        "email": "adelinechoo@fycs.org",
+        "org": "South Central Community FSC Ltd",
+        "name": "Pek Jie Hui",
+        "email": "jiehui@sccfsc.org.sg",
         "phone": [
-          "67719538",
-          "67625215"
+          "64619200"
         ]
       },
-      "deliveryCostsCoveredByDonor": false,
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Oct 2021"
+    },
+    {
+      "id": "99962",
+      "category": "Electrical Home Appliances",
+      "name": "Standing Fan (16 inches)",
+      "description": "Elderly couple above 61 yrs old living in 1-room HDB rental flat needs a standing fan. Their previously donated fan has stopped working. Many Thanks.",
+      "specifications": null,
+      "contact": {
+        "org": "Moral Senior Activity Center @ Kaki Bukit",
+        "name": "Gary Tan",
+        "email": "garytan@chkmps.org.sg",
+        "phone": [
+          "64486247"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
       "date": "19 Oct 2021"
     },
     {
@@ -2332,6 +2348,23 @@
       "date": "22 Sep 2021"
     },
     {
+      "id": "99967",
+      "category": "Kitchen Utility Items",
+      "name": "Stove",
+      "description": "Family of 2 shifting into their new rental flat is requesting for a gas stove. Family comprises mother and 11-year-old son. Thank you very much.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Pek Jie Hui",
+        "email": "jiehui@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Oct 2021"
+    },
+    {
       "id": "99585",
       "category": "Kitchen Utility Items",
       "name": "Gas Stove",
@@ -2383,6 +2416,23 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "23 Sep 2021"
+    },
+    {
+      "id": "99960",
+      "category": "Home Furnishing",
+      "name": "Desktop PC Table",
+      "description": "Client is a single parent with young children. She currently faces employment issues due to her health conditions. Her children share a desktop PC for their HBL; however, they require a desktop table that can fit all components (CPU, monitor, keyboard and mouse) and with enough space for writing. Client is concerned about safety issues if the desktop CPU is placed on the ground. A sturdy desktop PC table will provide a safe and conducive space for her children's HBL process.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Covenant Family Service Centre - Hougang",
+        "name": "Chan Jun Ren",
+        "email": "chanjunren@mws.sg",
+        "phone": [
+          "62828558"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Oct 2021"
     },
     {
       "id": "99943",
@@ -2578,6 +2628,56 @@
   ],
   "offers": [
     {
+      "id": "99966",
+      "name": "Desktop PC",
+      "description": "HP brand desktop, comes with monitor, keyboard, mouse and cables. SELF COLLECTION ONLY.",
+      "location": "Jurong",
+      "validTill": "23 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99965",
+      "name": "Desktop PC",
+      "description": "HP brand desktop, comes with monitor, keyboard, mouse and cables. SELF COLLECTION ONLY.",
+      "location": "Jurong",
+      "validTill": "23 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99964",
+      "name": "Desktop PC",
+      "description": "HP brand desktop, comes with monitor, keyboard, mouse and cables. SELF COLLECTION ONLY.",
+      "location": "Jurong",
+      "validTill": "23 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99961",
+      "name": "Omeprazole medication",
+      "description": "Unused Omeprazole medication- batch 04/2021 expiry 2024.",
+      "location": "Yishun, Sembawang",
+      "validTill": "31 Oct 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99959",
+      "name": "Wardrobe",
+      "description": "A cupboard bought from IKEA. In very good condition.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "30 Oct 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "99958",
       "name": "Single Bed",
       "description": "A single bed with mattress with storage underneath. Was bought from IKEA. In very good condition.",
@@ -2664,16 +2764,6 @@
       "location": "Macpherson, Braddell",
       "validTill": "17 Nov 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99951",
-      "name": "Refrigerators",
-      "description": "Will give dimension details later",
-      "location": "Seletar",
-      "validTill": "23 Oct 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3004,16 +3094,6 @@
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "15 Nov 2021",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99839",
-      "name": "Rice cooker",
-      "description": "Powerpac rice cooker\n1.8L\nBarely used",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "15 Nov 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
