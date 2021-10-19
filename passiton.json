@@ -2628,6 +2628,16 @@
   ],
   "offers": [
     {
+      "id": "99968",
+      "name": "Microsoft Office CD",
+      "description": "Home and Business 2010, Standard 2007, and Professional 2007 edition. SELF COLLECTION ONLY.",
+      "location": "Jurong",
+      "validTill": "23 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "99966",
       "name": "Desktop PC",
       "description": "HP brand desktop, comes with monitor, keyboard, mouse and cables. SELF COLLECTION ONLY.",
@@ -2808,16 +2818,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "99907",
-      "name": "Office Furniture",
-      "description": "26 units of system furniture (workstation, office chair, pedestal), 14 units of low wooden cabinets and 4 units of high wooden cabinets",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "17 Nov 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "99895",
       "name": "Maxi Cosi Carseat",
       "description": "Reblessing away this carseat",
@@ -2854,16 +2854,6 @@
       "location": "jurong",
       "validTill": "07 Nov 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99954",
-      "name": "wheelchair",
-      "description": "delivery possible for west or northeast area",
-      "location": "jurong",
-      "validTill": "07 Nov 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
