@@ -87,23 +87,6 @@
       "date": "13 Oct 2021"
     },
     {
-      "id": "99969",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "Item for 88yo lady who has severe arthritis. Son required wheelchair to bring her for medical appointment. Current one is very rusty hence requested for replacement.",
-      "specifications": null,
-      "contact": {
-        "org": "NTUC Health CREST Sliver Station - Taman Jurong",
-        "name": "Alan Yong",
-        "email": "alan.yong@ntuchealth.sg",
-        "phone": [
-          "82231135"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "19 Oct 2021"
-    },
-    {
       "id": "99925",
       "category": "Mobility Aids",
       "name": "Mobility Scooter",
@@ -1876,6 +1859,23 @@
       "date": "21 Sep 2021"
     },
     {
+      "id": "99978",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "Single mother with 3 children 16yo, 14yo & 10yo. She was divorced last year and has to move out of the matrimonial flat. The ex-husband has granted her temporary stay till the rental unit is available. She has collected her keys to the rental unit and needs assistance to secure the essential items.\n\nShe has been working part-time as call centre agent on a contract basis. She is not able to work full-time due to caregiving needs and also existing medical condition. The client has limited funds to purchase the items to move to stay in the rental unit.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Woodlands",
+        "name": "Clarissa Wong",
+        "email": "clarissawong@carecorner.org.sg",
+        "phone": [
+          "63622481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "19 Oct 2021"
+    },
+    {
       "id": "99973",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -2631,6 +2631,16 @@
   ],
   "offers": [
     {
+      "id": "99979",
+      "name": "6-Seater Dining Table Set",
+      "description": "6 Cushioned Chairs with Wooden Legs + Wooden Dining Table. \nStill in Good Condition. \nTable was already dismantled to make way for my house renovation few weeks ago.",
+      "location": "Yishun, Sembawang",
+      "validTill": "18 Nov 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "99975",
       "name": "Sofa",
       "description": "Sofa still in very good condition. Fabric still lasting and not torn.",
@@ -3136,16 +3146,6 @@
       "description": "Chair dimensions - 45 x 58 x 96\nI have multiple listings, would prefer to pass on items to a single person or entity.",
       "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
       "validTill": "22 Oct 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99894",
-      "name": "Double Decker Bed",
-      "description": "Scanteck solid wood Double Decker Bed (can be used as 2 singles) and pull out",
-      "location": "Macpherson, Braddell",
-      "validTill": "31 Oct 2021",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
