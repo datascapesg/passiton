@@ -1187,23 +1187,6 @@
       "date": "20 Oct 2021"
     },
     {
-      "id": "99987",
-      "category": "Others",
-      "name": "shoe rack",
-      "description": "Client's husband is a stroke patient and client is an elderly low income worker.",
-      "specifications": null,
-      "contact": {
-        "org": "Serangoon Moral Family Service Centre",
-        "name": "Muhammad Al-Hakim",
-        "email": "hakim@smfsc.org.sg",
-        "phone": [
-          "62847123"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Oct 2021"
-    },
-    {
       "id": "98426",
       "category": "Others",
       "name": "eBike",
@@ -2733,6 +2716,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "100030",
+      "name": "IKEA BEKANT Corner Workstation",
+      "description": "2x Good condition IKEA BEKANT Corner workstation (Left & Right)",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "31 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100029",
       "name": "Toilet paper holder jumbo",
