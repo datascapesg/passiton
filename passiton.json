@@ -244,24 +244,6 @@
       "date": "20 Oct 2021"
     },
     {
-      "id": "100024",
-      "category": "Infant and Children Items",
-      "name": "Baby Diapers Pants Type (Merries/MamyPoko, size XXL)",
-      "description": "Low-income family with one 4yo child with developmental delay is in need of 4 packets of baby diapers pants type (Merries/MamyPoko, size XXL). Child has eczema condition. Current supply is only enough to last them for a week.\n\nOnly one breadwinner due to care needs of child. Sole breadwinner only found a new employment recently after losing his job.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Lee Yan Jun",
-        "email": "leeyanjun@amkfsc.org.sg",
-        "phone": [
-          "64546678",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Oct 2021"
-    },
-    {
       "id": "100014",
       "category": "Infant and Children Items",
       "name": "Merries Pants Diapers (size L and size XL)",
@@ -2684,6 +2666,16 @@
   ],
   "offers": [
     {
+      "id": "100033",
+      "name": "5 doors (3+2) wardrobe",
+      "description": "Wanted to donate 5 doors Wardrobe for those who need it.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "31 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "100030",
       "name": "IKEA BEKANT Corner Workstation",
       "description": "2x Good condition IKEA BEKANT Corner workstation (Left & Right)",
@@ -3364,16 +3356,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "99739",
-      "name": "Crutches and knee brace",
-      "description": "Crutches and knee brace",
-      "location": "Seletar",
-      "validTill": "21 Oct 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "99736",
       "name": "Kids table",
       "description": "55cmx55cmx45cmH. Good condition,  just one peel as seen in picture",
@@ -3680,6 +3662,16 @@
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "07 Nov 2021",
       "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99488",
+      "name": "Super Single Mattress",
+      "description": "Used Super Single Mattress (SEALY brand).  Used for 9 years.   In good conditions.   No stain.",
+      "location": "Seletar",
+      "validTill": "31 Oct 2021",
+      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
