@@ -226,6 +226,41 @@
       "date": "22 Sep 2021"
     },
     {
+      "id": "99990",
+      "category": "Infant and Children Items",
+      "name": "Milk powder & Diaper",
+      "description": "A family of 5 is living at rental flat. Client has multiple young dependent and requires milk powder (Dumex Stage 1, Lactogen Stage 3) & Diapers (Drypers XL & XXL) for her children as she does not have financial to purchase it.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Yew Tee",
+        "name": "Fu Xiu Ting",
+        "email": "fuxiuting@fycs.org",
+        "phone": [
+          "64162186",
+          "64162162"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Oct 2021"
+    },
+    {
+      "id": "99989",
+      "category": "Infant and Children Items",
+      "name": "Diapers and Milk Powder for Families at Yishun",
+      "description": "Families living at Yishun communities are currently in need of diapers and milk powders. 1.Drypers Diapers: Pull Up Pants and Tape Diapers (Size L, XL and XXL), 2. Milk powder: Dugro stage 1, 3 and 4, 900g Abbott Grow Toddler (1-3 years).We welcome whatever quantities that the donor wishes to donate. Please contact us for delivery details (Email: dik@childrensociety.org.sg, Contact No.: 9436 7401). *Note: Delivery costs will be covered by donors. Thank you for your kind donation!",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Peng Hui",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Oct 2021"
+    },
+    {
       "id": "99977",
       "category": "Infant and Children Items",
       "name": "Milk Powder",
@@ -1046,39 +1081,55 @@
       "date": "24 Sep 2021"
     },
     {
-      "id": "99041",
-      "category": "Leisure and Healthy Lifestyle",
-      "name": "Adult Bicycle",
-      "description": "Client is a 62 male who is currently homeless and sleeping in the open. Client is seeking employment but worries about transport and hopes to have a working bicycle so he can cycle to work. Client is familiar with foldable bicycle or MTB.",
+      "id": "99987",
+      "category": "Others",
+      "name": "shoe rack",
+      "description": "Client's husband is a stroke patient and client is an elderly low income worker.",
       "specifications": null,
       "contact": {
-        "org": "Whampoa Family Service Centre",
-        "name": "Tan Jia Wei",
-        "email": "tanjiawei@kkcs.org.sg",
+        "org": "Serangoon Moral Family Service Centre",
+        "name": "Muhammad Al-Hakim",
+        "email": "hakim@smfsc.org.sg",
         "phone": [
-          "63260305",
-          "63260300"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "28 Sep 2021"
-    },
-    {
-      "id": "98670",
-      "category": "Leisure and Healthy Lifestyle",
-      "name": "Bicycle",
-      "description": "The client is struggling with his mental health and finds it difficult to leave the house. However, he finds it less intimidating to leave his home on a bicycle. Riding the bicycle not only brings him from one point to another but it also helps him to better cope with his mental health. Donors please kindly contact his social worker Reuben at reubenyue@carecorner.org.sg or contact him at 6365 8751 if you wish to donate.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Admiralty",
-        "name": "Juanna Sia",
-        "email": null,
-        "phone": [
-          "63658751"
+          "62847123"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "20 Sep 2021"
+      "date": "20 Oct 2021"
+    },
+    {
+      "id": "98426",
+      "category": "Others",
+      "name": "eBike",
+      "description": "A family with a toddler staying in their rental flat. Father is working as a delivery rider and his income fluctuates according to the availability of orders. They are tapping on financial support in order to make their ends meet. Father’s electric bicycle is not working and he requires one which is LTA approved to continue support the family. A second-hand one is perfect!",
+      "specifications": "Any sizes",
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Chua Pei Ching",
+        "email": "peiching.chua@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Oct 2021"
+    },
+    {
+      "id": "99983",
+      "category": "Others",
+      "name": "Smartphone",
+      "description": "A young adult from a low-income, single-parent family, living in a rental flat, needs a smart phone to start work soon.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore After Care Association",
+        "name": "Lin Mingjie",
+        "email": "mingjie@saca.org.sg",
+        "phone": [
+          "62942350"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "20 Oct 2021"
     },
     {
       "id": "99976",
@@ -1771,6 +1822,58 @@
       "date": "21 Sep 2021"
     },
     {
+      "id": "99041",
+      "category": "Leisure and Healthy Lifestyle",
+      "name": "Adult Bicycle",
+      "description": "Client is a 62 male who is currently homeless and sleeping in the open. Client is seeking employment but worries about transport and hopes to have a working bicycle so he can cycle to work. Client is familiar with foldable bicycle or MTB.",
+      "specifications": null,
+      "contact": {
+        "org": "Whampoa Family Service Centre",
+        "name": "Tan Jia Wei",
+        "email": "tanjiawei@kkcs.org.sg",
+        "phone": [
+          "63260305",
+          "63260300"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "28 Sep 2021"
+    },
+    {
+      "id": "98670",
+      "category": "Leisure and Healthy Lifestyle",
+      "name": "Bicycle",
+      "description": "The client is struggling with his mental health and finds it difficult to leave the house. However, he finds it less intimidating to leave his home on a bicycle. Riding the bicycle not only brings him from one point to another but it also helps him to better cope with his mental health. Donors please kindly contact his social worker Reuben at reubenyue@carecorner.org.sg or contact him at 6365 8751 if you wish to donate.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Admiralty",
+        "name": "Juanna Sia",
+        "email": null,
+        "phone": [
+          "63658751"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Sep 2021"
+    },
+    {
+      "id": "99984",
+      "category": "Electrical Home Appliances",
+      "name": "microwave (halal - previous owner must be muslim)",
+      "description": "Client's husband is a stroke patient and client is an elderly low income worker.",
+      "specifications": null,
+      "contact": {
+        "org": "Serangoon Moral Family Service Centre",
+        "name": "Muhammad Al-Hakim",
+        "email": "hakim@smfsc.org.sg",
+        "phone": [
+          "62847123"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Oct 2021"
+    },
+    {
       "id": "99981",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -1906,23 +2009,6 @@
         "phone": [
           "87952925",
           "63059620"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Oct 2021"
-    },
-    {
-      "id": "99921",
-      "category": "Electrical Home Appliances",
-      "name": "TV (32- 38",
-      "description": "Client and her daughter who both have mild intellectual disabilities have just gotten their rental flat. Both of them are unable to work due to mental health concerns and are taking medication.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2315,6 +2401,57 @@
       "date": "23 Sep 2021"
     },
     {
+      "id": "99988",
+      "category": "Home Furnishing",
+      "name": "King size bed with mattress and storage",
+      "description": "Client is the sole breadwinner supporting her family of 7 (5 young children). Client and her family are living in rental flat and client is a low wage income earner. Client requires a king size bed (preferable with storage function as they live in 2 room rental flat) mattress and bed sheet as the current one has sunken in and client is unable to afford. Appreciate if bed sheet is new as client has young children.\n-only want King size bed with mattress only.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Oct 2021"
+    },
+    {
+      "id": "99986",
+      "category": "Home Furnishing",
+      "name": "TV rack",
+      "description": "Client's husband is a stroke patient and client is an elderly low income worker.",
+      "specifications": null,
+      "contact": {
+        "org": "Serangoon Moral Family Service Centre",
+        "name": "Muhammad Al-Hakim",
+        "email": "hakim@smfsc.org.sg",
+        "phone": [
+          "62847123"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Oct 2021"
+    },
+    {
+      "id": "99985",
+      "category": "Home Furnishing",
+      "name": "bed with mattress",
+      "description": "Client's husband is a stroke patient and client is an elderly low income worker.",
+      "specifications": null,
+      "contact": {
+        "org": "Serangoon Moral Family Service Centre",
+        "name": "Muhammad Al-Hakim",
+        "email": "hakim@smfsc.org.sg",
+        "phone": [
+          "62847123"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Oct 2021"
+    },
+    {
       "id": "99972",
       "category": "Home Furnishing",
       "name": "King-sized Mattress",
@@ -2490,6 +2627,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "99991",
+      "name": "Wooden  mirror",
+      "description": "Giving away and self  collection. \n\nDimension: L:45cm w;18cm.",
+      "location": "Little India",
+      "validTill": "19 Nov 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "99982",
       "name": "Office desk",
