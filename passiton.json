@@ -1892,23 +1892,6 @@
       "date": "19 Oct 2021"
     },
     {
-      "id": "99980",
-      "category": "Electrical Home Appliances",
-      "name": "Standing fan",
-      "description": "Single mother with 3 children 16yo, 14yo & 10yo. She was divorced last year and has to move out of the matrimonial flat. The ex-husband has granted her temporary stay till the rental unit is available. She has collected her keys to the rental unit and needs assistance to secure the essential items.\n\nShe has been working part-time as call centre agent on a contract basis. She is not able to work full-time due to caregiving needs and also existing medical condition. The client has limited funds to purchase the items to move to stay in the rental unit.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Woodlands",
-        "name": "Clarissa Wong",
-        "email": "clarissawong@carecorner.org.sg",
-        "phone": [
-          "63622481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "19 Oct 2021"
-    },
-    {
       "id": "99978",
       "category": "Electrical Home Appliances",
       "name": "Washing machine",
@@ -2401,6 +2384,23 @@
       "date": "23 Sep 2021"
     },
     {
+      "id": "99993",
+      "category": "Home Furnishing",
+      "name": "sofa - 2 seater (non white)",
+      "description": "Client is the sole breadwinner supporting her family of 7 (5 young children). Client and her family are living in rental flat and client is a low wage income earner. Client requires a 2-seated sofa for her flat and has financial difficulty to buy one. Prefer to be in good condition and from pet-free home as client's children are still young.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Oct 2021"
+    },
+    {
       "id": "99988",
       "category": "Home Furnishing",
       "name": "King size bed with mattress and storage",
@@ -2627,6 +2627,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "99994",
+      "name": "Air Purifier",
+      "description": "Product is in tip top condition, purchased a couple of years ago but used for less than 3 months. Just lazy to use no other reason. \nPlease do arrange for your own pick up, thank you.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "19 Nov 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "99992",
+      "name": "Hospital bed and air mattress",
+      "description": "I have a hospital be and air mattress to donate to the needy. Both items are only one year old and serviced only in August.",
+      "location": "Geylang, Eunos",
+      "validTill": "22 Oct 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "99991",
       "name": "Wooden  mirror",
