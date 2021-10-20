@@ -1,5 +1,15 @@
 [
   {
+    "id": "100007",
+    "name": "Hospital bed and air mattress",
+    "description": "I have a hospital be and air mattress to donate to the needy. Both items are only one year old and serviced only in August.",
+    "location": "Geylang, Eunos",
+    "validTill": "22 Oct 2021",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "100005",
     "name": "Brand New Sofa Cover",
     "description": "Brand New Sofa Seat Cover for 3-seater.\n185cm X 230cm.\nActual item is the print in grey. Other image for reference only.",
@@ -96,16 +106,6 @@
     "location": "Yishun, Sembawang",
     "validTill": "18 Nov 2021",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "99975",
-    "name": "Sofa",
-    "description": "Sofa still in very good condition. Fabric still lasting and not torn.",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "15 Nov 2021",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
