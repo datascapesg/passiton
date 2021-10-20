@@ -1,5 +1,15 @@
 [
   {
+    "id": "100020",
+    "name": "Leather sofa",
+    "description": "Used 3-4 seater sofa. Electric code missing. (Should work fine if powered). Some scratched and stains from daily use exists.",
+    "location": "Orchard, Cairnhill, River Valley",
+    "validTill": "24 Oct 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "100012",
     "name": "Baby Gym Mat Tiles",
     "description": "I have about 30tiles of different colours. They can be fixed together to form a play mat for your little ones.",
@@ -66,16 +76,6 @@
     "location": "Queenstown, Tiong Bahru",
     "validTill": "01 Nov 2021",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "99994",
-    "name": "Air Purifier",
-    "description": "Product is in tip top condition, purchased a couple of years ago but used for less than 3 months. Just lazy to use no other reason. \nPlease do arrange for your own pick up, thank you.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "19 Nov 2021",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -186,16 +186,6 @@
     "location": "Orchard, Cairnhill, River Valley",
     "validTill": "17 Nov 2021",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "99940",
-    "name": "Cellini Fabric Sofa (Grey) 3 Seater (2 Sectionals)",
-    "description": "L-shaped, in 2 sectionals. 1 section (shorter at 95cm): 2 seater, 1 section (longer at 175cm): 1 seater.",
-    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-    "validTill": "31 Oct 2021",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },

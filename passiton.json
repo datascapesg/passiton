@@ -1185,23 +1185,6 @@
       "date": "20 Oct 2021"
     },
     {
-      "id": "99983",
-      "category": "Others",
-      "name": "Smartphone",
-      "description": "A young adult from a low-income, single-parent family, living in a rental flat, needs a smart phone to start work soon.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore After Care Association",
-        "name": "Lin Mingjie",
-        "email": "mingjie@saca.org.sg",
-        "phone": [
-          "62942350"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "20 Oct 2021"
-    },
-    {
       "id": "99976",
       "category": "Others",
       "name": "Ensure Milk Powder",
@@ -1925,23 +1908,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "20 Sep 2021"
-    },
-    {
-      "id": "100019",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Client is a single mother of 3 young children age between 3 to 8 years old. Client and her children had suffered a period of homelessness and have not have a stable housing for the past 8 years. In late September, HDB has allocated them a rental unit. As this is client’s first home, she does not have the necessities and furniture for her house. Unfortunately, she had also left her job as a cleaner recently as she had to look after her children when they fall ill often. Client is dependent on the financial assistance from the Social Service Office and she is also looking for a suitable employment now.",
-      "specifications": null,
-      "contact": {
-        "org": "Sembawang Family Service Centre",
-        "name": "Po Woei Yee",
-        "email": "powoeiyee@sfsc.org.sg",
-        "phone": [
-          "67547050"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "20 Oct 2021"
     },
     {
       "id": "100008",
@@ -2798,26 +2764,19 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "24 Sep 2021"
-    },
-    {
-      "id": "100013",
-      "category": "Attires/Clothings",
-      "name": "School shoes",
-      "description": "Client has 4 young children and family relies on husband's salary as a cleaner to manage household. Her daughter's school shoes just got stolen by a neighbor and she does not have spare cash to purchase new school shoes for her.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - @27 Family Service Centre",
-        "name": "Tiffany Chia",
-        "email": "tiffany.chia@montfortcare.org.sg",
-        "phone": [
-          "62708327"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "20 Oct 2021"
     }
   ],
   "offers": [
+    {
+      "id": "100020",
+      "name": "Leather sofa",
+      "description": "Used 3-4 seater sofa. Electric code missing. (Should work fine if powered). Some scratched and stains from daily use exists.",
+      "location": "Orchard, Cairnhill, River Valley",
+      "validTill": "24 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100012",
       "name": "Baby Gym Mat Tiles",
@@ -2885,16 +2844,6 @@
       "location": "Queenstown, Tiong Bahru",
       "validTill": "01 Nov 2021",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99994",
-      "name": "Air Purifier",
-      "description": "Product is in tip top condition, purchased a couple of years ago but used for less than 3 months. Just lazy to use no other reason. \nPlease do arrange for your own pick up, thank you.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "19 Nov 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3005,16 +2954,6 @@
       "location": "Orchard, Cairnhill, River Valley",
       "validTill": "17 Nov 2021",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99940",
-      "name": "Cellini Fabric Sofa (Grey) 3 Seater (2 Sectionals)",
-      "description": "L-shaped, in 2 sectionals. 1 section (shorter at 95cm): 2 seater, 1 section (longer at 175cm): 1 seater.",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-      "validTill": "31 Oct 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
