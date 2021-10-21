@@ -243,23 +243,6 @@
       "date": "22 Sep 2021"
     },
     {
-      "id": "100079",
-      "category": "Infant and Children Items",
-      "name": "Stage 4 Dugro Milk Powder",
-      "description": "Transnational family of 4 with 2 school-going children who are currently struggling financially due to loss of employment and health issues. To help alleviate their financial struggle for the next 3-months, we seek for milk formula donation for their 3 year-old son. Dugro Stage 4 1.6kg x 3 sets. Thank you.",
-      "specifications": "1.6kg x3",
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Muhammad Zahin Bin Saini",
-        "email": "mdzahin.saini@ppis.sg",
-        "phone": [
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "21 Oct 2021"
-    },
-    {
       "id": "100064",
       "category": "Infant and Children Items",
       "name": "Milk and Diapers",
@@ -3086,6 +3069,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "100093",
+      "name": "Study Desk",
+      "description": "Study table in good condition. \nOnly one leg is chipped, but doesnt affect usability (as shown in picture)",
+      "location": "Jurong",
+      "validTill": "31 Oct 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100092",
       "name": "Hospital Bed",
