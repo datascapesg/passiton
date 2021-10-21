@@ -243,6 +243,23 @@
       "date": "22 Sep 2021"
     },
     {
+      "id": "100060",
+      "category": "Infant and Children Items",
+      "name": "Baby Cot",
+      "description": "Married with 2 year-old child and just give birth new born baby.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "21 Oct 2021"
+    },
+    {
       "id": "100055",
       "category": "Infant and Children Items",
       "name": "Family require 4 tins of Similac Stage 1 Total Comfort",
@@ -437,23 +454,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "19 Oct 2021"
-    },
-    {
-      "id": "99945",
-      "category": "Infant and Children Items",
-      "name": "MamyPoko Diapers (Size S and L) and Dugro Milk Powders Stage 1 and 4)",
-      "description": "Client is the sole breadwinner and main caregiver of the family. His children (2yo and 3mo) requires assistance for milk powders and diapers. Client's wife has been diagnosed with postnatal depression. She is unable to work and is seeking medical treatment.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Jaselyn Lim",
-        "email": "jaselynlim@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Oct 2021"
     },
     {
       "id": "99818",
@@ -2055,6 +2055,24 @@
       "date": "20 Sep 2021"
     },
     {
+      "id": "100059",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave Oven",
+      "description": "Single father who is unemployed, with a 12-year old son would like to have a microwave oven (brand new) to help heat up their meals.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Admiralty",
+        "name": "Serene Koh",
+        "email": "serenekoh@carecorner.org.sg",
+        "phone": [
+          "69784103",
+          "63658751"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "21 Oct 2021"
+    },
+    {
       "id": "100045",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -2636,6 +2654,23 @@
       "date": "23 Sep 2021"
     },
     {
+      "id": "100058",
+      "category": "Home Furnishing",
+      "name": "Standing Fan and Sofa",
+      "description": "Client stays alone at Taman Jurong. Her house was infested with bed bugs but have since been resolved. She had to throw out her standing fan and sofa due to the infestation so she is requesting for replacement.",
+      "specifications": null,
+      "contact": {
+        "org": "NTUC Health Cluster Support - Taman Jurong",
+        "name": "Tan Ee Ping",
+        "email": "eeping.t@ntuchealth.sg",
+        "phone": [
+          "62674197"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Oct 2021"
+    },
+    {
       "id": "100015",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -2916,31 +2951,11 @@
   ],
   "offers": [
     {
-      "id": "100053",
-      "name": "Bedframe",
-      "description": "Bedframe w/o mattress",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "26 Oct 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "100043",
       "name": "Solid Wood Writing Table",
       "description": "Solid Wood Writing Table \nIn good condition",
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "20 Nov 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100042",
-      "name": "Children Wardrobe/ Cabinet from Ikea",
-      "description": "Children wardrobe/ cabinet from Ikea.  Both still in good condition. \n\nChests of drawers: D - 51cm, L - 60cm, H - 129cm\n\nWardrobe with top storage space: D - 51cm, L - 60cm, H - 192cm",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 Oct 2021",
       "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
