@@ -243,6 +243,41 @@
       "date": "22 Sep 2021"
     },
     {
+      "id": "100081",
+      "category": "Infant and Children Items",
+      "name": "PULL UP PANTS DRYPERS (XXL)",
+      "description": "A Breast Cancer patient, 30 yo has 3 small kids aged 2 to 6 years old, who requires Diaper PULL UP PANTS DRYPERS for her children. She is currently not working because she is also fully caregiver to her mother who diagnosed with Cancer too. The family is having financially strained because they all only depending on her husband income who is working as delivery.",
+      "specifications": "Pants XXL",
+      "contact": {
+        "org": "AIN Society",
+        "name": "Nur'Ain Binte Mohamed Said",
+        "email": "nurain@ainsociety.org.sg",
+        "phone": [
+          "68485116",
+          "68485166"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Oct 2021"
+    },
+    {
+      "id": "100079",
+      "category": "Infant and Children Items",
+      "name": "Stage 4 Dugro Milk Powder",
+      "description": "Transnational family of 4 with 2 school-going children who are currently struggling financially due to loss of employment and health issues. To help alleviate their financial struggle for the next 3-months, we seek for milk formula donation for their 3 year-old son. Dugro Stage 4 1.6kg x 3 sets. Thank you.",
+      "specifications": "1.6kg x3",
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Muhammad Zahin Bin Saini",
+        "email": "mdzahin.saini@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "21 Oct 2021"
+    },
+    {
       "id": "100064",
       "category": "Infant and Children Items",
       "name": "Milk and Diapers",
@@ -2139,24 +2174,6 @@
       "date": "21 Oct 2021"
     },
     {
-      "id": "100059",
-      "category": "Electrical Home Appliances",
-      "name": "Microwave Oven",
-      "description": "Single father who is unemployed, with a 12-year old son would like to have a microwave oven (brand new) to help heat up their meals.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Admiralty",
-        "name": "Serene Koh",
-        "email": "serenekoh@carecorner.org.sg",
-        "phone": [
-          "69784103",
-          "63658751"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "21 Oct 2021"
-    },
-    {
       "id": "100045",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -2738,18 +2755,17 @@
       "date": "23 Sep 2021"
     },
     {
-      "id": "100076",
+      "id": "100082",
       "category": "Home Furnishing",
-      "name": "Single Sized Mattress",
-      "description": "Low-income ex-rough sleeper moving into his unfurnished new rental flat in Bukit Merah with unemployed discharged stroke patient.",
+      "name": "Kitchen Cabinet",
+      "description": "Family of 5 living in a 1-room rental flat. Single mother who has no source of income is the main caregiver to a newborn and 3 young children. Family's current kitchen cabinet is already in a bad condition thus family is seeking for any kind donation of a kitchen cabinet. Do contact me at 98598768 for further liaison on delivery address etc, thank you very much.",
       "specifications": null,
       "contact": {
-        "org": "New Hope Community Services - TP@MD",
-        "name": "Amanda Soo",
-        "email": "amanda@newhopecs.org.sg",
+        "org": "PPIS Family Service Centre (East)",
+        "name": "Nur Afrina",
+        "email": "fsceast@ppis.sg",
         "phone": [
-          "91190180",
-          "9119n0180"
+          "69503503"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2999,6 +3015,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "100080",
+      "name": "Ceiling light",
+      "description": "Modern ceiling light",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "20 Nov 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "100078",
+      "name": "Queen Size Mattress",
+      "description": "Very new queen size mattress, use less than a year. Very new.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "25 Oct 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100069",
       "name": "Ikea Wardrobe",
@@ -3976,16 +4012,6 @@
       "location": "Geylang, Eunos",
       "validTill": "24 Oct 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100056",
-      "name": "2 single beds",
-      "description": "2 single bedframes that can be stacked to form a double-decker bed",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "30 Oct 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
