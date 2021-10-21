@@ -2090,6 +2090,23 @@
       "date": "20 Sep 2021"
     },
     {
+      "id": "100066",
+      "category": "Electrical Home Appliances",
+      "name": "2 Standing Fans",
+      "description": "Client is a single mother and sole caregiver to 3 young children, and experiencing financial difficulties.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Covenant Family Service Centre - Hougang",
+        "name": "Chan Jun Ren",
+        "email": "chanjunren@mws.sg",
+        "phone": [
+          "62828558"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Oct 2021"
+    },
+    {
       "id": "100061",
       "category": "Electrical Home Appliances",
       "name": "Standing Metal Blade Fan (2x)",
@@ -2986,42 +3003,12 @@
   ],
   "offers": [
     {
-      "id": "100065",
-      "name": "Samsung washing machine",
-      "description": "Pick up on 5th Nov only",
-      "location": "Katong, Joo Chiat, Amber Road",
-      "validTill": "07 Nov 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "100043",
       "name": "Solid Wood Writing Table",
       "description": "Solid Wood Writing Table \nIn good condition",
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "20 Nov 2021",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100034",
-      "name": "Black leather sofa",
-      "description": "Single seat can be detached from two seat to shorten the length of sofa. Good condition.",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "20 Nov 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100033",
-      "name": "5 doors (3+2) wardrobe",
-      "description": "Wanted to donate 5 doors Wardrobe for those who need it.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 Oct 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3586,16 +3573,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "99785",
-      "name": "Wooden sofa/bench 3 seater, 2 wooden single chairs, 1 foot rest with rollers",
-      "description": "Wooden\n\nSofa(x1): 5ft x 2 ft\nChair (x2) : 2ft x 2ft\nLeg rest (x1) : 2ft x 2 ft",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "10 Nov 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "100028",
       "name": "Glass TV Console",
       "description": "Glass TV console\nLightly used, in 10/10 condition",
@@ -3912,16 +3889,6 @@
       "location": null,
       "validTill": "08 Nov 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99846",
-      "name": "Super Single Bed Frame",
-      "description": "Good condition.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "01 Nov 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
