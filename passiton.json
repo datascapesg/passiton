@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "100128",
+      "category": "Infant and Children Items",
+      "name": "XL Size Diapers (any brand)",
+      "description": "Family does not have stable income and hopes to receive XL size diapers (any brand is fine) for their youngest child.\nThank you very much for the great help.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Sylvia Lay",
+        "email": "sylviatan@carecorner.org.sg",
+        "phone": [
+          "86863745",
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Oct 2021"
+    },
+    {
       "id": "100120",
       "category": "Infant and Children Items",
       "name": "Milk Powder",
@@ -925,6 +943,24 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "22 Sep 2021"
+    },
+    {
+      "id": "100127",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Client is a 62yo lady who is living alone. She wishes to be financially self-reliant, thus she requires a working laptop to search for job online and to work from home for administrative work.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Ng Hui Chun",
+        "email": null,
+        "phone": [
+          "67867366",
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Oct 2021"
     },
     {
       "id": "100105",
@@ -2050,24 +2086,6 @@
       "date": "21 Oct 2021"
     },
     {
-      "id": "100090",
-      "category": "Electrical Home Appliances",
-      "name": "Television",
-      "description": "Client is visually impaired and unemployed. He is staying with his elderly uncle who works as a cleaner. They have just gotten a rental flat. They would like to have a television for their new home.",
-      "specifications": null,
-      "contact": {
-        "org": "TRANS Family Service Centre (Bedok)",
-        "name": "Nafisah Bte Abd Wahab",
-        "email": "nafisah@trans.org.sg",
-        "phone": [
-          "64499088",
-          "64490762"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "21 Oct 2021"
-    },
-    {
       "id": "100089",
       "category": "Electrical Home Appliances",
       "name": "Water Heater",
@@ -2927,6 +2945,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "100125",
+      "name": "Foldable Korean Playmat",
+      "description": "very quality pastel playmat\ncan be folded up\nsome signs of usage but still alot of life in it",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "21 Nov 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "100124",
+      "name": "Baby Cot",
+      "description": "well used cot\nstill fully functional\ncomes with a lightly used mattress/ water proof cover/ cot sheets and bumper\nmattress size",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "21 Nov 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100121",
       "name": "Ergonomic Chair (2x)",
