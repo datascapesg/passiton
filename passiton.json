@@ -963,6 +963,24 @@
       "date": "22 Sep 2021"
     },
     {
+      "id": "100136",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Client is a low-income single-mother. Her laptop spoilt after using it for around 12 years and needs a laptop to search for and make job applications online.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@amkfsc.org.sg",
+        "phone": [
+          "64546678ext217",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Oct 2021"
+    },
+    {
       "id": "100127",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -2980,6 +2998,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "100135",
+      "name": "Microwave",
+      "description": "Reliable brand in working condition",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "30 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100125",
       "name": "Foldable Korean Playmat",
