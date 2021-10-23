@@ -1,5 +1,25 @@
 [
   {
+    "id": "100158",
+    "name": "Dining table set",
+    "description": "Quartz dining table set in good condition. With bench seat and two chairs",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "30 Oct 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "100157",
+    "name": "Ariston LUX 30L Water Heater",
+    "description": "Used storage water heater in good condition! It is still under warranty with receipt. Less than 2 years old.",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "01 Nov 2021",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "100156",
     "name": "Deep Fryer",
     "description": "Still working",
@@ -44,16 +64,6 @@
     "name": "Tv",
     "description": "Sharp",
     "location": null,
-    "validTill": "22 Nov 2021",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "100151",
-    "name": "Fridge",
-    "description": "Mitsubishi",
-    "location": "Singapore",
     "validTill": "22 Nov 2021",
     "ageInYears": 3,
     "dimensions": null,
