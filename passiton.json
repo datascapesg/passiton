@@ -2735,24 +2735,6 @@
       "date": "27 Sep 2021"
     },
     {
-      "id": "98963",
-      "category": "Home Furnishing",
-      "name": "Kitchen Cabinet",
-      "description": "Low-income family with 2 young children (4 and 3 years old) need a new kitchen cabinet for their home. This would help them store their kitchen utility items safely and out of reach for their young children. Parents are experiencing job instability due to the COVID-19 pandemic, leading to a shortage in financial resources.",
-      "specifications": "minimum 120cm in width if possible",
-      "contact": {
-        "org": "REACH Family Service Centre",
-        "name": "Stella Png",
-        "email": "stella.png@reach.org.sg",
-        "phone": [
-          "68010879",
-          "62522566"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Sep 2021"
-    },
-    {
       "id": "98902",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -2789,6 +2771,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "100149",
+      "name": "40 inch FHD TV set",
+      "description": "FHD Samsung Led TV. \n\nMore than 4 years, but still in good working condition",
+      "location": "Jurong",
+      "validTill": "22 Nov 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100148",
       "name": "Adult diaper (L)",
