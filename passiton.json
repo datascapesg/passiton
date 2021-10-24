@@ -126,24 +126,6 @@
       "date": "20 Oct 2021"
     },
     {
-      "id": "99990",
-      "category": "Infant and Children Items",
-      "name": "Milk powder & Diaper",
-      "description": "A family of 5 is living at rental flat. Client has multiple young dependent and requires milk powder (Dumex Stage 1, Lactogen Stage 3) & Diapers (Drypers XL & XXL) for her children as she does not have financial to purchase it.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Yew Tee",
-        "name": "Fu Xiu Ting",
-        "email": "fuxiuting@fycs.org",
-        "phone": [
-          "64162186",
-          "64162162"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Oct 2021"
-    },
-    {
       "id": "99989",
       "category": "Infant and Children Items",
       "name": "Diapers and Milk Powder for Families at Yishun",
@@ -200,24 +182,6 @@
       "name": "Dryper XL size diapers",
       "description": "young family living in a rental unit. Client just found a job recently. the family requires some assistance with their toddler's basic needs for these few months as the adjust to the change.",
       "specifications": "4 packets",
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Janetta Tan",
-        "email": "janettatan@amkfsc.org.sg",
-        "phone": [
-          "64546678",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Oct 2021"
-    },
-    {
-      "id": "99753",
-      "category": "Infant and Children Items",
-      "name": "Dugro stage 4 milk powder",
-      "description": "Young couple living in a rental flat. Client has recently found a job. The family requires some assistance for their toddler's basic needs for these few months as they adjust to the abovementioned change.",
-      "specifications": "3 tins",
       "contact": {
         "org": "AMKFSC Community Services Ltd - Cheng San",
         "name": "Janetta Tan",
@@ -2577,6 +2541,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "100185",
+      "name": "Baby crib",
+      "description": "The baby crib is still in good condition except the base has small defect.",
+      "location": "Yishun, Sembawang",
+      "validTill": "23 Nov 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "100184",
+      "name": "Dulac stage 1",
+      "description": "Dulac stage 1. Opened on 21 oct for 5 feeds",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "21 Nov 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100183",
       "name": "Beige Color Sofa",
