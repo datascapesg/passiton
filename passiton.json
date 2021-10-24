@@ -1082,24 +1082,6 @@
       "date": "22 Oct 2021"
     },
     {
-      "id": "100038",
-      "category": "Others",
-      "name": "Sugar",
-      "description": "Our home need 30 packets of 2kg sugar for our 522 elderly residents. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "Ju Eng Home For Senior Citizens",
-        "name": "Lee Jun Hui",
-        "email": "junhui@jeh.org.sg",
-        "phone": [
-          "64846890ext127",
-          "64846890"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Oct 2021"
-    },
-    {
       "id": "100037",
       "category": "Others",
       "name": "Groceries",
@@ -2612,6 +2594,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "100182",
+      "name": "Lock and Lock containers",
+      "description": "Pasta containers - 2 tall ones (2L) and 1 flat box\n2 - 1.5L container\n1 - 1.2L container\n1 - 350ml container",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "23 Nov 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100181",
       "name": "Philips Air Fryer",
