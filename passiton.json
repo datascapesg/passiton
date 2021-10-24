@@ -1823,23 +1823,6 @@
       "date": "22 Oct 2021"
     },
     {
-      "id": "100122",
-      "category": "Electrical Home Appliances",
-      "name": "Washing machine",
-      "description": "An elderly client of Thye Hua Kwan Moral Charities (THKMC), Mr Salleh, has weakness in his lower limbs. Mr Salleh's unit recently underwent fumigation sessions in view of bedbugs and a few items had to be discarded. \n\n \n\nOn behalf of the client, THKMC is seeking a donation of a washing machine to assist with laundry as he has been handwashing his clothes and experiencing back pains.  \n\n   \n\nIf you know of someone who has the item for donation, please contact Case Manager Qhairah Qhaliesah at 9899 0544. We appreciate it if the donor could deliver the item to the client’s home directly at Ang Mo Kio Ave 3. For more information on THKMC, do visit: https://www.thkmc.org.sg",
-      "specifications": null,
-      "contact": {
-        "org": "THK Cluster Support @ Ang Mo Kio",
-        "name": "Qhairah",
-        "email": "qhairahqhaliesah@thkmc.org.sg",
-        "phone": [
-          "65564833"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Oct 2021"
-    },
-    {
       "id": "100117",
       "category": "Electrical Home Appliances",
       "name": "Hot & Cold Water Dispenser",
@@ -1896,24 +1879,6 @@
       "category": "Electrical Home Appliances",
       "name": "Water Heater",
       "description": "Client is visually impaired and unemployed. He is staying with his elderly uncle who works as a cleaner. They have just gotten a rental flat. They would like to have a water heater for their new home.",
-      "specifications": null,
-      "contact": {
-        "org": "TRANS Family Service Centre (Bedok)",
-        "name": "Nafisah Bte Abd Wahab",
-        "email": "nafisah@trans.org.sg",
-        "phone": [
-          "64499088",
-          "64490762"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "21 Oct 2021"
-    },
-    {
-      "id": "100088",
-      "category": "Electrical Home Appliances",
-      "name": "Small Fridge",
-      "description": "Client is visually impaired and unemployed. He is staying with his elderly uncle who works as a cleaner. They have just gotten a rental flat. They would like to have a small refrigerator for their new home.",
       "specifications": null,
       "contact": {
         "org": "TRANS Family Service Centre (Bedok)",
@@ -2647,6 +2612,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "100181",
+      "name": "Philips Air Fryer",
+      "description": "Dimension is approximate. \nNon-halal air fryer. \nGood, working condition. Have still been using it regularly up until now but giving away because I bought a smaller one.",
+      "location": "Jurong",
+      "validTill": "31 Oct 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100180",
       "name": "Excavator toy",
