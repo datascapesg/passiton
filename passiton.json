@@ -1646,6 +1646,23 @@
       "date": "27 Sep 2021"
     },
     {
+      "id": "100200",
+      "category": "Electrical Home Appliances",
+      "name": "Standing Fan (16 inches)",
+      "description": "Elderly uncle 68 yrs old living in 1-room HDB rental flat needs a standing fan. His previously donated fan has stopped working. This uncle is wheelchair user. Many Thanks.",
+      "specifications": "16 inches",
+      "contact": {
+        "org": "Moral Senior Activity Center @ Kaki Bukit",
+        "name": "Gary Tan",
+        "email": "garytan@chkmps.org.sg",
+        "phone": [
+          "64486247"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Oct 2021"
+    },
+    {
       "id": "100199",
       "category": "Electrical Home Appliances",
       "name": "Microwave",
@@ -2402,6 +2419,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "100203",
+      "name": "desk",
+      "description": "Study desk.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "29 Oct 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "100202",
+      "name": "cabinet",
+      "description": "Cabinet that can be used as book shelves or as kitchen cabinet.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "29 Oct 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "100201",
+      "name": "Sofa Bed",
+      "description": "It is an 2 seater sofa bed, queen size.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "27 Oct 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100197",
       "name": "Ikea Tidafors 3-seater sofa",
