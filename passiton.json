@@ -1,24 +1,6 @@
 {
   "requests": [
     {
-      "id": "100213",
-      "category": "Medical Aids",
-      "name": "SIZW L ADULT PULLUP DIAPERS",
-      "description": "We are appealing for ADULT PULL DIAPERS SIZE L  for an elderly client  who is in poor health  and has a bit of mobility issues needs this item and cannot afford to purchase them herself due to financial issures",
-      "specifications": "SIZE l",
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
-        "name": "Maggie Gan",
-        "email": "maggiegan@amkfsc.org.sg",
-        "phone": [
-          "65536643",
-          "64535349"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Oct 2021"
-    },
-    {
       "id": "100099",
       "category": "Medical Aids",
       "name": "Oximeter",
@@ -1874,24 +1856,6 @@
       "date": "25 Oct 2021"
     },
     {
-      "id": "100231",
-      "category": "Electrical Home Appliances",
-      "name": "MOBILE PHONE",
-      "description": "We are appealing for a MOBILE PHONE for a low income client who just give birth due to current financial status could not afford to replace the current one that is out of order",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
-        "name": "Maggie Gan",
-        "email": "maggiegan@amkfsc.org.sg",
-        "phone": [
-          "65536643",
-          "64535349"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Oct 2021"
-    },
-    {
       "id": "100229",
       "category": "Electrical Home Appliances",
       "name": "washing machine",
@@ -2631,6 +2595,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "100246",
+      "name": "Washing machine",
+      "description": "This Ariston freestanding front loading Washing Machine features: a spacious 7kg capacity. A fast, resource-efficient 1000 revolutions per minute spin speed. White color.\nRead more\nMAIN SPECIFICATION\nCapacity (kg): 7\nSpin Speed (rpm): 1000\nEnergy Class: A+++\nSpectrum: A+++ - D",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "01 Nov 2021",
+      "ageInYears": 4,
+      "dimensions": "595 860 605",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100245",
       "name": "Toaster Oven",
