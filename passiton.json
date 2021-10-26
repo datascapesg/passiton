@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "100272",
+      "category": "Medical Aids",
+      "name": "Hospital Bed",
+      "description": "Helping a senior who is a caregiver for her old-aged husband to look for a second-hand working hospital bed. The bed which her husband is sleeping now is too low and requires the senior to exert great strength (which hurt her back) to transfer him out of the bed for showering or toileting.\n\nThanks.",
+      "specifications": null,
+      "contact": {
+        "org": "Presbyterian Community Services",
+        "name": "Andy Toh",
+        "email": "andytoh@pcs.org.sg",
+        "phone": [
+          "67866826",
+          "63344445"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "26 Oct 2021"
+    },
+    {
       "id": "100099",
       "category": "Medical Aids",
       "name": "Oximeter",
@@ -870,24 +888,6 @@
       "date": "19 Oct 2021"
     },
     {
-      "id": "99952",
-      "category": "Electrical Home Appliances",
-      "name": "Halal Fridge",
-      "description": "Client is working as a cleaner and is looking for halal fridge to replace the faulty one.",
-      "specifications": null,
-      "contact": {
-        "org": "AWWA Family Service Centre",
-        "name": "Nurul Khairiah, Khai",
-        "email": "nurul_khairiah@awwa.org.sg",
-        "phone": [
-          "65119471",
-          "65119456"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Oct 2021"
-    },
-    {
       "id": "99935",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator (preferably halal)",
@@ -1754,6 +1754,24 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "27 Sep 2021"
+    },
+    {
+      "id": "100273",
+      "category": "Infant and Children Items",
+      "name": "Milk & Diapers",
+      "description": "Client, 25F, is a single mother of 4 young children and is currently expecting a fifth child. Husband is incarcerated and client is unemployed due to caregiving needs of the children. \nFamily faces tight finances and requires milk & diapers assistance (NAAN HA Stage 2, Pediasure Vanilla, Merries XL) to alleviate the financial burden.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Toa Payoh",
+        "name": "Merissa Boh",
+        "email": "merissaboh@carecorner.org.sg",
+        "phone": [
+          "69506715",
+          "63561622"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "26 Oct 2021"
     },
     {
       "id": "100269",
@@ -2931,16 +2949,6 @@
       "validTill": "24 Nov 2021",
       "ageInYears": 4,
       "dimensions": "43 cm x 27 cm x 31 cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100207",
-      "name": "Cellini L shape sofa",
-      "description": "L shape sofa, doesn't come with side wooden table. \n\nUsed about 3.5years.in good condition. No stains no tear.\n\n\nRecipient / requesting vwo agency to arrange for collection from my flat directly and to pay for transport cost please.",
-      "location": "Yishun, Sembawang",
-      "validTill": "24 Nov 2021",
-      "ageInYears": 3,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
