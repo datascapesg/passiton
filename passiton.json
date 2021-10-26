@@ -450,6 +450,24 @@
       "date": "28 Sep 2021"
     },
     {
+      "id": "100280",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine with dryer function",
+      "description": "Client is a foreigner mother is taking care of 2 children, one just finished PSLE. Father is incarcerated and family is staying in an HDB rental flat. Financial has been very tight for the family as mother is only able to work odd jobs at a bakery. Family is assisted by SSO but all financial assistance is for immediate necessities like food and paying the bills. Client hoepes to receive aid for a washing machine with dryer function.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Nathan Hou",
+        "email": "nathanhou@thkmc.org.sg",
+        "phone": [
+          "88554795",
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Oct 2021"
+    },
+    {
       "id": "100274",
       "category": "Electrical Home Appliances",
       "name": "Air cooler",
@@ -2686,6 +2704,24 @@
       "date": "28 Sep 2021"
     },
     {
+      "id": "100279",
+      "category": "Home Furnishing",
+      "name": "Queen size bed (with mattress if possible)",
+      "description": "Client is a foreigner mother is taking care of 2 children, one just finished PSLE. Father is incarcerated and family is staying in an HDB rental flat. Financial has been very tight for the family as mother is only able to work odd jobs at a bakery. Family is assisted by SSO but all financial assistance is for immediate necessities like food and paying the bills. Client hoepes to receive aid for a queen size bed frame (If possible with mattress)",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Nathan Hou",
+        "email": "nathanhou@thkmc.org.sg",
+        "phone": [
+          "88554795",
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "26 Oct 2021"
+    },
+    {
       "id": "100258",
       "category": "Home Furnishing",
       "name": "Queen size storage bed",
@@ -2860,23 +2896,6 @@
       "date": "20 Oct 2021"
     },
     {
-      "id": "99986",
-      "category": "Home Furnishing",
-      "name": "TV rack",
-      "description": "Client's husband is a stroke patient and client is an elderly low income worker.",
-      "specifications": null,
-      "contact": {
-        "org": "Serangoon Moral Family Service Centre",
-        "name": "Muhammad Al-Hakim",
-        "email": "hakim@smfsc.org.sg",
-        "phone": [
-          "62847123"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Oct 2021"
-    },
-    {
       "id": "99900",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -2948,6 +2967,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "100281",
+      "name": "Story Books",
+      "description": "Story Books most suitable for secondary school children. Most used as part of Literature in school.  As good as new",
+      "location": "Kranji, Woodgrove",
+      "validTill": "25 Nov 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "100278",
+      "name": "Secondary School Textbooks & Assessment Books",
+      "description": "School Textbooks and Assessment Books all as good as new.\nMore relevant for children in express stream\nSec 1 to 4 and 1 Maths Book for JC",
+      "location": "Kranji, Woodgrove",
+      "validTill": "25 Nov 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100275",
       "name": "simple single bed with mattress",
@@ -3365,16 +3404,6 @@
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
       "validTill": "20 Nov 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100092",
-      "name": "Hospital Bed",
-      "description": "Movable up and Down \nMattress inclusive",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "20 Nov 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
