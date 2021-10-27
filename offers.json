@@ -1,5 +1,25 @@
 [
   {
+    "id": "100305",
+    "name": "Light Pink floor rug",
+    "description": "Light pink rug, gently used.  Perfect for any area",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "21 Nov 2021",
+    "ageInYears": 3,
+    "dimensions": "133x160cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "100304",
+    "name": "Refrigerator",
+    "description": "Giving away a working refrigerator as I’ve no use for it.",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "30 Oct 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "100303",
     "name": "Dining Table for 6",
     "description": "This is a dining table for 6. I will include a bench and 4 stools that can be used in conjunction. Collection is at 141052. I will not be able to pay for delivery to the VWO.",
@@ -440,16 +460,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "100135",
-    "name": "Microwave",
-    "description": "Reliable brand in working condition",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "30 Oct 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "100121",
     "name": "Ergonomic Chair (2x)",
     "description": "2 chairs, secondhand.",
@@ -746,16 +756,6 @@
     "location": "Serangoon Garden, Hougang, Ponggol",
     "validTill": "16 Nov 2021",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "99870",
-    "name": "4 dining chairs",
-    "description": "4 dining chairs for give away. Still in good condition and stable to sit.",
-    "location": "Kranji, Woodgrove",
-    "validTill": "27 Oct 2021",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -1517,16 +1517,6 @@
     "validTill": "28 Oct 2021",
     "ageInYears": 3,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "98997",
-    "name": "Ikea Marcus Office chair",
-    "description": "2 x office chairs, Ikea, excellent condition.",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "27 Oct 2021",
-    "ageInYears": 2,
-    "dimensions": "53 x140 x 46",
     "deliveryCostsCoveredByDonor": true
   }
 ]
