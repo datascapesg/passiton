@@ -592,23 +592,6 @@
       "date": "26 Oct 2021"
     },
     {
-      "id": "100266",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Client is aged 58, he has 3 children, F18 M16 and F3. He is a hardworking sole bread winner for the family. They are moving out of their rental unit to their own 2 rm BTO. He is keen for a new fridge for the family.",
-      "specifications": "90cm",
-      "contact": {
-        "org": "Pasir Ris Family Service Centre",
-        "name": "Hazel Foo",
-        "email": "hazelfoo@goodnews.org.sg",
-        "phone": [
-          "65812159"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "26 Oct 2021"
-    },
-    {
       "id": "100264",
       "category": "Electrical Home Appliances",
       "name": "Fridge",
@@ -1455,24 +1438,6 @@
       "date": "11 Oct 2021"
     },
     {
-      "id": "99461",
-      "category": "Others",
-      "name": "Diaper (XL) no brand preference (1 carton)",
-      "description": "Family with low income. Sole breadwinner just released and reconnected back home. Young child needed diaper for childcare.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Champions Way",
-        "name": "Joycelyn Wong",
-        "email": "joycelynwong@fycs.org",
-        "phone": [
-          "66901010",
-          "66901000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Oct 2021"
-    },
-    {
       "id": "99261",
       "category": "Others",
       "name": "24 bottles X 361g Smucker's sugar free jam (assorted flavor)",
@@ -1932,6 +1897,24 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "27 Sep 2021"
+    },
+    {
+      "id": "100323",
+      "category": "Infant and Children Items",
+      "name": "BABY SWADDLES",
+      "description": "We are appealing for a baby swaddle for a low INCOME who recently given birth and in need of this item and due to financial constrains cannot afford to purchase one themselves",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
+        "name": "Maggie Gan",
+        "email": "maggiegan@amkfsc.org.sg",
+        "phone": [
+          "65536643",
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Oct 2021"
     },
     {
       "id": "100322",
@@ -2777,24 +2760,6 @@
       "date": "06 Oct 2021"
     },
     {
-      "id": "99384",
-      "category": "Infant and Children Items",
-      "name": "Twin-stroller",
-      "description": "Family has 5 children (including a pair of twins aged 2 yrs 8 mths). Husband is the sole breadwinner with low income. Current stroller (side-by-side) is faulty and needs replacement. But family has financial problems and cannot buy a new one. A stroller is urgently needed so that client is able to bring the twins along if she needs to run errands on her own during the day.",
-      "specifications": null,
-      "contact": {
-        "org": "Lakeside Family Centre - Jurong West",
-        "name": "Magdalene Ng",
-        "email": "magdalene-ng@lakeside.org.sg",
-        "phone": [
-          "65671908ext436",
-          "65671908"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "05 Oct 2021"
-    },
-    {
       "id": "99374",
       "category": "Infant and Children Items",
       "name": "Milk Powder Similac Follow On Stage 3",
@@ -3230,6 +3195,16 @@
   ],
   "offers": [
     {
+      "id": "100324",
+      "name": "Drinking cup",
+      "description": "4 Coca Cola tall glass\n4 green drinking cups",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "26 Nov 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "100312",
       "name": "Queen size mattress",
       "description": "its a well mainted Inkagu, shin ju 2 mattress",
@@ -3267,16 +3242,6 @@
       "validTill": "21 Nov 2021",
       "ageInYears": 3,
       "dimensions": "133x160cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100303",
-      "name": "Dining Table for 6",
-      "description": "This is a dining table for 6. I will include a bench and 4 stools that can be used in conjunction. Collection is at 141052. I will not be able to pay for delivery to the VWO.",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-      "validTill": "31 Oct 2021",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
