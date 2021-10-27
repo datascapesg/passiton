@@ -468,24 +468,6 @@
       "date": "27 Oct 2021"
     },
     {
-      "id": "100313",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Client is a single mother and full-time caregiver to her 4 young children. They are a low-income family and currently live in a rental flat. Client's washing machine is faulty but has a lack of financial resources to purchase a new one. Thus, she and her family would appreciate donations for a new washing machine.",
-      "specifications": null,
-      "contact": {
-        "org": "REACH Family Service Centre",
-        "name": "Joyce Ngoh",
-        "email": "joyce.ngoh@reach.org.sg",
-        "phone": [
-          "68010716",
-          "62522566"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Oct 2021"
-    },
-    {
       "id": "100309",
       "category": "Electrical Home Appliances",
       "name": "Microwave",
@@ -1899,24 +1881,6 @@
       "date": "27 Sep 2021"
     },
     {
-      "id": "100323",
-      "category": "Infant and Children Items",
-      "name": "BABY SWADDLES",
-      "description": "We are appealing for a baby swaddle for a low INCOME who recently given birth and in need of this item and due to financial constrains cannot afford to purchase one themselves",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
-        "name": "Maggie Gan",
-        "email": "maggiegan@amkfsc.org.sg",
-        "phone": [
-          "65536643",
-          "64535349"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Oct 2021"
-    },
-    {
       "id": "100322",
       "category": "Infant and Children Items",
       "name": "Diapers & Milk Powder",
@@ -2985,23 +2949,6 @@
       "date": "26 Oct 2021"
     },
     {
-      "id": "100234",
-      "category": "Home Furnishing",
-      "name": "sofa bed -2 seater",
-      "description": "A single mother of 3 young children wishes to have 2-seat sofa for her family. She is on government financial assistance.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Oct 2021"
-    },
-    {
       "id": "100230",
       "category": "Home Furnishing",
       "name": "Cupboard",
@@ -3194,6 +3141,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "100325",
+      "name": "Kids Square table",
+      "description": "3 x square children white table \nGood for kids to do work on, draw, eat.  \nUsed condition but still sturdy enough to work on.  \nPrefer location that is central / west",
+      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+      "validTill": "10 Nov 2021",
+      "ageInYears": 4,
+      "dimensions": "H: 45cm W: 55cm L: 55cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100324",
       "name": "Drinking cup",
