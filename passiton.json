@@ -2247,23 +2247,6 @@
       "date": "27 Sep 2021"
     },
     {
-      "id": "100364",
-      "category": "Kitchen Utility Items",
-      "name": "kitchen drain rack",
-      "description": "Clients husband is a stroke patient and client is a low income worker. They just moved to a HDB rental flat and require household items.",
-      "specifications": null,
-      "contact": {
-        "org": "Serangoon Moral Family Service Centre",
-        "name": "Muhammad Al-Hakim",
-        "email": "hakim@smfsc.org.sg",
-        "phone": [
-          "62847123"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "28 Oct 2021"
-    },
-    {
       "id": "99967",
       "category": "Kitchen Utility Items",
       "name": "Stove",
@@ -2452,24 +2435,6 @@
         "phone": [
           "90021391",
           "67671740"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Oct 2021"
-    },
-    {
-      "id": "100218",
-      "category": "Electrical Home Appliances",
-      "name": "Vacuum cleaner",
-      "description": "Low income client seeking help to replace vacuum cleaner.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Jurong",
-        "name": "Nathan Hou",
-        "email": "nathanhou@thkmc.org.sg",
-        "phone": [
-          "88554795",
-          "67169466"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2864,6 +2829,23 @@
       "date": "28 Sep 2021"
     },
     {
+      "id": "100365",
+      "category": "Home Furnishing",
+      "name": "3-seater Sofa Bed",
+      "description": "Family of 5 living in a 1-room rental flat. Single mother who has no source of income is the main caregiver to a newborn and 3 young children. Family is requesting a sofa bed for the usage of their children as they only have one bed to sleep on. Do contact me at 98598768 for further liaison on delivery address etc, thank you very much.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (East)",
+        "name": "Nur Afrina",
+        "email": "fsceast@ppis.sg",
+        "phone": [
+          "69503503"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Oct 2021"
+    },
+    {
       "id": "100346",
       "category": "Home Furnishing",
       "name": "Kitchen Cabinet",
@@ -3022,6 +3004,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "100366",
+      "name": "Little Girl clothing",
+      "description": "I have few little girl clothing/dress age from 3 to 6 years old. Please contact me if required for your children.",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "27 Nov 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100361",
       "name": "Height Adjustable Table",
