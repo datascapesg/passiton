@@ -278,24 +278,6 @@
     "date": "28 Oct 2021"
   },
   {
-    "id": "100400",
-    "category": "Others",
-    "name": "Hospital Bed",
-    "description": "85yo elderly grandmother whose health has deteriorated recently and needs a hospital bed at home for easier caregiving. 28yo granddaughter taking care of 85yo elderly also has 3 young children to take care of, and does not have the financial ability to buy the bed.",
-    "specifications": "-",
-    "contact": {
-      "org": "Kampong Kapor Community Services",
-      "name": "Ng Li Juan",
-      "email": "nglijuan@kkcs.org.sg",
-      "phone": [
-        "64224552",
-        "62997662"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "28 Oct 2021"
-  },
-  {
     "id": "100380",
     "category": "Others",
     "name": "Rations needed",
@@ -1790,6 +1772,23 @@
     "date": "29 Sep 2021"
   },
   {
+    "id": "100418",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder Dumex Dupro Stage 3",
+    "description": "Family of 4 currently undergoing financial stress. Due to covid, mother has to delay her work plans. 2 children, aged 1 and 2, require 1 tin of milk to supplement what they have now.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
+      "name": "Quek Liu Ting",
+      "email": "quekliuting@amkfsc.org.sg",
+      "phone": [
+        "64535349"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "29 Oct 2021"
+  },
+  {
     "id": "100417",
     "category": "Infant and Children Items",
     "name": "Diapers XL and M sized",
@@ -2874,23 +2873,6 @@
     "date": "13 Oct 2021"
   },
   {
-    "id": "99708",
-    "category": "Infant and Children Items",
-    "name": "milk powder - Dugrow Step 4 800g",
-    "description": "Client is a mother, functioning as sole caregiver for her 2 toddler children. Client is unemployed due to unforeseen circumstances and solely relying on financial assistance for family household expenses. Would appreciate if donor can sponsor milk (4-12 packs if possible) for her toddler children.",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner Family Service Centre - Tampines",
-      "name": "Yvette Lau",
-      "email": "tm.vce@carecorner.org.sg",
-      "phone": [
-        "67866225"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 Oct 2021"
-  },
-  {
     "id": "99686",
     "category": "Infant and Children Items",
     "name": "Dumex Dugro Stage 3 Milk Formula and Drypers Diaper Pants in size L",
@@ -3082,6 +3064,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "29 Sep 2021"
+  },
+  {
+    "id": "100419",
+    "category": "Home Furnishing",
+    "name": "Single Bed with mattress",
+    "description": "Client is single mother with 5 children. She struggles with chronic physical and mental illnesses and gets by on financial assistance. Needs a new bed and mattress as the current one has been used for many years and is soiled. \n\nWould need donor's help to pay for delivery fee.",
+    "specifications": "Single bed dimension",
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Caleb Wong",
+      "email": "calebwong@carecorner.org.sg",
+      "phone": [
+        "69784081",
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "29 Oct 2021"
   },
   {
     "id": "100405",
