@@ -261,24 +261,6 @@
       "date": "28 Sep 2021"
     },
     {
-      "id": "100401",
-      "category": "Others",
-      "name": "Used Smartphone",
-      "description": "Single mother caring for 2 teenagers. Mother has mental health issue receiving treatment and long term financial assistance. Family is unable to afford to replace a phone for one of the teenager lost phone. Requesting for donation of a used smartphone for the teenager. Interested donors may whatsapp me. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Mindy Choo",
-        "email": "mindychoo@fycs.org",
-        "phone": [
-          "89078297",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Oct 2021"
-    },
-    {
       "id": "100380",
       "category": "Others",
       "name": "Rations needed",
@@ -971,24 +953,6 @@
       "id": "100404",
       "category": "Electrical Home Appliances",
       "name": "TV",
-      "description": "65 years old gentleman, divorced, stays alone in a 1 room rental flat, has multiple co-morbidities and mental health condition. Financially, waiting for SSO support and nw depends on savings only. Limited ambulation due to bilateral lower limb pain.\n\nPlease contact Rafi at 62746904 or 97281296",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - GoodLife! @ Telok Blangah",
-        "name": "Chen Jie Mei",
-        "email": "jiemei.chen@montfortcare.org.sg",
-        "phone": [
-          "62746904",
-          "62708327"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Oct 2021"
-    },
-    {
-      "id": "100403",
-      "category": "Electrical Home Appliances",
-      "name": "Fan",
       "description": "65 years old gentleman, divorced, stays alone in a 1 room rental flat, has multiple co-morbidities and mental health condition. Financially, waiting for SSO support and nw depends on savings only. Limited ambulation due to bilateral lower limb pain.\n\nPlease contact Rafi at 62746904 or 97281296",
       "specifications": null,
       "contact": {
@@ -3345,6 +3309,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "100420",
+      "name": "Bathtub with stand",
+      "description": "Bathtub with stand. Used but in good condition",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "28 Nov 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100414",
       "name": "Babycot cum playpen",
