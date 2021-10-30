@@ -777,24 +777,6 @@
       "date": "29 Oct 2021"
     },
     {
-      "id": "100430",
-      "category": "Infant and Children Items",
-      "name": "Children Supplies and Toiletries for Young Family with 3yo child",
-      "description": "A young family requires assistance for children supplies (e.g Baby Bath Wash, Baby Wipes, Cereal) and Toiletries (e.g. Tissue Roll, Detergent Powder). Mother is currently heavily pregnant, while father is the sole breadwinner with minimal income. List of required is available, and amounts to approximately $75 - $80. Interested donor, please contact worker at shiyan@frcsfsc.sg or 8554-8219. Thank you very much",
-      "specifications": null,
-      "contact": {
-        "org": "FRCS Family Service Centre - Clementi",
-        "name": "Lim Shi Yan",
-        "email": "shiyan@frcsfsc.sg",
-        "phone": [
-          "67799488ext55",
-          "67799488"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "29 Oct 2021"
-    },
-    {
       "id": "98882",
       "category": "Infant and Children Items",
       "name": "Mamy Poko Diapers (6 Packets, M size - Air Fit)",
@@ -2521,23 +2503,6 @@
       "date": "26 Oct 2021"
     },
     {
-      "id": "100264",
-      "category": "Electrical Home Appliances",
-      "name": "Fridge",
-      "description": "A young single woman in her 20s requires a donated of a fridge as her current fridge is spoiled. She is currently working but is not able to purchase a new fridge or to send it for repairs, due to limited finances. She is living in a 1-room rental flat with her elderly mother. \nFamily lives in the Western region of Singapore and it is hoped that donor can support the transport cost of fridge too.",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Khairunisa Rusli",
-        "email": "khairunisa.rusli@ppis.sg",
-        "phone": [
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Oct 2021"
-    },
-    {
       "id": "100198",
       "category": "Electrical Home Appliances",
       "name": "Ceiling Fan",
@@ -2820,24 +2785,6 @@
       "date": "30 Sep 2021"
     },
     {
-      "id": "99116",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine Needed! (Top Load)",
-      "description": "Client is a single mother, and the sole provider for her 3 school-going children.  Client earns a minimal income from her part-time employment, and as a result, the family experiences financial strains. The family requires a washing machine as their current one is faulty.",
-      "specifications": "Top Load",
-      "contact": {
-        "org": "AWWA Family Service Centre",
-        "name": "Farahlina Tan",
-        "email": "farahlina_tan@awwa.org.sg",
-        "phone": [
-          "65119458",
-          "65119456"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Sep 2021"
-    },
-    {
       "id": "100442",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -3115,6 +3062,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "100459",
+      "name": "Baby Co Sleeper",
+      "description": "Baby co sleeper. Clean and functioning well but not for fussy as it’s even used for a few babies",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "29 Nov 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100458",
       "name": "Air fryer",
