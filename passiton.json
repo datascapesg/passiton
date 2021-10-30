@@ -123,6 +123,24 @@
       "date": "13 Oct 2021"
     },
     {
+      "id": "100468",
+      "category": "Others",
+      "name": "Geriatric Chair",
+      "description": "Patient is 90 years old and recently had a fall, and is unable to tolerate sitting without experiencing pain in a normal chair. Hence, patient requires a geriatric chair to continue living in the community.",
+      "specifications": null,
+      "contact": {
+        "org": "National Kidney Foundation (NKF)",
+        "name": "Dayna Wong",
+        "email": "dayna.wong@nkfs.org",
+        "phone": [
+          "63593642",
+          "65062244"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "30 Oct 2021"
+    },
+    {
       "id": "100453",
       "category": "Others",
       "name": "Portable Bluetooth speaker",
@@ -296,23 +314,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "21 Oct 2021"
-    },
-    {
-      "id": "100031",
-      "category": "Others",
-      "name": "Fumigation Fees",
-      "description": "Female adult in her late fifties require support to pay for fumigation for her HDB rental flat as there are bed bugs at home. She is unable to work due to medical conditions and her children also have financial concerns, unable to pay for the fumigation fees of $120.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Ye Jiancheng",
-        "email": "jiancheng@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "20 Oct 2021"
     },
     {
       "id": "100004",
@@ -2714,6 +2715,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "100467",
+      "name": "Midea Washing Machine",
+      "description": "Well maintained washing machine, front load laundry weight 7kg.\n\nBulky heavy item approx 45kg.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "03 Nov 2021",
+      "ageInYears": 2,
+      "dimensions": "800mm x 650mm x 600mm approx",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100466",
       "name": "Dining table & 4 chairs",
