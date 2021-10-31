@@ -1912,23 +1912,6 @@
       "date": "29 Oct 2021"
     },
     {
-      "id": "100448",
-      "category": "Electrical Home Appliances",
-      "name": "Vacuum cleaner",
-      "description": "Client and husband are unemployed. Husband is medically unfit for work and client has to be the main caregiver for her husband. They have 2 school-going children, age 11 and 9. Client requested for a vacuum cleaner. Her children have asthma and the dust triggers their asthma.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Dini Dzulaikha Bte Dzulkifli",
-        "email": null,
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "29 Oct 2021"
-    },
-    {
       "id": "100447",
       "category": "Electrical Home Appliances",
       "name": "Portable cooler",
@@ -2487,6 +2470,46 @@
     }
   ],
   "offers": [
+    {
+      "id": "100489",
+      "name": "4-foot LED lights and fittings",
+      "description": "Delivery on weekday evening or weekend.",
+      "location": "Geylang, Eunos",
+      "validTill": "30 Nov 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "100488",
+      "name": "Used Ikea Child’s Bed (Kritter)",
+      "description": "Used (>5yrs) but in good condition, Kritter child bed from Ikea with guard rails on both sides. Mattress (used) provided",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "30 Nov 2021",
+      "ageInYears": 4,
+      "dimensions": "70x160cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "100487",
+      "name": "Door closer and window handles",
+      "description": "Delivery on weekday evening or weekend.",
+      "location": "Geylang, Eunos",
+      "validTill": "30 Nov 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "100486",
+      "name": "EM lock system",
+      "description": "Delivery on weekday evening or weekend.",
+      "location": "Geylang, Eunos",
+      "validTill": "30 Nov 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100485",
       "name": "2 seater sofa",
