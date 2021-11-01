@@ -19,24 +19,6 @@
       "date": "01 Nov 2021"
     },
     {
-      "id": "100509",
-      "category": "Medical Aids",
-      "name": "Adult diaper pants ( size L)",
-      "description": "Client is in her fifties and suffering from multiple health problems where she required your help with some adult diapers.  She is living with her brother who is earning low-income in a public rental flat. Item provided would help to reduce her brother's expenses.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Janetta Tan",
-        "email": "janettatan@amkfsc.org.sg",
-        "phone": [
-          "64546678",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "01 Nov 2021"
-    },
-    {
       "id": "100331",
       "category": "Medical Aids",
       "name": "Blood Glucose Meter",
@@ -2402,6 +2384,16 @@
   ],
   "offers": [
     {
+      "id": "100544",
+      "name": "QUeen bedframe (with headboard) and mattress",
+      "description": "Posting on behalf of donor: \n\nDonation Queen bed and mattress.\n\nDescription of working condition:\nBedframe is sturdy and in good working condition. Only about 2 years old. Relatively new. \nMattress is in good working condition with no sunken areas. About 5 years old. \n\nDimensions (L x W x H): 2 m x 1.56 m\n\nRequests: \n1) Prefer to deliver on weekends. Kindly share client's max time availability for delivery on 6th, 7th, 13th and 14th Nov. \n2) Please briefly share circumstances of the famlly so that donor can understand whom they are helping.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "10 Nov 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "100543",
       "name": "Stroller",
       "description": "2 stroller to bless out",
@@ -3469,56 +3461,6 @@
       "validTill": "03 Nov 2021",
       "ageInYears": 1,
       "dimensions": "Walker boot is about 1kg. Size Medium, suits those whose shoe size is men size 9",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99282",
-      "name": "Toy car, music, cooking",
-      "description": "Toy car, music, cooking age 3 and above.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "02 Nov 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99276",
-      "name": "Clay pot",
-      "description": "New  clay pot.",
-      "location": "Little India",
-      "validTill": "02 Nov 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99274",
-      "name": "Rice cooker",
-      "description": "Rice cooker  can cook for 6-8 paxs.",
-      "location": "Little India",
-      "validTill": "02 Nov 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99271",
-      "name": "Flask",
-      "description": "1.5 little hot water flasks giving away.",
-      "location": "Little India",
-      "validTill": "02 Nov 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "99270",
-      "name": "Air Purifier",
-      "description": "Air Purifier  giving away.",
-      "location": "Little India",
-      "validTill": "02 Nov 2021",
-      "ageInYears": 1,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     }
   ]
