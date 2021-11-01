@@ -532,24 +532,6 @@
       "date": "31 Oct 2021"
     },
     {
-      "id": "98882",
-      "category": "Infant and Children Items",
-      "name": "Mamy Poko Diapers (6 Packets, M size - Air Fit)",
-      "description": "Low-income family of 5 with 2 young dependents. Mother is a full-time caregiver while father earns low wages that are insufficient to support the family’s day to day needs. Due to their chronic financial difficulties, the family needs support with their infant’s diapers for the next 2 months. (Mamy Poko Diapers (6 Packets, M size - Air Fit)\nDelivery arrangements to be covered by donor. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Mindy Choo",
-        "email": "mindychoo@fycs.org",
-        "phone": [
-          "89078297",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Oct 2021"
-    },
-    {
       "id": "100424",
       "category": "Infant and Children Items",
       "name": "Diapers",
@@ -2101,6 +2083,24 @@
       "date": "19 Oct 2021"
     },
     {
+      "id": "100518",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave Oven",
+      "description": "Single father of a 12 year old would like to have a brand new microwave oven to be able to heat up the meals. Family has been financially stretched as father is unemployed.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Admiralty",
+        "name": "Serene Koh",
+        "email": "serenekoh@carecorner.org.sg",
+        "phone": [
+          "69784103",
+          "63658751"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Nov 2021"
+    },
+    {
       "id": "100505",
       "category": "Electrical Home Appliances",
       "name": "20”/ 24” SMART TV",
@@ -2434,6 +2434,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "100519",
+      "name": "Grey/White Chesterfield Sofa & Armchairs",
+      "description": "Chesterfield sofa set:\n1) 1x 3-seater sofa \n- Dimensions: L~200cm x W~90cm x H~70cm\n2) 2x 1-seater armchair\n- Dimensions: L~90cm x W~90cm x H~70cm\n- grey/white fabric",
+      "location": "Orchard, Cairnhill, River Valley",
+      "validTill": "01 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "~200cm x ~90cm x ~70cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100515",
       "name": "Chair with foot rest",
