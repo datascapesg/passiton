@@ -2467,6 +2467,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "20 Oct 2021"
+    },
+    {
+      "id": "100526",
+      "category": "Leisure and Healthy Lifestyle",
+      "name": "Bicycle",
+      "description": "Client is a low-income single parent to an 11-month old daughter. She hopes to work in food delivery to support her daughter and herself financially and would like a bicycle to pick up and deliver the food.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@amkfsc.org.sg",
+        "phone": [
+          "64546678ext217",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Nov 2021"
     }
   ],
   "offers": [
@@ -2517,6 +2535,16 @@
       "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
       "validTill": "17 Nov 2021",
       "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "100525",
+      "name": "Picket and Rail Sofa",
+      "description": "2 seater sofa, good condition \n\ndonating it cause i'm getting a 3 seater",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "10 Nov 2021",
+      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
