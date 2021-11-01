@@ -37,23 +37,6 @@
       "date": "01 Nov 2021"
     },
     {
-      "id": "100363",
-      "category": "Medical Aids",
-      "name": "TENA Adult Diaper (Size L)",
-      "description": "Client is the sole breadwinner in the family and have to support 3 schooling children and wife. Wife suffers from breast and brain cancer. After surgery, wife has become paralyzed and is unable to care for herself. Item provided would help to reduce the family's expenses.",
-      "specifications": null,
-      "contact": {
-        "org": "Serangoon Moral Family Service Centre",
-        "name": "Muhammad Al-Hakim",
-        "email": "hakim@smfsc.org.sg",
-        "phone": [
-          "62847123"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "28 Oct 2021"
-    },
-    {
       "id": "100331",
       "category": "Medical Aids",
       "name": "Blood Glucose Meter",
@@ -381,23 +364,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "01 Nov 2021"
-    },
-    {
-      "id": "100530",
-      "category": "Others",
-      "name": "Mobile Smart Phone",
-      "description": "Client is a Single mother with 2 children and her mobile phone recently broke down. She was hospitalised and was dismissed from her job. Hence, she has no other financial means to purchase a new phone. The phone will be important to help her keep in contact with her Social workers and children’s Teachers. More importantly, help her make sure she can be contacted by potential employers while she looks for a new job.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
-        "name": "Pek Yan Zhan",
-        "email": "pekyanzhan@amkfsc.org.sg",
-        "phone": [
-          "64535349"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "01 Nov 2021"
     },
     {
@@ -2470,6 +2436,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "100543",
+      "name": "Stroller",
+      "description": "2 stroller to bless out",
+      "location": "Jurong",
+      "validTill": "15 Nov 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "100542",
+      "name": "Black Leather Sofa",
+      "description": "We have leather sofa we would like to replace it with new one",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "08 Nov 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100515",
       "name": "Chair with foot rest",
