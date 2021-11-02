@@ -330,23 +330,6 @@
       "date": "02 Nov 2021"
     },
     {
-      "id": "100559",
-      "category": "Home Furnishing",
-      "name": "Wardrobe",
-      "description": "Client is an elderly lady staying alone at Taman Jurong. Her house was infested with bed bugs but has since been resolved. She had to throw out her furniture due to the infestation and would like to get replacement. Any help will be greatly appreciated.",
-      "specifications": null,
-      "contact": {
-        "org": "NTUC Health Cluster Support - Taman Jurong",
-        "name": "Tan Ee Ping",
-        "email": "eeping.t@ntuchealth.sg",
-        "phone": [
-          "62674197"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Nov 2021"
-    },
-    {
       "id": "97526",
       "category": "Home Furnishing",
       "name": "Bunk Bed Frame",
@@ -2597,6 +2580,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "100599",
+      "name": "King bed frame, mattress, pillows, bedside tables",
+      "description": "In good condition. Everything you see in the picture except the lamp.",
+      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+      "validTill": "07 Nov 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100598",
       "name": "Round wooden dining table",
