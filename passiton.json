@@ -243,6 +243,23 @@
       "date": "13 Oct 2021"
     },
     {
+      "id": "100583",
+      "category": "Home Furnishing",
+      "name": "Single Bed c/w Mattress",
+      "description": "Family of 7 living in a 2-room rental flat is requesting for a single sized bed frame with mattress. Thank you very much.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Pek Jie Hui",
+        "email": "jiehui@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Nov 2021"
+    },
+    {
       "id": "100570",
       "category": "Home Furnishing",
       "name": "7 mattresses",
@@ -897,6 +914,24 @@
       "date": "03 Oct 2021"
     },
     {
+      "id": "100582",
+      "category": "Infant and Children Items",
+      "name": "Children Supplies and Toiletries for Young Family with 3yo child",
+      "description": "A young family requires assistance for children supplies (e.g Baby Bath Wash, Baby Wipes, Cereal) and Toiletries (e.g. Tissue Roll, Detergent Powder). Mother is currently heavily pregnant, while father is the sole breadwinner with minimal income. List of required is available, and amounts to approximately $75 - $80. Interested donor, please contact worker at shiyan@frcsfsc.sg or 8554-8219. Thank you very much",
+      "specifications": null,
+      "contact": {
+        "org": "FRCS Family Service Centre - Clementi",
+        "name": "Lim Shi Yan",
+        "email": "shiyan@frcsfsc.sg",
+        "phone": [
+          "67799488ext55",
+          "67799488"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "02 Nov 2021"
+    },
+    {
       "id": "100581",
       "category": "Infant and Children Items",
       "name": "Lactogen 3 Milk Powder (2 cans)",
@@ -1032,23 +1067,6 @@
         "phone": [
           "89078297",
           "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Nov 2021"
-    },
-    {
-      "id": "100520",
-      "category": "Infant and Children Items",
-      "name": "Items suitable for new born",
-      "description": "Family living in a rental flat has a 1 year old daughter and is expecting arrival of a second daughter in 2 months' time. They are looking for any donation of items suitable for a new born. For interested donors, please contact me. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Jasmine Leong",
-        "email": "jasmine@sccfsc.org.sg",
-        "phone": [
-          "64619200"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2228,24 +2246,6 @@
       "date": "02 Nov 2021"
     },
     {
-      "id": "100567",
-      "category": "Electrical Home Appliances",
-      "name": "2-door fridge",
-      "description": "HEART@Fei Yue, Child Protection Specialist Centre is looking for a 2-door fridge for a family staying in a 1-room rental flat.\nInterested donor/s may whatsapp me between Mondays and Fridays, 10am and 5pm. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Reuben Siew",
-        "email": "reubensiew@fycs.org",
-        "phone": [
-          "97599700",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Nov 2021"
-    },
-    {
       "id": "100566",
       "category": "Electrical Home Appliances",
       "name": "Electric Kettle",
@@ -2455,24 +2455,6 @@
       "date": "29 Oct 2021"
     },
     {
-      "id": "100309",
-      "category": "Electrical Home Appliances",
-      "name": "Microwave",
-      "description": "Client is a foreigner mother is taking care of 2 children, one just finished PSLE. Father is incarcerated and family is staying in an HDB rental flat. Financial has been very tight for the family as mother is only able to work odd jobs at a bakery. Family is assisted by SSO but all financial assistance is for immediate necessities like food and paying the bills. Client hopes to receive aid for a microwave",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Jurong",
-        "name": "Nathan Hou",
-        "email": "nathanhou@thkmc.org.sg",
-        "phone": [
-          "88554795",
-          "67169466"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Oct 2021"
-    },
-    {
       "id": "100274",
       "category": "Electrical Home Appliances",
       "name": "Air cooler",
@@ -2631,6 +2613,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "100584",
+      "name": "Digital Radio",
+      "description": "Digital Radio phone",
+      "location": "Yishun, Sembawang",
+      "validTill": "30 Nov 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100579",
       "name": "SOMA Lightweight Foldable Wheelchair",
