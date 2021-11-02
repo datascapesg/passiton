@@ -1859,24 +1859,6 @@
       "date": "01 Nov 2021"
     },
     {
-      "id": "100535",
-      "category": "Mobility Aids",
-      "name": "wheelchair",
-      "description": "My client is 72 years old, staying with her ex-wife who is his main caregiver in a rental flat in the Hougang area. The client needs a wheelchair and he couldn't afford to buy one. Thank you for your kindness in advance.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Cluster Support (CCK/ Bukit Panjang)",
-        "name": "Lau Lee Pai",
-        "email": "lauleepai@fycs.org",
-        "phone": [
-          "62024699",
-          "68936606"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Nov 2021"
-    },
-    {
       "id": "100522",
       "category": "Mobility Aids",
       "name": "Pressure Relief Mattress",
@@ -2400,6 +2382,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "100546",
+      "name": "Clothes and shoes for 6-8 years old",
+      "description": "Clothes and shoes for girl aged 6-8 years old. Most clothes are relatively new and work for less than 10 times.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "01 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": "In picture",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100544",
       "name": "QUeen bedframe (with headboard) and mattress",
