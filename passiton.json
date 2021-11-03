@@ -842,41 +842,6 @@
       "date": "01 Nov 2021"
     },
     {
-      "id": "100371",
-      "category": "Others",
-      "name": "Fresh food and grocery",
-      "description": "Family has two young kids who requires fresh food and grocery as the family is facing financial difficulties due to some family issues. I will be able to provide the list of food. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Ng Shiuh Shuen",
-        "email": "ngshiuhshuen@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Oct 2021"
-    },
-    {
-      "id": "100317",
-      "category": "Others",
-      "name": "Food rations",
-      "description": "Young married couple is caring for a preschool child. Husband has lost his job recently and thus family has lost their main income. Looking for food rations to tide the family through a difficult time.\n\n(Will specify type of rations, once contacted. Thank you)",
-      "specifications": null,
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Sean Ashwin NJ",
-        "email": "seanashwin@fycs.org",
-        "phone": [
-          "68199170ext123",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Oct 2021"
-    },
-    {
       "id": "100260",
       "category": "Others",
       "name": "balloons",
@@ -2492,6 +2457,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "100632",
+      "name": "Baby Cot and Mattress",
+      "description": "One side of the cot can be lowered from height of 80cm to 110cm to allow easy access. Good condition cot as only used for one child and let idling on the room",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "21 Nov 2021",
+      "ageInYears": 4,
+      "dimensions": "L136cm, B75cm, H80cm-110cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100624",
       "name": "Playpen with Mattress",
