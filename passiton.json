@@ -88,23 +88,6 @@
       "date": "18 Oct 2021"
     },
     {
-      "id": "100703",
-      "category": "Medical Aids",
-      "name": "wet wipes -",
-      "description": "Client is the sole breadwinner of the household (wife, son and brother-in-law). He is unable to secure full-time employment due to his caregiving concerns of wife and son (who both have poor mental health). Client's brother-in-law is immobile, and requires client/wife's support in showering and other activities. The wet wipes are essential in ensuring the hygiene of brother-in-law.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Nov 2021"
-    },
-    {
       "id": "100331",
       "category": "Medical Aids",
       "name": "Blood Glucose Meter",
@@ -228,24 +211,6 @@
       "date": "03 Nov 2021"
     },
     {
-      "id": "100523",
-      "category": "Electrical Home Appliances",
-      "name": "Air-Cooler",
-      "description": "Ct is a single mother with 2 teenage sons staying in a 1-room rental flat. Ct is working part-time. Ct requests for an air-cooler for the family. Please contact Ms Tan Limin at 63260308 if you require further clarifications. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Whampoa Family Service Centre",
-        "name": "Tan Jia Wei",
-        "email": "tanjiawei@kkcs.org.sg",
-        "phone": [
-          "63260305",
-          "63260300"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Nov 2021"
-    },
-    {
       "id": "100505",
       "category": "Electrical Home Appliances",
       "name": "20”/ 24” SMART TV",
@@ -297,23 +262,6 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "30 Oct 2021"
-    },
-    {
-      "id": "100274",
-      "category": "Electrical Home Appliances",
-      "name": "Air cooler",
-      "description": "Elderly grandmother who is medically unfit for work and has 1 school-going son is hoping to get an air cooler, which would be helpful given her medical conditions. There is no income-earner in the family as her son is schooling in ITE full-time.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Lim Yi Xi",
-        "email": "yixi@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Oct 2021"
     },
     {
       "id": "100117",
@@ -1912,6 +1860,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "100753",
+      "name": "Desk and pedestal",
+      "description": "Desk - need help to collect",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "07 Dec 2021",
+      "ageInYears": 3,
+      "dimensions": "160 x 80",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "100752",
+      "name": "Desk and pedestal",
+      "description": "Desk - need help to collect",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "07 Dec 2021",
+      "ageInYears": 3,
+      "dimensions": "160 x 80",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100751",
       "name": "Mattress",
