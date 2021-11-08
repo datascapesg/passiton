@@ -123,74 +123,40 @@
       "date": "13 Oct 2021"
     },
     {
-      "id": "100707",
-      "category": "Home Furnishing",
-      "name": "Trolley (Ikea Raskog)",
-      "description": "We will require 3 x Trolley (similar to the Ikea Raskog), to assist us with for easy mobility in the Centre.\n\nThe trolleys will be used to help carry out clients' iPad.",
+      "id": "100774",
+      "category": "Infant and Children Items",
+      "name": "Milk powder",
+      "description": "Couple requires milk powder for their young children as they are unable to afford due to their financial difficulties. Couple's employment are unstable due to caregiving",
       "specifications": null,
       "contact": {
-        "org": "THK Pan-Disability Centre @ Eunos",
-        "name": "Siti Nurzarifah Binte Selamat",
-        "email": "sitinurzarifah@thkmc.org.sg",
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Chua Bee Guet",
+        "email": "chuabeeguet@fycs.org",
         "phone": [
-          "68461171"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "05 Nov 2021"
-    },
-    {
-      "id": "100631",
-      "category": "Home Furnishing",
-      "name": "Metal Cabinet (Office/storage kind)",
-      "description": "Family of 4 has significant financial difficulties with 1 school-going children and 1 elderly. House is infested with bed bugs and family would like to get a metal cabinet so that they can reduce the bed-bug infestations.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Ong Jing Quan",
-        "email": "ongjingquan@amkfsc.org.sg",
-        "phone": [
-          "64535349",
-          "64578559"
+          "66901004",
+          "66901000"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "03 Nov 2021"
+      "date": "08 Nov 2021"
     },
     {
-      "id": "100630",
-      "category": "Home Furnishing",
-      "name": "TV Console",
-      "description": "A single-mother with a young child and facing financial difficulty needs a TV console to place the TV on. Otherwise, the TV will be placed on the floor.",
+      "id": "100773",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder",
+      "description": "Couple requires milk powder for their young children as they are unable to afford due to their financial difficulties. Couple's employment are unstable due to caregiving responsibilities for 3 young children. Requesting for Dugro Stage 1.",
       "specifications": null,
       "contact": {
-        "org": "Care Corner Family Service Centre - Woodlands",
-        "name": "Ho Mee Chan",
-        "email": "homeechan@carecorner.org.sg",
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Chua Bee Guet",
+        "email": "chuabeeguet@fycs.org",
         "phone": [
-          "63622481"
+          "66901004",
+          "66901000"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "03 Nov 2021"
-    },
-    {
-      "id": "97526",
-      "category": "Home Furnishing",
-      "name": "Bunk Bed Frame",
-      "description": "Family of 7 stays in a 1 room rental flat. Family requires a double-decked bed frame (queen-size at the bottom; queen-size at the top OR queen-size at the bottom; single-size at the top) due to space constraints.",
-      "specifications": "refer to description",
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Hannah Lim",
-        "email": "hannahlimzhixin@fycs.org",
-        "phone": [
-          "69783487",
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "01 Nov 2021"
+      "date": "08 Nov 2021"
     },
     {
       "id": "100770",
@@ -1805,6 +1771,75 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "01 Nov 2021"
+    },
+    {
+      "id": "100775",
+      "category": "Home Furnishing",
+      "name": "3 Single Mattress",
+      "description": "Client is the caregiver of 3 young children. \nThe family is on financial assistance as her husband is serving his sentence due to a criminal involvement. \nThe family resides in a rental flat, whereby finances are only sufficient for day-to-day necessities. \nTheir mattresses have been worn out and she would like to receive a few for her three children.",
+      "specifications": "3 Single Mattress for 3 Kids",
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Nov 2021"
+    },
+    {
+      "id": "100707",
+      "category": "Home Furnishing",
+      "name": "Trolley (Ikea Raskog)",
+      "description": "We will require 3 x Trolley (similar to the Ikea Raskog), to assist us with for easy mobility in the Centre.\n\nThe trolleys will be used to help carry out clients' iPad.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Pan-Disability Centre @ Eunos",
+        "name": "Siti Nurzarifah Binte Selamat",
+        "email": "sitinurzarifah@thkmc.org.sg",
+        "phone": [
+          "68461171"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "05 Nov 2021"
+    },
+    {
+      "id": "100631",
+      "category": "Home Furnishing",
+      "name": "Metal Cabinet (Office/storage kind)",
+      "description": "Family of 4 has significant financial difficulties with 1 school-going children and 1 elderly. House is infested with bed bugs and family would like to get a metal cabinet so that they can reduce the bed-bug infestations.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Ong Jing Quan",
+        "email": "ongjingquan@amkfsc.org.sg",
+        "phone": [
+          "64535349",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Nov 2021"
+    },
+    {
+      "id": "100630",
+      "category": "Home Furnishing",
+      "name": "TV Console",
+      "description": "A single-mother with a young child and facing financial difficulty needs a TV console to place the TV on. Otherwise, the TV will be placed on the floor.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Woodlands",
+        "name": "Ho Mee Chan",
+        "email": "homeechan@carecorner.org.sg",
+        "phone": [
+          "63622481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Nov 2021"
     },
     {
       "id": "100719",
