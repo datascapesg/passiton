@@ -301,24 +301,6 @@
       "date": "08 Nov 2021"
     },
     {
-      "id": "100770",
-      "category": "Infant and Children Items",
-      "name": "2 x Dugro Stage 4 Milk Powder 1.6kg",
-      "description": "Family of 8 with father being the sole breadwinner require support with milk powder as his job has been greatly affected by covid 19 working in the F&B sector with the heightened alert measures. Mother is unable to work due to her her chronic heart condition.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Choong Ying",
-        "email": "choongying@amkfsc.org.sg",
-        "phone": [
-          "64546678",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Nov 2021"
-    },
-    {
       "id": "97755",
       "category": "Infant and Children Items",
       "name": "Dugro 3 milk powder",
@@ -2072,6 +2054,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "100834",
+      "name": "Cooker Hob",
+      "description": "7 year old stove with 2 hob in good condition. Send directly by donor to recipent's house.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "30 Nov 2021",
+      "ageInYears": 4,
+      "dimensions": "about 100cm x 50cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100832",
       "name": "Baby cot",
