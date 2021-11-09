@@ -125,6 +125,24 @@
       "date": "18 Oct 2021"
     },
     {
+      "id": "100856",
+      "category": "Medical Aids",
+      "name": "Plasters, alcohol wipes and disposable masks",
+      "description": "Christmas hamper collection drive. \nWe are preparing to pack and distribute 40 sets of hampers to stay-alone elderly, or low-income families as part of our year-end festivities. \n\nPlease contact Jiemei @ 81266854 or Clarissa @ 91271945 for more information.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Telok Blangah",
+        "name": "Chen Jie Mei",
+        "email": "jiemei.chen@montfortcare.org.sg",
+        "phone": [
+          "62746904",
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Nov 2021"
+    },
+    {
       "id": "100807",
       "category": "Medical Aids",
       "name": "Standard Q ART Test Kits (50x and more)",
@@ -1594,6 +1612,41 @@
       "date": "11 Oct 2021"
     },
     {
+      "id": "100857",
+      "category": "Others",
+      "name": "Food Rations",
+      "description": "A pair of young couple who is currently homeless and having financial difficulty to make ends meet. They would require halal dry food rations to tide through this difficult period.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Mabel Ng",
+        "email": "mabelng@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Nov 2021"
+    },
+    {
+      "id": "100855",
+      "category": "Others",
+      "name": "Fire Extinguisher",
+      "description": "Single elderly in his 60s, stays alone and is receiving financial assistance.  He requires a fire extinguisher of around 3kg.  Preferably to be able to use for Class A, B and C types.",
+      "specifications": "Around 3kg",
+      "contact": {
+        "org": "SACS Anglican Cluster Operator @ Jurong East",
+        "name": "Koh Leong Foo",
+        "email": "leongfoo_koh@sacs.org.sg",
+        "phone": [
+          "62621183ext209",
+          "62621183"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Nov 2021"
+    },
+    {
       "id": "100799",
       "category": "Others",
       "name": "Groceries",
@@ -2262,6 +2315,16 @@
   ],
   "offers": [
     {
+      "id": "100858",
+      "name": "Promama milk",
+      "description": "Brand new. Expire in April 2022",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "09 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "100846",
       "name": "Queen Size Bed",
       "description": "Queen size bed comes with mattress and if needed, bedsheets can be given as we don’t have another queen size bed at home.",
@@ -2412,16 +2475,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "100813",
-      "name": "Diapers",
-      "description": "Brand new diapers to give away. Detail refer to photos. Please arrange for pick up, thank you.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "18 Nov 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "100812",
       "name": "Textbooks and reference books for secondary levels",
       "description": "Useful books for secondary school students",
@@ -2543,16 +2596,6 @@
     },
     {
       "id": "100762",
-      "name": "Double deck bed from Ikea",
-      "description": "1 double decker bed still\nIn good condition. About 4 years old. Owner moving out. Letting go, without mattress\nheight 160cm\nLength 195cm\nDepth 98 cm",
-      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-      "validTill": "29 Nov 2021",
-      "ageInYears": 4,
-      "dimensions": "160 by 195 by 98",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100761",
       "name": "Double deck bed from Ikea",
       "description": "1 double decker bed still\nIn good condition. About 4 years old. Owner moving out. Letting go, without mattress\nheight 160cm\nLength 195cm\nDepth 98 cm",
       "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
@@ -2689,16 +2732,6 @@
       "validTill": "11 Nov 2021",
       "ageInYears": 4,
       "dimensions": "171cm x 82cm x 79cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100748",
-      "name": "Books for 5/6/7 year old girl",
-      "description": "Books for children learning to read.A mix of newer and hand-me-downs from cousin. Books are in good condition for other kids.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "07 Dec 2021",
-      "ageInYears": 2,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3059,16 +3092,6 @@
       "validTill": "15 Nov 2021",
       "ageInYears": 4,
       "dimensions": "186 x 136 x 55 cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100651",
-      "name": "Bed & Mattress",
-      "description": "Mattress and bed base in black.  Only used in guest room so even though 4 years only only use occasionally for 2 years.",
-      "location": "Orchard, Cairnhill, River Valley",
-      "validTill": "15 Nov 2021",
-      "ageInYears": 4,
-      "dimensions": "queen size bed",
       "deliveryCostsCoveredByDonor": true
     },
     {
