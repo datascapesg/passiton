@@ -50,16 +50,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "100832",
-    "name": "Baby cot",
-    "description": "Used baby cot for less than 4 months.",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "01 Dec 2021",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "100830",
     "name": "Queen Size Mattress and Bed Frame",
     "description": "Very good condition though is more than 4 years old. Used only for less than 2 years.",
@@ -1127,6 +1117,16 @@
     "validTill": "30 Nov 2021",
     "ageInYears": 4,
     "dimensions": "170*90",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "100852",
+    "name": "Cot",
+    "description": "Amazing cot, sturdy, well known & expensive brand! My daughter loved it! Theophile & Patachou",
+    "location": null,
+    "validTill": "30 Nov 2021",
+    "ageInYears": 3,
+    "dimensions": "70x140",
     "deliveryCostsCoveredByDonor": true
   },
   {
