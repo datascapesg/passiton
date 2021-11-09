@@ -1,24 +1,6 @@
 {
   "requests": [
     {
-      "id": "100876",
-      "category": "Mobility Aids",
-      "name": "Shower Chair",
-      "description": "Client's elderly grandmother is in need of a shower chair she has lost strength to sit up well on the toilet bowl or normal chair. Client has been unable to work and earn an income due to her chronic spine problems and is due to go for a surgery in December and hope to put in place the care of her grandmother before surgery. Client will appreciate a donation of a shower chair in good condition for her elderly grandmother. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Daphne Koh",
-        "email": "daphnekohsukin@fycs.org",
-        "phone": [
-          "69783484",
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Nov 2021"
-    },
-    {
       "id": "100804",
       "category": "Mobility Aids",
       "name": "Motorised Wheelchair",
@@ -244,24 +226,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": false,
-      "date": "09 Nov 2021"
-    },
-    {
-      "id": "100853",
-      "category": "Infant and Children Items",
-      "name": "Illuma MIlk Powder stage 3",
-      "description": "Family of 5 - client work at healthcare setting as a nurse, husband works as a pest control officer. Client's parents are elderly, mother is certified unfit for work while father has been forced by company to quit his job as he is nearing his retirement age due to the covid-19 pandemic where the company is unable to retain the staffs. Child is currently been diagnosed with autism and has been lagging behind in all developmental milestones. There are also medical reports with regards to child's sensitive digestive tract and is only able to drink Illuma milk powder to prevent constipation and diarrhoea which would rush child to hospital again and incur further medical costs. Family require a tin of milk powder to tide through this month while waiting for temporary financial assistance to be processed by end of this month.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Choong Ying",
-        "email": "choongying@amkfsc.org.sg",
-        "phone": [
-          "64546678",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
       "date": "09 Nov 2021"
     },
     {
@@ -2123,23 +2087,6 @@
       "date": "09 Nov 2021"
     },
     {
-      "id": "100867",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine (top load)",
-      "description": "Client is an elderly low income worker while husband is a stroke patient.",
-      "specifications": "top load please",
-      "contact": {
-        "org": "Serangoon Moral Family Service Centre",
-        "name": "Muhammad Al-Hakim",
-        "email": "hakim@smfsc.org.sg",
-        "phone": [
-          "62847123"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Nov 2021"
-    },
-    {
       "id": "100865",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine (top load)",
@@ -2688,6 +2635,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "100895",
+      "name": "Pigeon Rapid Sterilizer",
+      "description": "Rarely used as baby is breastfed\nGood condition, 2 tier rack enough to fit 4 to 5 bottles per steam",
+      "location": "Kranji, Woodgrove",
+      "validTill": "09 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "100879",
       "name": "Storage bed",
