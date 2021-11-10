@@ -1,21 +1,21 @@
 {
   "requests": [
     {
-      "id": "100910",
+      "id": "100911",
       "category": "Mobility Aids",
-      "name": "Walking stick",
-      "description": "Client has multiple medical conditions that requires ongoing follow up and has difficulty in securing employment. He requires a walking stick to support his mobility in the community.",
+      "name": "Wheelchair",
+      "description": "Client releasing from Prison but with mobility issues. Requires a wheelchair to move about at ease. Unable to purchase one and will need it upon his release.",
       "specifications": null,
       "contact": {
-        "org": "REACH Family Service Centre",
-        "name": "Angeline Cheng",
-        "email": "angeline.cheng@reach.org.sg",
+        "org": "Fei Yue Community Service - Family Resource Centre",
+        "name": "Janet Liam Hui Hui",
+        "email": "janetliam@fycs.org",
         "phone": [
-          "68010718",
-          "62522566"
+          "62149657",
+          "65467460"
         ]
       },
-      "deliveryCostsCoveredByDonor": true,
+      "deliveryCostsCoveredByDonor": false,
       "date": "10 Nov 2021"
     },
     {
@@ -2014,6 +2014,23 @@
       "date": "19 Oct 2021"
     },
     {
+      "id": "100912",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is the sole breadwinner for a family of four working as swimming instructor and supplementing his income doing Grab delivery. Wife is the caregiver for their two young children. Client's washing machine is spoilt and he is unable to afford a replacement.",
+      "specifications": null,
+      "contact": {
+        "org": "TRANS Family Service Centre (Bedok Reservoir)",
+        "name": "Nurhayati Binte Salam",
+        "email": "hayati@trans.org.sg",
+        "phone": [
+          "67473202"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Nov 2021"
+    },
+    {
       "id": "100898",
       "category": "Electrical Home Appliances",
       "name": "Fridge in good condition",
@@ -2598,16 +2615,6 @@
     }
   ],
   "offers": [
-    {
-      "id": "100907",
-      "name": "Curtain",
-      "description": "High quality sheer curtain fits 3R flat living room window.",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "30 Nov 2021",
-      "ageInYears": 4,
-      "dimensions": "Total width 173cm x Height 153cm",
-      "deliveryCostsCoveredByDonor": true
-    },
     {
       "id": "100895",
       "name": "Pigeon Rapid Sterilizer",
