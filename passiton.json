@@ -195,6 +195,23 @@
       "date": "13 Oct 2021"
     },
     {
+      "id": "100909",
+      "category": "Infant and Children Items",
+      "name": "karihome milk stage 2 & 3",
+      "description": "Client is a young mother with 2 children. Couple is currently unemployed due to their caregiving duties and challenges in seeking employment. Family needs Karihome Milk stage 2  & 3 for their children.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Yang Yan Si",
+        "email": "yang.yansi@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "10 Nov 2021"
+    },
+    {
       "id": "100905",
       "category": "Infant and Children Items",
       "name": "Diapers & Milk Powder",
@@ -1612,6 +1629,23 @@
       "date": "11 Oct 2021"
     },
     {
+      "id": "100908",
+      "category": "Others",
+      "name": "Food item/Groceries",
+      "description": "Client and husband are in their 50s with medical conditions. They are a single-income household with 1 grandchild (4 y/o). Client is the primary caregiver to grandson since birth and takes care of husband who is diabetic. Caregiving has been a struggle for client as her daughter has not been present to care for the child (born out of wedlock). They require assistance getting food to reduce their financial stressor. \n\nSW will provide list of items needed.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Siti Nur Sa’iidah",
+        "email": "sitinursaiidah@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "10 Nov 2021"
+    },
+    {
       "id": "100904",
       "category": "Others",
       "name": "Fernleaf Full Cream Milk Supplement",
@@ -2618,6 +2652,16 @@
   ],
   "offers": [
     {
+      "id": "100907",
+      "name": "Curtain",
+      "description": "High quality sheer curtain fits 3R flat living room window.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "30 Nov 2021",
+      "ageInYears": 4,
+      "dimensions": "Total width 173cm x Height 153cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "100895",
       "name": "Pigeon Rapid Sterilizer",
       "description": "Rarely used as baby is breastfed\nGood condition, 2 tier rack enough to fit 4 to 5 bottles per steam",
@@ -3364,16 +3408,6 @@
       "location": "Katong, Joo Chiat, Amber Road",
       "validTill": "04 Dec 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100642",
-      "name": "Hospital Bed",
-      "description": "Condition 4/5\nSpan time <6 months\nLet me know if you’re very keen. \n\nBought from DNR\n\nhttps://www.dnrwheels.com/products/second-hand-bed-commode-geriatric-chair",
-      "location": null,
-      "validTill": "04 Dec 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
