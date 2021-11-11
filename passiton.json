@@ -37,24 +37,6 @@
       "date": "08 Nov 2021"
     },
     {
-      "id": "100785",
-      "category": "Mobility Aids",
-      "name": "Walking frame with wheels",
-      "description": "Client (F/44) has multiple chronic health conditions and has abdominal pain which limits her mobility and strength. A walking frame with wheels can help her to move around the house more easily to go to the toilet, do simple housekeeping and  to care for her 12y/o son.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Louise Quek",
-        "email": "louisequek@amkfsc.org.sg",
-        "phone": [
-          "64535349",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Nov 2021"
-    },
-    {
       "id": "100681",
       "category": "Mobility Aids",
       "name": "Elevating Footrest and Detachable Armrest Wheelchair",
@@ -123,6 +105,23 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "18 Oct 2021"
+    },
+    {
+      "id": "100977",
+      "category": "Medical Aids",
+      "name": "XL adult pull up diaper",
+      "description": "An senior who is residing in a one room rental unit require pull up diaper for his daily use due to medical issue.",
+      "specifications": "XL",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - COMNET Senior Serv",
+        "name": "Jocelyn Toh Yan Ling",
+        "email": "jocelyntoh@amkfsc.org.sg",
+        "phone": [
+          "64510898"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Nov 2021"
     },
     {
       "id": "100920",
@@ -211,6 +210,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "13 Oct 2021"
+    },
+    {
+      "id": "100976",
+      "category": "Others",
+      "name": "WeCare unisex adult diapers (size L - 8 packs)",
+      "description": "Client is in her mid 90s. Both her husband and only daughter have passed on. Her main caregiver is her helper of over 10 years. They are surviving on her limited savings and short-term ComCare assistance. As diapers are their largest expense, she would benefit from a donation.",
+      "specifications": "Size L - 8 packs (1 month's supply)",
+      "contact": {
+        "org": "St. Hilda's Community Services Centre",
+        "name": "Jaime Yeo Min",
+        "email": "jaime.yeo@sthildascsc.org.sg",
+        "phone": [
+          "63450054"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Nov 2021"
     },
     {
       "id": "100954",
@@ -635,6 +651,23 @@
       "date": "11 Oct 2021"
     },
     {
+      "id": "100979",
+      "category": "Infant and Children Items",
+      "name": "XL Diapers",
+      "description": "A family with 2 young children requires XL Diapers for their 2-year-old son. The family is currently subsisting on a sole breadwinner's income. Both parents are currently in need of at least 2 pax of diapers per month.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Khairunisa Rusli",
+        "email": "khairunisa.rusli@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Nov 2021"
+    },
+    {
       "id": "100974",
       "category": "Infant and Children Items",
       "name": "Bellamy Milk Powder Stage 3",
@@ -787,24 +820,6 @@
         "phone": [
           "66901004",
           "66901000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Nov 2021"
-    },
-    {
-      "id": "100919",
-      "category": "Infant and Children Items",
-      "name": "Baby carrier/sling",
-      "description": "Client has a 4 month old daughter and a 6 year old son. At present she is living with her family in a 2-room rental flat. At present, client's husband is the sole breadwinner of the family, working as a delivery driver while client does home-based candle making business to supplement the family's income. Assisting client with some of her needs such as a baby carrier will greatly reduce the financial strain on her family.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "S Maheswari",
-        "email": null,
-        "phone": [
-          "64535349",
-          "64578559"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3138,6 +3153,16 @@
   ],
   "offers": [
     {
+      "id": "100978",
+      "name": "Sofa set",
+      "description": "A 2 seater and a 3 seater sofa set on relatively good condition",
+      "location": "Little India",
+      "validTill": "15 Nov 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "100971",
       "name": "Plates, bowls, glasses, cutlery, pans",
       "description": "Please collect on 26th November. We are relocating out of Singapore and have lots of kitchen things. Self collection only.",
@@ -3185,16 +3210,6 @@
       "validTill": "10 Dec 2021",
       "ageInYears": 3,
       "dimensions": "184x88x151 cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100944",
-      "name": "Queen size bed frame",
-      "description": "Despite the aging furniture, the overall condition is still good.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "10 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
