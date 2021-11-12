@@ -229,24 +229,6 @@
       "date": "13 Oct 2021"
     },
     {
-      "id": "100998",
-      "category": "Others",
-      "name": "QV cream 1kg",
-      "description": "A client with multiple disabilities and severe eczema, need to use QV cream daily.",
-      "specifications": "QV cream 1kg",
-      "contact": {
-        "org": "Society For The Physically Disabled (SPD)",
-        "name": "Koh Yeng Yeng",
-        "email": "koh_yeng_yeng@spd.org.sg",
-        "phone": [
-          "65790750",
-          "65790700"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Nov 2021"
-    },
-    {
       "id": "100994",
       "category": "Others",
       "name": "Food rations",
@@ -2574,10 +2556,28 @@
       "date": "01 Nov 2021"
     },
     {
-      "id": "101007",
+      "id": "101009",
       "category": "Home Furnishing",
-      "name": "Single size mattress (only mattress)",
-      "description": "Single mother with 3 school-going children requires a single size mattress as they do not have enough at home. They recently moved out to their own rental flat. Mother is working full-time but has exhausted her income on the family's needs and moving expenses. Appreciate if donor can deliver. Thank you.",
+      "name": "Dining Table",
+      "description": "Dining Table for elderly staying in 1 room rental unit.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Cluster Support @ Bukit Merah",
+        "name": "Colin Tan",
+        "email": "Colin.Tan@thkmc.org.sg",
+        "phone": [
+          "69240354",
+          "69242951"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "12 Nov 2021"
+    },
+    {
+      "id": "101008",
+      "category": "Home Furnishing",
+      "name": "Single-size mattress",
+      "description": "Single mother with 3 school-going children requires a new single size mattress as they do not have enough at home. A new mattress is preferred for hygiene reasons as the children have skin problems. They recently moved out to their own rental flat. Mother is working full-time but has exhausted her income on the family's needs and moving expenses. Appreciate if donor can deliver. Thank you.",
       "specifications": null,
       "contact": {
         "org": "South Central Community FSC Ltd",
@@ -3579,16 +3579,6 @@
       "validTill": "06 Dec 2021",
       "ageInYears": 2,
       "dimensions": "195 x 121 x 125 cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100721",
-      "name": "Glass Bookcase",
-      "description": "Great classy glass book case to display your proud items.",
-      "location": null,
-      "validTill": "01 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
