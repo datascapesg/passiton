@@ -565,23 +565,6 @@
       "date": "20 Oct 2021"
     },
     {
-      "id": "101031",
-      "category": "Electrical Home Appliances",
-      "name": "Floor-standing Fan",
-      "description": "Hi there, I am looking for a floor-standing fan for a single mother with 3 children. Mother is unemployed because she has to take care of a child with special needs. Thanks in advance.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Low Yiing Jia",
-        "email": "jialow@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Nov 2021"
-    },
-    {
       "id": "101024",
       "category": "Electrical Home Appliances",
       "name": "Fridge (2 or 3 door, top and bottom)",
@@ -3128,6 +3111,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "101036",
+      "name": "Cot-bed",
+      "description": "Comes with foam mattress and 3 x sets of sheets. Some repair may required for the sliding guard rail.",
+      "location": null,
+      "validTill": "12 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "1,396x834x1,028mm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101035",
       "name": "Baby storage and feeding bottles",
