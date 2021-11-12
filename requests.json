@@ -228,6 +228,24 @@
     "date": "13 Oct 2021"
   },
   {
+    "id": "100998",
+    "category": "Others",
+    "name": "QV cream 1kg",
+    "description": "A client with multiple disabilities and severe eczema, need to use QV cream daily.",
+    "specifications": "QV cream 1kg",
+    "contact": {
+      "org": "Society For The Physically Disabled (SPD)",
+      "name": "Koh Yeng Yeng",
+      "email": "koh_yeng_yeng@spd.org.sg",
+      "phone": [
+        "65790750",
+        "65790700"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Nov 2021"
+  },
+  {
     "id": "100994",
     "category": "Others",
     "name": "Food rations",
@@ -353,23 +371,6 @@
     "date": "10 Nov 2021"
   },
   {
-    "id": "100908",
-    "category": "Others",
-    "name": "Food item/Groceries",
-    "description": "Client and husband are in their 50s with medical conditions. They are a single-income household with 1 grandchild (4 y/o). Client is the primary caregiver to grandson since birth and takes care of husband who is diabetic. Caregiving has been a struggle for client as her daughter has not been present to care for the child (born out of wedlock). They require assistance getting food to reduce their financial stressor. \n\nSW will provide list of items needed.",
-    "specifications": null,
-    "contact": {
-      "org": "AMKFSC Community Services Ltd - Sengkang",
-      "name": "Siti Nur Sa’iidah",
-      "email": "sitinursaiidah@amkfsc.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "10 Nov 2021"
-  },
-  {
     "id": "100891",
     "category": "Others",
     "name": "Sanitizer Spray Gun for low-income family (COVID+)",
@@ -440,40 +441,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "09 Nov 2021"
-  },
-  {
-    "id": "100857",
-    "category": "Others",
-    "name": "Food Rations",
-    "description": "A pair of young couple who is currently homeless and having financial difficulty to make ends meet. They would require halal dry food rations to tide through this difficult period.",
-    "specifications": null,
-    "contact": {
-      "org": "AMKFSC Community Services Ltd - Sengkang",
-      "name": "Mabel Ng",
-      "email": "mabelng@amkfsc.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "09 Nov 2021"
-  },
-  {
-    "id": "100799",
-    "category": "Others",
-    "name": "Groceries",
-    "description": "Family of three with 4-year-old son are facing financial constraints and would require some halal groceries.",
-    "specifications": null,
-    "contact": {
-      "org": "AMKFSC Community Services Ltd - Sengkang",
-      "name": "Clarice Lim",
-      "email": "claricelim@amkfsc.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Nov 2021"
   },
   {
     "id": "100793",
@@ -564,23 +531,6 @@
     "date": "02 Nov 2021"
   },
   {
-    "id": "100537",
-    "category": "Others",
-    "name": "Food Rations",
-    "description": "A single male in his mid-40s struggling to secure stable employment and housing due to multiple health issues. He is struggling to fulfil 3 meals a day and would benefit from ready food rations.",
-    "specifications": null,
-    "contact": {
-      "org": "AMKFSC Community Services Ltd - Sengkang",
-      "name": "Mabel Ng",
-      "email": "mabelng@amkfsc.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Nov 2021"
-  },
-  {
     "id": "100260",
     "category": "Others",
     "name": "balloons",
@@ -616,24 +566,6 @@
     "date": "25 Oct 2021"
   },
   {
-    "id": "100004",
-    "category": "Others",
-    "name": "Food Ration",
-    "description": "Elderly woman with unemployed daughter due to health issues require Vegetarian food rations.\nFamily do not take Garlic, Onion and Ginger.\n\n1. Basmati Rice 5 Kg\n2. Carrot x 1\n3. Potato x 1 \n4. Beetroot x 1 \n5. Turmeric powder x 1 big packet\n6. Salt x Big packet\n7. Black Pepper\n8. White Pepper\n9. Garam Masala Big packet\n10. Milo 3 in 1 x 1 packet\n11. Nestum 3 in 1 x 1 packet\n12. Dishwashing liquid x 1 big \n13. Laundry detergent powder x 1 Big\n14. Mushroom can\n15. Dettol / any antiseptic liquid - Big\n16. Floor cleaner\n17. Toilet Cleaner\n18. Toilet Bowl cleaner\n19. Kitchen Surface cleaner\n20. Cleaning towels\n21. Tomatoes\n22. Tofu\n21. Broccoli\n22. Cauliflower",
-    "specifications": "Food Ration",
-    "contact": {
-      "org": "AMKFSC Community Services Ltd - Sengkang",
-      "name": "R.Sangeetha Ivy",
-      "email": "ivysangeetha@amkfsc.org.sg",
-      "phone": [
-        "63128100ext206",
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Oct 2021"
-  },
-  {
     "id": "98426",
     "category": "Others",
     "name": "eBike",
@@ -649,6 +581,40 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "20 Oct 2021"
+  },
+  {
+    "id": "101003",
+    "category": "Electrical Home Appliances",
+    "name": "Oven",
+    "description": "Client is looking for an oven to allow her to polish her baking skills so that she can set up her own home-based business in future. The client has heart conditions and  job options are limited for her.",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore After Care Association",
+      "name": "Lin Mingjie",
+      "email": "mingjie@saca.org.sg",
+      "phone": [
+        "62942350"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "12 Nov 2021"
+  },
+  {
+    "id": "101000",
+    "category": "Electrical Home Appliances",
+    "name": "Television",
+    "description": "Individual with medical condition, ambulates on wheelchair. Family experiences financial difficulty to replace the current television which is already spoilt. THey would appreciate a pre-loved functioning TV, which is not too big sized and does not consume too much energy. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Jacy Then",
+      "email": "jacy.then@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "12 Nov 2021"
   },
   {
     "id": "100997",
@@ -707,23 +673,6 @@
     "category": "Electrical Home Appliances",
     "name": "Vacuum cleaner",
     "description": "Client lives in a 2-room rental flexi flat with her husband and 4 school going children and her father who is advanced in age and has health issues. Client is unemployed as she has to care for her two youngest children age 4 and 3 and they have learning difficulties. Client's husband is working and earns $1200 which is not enough to feed a family of 7 especially with client's father who have multiple chronic illness. Client requested for a vacuum cleaner as she does not have one at the moment.",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore Children's Society - Yishun FSC",
-      "name": "Dini Dzulaikha Bte Dzulkifli",
-      "email": null,
-      "phone": [
-        "67537331"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "11 Nov 2021"
-  },
-  {
-    "id": "100961",
-    "category": "Electrical Home Appliances",
-    "name": "Blender",
-    "description": "Client lives with her husband and 2 school-going children. Her husband was recently employed however not enough to support her household expenses and her children's learning needs. Her 2nd child has dyslexia and not receiving treatment due to lack of funds. Client request for a blender (preferably brand new) to ease cooking and client can use the extra funds to put into her son's education to support his learning needs.",
     "specifications": null,
     "contact": {
       "org": "Singapore Children's Society - Yishun FSC",
@@ -2519,6 +2468,23 @@
     "date": "19 Oct 2021"
   },
   {
+    "id": "101002",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Hybrid mountain bike with gears",
+    "description": "The client is struggling with his mental health and finds it difficult to leave the house. However, he finds it less intimidating to leave his home on a bicycle. Riding the bicycle not only brings him from one point to another but it also helps him to better cope with his mental health. Interested donors kindly write in to reubenyue@carecorner.org.sg",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Admiralty",
+      "name": "Juanna Sia",
+      "email": null,
+      "phone": [
+        "63658751"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Nov 2021"
+  },
+  {
     "id": "100538",
     "category": "Leisure and Healthy Lifestyle",
     "name": "Bicycle (adult)",
@@ -2552,6 +2518,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "01 Nov 2021"
+  },
+  {
+    "id": "100999",
+    "category": "Home Furnishing",
+    "name": "2 Seater Sofa",
+    "description": "Family of 5 with dual-income parents. However, with the Covid-19 situation, the family is experiencing a major pay-cut and is unable to afford a sofa. Their current one is rather old & tattered (with sunken in cushion). The school-going children would sometimes do their revision on the sofa but it is not ergonomically healthy for them given it's current condition. The family would also need support with the transport cost as they are struggling to make ends meet. Kindly contact gohxinying@carecorner.org.sg should you wish to donate.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Admiralty",
+      "name": "Juanna Sia",
+      "email": null,
+      "phone": [
+        "63658751"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Nov 2021"
   },
   {
     "id": "100956",
@@ -2886,23 +2869,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "05 Nov 2021"
-  },
-  {
-    "id": "100972",
-    "category": "Attires/Clothings",
-    "name": "Baby Clothings needed",
-    "description": "Male baby clothings needed for 18 month old baby. Mum is Malaysian and is a victim of spousal abuse. She is highly isolated at home as a main caregiver of baby. Due to having no support, she is requesting for some decent baby clothings for her son. Please whatsapp me at 8109-6845 if you are able to donate. Thanks in advance!",
-    "specifications": null,
-    "contact": {
-      "org": "Hougang Sheng Hong Family Service Centre",
-      "name": "Angie Tan",
-      "email": "angenette@shenghong.org.sg",
-      "phone": [
-        "62895022"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Nov 2021"
   },
   {
     "id": "100950",
