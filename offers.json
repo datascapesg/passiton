@@ -1,5 +1,35 @@
 [
   {
+    "id": "101061",
+    "name": "Child’s cot and mattress",
+    "description": "Children’s cot with mattress. Sparingly used. Can adjust to 2 heights",
+    "location": "Watten Estate, Novena, Thomson",
+    "validTill": "30 Nov 2021",
+    "ageInYears": 4,
+    "dimensions": "123 cm length - 65 cm width",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "101060",
+    "name": "Diapers",
+    "description": "Buying direct from Shopee. Please note sizing runs small (manufacturer’s design), hence suitable if baby is 7kg and below, in my opinion.",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "14 Dec 2021",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "101059",
+    "name": "Baby clothes 6 months onwards",
+    "description": "A big bag of used baby clothings. I will pay for courier and also give a new bottle of baby detergent for washing.",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "14 Dec 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "101058",
     "name": "Ikea KURA Reversible bed, white/pine90x200cm",
     "description": "https://www.ikea.com/sg/en/p/kura-reversible",
@@ -477,16 +507,6 @@
     "validTill": "03 Dec 2021",
     "ageInYears": 4,
     "dimensions": "H: 127cm ,L :90cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "100986",
-    "name": "Super Single Wooden Bed Frame and New Mattress",
-    "description": "White, solid wood. Good condition.\nMattress is without stains and almost brand new.",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "14 Nov 2021",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1050,16 +1070,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "100498",
-    "name": "Takara Tomy Thomas and Friends Train Set",
-    "description": "Takara Tomy Thomas and Friends Train Set",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "14 Nov 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "100497",
     "name": "Diningware",
     "description": "seldom used dining ware - though not complete but still looking great!",
@@ -1177,16 +1187,6 @@
     "validTill": "27 Nov 2021",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "100335",
-    "name": "4 Seaters L-shape IKEA Kivik Sofa",
-    "description": "4 Seaters L-shape IKEA Kivik Sofa in blue color.",
-    "location": "Raffles Place, Cecil, Marina, People's Park",
-    "validTill": "14 Nov 2021",
-    "ageInYears": 4,
-    "dimensions": "318 cm*120cm*83",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1547,56 +1547,6 @@
     "validTill": "15 Nov 2021",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "99829",
-    "name": "Baby seat for car",
-    "description": "Baby seat for a car. It was only used for a year and in very good condition. Suitable for babies from 6 months onwards all the way till 25 kg. There are three settings for safety and comfort.",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "14 Nov 2021",
-    "ageInYears": 2,
-    "dimensions": "50cm x 45cm x 62cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "99830",
-    "name": "Baby seat for car",
-    "description": "Baby seat for a car. It was only used for a year and in very good condition. Suitable for babies from 6 months onwards all the way till 25 kg. There are three settings for safety and comfort.",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "14 Nov 2021",
-    "ageInYears": 2,
-    "dimensions": "50cm x 45cm x 62cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "99825",
-    "name": "Thickener",
-    "description": "Thickener powder",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "14 Nov 2021",
-    "ageInYears": 1,
-    "dimensions": "Standard",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "100621",
-    "name": "Medicine Electric Grinder",
-    "description": "Electric Medicine Grinder",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "14 Nov 2021",
-    "ageInYears": 1,
-    "dimensions": "Various",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "99823",
-    "name": "Powdered Meal Replacement Drink",
-    "description": "2 x 780 g of powdered meal replacement.  Vanilla flavour.  Mixes with water.  Expires Aug 2022.\n\nNutritious for adults with 17 grams of protein.  Not a milk formula for babies.\n\nSee here for details:\nhttps://suremeal.com/collections/suremeal-classic/products/suremeal-classic",
-    "location": "Geylang, Eunos",
-    "validTill": "14 Nov 2021",
-    "ageInYears": 1,
-    "dimensions": "NA",
     "deliveryCostsCoveredByDonor": true
   }
 ]
