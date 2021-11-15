@@ -353,23 +353,6 @@
       "date": "08 Nov 2021"
     },
     {
-      "id": "100627",
-      "category": "Others",
-      "name": "Laptop",
-      "description": "Client is a single mother with 2 young children and she requires a laptop for her children's schoolwork. Client is low income and unable to afford laptop. Kindly contact 83226427 should you wish to donate. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Nur Liyana Binte Kamalruzaman",
-        "email": "liyana.kamalruzaman@ppis.sg",
-        "phone": [
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Nov 2021"
-    },
-    {
       "id": "100593",
       "category": "Others",
       "name": "3 packets of drypers/huggies XXL (pull up pants",
@@ -2558,6 +2541,46 @@
     }
   ],
   "offers": [
+    {
+      "id": "101107",
+      "name": "bookshelves , cartoons",
+      "description": "perfect for a ling room to put books and other items",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "14 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101106",
+      "name": "convertible bed and book shelves IKEA",
+      "description": "perfect for a child bedroom",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "14 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101105",
+      "name": "tv room",
+      "description": "2 sofas + table + small drawer",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "14 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101104",
+      "name": "Ikea Malvik Firm / White Foam Mattress",
+      "description": "Firm, comfortable, and in good condition :)",
+      "location": "Orchard, Cairnhill, River Valley",
+      "validTill": "15 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "200 x 90",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101103",
       "name": "shoe rack",
