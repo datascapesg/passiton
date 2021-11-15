@@ -140,23 +140,6 @@
     "date": "18 Oct 2021"
   },
   {
-    "id": "101027",
-    "category": "Medical Aids",
-    "name": "Adult Diapers",
-    "description": "Client is wheelchair bound and stays in a 1-room rental flat with 3 children. Client's son is only able to work part-time as he has to help with the caregiving of client and for sending client to medical appointments. Client's daughter is in her final year of ITE. The family is reliant on financial assistance to meet their basic needs. In recent months, client has developed a medical condition that has caused an increase in the usage of adult diapers throughout the day and night. Client is seeking donation for adult diapers that are in Size L, tape. For further liaison, kindly contact me at 98598768, thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
-      "phone": [
-        "69503503"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Nov 2021"
-  },
-  {
     "id": "100920",
     "category": "Medical Aids",
     "name": "COVID ART TEST KIT",
@@ -226,6 +209,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "18 Oct 2021"
+  },
+  {
+    "id": "101134",
+    "category": "Electrical Home Appliances",
+    "name": "Oven (Halal)",
+    "description": "Client is looking for an oven to allow her to polish her baking skills so that she can set up her own home-based business in future. The client has heart conditions and job options are limited for her.",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore After Care Association",
+      "name": "Lin Mingjie",
+      "email": "mingjie@saca.org.sg",
+      "phone": [
+        "62942350"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "15 Nov 2021"
   },
   {
     "id": "101126",
@@ -937,23 +937,6 @@
       "email": "khairunisa.rusli@ppis.sg",
       "phone": [
         "65613462"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Nov 2021"
-  },
-  {
-    "id": "100974",
-    "category": "Infant and Children Items",
-    "name": "Bellamy Milk Powder Stage 3",
-    "description": "Malaysian mum is a victim of spousal abuse. She is highly isolated at home as a main caregiver of baby. Due to having no support in SG and unable to return to Msia, she will need temporary assistance of milk powder. Please whatsapp me at 8109-6845 if you are able to donate. Thanks in advance!",
-    "specifications": null,
-    "contact": {
-      "org": "Hougang Sheng Hong Family Service Centre",
-      "name": "Angie Tan",
-      "email": "angenette@shenghong.org.sg",
-      "phone": [
-        "62895022"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -2375,24 +2358,6 @@
     "date": "01 Nov 2021"
   },
   {
-    "id": "100526",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Bicycle",
-    "description": "Client is a low-income single parent to an 11-month old daughter. She hopes to work in food delivery to support her daughter and herself financially and would like a bicycle to pick up and deliver the food.",
-    "specifications": null,
-    "contact": {
-      "org": "AMKFSC Community Services Ltd - Cheng San",
-      "name": "Charmaine Lim",
-      "email": "charmainelim@amkfsc.org.sg",
-      "phone": [
-        "64546678ext217",
-        "64578559"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Nov 2021"
-  },
-  {
     "id": "100892",
     "category": "Learning Aids",
     "name": "Laptop for Single-Mother for Upgrading Course",
@@ -2519,6 +2484,40 @@
     "date": "05 Nov 2021"
   },
   {
+    "id": "101131",
+    "category": "Home Furnishing",
+    "name": "Wardrobe (For A Family Of 4)",
+    "description": "Client is the caregiver of 3 young children. \nThe family is on financial assistance as her husband is serving his sentence and there is no income-earner to provide for the family needs. \nThis has affected the family's source of stable income. The family resides in a rental flat, whereby finances are only sufficient for day-to-day necessities. \nAs such, she is unable to afford the purchase of such big items and would be willing to receive a wardrobe.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Amy Chua",
+      "email": "amychua@mws.sg",
+      "phone": [
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Nov 2021"
+  },
+  {
+    "id": "101130",
+    "category": "Home Furnishing",
+    "name": "2 Seater Sofa",
+    "description": "Client is the caregiver of 3 young children. \nThe family is on financial assistance as her husband is serving his sentence and there is no income-earner to provide for the family needs. \nThis has affected the family's source of stable income. The family resides in a rental flat, whereby finances are only sufficient for day-to-day necessities. \nAs such, she is unable to afford the purchase of such big items and would be willing to receive a pre-loved 2-seater sofa.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Amy Chua",
+      "email": "amychua@mws.sg",
+      "phone": [
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Nov 2021"
+  },
+  {
     "id": "101128",
     "category": "Home Furnishing",
     "name": "Sofa",
@@ -2546,23 +2545,6 @@
       "org": "South Central Community FSC Ltd",
       "name": "Jasmine Leong",
       "email": "jasmine@sccfsc.org.sg",
-      "phone": [
-        "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "15 Nov 2021"
-  },
-  {
-    "id": "101121",
-    "category": "Home Furnishing",
-    "name": "Queen-sized mattress and bed frame",
-    "description": "Single mother with three school-going children requires a queen-sized mattress and bed frame. Their rental flat is barely furnished with not much furniture. She is working full-time but unable to afford a new bed. Appreciate if donor can deliver/pay for delivery. Thank you.",
-    "specifications": "Queen size",
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Lim Yi Xi",
-      "email": "yixi@sccfsc.org.sg",
       "phone": [
         "64619200"
       ]
@@ -2692,23 +2674,5 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "08 Nov 2021"
-  },
-  {
-    "id": "100950",
-    "category": "Attires/Clothings",
-    "name": "Safety Shoes/Boots Needed!",
-    "description": "Client is a single mother and the sole provider for her family. Client works as a cleaner and is mainly deployed to work in public areas such as the express highways,  roadsides etc. Due to the nature of her work and as her current pair is no longer usable, Client requires safety boots/shoes.",
-    "specifications": "Size 42 (shoes)",
-    "contact": {
-      "org": "AWWA Family Service Centre",
-      "name": "Farahlina Tan",
-      "email": "farahlina_tan@awwa.org.sg",
-      "phone": [
-        "65119458",
-        "65119456"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Nov 2021"
   }
 ]
