@@ -525,24 +525,6 @@
       "date": "22 Oct 2021"
     },
     {
-      "id": "100091",
-      "category": "Electrical Home Appliances",
-      "name": "vertical steamer",
-      "description": "Client is from a low-income family with 4 children. The family is facing financial strains as the wife lost her job due to coivd-19 and the husband has recently job transition to a lower-paying job. They are looking for a vertical iron/steamer however they are unable to afford it. It would be helpful for the family to receive one. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Services @ Taman Jurong SSO",
-        "name": "Charmaine Lim",
-        "email": "charmainelim@fycs.org",
-        "phone": [
-          "62672945",
-          "62672900"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Oct 2021"
-    },
-    {
       "id": "101174",
       "category": "Others",
       "name": "10 X 10kg FairPrice Thai Hom Mali rice",
@@ -2820,41 +2802,6 @@
       "date": "05 Nov 2021"
     },
     {
-      "id": "100718",
-      "category": "Learning Aids",
-      "name": "Home printer and computer microphone",
-      "description": "M15's mom is on LTVP and is unemployed. He requires a home printer and computer microphone for home based learning.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Christina Lim",
-        "email": "limpohgekchristina@fycs.org",
-        "phone": [
-          "63519151",
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Nov 2021"
-    },
-    {
-      "id": "101180",
-      "category": "Home Furnishing",
-      "name": "Bed with Mattress",
-      "description": "Client is a middle-aged man who is an amputee, a wheelchair user, has skin problems, and is unfit for employment for life. He needs a new single-size bed with a new mattress before moving into his public rental flat. The bed helps him to maintain his skin health and get onto the wheelchair.",
-      "specifications": "Single size",
-      "contact": {
-        "org": "Whispering Hearts Family Service Centre",
-        "name": "Eunice Ha",
-        "email": "eunice@viriya.org.sg",
-        "phone": [
-          "67951008"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Nov 2021"
-    },
-    {
       "id": "101125",
       "category": "Home Furnishing",
       "name": "King-sized Mattress",
@@ -2962,6 +2909,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "101189",
+      "name": "4 feet Christmas tree",
+      "description": "It is a relatively clean and new 4feet Christmas tree. The fibre optic is no longer working as the plug is faulty. However, you can buy the normal Christmas lights for the tree.",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "15 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101188",
       "name": "Tall Cabinet",
@@ -4189,16 +4146,6 @@
       "location": "Bishan, Ang Mo Kio",
       "validTill": "29 Nov 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100413",
-      "name": "Cellini L shape sofa",
-      "description": "Only 3 years old. Well maintained. No stains no tears. \n\nHowever, please note that this L-shape sofa is located on the 2nd storey in the HDB flat. Hence, requesting vwo would need to arrange for movers to carry the sofa down from the 2nd floor and out of the flat. I would not be able to carry it down for you. You would need at least 2 or 3 movers to do this as the sofa is heavy and bulky. \n\nAlso, the sofa is only available for collection from the 2nd week of Nov onwards.\n\nPlease request for this item only if you are able to arrange for movers to carry the sofa down. VWO to pay for mover and delivery cost pls. Thanks.",
-      "location": "Yishun, Sembawang",
-      "validTill": "27 Nov 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
