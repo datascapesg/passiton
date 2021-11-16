@@ -211,6 +211,23 @@
       "date": "18 Oct 2021"
     },
     {
+      "id": "101163",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave",
+      "description": "Client is a single mother and has 3 school going children. She is caring for her 70 year old father as well. Client has to work night shift so that she can care for her children in the daytime. Client is struggling financially and she does not have enough funds to purchase a microwave. As client is from a Muslim family, new microwave is preferable.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Dini Dzulaikha Bte Dzulkifli",
+        "email": null,
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "16 Nov 2021"
+    },
+    {
       "id": "101155",
       "category": "Electrical Home Appliances",
       "name": "PORTABLE GAS COOKER WITH 2 BURNERS",
@@ -2750,6 +2767,16 @@
   ],
   "offers": [
     {
+      "id": "101162",
+      "name": "A set of 3 corningware",
+      "description": "700ml each.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "16 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "101157",
       "name": "2 door fridge",
       "description": "2 door fridge in good condition",
@@ -3536,6 +3563,26 @@
       "location": "Tampines, Pasir Ris",
       "validTill": "06 Dec 2021",
       "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101164",
+      "name": "Tv console",
+      "description": "Tv console contact for more info",
+      "location": null,
+      "validTill": "06 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101165",
+      "name": "Tv console",
+      "description": "Tv console contact for more info",
+      "location": null,
+      "validTill": "06 Dec 2021",
+      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
