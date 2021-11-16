@@ -211,23 +211,6 @@
       "date": "18 Oct 2021"
     },
     {
-      "id": "101156",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Single Mother with 4 family members. Currently they hand wash their clothes as the washing machine is faulty.",
-      "specifications": null,
-      "contact": {
-        "org": "AWWA Transitional Shelter",
-        "name": "Rosilah Bte Abdul Hamid",
-        "email": "rosilah_a@awwa.org.sg",
-        "phone": [
-          "65117272"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Nov 2021"
-    },
-    {
       "id": "101155",
       "category": "Electrical Home Appliances",
       "name": "PORTABLE GAS COOKER WITH 2 BURNERS",
@@ -471,6 +454,40 @@
       "date": "21 Oct 2021"
     },
     {
+      "id": "101161",
+      "category": "Others",
+      "name": "Adult diapers",
+      "description": "Client is the sole breadwinner of two teenage children. Client's mother requires L size adult diapers for her care needs. Client works as a school bus attendant and struggles to cope with her mother's caregiving needs and children's educational expenses.",
+      "specifications": "L",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Aw Chin Bee",
+        "email": "awchinbee@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "16 Nov 2021"
+    },
+    {
+      "id": "101159",
+      "category": "Others",
+      "name": "Old Laptop For Senior",
+      "description": "Senior require an old laptop with Windows OS and webcam for her to attend zoom course to upgrade her skills. Interested donor, please contact staff at david.hong@ntuchealth.sg. Thank you very much.",
+      "specifications": null,
+      "contact": {
+        "org": "NTUC Health Senior Activity Centre @ Boon Lay",
+        "name": "David Hong",
+        "email": "david.hong@ntuchealth.sg",
+        "phone": [
+          "65904368"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Nov 2021"
+    },
+    {
       "id": "101153",
       "category": "Others",
       "name": "Nestle Resource 2.0 milk",
@@ -482,23 +499,6 @@
         "email": "wongjien@fycs.org",
         "phone": [
           "66619488"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Nov 2021"
-    },
-    {
-      "id": "101150",
-      "category": "Others",
-      "name": "Food Items (URGENT)",
-      "description": "The family is in urgent need of Condensed Milk Brand Tea pot (6 cans),Milo Instant Chocoloate malt drink powder refill 900g(2 packets), Basmati Supreme Gold Rice grain 5kg(1 pack),Fab downy 4.5kg(1 pack), Farmhouse UHT milk 1 litre(2 packets). Items will be delivered to beneficiary's place. Please contact us for delivery details (email:dik@childrensociety.org.sg, contact:94367401). Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Peng Hui",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "67537331"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2607,23 +2607,6 @@
       "date": "05 Nov 2021"
     },
     {
-      "id": "101130",
-      "category": "Home Furnishing",
-      "name": "2 Seater Sofa",
-      "description": "Client is the caregiver of 3 young children. \nThe family is on financial assistance as her husband is serving his sentence and there is no income-earner to provide for the family needs. \nThis has affected the family's source of stable income. The family resides in a rental flat, whereby finances are only sufficient for day-to-day necessities. \nAs such, she is unable to afford the purchase of such big items and would be willing to receive a pre-loved 2-seater sofa.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "amychua@mws.sg",
-        "phone": [
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Nov 2021"
-    },
-    {
       "id": "101128",
       "category": "Home Furnishing",
       "name": "Sofa",
@@ -3307,16 +3290,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "100969",
-      "name": "Baby Cot",
-      "description": "Baby cot can fit in 1 room rental flat. Brand new when donated to FSC. Have mattress, can be fixed easily, no defects sighted.",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "11 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "100945",
       "name": "Reebok Treadmill",
       "description": "Reebok Treadmill ZR12",
@@ -3810,6 +3783,16 @@
       "id": "100663",
       "name": "Baby Clothings from 0 years old to 4 years old",
       "description": "Baby clothings suitable for infant age 0 years old to toddler age 4 years old. Bibs are also available.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "04 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101160",
+      "name": "Baby Cot",
+      "description": "Baby cot suitable for new born. It come with the Baby cot, mattress and Crib bumper pads.",
       "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
       "validTill": "04 Dec 2021",
       "ageInYears": 1,
