@@ -212,6 +212,24 @@
       "date": "18 Oct 2021"
     },
     {
+      "id": "101207",
+      "category": "Electrical Home Appliances",
+      "name": "Stove with cabinet",
+      "description": "Family with 6 children requires stove with cabinet. Their one room flat caught fire. One child in the family has cancer. Father is the sole breadwinner and family has their financial constraints.",
+      "specifications": null,
+      "contact": {
+        "org": "AIN Society",
+        "name": "Norhashimah Binti Kamarudin",
+        "email": "shimah@ainsociety.org.sg",
+        "phone": [
+          "68485163",
+          "68485166"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "17 Nov 2021"
+    },
+    {
       "id": "101206",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -2800,6 +2818,23 @@
       "date": "08 Nov 2021"
     },
     {
+      "id": "101209",
+      "category": "Learning Aids",
+      "name": "Tablet",
+      "description": "Family has 6 school-going children. 2nd youngest child requires a tablet to help with his school work on days with Home-Based Learning (HBL). Tablet preferred as there is not much space at home to accommodate another laptop. Father is working full-time as an ambulance driver but does not earn enough to buy a new tablet, while mother is a full-time caregiver.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Lim Yi Xi",
+        "email": "yixi@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Nov 2021"
+    },
+    {
       "id": "101202",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -3732,6 +3767,16 @@
       "validTill": "30 Nov 2021",
       "ageInYears": 3,
       "dimensions": "Various",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101208",
+      "name": "Kettle",
+      "description": "electric water kettle",
+      "location": "Clementi",
+      "validTill": "29 Nov 2021",
+      "ageInYears": 2,
+      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
