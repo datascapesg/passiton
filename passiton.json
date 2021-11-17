@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "101231",
+      "category": "Mobility Aids",
+      "name": "Commode (with Flip-up arm rest and Wheels are easy to lock and unlock)",
+      "description": "Senior need mobility aids to support her day-to-day activities. Her current commode is faulty. She stays with her son who is diagnosed with mental health condition. Her daughter is a sole caregiver to both senior and her brother. Commode without pot is fine too.",
+      "specifications": "Seat Width 17.5\", Seat Depth 17\"",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - COMNET Senior Serv",
+        "name": "Lim Xiao Wei",
+        "email": "rachellim@amkfsc.org.sg",
+        "phone": [
+          "64535364",
+          "64510898"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "17 Nov 2021"
+    },
+    {
       "id": "99094",
       "category": "Mobility Aids",
       "name": "motorised wheelchair",
@@ -117,24 +135,6 @@
         "email": "rani@amkfsc.org.sg",
         "phone": [
           "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Nov 2021"
-    },
-    {
-      "id": "101201",
-      "category": "Medical Aids",
-      "name": "Milk Supplement",
-      "description": "Family has an elderly mother (70/F) who has several medical conditions such as dementia, diabetes, Parkinson's, etc and is wheel-chair bound. Mother was recently discharged from hospital after recovering from Covid. However, she has not been eating well and rely on milk supplement to sustain her. Client (son)'s employment contract is not renewed after being engaged as a temperature screener for a few months. Son has been taking up adhoc jobs which salary is not sufficient to support elderly mother.\n\nMilk Supplement brand: Nestle Resource 2.0",
-      "specifications": "Nestle Resource 2.0",
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Yew Tee",
-        "name": "Calyn Xu",
-        "email": "calynxu@fycs.org",
-        "phone": [
-          "64162155",
-          "64162162"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3121,6 +3121,16 @@
   ],
   "offers": [
     {
+      "id": "101232",
+      "name": "Instant Pot Duo 60",
+      "description": "This is a 3x used Instant Pot Duo 60, bought last year (Nov 2020). Blessing away due to underutilisation. I only cook Halal food (chicken stock and fish stock) as I am Muslim. Happy to bless away to a family who needs it more. Singapore plug.can be used to cook rice, porridge etc. It is a pressure cooker.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "01 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "101229",
       "name": "Sterilizer",
       "description": "Used steam sterilizer; tested and still functioning",
@@ -3298,16 +3308,6 @@
       "validTill": "15 Dec 2021",
       "ageInYears": 1,
       "dimensions": "Size S/M. Previously a UK 8 before pregnancy",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101141",
-      "name": "IONA Electric Portable Cooker",
-      "description": "Item is new. Can cook rice too. Good for someone who is staying alone or small family.",
-      "location": null,
-      "validTill": "15 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3627,16 +3627,6 @@
       "location": "Orchard, Cairnhill, River Valley",
       "validTill": "30 Nov 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101052",
-      "name": "Wallet",
-      "description": "This is a brand new wallet bought for me by a family member. Would like to donate as I have no use for it",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "13 Dec 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4157,16 +4147,6 @@
       "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
       "validTill": "05 Dec 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100698",
-      "name": "Clothing for female S-M",
-      "description": "Moving house and have many office & casual clothes to give away to ladies who wear size small or medium. Self collection preferred.",
-      "location": "Loyang, Changi",
-      "validTill": "20 Nov 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
