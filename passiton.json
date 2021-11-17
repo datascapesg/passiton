@@ -229,6 +229,40 @@
       "date": "18 Oct 2021"
     },
     {
+      "id": "101223",
+      "category": "Electrical Home Appliances",
+      "name": "Smartphone",
+      "description": "Mother (F/66) and daughter (F/31) are facing financial strains and would require a new phone. They only have one phone at the moment.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Clarice Lim",
+        "email": "claricelim@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Nov 2021"
+    },
+    {
+      "id": "101222",
+      "category": "Electrical Home Appliances",
+      "name": "Television",
+      "description": "Mother (F/66) and daughter (F/31) are facing financial strains. Mother would need a television to engage mother while she stays home as she is a retiree.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Clarice Lim",
+        "email": "claricelim@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Nov 2021"
+    },
+    {
       "id": "101219",
       "category": "Electrical Home Appliances",
       "name": "Working Laptop",
@@ -2503,23 +2537,6 @@
       "date": "26 Oct 2021"
     },
     {
-      "id": "100282",
-      "category": "Infant and Children Items",
-      "name": "L taped (pampers)",
-      "description": "A family of 4 young children is requesting for L-taped pampers for the usage of the youngest 16-month-old child. Mother is currently a full-time homemaker, whereas Father is a sole income earner, earning as a Food Dispatch Delivery Rider. Child requires at least 3 packs of L-sized taped diapers to last her for a month.",
-      "specifications": "Any brand, L-szed, taped",
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Khairunisa Rusli",
-        "email": "khairunisa.rusli@ppis.sg",
-        "phone": [
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Oct 2021"
-    },
-    {
       "id": "100273",
       "category": "Infant and Children Items",
       "name": "Milk & Diapers",
@@ -3032,6 +3049,26 @@
   ],
   "offers": [
     {
+      "id": "101224",
+      "name": "Tatami Bed",
+      "description": "It is very comfortable Tatami Bed and even  can use it as a chair to sit on or reading email via phone or laptop (equally comfortable). It is really very new and in good condition. Reason for giving it away because for me, as a bed, it is too low and my legs are no longer good due to age and have hard time climbing up/waking up and hence need a normal bed for me to replace it.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "17 Dec 2021",
+      "ageInYears": 2,
+      "dimensions": "216cm x 88 x 6cm (Bed)",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101221",
+      "name": "Hipvan sofa bed (single)",
+      "description": "Preloved sofa bed. Space saver as a single mattress bed that folds easily into a sofa. Used it for my confinement nanny bin the study room.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "01 Dec 2021",
+      "ageInYears": 2,
+      "dimensions": "Overall: (Sofa): W76 D74.5 H73 cm Overall: (Sofa bed): W76 D205 H13.5 cm  Seat height 28 cm  Bed mattress height: 13.5 cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "101220",
       "name": "Yamaha Clarinova",
       "description": "Old but working Yamaha Clarinova.  Needs to leave the apartment by 20 Nov.  Thank you.",
@@ -3089,16 +3126,6 @@
       "validTill": "30 Nov 2021",
       "ageInYears": 3,
       "dimensions": "Breadth 81 cm  Length 162 cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101196",
-      "name": "Shoe Cabinet",
-      "description": "Shoe cabinet in good condition",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "30 Nov 2021",
-      "ageInYears": 3,
-      "dimensions": "Length 80 cm breath 35 cm height 107 cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -4028,16 +4055,6 @@
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "01 Dec 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100985",
-      "name": "One single bed frame and mattress",
-      "description": "Single bed frame with mattress",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "01 Dec 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
