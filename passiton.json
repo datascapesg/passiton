@@ -229,24 +229,6 @@
       "date": "18 Oct 2021"
     },
     {
-      "id": "101230",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Family of 7, with husband as sole breadwinner on a low income. Family requires a washing machine asap as current washing machine just broke down on them. Husband is sole caregiver to the children as wife is unwell and struggles keeping up with the household chores. Would appreciate a washing machine soon.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
-        "name": "Adeline Choo",
-        "email": "adelinechoo@fycs.org",
-        "phone": [
-          "67719538",
-          "67625215"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "17 Nov 2021"
-    },
-    {
       "id": "101223",
       "category": "Electrical Home Appliances",
       "name": "Smartphone",
@@ -1123,6 +1105,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "19 Oct 2021"
+    },
+    {
+      "id": "101234",
+      "category": "Infant and Children Items",
+      "name": "Diapers [URGENT]",
+      "description": "The family is in urgent need of Diapers in size XL. No brand specific. The family of 7 is currently contracted COVID which affects badly on the parent's income. Do require assistance for diapers in the meantime to alleviate the living expenses. The items will be directly delivered to beneficiary's place and please contact us for delivery details (email:dik@childrensociety.org.sg, contact:9436 7401). Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Peng Hui",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Nov 2021"
     },
     {
       "id": "101227",
@@ -2870,24 +2869,6 @@
       "date": "13 Nov 2021"
     },
     {
-      "id": "101030",
-      "category": "Home Furnishing",
-      "name": "Dining Table",
-      "description": "For elderly who stayed in 1 room rental unit.",
-      "specifications": "110cm X 70cm",
-      "contact": {
-        "org": "THK Cluster Support @ Bukit Merah",
-        "name": "Colin Tan",
-        "email": "Colin.Tan@thkmc.org.sg",
-        "phone": [
-          "69240354",
-          "69242951"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "12 Nov 2021"
-    },
-    {
       "id": "100925",
       "category": "Home Furnishing",
       "name": "Plastic Drawers",
@@ -3120,6 +3101,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "101233",
+      "name": "Playpen",
+      "description": "with door",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "17 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "1.2m x 1.2m",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101232",
       "name": "Instant Pot Duo 60",
