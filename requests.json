@@ -228,10 +228,27 @@
     "date": "18 Oct 2021"
   },
   {
-    "id": "101237",
+    "id": "101240",
     "category": "Electrical Home Appliances",
-    "name": "Toploader Washing Machine",
-    "description": "Client is a retired 68 year old single man. He is dependent on a CPF monthly payout of less than $1k per month and owes close to $40k in credit card debt. He is requesting for a new* toploader washing machine for the 1-room rental flat he is moving into. In terms of load, it only has to be sufficient for two single men.\n\n*New: To minimise likelihood of it malfunctioning in the near future, which will incur repair costs",
+    "name": "Fridge",
+    "description": "Single mom with young daughter needs a small fridge as their previous donated fridge was spoilt. At present family is managing with canned food and maggi noodles due to the lack of fridge for fresh food. Mother is unable to work due to health issues",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Punggol",
+      "name": "Mohd Fadil Bin Hassan",
+      "email": "mohdfadil@amkfsc.org.sg",
+      "phone": [
+        "64355323"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Nov 2021"
+  },
+  {
+    "id": "101239",
+    "category": "Electrical Home Appliances",
+    "name": "Bathing Water Heater",
+    "description": "Client is a retired 68 year old single man. He is dependent on a CPF monthly payout of less than $1k per month and owes close to $40k in credit card debt. He is requesting for a new* bathing water heater for the 1-room rental flat he is moving into. Secondhand items would also be much appreciated, thanks so much! \n\n*New: To minimise likelihood of it malfunctioning in the near future, which will incur repair costs",
     "specifications": null,
     "contact": {
       "org": "Care Corner Family Service Centre - Queenstown",
@@ -245,17 +262,17 @@
     "date": "17 Nov 2021"
   },
   {
-    "id": "101223",
+    "id": "101237",
     "category": "Electrical Home Appliances",
-    "name": "Smartphone",
-    "description": "Mother (F/66) and daughter (F/31) are facing financial strains and would require a new phone. They only have one phone at the moment.",
+    "name": "Toploader Washing Machine",
+    "description": "Client is a retired 68 year old single man. He is dependent on a CPF monthly payout of less than $1k per month and owes close to $40k in credit card debt. He is requesting for a new* toploader washing machine for the 1-room rental flat he is moving into. In terms of load, it only has to be sufficient for two single men.\n\n*New: To minimise likelihood of it malfunctioning in the near future, which will incur repair costs",
     "specifications": null,
     "contact": {
-      "org": "AMKFSC Community Services Ltd - Sengkang",
-      "name": "Clarice Lim",
-      "email": "claricelim@amkfsc.org.sg",
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Sarah Loh",
+      "email": "sarahloh@carecorner.org.sg",
       "phone": [
-        "63128100"
+        "64761481"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -1055,6 +1072,23 @@
     "date": "20 Oct 2021"
   },
   {
+    "id": "101241",
+    "category": "Kitchen Utility Items",
+    "name": "Gas Stove",
+    "description": "Client is a retired 68 year old single man. He is dependent on a CPF monthly payout of less than $1k per month and owes close to $40k in credit card debt. He is requesting for a new* gas stove for the 1-room rental flat he is moving into. Secondhand items would also be much appreciated, thanks so much! \n\n*New: To minimise likelihood of it malfunctioning in the near future, which will incur repair costs",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Sarah Loh",
+      "email": "sarahloh@carecorner.org.sg",
+      "phone": [
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Nov 2021"
+  },
+  {
     "id": "100673",
     "category": "Kitchen Utility Items",
     "name": "Enfamil Pro A+ Stage 1 900g or 1.8kg",
@@ -1087,6 +1121,40 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "19 Oct 2021"
+  },
+  {
+    "id": "101242",
+    "category": "Infant and Children Items",
+    "name": "Milk powder",
+    "description": "Client's eldest daughter (9 years old) requires daily intake of Pediasure milk as advised by the doctor in order to ensure sufficient intake of nutrients as she is currently underweight. \n\nFamily is facing financial difficulties as father is the sole breadwinner (earning 1600/month) and mother is certified unfit for work due to mental health issues. Family also has various arrears which further strains the family's financial situation. This makes it difficult for them to purchase the pediasure milk each month due it costly price. \n\nI would like to appeal to any kind donor who could assist the family with the purchase of the Pediasure milk.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Punggol",
+      "name": "Leong Miao Lin",
+      "email": "leongmiaolin@amkfsc.org.sg",
+      "phone": [
+        "64355323"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "17 Nov 2021"
+  },
+  {
+    "id": "101238",
+    "category": "Infant and Children Items",
+    "name": "Children Diapers and Milk",
+    "description": "Family with young children facing financial constrains require Children Diapers and Mil:\n\n-Pediasure Vanilla\n-Grow 1 infant formula\n-XL pull up pants\n-M tape/pants",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Sengkang",
+      "name": "Clarice Lim",
+      "email": "claricelim@amkfsc.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Nov 2021"
   },
   {
     "id": "101234",
@@ -2797,6 +2865,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "01 Nov 2021"
+  },
+  {
+    "id": "101243",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Single mother with 3 young children needs a new 4 door wardrobe. Their current wardrobe  is worn down and broken in parts (it could potentially fall down).",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Punggol",
+      "name": "Mohd Fadil Bin Hassan",
+      "email": "mohdfadil@amkfsc.org.sg",
+      "phone": [
+        "64355323"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Nov 2021"
   },
   {
     "id": "101236",
