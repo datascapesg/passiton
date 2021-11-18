@@ -626,24 +626,6 @@
       "date": "22 Oct 2021"
     },
     {
-      "id": "101275",
-      "category": "Others",
-      "name": "iPad / Tablet",
-      "description": "Client is a 69 years old elderly lady with cancer, heart condition, lungs condition, and diabetes. Client experiences pain all the time and takes Panadol 3 times a day to cope. Appreciate any functional ipad/tablet to keep Client entertained and part of effort to improve her quality of life. Please feel free to contact Social Worker on why iPad/tablet specifically, if curious. Please WhatsApp Social Worker Alexia with photo at 8718 8441. Thank you.",
-      "specifications": "NA",
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Navarraj",
-        "email": "navarraj@thkmc.org.sg",
-        "phone": [
-          "64961278",
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Nov 2021"
-    },
-    {
       "id": "101270",
       "category": "Others",
       "name": "TENA DIAPER M (Tape)",
@@ -1158,6 +1140,24 @@
       "date": "19 Oct 2021"
     },
     {
+      "id": "101280",
+      "category": "Infant and Children Items",
+      "name": "Diapers",
+      "description": "Client is giving birth in December 2021 and requires supply of diapers for newborn. Family is financially constrained as they have 5 children of ages from 2 to 15 years old and  husband is the sole breadwinner doing grab delivery. Client hopes to receive support for diapers (any brand), suitable for newborn size",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Nathan Hou",
+        "email": "nathanhou@thkmc.org.sg",
+        "phone": [
+          "88554795",
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Nov 2021"
+    },
+    {
       "id": "101256",
       "category": "Infant and Children Items",
       "name": "Pulled up diapers XXL",
@@ -1173,23 +1173,6 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "18 Nov 2021"
-    },
-    {
-      "id": "101242",
-      "category": "Infant and Children Items",
-      "name": "Milk powder",
-      "description": "Client's eldest daughter (9 years old) requires daily intake of Pediasure milk as advised by the doctor in order to ensure sufficient intake of nutrients as she is currently underweight. \n\nFamily is facing financial difficulties as father is the sole breadwinner (earning 1600/month) and mother is certified unfit for work due to mental health issues. Family also has various arrears which further strains the family's financial situation. This makes it difficult for them to purchase the pediasure milk each month due it costly price. \n\nI would like to appeal to any kind donor who could assist the family with the purchase of the Pediasure milk.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Leong Miao Lin",
-        "email": "leongmiaolin@amkfsc.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "17 Nov 2021"
     },
     {
       "id": "101238",
@@ -3166,6 +3149,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "101281",
+      "name": "Casual Clothes for Youths",
+      "description": "Bermudas and T shirts for teenager aged 12 -15.",
+      "location": "Watten Estate, Novena, Thomson",
+      "validTill": "30 Nov 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101279",
       "name": "My Breast Friend nursing pillow",
