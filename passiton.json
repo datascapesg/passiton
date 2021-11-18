@@ -177,6 +177,23 @@
       "date": "18 Oct 2021"
     },
     {
+      "id": "101267",
+      "category": "Electrical Home Appliances",
+      "name": "Sewing Machine",
+      "description": "Client has 3 children and her husband is the sole breadwinner of the family. Family is facing some financial challenges and is currently living in a rental flat. Client hopes to get a sewing machine so that she can start her own home based business and also pick up a new skill.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Punggol",
+        "name": "Amos Liu",
+        "email": "amosliu@amkfsc.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "18 Nov 2021"
+    },
+    {
       "id": "101265",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine (Brand New Preferred)",
@@ -3202,6 +3219,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "101266",
+      "name": "Stroller",
+      "description": "Omnidirectional wheels is the main top feature Capella is well known for. Easy to sidepush stroller when in congested lanes (e.g. when walking down supermarket isles). All mechanisms working well (collapsing, erecting of stroller, switching of handles front to rear, extending and retracting sunshades, wheel brakes and direction locks works very well too).",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "01 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "50x50x50",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101255",
       "name": "Day bed with single mattress",
