@@ -350,24 +350,6 @@
       "date": "17 Nov 2021"
     },
     {
-      "id": "101212",
-      "category": "Electrical Home Appliances",
-      "name": "Television",
-      "description": "Client is a single, elderly male living alone, unemployed. He used to spend time watching TV, but his TV set spoilt and wished for a new TV for his engagement needs.",
-      "specifications": "24-30 inch",
-      "contact": {
-        "org": "AWWA Health and Senior Care",
-        "name": "Lulu Loke",
-        "email": "lulu_loke@awwa.org.sg",
-        "phone": [
-          "97865352",
-          "64562557"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Nov 2021"
-    },
-    {
       "id": "101205",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -625,6 +607,59 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "22 Oct 2021"
+    },
+    {
+      "id": "101328",
+      "category": "Others",
+      "name": "Christmas wishlist for families bonding",
+      "description": "Low-income families working hard to provide care and support for children. Requesting support for 60 low-income families on upcoming Christmas wish list items, so that the families can celebrate Christmas together and to have quality bonding time. Interested donors can get in touch with me on the wish list and delivering to our office at (20 Lengkok Bahru, Playground Block, #03-02, Singapore 159053). Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "HEART @ Fei Yue",
+        "name": "Mindy Choo",
+        "email": "mindychoo@fycs.org",
+        "phone": [
+          "89078297",
+          "68199170"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Nov 2021"
+    },
+    {
+      "id": "101326",
+      "category": "Others",
+      "name": "Smart Phone (4G)",
+      "description": "Elderly man requires a smartphone (able to text, WhatsApp, scan QR codes, Safe Entry, surf internet & make video calls) for staying in contact with relatives overseas as his phone was stolen. He is unable to afford a second-hand phone as he has minimal savings and struggles to make ends meet.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Victoria Chong",
+        "email": "victoriachong@fycs.org",
+        "phone": [
+          "69783482",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Nov 2021"
+    },
+    {
+      "id": "101325",
+      "category": "Others",
+      "name": "Table top gas stove required",
+      "description": "Table top(not mounted) lightweight piped gas stove with single burner and heat insulation below required for wheelchair bound single man so as to better manage nutritional needs in view of chronic health conditions requiring regular home cooking.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Thia Jun Hoong",
+        "email": "thiajunhoong@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Nov 2021"
     },
     {
       "id": "101315",
@@ -1175,6 +1210,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "19 Oct 2021"
+    },
+    {
+      "id": "101327",
+      "category": "Infant and Children Items",
+      "name": "Baby pram",
+      "description": "Single mother of 3 children. She is the main caregiver to her new born and is currently facing some financial constraints. She would benefit from having a baby pram or carrier.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Hannah Lim",
+        "email": "hannahlimzhixin@fycs.org",
+        "phone": [
+          "69783487",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "19 Nov 2021"
     },
     {
       "id": "101306",
@@ -3290,6 +3343,24 @@
       "date": "09 Nov 2021"
     },
     {
+      "id": "101322",
+      "category": "Leisure and Healthy Lifestyle",
+      "name": "Bicycle",
+      "description": "Client is a single-mother who is motivated to be financially independent. She requires a bicycle to support her in her food delivery job.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Hannah Lim",
+        "email": "hannahlimzhixin@fycs.org",
+        "phone": [
+          "69783487",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "19 Nov 2021"
+    },
+    {
       "id": "101002",
       "category": "Leisure and Healthy Lifestyle",
       "name": "Hybrid mountain bike with gears",
@@ -3308,6 +3379,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "101324",
+      "name": "trolley bag",
+      "description": "POSB trolley bag",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "19 Dec 2021",
+      "ageInYears": 2,
+      "dimensions": "43(H)×39(W) cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101323",
+      "name": "Plastic container",
+      "description": "Beautiful 2 tier plastic container.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "19 Dec 2021",
+      "ageInYears": 2,
+      "dimensions": "21 (hex) x13(h) cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101321",
+      "name": "IBM laptop bag",
+      "description": "IBM LAPTOP BAG. NEW. EXCELLENT CONDITION.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "19 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "17(L)×12(H)×7(T) cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101319",
       "name": "Induction cooker",
