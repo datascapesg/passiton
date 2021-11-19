@@ -297,24 +297,6 @@
       "date": "17 Nov 2021"
     },
     {
-      "id": "101207",
-      "category": "Electrical Home Appliances",
-      "name": "Stove with cabinet",
-      "description": "Family with 6 children requires stove with cabinet. Their one room flat caught fire. One child in the family has cancer. Father is the sole breadwinner and family has their financial constraints.",
-      "specifications": null,
-      "contact": {
-        "org": "AIN Society",
-        "name": "Norhashimah Binti Kamarudin",
-        "email": "shimah@ainsociety.org.sg",
-        "phone": [
-          "68485163",
-          "68485166"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "17 Nov 2021"
-    },
-    {
       "id": "101205",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -1031,6 +1013,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "19 Oct 2021"
+    },
+    {
+      "id": "101295",
+      "category": "Infant and Children Items",
+      "name": "Latogen 3 Milk Powder x2 tins",
+      "description": "Client's 1y/o daughter contracted Covid-19 and has to isolated with her. Her husband lost job due to caregiving issues 5y/o son. In addition, he is currently recovering from hand-food-mouth disease. Milk powder will ease family's financial situation.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Punggol",
+        "name": "Grace Song",
+        "email": "gracesong@amkfsc.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Nov 2021"
     },
     {
       "id": "101293",
@@ -2745,6 +2744,23 @@
       "date": "08 Nov 2021"
     },
     {
+      "id": "101296",
+      "category": "Home Furnishing",
+      "name": "Trolley (Ikea Raskog)",
+      "description": "THK Pan-Disability Centre is looking for 3x trolley (similar to the Ikea Raskog).\nThe trolleys will be used to empower clients to practice serving their friends during teabreak. In the long run, we hope this will improve their hospitality and social skills.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Pan-Disability Centre @ Eunos",
+        "name": "Siti Nurzarifah Binte Selamat",
+        "email": "sitinurzarifah@thkmc.org.sg",
+        "phone": [
+          "68461171"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "19 Nov 2021"
+    },
+    {
       "id": "101263",
       "category": "Home Furnishing",
       "name": "2-Door Clothes Wardrobe With Drawers",
@@ -2865,6 +2881,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "08 Nov 2021"
+    },
+    {
+      "id": "101297",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Client is currently attending a course to upgrade herself to pursue her dreams to be an early childhood educator, while caring for 4 young children. \nFamily does not have a laptop and face financial challenges. \nA laptop is needed for client's course, and will also be helpful for the children if they need it for school.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Nov 2021"
     },
     {
       "id": "101228",
@@ -3028,6 +3061,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "101294",
+      "name": "Hospital Bed",
+      "description": "Used hospital bed in working condition. Available from 2-5 Dec.",
+      "location": "Seletar",
+      "validTill": "05 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "83.5 by 41 inches",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101292",
       "name": "Relax chair",
