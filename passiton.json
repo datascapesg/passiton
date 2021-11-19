@@ -609,6 +609,23 @@
       "date": "22 Oct 2021"
     },
     {
+      "id": "101331",
+      "category": "Others",
+      "name": "Laptop",
+      "description": "Client is a low-income family of four with school-going children, and requires laptop for work and family use.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Covenant Family Service Centre - Hougang",
+        "name": "Chan Jun Ren",
+        "email": "chanjunren@mws.sg",
+        "phone": [
+          "62828558"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Nov 2021"
+    },
+    {
       "id": "101328",
       "category": "Others",
       "name": "Christmas wishlist for families bonding",
@@ -3027,6 +3044,24 @@
       "date": "08 Nov 2021"
     },
     {
+      "id": "101329",
+      "category": "Home Furnishing",
+      "name": "Sofa bed",
+      "description": "Client and her family of 7 requires a retractable single-person sofa bed to fit in their 2 room flat.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Hannah Lim",
+        "email": "hannahlimzhixin@fycs.org",
+        "phone": [
+          "69783487",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "19 Nov 2021"
+    },
+    {
       "id": "101308",
       "category": "Home Furnishing",
       "name": "Single size mattress & bedframe",
@@ -3380,6 +3415,46 @@
   ],
   "offers": [
     {
+      "id": "101334",
+      "name": "Plastic food container",
+      "description": "New plastic containers with covers.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "19 Dec 2021",
+      "ageInYears": 3,
+      "dimensions": "About 11(dia)×14 (H) and 13(dia)×22(H) cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101333",
+      "name": "Brown bag",
+      "description": "Bought and did not use. Minor defects such as scratches. Can be used.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "19 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "About 32(L)×28(W) cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101332",
+      "name": "Plastic food container",
+      "description": "NEW 3 tier green colour plastic container.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "19 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "About 15 cm (Diameter) 2.5 cm (H)",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101330",
+      "name": "Side table",
+      "description": "USED SIDE TABLE WITH CORNER LAMINATION CHIPPED OFF. CAN STILL BE USED. SMALL HOLES ON TABLE WERE DRILLED AND USED FOR HOLDING A LAMP. HOLES ARE RESTORED.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "19 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "20(L)×14(W)×15(H) inches",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "101324",
       "name": "trolley bag",
       "description": "POSB trolley bag",
@@ -3417,16 +3492,6 @@
       "validTill": "19 Dec 2021",
       "ageInYears": 1,
       "dimensions": "370x290x36mm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101304",
-      "name": "Super Single Bed with mattress",
-      "description": "Good conditions",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "16 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -4446,16 +4511,6 @@
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "01 Dec 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100987",
-      "name": "One single bed frame and mattress",
-      "description": "Single bed frame with mattress",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "01 Dec 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
