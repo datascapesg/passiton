@@ -124,6 +124,59 @@
       "date": "02 Nov 2021"
     },
     {
+      "id": "101320",
+      "category": "Electrical Home Appliances",
+      "name": "Television",
+      "description": "Single elderly lady living alone in 1 room rental flat with financial and health challenges has a faulty television and hopes to have a television to help her pass time.",
+      "specifications": "24 inch and under",
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Bedok",
+        "name": "Alasdair Yee",
+        "email": "alasdair.yee@montfortcare.org.sg",
+        "phone": [
+          "63123988"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Nov 2021"
+    },
+    {
+      "id": "101318",
+      "category": "Electrical Home Appliances",
+      "name": "Wall fans - 2",
+      "description": "Single lady, full time taking care of her elderly mother who can't perform the basic activities like use of toilet and bathroom, needs 2 wall fans to replace her current non working ones.",
+      "specifications": null,
+      "contact": {
+        "org": "Bartley Community Care Services",
+        "name": "Chew Chee Kuan",
+        "email": "cheekuan.chew@bccs.org.sg",
+        "phone": [
+          "83760394",
+          "68850432"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "19 Nov 2021"
+    },
+    {
+      "id": "101317",
+      "category": "Electrical Home Appliances",
+      "name": "Wall fans - 2",
+      "description": "Single lsdy, full time taking care of elder mother who can't perform the daily basic activities like use of toilet and bathroom, needs replacement of her 2 non working wall fans",
+      "specifications": null,
+      "contact": {
+        "org": "Bartley Community Care Services",
+        "name": "Chew Chee Kuan",
+        "email": "cheekuan.chew@bccs.org.sg",
+        "phone": [
+          "83760394",
+          "68850432"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "19 Nov 2021"
+    },
+    {
       "id": "101307",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -572,6 +625,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "22 Oct 2021"
+    },
+    {
+      "id": "101315",
+      "category": "Others",
+      "name": "Nature One Dairy Premium Milk Powder (1-3 Years Old) x 3 small tins",
+      "description": "A young couple with children requires assistance to adjust after both their release from incarceration. They are in the midst of stabilizing in gainful employment. They need financial support for milk and diaper of their child.\nDonation will help them in reducing their financial load.  \n\nEmail or whatsapp only @ 66901010.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Joycelyn Wong",
+        "email": "joycelynwong@fycs.org",
+        "phone": [
+          "66901010",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Nov 2021"
+    },
+    {
+      "id": "101314",
+      "category": "Others",
+      "name": "Dryers Diaper Size XL x 3 big pack",
+      "description": "A young couple with children requires assistance to adjust after both their release from incarceration. They are in the midst of stabilizing in gainful employment. They need financial support for milk and diaper of their child.\nDonation will help them in reducing their financial load.  \n\nEmail or whatsapp only @ 66901010.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Joycelyn Wong",
+        "email": "joycelynwong@fycs.org",
+        "phone": [
+          "66901010",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Nov 2021"
     },
     {
       "id": "101313",
@@ -2815,6 +2904,23 @@
       "date": "20 Oct 2021"
     },
     {
+      "id": "101316",
+      "category": "Medical Aids",
+      "name": "Blood Pressure Measuring Meter",
+      "description": "Single elderly lady living alone in 1 room rental flat with financial and health challenges hopes to have a blood pressure measuring machine and a blood sugar measuring machine to better manage her chronic conditions.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Bedok",
+        "name": "Alasdair Yee",
+        "email": "alasdair.yee@montfortcare.org.sg",
+        "phone": [
+          "63123988"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Nov 2021"
+    },
+    {
       "id": "101148",
       "category": "Medical Aids",
       "name": "Adult Diapers",
@@ -3202,6 +3308,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "101319",
+      "name": "Induction cooker",
+      "description": "one induction cooker and 1 free pot.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "19 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": "370x290x36mm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101304",
       "name": "Super Single Bed with mattress",
