@@ -1,5 +1,15 @@
 [
   {
+    "id": "101303",
+    "name": "Hospital Bed",
+    "description": "Very good condition",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "15 Dec 2021",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "101294",
     "name": "Hospital Bed",
     "description": "Used hospital bed in working condition. Available from 2-5 Dec.",

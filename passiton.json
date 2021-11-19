@@ -592,23 +592,6 @@
       "date": "19 Nov 2021"
     },
     {
-      "id": "101283",
-      "category": "Others",
-      "name": "Food Rations",
-      "description": "Requesting halal food rations for needy families who may not have money to buy food Items due to financial issues \n\nItems needed such as - \n30x bags of 2.5kg rice\n30x bags of 5kg rice\n40x Packets of 3-in-1 (Milo) (3in1 sachet bags)\n70x Assorted Halal Can Food [Meat -Sardine/Chicken etc] / [Vegetarian – Corn/Mushroom etc] \n40x Packets of Assorted Biscuits\n40x Assorted Packet of Maggi Noodles [Chicken/Curry/Vegetarian]\n10x Assorted Cup noodles\n20x 1l oil",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Max Hong",
-        "email": "maxhong@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Nov 2021"
-    },
-    {
       "id": "101192",
       "category": "Others",
       "name": "WE Cinema & 18 Chefs Gift Cards for Family Bonding",
@@ -3131,6 +3114,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "101303",
+      "name": "Hospital Bed",
+      "description": "Very good condition",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "15 Dec 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101294",
       "name": "Hospital Bed",
