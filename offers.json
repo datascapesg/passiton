@@ -1,21 +1,31 @@
 [
   {
+    "id": "101344",
+    "name": "Set - Wardrobe, console, bedside drawers",
+    "description": "Large wardrobe coming with bedside drawers (1 unit) and a console with mirror.",
+    "location": "Loyang, Changi",
+    "validTill": "10 Dec 2021",
+    "ageInYears": 4,
+    "dimensions": "200cm x 165cm x 58cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "101343",
+    "name": "Sideboard / tv console",
+    "description": "Sideboard or tv console, solid wood, with a rolling unit with glass shelves.",
+    "location": "Loyang, Changi",
+    "validTill": "10 Dec 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "101342",
     "name": "Single bed",
     "description": "Single mattress (soft)\nVery soft bed, firmness:5/10",
     "location": "Jurong",
     "validTill": "20 Dec 2021",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "101341",
-    "name": "Used 9.0KG washing machine",
-    "description": "Used washing machine but still functional",
-    "location": "Jurong",
-    "validTill": "20 Dec 2021",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
