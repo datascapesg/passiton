@@ -3081,6 +3081,16 @@
   ],
   "offers": [
     {
+      "id": "101386",
+      "name": "Hospital bed",
+      "description": "Hospital bed without mattress.",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "25 Nov 2021",
+      "ageInYears": 4,
+      "dimensions": "2m x 1.2m x 1m",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "101385",
       "name": "IKEA single size bed frame (x2)",
       "description": "IKEA wooden bed frame (single size). In good condition.",
