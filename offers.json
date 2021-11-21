@@ -1,5 +1,15 @@
 [
   {
+    "id": "101387",
+    "name": "2 Orange Chairs",
+    "description": "8.5/10 condition. wheels still working.",
+    "location": "Middle Road, Golden Mile",
+    "validTill": "01 Dec 2021",
+    "ageInYears": 2,
+    "dimensions": "standard",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "101386",
     "name": "Hospital bed",
     "description": "Hospital bed without mattress.",
@@ -837,16 +847,6 @@
     "validTill": "14 Dec 2021",
     "ageInYears": 4,
     "dimensions": "1M by 1M",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "101065",
-    "name": "Hairdryer and iron",
-    "description": "As above",
-    "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
-    "validTill": "22 Nov 2021",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
