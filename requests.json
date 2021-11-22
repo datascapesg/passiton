@@ -1,5 +1,22 @@
 [
   {
+    "id": "101441",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Client is diagnosed with epilepsy, and is unable to work due to her disability. She has recently underwent a leg surgery, and needs a wheelchair for her daily activities.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Cheng San",
+      "name": "Celestine Liow",
+      "email": "celestineliow@amkfsc.org.sg",
+      "phone": [
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "22 Nov 2021"
+  },
+  {
     "id": "101285",
     "category": "Mobility Aids",
     "name": "Electric wheelchair",
@@ -105,6 +122,40 @@
     "date": "02 Nov 2021"
   },
   {
+    "id": "101440",
+    "category": "Electrical Home Appliances",
+    "name": "Refridgerator",
+    "description": "Low income family of seven with 5 young school-going children needs a refridgerator as their current one is spoilt and they are unable to afford a new one.",
+    "specifications": null,
+    "contact": {
+      "org": "MontfortCare - Marine Parade Family Service Centre",
+      "name": "Fatimah Hakeem",
+      "email": "fatimah.hakeem@montfortcare.org.sg",
+      "phone": [
+        "64450100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Nov 2021"
+  },
+  {
+    "id": "101436",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Mdm. Elsie is an elderly client known to Thye Hua Kwan Moral Charities (THKMC). She stays alone with limited social and family support.\n\nTHKMC is looking for a top load washing machine (6kg or 7kg) to replace Mdm. Elsie’s current washing machine as it has stopped working. She has to resort to washing her clothes manually, which causes her to become easily fatigued due to her old age and body pain.\n\nIf you know of someone who has the items for donation, please contact Ms. Hong Yue at 9644 3841. The recipient is located at Ang Mo Kio Avenue 1.\n\nSince October 2011, THKMC was incorporated as a charity with an IPC status to provide multiple social and welfare services to the community at large. THKMC provides assistance to the Elderly, Families, Children & Youth, and Persons with Disabilities, through more than 70 programmes and services. \n\nTHK Elderly Services Division provides many programmes and services to serve the elderly in need – one of which includes THK Cluster Support. THK Cluster Support provides social support through case management, monitoring, and basic counselling services to vulnerable seniors, and facilitates coordination in the provision of community-based care and support services to the seniors. This service aims to improve the quality of life of vulnerable seniors, particularly for low or no income seniors who are socially-isolated and have minimal or no family support.",
+    "specifications": "6kg/ 7kg",
+    "contact": {
+      "org": "THK Cluster Support @ Ang Mo Kio",
+      "name": "Lin Hong Yue",
+      "email": "HongYue.Lin@thkmc.org.sg",
+      "phone": [
+        "65564833"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Nov 2021"
+  },
+  {
     "id": "101434",
     "category": "Electrical Home Appliances",
     "name": "Television",
@@ -173,23 +224,6 @@
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "22 Nov 2021"
-  },
-  {
-    "id": "101395",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "Client is a stage 4A Cervical Cancer patient. She is unemployed and has to financially support her two teenage children. Currently, she is heavily dependent on the social service agencies for financial assistance but she has also made several attempts to work on ad-hoc basis despite her poor health.  \n\nClient’s washing machine and refrigerator are malfunctioned. Therefore, she hopes to get a new one so that she does not need to wash her clothes by hand and her fresh food could last longer, if kept in a refrigerator. She would also like to request for a laptop with HDMI cable as she is attending an online course now in order to secure a job.",
-    "specifications": null,
-    "contact": {
-      "org": "Sembawang Family Service Centre",
-      "name": "Po Woei Yee",
-      "email": "powoeiyee@sfsc.org.sg",
-      "phone": [
-        "67547050"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
     "date": "22 Nov 2021"
   },
   {
@@ -554,6 +588,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "22 Oct 2021"
+  },
+  {
+    "id": "101442",
+    "category": "Others",
+    "name": "Size L Adult Diapers (Pants)",
+    "description": "Client is diagnosed with Rectal Cancer and living alone. Client is financially needy and requires the use of diapers as client experiences incontinence.",
+    "specifications": null,
+    "contact": {
+      "org": "AIN Society",
+      "name": "Nur'Ain Binte Mohamed Said",
+      "email": "nurain@ainsociety.org.sg",
+      "phone": [
+        "68485116",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "22 Nov 2021"
   },
   {
     "id": "101423",
@@ -2865,6 +2917,23 @@
     "date": "05 Nov 2021"
   },
   {
+    "id": "101443",
+    "category": "Medical Aids",
+    "name": "Hospital Bed",
+    "description": "Client is a caregiver to her elderly mother and three school going children. Client is in urgent need for a hospital bed, whom recently just been discharged from hospital. Client could not afford to buy hospital bed (mother's weight is above 100kg) due to family's financial struggles. Client prefers hospital bed to be with bedside controls to adjust the bed. Do contact Nurul via whatsapp at 98598767 for further liaison of delivery.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
+      "phone": [
+        "69503503"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Nov 2021"
+  },
+  {
     "id": "101414",
     "category": "Medical Aids",
     "name": "Blood pressure monitor",
@@ -2922,128 +2991,6 @@
     "category": "Medical Aids",
     "name": "Standard Q ART Test Kits (50x and more)",
     "description": "For low income families with children ages between 5 - 18 years old.\nWith more testing require during the current phrase, the low income families are experiencing difficulties in affording more test kits, especially families with many children. Hence, need support in donations of Standard Q ART Test Kits. Donors can get in touch with me on delivering the test kits to our office at (20 Lengkok Bahru, Playground Block, #03-02, Singapore 159053). Thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "HEART @ Fei Yue",
-      "name": "Mindy Choo",
-      "email": "mindychoo@fycs.org",
-      "phone": [
-        "89078297",
-        "68199170"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Nov 2021"
-  },
-  {
-    "id": "101417",
-    "category": "Home Furnishing",
-    "name": "Kitchen cabinet",
-    "description": "Client is a young, single mother with a 1 month+ newborn. They are living in a rental flat with limited fmaily support. She's relying on welfare assistance while on maternity leave currently as her part-time job provides her with low wages and her savings are insufficient. Their kitchen cabinet is broken and she needs a replacement.",
-    "specifications": null,
-    "contact": {
-      "org": "AMKFSC Community Services Ltd - Sengkang",
-      "name": "Siti Nur Sa’iidah",
-      "email": "sitinursaiidah@amkfsc.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "22 Nov 2021"
-  },
-  {
-    "id": "101412",
-    "category": "Home Furnishing",
-    "name": "dining table with 4 chairs",
-    "description": "A single mother of 3 young children who relies on financial assistance to sustain her family, is hoping to have a 4-seater dinning table for the family.",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner Family Service Centre - Tampines",
-      "name": "Yvette Lau",
-      "email": "tm.vce@carecorner.org.sg",
-      "phone": [
-        "67866225"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Nov 2021"
-  },
-  {
-    "id": "101406",
-    "category": "Home Furnishing",
-    "name": "Bedside Table",
-    "description": "The family consists of a pair of couples who are residing in a 2-room rental flat. They are struggling with chronic medical conditions and unemployment issues. The client is on long-term MC while her boyfriend was recently released from Prison and has been actively seeking employment. With no income at this point in time, they are relying on SSO Financial Assistance for basic needs and are unable to afford new items whenever they break down. The Couple wishes to have a bedside table (2 feet, length: 60cm) to be put in her room.",
-    "specifications": "2 feet, length: 60cm",
-    "contact": {
-      "org": "AMKFSC Community Services Ltd - Cheng San",
-      "name": "Ernie Lydia Binte Abu Yamin",
-      "email": "ernielydia@amkfsc.org.sg",
-      "phone": [
-        "64535349",
-        "64578559"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Nov 2021"
-  },
-  {
-    "id": "101401",
-    "category": "Home Furnishing",
-    "name": "10 Medium toyogo boxes",
-    "description": "Client is a 60 year old man, caring for his wife who is currently receiving treatment for cancer. Client is a freelance worker and is currently unable to secure projects due to his caregiver role. \nThe couple recently moved into a new flat and would require some furniture to improve their quality of living.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - GoodLife! @ Telok Blangah",
-      "name": "Chen Jie Mei",
-      "email": "jiemei.chen@montfortcare.org.sg",
-      "phone": [
-        "62746904",
-        "62708327"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Nov 2021"
-  },
-  {
-    "id": "101367",
-    "category": "Home Furnishing",
-    "name": "TV Console (non-wood)",
-    "description": "Mother (F/66) and daughter (F/31) are facing financial strains and would require a new TV console (non-wood).Their furniture are mostly old and have termites, hence a console that is not made of wood would be preferrable.",
-    "specifications": null,
-    "contact": {
-      "org": "AMKFSC Community Services Ltd - Sengkang",
-      "name": "Clarice Lim",
-      "email": "claricelim@amkfsc.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Nov 2021"
-  },
-  {
-    "id": "101236",
-    "category": "Home Furnishing",
-    "name": "Kitchen Cabinet",
-    "description": "Client is a mother of 7 (F/15, F/9, F/8, M/7, F/5, F3, M/newborn). \nClient and her husband currently live in a 1-room-1-hall with F/9, F/8, M/7, F/5, F3, M/newborn. \nClient was previously unable to work due to gestational hypertension, and presently, she is the primary caregiver for the newborn. \nIn addition, she underwent a cesarean section (c-section) when she gave birth on 30th August 2021, and is currently unable to do strenuous activities. Her husband is currently employed as a food delivery rider on a part time basis, working only for a few hours each night as he helps client out in the day. As such, the family are limited in their financial resources and are unable to fork out money to pay for a kitchen cabinet.",
-    "specifications": "Kitchen Cabinet",
-    "contact": {
-      "org": "MWS Family Service Centre - Yishun",
-      "name": "Amy Chua",
-      "email": "amychua@mws.sg",
-      "phone": [
-        "67564995"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Nov 2021"
-  },
-  {
-    "id": "100826",
-    "category": "Home Furnishing",
-    "name": "Double decker bunk beds (2x)",
-    "description": "Family of 6 with 4 children (age 14, 12, 10, 10) living in a 4-room flat. Family were previously Malaysia citizens and paying full unsubsidized school fees, hence their house furnitures were very old/ donated/ taken from recycling site. Requesting for double decker bunk beds for the children so as to give them some personal space. Appreciate delivery to be send to client house. Thank you!",
     "specifications": null,
     "contact": {
       "org": "HEART @ Fei Yue",
@@ -3286,5 +3233,109 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "12 Nov 2021"
+  },
+  {
+    "id": "101417",
+    "category": "Home Furnishing",
+    "name": "Kitchen cabinet",
+    "description": "Client is a young, single mother with a 1 month+ newborn. They are living in a rental flat with limited fmaily support. She's relying on welfare assistance while on maternity leave currently as her part-time job provides her with low wages and her savings are insufficient. Their kitchen cabinet is broken and she needs a replacement.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Sengkang",
+      "name": "Siti Nur Sa’iidah",
+      "email": "sitinursaiidah@amkfsc.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "22 Nov 2021"
+  },
+  {
+    "id": "101412",
+    "category": "Home Furnishing",
+    "name": "dining table with 4 chairs",
+    "description": "A single mother of 3 young children who relies on financial assistance to sustain her family, is hoping to have a 4-seater dinning table for the family.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Tampines",
+      "name": "Yvette Lau",
+      "email": "tm.vce@carecorner.org.sg",
+      "phone": [
+        "67866225"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Nov 2021"
+  },
+  {
+    "id": "101406",
+    "category": "Home Furnishing",
+    "name": "Bedside Table",
+    "description": "The family consists of a pair of couples who are residing in a 2-room rental flat. They are struggling with chronic medical conditions and unemployment issues. The client is on long-term MC while her boyfriend was recently released from Prison and has been actively seeking employment. With no income at this point in time, they are relying on SSO Financial Assistance for basic needs and are unable to afford new items whenever they break down. The Couple wishes to have a bedside table (2 feet, length: 60cm) to be put in her room.",
+    "specifications": "2 feet, length: 60cm",
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Cheng San",
+      "name": "Ernie Lydia Binte Abu Yamin",
+      "email": "ernielydia@amkfsc.org.sg",
+      "phone": [
+        "64535349",
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Nov 2021"
+  },
+  {
+    "id": "101401",
+    "category": "Home Furnishing",
+    "name": "10 Medium toyogo boxes",
+    "description": "Client is a 60 year old man, caring for his wife who is currently receiving treatment for cancer. Client is a freelance worker and is currently unable to secure projects due to his caregiver role. \nThe couple recently moved into a new flat and would require some furniture to improve their quality of living.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - GoodLife! @ Telok Blangah",
+      "name": "Chen Jie Mei",
+      "email": "jiemei.chen@montfortcare.org.sg",
+      "phone": [
+        "62746904",
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Nov 2021"
+  },
+  {
+    "id": "101367",
+    "category": "Home Furnishing",
+    "name": "TV Console (non-wood)",
+    "description": "Mother (F/66) and daughter (F/31) are facing financial strains and would require a new TV console (non-wood).Their furniture are mostly old and have termites, hence a console that is not made of wood would be preferrable.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Sengkang",
+      "name": "Clarice Lim",
+      "email": "claricelim@amkfsc.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Nov 2021"
+  },
+  {
+    "id": "101236",
+    "category": "Home Furnishing",
+    "name": "Kitchen Cabinet",
+    "description": "Client is a mother of 7 (F/15, F/9, F/8, M/7, F/5, F3, M/newborn). \nClient and her husband currently live in a 1-room-1-hall with F/9, F/8, M/7, F/5, F3, M/newborn. \nClient was previously unable to work due to gestational hypertension, and presently, she is the primary caregiver for the newborn. \nIn addition, she underwent a cesarean section (c-section) when she gave birth on 30th August 2021, and is currently unable to do strenuous activities. Her husband is currently employed as a food delivery rider on a part time basis, working only for a few hours each night as he helps client out in the day. As such, the family are limited in their financial resources and are unable to fork out money to pay for a kitchen cabinet.",
+    "specifications": "Kitchen Cabinet",
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Amy Chua",
+      "email": "amychua@mws.sg",
+      "phone": [
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "17 Nov 2021"
   }
 ]
