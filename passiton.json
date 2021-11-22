@@ -2936,23 +2936,6 @@
       "date": "05 Nov 2021"
     },
     {
-      "id": "101443",
-      "category": "Medical Aids",
-      "name": "Hospital Bed",
-      "description": "Client is a caregiver to her elderly mother and three school going children. Client is in urgent need for a hospital bed, whom recently just been discharged from hospital. Client could not afford to buy hospital bed (mother's weight is above 100kg) due to family's financial struggles. Client prefers hospital bed to be with bedside controls to adjust the bed. Do contact Nurul via whatsapp at 98598767 for further liaison of delivery.",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (East)",
-        "name": "Nur Afrina",
-        "email": "fsceast@ppis.sg",
-        "phone": [
-          "69503503"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Nov 2021"
-    },
-    {
       "id": "101414",
       "category": "Medical Aids",
       "name": "Blood pressure monitor",
@@ -3307,23 +3290,6 @@
       "date": "22 Nov 2021"
     },
     {
-      "id": "101450",
-      "category": "Home Furnishing",
-      "name": "Mattress",
-      "description": "Family is with 2 children, where youngest child is with special needs. Client is also living with her sister and her young nephew. Client's husband is the sole breadwinner of the family, working as a grab delivery man, and his income is insufficient to sustain the household of 6. Client is unable to work due to the multiple caregiving duties at home. Due to the pandemic, client's grab income is also affected, as he receives lesser assignments at work.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Celestine Liow",
-        "email": "celestineliow@amkfsc.org.sg",
-        "phone": [
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "22 Nov 2021"
-    },
-    {
       "id": "101449",
       "category": "Home Furnishing",
       "name": "Sofa",
@@ -3446,6 +3412,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "101459",
+      "name": "dining table",
+      "description": "the table/chair legs have been chewed by our puppy but its still a very sturdy table and chairs",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "02 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101458",
+      "name": "Sofa",
+      "description": "well used sofa",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "02 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101457",
       "name": "Queen size mattress",
