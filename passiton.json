@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "101441",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "Client is diagnosed with epilepsy, and is unable to work due to her disability. She has recently underwent a leg surgery, and needs a wheelchair for her daily activities.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Celestine Liow",
-        "email": "celestineliow@amkfsc.org.sg",
-        "phone": [
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "22 Nov 2021"
-    },
-    {
       "id": "101285",
       "category": "Mobility Aids",
       "name": "Electric wheelchair",
@@ -187,23 +170,6 @@
         "email": "fatimah.hakeem@montfortcare.org.sg",
         "phone": [
           "64450100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Nov 2021"
-    },
-    {
-      "id": "101436",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Mdm. Elsie is an elderly client known to Thye Hua Kwan Moral Charities (THKMC). She stays alone with limited social and family support.\n\nTHKMC is looking for a top load washing machine (6kg or 7kg) to replace Mdm. Elsie’s current washing machine as it has stopped working. She has to resort to washing her clothes manually, which causes her to become easily fatigued due to her old age and body pain.\n\nIf you know of someone who has the items for donation, please contact Ms. Hong Yue at 9644 3841. The recipient is located at Ang Mo Kio Avenue 1.\n\nSince October 2011, THKMC was incorporated as a charity with an IPC status to provide multiple social and welfare services to the community at large. THKMC provides assistance to the Elderly, Families, Children & Youth, and Persons with Disabilities, through more than 70 programmes and services. \n\nTHK Elderly Services Division provides many programmes and services to serve the elderly in need – one of which includes THK Cluster Support. THK Cluster Support provides social support through case management, monitoring, and basic counselling services to vulnerable seniors, and facilitates coordination in the provision of community-based care and support services to the seniors. This service aims to improve the quality of life of vulnerable seniors, particularly for low or no income seniors who are socially-isolated and have minimal or no family support.",
-      "specifications": "6kg/ 7kg",
-      "contact": {
-        "org": "THK Cluster Support @ Ang Mo Kio",
-        "name": "Lin Hong Yue",
-        "email": "HongYue.Lin@thkmc.org.sg",
-        "phone": [
-          "65564833"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3481,6 +3447,16 @@
   ],
   "offers": [
     {
+      "id": "101457",
+      "name": "Queen size mattress",
+      "description": "Queen sized mattress without bed frame. Still in good condition. Deep cleaned about six months ago",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "05 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "153x203x18.5",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "101447",
       "name": "Nanjiren massager",
       "description": "Nanjiren massager with waist strap, 2 pin plug",
@@ -4568,16 +4544,6 @@
       "validTill": "10 Dec 2021",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100942",
-      "name": "Book shelf cabinet",
-      "description": "Despite the aging furniture, the overall condition is still good.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "10 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": "180cm x 50cm x 50cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
