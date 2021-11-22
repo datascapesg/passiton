@@ -105,24 +105,6 @@
     "date": "02 Nov 2021"
   },
   {
-    "id": "101409",
-    "category": "Electrical Home Appliances",
-    "name": "Television (TV)",
-    "description": "Client is a single elderly living alone in a rental flat and facing financial difficulties. He is unable to leave the house often due to mobility issues and would like a TV to help him pass time.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Ang Mo Kio",
-      "name": "Christopher Sng",
-      "email": "christopher_sng@msf.gov.sg",
-      "phone": [
-        "65547914",
-        "65547929"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Nov 2021"
-  },
-  {
     "id": "101395",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator",
@@ -256,40 +238,6 @@
       "email": "mohdfadil@amkfsc.org.sg",
       "phone": [
         "64355323"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Nov 2021"
-  },
-  {
-    "id": "101239",
-    "category": "Electrical Home Appliances",
-    "name": "Bathing Water Heater",
-    "description": "Client is a retired 68 year old single man. He is dependent on a CPF monthly payout of less than $1k per month and owes close to $40k in credit card debt. He is requesting for a new* bathing water heater for the 1-room rental flat he is moving into. Secondhand items would also be much appreciated, thanks so much! \n\n*New: To minimise likelihood of it malfunctioning in the near future, which will incur repair costs",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner Family Service Centre - Queenstown",
-      "name": "Sarah Loh",
-      "email": "sarahloh@carecorner.org.sg",
-      "phone": [
-        "64761481"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Nov 2021"
-  },
-  {
-    "id": "101237",
-    "category": "Electrical Home Appliances",
-    "name": "Toploader Washing Machine",
-    "description": "Client is a retired 68 year old single man. He is dependent on a CPF monthly payout of less than $1k per month and owes close to $40k in credit card debt. He is requesting for a new* toploader washing machine for the 1-room rental flat he is moving into. In terms of load, it only has to be sufficient for two single men.\n\n*New: To minimise likelihood of it malfunctioning in the near future, which will incur repair costs",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner Family Service Centre - Queenstown",
-      "name": "Sarah Loh",
-      "email": "sarahloh@carecorner.org.sg",
-      "phone": [
-        "64761481"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -1051,6 +999,42 @@
     },
     "deliveryCostsCoveredByDonor": false,
     "date": "25 Oct 2021"
+  },
+  {
+    "id": "101427",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Family of 5, with 2 of the 3 young children diagnosed with Autism Spectrum Disorder. Father is the sole breadwinner of the family as mother quit her job to take care of the older child who was kicked out of preschool. The family is requesting for Similac/Grow/Naan milk powder for the children.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue - Early Intervention Centre For Children",
+      "name": "Tessa Nai",
+      "email": "tessanai@fycs.org",
+      "phone": [
+        "66810508",
+        "65656260"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Nov 2021"
+  },
+  {
+    "id": "101426",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Family of 5, with 2 of the 3 young children diagnosed with Autism Spectrum Disorder. Father is the sole breadwinner of the family as mother quit her job to take care of the older child who was kicked out of preschool. The family is requesting for Huggies/Drypers size L and  XXL.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue - Early Intervention Centre For Children",
+      "name": "Tessa Nai",
+      "email": "tessanai@fycs.org",
+      "phone": [
+        "66810508",
+        "65656260"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Nov 2021"
   },
   {
     "id": "101419",
