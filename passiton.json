@@ -106,6 +106,23 @@
       "date": "02 Nov 2021"
     },
     {
+      "id": "101434",
+      "category": "Electrical Home Appliances",
+      "name": "Television",
+      "description": "Single elderly lady living alone in 1 room rental flat with financial and health challenges has a faulty television and hopes to have a television to help her pass time.",
+      "specifications": "24 inch and below",
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Bedok",
+        "name": "Alasdair Yee",
+        "email": "alasdair.yee@montfortcare.org.sg",
+        "phone": [
+          "63123988"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Nov 2021"
+    },
+    {
       "id": "101433",
       "category": "Electrical Home Appliances",
       "name": "Electric Kettle",
@@ -3273,6 +3290,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "101435",
+      "name": "IKEA single bed frame with storage drawers",
+      "description": "Very new IKEA bed frame with mattress and bed sheets, used for less than 1 year. Previously used by my maid but we no longer employed one so don’t need the bed anymore.",
+      "location": null,
+      "validTill": "22 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101432",
       "name": "Ikea chair",
