@@ -106,6 +106,24 @@
       "date": "02 Nov 2021"
     },
     {
+      "id": "101409",
+      "category": "Electrical Home Appliances",
+      "name": "Television (TV)",
+      "description": "Client is a single elderly living alone in a rental flat and facing financial difficulties. He is unable to leave the house often due to mobility issues and would like a TV to help him pass time.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Ang Mo Kio",
+        "name": "Christopher Sng",
+        "email": "christopher_sng@msf.gov.sg",
+        "phone": [
+          "65547914",
+          "65547929"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Nov 2021"
+    },
+    {
       "id": "101396",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -155,23 +173,6 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "22 Nov 2021"
-    },
-    {
-      "id": "101320",
-      "category": "Electrical Home Appliances",
-      "name": "Television",
-      "description": "Single elderly lady living alone in 1 room rental flat with financial and health challenges has a faulty television and hopes to have a television to help her pass time.",
-      "specifications": "24 inch and under",
-      "contact": {
-        "org": "Montfort Care - GoodLife! @ Bedok",
-        "name": "Alasdair Yee",
-        "email": "alasdair.yee@montfortcare.org.sg",
-        "phone": [
-          "63123988"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Nov 2021"
     },
     {
       "id": "101318",
@@ -640,23 +641,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "22 Nov 2021"
-    },
-    {
-      "id": "101373",
-      "category": "Others",
-      "name": "6 Bottles of Body Wash and Shampoo",
-      "description": "Family has 4 school-going children, who requires 6 bottles of body wash and shampoo each for their shower hygiene. Father is main solebreadwinner and mother has recently underwent a major surgery.",
-      "specifications": "Any Brand",
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Chavonne Tan",
-        "email": "ywctan@childrensociety.org.sg",
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Nov 2021"
     },
     {
       "id": "101331",
@@ -3166,6 +3150,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "101408",
+      "name": "Black and White Shelf with drawers",
+      "description": "Decent condition shelf with drawers",
+      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+      "validTill": "15 Dec 2021",
+      "ageInYears": 3,
+      "dimensions": "26x15x39 inches",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101405",
       "name": "Grey 3 seater sofa, L-shaped",
