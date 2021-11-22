@@ -106,6 +106,23 @@
       "date": "02 Nov 2021"
     },
     {
+      "id": "101421",
+      "category": "Electrical Home Appliances",
+      "name": "Standing Fan",
+      "description": "Client is 64 years old man staying alone. Children are uninvolved in his care. His standing fan has stopped working and would like request for a replacement fan.",
+      "specifications": null,
+      "contact": {
+        "org": "NTUC Health Cluster Support - Taman Jurong",
+        "name": "Tan Ee Ping",
+        "email": "eeping.t@ntuchealth.sg",
+        "phone": [
+          "62674197"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Nov 2021"
+    },
+    {
       "id": "101409",
       "category": "Electrical Home Appliances",
       "name": "Television (TV)",
@@ -1069,6 +1086,40 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "25 Oct 2021"
+    },
+    {
+      "id": "101419",
+      "category": "Infant and Children Items",
+      "name": "XL Diapers (Pants)",
+      "description": "A young mother of 2 requires XL diapers for her 3-year-old son. She has recently started working and is currently adjusting her finances. She requires at least 2-3 packs of XL diapers as she is also working on toilet training the child. Assistance for this XL diapers will go a long in alleviating her mental and financial stressors.",
+      "specifications": "XL Diapers, Pants, any brand",
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Khairunisa Rusli",
+        "email": "khairunisa.rusli@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Nov 2021"
+    },
+    {
+      "id": "101418",
+      "category": "Infant and Children Items",
+      "name": "S-26 Stage 2",
+      "description": "A family with 7 young children requires S-26 Stage 2 for the youngest baby. Family is dependent on financial assistance and a sole income earner. The family requires at least 4 tins of S-26 Stage 2 to ease their financial stressors. Family had tried other brands but baby was not positively receptive to other brands. Any amount of tins will be helpful!",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Khairunisa Rusli",
+        "email": "khairunisa.rusli@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Nov 2021"
     },
     {
       "id": "101415",
@@ -3236,6 +3287,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "101422",
+      "name": "Stainless Steel Commode",
+      "description": "Used less than 3 times.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "05 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101420",
+      "name": "Electric Hospital Bed",
+      "description": "Fully electric hospital bed which comes with an air mattress",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "05 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101416",
       "name": "Cutlery, Crockery",
