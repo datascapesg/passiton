@@ -140,16 +140,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "101422",
-    "name": "Stainless Steel Commode",
-    "description": "Used less than 3 times.",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "05 Dec 2021",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "101420",
     "name": "Electric Hospital Bed",
     "description": "Fully electric hospital bed which comes with an air mattress",
@@ -287,16 +277,6 @@
     "validTill": "30 Nov 2021",
     "ageInYears": 2,
     "dimensions": "90cm X 200cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "101377",
-    "name": "Mistral rice cooker",
-    "description": "Mistral rice cooker,  rarely used. Up to 4 cups capacity",
-    "location": "Little India",
-    "validTill": "15 Dec 2021",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -727,16 +707,6 @@
     "validTill": "17 Dec 2021",
     "ageInYears": 2,
     "dimensions": "216cm x 88 x 6cm (Bed)",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "101221",
-    "name": "Hipvan sofa bed (single)",
-    "description": "Preloved sofa bed. Space saver as a single mattress bed that folds easily into a sofa. Used it for my confinement nanny bin the study room.",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "01 Dec 2021",
-    "ageInYears": 2,
-    "dimensions": "Overall: (Sofa): W76 D74.5 H73 cm Overall: (Sofa bed): W76 D205 H13.5 cm  Seat height 28 cm  Bed mattress height: 13.5 cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1533,6 +1503,16 @@
     "id": "100664",
     "name": "Baby Guard",
     "description": "Baby Guard suitable for baby start learning to roll and turn, for parents to place a baby guard beside their mattress.",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "04 Dec 2021",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "100663",
+    "name": "Baby Clothings from 0 years old to 4 years old",
+    "description": "Baby clothings suitable for infant age 0 years old to toddler age 4 years old. Bibs are also available.",
     "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
     "validTill": "04 Dec 2021",
     "ageInYears": 1,
