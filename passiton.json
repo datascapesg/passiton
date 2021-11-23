@@ -106,6 +106,59 @@
       "date": "02 Nov 2021"
     },
     {
+      "id": "101476",
+      "category": "Electrical Home Appliances",
+      "name": "Refridgerator",
+      "description": "Middle-aged lady who is unable to work due to her mental health. Currently stays in a rental flat with another occupier. Fridge has spoilt and the duo are unable to get another on their own due to the cost",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Goh Guan Qun",
+        "email": "guanqun@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Nov 2021"
+    },
+    {
+      "id": "101474",
+      "category": "Electrical Home Appliances",
+      "name": "Hot water dispenser",
+      "description": "Client is a 60 year old man, caring for his wife who is currently receiving treatment for cancer. Client is a freelance worker and is currently unable to secure projects due to his caregiver role. The couple recently moved into a new flat and would require some furniture to improve their quality of living.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Telok Blangah",
+        "name": "Chen Jie Mei",
+        "email": "jiemei.chen@montfortcare.org.sg",
+        "phone": [
+          "62746904",
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Nov 2021"
+    },
+    {
+      "id": "101473",
+      "category": "Electrical Home Appliances",
+      "name": "Small fridge",
+      "description": "Client is a 60 year old man, caring for his wife who is currently receiving treatment for cancer. Client is a freelance worker and is currently unable to secure projects due to his caregiver role. The couple recently moved into a new flat and would require some furniture to improve their quality of living.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Telok Blangah",
+        "name": "Chen Jie Mei",
+        "email": "jiemei.chen@montfortcare.org.sg",
+        "phone": [
+          "62746904",
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Nov 2021"
+    },
+    {
       "id": "101454",
       "category": "Electrical Home Appliances",
       "name": "Washing machine",
@@ -3287,6 +3340,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "101475",
+      "name": "Baby cot & mattress",
+      "description": "Baby cot with mattress",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "01 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101464",
       "name": "Cornell Slow cooker",
