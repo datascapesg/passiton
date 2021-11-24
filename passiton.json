@@ -194,24 +194,6 @@
       "date": "23 Nov 2021"
     },
     {
-      "id": "101473",
-      "category": "Electrical Home Appliances",
-      "name": "Small fridge",
-      "description": "Client is a 60 year old man, caring for his wife who is currently receiving treatment for cancer. Client is a freelance worker and is currently unable to secure projects due to his caregiver role. The couple recently moved into a new flat and would require some furniture to improve their quality of living.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - GoodLife! @ Telok Blangah",
-        "name": "Chen Jie Mei",
-        "email": "jiemei.chen@montfortcare.org.sg",
-        "phone": [
-          "62746904",
-          "62708327"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Nov 2021"
-    },
-    {
       "id": "101434",
       "category": "Electrical Home Appliances",
       "name": "Television",
@@ -558,6 +540,23 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "30 Oct 2021"
+    },
+    {
+      "id": "101520",
+      "category": "Others",
+      "name": "sewing machine",
+      "description": "Client is an elderly low income worker while husband is a stroke patient. Client is hoping to be blessed by a sewing machine so that she can sew her own clothes.",
+      "specifications": null,
+      "contact": {
+        "org": "Serangoon Moral Family Service Centre",
+        "name": "Muhammad Al-Hakim",
+        "email": "hakim@smfsc.org.sg",
+        "phone": [
+          "62847123"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Nov 2021"
     },
     {
       "id": "101516",
@@ -1003,6 +1002,40 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "25 Oct 2021"
+    },
+    {
+      "id": "101522",
+      "category": "Infant and Children Items",
+      "name": "Drypers XXL (pants)",
+      "description": "\"Client just moved into her rental unit with her 4 young children and husband. Her children age 1.5, 2, 4 and 7. She is unemployed as she needs to provide care for her younger 3 children while her husband does grab driving with their rented car. With the current earnings, they do not have sufficient and requires donations for children's diapers.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Nov 2021"
+    },
+    {
+      "id": "101521",
+      "category": "Infant and Children Items",
+      "name": "Drypers XL (pants)",
+      "description": "\"Client just moved into her rental unit with her 4 young children and husband. Her children age 1.5, 2, 4 and 7. She is unemployed as she needs to provide care for her younger 3 children while her husband does grab driving with their rented car. With the current earnings, they do not have sufficient and requires donations for children's diapers.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Nov 2021"
     },
     {
       "id": "101513",
@@ -3502,6 +3535,26 @@
   ],
   "offers": [
     {
+      "id": "101519",
+      "name": "Baby carrier",
+      "description": "Four position 360 baby carrier",
+      "location": "Jurong",
+      "validTill": "24 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": "15cm x 35cm x 15cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101518",
+      "name": "Mattress",
+      "description": "Two mattresses available, same size. Can be stacked on top of each other for a thicker mattress.\nSeahorse brand (Everlasting Mattress).\nItem age around 8 years, but in good condition. Received regular cleaning.",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "24 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "192 x 93 x 10 cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "101517",
       "name": "Baby rocker",
       "description": "Has some stains but in working condition.",
@@ -3822,16 +3875,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "101378",
-      "name": "Hovag ikea Mattress (single size)",
-      "description": "I had made a posting previously for 2 mattresses but should have separated it. This is Hovag, a pocket sprung mattress. Used VERY lightly only for guests who flew in from Malaysia. I’ve highlighted some small stains but in great condition. \n\nWill arrange for lalamove.",
-      "location": null,
-      "validTill": "30 Nov 2021",
-      "ageInYears": 2,
-      "dimensions": "90cm X 200cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "101375",
       "name": "Four Star 3 1/2' bed with mattresses",
       "description": "bed is available on 1 Dec and not earlier. still using it.",
@@ -3948,16 +3991,6 @@
       "location": "Loyang, Changi",
       "validTill": "10 Dec 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101342",
-      "name": "Single bed",
-      "description": "Single mattress (soft)\nVery soft bed, firmness:5/10",
-      "location": "Jurong",
-      "validTill": "20 Dec 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4179,16 +4212,6 @@
       "validTill": "01 Dec 2021",
       "ageInYears": 4,
       "dimensions": "50x50x50",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101255",
-      "name": "Day bed with single mattress",
-      "description": "It’s a day bed with single mattress with drawers",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "05 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
