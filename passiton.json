@@ -3058,10 +3058,10 @@
       "date": "25 Oct 2021"
     },
     {
-      "id": "101531",
+      "id": "101536",
       "category": "Kitchen Utility Items",
       "name": "cake mixer",
-      "description": "Client is an elderly low income worker while husband is a stroke patient. Client is hoping to be blessed by a sewing machine so that she can sew her own clothes.",
+      "description": "Client is an elderly low income worker while husband is a stroke patient. Client is hoping to be blessed by a cake mixer as she is looking into venturing at home based business to sell cakes to earn extra income.",
       "specifications": null,
       "contact": {
         "org": "Serangoon Moral Family Service Centre",
@@ -3071,7 +3071,7 @@
           "62847123"
         ]
       },
-      "deliveryCostsCoveredByDonor": true,
+      "deliveryCostsCoveredByDonor": false,
       "date": "24 Nov 2021"
     },
     {
@@ -3515,23 +3515,6 @@
       "date": "23 Nov 2021"
     },
     {
-      "id": "101486",
-      "category": "Home Furnishing",
-      "name": "Wardrobe (For A Family Of 4)",
-      "description": "Client is the caregiver of 3 young children. \nThe family is on financial assistance as her husband is serving his sentence and there is no income-earner to provide for the family needs. \nThis has affected the family's source of stable income. \nThe family resides in a rental flat, whereby finances are only sufficient for day-to-day necessities. \nAs such, she is unable to afford the purchase of such big items and would be willing to receive a wardrobe.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "amychua@mws.sg",
-        "phone": [
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Nov 2021"
-    },
-    {
       "id": "101417",
       "category": "Home Furnishing",
       "name": "Kitchen cabinet",
@@ -3637,6 +3620,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "101537",
+      "name": "5 pcs of napkin clip/bib chain",
+      "description": "For clipping napkins to be used as a bib for feeding elderly \n\nLength: 65cm, can be adjustable\nMaterial made of polyester & plastic\n\nCan be used for dental clinic, home dining, drawing studio or etc.\n\nSelf-collection at home address.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "24 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101535",
       "name": "Wardrobe",
