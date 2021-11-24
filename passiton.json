@@ -560,6 +560,23 @@
       "date": "30 Oct 2021"
     },
     {
+      "id": "101516",
+      "category": "Others",
+      "name": "Milk Powder",
+      "description": "Single mother of 2 young children requires short-term milk powder support (lactogen 2&3). The mother is currently not working due to caregiving of her children and has lack of family support.",
+      "specifications": "-",
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Ye Jiancheng",
+        "email": "jiancheng@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "24 Nov 2021"
+    },
+    {
       "id": "101442",
       "category": "Others",
       "name": "Size L Adult Diapers (Pants)",
@@ -3485,6 +3502,26 @@
   ],
   "offers": [
     {
+      "id": "101517",
+      "name": "Baby rocker",
+      "description": "Has some stains but in working condition.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "15 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101515",
+      "name": "Stroller for 12 months up",
+      "description": "Graco Stroller in good working condition, sturdy. and stable. Will need to be cleaned by recipient before use as it has been in storage for a while.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "15 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "101508",
       "name": "Oxford Cot / bed",
       "description": "Can be used for children up to 1.2 m. The sliding barrier mechanism is damaged. But bed is big enough and chances of child rolling off is small.",
@@ -4422,16 +4459,6 @@
       "validTill": "30 Nov 2021",
       "ageInYears": 4,
       "dimensions": "123 cm length - 65 cm width",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101060",
-      "name": "Diapers",
-      "description": "Buying direct from Shopee. Please note sizing runs small (manufacturer’s design), hence suitable if baby is 7kg and below, in my opinion.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "14 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
