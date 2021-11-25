@@ -105,6 +105,23 @@
     "date": "02 Nov 2021"
   },
   {
+    "id": "101601",
+    "category": "Electrical Home Appliances",
+    "name": "SMART TV",
+    "description": "Client is a household of 6 family members. \nThe sole-income earner takes on a low pay and the family is dependable on SSO Comcare financial assistance. \nThe main caregiver is facing health issues and is unable to support the family's financial situation apart from the caregiving of the children. \nHaving to struggle with basic needs, the family do not have additional finances to afford the purchase of a television.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Amy Chua",
+      "email": "amychua@mws.sg",
+      "phone": [
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Nov 2021"
+  },
+  {
     "id": "101585",
     "category": "Electrical Home Appliances",
     "name": "Washing Machine",
@@ -208,23 +225,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "24 Nov 2021"
-  },
-  {
-    "id": "101476",
-    "category": "Electrical Home Appliances",
-    "name": "Refridgerator",
-    "description": "Middle-aged lady who is unable to work due to her mental health. Currently stays in a rental flat with another occupier. Fridge has spoilt and the duo are unable to get another on their own due to the cost",
-    "specifications": null,
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Goh Guan Qun",
-      "email": "guanqun@sccfsc.org.sg",
-      "phone": [
-        "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "23 Nov 2021"
   },
   {
     "id": "101434",
@@ -999,6 +999,24 @@
     },
     "deliveryCostsCoveredByDonor": false,
     "date": "25 Oct 2021"
+  },
+  {
+    "id": "101605",
+    "category": "Infant and Children Items",
+    "name": "Nestle N4 medium",
+    "description": "Nuclear family with 2 children (7y/o & 3y/o). However, maternal grandma is assisting with the caregiving of the 3y/o as parents are currently working on increasing their stability through new employment. They are facing financial stressors due to high expenditure on children's basic needs and would appreciate support in receiving milk powder. (4 cans)",
+    "specifications": null,
+    "contact": {
+      "org": "HEART @ Fei Yue",
+      "name": "Sean Ashwin NJ",
+      "email": "seanashwin@fycs.org",
+      "phone": [
+        "68199170ext123",
+        "68199170"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Nov 2021"
   },
   {
     "id": "101599",
@@ -3323,24 +3341,6 @@
     "date": "24 Nov 2021"
   },
   {
-    "id": "101495",
-    "category": "Kitchen Utility Items",
-    "name": "Portable stove",
-    "description": "Family is of single income with a father who is facing long working hours to provide for a family of 8, all below the age of 12.",
-    "specifications": null,
-    "contact": {
-      "org": "HEART @ Fei Yue",
-      "name": "Sean Ashwin NJ",
-      "email": "seanashwin@fycs.org",
-      "phone": [
-        "68199170ext123",
-        "68199170"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "23 Nov 2021"
-  },
-  {
     "id": "100673",
     "category": "Kitchen Utility Items",
     "name": "Enfamil Pro A+ Stage 1 900g or 1.8kg",
@@ -3356,6 +3356,41 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "05 Nov 2021"
+  },
+  {
+    "id": "101606",
+    "category": "Medical Aids",
+    "name": "TENA Pants (Adult diapers) Size XL",
+    "description": "Client is a 62 year old who is the caregiver for 2 family members(wife and daughter) who requires assistance with their activities of daily living(ADL). Client is unable to work due to the caregiving demands. Both wife and daughter are wheelchair bound. Client's wife suffers multiple chronic illness and client's daughter suffers from cerebral palsy. Client's wife is depending on adult diapers due to her weak bladder and weak mobility. Client also has health issues and had to seek medical intervention for himself.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Jurong",
+      "name": "Nathan Hou",
+      "email": "nathanhou@thkmc.org.sg",
+      "phone": [
+        "88554795",
+        "67169466"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Nov 2021"
+  },
+  {
+    "id": "101604",
+    "category": "Medical Aids",
+    "name": "Blood Pressure Monitor",
+    "description": "From Low income family. Aunt caring for nephew (7) and   wheelchair bound spouse seeking for blood pressure monitor to be medically compliant. May have stroke if left unmonitored.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Cheng San",
+      "name": "Nadiah Binte Shafiee",
+      "email": "nadiah@amkfsc.org.sg",
+      "phone": [
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Nov 2021"
   },
   {
     "id": "101588",
@@ -3479,6 +3514,40 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "08 Nov 2021"
+  },
+  {
+    "id": "101607",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Low income family/Single mother of 2 requires a working laptop to support intervention to support child's education and use for single mother's home based business.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Cheng San",
+      "name": "Nadiah Binte Shafiee",
+      "email": "nadiah@amkfsc.org.sg",
+      "phone": [
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Nov 2021"
+  },
+  {
+    "id": "101602",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Client is a household of 6 family members. \nThe sole-income earner takes on a low pay and the family is dependable on SSO Comcare financial assistance. \nThe main caregiver is facing health issues and is unable to support the family's financial situation apart from the caregiving of the children. \nHaving to struggle with basic needs, the family do not have additional finances to afford the purchase of a laptop.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Amy Chua",
+      "email": "amychua@mws.sg",
+      "phone": [
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Nov 2021"
   },
   {
     "id": "101546",
@@ -3727,17 +3796,36 @@
     "date": "12 Nov 2021"
   },
   {
-    "id": "101594",
+    "id": "101603",
     "category": "Home Furnishing",
-    "name": "Single-size mattress and bed frame",
-    "description": "Family of 3 is requesting for a new bed for client (mother, wheelchair user, multiple medical conditions, unemployed), as her current bed has been infested with bed bugs and caused skin rash for client. Husband is a low wage earner and daughter is still schooling.",
+    "name": "Mattress & Mattress cover",
+    "description": "Female teen living in a hoarded home & has been sleeping on a wooden plank. Family is currently working on the home environment and would appreciate a mattress so that the girl can sleep comfortably",
     "specifications": null,
     "contact": {
-      "org": "Montfort Care - Kreta Ayer Family Services",
-      "name": "Simranjit Kaur",
-      "email": "simranjit.kaur@montfortcare.org.sg",
+      "org": "HEART @ Fei Yue",
+      "name": "Sean Ashwin NJ",
+      "email": "seanashwin@fycs.org",
       "phone": [
-        "63254753"
+        "68199170ext123",
+        "68199170"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Nov 2021"
+  },
+  {
+    "id": "101600",
+    "category": "Home Furnishing",
+    "name": "Sofa bed x2",
+    "description": "Client is a 60 year old man, caring for his wife who is currently receiving treatment for cancer. Client is a freelance worker and is currently unable to secure projects due to his caregiver role.\n\nDue to their chronic asthma, client would prefer to have a new sofa bed. \n\nTo call or leave a message for Jiemei @ 81266854",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - GoodLife! @ Telok Blangah",
+      "name": "Chen Jie Mei",
+      "email": "jiemei.chen@montfortcare.org.sg",
+      "phone": [
+        "62746904",
+        "62708327"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -3790,24 +3878,6 @@
       "phone": [
         "64535349",
         "64578559"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Nov 2021"
-  },
-  {
-    "id": "101530",
-    "category": "Home Furnishing",
-    "name": "Queen Sized Bed",
-    "description": "Elderly couple living on their own, in a 3 room flat pending upgrading works from HDB. They do not have children and rely on their savings. The Husband is recovering from a fall, and the current bed does not provide adequate back support for the couple. The had been using the same bed for decades and it is also too low for them, and they would benefit from the bed frame and new mattress.",
-    "specifications": null,
-    "contact": {
-      "org": "SingHealth (CGH) – Community Care",
-      "name": "Marhamah Binte Mohamed Ali",
-      "email": "marhamah.mohamed.ali@singhealth.com.sg",
-      "phone": [
-        "64267519",
-        "64268053"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
