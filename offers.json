@@ -1,5 +1,25 @@
 [
   {
+    "id": "101584",
+    "name": "Hospital bed",
+    "description": "Electrical 3 Crank hospital bed, luxury version with angle indicator.",
+    "location": "Geylang, Eunos",
+    "validTill": "25 Dec 2021",
+    "ageInYears": 3,
+    "dimensions": "84/43/21 inch",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "101580",
+    "name": "Wooden High Chair for Toodlers",
+    "description": "Wooden High Chair with safety buckle. Used. Condition is 8/10.",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "15 Dec 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "101573",
     "name": "Baby cot with mattress",
     "description": "Used for abt 6-7 years but not heavily used as baby didn’t like to sleep in the cot. Cot still in good condition. Comes with a Sealy mattress. Will also provide mattress protector and bumper. Everything in good condition and clean.",
@@ -257,6 +277,16 @@
     "validTill": "24 Dec 2021",
     "ageInYears": 1,
     "dimensions": "15cm x 35cm x 15cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "101582",
+    "name": "Mattress",
+    "description": "Two mattresses available, same size. Can be stacked on top of each other for a thicker mattress.\nSeahorse brand (Everlasting Mattress).\nItem age around 8 years, but in good condition. Received regular cleaning.",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "24 Dec 2021",
+    "ageInYears": 4,
+    "dimensions": "192 x 93 x 10 cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -666,6 +696,16 @@
     "location": "Loyang, Changi",
     "validTill": "10 Dec 2021",
     "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "101583",
+    "name": "Single bed",
+    "description": "Single mattress (soft)\nVery soft bed, firmness:5/10",
+    "location": "Jurong",
+    "validTill": "20 Dec 2021",
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },

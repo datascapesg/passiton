@@ -106,6 +106,24 @@
       "date": "02 Nov 2021"
     },
     {
+      "id": "101581",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is a single mother with two school going daughters. Due to her limited income, she could not purchase a new washing machine and has resorted to hand-washing the family’s clothing. \nIt had been a struggle for her and she hopes to receive a washing machine so that it can help to ease her from the vigorous washing routine at home.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Nathan Hou",
+        "email": "nathanhou@thkmc.org.sg",
+        "phone": [
+          "88554795",
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Nov 2021"
+    },
+    {
       "id": "101572",
       "category": "Electrical Home Appliances",
       "name": "Standing Fan",
@@ -504,6 +522,23 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "30 Oct 2021"
+    },
+    {
+      "id": "101579",
+      "category": "Others",
+      "name": "Mobile phone",
+      "description": "Mdm Teo is an elderly client known to Thye Hua Kwan Moral Charities (THKMC). She is single and has multiple comorbidities. She has not been working for more than 30 years and has limited savings.   \n  \nTHKMC is looking for an affordable smartphone to keep Mdm Teo occupied and for convenience of communication.   \n   \nIf you know of someone who has the items for donation, please contact Social Worker Emily at 9724 5522.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Cluster Support @ Ang Mo Kio",
+        "name": "Emily Koh",
+        "email": "emily.koh@thkmc.org.sg",
+        "phone": [
+          "65564833"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Nov 2021"
     },
     {
       "id": "101551",
@@ -3165,6 +3200,23 @@
       "date": "05 Nov 2021"
     },
     {
+      "id": "101578",
+      "category": "Medical Aids",
+      "name": "Pull-up diaper pants",
+      "description": "Mr.Subramanrian is an elderly client known to Thye Hua Kwan Moral Charities (THKMC). He suffered from a stroke in 2019 and is moderately dependent on his spouse for the activities of daily living. This elderly couple has exhausted most of their savings, and their children are financially tight-up due to family commitments.   \n  \nTHKMC is looking for pull-up diapers (Any brand) to replenish Mr.Subramanrian’s existing supplies for three months as the diapers will be used up soon.   \n   \nIf you know of someone who has the items for donation, please contact Social Worker Emily at 9724 5522. We would appreciate it if the donor could deliver the item to the client’s home directly at Blk 254 Ang Mo Kio Ave 4.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Cluster Support @ Ang Mo Kio",
+        "name": "Emily Koh",
+        "email": "emily.koh@thkmc.org.sg",
+        "phone": [
+          "65564833"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Nov 2021"
+    },
+    {
       "id": "101472",
       "category": "Medical Aids",
       "name": "Abbott Ensure Plus Strawberry",
@@ -3710,6 +3762,26 @@
   ],
   "offers": [
     {
+      "id": "101584",
+      "name": "Hospital bed",
+      "description": "Electrical 3 Crank hospital bed, luxury version with angle indicator.",
+      "location": "Geylang, Eunos",
+      "validTill": "25 Dec 2021",
+      "ageInYears": 3,
+      "dimensions": "84/43/21 inch",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101580",
+      "name": "Wooden High Chair for Toodlers",
+      "description": "Wooden High Chair with safety buckle. Used. Condition is 8/10.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "15 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "101573",
       "name": "Baby cot with mattress",
       "description": "Used for abt 6-7 years but not heavily used as baby didn’t like to sleep in the cot. Cot still in good condition. Comes with a Sealy mattress. Will also provide mattress protector and bumper. Everything in good condition and clean.",
@@ -3967,6 +4039,16 @@
       "validTill": "24 Dec 2021",
       "ageInYears": 1,
       "dimensions": "15cm x 35cm x 15cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101582",
+      "name": "Mattress",
+      "description": "Two mattresses available, same size. Can be stacked on top of each other for a thicker mattress.\nSeahorse brand (Everlasting Mattress).\nItem age around 8 years, but in good condition. Received regular cleaning.",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "24 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "192 x 93 x 10 cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -4376,6 +4458,16 @@
       "location": "Loyang, Changi",
       "validTill": "10 Dec 2021",
       "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101583",
+      "name": "Single bed",
+      "description": "Single mattress (soft)\nVery soft bed, firmness:5/10",
+      "location": "Jurong",
+      "validTill": "20 Dec 2021",
+      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
