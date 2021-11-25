@@ -3994,6 +3994,16 @@
   ],
   "offers": [
     {
+      "id": "101622",
+      "name": "Baby cot",
+      "description": "In good condition.",
+      "location": "Jurong",
+      "validTill": "25 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "101620",
       "name": "Sofa Bed",
       "description": "Sofa bed with cover",
@@ -4920,16 +4930,6 @@
       "location": "Tampines, Pasir Ris",
       "validTill": "15 Dec 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101577",
-      "name": "A set of 3 corningware",
-      "description": "700ml each.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "16 Dec 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
