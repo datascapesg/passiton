@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "101533",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "Requesting on behalf of a 60 years old lady who has multiple physical concerns and just underwent a kidney surgery. Her existing wheelchair is spoilt and she requires an urgent replacement. Do contact me if you would like to donate to this need. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Jasmine Leong",
-        "email": "jasmine@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Nov 2021"
-    },
-    {
       "id": "101285",
       "category": "Mobility Aids",
       "name": "Electric wheelchair",
@@ -121,6 +104,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "02 Nov 2021"
+    },
+    {
+      "id": "101572",
+      "category": "Electrical Home Appliances",
+      "name": "Standing Fan",
+      "description": "Client lives in a 2-room rental HDB flat with her husband and 4 school going children and her father who is advanced in age and has health issues. Client is unemployed as she has to care for her two youngest children age 4 and 3 and they have learning difficulties. Client's husband is working and earns $1200 which is not enough to feed a family of 7 especially with client's father who have multiple chronic illness. Client requested for a standing fan as her fan has broken down",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Dini Dzulaikha Bte Dzulkifli",
+        "email": null,
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "25 Nov 2021"
+    },
+    {
+      "id": "101571",
+      "category": "Electrical Home Appliances",
+      "name": "Vacuum cleaner",
+      "description": "Client lives in a 2-room rental HDB flat with her husband and 4 school going children and her father who is advanced in age and has health issues. Client is unemployed as she has to care for her two youngest children age 4 and 3 and they have learning difficulties. Client's husband is working and earns $1200 which is not enough to feed a family of 7 especially with client's father who have multiple chronic illness. Client requested for a vacuum cleaner as she does not have one at the moment.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Dini Dzulaikha Bte Dzulkifli",
+        "email": null,
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "25 Nov 2021"
     },
     {
       "id": "101541",
@@ -966,6 +983,23 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "25 Oct 2021"
+    },
+    {
+      "id": "101574",
+      "category": "Infant and Children Items",
+      "name": "Stroller & Dumex 3",
+      "description": "3 yr old child (weight 18 kg) with recent diagnosis of ADHD and Autism requires Dumex 3 milk and Stroller which is meant for his trips to childcare centre. It is dangerous for his mother, who is pregnant to carry him while crossing the road. Boy is unable to listen to instructions and would dash across the road impulsively.",
+      "specifications": null,
+      "contact": {
+        "org": "Hougang Sheng Hong Family Service Centre",
+        "name": "Chow Yin Ying",
+        "email": "yinying@shenghong.org.sg",
+        "phone": [
+          "62895022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "25 Nov 2021"
     },
     {
       "id": "101549",
@@ -3462,6 +3496,40 @@
       "date": "12 Nov 2021"
     },
     {
+      "id": "101576",
+      "category": "Home Furnishing",
+      "name": "Dining table with 4 chairs",
+      "description": "The client is the main caregiving and breadwinner for her daughter and three nieces. The client struggles to make ends meet. The family's current dining table is in a bad shape (with one of the side legs having disintegrated) and they are unable to have family meals comfortably. client is looking for a rectangular one to push near the wall of their living room. If you wish to donate, kindly contact gohxinying@carecorner.org.sg",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Admiralty",
+        "name": "Juanna Sia",
+        "email": null,
+        "phone": [
+          "63658751"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Nov 2021"
+    },
+    {
+      "id": "101575",
+      "category": "Home Furnishing",
+      "name": "single sized bedframe",
+      "description": "The family would normally sleep on the floor with mattresses. However, due to backpain issues, there is one bedframe in the home that the family members routinely use. Unfortunately, the bedframe has broken down recently and they are unable to afford a new set. client is looking for a wooden bedframe without the headboard due to space constraint. Kindly contact gohxinying@carecorner.org.sg if you wish to donate.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Admiralty",
+        "name": "Juanna Sia",
+        "email": null,
+        "phone": [
+          "63658751"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Nov 2021"
+    },
+    {
       "id": "101539",
       "category": "Home Furnishing",
       "name": "Triple Decker bed",
@@ -3638,6 +3706,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "101573",
+      "name": "Baby cot with mattress",
+      "description": "Used for abt 6-7 years but not heavily used as baby didn’t like to sleep in the cot. Cot still in good condition. Comes with a Sealy mattress. Will also provide mattress protector and bumper. Everything in good condition and clean.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "15 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "L140 x B74 x  H120",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101570",
       "name": "Computer Table",
@@ -4205,16 +4283,6 @@
       "location": "Jurong",
       "validTill": "21 Dec 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101375",
-      "name": "Four Star 3 1/2' bed with mattresses",
-      "description": "bed is available on 1 Dec and not earlier. still using it.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "01 Dec 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
