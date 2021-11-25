@@ -270,16 +270,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "101518",
-    "name": "Mattress",
-    "description": "Two mattresses available, same size. Can be stacked on top of each other for a thicker mattress.\nSeahorse brand (Everlasting Mattress).\nItem age around 8 years, but in good condition. Received regular cleaning.",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "24 Dec 2021",
-    "ageInYears": 4,
-    "dimensions": "192 x 93 x 10 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "101517",
     "name": "Baby rocker",
     "description": "Has some stains but in working condition.",
@@ -956,6 +946,16 @@
     "location": "Tampines, Pasir Ris",
     "validTill": "15 Dec 2021",
     "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "101577",
+    "name": "A set of 3 corningware",
+    "description": "700ml each.",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "16 Dec 2021",
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
