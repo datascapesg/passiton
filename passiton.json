@@ -1023,23 +1023,6 @@
       "date": "26 Oct 2021"
     },
     {
-      "id": "100215",
-      "category": "Others",
-      "name": "Milk Powder (Similac Stage 3)",
-      "description": "Family of 7, couple with 5 children requires short-term milk powder support. Father is the sole breadwinner and has not been working for the past one week as he was feeling unwell after vaccination. He works as a grab food delivery staff which affect the family financial situation. Wife is not working as she need to take care of the children at home.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Ye Jiancheng",
-        "email": "jiancheng@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "25 Oct 2021"
-    },
-    {
       "id": "101621",
       "category": "Infant and Children Items",
       "name": "Milk Powder Dumex Dupro Stage 3",
@@ -3328,23 +3311,6 @@
       "date": "26 Oct 2021"
     },
     {
-      "id": "100219",
-      "category": "Infant and Children Items",
-      "name": "Dumex Mamilgold Stage 3",
-      "description": "Family has 3 young children at home, with mother caring for youngest baby and not working. Father is working odd job and their assistance will only come in late November/early December.",
-      "specifications": "3 large tins",
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Koh Tai Sheng",
-        "email": "taisheng@amkfsc.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Oct 2021"
-    },
-    {
       "id": "101536",
       "category": "Kitchen Utility Items",
       "name": "cake mixer",
@@ -3976,6 +3942,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "101623",
+      "name": "Children's Bed Frames - 2",
+      "description": "SNIGLAR bedframe with slatted base from ikea - 2 pieces. Used kids' mattress(es) still available if needed.",
+      "location": "Seletar",
+      "validTill": "28 Nov 2021",
+      "ageInYears": 3,
+      "dimensions": "160cm by 70cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101622",
       "name": "Baby cot",
@@ -5802,16 +5778,6 @@
       "description": "Bathtub with stand. Used but in good condition",
       "location": "Katong, Joo Chiat, Amber Road",
       "validTill": "28 Nov 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100324",
-      "name": "Drinking cup",
-      "description": "4 Coca Cola tall glass\n4 green drinking cups",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "26 Nov 2021",
       "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
