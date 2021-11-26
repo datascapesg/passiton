@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "101644",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "Client is a single mother of three young children, recently started caring for her elderly grandmother with dementia and other health issues. Wheelchair is for the grandmother. Client is unable to work due to high caregiving responsibilities.",
-      "specifications": null,
-      "contact": {
-        "org": "Whispering Hearts Family Service Centre",
-        "name": "Zaynab Binte Abdul Hamid",
-        "email": "zaynab@viriya.org.sg",
-        "phone": [
-          "67951008"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Nov 2021"
-    },
-    {
       "id": "101285",
       "category": "Mobility Aids",
       "name": "Electric wheelchair",
@@ -3990,6 +3973,16 @@
   ],
   "offers": [
     {
+      "id": "101649",
+      "name": "2 pcs of Good Condition Preowned Study Table",
+      "description": "2 pieces of good condition study table (few scratches) to bless students in need.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "26 Dec 2021",
+      "ageInYears": 2,
+      "dimensions": "75cm x 50cm x 73cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "101647",
       "name": "Study Table",
       "description": "Good Wood study table. Have bumps on the table but can put lamination sticker to cover it up.",
@@ -4597,16 +4590,6 @@
       "validTill": "01 Dec 2021",
       "ageInYears": 2,
       "dimensions": "standard",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101383",
-      "name": "Valens Thixer",
-      "description": "4 cans",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "21 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": "Na",
       "deliveryCostsCoveredByDonor": true
     },
     {
