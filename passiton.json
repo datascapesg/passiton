@@ -140,23 +140,6 @@
       "date": "26 Nov 2021"
     },
     {
-      "id": "101639",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Family of 5 with 3 young children; ages 5, 3 and 1. Father is the sole breadwinner but just lost his job due to an unfortunate circumstance. Mother reported that she does not have a washing machine and cannot afford to buy one.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Koh Tai Sheng",
-        "email": "taisheng@amkfsc.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "26 Nov 2021"
-    },
-    {
       "id": "101637",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -3972,6 +3955,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "101651",
+      "name": "PowerPac Electric Oven",
+      "description": "Electric Oven",
+      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
+      "validTill": "26 Dec 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101650",
       "name": "King sized bed and king sized mattress",
