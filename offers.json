@@ -1,5 +1,15 @@
 [
   {
+    "id": "101728",
+    "name": "Hospital bed, commode chair",
+    "description": "Hospital bed and commode chair",
+    "location": "Jurong",
+    "validTill": "15 Dec 2021",
+    "ageInYears": 1,
+    "dimensions": "220*50*70 cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "101710",
     "name": "Sliding wardrobe",
     "description": "Sliding wardrobe - 2 pcs . \nHeavy , but made of compressed wood and 2 drawers. 6 yrs old",
@@ -187,16 +197,6 @@
     "validTill": "08 Dec 2021",
     "ageInYears": 3,
     "dimensions": "Per photos",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "101671",
-    "name": "Wardrobe /Cupboard",
-    "description": "In good condition, just needs to be wiped",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "08 Dec 2021",
-    "ageInYears": 4,
-    "dimensions": "118x 60x 193cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1497,16 +1497,6 @@
     "validTill": "10 Dec 2021",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "100941",
-    "name": "Study table",
-    "description": "Despite the aging furniture, the overall condition is still good.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "10 Dec 2021",
-    "ageInYears": 4,
-    "dimensions": "178cm x 50cm x 45cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
