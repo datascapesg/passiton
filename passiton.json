@@ -1585,23 +1585,6 @@
       "date": "15 Nov 2021"
     },
     {
-      "id": "101111",
-      "category": "Infant and Children Items",
-      "name": "diapers",
-      "description": "Family has two young children (aged 3 and 7 months old) who requires diapers. Client currently experience financial stressors to manage the family's basic needs due to the covid-19 situation. The diapers would be helpful for the family to tide through this period. \n\nDiapers used: \nDrypers drypants Size XL",
-      "specifications": null,
-      "contact": {
-        "org": "The SBL Vision Family Service Centre",
-        "name": "Goh Ping Kiat",
-        "email": "pingkiat@sblvisionfsc.org.sg",
-        "phone": [
-          "65442263"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Nov 2021"
-    },
-    {
       "id": "101090",
       "category": "Infant and Children Items",
       "name": "XL (pull up) diapers",
@@ -1771,24 +1754,6 @@
         "phone": [
           "88554795",
           "67169466"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Nov 2021"
-    },
-    {
-      "id": "100903",
-      "category": "Infant and Children Items",
-      "name": "Abbott Grow Milk Powder (6 years onwards), 1 tin",
-      "description": "Family of 6 with 2 very young children. Father is working but takes home low income and mother is unable to work due to care of the young children. Family is looking for support for milk powder.",
-      "specifications": "1 tin",
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Gan Chai",
-        "email": "ganchai@fycs.org",
-        "phone": [
-          "97406761",
-          "68199170"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2216,24 +2181,6 @@
       "name": "Nestle Lactogen 3",
       "description": "Family of 5 with 2 schooling children and 1 baby. Father on dialysis past 7 years, unable to earn much, resulting in debts. Mother trying to make ends meet. Having a milk powder supply would greatly alleviate the family's stress.",
       "specifications": "6 months supply",
-      "contact": {
-        "org": "REACH Family Service Centre",
-        "name": "Victor Yeo",
-        "email": "victor.yeo@reach.org.sg",
-        "phone": [
-          "68010710",
-          "62522566"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Nov 2021"
-    },
-    {
-      "id": "100548",
-      "category": "Infant and Children Items",
-      "name": "Drypers XL",
-      "description": "Family of 5 with 2 schooling children and 1 baby. Father on dialysis past 7 years, unable to earn much, resulting in debts. Mother trying to make ends meet. Having a diaper supply would greatly alleviate the family's stress.",
-      "specifications": null,
       "contact": {
         "org": "REACH Family Service Centre",
         "name": "Victor Yeo",
@@ -3150,6 +3097,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "101708",
+      "name": "Costa glass teapot, teacups",
+      "description": "New without box, 1 teapot with lid and base, 2 teacups",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "22 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101704",
       "name": "Solid wood wardrobe",
