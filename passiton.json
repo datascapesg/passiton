@@ -124,6 +124,42 @@
       "date": "02 Nov 2021"
     },
     {
+      "id": "101732",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Client is a single-mother with a newborn baby. She has recently moved into a rental flat and requires a washing machine. She has little support in Singapore, and unemployed due to caregiving.",
+      "specifications": null,
+      "contact": {
+        "org": "Kampong Kapor Community Services",
+        "name": "Ko Wei Lin",
+        "email": "koweilin@kkcs.org.sg",
+        "phone": [
+          "62942116ext202",
+          "62997662"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Nov 2021"
+    },
+    {
+      "id": "101731",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is a single-mother with a newborn baby. She has recently moved into a rental flat and requires a washing machine. She has little support in Singapore, and unemployed due to caregiving.",
+      "specifications": null,
+      "contact": {
+        "org": "Kampong Kapor Community Services",
+        "name": "Ko Wei Lin",
+        "email": "koweilin@kkcs.org.sg",
+        "phone": [
+          "62942116ext202",
+          "62997662"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Nov 2021"
+    },
+    {
       "id": "101722",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -3187,6 +3223,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "101733",
+      "name": "Single bed with 2 drawers",
+      "description": "Single bed with 2 drawers. Includes bed slats. \n\nVery good condition. Used by child.",
+      "location": "Jurong",
+      "validTill": "20 Dec 2021",
+      "ageInYears": 3,
+      "dimensions": "202x92x45cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101730",
       "name": "Dining table and chairs",
