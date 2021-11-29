@@ -106,6 +106,40 @@
       "date": "02 Nov 2021"
     },
     {
+      "id": "101700",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Single elderly, unemployed with health issues. Just moved in and requires a washing machine. Tampines area.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Ong Boon Cheng",
+        "email": "ongbooncheng@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Nov 2021"
+    },
+    {
+      "id": "101698",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Single elderly, unemployed with health issues. Just moved in and requires a fridge to store items. Tampines area.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Ong Boon Cheng",
+        "email": "ongbooncheng@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Nov 2021"
+    },
+    {
       "id": "101693",
       "category": "Electrical Home Appliances",
       "name": "Washing machine",
@@ -582,23 +616,6 @@
       "id": "101692",
       "category": "Infant and Children Items",
       "name": "milk powder- Dulac Stage4",
-      "description": "Client requests for diaper and milk powder as for her 3 youngest children (8 months, 2 and 3 years old). Client, her husband and 5 children are living in rental flat and have low salary. Husband is recently unemployed due to caregiving needs, thus have financial difficulty.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Nov 2021"
-    },
-    {
-      "id": "101691",
-      "category": "Infant and Children Items",
-      "name": "milk powder - Dulac Stage 3",
       "description": "Client requests for diaper and milk powder as for her 3 youngest children (8 months, 2 and 3 years old). Client, her husband and 5 children are living in rental flat and have low salary. Husband is recently unemployed due to caregiving needs, thus have financial difficulty.",
       "specifications": null,
       "contact": {
@@ -2214,6 +2231,23 @@
       "date": "29 Oct 2021"
     },
     {
+      "id": "101701",
+      "category": "Others",
+      "name": "Food Rations",
+      "description": "Single male in his mid-40s struggling to secure stable employment and housing due to multiple physical and mental health issues. He faces difficulties fulfilling 3 meals a day and would benefit from ready food rations.\n\nItem List:\nCanned Food\nBread/ Biscuits\nCup Noodles\nToilet Paper\nBasic Necessities (Shampoo, shower gel, toothpaste etc.)",
+      "specifications": "1 month supply",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Lyndon Mathews",
+        "email": "lyndonmathews@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Nov 2021"
+    },
+    {
       "id": "101520",
       "category": "Others",
       "name": "sewing machine",
@@ -3011,23 +3045,6 @@
       "date": "24 Nov 2021"
     },
     {
-      "id": "101527",
-      "category": "Home Furnishing",
-      "name": "Orthopedic Pillow",
-      "description": "Client is the sole breadwinner and caregiver of her family of 4, living with her parents with multiple chronic sicknesses and a brother with GDD. \nDue to the stress from the multiple roles she is playing, client experiences insomnia and posture problems, affecting her work.",
-      "specifications": "NIL",
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Lyndon Mathews",
-        "email": "lyndonmathews@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Nov 2021"
-    },
-    {
       "id": "101417",
       "category": "Home Furnishing",
       "name": "Kitchen cabinet",
@@ -3116,6 +3133,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "101699",
+      "name": "Toddler bed",
+      "description": "Execution mattress. Had it for 6 years hence there are some scratches and dent. Otherwise still functional as a toddler bed or day bed. Note that there is no bed rail for the front. Hence unsafe for infants.",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "10 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "138cm x 72cm x 102cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101688",
       "name": "Yamaha Clavinova CLP 440",
@@ -3294,16 +3321,6 @@
       "validTill": "08 Dec 2021",
       "ageInYears": 4,
       "dimensions": "118x 60x 193cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101669",
-      "name": "Mattress",
-      "description": "Deep cleaned",
-      "location": null,
-      "validTill": "06 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": "Queen Size",
       "deliveryCostsCoveredByDonor": true
     },
     {
