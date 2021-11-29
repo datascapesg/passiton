@@ -2231,6 +2231,24 @@
       "date": "29 Oct 2021"
     },
     {
+      "id": "101702",
+      "category": "Others",
+      "name": "Drypers Diapers Needed (XXL)",
+      "description": "Client is a single mother of 4 school-going children. Client requires diapers (Drypers size XXL) for her daughter, age 10, who has special needs. Client has difficulty being gainfully employed in view of her children's care needs, thus, the assistance would help to alleviate their existing financial strains.",
+      "specifications": "XXL, Drypers",
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Farahlina Tan",
+        "email": "farahlina_tan@awwa.org.sg",
+        "phone": [
+          "65119458",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Nov 2021"
+    },
+    {
       "id": "101701",
       "category": "Others",
       "name": "Food Rations",
@@ -3133,6 +3151,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "101704",
+      "name": "Solid wood wardrobe",
+      "description": "Solid wood wardrobe.",
+      "location": "Loyang, Changi",
+      "validTill": "10 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "80cm x 50cm x 180cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101703",
+      "name": "Cuckoo rice cooker",
+      "description": "This is a high-pressure rice cooker. Too large for my use and seldom used.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "29 Dec 2021",
+      "ageInYears": 2,
+      "dimensions": "37 x 26 x 26",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101699",
       "name": "Toddler bed",
