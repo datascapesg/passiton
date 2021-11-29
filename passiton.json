@@ -3063,23 +3063,6 @@
       "date": "12 Nov 2021"
     },
     {
-      "id": "101725",
-      "category": "Home Furnishing",
-      "name": "Rice Cooker",
-      "description": "An elderly requires a working rice cooker to help with her cooking. Her current rice cooker is faulty. She is unemployed due to chronic medical conditions.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Chavonne Tan",
-        "email": "ywctan@childrensociety.org.sg",
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Nov 2021"
-    },
-    {
       "id": "101697",
       "category": "Home Furnishing",
       "name": "Single mattress",
@@ -3204,6 +3187,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "101730",
+      "name": "Dining table and chairs",
+      "description": "Donating this because the item is too big for us.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "10 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "150cmx 90cm dining table with chairs",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101728",
       "name": "Hospital bed, commode chair",
