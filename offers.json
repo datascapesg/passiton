@@ -1,5 +1,25 @@
 [
   {
+    "id": "101751",
+    "name": "Scanteak Bookshelf",
+    "description": "Good Condition Shelf",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "30 Dec 2021",
+    "ageInYears": 4,
+    "dimensions": "100x33x200",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "101750",
+    "name": "Scanteak Table",
+    "description": "Very Good Condition table, drawers and all are still in working condition",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "30 Dec 2021",
+    "ageInYears": 4,
+    "dimensions": "105x62x75",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "101745",
     "name": "Brown Lazy Chair",
     "description": "Lazy chair",
@@ -16,16 +36,6 @@
     "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
     "validTill": "30 Dec 2021",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "101735",
-    "name": "Toilet Commode Chair",
-    "description": "A toilet Commode chair that can be used for wheelchair bound person",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "30 Dec 2021",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -827,6 +837,26 @@
     "validTill": "03 Dec 2021",
     "ageInYears": 4,
     "dimensions": "305cm x 100cm x 80cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "101753",
+    "name": "Stainless Steel Commode",
+    "description": "Used less than 3 times.",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "05 Dec 2021",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "101754",
+    "name": "Stainless Steel Commode",
+    "description": "Used less than 3 times.",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "05 Dec 2021",
+    "ageInYears": 1,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
