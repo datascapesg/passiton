@@ -230,16 +230,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "101673",
-    "name": "Dining Table",
-    "description": "Wooden dining table, still in good condition",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "08 Dec 2021",
-    "ageInYears": 4,
-    "dimensions": "180x90cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "101672",
     "name": "Solid wood sofa (2 single + 3 seater)",
     "description": "Solid wood framed sofa",
@@ -877,6 +867,16 @@
     "validTill": "22 Dec 2021",
     "ageInYears": 1,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "101739",
+    "name": "Wooden 2-Door Wardrobe",
+    "description": "Wooden 2-door wardrobe, in good condition",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "04 Dec 2021",
+    "ageInYears": 4,
+    "dimensions": "88.5cmx58.5cmx185cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1573,16 +1573,6 @@
     "id": "100736",
     "name": "Mahjong table",
     "description": "Mahjong table",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "01 Dec 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "100734",
-    "name": "King-size bed frame, mattress and bedside table",
-    "description": "King size bed, mattress and bedside table",
     "location": "Balestier, Toa Payoh, Serangoon",
     "validTill": "01 Dec 2021",
     "ageInYears": 4,

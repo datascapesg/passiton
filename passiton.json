@@ -124,6 +124,57 @@
       "date": "02 Nov 2021"
     },
     {
+      "id": "101743",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is unemployed and is dependent on the Social Service Office for assistance. Client is seeking for employment and has been to many job interviews but hasn’t been successful. As a few of her household appliances became faulty(refrigerator and washing machine), client finds it challenging to purchase new appliances due to her limited financial resources. At the same time, client’s handphone became faulty as well and thus she is unable to make phone calls, respond to messages or even search for jobs online.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "30 Nov 2021"
+    },
+    {
+      "id": "101742",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Client is unemployed and is dependent on the Social Service Office for assistance. Client is seeking for employment and has been to many job interviews but hasn’t been successful. As a few of her household appliances became faulty(refrigerator and washing machine), client finds it challenging to purchase new appliances due to her limited financial resources. At the same time, client’s handphone became faulty as well and thus she is unable to make phone calls, respond to messages or even search for jobs online.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "30 Nov 2021"
+    },
+    {
+      "id": "101740",
+      "category": "Electrical Home Appliances",
+      "name": "Vacuum Cleaner",
+      "description": "Family of 4 (parents with 2 young children) looking for a vacuum cleaner. Mother has back problem and finds it difficult to do household chores. Vacuum cleaner will help the mother and family is unable to afford to get a vacuum cleaner.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Ye Jiancheng",
+        "email": "jiancheng@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Nov 2021"
+    },
+    {
       "id": "101732",
       "category": "Electrical Home Appliances",
       "name": "Fridge",
@@ -2320,6 +2371,40 @@
       "date": "02 Nov 2021"
     },
     {
+      "id": "101744",
+      "category": "Others",
+      "name": "Handphone",
+      "description": "Client is unemployed and is dependent on the Social Service Office for assistance. Client is seeking for employment and has been to many job interviews but hasn’t been successful. As a few of her household appliances became faulty(refrigerator and washing machine), client finds it challenging to purchase new appliances due to her limited financial resources. At the same time, client’s handphone became faulty as well and thus she is unable to make phone calls, respond to messages or even search for jobs online.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "30 Nov 2021"
+    },
+    {
+      "id": "101741",
+      "category": "Others",
+      "name": "Dumex Step 1 Milk Powder and Merries Diaper (Size L)",
+      "description": "Family with a 6-months-old child, is facing financial constraint. The child will greatly benefit from the following items during this difficult period – 1) Dumex Step 1 Milk Powder and 2) Merries Diaper (Size L).",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Mabel Ng",
+        "email": "mabelng@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Nov 2021"
+    },
+    {
       "id": "101729",
       "category": "Others",
       "name": "Bicycle for food delivery job",
@@ -3454,16 +3539,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "101673",
-      "name": "Dining Table",
-      "description": "Wooden dining table, still in good condition",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "08 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": "180x90cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "101672",
       "name": "Solid wood sofa (2 single + 3 seater)",
       "description": "Solid wood framed sofa",
@@ -4101,6 +4176,16 @@
       "validTill": "22 Dec 2021",
       "ageInYears": 1,
       "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101739",
+      "name": "Wooden 2-Door Wardrobe",
+      "description": "Wooden 2-door wardrobe, in good condition",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "04 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "88.5cmx58.5cmx185cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -4797,16 +4882,6 @@
       "id": "100736",
       "name": "Mahjong table",
       "description": "Mahjong table",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "01 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100734",
-      "name": "King-size bed frame, mattress and bedside table",
-      "description": "King size bed, mattress and bedside table",
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "01 Dec 2021",
       "ageInYears": 4,
