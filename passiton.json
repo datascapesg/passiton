@@ -212,23 +212,6 @@
       "date": "30 Nov 2021"
     },
     {
-      "id": "101746",
-      "category": "Electrical Home Appliances",
-      "name": "Standing Fan",
-      "description": "Client is working as a cleaner and earns $1000 and has to care for her young son. Her husband is incarcerated thus, she has to take care all payments of bills herself. Client is under LTVP thus she does not have the subsidies that a citizen has. Client has chronic illnesses however, does not go to doctor as it is too expensive. Client has significant financial hardship. Client requested for a standing fan as her fan has broken down.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Dini Dzulaikha Bte Dzulkifli",
-        "email": null,
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "30 Nov 2021"
-    },
-    {
       "id": "101743",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -3449,6 +3432,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "101774",
+      "name": "Running Shoes",
+      "description": "Running shoes used less than 5 times.",
+      "location": "Jurong",
+      "validTill": "30 Dec 2021",
+      "ageInYears": 3,
+      "dimensions": "US Size 7 / EUR Size 37",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101773",
       "name": "Multi purpose pot",
