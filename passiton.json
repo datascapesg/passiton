@@ -493,23 +493,6 @@
       "date": "25 Nov 2021"
     },
     {
-      "id": "101601",
-      "category": "Electrical Home Appliances",
-      "name": "SMART TV",
-      "description": "Client is a household of 6 family members. \nThe sole-income earner takes on a low pay and the family is dependable on SSO Comcare financial assistance. \nThe main caregiver is facing health issues and is unable to support the family's financial situation apart from the caregiving of the children. \nHaving to struggle with basic needs, the family do not have additional finances to afford the purchase of a television.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "amychua@mws.sg",
-        "phone": [
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Nov 2021"
-    },
-    {
       "id": "101581",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -2441,6 +2424,24 @@
       "date": "02 Nov 2021"
     },
     {
+      "id": "101777",
+      "category": "Others",
+      "name": "TENA DIAPER M (PANTS)",
+      "description": "A male client aged 41 years old, staying 3 room flat requires Diaper Pants size M for daily use.  He was diagnosed with Colon Cancer, stage 3 on July 2016 and relapse in 2019. After his major operation to remove his colon recently, his weight reduces from 50kg to 39kg. He is having complication on his anal fistula. Doctor have tried all treatment (drain the abscess, flush the pus, stronger antibiotics treatment) but it does not suit for him. Therefore, he went for major surgery to remove his all-rectum area and need to wear stoma and diaper permanently. His wife is not working. Clients have 3 children and all still schooling.",
+      "specifications": null,
+      "contact": {
+        "org": "AIN Society",
+        "name": "Nur'Ain Binte Mohamed Said",
+        "email": "nurain@ainsociety.org.sg",
+        "phone": [
+          "68485116",
+          "68485166"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Nov 2021"
+    },
+    {
       "id": "101769",
       "category": "Others",
       "name": "Dog leash and muzzle",
@@ -2918,6 +2919,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "05 Nov 2021"
+    },
+    {
+      "id": "101776",
+      "category": "Medical Aids",
+      "name": "Blood Glucose Meter",
+      "description": "Single elderly lady is unable to be employed due to health conditions. She lives alone in a 1 room rental flat with financial and health challenges hopes to have a blood sugar measuring machine to better manage her chronic diabetes.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Bedok",
+        "name": "Alasdair Yee",
+        "email": "alasdair.yee@montfortcare.org.sg",
+        "phone": [
+          "97734862",
+          "63123988"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Nov 2021"
     },
     {
       "id": "101696",
@@ -3414,6 +3433,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "101779",
+      "name": "Pull up diaper pants size L",
+      "description": "3x pampers pull up diaper pants \n2x mamypoko pull up diaper pants",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "10 Dec 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101778",
+      "name": "Matress Queen Size with Bed Frames",
+      "description": "In good condition standard Queen size mattress with bed frames and bed sheets included.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "30 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101775",
       "name": "Kids bicycle",
