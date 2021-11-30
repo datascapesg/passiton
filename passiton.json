@@ -124,6 +124,42 @@
       "date": "02 Nov 2021"
     },
     {
+      "id": "101756",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Mother and son staying in a 2 room rental flat needs to replace their faulty fridge as they are not able to afford purchasing a new one due to low income.",
+      "specifications": null,
+      "contact": {
+        "org": "Touch Community Services Ltd",
+        "name": "Cassandra Teigh",
+        "email": "cassandra.teigh@touch.org.sg",
+        "phone": [
+          "63179989",
+          "63770122"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "30 Nov 2021"
+    },
+    {
+      "id": "101755",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Mother and son staying in a 2 room rental flat needs to replace their faulty washing machine as they are not able to afford purchasing a new one due to low income.",
+      "specifications": null,
+      "contact": {
+        "org": "Touch Community Services Ltd",
+        "name": "Cassandra Teigh",
+        "email": "cassandra.teigh@touch.org.sg",
+        "phone": [
+          "63179989",
+          "63770122"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "30 Nov 2021"
+    },
+    {
       "id": "101748",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -804,24 +840,6 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "30 Oct 2021"
-    },
-    {
-      "id": "101752",
-      "category": "Infant and Children Items",
-      "name": "Friso Gold Growing Up Milk Formula - Stage 3",
-      "description": "Family with 4 children who requires milk powder for the their younger children. Family is not able to have stable income.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Sylvia Lay",
-        "email": "sylviatan@carecorner.org.sg",
-        "phone": [
-          "86863745",
-          "64761481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 Nov 2021"
     },
     {
       "id": "101747",
@@ -3677,16 +3695,6 @@
       "validTill": "01 Dec 2021",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101642",
-      "name": "Wardrobe with mirror door",
-      "description": "New ward robe with mirror door",
-      "location": null,
-      "validTill": "26 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": "200*60*50",
       "deliveryCostsCoveredByDonor": true
     },
     {
