@@ -1,5 +1,25 @@
 [
   {
+    "id": "101800",
+    "name": "Kids boy clothing 1 to 3 years",
+    "description": "Kids male clothing for 1 to 3 years old. I have 5 to 6 packs planning to donate to different families in need.",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "31 Dec 2021",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "101799",
+    "name": "Wooden cot (painted grey)",
+    "description": "Sturdy, wooden baby cot, painted grey. Comes with custom made mattress.",
+    "location": null,
+    "validTill": "20 Dec 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "101798",
     "name": "Sofa",
     "description": "3 seater sofa",
@@ -46,16 +66,6 @@
     "location": "Balestier, Toa Payoh, Serangoon",
     "validTill": "31 Dec 2021",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "101781",
-    "name": "Queen Size Bed & Mattress",
-    "description": "Queen size mattress and bed frame. This is probably 6-7 months old, quality and condition is decent.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "31 Dec 2021",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -200,16 +210,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "101704",
-    "name": "Solid wood wardrobe",
-    "description": "Solid wood wardrobe.",
-    "location": "Loyang, Changi",
-    "validTill": "10 Dec 2021",
-    "ageInYears": 4,
-    "dimensions": "80cm x 50cm x 180cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "101703",
     "name": "Cuckoo rice cooker",
     "description": "This is a high-pressure rice cooker. Too large for my use and seldom used.",
@@ -227,16 +227,6 @@
     "validTill": "10 Dec 2021",
     "ageInYears": 4,
     "dimensions": "138cm x 72cm x 102cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "101687",
-    "name": "Super single bed with storage and mattress, bedsheets",
-    "description": "Super single bed with storage and mattress. Good condition. Will include bedsheets, pillow & bolster too.",
-    "location": "Yishun, Sembawang",
-    "validTill": "29 Dec 2021",
-    "ageInYears": 3,
-    "dimensions": "190x107x57cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1016,16 +1006,6 @@
     "location": "Loyang, Changi",
     "validTill": "10 Dec 2021",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "101583",
-    "name": "Single bed",
-    "description": "Single mattress (soft)\nVery soft bed, firmness:5/10",
-    "location": "Jurong",
-    "validTill": "20 Dec 2021",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
