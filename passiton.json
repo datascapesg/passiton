@@ -142,6 +142,23 @@
       "date": "02 Nov 2021"
     },
     {
+      "id": "101809",
+      "category": "Electrical Home Appliances",
+      "name": "Electric Kettle",
+      "description": "Family of 3 moving into their new rental flat is requesting for donation of electric kettle. Thank you very much.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Pek Jie Hui",
+        "email": "jiehui@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Dec 2021"
+    },
+    {
       "id": "101804",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -1112,42 +1129,6 @@
         "phone": [
           "65117278",
           "65117272"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Nov 2021"
-    },
-    {
-      "id": "101598",
-      "category": "Infant and Children Items",
-      "name": "3 x XL Mamypoko Pants",
-      "description": "Mother of 3 hopes to seek your kind provision of 3 packets of XL Mamypoko Pants for her infant. Mother is the sole caregiver to of her children with limited social and financial support. Your blessing of diapers will truly alleviate great financial load and help her to attend to her children's caregiving needs. Thank you so much!",
-      "specifications": null,
-      "contact": {
-        "org": "AWWA Transitional Shelter",
-        "name": "Esther Tan",
-        "email": "esther_tan@awwa.org.sg",
-        "phone": [
-          "65117278",
-          "65117272"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Nov 2021"
-    },
-    {
-      "id": "101593",
-      "category": "Infant and Children Items",
-      "name": "Mamy Poko Pull Ups - XL",
-      "description": "Family requires 2 x pkts of Mamy Poko Diapers - pull ups - XL size\n\nLow income family with 2 children under 6yo. Younger child (3yo) has has been not been able to meet his developmental milestones and needs the diapers for toilet training. \nFather has a reduction in his income due to the covid pandemic and is barely making ends meet.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Community Services - Project Family",
-        "name": "Sherrie Ooi",
-        "email": "sherrieooi@fycs.org",
-        "phone": [
-          "67690430",
-          "62355224"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3324,6 +3305,24 @@
       "date": "12 Nov 2021"
     },
     {
+      "id": "101808",
+      "category": "Home Furnishing",
+      "name": "Kitchen cabinet",
+      "description": "Client lives in a rental flat and needs a kitchen cabinet where she can store her plates and containers. Client would also like to request for a drying rack for her plates.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Gracia Leong",
+        "email": "gracialeong@fycs.org",
+        "phone": [
+          "69783485",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "01 Dec 2021"
+    },
+    {
       "id": "101802",
       "category": "Home Furnishing",
       "name": "QUEEN SIZED BED WITH MATTRESS",
@@ -3517,6 +3516,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "101810",
+      "name": "L shape sofe",
+      "description": "L shaped sofa.\nCellini brand.\nhorizontal two-seater is 160cm * 90cm.\nlong daybed is 170*80cm.\n\nsome stains on the seat as shown.\nsome marker stains on the back of one of the head rest cushion as shown.\n\nNeeds to be received urgently by next week",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "10 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "240cm x 170cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101807",
       "name": "Steam iron",
@@ -3725,16 +3734,6 @@
       "validTill": "15 Dec 2021",
       "ageInYears": 1,
       "dimensions": "220*50*70 cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101703",
-      "name": "Cuckoo rice cooker",
-      "description": "This is a high-pressure rice cooker. Too large for my use and seldom used.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "29 Dec 2021",
-      "ageInYears": 2,
-      "dimensions": "37 x 26 x 26",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -4468,6 +4467,26 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
+      "id": "101811",
+      "name": "Speakers (Eko and Bose Vintage)",
+      "description": "Eko speakers set, and Bose 901 vintage speakers set. This is the Bose 901 Series 1, the very first, and is a collectable item.",
+      "location": "Loyang, Changi",
+      "validTill": "10 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "101812",
+      "name": "Small Sony speakers",
+      "description": "Small speakers, Sony.",
+      "location": "Loyang, Changi",
+      "validTill": "10 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "101348",
       "name": "3-feet square teak dining table",
       "description": "3-feet (90 cm) square teak dining table. Many years old. Can be extended to 5 feet long, but because we gave not opened it up for many years, it us very stiff.",
@@ -5184,16 +5203,6 @@
       "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
       "validTill": "04 Dec 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100646",
-      "name": "Fujixerox Printer laser colour pw255 dw",
-      "description": "Very good condition printer Fujixerox model number pw255 dw",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "04 Dec 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
