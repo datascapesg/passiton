@@ -1,12 +1,42 @@
 [
   {
-    "id": "101791",
-    "name": "Fridge",
-    "description": "5 year old fridge in perfect working condition. Giving away due to house move.",
-    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-    "validTill": "06 Dec 2021",
+    "id": "101798",
+    "name": "Sofa",
+    "description": "3 seater sofa",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "12 Dec 2021",
     "ageInYears": 4,
-    "dimensions": "31 wide, 27 deep, 73 high in inches",
+    "dimensions": "180x85x90 cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "101794",
+    "name": "Steam iron",
+    "description": "Item still in good working condition",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "31 Dec 2021",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "101793",
+    "name": "Tefal rice cooker",
+    "description": "Capacity of rice cooker can cook up to 4 cups of rice. Still in good working condition.",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "31 Dec 2021",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "101792",
+    "name": "Wooden cot (painted grey)",
+    "description": "Sturdy, wooden baby cot, painted grey. Comes with custom made mattress.",
+    "location": null,
+    "validTill": "20 Dec 2021",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1207,16 +1237,6 @@
     "validTill": "10 Dec 2021",
     "ageInYears": 3,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "101310",
-    "name": "IKEA king size bed with mattress",
-    "description": "IKEA King size bedframe and mattress, v good condition.  Comes with mattress protector and bedsheets.",
-    "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
-    "validTill": "15 Dec 2021",
-    "ageInYears": 3,
-    "dimensions": "210 x 166 x 38",
     "deliveryCostsCoveredByDonor": true
   },
   {
