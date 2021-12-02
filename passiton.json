@@ -417,23 +417,6 @@
       "date": "30 Nov 2021"
     },
     {
-      "id": "101742",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Client is unemployed and is dependent on the Social Service Office for assistance. Client is seeking for employment and has been to many job interviews but hasn’t been successful. As a few of her household appliances became faulty(refrigerator and washing machine), client finds it challenging to purchase new appliances due to her limited financial resources. At the same time, client’s handphone became faulty as well and thus she is unable to make phone calls, respond to messages or even search for jobs online.",
-      "specifications": null,
-      "contact": {
-        "org": "Sembawang Family Service Centre",
-        "name": "Po Woei Yee",
-        "email": "powoeiyee@sfsc.org.sg",
-        "phone": [
-          "67547050"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "30 Nov 2021"
-    },
-    {
       "id": "101722",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -3754,6 +3737,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "101888",
+      "name": "Study  table",
+      "description": "Computer table\n\nPlease self collect at Jurong West St 93. Thanks",
+      "location": "Jurong",
+      "validTill": "31 Dec 2021",
+      "ageInYears": 2,
+      "dimensions": "150cm x 80cm x 100cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101887",
       "name": "Baby Chair",
