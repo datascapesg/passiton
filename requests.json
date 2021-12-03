@@ -140,6 +140,40 @@
     "date": "02 Nov 2021"
   },
   {
+    "id": "101940",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Client is a single mother and sole caregiver of two young children. She has recently moved to a new flat and would require some household items while she builds up resources to buy new items in future.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Simranjit Kaur",
+      "email": "simranjit.kaur@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Dec 2021"
+  },
+  {
+    "id": "101939",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Client is a single mother and sole caregiver of two young children. She has recently moved to a new flat and would require some household items while she builds up resources to buy new items in future.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Simranjit Kaur",
+      "email": "simranjit.kaur@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Dec 2021"
+  },
+  {
     "id": "101914",
     "category": "Electrical Home Appliances",
     "name": "washing machine",
@@ -541,24 +575,6 @@
     "date": "24 Nov 2021"
   },
   {
-    "id": "101434",
-    "category": "Electrical Home Appliances",
-    "name": "Television",
-    "description": "Single elderly lady living alone in 1 room rental flat with financial and health challenges has a faulty television and hopes to have a television to help her pass time.",
-    "specifications": "24 inch and below",
-    "contact": {
-      "org": "Montfort Care - GoodLife! @ Bedok",
-      "name": "Alasdair Yee",
-      "email": "alasdair.yee@montfortcare.org.sg",
-      "phone": [
-        "97734862",
-        "63123988"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Nov 2021"
-  },
-  {
     "id": "101431",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator",
@@ -800,6 +816,40 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "09 Nov 2021"
+  },
+  {
+    "id": "101945",
+    "category": "Infant and Children Items",
+    "name": "Child Diapers",
+    "description": "PPIS Family Service Centre (West) would like to appeal for 20 -30 of Drypers Wee Wee Dry Diapers in Medium, Large, X Large and XX Large for its beneficiaries with very young children. Thank You.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yuliza Mohamad Yusoff",
+      "email": "yuliza@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Dec 2021"
+  },
+  {
+    "id": "101942",
+    "category": "Infant and Children Items",
+    "name": "baby stroller",
+    "description": "Client and her household members are experiencing financial difficulty and receiving formal financial assistance. She is unable to work as she is the primary caregiver for an infant whose birth parents are both incarcerated.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Simranjit Kaur",
+      "email": "simranjit.kaur@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "03 Dec 2021"
   },
   {
     "id": "101913",
@@ -2295,6 +2345,125 @@
     "date": "02 Nov 2021"
   },
   {
+    "id": "101944",
+    "category": "Others",
+    "name": "Habhal's Kicap Manis (Soya Bean Sauce) - Sweet",
+    "description": "PPIS Family Service Centre (West) would like to appeal for 30-50 Habhal's Kicap Manis (Soya Bean Sauce) - Sweet for its beneficiaries. Thank You",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yuliza Mohamad Yusoff",
+      "email": "yuliza@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Dec 2021"
+  },
+  {
+    "id": "101943",
+    "category": "Others",
+    "name": "Assorted Pasta ( spagetti & macaroni)",
+    "description": "PPIS Family Service Centre (West) would like to appeal for 30 - 50 Assorted Pasta (spagetti & macaroni ) for its beneficiaries. Thank You.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yuliza Mohamad Yusoff",
+      "email": "yuliza@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Dec 2021"
+  },
+  {
+    "id": "101941",
+    "category": "Others",
+    "name": "Baba's Packet Curry Powder - Meat & fish",
+    "description": "PPIS Family Service Centre (West) would like to appeal for 30 -50 packets of Baba's Packet Curry Powder - Meat & Fish for its beneficiaries. Thank You.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yuliza Mohamad Yusoff",
+      "email": "yuliza@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Dec 2021"
+  },
+  {
+    "id": "101938",
+    "category": "Others",
+    "name": "Halal Chilli Sauce",
+    "description": "PPIS Family Service Centre (West) would like to appeal for 30 - 50 Halal Chilli Sauce for its beneficiaries. Thank You.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yuliza Mohamad Yusoff",
+      "email": "yuliza@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Dec 2021"
+  },
+  {
+    "id": "101937",
+    "category": "Others",
+    "name": "Halal Tomato Sauce",
+    "description": "PPIS Family Service Centre (West) would like to appeal for 30 -50 Halal Tomato Sauce for its beneficiaries.Thank You.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yuliza Mohamad Yusoff",
+      "email": "yuliza@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Dec 2021"
+  },
+  {
+    "id": "101936",
+    "category": "Others",
+    "name": "Halal Evaporated Milk",
+    "description": "PPIS Family Service Centre (West) would like to appeal for 30-50 Halal Evaporated Milk for its beneficiaries. Thank You.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yuliza Mohamad Yusoff",
+      "email": "yuliza@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Dec 2021"
+  },
+  {
+    "id": "101935",
+    "category": "Others",
+    "name": "Halal Tuna in Assorted Flavours",
+    "description": "PPIS Family Service Centre (West) would like to appeal for 30 - 50 of Halal Tuna in assorted flavours for its beneficiaries. Thank You.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yuliza Mohamad Yusoff",
+      "email": "yuliza@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Dec 2021"
+  },
+  {
     "id": "101931",
     "category": "Others",
     "name": "Halal Cream Crackers",
@@ -2758,24 +2927,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "30 Nov 2021"
-  },
-  {
-    "id": "101729",
-    "category": "Others",
-    "name": "Bicycle for food delivery job",
-    "description": "Low income family with two very young children trying to make ends meet. Parents are trying hard to find job in the midst of the COVID-19 situation and would like to take turns to do food delivery job to earn a living during the interim. Please respond if you have one to pass it on or keen to donate. Note: Delivery fee to be covered by donor",
-    "specifications": null,
-    "contact": {
-      "org": "HEART @ Fei Yue",
-      "name": "Melody Chan",
-      "email": "melodychan@fycs.org",
-      "phone": [
-        "81217685",
-        "68199170"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "29 Nov 2021"
   },
   {
     "id": "101723",
