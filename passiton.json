@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "101979",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "Family of 3 has moved into their new rental flat and needs a washing machine. They are not able to afford one as their finances is stabilising and do not have sufficient savings. Family has a sole breadwinner and a toddler, as a parent is medically unfit to work.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Transitional Shelter",
+        "name": "Xu Yuqi",
+        "email": "xu_yuqi@awwa.org.sg",
+        "phone": [
+          "65117272"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Dec 2021"
+    },
+    {
+      "id": "101978",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator for a family of 3",
+      "description": "Family of 3 has moved into their new rental flat and needs a refrigerator. They are not able to afford one as their finances is stabilising and do not have sufficient savings. Family has a sole breadwinner and a toddler, as a parent is medically unfit to work.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Transitional Shelter",
+        "name": "Xu Yuqi",
+        "email": "xu_yuqi@awwa.org.sg",
+        "phone": [
+          "65117272"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Dec 2021"
+    },
+    {
       "id": "101940",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
