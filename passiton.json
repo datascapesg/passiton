@@ -3165,23 +3165,6 @@
       "date": "03 Dec 2021"
     },
     {
-      "id": "101852",
-      "category": "Home Furnishing",
-      "name": "sofa bed",
-      "description": "A single mother of 3 young children who relies on financial assistance to sustain her family, is hoping to have a sofa bed for her and her younger daughter to sleep on as her bed is for other two daughters to sleep on.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Dec 2021"
-    },
-    {
       "id": "101808",
       "category": "Home Furnishing",
       "name": "Kitchen cabinet",
@@ -3340,6 +3323,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "102003",
+      "name": "Stationery",
+      "description": "Pencils, mechanical pencils, rulers, ballpoint pens, highlighters, pencil sharpeners, staplers, erasers, paper clip holders, 3 pouches to contain the stationery",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "04 Jan 2022",
+      "ageInYears": 3,
+      "dimensions": "Various",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102002",
       "name": "Clay pot",
