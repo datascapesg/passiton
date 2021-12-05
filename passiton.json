@@ -832,23 +832,6 @@
       "date": "01 Dec 2021"
     },
     {
-      "id": "101747",
-      "category": "Infant and Children Items",
-      "name": "Milk powder - Dutch Lady Plain flavour",
-      "description": "Single mother of 4 young children (1-5 years old) is requesting for milk powder for her youngest son. As her husband is incarcerated, and due to her caregiving responsibilities, Ct is unable to work and earn an income to meet basic needs. She would appreciate support in meeting child's basic nutritional needs. \n\nDutch Lady Stage 1-3 (1 to 3 years old) Milk Powder - Plain, 850g.",
-      "specifications": "Milk powder - Dutch Lady Plain flavour",
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Tricia Tee",
-        "email": "triciatee@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 Nov 2021"
-    },
-    {
       "id": "101727",
       "category": "Infant and Children Items",
       "name": "Merries Pants Diapers (XL) and Aptamil Gold+ Toddler Growing Up Milk Formula - Stage 3",
@@ -1403,23 +1386,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "22 Nov 2021"
-    },
-    {
-      "id": "101306",
-      "category": "Infant and Children Items",
-      "name": "Baby diapers - Sweety Silver Baby (brand)",
-      "description": "Client is the sole caregiver for a toddler (2 years old), infant (3 months old), and wife with postnatal depression. He is unable to work due to safety concerns therefore the family has no income and requires support to meet basic needs. \nThe family would appreciate support for these diapers (size S) for infant.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Wee Yu Fei",
-        "email": "yufei@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Nov 2021"
     },
     {
       "id": "101301",
@@ -3392,6 +3358,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "102002",
+      "name": "Clay pot",
+      "description": "Self collection.",
+      "location": "Little India",
+      "validTill": "30 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102001",
+      "name": "Blender",
+      "description": "Self collection.",
+      "location": "Little India",
+      "validTill": "30 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102000",
+      "name": "Food mixer",
+      "description": "Giving away. \n\nCapacity :1l",
+      "location": "Little India",
+      "validTill": "30 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "101999",
       "name": "Coffee marker",
