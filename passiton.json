@@ -363,23 +363,6 @@
       "date": "30 Nov 2021"
     },
     {
-      "id": "101722",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Family has 4 school-going children, who requires a working refrigerator, as their current refrigerator is faulty. Father is the sole breadwinner. Mother is unemployed due to her caregiving responsibilities and her recent slipped disc diagnosis.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Chavonne Tan",
-        "email": "ywctan@childrensociety.org.sg",
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Nov 2021"
-    },
-    {
       "id": "101706",
       "category": "Electrical Home Appliances",
       "name": "Top Freezer Fridge",
@@ -673,24 +656,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "09 Nov 2021"
-    },
-    {
-      "id": "102031",
-      "category": "Mobility Aids",
-      "name": "Commode",
-      "description": "An 81-year-old elderly lady staying at Circuit Road, require a commode due to her health condition. She is frail, with high fall risk, thus a commode could prevent her fall by reducing the need to go to toilet at night. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Cluster Support @ Geylang",
-        "name": "Calvin Chong",
-        "email": "calvinchong@thkmc.org.sg",
-        "phone": [
-          "88223161",
-          "68461228"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Dec 2021"
     },
     {
       "id": "101870",
@@ -3580,6 +3545,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "102067",
+      "name": "3-seater fabric sofa",
+      "description": "The sofa is older than 4 years old but it is in good condition.  The covers can be removed to be washed.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "05 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102066",
+      "name": "Exhaust Hood",
+      "description": "http://ef.com.sg/details/EFCH-6201-&-9201-HM-SS\n\nModel: EFCH 9201 HM SS.\nEF brand exhaust. Still in carton box. Never used.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "31 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": "• W900 x D420 x H70+50mm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102065",
       "name": "Electric Oven",
