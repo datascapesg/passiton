@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "102030",
-      "category": "Electrical Home Appliances",
-      "name": "Induction Cooker",
-      "description": "Family of two, a mom and daughter, are facing financial strains. Their stove requires repair and they are unable to use it. They would need an induction cooker (halal) to use temporarily while we support them in arranging for repairs.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Clarice Lim",
-        "email": "claricelim@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Dec 2021"
-    },
-    {
       "id": "102024",
       "category": "Electrical Home Appliances",
       "name": "Water heater",
@@ -830,6 +813,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "05 Nov 2021"
+    },
+    {
+      "id": "102043",
+      "category": "Infant and Children Items",
+      "name": "Diapers & Milk Powder",
+      "description": "Client is a 33 year old who is the solebreadwinner for family members(wife and 4 small children aged 5 years old, 3 years old(twins) and a newborn). Client is earning low income and experiencing financial difficulties due multiple debts and the need to shift to bto. Currently, client is living in a rental flat. Client's wife is unable to work due to caregiving demands for a newborn baby. Client's is unable to provide sufficient meals and the basic needs for the family with his existing income.  Client is hoping they can receive support for the following:\nNestle NAN 4 milk formula \nNestle NAN 2 milk formula \nDiaper size XXL walker pants (any brand)\nDiaper size L walker pants (any brand)",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Nathan Hou",
+        "email": "nathanhou@thkmc.org.sg",
+        "phone": [
+          "88554795",
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Dec 2021"
     },
     {
       "id": "102038",
@@ -3550,6 +3551,26 @@
   ],
   "offers": [
     {
+      "id": "102042",
+      "name": "2-seater Pink Sofa",
+      "description": "light pink sofa which is 2.5 year old.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "09 Dec 2021",
+      "ageInYears": 2,
+      "dimensions": "140X85X80 cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102041",
+      "name": "Large Ikea Dining table (extendable) - Black",
+      "description": "Kept clean with only minor scratches. Pure solid wood. Super sturdy.",
+      "location": null,
+      "validTill": "09 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": "2m x 1m",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102040",
       "name": "Silver marble table - 6 seater",
       "description": "Generally in good condition but too big to bring to new house. Bought it for More than $2200.",
@@ -3557,16 +3578,6 @@
       "validTill": "31 Dec 2021",
       "ageInYears": 4,
       "dimensions": "6 seater",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102037",
-      "name": "Air Fryer (Mayer MMAF80)",
-      "description": "Brand new and unopened air fryer.",
-      "location": "Katong, Joo Chiat, Amber Road",
-      "validTill": "05 Jan 2022",
-      "ageInYears": 1,
-      "dimensions": "352x290x362 mm",
       "deliveryCostsCoveredByDonor": true
     },
     {
