@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "102058",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Family consists of a single mother with 1 school-going child (10 y/o). They are in need of a new or second-hand small fridge (i.e. cannot exceed 151cm), as their current one has stopped working. Client has not been able to replace the faulty fridge due to the lack of sustainable income. She has been certified medically unfit for work. The family has been depending on financial assistance schemes to meet their basic needs minimally.",
+      "specifications": "151cm (H) x 56cm (W) x 59cm (D)",
+      "contact": {
+        "org": "Whispering Hearts Family Service Centre",
+        "name": "Law Jia Yi",
+        "email": "jiayi@viriya.org.sg",
+        "phone": [
+          "67951008"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Dec 2021"
+    },
+    {
       "id": "102053",
       "category": "Electrical Home Appliances",
       "name": "Fridge",
@@ -2240,6 +2257,24 @@
       "date": "08 Nov 2021"
     },
     {
+      "id": "102059",
+      "category": "Others",
+      "name": "Handphone",
+      "description": "Elderly living alone needs a handphone to contact his social worker and to set up a 2FA. Handphone will also allow him to be better connected with the community.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Lavania Maria Rajasuria",
+        "email": "lavania@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Dec 2021"
+    },
+    {
       "id": "102046",
       "category": "Others",
       "name": "Groceries",
@@ -3633,26 +3668,19 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Nov 2021"
-    },
-    {
-      "id": "102054",
-      "category": "Attires/Clothings",
-      "name": "Groceries",
-      "description": "Family of four are facing financial constraints. The family was issued a stay home notice order after one of the children was tested positive for COVID-19. The parents are unable to work and had their pay deducted. They would need some groceries for the coming week: \n1. Rice\n2. Oil\n3. Eggs\n4. Biscuit\n5. Maggi\n6. Bread\n7. Chicken\n8. Canned food except for beans\n9. Bread Spread \n10. Potato\n11.Tissue\n12.Toothpaste\n13.Detergent \n14.Bath Shower\n15.Shampoo",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Clarice Lim",
-        "email": "claricelim@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Dec 2021"
     }
   ],
   "offers": [
+    {
+      "id": "102055",
+      "name": "Baby Diaper Bags",
+      "description": "We have over 200 of these brand new diaper bags in stock and would like to share some, if not all of them with your organisation.",
+      "location": "Raffles Place, Cecil, Marina, People's Park",
+      "validTill": "05 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102052",
       "name": "Sony TV",
@@ -4441,6 +4469,26 @@
       "validTill": "10 Dec 2021",
       "ageInYears": 4,
       "dimensions": "240cm x 170cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102056",
+      "name": "Fridge",
+      "description": "Panasonic fridge with selectable compartment.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "31 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "180cm x 70cm x 70cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102057",
+      "name": "Fridge",
+      "description": "Panasonic fridge with selectable compartment.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "31 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "180cm x 70cm x 70cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
