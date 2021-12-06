@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "102061",
+      "category": "Electrical Home Appliances",
+      "name": "Hot plate (electric stove)",
+      "description": "Single mother with a schooling teenager and adult son with special needs requires a new hot plate/electric stove so the family can cook at home safely. Their current one broke down recently. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "MINDS - Community Forensic Services",
+        "name": "Ella Tan",
+        "email": "ella.tan@minds.org.sg",
+        "phone": [
+          "93573778"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "06 Dec 2021"
+    },
+    {
       "id": "102058",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -3671,6 +3688,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "102060",
+      "name": "Washing machine",
+      "description": "Dry function and display board not working well but otherwise all good, washing with hot water function available. Will be left outside flat. Do collect soon if keen.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "31 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": "59x52x86cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102055",
       "name": "Baby Diaper Bags",
