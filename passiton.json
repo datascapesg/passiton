@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "102070",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "An elderly client and his wife has recently move out of the shelter in to their rental flat and need a fridge to store their groceries and other food items.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Transitional Shelter",
+        "name": "Aileen Nah Ee Noi",
+        "email": "aileen_nah@awwa.org.sg",
+        "phone": [
+          "65117268",
+          "65117272"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Dec 2021"
+    },
+    {
       "id": "102061",
       "category": "Electrical Home Appliances",
       "name": "Hot plate (electric stove)",
@@ -725,75 +743,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "08 Nov 2021"
-    },
-    {
-      "id": "100681",
-      "category": "Mobility Aids",
-      "name": "Elevating Footrest and Detachable Armrest Wheelchair",
-      "description": "8 years old child who was diagnosed with cancer had just undergone a surgery at the leg and requires a wheelchair with detachable armrest and an elevating footrest.",
-      "specifications": null,
-      "contact": {
-        "org": "AIN Society",
-        "name": "Norhashimah Binti Kamarudin",
-        "email": "shimah@ainsociety.org.sg",
-        "phone": [
-          "68485163",
-          "68485166"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "05 Nov 2021"
-    },
-    {
-      "id": "101815",
-      "category": "Kitchen Utility Items",
-      "name": "Portable Stove",
-      "description": "Family of 3 moving in to their new rental flat is looking for a portable stove. Thank you very much.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Pek Jie Hui",
-        "email": "jiehui@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Dec 2021"
-    },
-    {
-      "id": "101783",
-      "category": "Kitchen Utility Items",
-      "name": "Sinbo Heavy Duty Blender",
-      "description": "Client is a PR and sole bread-winner. Her husband suffered from stroke in Jan 2021 and is still admitted in the hospital. He is currently unfit for work. Family has 2 children (F14,M13). Family is struggling financially due to multiple bills and their savings have been depleted. Client is trying to start up her own hawker business for sustain her family's living.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Grace Song",
-        "email": "gracesong@amkfsc.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Dec 2021"
-    },
-    {
-      "id": "100673",
-      "category": "Kitchen Utility Items",
-      "name": "Enfamil Pro A+ Stage 1 900g or 1.8kg",
-      "description": "Client is a single unwed mother who has an infant baby. Client will require support in obtaining the following item. \n\nThank you!",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Adil Matin Bin Mohd Ramlan",
-        "email": "adilmatin@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Nov 2021"
     },
     {
       "id": "102043",
@@ -2045,22 +1994,22 @@
       "date": "07 Nov 2021"
     },
     {
-      "id": "100715",
-      "category": "Infant and Children Items",
-      "name": "Similac or Nan Optipro Stage 2",
-      "description": "Clt is single parent to 2 young kids (a toddler and a baby) and is pregnant with 3rd child due in Jan 2022. Clt is main caregiver and unable work. Clt needs milk powder support for her young kids.",
-      "specifications": null,
+      "id": "102068",
+      "category": "Medical Aids",
+      "name": "HospiCare Adult Body Wipes Needed!",
+      "description": "Client is the primary caregiver to his wife, who was hospitalized for a multi organ infection in 2016. The illness has affected her daily functioning abilities, and while her condition is progressively improving, she still requires caregiving support. The provision of the adult body wipes will help Client in managing his wife's care needs.",
+      "specifications": "HospiCare 40R Adult Body Wipes",
       "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Christina Lim",
-        "email": "limpohgekchristina@fycs.org",
+        "org": "AWWA Family Service Centre",
+        "name": "Farahlina Tan",
+        "email": "farahlina_tan@awwa.org.sg",
         "phone": [
-          "63519151",
-          "65690381"
+          "65119458",
+          "65119456"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "05 Nov 2021"
+      "date": "07 Dec 2021"
     },
     {
       "id": "101835",
@@ -3371,24 +3320,6 @@
       "date": "22 Nov 2021"
     },
     {
-      "id": "101406",
-      "category": "Home Furnishing",
-      "name": "Bedside Table",
-      "description": "The family consists of a pair of couples who are residing in a 2-room rental flat. They are struggling with chronic medical conditions and unemployment issues. The client is on long-term MC while her boyfriend was recently released from Prison and has been actively seeking employment. With no income at this point in time, they are relying on SSO Financial Assistance for basic needs and are unable to afford new items whenever they break down. The Couple wishes to have a bedside table (2 feet, length: 60cm) to be put in her room.",
-      "specifications": "2 feet, length: 60cm",
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Ernie Lydia Binte Abu Yamin",
-        "email": "ernielydia@amkfsc.org.sg",
-        "phone": [
-          "64535349",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Nov 2021"
-    },
-    {
       "id": "101401",
       "category": "Home Furnishing",
       "name": "10 Medium toyogo boxes",
@@ -3422,9 +3353,53 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Nov 2021"
+    },
+    {
+      "id": "101815",
+      "category": "Kitchen Utility Items",
+      "name": "Portable Stove",
+      "description": "Family of 3 moving in to their new rental flat is looking for a portable stove. Thank you very much.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Pek Jie Hui",
+        "email": "jiehui@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Dec 2021"
+    },
+    {
+      "id": "101783",
+      "category": "Kitchen Utility Items",
+      "name": "Sinbo Heavy Duty Blender",
+      "description": "Client is a PR and sole bread-winner. Her husband suffered from stroke in Jan 2021 and is still admitted in the hospital. He is currently unfit for work. Family has 2 children (F14,M13). Family is struggling financially due to multiple bills and their savings have been depleted. Client is trying to start up her own hawker business for sustain her family's living.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Punggol",
+        "name": "Grace Song",
+        "email": "gracesong@amkfsc.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Dec 2021"
     }
   ],
   "offers": [
+    {
+      "id": "102069",
+      "name": "Newborn diapers",
+      "description": "One carton of newborn diapers - 3packs x60pieces per pack. New.",
+      "location": "Telok Blangah, Harbourfront",
+      "validTill": "31 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102067",
       "name": "3-seater fabric sofa",
@@ -3986,76 +3961,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "101954",
-      "name": "Computer table and chair",
-      "description": "Computer table and chair. Prefers for self collection.",
-      "location": "Bedok",
-      "validTill": "07 Dec 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101953",
-      "name": "Exercise Bicycle",
-      "description": "Working condition but no computer display. Prefers for self collection.",
-      "location": "Bedok",
-      "validTill": "07 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101951",
-      "name": "40 Inch LED TV (Not SMART TV)",
-      "description": "Working condition. Self collection.",
-      "location": "Bedok",
-      "validTill": "07 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101950",
-      "name": "Queen Bed and Mattress",
-      "description": "Prefer self collection",
-      "location": "Bedok",
-      "validTill": "07 Dec 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101949",
-      "name": "Dining Table",
-      "description": "Dining table and chairs for self collection.",
-      "location": "Bedok",
-      "validTill": "07 Dec 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101947",
-      "name": "Assorted Lorenzo Sofa (Reupholstered)",
-      "description": "Prefer for self collection",
-      "location": "Bedok",
-      "validTill": "07 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101946",
-      "name": "Refrigerator",
-      "description": "Working condition. Prefer for self collection.",
-      "location": "Bedok",
-      "validTill": "07 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "101921",
       "name": "Baby clothing",
       "description": "Bought brand new babies clothing for donation. This is my wish to give who is in need. Babies clothing 6m to 3 yrs old",
@@ -4553,16 +4458,6 @@
       "validTill": "26 Dec 2021",
       "ageInYears": 2,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101611",
-      "name": "Green Tatami floor sofa/sofabed",
-      "description": "Used for 7months. Still in good condition, suitable for children",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "07 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": "160cm x 110cm×60cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -5332,86 +5227,6 @@
       "location": null,
       "validTill": "08 Dec 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100765",
-      "name": "Dining chair",
-      "description": "1) 1 pc only\n2) wooden backrest>> some parts chipped off, not really noticeable. Doesn't affect the sitting portion.\n3) Alternatively, it can be used for putting stuff on top.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "07 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100906",
-      "name": "Motorised Hospital Bed",
-      "description": "The Domiflex premium nursing bed comes with continuous side safety rails which provides full safety from head to toe. Different locking positions allow flexibility for seamless safety.\n\nLockable Handset\nThe Domiflex premium nursing bed comes with an intelligent handset with a clear menu structure and ergonomic design. It has fewer buttons and large symbols which facilitate intuitive operation.\nThe handset can also be locked from the back using the key provided, further improving the security of the bed.\n\nDurable Laying Surface\nThe laying surface of the Domiflex premium nursing bed is made of aluminium, which not only provides an ergonomic sleeping experience but also durability. It is also easily removable for cleaning.\n\nPush-and-Ready\nAssemble in less than 5 minutes without any tools, all components are pre-installed.\nIt is also foldable, allowing for a space-saving storage.",
-      "location": "Clementi ",
-      "validTill": "07 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100757",
-      "name": "Children wall decal, children books, jigsaw puzzles",
-      "description": "New children wall decal to decorate the room, ABC poster, jigsaw puzzles, learning cards, children books. Suitable for pre- school children about 2+ - 5 yrs old",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-      "validTill": "07 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100753",
-      "name": "Desk and pedestal",
-      "description": "Desk - need help to collect",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "07 Dec 2021",
-      "ageInYears": 3,
-      "dimensions": "160 x 80",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100752",
-      "name": "Desk and pedestal",
-      "description": "Desk - need help to collect",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "07 Dec 2021",
-      "ageInYears": 3,
-      "dimensions": "160 x 80",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100745",
-      "name": "Books for 4/5 year old",
-      "description": "Easy to read books for children learning to read. Hand-me-downs from cousin. Books are in good condition for other kids.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "07 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100744",
-      "name": "Girl clothes, shoes for 5/6 year old",
-      "description": "Girl clothes, home wear and going out clothes, shoes. All items are washed",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "07 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100743",
-      "name": "Girl clothes, shoes for 4/5 year old",
-      "description": "Girl clothes, home wear and going out clothes, shoes. All items are washed.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "07 Dec 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     }
