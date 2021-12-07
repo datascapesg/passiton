@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "102091",
+      "category": "Electrical Home Appliances",
+      "name": "Stove",
+      "description": "Single mother with two young children who recently managed to get their own flat and requires a stove for cooking.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Lim Jia Yu",
+        "email": "jiayu@amkfsc.org.sg",
+        "phone": [
+          "65536643",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Dec 2021"
+    },
+    {
       "id": "102081",
       "category": "Electrical Home Appliances",
       "name": "Top Load Washing Machine",
@@ -777,6 +795,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "08 Nov 2021"
+    },
+    {
+      "id": "102089",
+      "category": "Infant and Children Items",
+      "name": "XL Pampers (pants)",
+      "description": "Family has 2 young children who requires XL pampers for their 3-year-old son (XL Pampers). Both parents are currently working odd jobs and are looking to enter into new employment by January 2022. Family requires at least 2 packs of XL pampers per month.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Khairunisa Rusli",
+        "email": "khairunisa.rusli@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Dec 2021"
     },
     {
       "id": "102087",
@@ -3510,6 +3545,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "102090",
+      "name": "Teak TV Console",
+      "description": "Teak TV Console. Still in very good condition.",
+      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+      "validTill": "20 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "200 L x 75 Bx 55 H cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102083",
       "name": "1x queensize mattress + frame",
