@@ -1,5 +1,15 @@
 [
   {
+    "id": "102127",
+    "name": "IKEA bed frame 140x200",
+    "description": "IKEA bed frame. Good condition. We have cats in the house so not great if you are allergic.",
+    "location": null,
+    "validTill": "15 Dec 2021",
+    "ageInYears": 3,
+    "dimensions": "140 x 200 cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "102126",
     "name": "Front load washing machine",
     "description": "Door hinge has some cracks but can still wash without issue.",
@@ -1090,26 +1100,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "101674",
-    "name": "Side table with drawers",
-    "description": "Side table with drawers",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "08 Dec 2021",
-    "ageInYears": 4,
-    "dimensions": "48 x 16cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "101672",
-    "name": "Solid wood sofa (2 single + 3 seater)",
-    "description": "Solid wood framed sofa",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "08 Dec 2021",
-    "ageInYears": 3,
-    "dimensions": "Per photos",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "101666",
     "name": "Single bed",
     "description": "Pls self collect",
@@ -1347,16 +1337,6 @@
     "validTill": "15 Dec 2021",
     "ageInYears": 4,
     "dimensions": "1396x834x1028",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "101505",
-    "name": "Sofa Chaise Longue only",
-    "description": "Rarely used Chaise Longue",
-    "location": "Yishun, Sembawang",
-    "validTill": "08 Dec 2021",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1976,16 +1956,6 @@
     "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
     "validTill": "09 Dec 2021",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "100828",
-    "name": "IKEA MINNEN Children's Bed",
-    "description": "IKEA MINNEN Children's Bed without mattress, very good condition.",
-    "location": null,
-    "validTill": "08 Dec 2021",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
