@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "102205",
+      "category": "Electrical Home Appliances",
+      "name": "Dryer",
+      "description": "My client is a single mother of 5 children aged between 7 to 18. Client is also a sole breadwinner, earning less than $2.5k a month. They are moving to their new flat by the end of the month and are looking for a clothes dryer as client does not have the finances to purchase expensive items. My client also noticed recently that her unit is situated in a location where there is not that much sunlight to dry out their clothes, thus needing a dryer so that she can accommodate to her school going children.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Annabel Dass",
+        "email": "annabeldass@fycs.org",
+        "phone": [
+          "69783483",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Dec 2021"
+    },
+    {
+      "id": "102204",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "My client is a single mother of 5 children aged between 7 to 18. Client is also a sole breadwinner, earning less than $2.5k a month. They are moving to their new flat by the end of the month and are looking for a washing machine as client does not have the finances to purchase expensive items.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Annabel Dass",
+        "email": "annabeldass@fycs.org",
+        "phone": [
+          "69783483",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Dec 2021"
+    },
+    {
       "id": "102190",
       "category": "Electrical Home Appliances",
       "name": "Rice Cooker",
@@ -17,23 +53,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "09 Dec 2021"
-    },
-    {
-      "id": "102157",
-      "category": "Electrical Home Appliances",
-      "name": "Oven (for baking)",
-      "description": "Client is a family of 4 with 2 school going children. She has been feeling stressed over the family's financial situation and caregiving duties (1 child with special needs). Client loves to bake, and baking is an effective way for her to cope with her stress. However, she has stopped baking since her oven broke down a few months ago. She does not have the finances to purchase a new oven. Thus, a new/working oven would be beneficial for her.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Covenant Family Service Centre - Hougang",
-        "name": "Chan Jun Ren",
-        "email": "chanjunren@mws.sg",
-        "phone": [
-          "62828558"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Dec 2021"
     },
     {
       "id": "102130",
@@ -604,6 +623,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "09 Nov 2021"
+    },
+    {
+      "id": "102207",
+      "category": "Mobility Aids",
+      "name": "Wheelchair",
+      "description": "Family has 6 young children, aged 1-13. Father has multiple medical conditions, which has limited his ability to walk. He has been certified to be unfit for work as well. This wheelchair would enable his wife to bring him to and fro from his house to polyclinic with more ease and would be greatly beneficial for them!",
+      "specifications": "Standard",
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Cheong Ming Fang",
+        "email": "mingfang@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Dec 2021"
     },
     {
       "id": "101870",
@@ -3756,6 +3792,16 @@
   ],
   "offers": [
     {
+      "id": "102206",
+      "name": "Dining Table Set with Chairs",
+      "description": "Good working condition dining table with rattan chairs. Can be separated Removable glass table top with cast iron legs.\n\n*Self collection only. VWO can contact us directly to arrange for collection.",
+      "location": null,
+      "validTill": "18 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "90cm diameter",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102203",
       "name": "wooden study table",
       "description": "Almost new wooden study desk. Giving away as i injured my back and need to get a standing desk",
@@ -3933,16 +3979,6 @@
       "validTill": "15 Dec 2021",
       "ageInYears": 3,
       "dimensions": "140 x 200 cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102125",
-      "name": "Dining table with 4 chairs",
-      "description": "Self collect if possible",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "10 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
