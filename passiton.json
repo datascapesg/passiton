@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "102216",
-      "category": "Electrical Home Appliances",
-      "name": "Vacuum cleaner",
-      "description": "Client is a divorcee and lives in a 1room/1hall rental flat with daughter who was just released from prison and her grandson who is 3 months old. Client is working as a cleaner and struggling to provide for daughter and grandson. Client wish for a vacuum cleaner as she does not have one.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Dini Dzulaikha Bte Dzulkifli",
-        "email": null,
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "09 Dec 2021"
-    },
-    {
       "id": "102215",
       "category": "Electrical Home Appliances",
       "name": "Microwave",
@@ -693,6 +676,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "08 Nov 2021"
+    },
+    {
+      "id": "102222",
+      "category": "Infant and Children Items",
+      "name": "Diapers Size S",
+      "description": "Requesting on behalf of a single mother who is staying with her stepdaughter and taking care of 4 grandchildren. She is experiencing financial difficulties and receiving donation of the diapers for her youngest grandchild will be helpful to reduce her expenses.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Jasmine Leong",
+        "email": "jasmine@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Dec 2021"
+    },
+    {
+      "id": "102221",
+      "category": "Infant and Children Items",
+      "name": "Nestle Lactogen 1 Starter Infant Formula 650g",
+      "description": "Requesting on behalf of a single mother who is staying with her stepdaughter and taking care of 4 grandchildren. She is experiencing financial difficulties and receiving donation of the milk formula for her youngest grandchild will be helpful to reduce her expenses.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Jasmine Leong",
+        "email": "jasmine@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Dec 2021"
     },
     {
       "id": "102220",
@@ -3940,16 +3957,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "102183",
-      "name": "White wooden baby cot and clothing",
-      "description": "White, wooden baby cot with mattress and bedding and full of girls clothing for ages 0-18 months. In excellent condition.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "10 Dec 2021",
-      "ageInYears": 2,
-      "dimensions": "90x40 cm (mattress)",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "102182",
       "name": "office chair",
       "description": "office chair with rollers.",
@@ -4417,16 +4424,6 @@
       "validTill": "11 Dec 2021",
       "ageInYears": 4,
       "dimensions": "160cm x 110 cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101985",
-      "name": "Baby high chair",
-      "description": "Combi high chair. Still in good condition just some stain on the belt.",
-      "location": null,
-      "validTill": "31 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
