@@ -2166,24 +2166,6 @@
       "date": "08 Nov 2021"
     },
     {
-      "id": "100764",
-      "category": "Infant and Children Items",
-      "name": "MamyPoko Kids Pants for Night Time | Size XXXL",
-      "description": "Urgent Needs! Family of 7 with five children lives in a 3-rm flat. Father recently left his job due to high stress which impacted his home life. The family recently welcomed their 5th child. With father's reduced income and an increase in expenses, we would like to seek support for the family to meet the basic needs of the children as parents gain stability in their income.",
-      "specifications": "2 Packs",
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Sonia Singh",
-        "email": "sonia@fycs.org",
-        "phone": [
-          "88692114",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Nov 2021"
-    },
-    {
       "id": "102152",
       "category": "Medical Aids",
       "name": "ID Pants Adult Diapers XL",
@@ -3162,6 +3144,24 @@
       "date": "09 Nov 2021"
     },
     {
+      "id": "102185",
+      "category": "Learning Aids",
+      "name": "Stationeries for School",
+      "description": "Low income family of 8 need stationeries for their school going children. Mum is caregiver to 5 children and an elderly while dad's income is unstable. Family requires 5 sets of stationeries such as: Pen, pencil. Color pencils, rulers, sharpener, glue etc",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Community Services - Project Family",
+        "name": "Sherrie Ooi",
+        "email": "sherrieooi@fycs.org",
+        "phone": [
+          "67690430",
+          "62355224"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Dec 2021"
+    },
+    {
       "id": "102171",
       "category": "Learning Aids",
       "name": "Tablet/laptop",
@@ -3704,6 +3704,16 @@
   ],
   "offers": [
     {
+      "id": "102186",
+      "name": "Ear piece",
+      "description": "Samsung ear piece for phone and PC",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "01 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102184",
       "name": "Bundles of clothes",
       "description": "Bundles of dresses and skirts. Mostly brand new with tag. Only worn once or twice to try on. About 8 clothings in one bundle.",
@@ -3781,16 +3791,6 @@
       "validTill": "10 Dec 2021",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102141",
-      "name": "Dining Table with 4 Chairs",
-      "description": "Good condition.\nWell use but not abuse.",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "09 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": "150cmX90cmX75cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3991,26 +3991,6 @@
       "validTill": "05 Jan 2022",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102048",
-      "name": "Bunk bed - hardly used",
-      "description": "Bunk bed. Hardly used. Without the mattress. Original cost 2000$.",
-      "location": "Telok Blangah, Harbourfront",
-      "validTill": "09 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102041",
-      "name": "Large Ikea Dining table (extendable) - Black",
-      "description": "Kept clean with only minor scratches. Pure solid wood. Super sturdy.",
-      "location": null,
-      "validTill": "09 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": "2m x 1m",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -4244,16 +4224,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "101982",
-      "name": "Children car seat",
-      "description": "Had this car seat for 4 years but seldom use it. Still in good condition.",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "31 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "101981",
       "name": "Electric kettle",
       "description": "Electric kettle. A bit yellowish on outside but working well.",
@@ -4471,16 +4441,6 @@
       "validTill": "19 Dec 2021",
       "ageInYears": 2,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101871",
-      "name": "Coffee Table",
-      "description": "Sturdy solid wood in good usable condition",
-      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-      "validTill": "09 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": "70 x 130 cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -5531,26 +5491,6 @@
       "validTill": "10 Dec 2021",
       "ageInYears": 4,
       "dimensions": "178cm x 50cm x 45cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100895",
-      "name": "Pigeon Rapid Sterilizer",
-      "description": "Rarely used as baby is breastfed\nGood condition, 2 tier rack enough to fit 4 to 5 bottles per steam",
-      "location": "Kranji, Woodgrove",
-      "validTill": "09 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "100858",
-      "name": "Promama milk",
-      "description": "Brand new. Expire in April 2022",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "09 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     }
   ]
