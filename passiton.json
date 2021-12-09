@@ -19,23 +19,6 @@
       "date": "09 Dec 2021"
     },
     {
-      "id": "102159",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Client is a divorcee, staying with her 14 years old son in a 2-room rental flat. Client has multiple health issues which hinder her from securing a stable job as she has to attend frequent medical appointments. Client has been receiving financial assistance from agencies.",
-      "specifications": null,
-      "contact": {
-        "org": "Sembawang Family Service Centre",
-        "name": "Po Woei Yee",
-        "email": "powoeiyee@sfsc.org.sg",
-        "phone": [
-          "67547050"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "08 Dec 2021"
-    },
-    {
       "id": "102157",
       "category": "Electrical Home Appliances",
       "name": "Oven (for baking)",
@@ -99,23 +82,6 @@
         "phone": [
           "65536643",
           "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Dec 2021"
-    },
-    {
-      "id": "102081",
-      "category": "Electrical Home Appliances",
-      "name": "Top Load Washing Machine",
-      "description": "Elderly client is looking for a Top-Load washing machine to ease his housework burden. Client is unemployed as he has very poor eyesight, and is has great difficulty washing clothes by hand.\n\nAs client is financially strapped, would appreciate if prospective donors can cover the delivery costs as well.\n\nPlease contact Elijah @ 92391749 for more information.\n\nThanks!",
-      "specifications": null,
-      "contact": {
-        "org": "Whampoa Family Service Centre",
-        "name": "Elijah Koh",
-        "email": "elijahkoh@kkcs.org.sg",
-        "phone": [
-          "63260300"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3789,6 +3755,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "102203",
+      "name": "wooden study table",
+      "description": "Almost new wooden study desk. Giving away as i injured my back and need to get a standing desk",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "31 Dec 2021",
+      "ageInYears": 2,
+      "dimensions": "150x60",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102202",
+      "name": "Ikea Desks x 3",
+      "description": "Three identical pre-loved Ikea desks available. Some light wear and tear. All drawers running smoothly",
+      "location": "Telok Blangah, Harbourfront",
+      "validTill": "08 Jan 2022",
+      "ageInYears": 3,
+      "dimensions": "104x50x75cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102200",
       "name": "Book shelf",
