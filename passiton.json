@@ -3513,23 +3513,6 @@
       "date": "12 Nov 2021"
     },
     {
-      "id": "102196",
-      "category": "Home Furnishing",
-      "name": "Wardrobe",
-      "description": "Client is a single mother who is unemployed as she has to care for her young daughter. Client lives in a 1 room rental flat. Client is struggling financially. Client does not have a wardrobe. Client is looking for a small wardrobe for clothes, preferably with sliding doors to minimise space taken up.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Dini Dzulaikha Bte Dzulkifli",
-        "email": null,
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "09 Dec 2021"
-    },
-    {
       "id": "102188",
       "category": "Home Furnishing",
       "name": "Storage rack",
@@ -3806,6 +3789,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "102200",
+      "name": "Book shelf",
+      "description": "Shelf in fair condition.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "08 Jan 2022",
+      "ageInYears": 2,
+      "dimensions": "62cm x 110cm x 32 cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102197",
       "name": "IKEA trolley",
