@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "102216",
+      "category": "Electrical Home Appliances",
+      "name": "Vacuum cleaner",
+      "description": "Client is a divorcee and lives in a 1room/1hall rental flat with daughter who was just released from prison and her grandson who is 3 months old. Client is working as a cleaner and struggling to provide for daughter and grandson. Client wish for a vacuum cleaner as she does not have one.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Dini Dzulaikha Bte Dzulkifli",
+        "email": null,
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "09 Dec 2021"
+    },
+    {
+      "id": "102215",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave",
+      "description": "Client is a divorcee and lives in a 1room/1hall rental flat with daughter who was just released from prison and her grandson who is 3 months old. Client is working as a cleaner and struggling to provide for daughter and grandson. Client wish for a microwave preferably a new one as she is from Muslim background, to ease cooking.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Dini Dzulaikha Bte Dzulkifli",
+        "email": null,
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "09 Dec 2021"
+    },
+    {
       "id": "102209",
       "category": "Electrical Home Appliances",
       "name": "Water Heater",
@@ -125,23 +159,6 @@
       "date": "07 Dec 2021"
     },
     {
-      "id": "102077",
-      "category": "Electrical Home Appliances",
-      "name": "fridge",
-      "description": "Client's husband is the sole breadwinner of the family of 5. They have been struggling financially and their refrigerator recently spoiled, causing much difficulties. The donation of a refrigerator would be beneficial for the family in their day-to-day lives.(Melissa)",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Teddy Fu",
-        "email": "teddyfu@thkmc.org.sg",
-        "phone": [
-          "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Dec 2021"
-    },
-    {
       "id": "102070",
       "category": "Electrical Home Appliances",
       "name": "Fridge",
@@ -158,23 +175,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "07 Dec 2021"
-    },
-    {
-      "id": "102058",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Family consists of a single mother with 1 school-going child (10 y/o). They are in need of a new or second-hand small fridge (i.e. cannot exceed 151cm), as their current one has stopped working. Client has not been able to replace the faulty fridge due to the lack of sustainable income. She has been certified medically unfit for work. The family has been depending on financial assistance schemes to meet their basic needs minimally.",
-      "specifications": "151cm (H) x 56cm (W) x 59cm (D)",
-      "contact": {
-        "org": "Whispering Hearts Family Service Centre",
-        "name": "Law Jia Yi",
-        "email": "jiayi@viriya.org.sg",
-        "phone": [
-          "67951008"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Dec 2021"
     },
     {
       "id": "102053",
@@ -710,6 +710,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "08 Nov 2021"
+    },
+    {
+      "id": "102217",
+      "category": "Infant and Children Items",
+      "name": "Child Diapers",
+      "description": "Young mother who has just delivered her 3rd child is requires diapers for her newborn and toddler. Her spouse is unemployed but looking for full time employment. They need  3 packs of Huggies Nature Made Diapers in size S and 3 packs of Pampers Toddler Pants in size XXXL. Thank You.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Yuliza Mohamad Yusoff",
+        "email": "yuliza@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Dec 2021"
+    },
+    {
+      "id": "102214",
+      "category": "Infant and Children Items",
+      "name": "Similac Stage 1 & Stage 4  Formula Milk",
+      "description": "Young mother has recently delivered her 3rd child and is in need of formula milk for her newborn and toddler. Her spouse is unemployed and looking for full-time employment.She is appealing for Similac Infant Formula Stage 1 & Similac Preschool Formula Stage 4 Gain Kid. Thank you",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Yuliza Mohamad Yusoff",
+        "email": "yuliza@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Dec 2021"
     },
     {
       "id": "102199",
@@ -3776,6 +3810,26 @@
   ],
   "offers": [
     {
+      "id": "102219",
+      "name": "Carseat",
+      "description": "Still can be used. recently change to seat booster.",
+      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
+      "validTill": "22 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "na",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102218",
+      "name": "XXL Mamypoko Tape diapers (28 pieces)",
+      "description": "used a few pieces. Still in very good condition.",
+      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
+      "validTill": "28 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "xxl",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102208",
       "name": "IKEA trolley",
       "description": "IKEA trolley in good condition - mint green",
@@ -3793,6 +3847,16 @@
       "validTill": "18 Dec 2021",
       "ageInYears": 4,
       "dimensions": "90cm diameter",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102213",
+      "name": "wooden study table",
+      "description": "Almost new wooden study desk. Giving away as i injured my back and need to get a standing desk",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "31 Dec 2021",
+      "ageInYears": 2,
+      "dimensions": "150x60",
       "deliveryCostsCoveredByDonor": true
     },
     {
