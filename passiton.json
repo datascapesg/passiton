@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "102209",
+      "category": "Electrical Home Appliances",
+      "name": "Water Heater",
+      "description": "78yo senior who stays alone and is on on long term oxygen therapy requires water heater at home. He is also currently on palliative care. He previously boils water for showering, however due to disease progression, it is increasingly difficult (breathless) and unsafe for him to prepare water for showering daily. \n\n- Wiring for water heater present.",
+      "specifications": null,
+      "contact": {
+        "org": "TOUCH Home Care (Toa Payoh)",
+        "name": "Koh Wee Xin",
+        "email": "weexin.koh@touch.org.sg",
+        "phone": [
+          "68046529",
+          "66610855"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Dec 2021"
+    },
+    {
       "id": "102205",
       "category": "Electrical Home Appliances",
       "name": "Dryer",
@@ -3791,6 +3809,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "102210",
+      "name": "Mamypoko Anti Mos Diaper (tape) Size L",
+      "description": "One carton, 4 packets, 168 pieces.",
+      "location": "Seletar",
+      "validTill": "13 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102208",
+      "name": "IKEA trolley",
+      "description": "IKEA trolley in good condition - mint green",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "08 Jan 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102206",
       "name": "Dining Table Set with Chairs",
