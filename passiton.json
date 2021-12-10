@@ -367,23 +367,6 @@
       "date": "29 Nov 2021"
     },
     {
-      "id": "101698",
-      "category": "Electrical Home Appliances",
-      "name": "Fridge",
-      "description": "Single elderly, unemployed with health issues. Just moved in and requires a fridge to store items. Tampines area.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Family Service Centre - Tampines",
-        "name": "Ong Boon Cheng",
-        "email": "ongbooncheng@mws.sg",
-        "phone": [
-          "67872001"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Nov 2021"
-    },
-    {
       "id": "101541",
       "category": "Electrical Home Appliances",
       "name": "Wall fan with installation",
@@ -3197,6 +3180,23 @@
       "date": "12 Nov 2021"
     },
     {
+      "id": "102233",
+      "category": "Home Furnishing",
+      "name": "Storage Queen-sized Bed & Mattress",
+      "description": "Family of 4 living in a rental flat. There is no source of income in this family at the moment as client suffers from a medical condition and requires caregiving from spouse. The family is financially reliant on financial assistance. They are seeking for a queen-sized storage bed as well as mattress. For further liaisons on delivery address etc, do contact me at 98598768, thank you very much.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (East)",
+        "name": "Nur Afrina",
+        "email": "fsceast@ppis.sg",
+        "phone": [
+          "69503503"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Dec 2021"
+    },
+    {
       "id": "102226",
       "category": "Home Furnishing",
       "name": "Mattresses",
@@ -3598,6 +3598,16 @@
   ],
   "offers": [
     {
+      "id": "102232",
+      "name": "Panasonic Rice Cooker",
+      "description": "Used Panasonic rice cooker in good in good condition - without steamer tray.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "24 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "W23 x D36 x H18cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102231",
       "name": "IKEA extendable bed frame and mattress",
       "description": "1. IKEA, SUNDVIK extendable bed frame with slatted bed base, white 80x200 cm - used for less than two weeks\nMore information here: \n\nhttps://www.ikea.com/sg/en/p/sundvik-ext-bed-frame-with-slatted-bed-base-white-s39240339/\n\n\n2. IKEA, INNERLIG Sprung mattress for extendable bed 80x200 cm - brand new, not opened yet.\nMore information here: \n\nhttps://www.ikea.com/sg/en/p/innerlig-sprung-mattress-for-extendable-bed-00348595/\n\n\nFrom a pet-free and smoke-free house.",
@@ -3614,16 +3624,6 @@
       "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
       "validTill": "09 Jan 2022",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102227",
-      "name": "Big Tv",
-      "description": "used for about 3-4 years.",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "31 Dec 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
