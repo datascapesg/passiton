@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "102250",
+      "category": "Electrical Home Appliances",
+      "name": "Electric Kettle",
+      "description": "Elderly couple living alone with low social support. They are currently depending on silver support pay out and food ration distribution by the FSC. They are looking for a electric kettle to make hot drinks for themselves.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Janetta Tan",
+        "email": "janettatan@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Dec 2021"
+    },
+    {
       "id": "102244",
       "category": "Electrical Home Appliances",
       "name": "Oven",
@@ -13,23 +31,6 @@
         "phone": [
           "89407189",
           "64450100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "10 Dec 2021"
-    },
-    {
-      "id": "102242",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Requesting for a refrigerator for Client as her current refrigerator is spoilt. \nClient is a single mother with 4 young children and an elderly mother. She prepares home-cooked food daily.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Toa Payoh",
-        "name": "Sheryl Tay",
-        "email": "sheryltay@carecorner.org.sg",
-        "phone": [
-          "63561622"
         ]
       },
       "deliveryCostsCoveredByDonor": false,
@@ -3616,6 +3617,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "102251",
+      "name": "48\" 4K LG TV",
+      "description": "Functioning TV with screen glitch every few seconds.  See pictures for screen glitch.  Comes with digital antenna if needed.",
+      "location": "Watten Estate, Novena, Thomson",
+      "validTill": "17 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "110 x 25 x 69 cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102248",
       "name": "Study table with protection pad",
