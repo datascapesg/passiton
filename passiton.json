@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "102244",
+      "category": "Electrical Home Appliances",
+      "name": "Oven",
+      "description": "A low income family wish to have an electrical oven at home.",
+      "specifications": null,
+      "contact": {
+        "org": "MontfortCare - Marine Parade Family Service Centre",
+        "name": "Cherie Ho",
+        "email": "cherie.ho@montfortcare.org.sg",
+        "phone": [
+          "89407189",
+          "64450100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "10 Dec 2021"
+    },
+    {
       "id": "102242",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -485,24 +503,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "09 Nov 2021"
-    },
-    {
-      "id": "102236",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "Client is a wheelchair bound, staying alone at home. Her current wheelchair is not working properly and it affects her mobility and movement.",
-      "specifications": null,
-      "contact": {
-        "org": "FRCS Family Service Centre - Clementi",
-        "name": "Nur Farhana Binte Harun",
-        "email": "nurfarhana@frcsfsc.sg",
-        "phone": [
-          "67799488ext31",
-          "67799488"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "10 Dec 2021"
     },
     {
       "id": "101870",
@@ -2026,6 +2026,23 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "09 Nov 2021"
+    },
+    {
+      "id": "102243",
+      "category": "Others",
+      "name": "Study Table",
+      "description": "The family experienced financial difficulty due to low wages and has high expenses for children's needs. The study table would greatly alleviate their care-giving stress and needs, to provide better care and support to the children in their growing up years.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Covenant Family Service Centre - Hougang",
+        "name": "Chan Jun Ren",
+        "email": "chanjunren@mws.sg",
+        "phone": [
+          "62828558"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Dec 2021"
     },
     {
       "id": "102229",
@@ -3829,6 +3846,16 @@
       "validTill": "20 Dec 2021",
       "ageInYears": 3,
       "dimensions": "150 cms diameter  75 cms height",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102245",
+      "name": "Infant seat-MaxiCosi AP",
+      "description": "NEW IN BOX never opened. Maxi-Cosi Mico AP infant seat- attachable to strollers/prams to use with infants. Can also be a car seat. See link below to find compatible strollers.\n\nCompatibility list (for strollers):\nhttps://www.babylist.com/hello-baby/car-seat-stroller-compatibility",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "04 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
