@@ -2529,24 +2529,6 @@
       "date": "03 Dec 2021"
     },
     {
-      "id": "101897",
-      "category": "Others",
-      "name": "Laptop",
-      "description": "An low income elderly grandmother is looking after 2 grandchildren. Her grandson needs a laptop as his laptop is faulty.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Yew Tee",
-        "name": "Jane Chua",
-        "email": "janechua@fycs.org",
-        "phone": [
-          "64162169",
-          "64162162"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Dec 2021"
-    },
-    {
       "id": "101882",
       "category": "Others",
       "name": "Large Cardboard Boxes",
@@ -3617,6 +3599,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "102252",
+      "name": "Computer desk",
+      "description": "Small Computer desk",
+      "location": null,
+      "validTill": "14 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": "90x60cm height 75cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102251",
       "name": "48\" 4K LG TV",
