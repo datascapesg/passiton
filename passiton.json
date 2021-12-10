@@ -2028,23 +2028,6 @@
       "date": "09 Nov 2021"
     },
     {
-      "id": "102243",
-      "category": "Others",
-      "name": "Study Table",
-      "description": "The family experienced financial difficulty due to low wages and has high expenses for children's needs. The study table would greatly alleviate their care-giving stress and needs, to provide better care and support to the children in their growing up years.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Covenant Family Service Centre - Hougang",
-        "name": "Chan Jun Ren",
-        "email": "chanjunren@mws.sg",
-        "phone": [
-          "62828558"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Dec 2021"
-    },
-    {
       "id": "102229",
       "category": "Others",
       "name": "Adult Diapers Ultra - Size M (Stick-on)",
@@ -3490,6 +3473,24 @@
       "date": "17 Nov 2021"
     },
     {
+      "id": "102249",
+      "category": "Medical Aids",
+      "name": "Pull up Adult diapers (any brand is fine)",
+      "description": "Client is a cancer pt who requires 9 packs of diapers per month.",
+      "specifications": "L size",
+      "contact": {
+        "org": "Singapore Cancer Society",
+        "name": "Vivian Koo",
+        "email": "vivian_koo@singaporecancersociety.org.sg",
+        "phone": [
+          "97277507",
+          "62219578"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "10 Dec 2021"
+    },
+    {
       "id": "102152",
       "category": "Medical Aids",
       "name": "ID Pants Adult Diapers XL",
@@ -3615,6 +3616,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "102248",
+      "name": "Study table with protection pad",
+      "description": "Study / computer table with drawer",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "25 Dec 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102247",
+      "name": "Sofa Bed",
+      "description": "Ikea twin sofa bed in good condition",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "19 Dec 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102239",
       "name": "Picket and rail sofa x 2",
@@ -3953,16 +3974,6 @@
       "validTill": "05 Jan 2022",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102060",
-      "name": "Washing machine",
-      "description": "Dry function and display board not working well but otherwise all good, washing with hot water function available. Will be left outside flat. Do collect soon if keen.",
-      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-      "validTill": "31 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": "59x52x86cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
