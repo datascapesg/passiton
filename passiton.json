@@ -3124,6 +3124,26 @@
   ],
   "offers": [
     {
+      "id": "102287",
+      "name": "TV Console",
+      "description": "TV Console available",
+      "location": "Seletar",
+      "validTill": "15 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "2.15 m x 0.5 m",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102286",
+      "name": "Washing Machine",
+      "description": "Washing Machine to be donated.",
+      "location": "Seletar",
+      "validTill": "15 Dec 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102285",
       "name": "Queen Size Mattress and bed Frame",
       "description": "Queen Sized Mattress and Bed Frame, in good condition. Hardly used.",
