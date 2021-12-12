@@ -2431,23 +2431,6 @@
       "date": "10 Dec 2021"
     },
     {
-      "id": "102226",
-      "category": "Home Furnishing",
-      "name": "Mattresses",
-      "description": "A low-income elderly of Thye Hua Kwan Moral Charities (THKMC) is currently living together with her elderly spouse. The couple’s mattresses are currently old and dirty. \n\nTHKMC is looking for a donation of a pair of single-size mattresses with a bedframe and a pair of bolsters. \n\nIf you know of someone who has the item for donation, please contact caseworker Yu Xin at 8292 2205. We appreciate if the donor could deliver the item to client’s home directly at Circuit Road. For more information on THKMC, do visit: https://www.thkmc.org.sg",
-      "specifications": null,
-      "contact": {
-        "org": "THK Cluster Support @ Geylang",
-        "name": "Tan Yu Xin",
-        "email": "tanyuxin@thkmc.org.sg",
-        "phone": [
-          "68461228"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Dec 2021"
-    },
-    {
       "id": "102212",
       "category": "Home Furnishing",
       "name": "13 inch Orthopedic Queen Sized Mattress",
@@ -2779,6 +2762,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "102315",
+      "name": "Girl's Clothings",
+      "description": "Good condition pyjamas, tops, shorts dresses for 4-6 year olds",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "25 Dec 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102314",
+      "name": "Pair Stools with hidden storage",
+      "description": "Pair of red & black synthetic leather cushion chair, have hidden storage below",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "19 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "40cm x 40cm x 40cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102313",
+      "name": "Bedside Cabinet",
+      "description": "Small cabinet with 2 drawers, pretty good condition, no scratch",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "19 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "50x50x50cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102312",
       "name": "TV 40\"",
