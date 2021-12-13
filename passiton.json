@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "102344",
+      "category": "Electrical Home Appliances",
+      "name": "Electric table fan",
+      "description": "Client and brother are both staying in a rental flat and are not able to work due to medical reasons. They are on financial assistance. Their present fan is not working and they request for a table fan.",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Jerry Leon Kasman",
+        "email": "jerry.leon@reach.org.sg",
+        "phone": [
+          "68010712",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Dec 2021"
+    },
+    {
+      "id": "102342",
+      "category": "Electrical Home Appliances",
+      "name": "Rice cooker",
+      "description": "I have a client who is staying in a rental flat and is on financial assistance. He stays with a younger brother who is low in IQ. They requested for a rice cooker.",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Jerry Leon Kasman",
+        "email": "jerry.leon@reach.org.sg",
+        "phone": [
+          "68010712",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Dec 2021"
+    },
+    {
       "id": "102337",
       "category": "Electrical Home Appliances",
       "name": "Fridge (Halal)",
@@ -15,24 +51,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "13 Dec 2021"
-    },
-    {
-      "id": "102335",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Client is living in a rental flat with her infant son while her husband is currently incarcerated. She requires a 7-8kg washing machine due to limited space.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Gracia Leong",
-        "email": "gracialeong@fycs.org",
-        "phone": [
-          "69783485",
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "13 Dec 2021"
     },
     {
@@ -2280,6 +2298,24 @@
       "date": "16 Nov 2021"
     },
     {
+      "id": "102343",
+      "category": "Home Furnishing",
+      "name": "Bed frame",
+      "description": "Client is a caregiver for her school going son and she is on financial assistance staying in a rental flat. She requires a bedframe for her queen size bed.",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Jerry Leon Kasman",
+        "email": "jerry.leon@reach.org.sg",
+        "phone": [
+          "68010712",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Dec 2021"
+    },
+    {
       "id": "102340",
       "category": "Home Furnishing",
       "name": "2 Door Wardrobe",
@@ -2629,6 +2665,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "102346",
+      "name": "Leather Sofa 2.5 seater",
+      "description": "Reo 2.5 seater sofa purchased from King living, delivered in Jan 2018. Genuine Leather. \n\nLength 210-220cm. Solid Steel frame with 25 years warranty. Heavy. One seat is well used while the other half is seldom sit on. Can go to this company link to see descriptions of product. \n\nhttps://www.kingliving.com.sg/reo-3-seater-smart",
+      "location": "Geylang, Eunos",
+      "validTill": "12 Jan 2022",
+      "ageInYears": 3,
+      "dimensions": "220cm x 105cm x 70cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102345",
+      "name": "Baby cot with mattress",
+      "description": "A very sturdy pine wood baby cot is to be blessed . Please contact for details.",
+      "location": "Macpherson, Braddell",
+      "validTill": "12 Jan 2022",
+      "ageInYears": 2,
+      "dimensions": "3*2*3",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102339",
       "name": "Yamaha Piano (Electric)",
