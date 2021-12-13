@@ -1,9 +1,19 @@
 [
   {
+    "id": "102347",
+    "name": "Samsung Washing Machine",
+    "description": "This is a 5.5 years old washing machine but it is still in great condition. Not been spoilt before. We couldn't bring to new place as landlord has a washing machine already.",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "18 Dec 2021",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "102346",
     "name": "Leather Sofa 2.5 seater",
     "description": "Reo 2.5 seater sofa purchased from King living, delivered in Jan 2018. Genuine Leather. \n\nLength 210-220cm. Solid Steel frame with 25 years warranty. Heavy. One seat is well used while the other half is seldom sit on. Can go to this company link to see descriptions of product. \n\nhttps://www.kingliving.com.sg/reo-3-seater-smart",
-    "location": "Geylang, Eunos",
+    "location": "Geylang",
     "validTill": "12 Jan 2022",
     "ageInYears": 3,
     "dimensions": "220cm x 105cm x 70cm",
@@ -137,16 +147,6 @@
     "validTill": "11 Jan 2022",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "102317",
-    "name": "Fridge",
-    "description": "LG Fridge",
-    "location": "Yishun, Sembawang",
-    "validTill": "11 Jan 2022",
-    "ageInYears": 4,
-    "dimensions": "165X64X62",
     "deliveryCostsCoveredByDonor": true
   },
   {
