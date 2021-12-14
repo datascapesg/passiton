@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "102407",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Single mother of 4 children, currently unemployed as she has just resigned from work. Her 2nd son is diagnosed with type II diabetes and family is currently waiting for support from SSO but has yet to receive response. Family is experiencing financial difficulties and their washing machine is faulty. Client does not have the means to get a new washing machine.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Nathan Hou",
+        "email": "nathanhou@thkmc.org.sg",
+        "phone": [
+          "88554795",
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Dec 2021"
+    },
+    {
       "id": "102401",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -1544,6 +1562,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "15 Nov 2021"
+    },
+    {
+      "id": "102408",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Client, aged 18, is a single mum and staying at her parents' house with her two-year-old daughter. She is actively looking for employment and planning to upgrade herself by attending course online. They do not have laptop at home. Donation of laptop would be greatly appreciated.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Nathan Hou",
+        "email": "nathanhou@thkmc.org.sg",
+        "phone": [
+          "88554795",
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Dec 2021"
     },
     {
       "id": "102365",
@@ -3131,16 +3167,6 @@
       "validTill": "19 Dec 2021",
       "ageInYears": 4,
       "dimensions": "50x50x50cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102312",
-      "name": "TV 40\"",
-      "description": "Wallmount 40\" TV, old TV not smart, cant watch netflix, etc...",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "19 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": "40inch",
       "deliveryCostsCoveredByDonor": true
     },
     {
