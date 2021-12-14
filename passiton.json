@@ -1,6 +1,41 @@
 {
   "requests": [
     {
+      "id": "102400",
+      "category": "Electrical Home Appliances",
+      "name": "Television",
+      "description": "Client (M/32) is married with 4 young children: F/9, F/7, M/5 and M/4. He has been working as a delivery driver up till Nov 2021 when his father, Hussain (M/72)was discharged from the nursing home. Currently he's a full time caregiver for his father while his wife is a caregiver to the 4 children",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ MacPherson",
+        "name": "Shree Ganga D/O Rajasagran",
+        "email": "ShreeGanga@thkmc.org.sg",
+        "phone": [
+          "67414255"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Dec 2021"
+    },
+    {
+      "id": "102396",
+      "category": "Electrical Home Appliances",
+      "name": "Dryer",
+      "description": "Please contact Social Worker Kathryn at 8855 4012 during office hours or email to kathrynchia@thkmc.org.sg to liaise. Client is a mother of a teenager daughter (aged 16). They are financially tied as client’s husband has unstable employment due to his low education and poor working background and client has long-term chronic illness that disabled her from working. They are requesting for a dryer.  \nYour donation is very much appreciated!",
+      "specifications": "NA",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Navarraj",
+        "email": "navarraj@thkmc.org.sg",
+        "phone": [
+          "64961278",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Dec 2021"
+    },
+    {
       "id": "102367",
       "category": "Electrical Home Appliances",
       "name": "Rice cooker",
@@ -1686,6 +1721,24 @@
       "date": "16 Nov 2021"
     },
     {
+      "id": "102398",
+      "category": "Others",
+      "name": "Simple smartphone",
+      "description": "Please contact Social Worker Kathryn at 8855 4012 during office hours or email to kathrynchia@thkmc.org.sg to liaise. Client is a single elderly male living alone in a HDB 1-room rental unit. He is on long-term medical leave and unable to work at the moment. He has lost his mobile phone and urgently needing one for communication. He is looking for a simple smartphone that allows him to type Chinese characters. Your donation is very much appreciated!",
+      "specifications": "NA",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Navarraj",
+        "email": "navarraj@thkmc.org.sg",
+        "phone": [
+          "64961278",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Dec 2021"
+    },
+    {
       "id": "102371",
       "category": "Others",
       "name": "Citravescent",
@@ -2297,6 +2350,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "16 Nov 2021"
+    },
+    {
+      "id": "102399",
+      "category": "Home Furnishing",
+      "name": "Cabinet/wardrobe",
+      "description": "Client (M/32) is married with 4 young children: F/9, F/7, M/5 and M/4. He has been working as a delivery driver up till Nov 2021 when his father, Hussain (M/72)was discharged from the nursing home. Currently he's a full time caregiver for his father while his wife is a caregiver to the 4 children",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ MacPherson",
+        "name": "Shree Ganga D/O Rajasagran",
+        "email": "ShreeGanga@thkmc.org.sg",
+        "phone": [
+          "67414255"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Dec 2021"
     },
     {
       "id": "102363",
@@ -3281,6 +3351,26 @@
       "location": null,
       "validTill": "19 Dec 2021",
       "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102395",
+      "name": "IKEA Sofa",
+      "description": "Very new",
+      "location": null,
+      "validTill": "19 Dec 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102397",
+      "name": "IKEA Sofa",
+      "description": "Very new",
+      "location": null,
+      "validTill": "19 Dec 2021",
+      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
