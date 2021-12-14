@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "102401",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "For a family of 5.. father has been doing ad hoc jobs cuz hard to get full time..mother is sole bread winner. Full time job but salary very little.All children are going to school.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ MacPherson",
+        "name": "Shree Ganga D/O Rajasagran",
+        "email": "ShreeGanga@thkmc.org.sg",
+        "phone": [
+          "67414255"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Dec 2021"
+    },
+    {
       "id": "102400",
       "category": "Electrical Home Appliances",
       "name": "Television",
@@ -2805,6 +2822,26 @@
   ],
   "offers": [
     {
+      "id": "102405",
+      "name": "White study table",
+      "description": "Giving away this study table as I am getting an adjustable one.",
+      "location": "Kranji, Woodgrove",
+      "validTill": "20 Dec 2021",
+      "ageInYears": 3,
+      "dimensions": "80x60x74",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102402",
+      "name": "IKEA NORSBORG 3 seat sofa",
+      "description": "IKEA Norsborg 3 seat sofa\nDark grey cover. Slight discoloration at armrests due oxidation. But otherwise in good condition. Will be disassembled.",
+      "location": "Jurong",
+      "validTill": "24 Dec 2021",
+      "ageInYears": 2,
+      "dimensions": "W213xD88xH85cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102394",
       "name": "Rattan wood chair with table",
       "description": "Good condition... Well use",
@@ -4501,6 +4538,26 @@
       "location": "Macpherson, Braddell",
       "validTill": "22 Dec 2021",
       "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102403",
+      "name": "Ikea chair",
+      "description": "well-used but still in good condition, only self-collection at my place - Archipelago condominium, postal code 479280, thank you.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "22 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102404",
+      "name": "Ikea chair",
+      "description": "well-used but still in good condition, only self-collection at my place - Archipelago condominium, postal code 479280, thank you.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "22 Dec 2021",
+      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
