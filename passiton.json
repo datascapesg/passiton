@@ -1843,24 +1843,6 @@
       "date": "08 Dec 2021"
     },
     {
-      "id": "102140",
-      "category": "Others",
-      "name": "Tena Diaper Size M",
-      "description": "A client with a physical disability. She uses Tena diapers daily. She would need a carton of Tena diapers for a monthly supply. Thank you.",
-      "specifications": "Tena Diaper Size M",
-      "contact": {
-        "org": "Society For The Physically Disabled (SPD)",
-        "name": "Koh Yeng Yeng",
-        "email": "koh_yeng_yeng@spd.org.sg",
-        "phone": [
-          "65790750",
-          "65790700"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "08 Dec 2021"
-    },
-    {
       "id": "102139",
       "category": "Others",
       "name": "Ensure Milk Vanilla",
@@ -2749,6 +2731,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "102424",
+      "name": "IKEA queen size bed with mattresses",
+      "description": "from IKEA and almost new item",
+      "location": null,
+      "validTill": "24 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": "200cm * 150cm * 40cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102423",
+      "name": "2x Single wooden bed without mattress",
+      "description": "Bed Brown colour with wooden leg",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "27 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": "190 cm by 91 cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102422",
       "name": "TOYS - HELLO KITTY ETC",
