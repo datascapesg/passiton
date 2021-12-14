@@ -1,5 +1,25 @@
 [
   {
+    "id": "102392",
+    "name": "Mini Exercise Bike",
+    "description": "This is suitable for a SAC (Senior Activity Ctr)",
+    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+    "validTill": "24 Dec 2021",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "102391",
+    "name": "Queen bed  plus mattress",
+    "description": "Well used.. Good condition",
+    "location": null,
+    "validTill": "01 Jan 2022",
+    "ageInYears": 4,
+    "dimensions": "211cm x 158cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "102390",
     "name": "3 seater sofa 200 cm long",
     "description": "Quite good condition. Fabric sofa.",
@@ -77,16 +97,6 @@
     "validTill": "12 Jan 2022",
     "ageInYears": 4,
     "dimensions": "32x2x20 (inches)",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "102380",
-    "name": "50 inch Samsung TV",
-    "description": "Samsung digital TV. More than 4 years but in good condition.",
-    "location": "Singapore",
-    "validTill": "12 Jan 2022",
-    "ageInYears": 4,
-    "dimensions": "50x4x31 (inches)",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -916,16 +926,6 @@
     "location": "Raffles Place, Cecil, Marina, People's Park",
     "validTill": "05 Jan 2022",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "102050",
-    "name": "EzTone",
-    "description": "No longer uses the equipment.",
-    "location": null,
-    "validTill": "05 Jan 2022",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
