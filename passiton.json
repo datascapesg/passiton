@@ -2715,6 +2715,16 @@
   ],
   "offers": [
     {
+      "id": "102425",
+      "name": "Hospital bed frame",
+      "description": "Only the bed frame, no bed",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "13 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": "about 200 cm x 100 cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102424",
       "name": "IKEA queen size bed with mattresses",
       "description": "from IKEA and almost new item",
@@ -4502,16 +4512,6 @@
       "validTill": "19 Dec 2021",
       "ageInYears": 4,
       "dimensions": "17(L)×12(H)×7(T) cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101303",
-      "name": "Hospital Bed",
-      "description": "Very good condition",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "15 Dec 2021",
-      "ageInYears": 2,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
