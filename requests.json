@@ -1,5 +1,23 @@
 [
   {
+    "id": "102460",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "Working mother with three children, 8, 6 and 4 years old needs a top-load washing machine as hers broke down. Her income is just sufficient for her family’s expenses and hence cannot afford a new washing machine.",
+    "specifications": "54cm x 56cm x 85cm",
+    "contact": {
+      "org": "Whampoa Family Service Centre",
+      "name": "Tan Jia Wei",
+      "email": "tanjiawei@kkcs.org.sg",
+      "phone": [
+        "63260305",
+        "63260300"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "15 Dec 2021"
+  },
+  {
     "id": "102457",
     "category": "Electrical Home Appliances",
     "name": "Mini Fridge",
@@ -293,24 +311,6 @@
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "30 Nov 2021"
-  },
-  {
-    "id": "101755",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "Mother and son staying in a 2 room rental flat needs to replace their faulty washing machine as they are not able to afford purchasing a new one due to low income.",
-    "specifications": null,
-    "contact": {
-      "org": "Touch Community Services Ltd",
-      "name": "Cassandra Teigh",
-      "email": "cassandra.teigh@touch.org.sg",
-      "phone": [
-        "63179989",
-        "63770122"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
     "date": "30 Nov 2021"
   },
   {
@@ -1777,6 +1777,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "16 Nov 2021"
+  },
+  {
+    "id": "102458",
+    "category": "Others",
+    "name": "Transport support to school for student with special needs",
+    "description": "Family of 4 has a teenager with special needs. The family is on financial assistance. Due to teenager's unique mood issues, he has difficulty taking the school bus during his hyper moods. The family previously coped by taking private hire during teenager's hyper moods that occur every month for approximately 2 weeks. However, these fares take up a significant proportion of the family's income. \nMother is a responsible lady who prioritises her children despite her several health conditions. She is also the full-time caregiver for the teenager with special needs.  \nTransport support for the family would be very helpful in reducing the stressors for this family and will allow the teenager to continue to have access to school during his hyper moods.",
+    "specifications": "NIL",
+    "contact": {
+      "org": "Rainbow Centre - Magaret Drive School",
+      "name": "Ng Jing Han",
+      "email": "jinghanng@rainbowcentre.org.sg",
+      "phone": [
+        "68179435",
+        "64752072"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "15 Dec 2021"
   },
   {
     "id": "102452",
