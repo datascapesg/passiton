@@ -1780,6 +1780,24 @@
       "date": "16 Nov 2021"
     },
     {
+      "id": "102497",
+      "category": "Others",
+      "name": "Smart phone",
+      "description": "Single mom with 6 kids (at 2 diff primary schools and 1 in sec school) requires handphone to stay in touch with them.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Christina Lim",
+        "email": "limpohgekchristina@fycs.org",
+        "phone": [
+          "63519151",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Dec 2021"
+    },
+    {
       "id": "102490",
       "category": "Others",
       "name": "Wet wipes",
@@ -2684,6 +2702,24 @@
       "date": "18 Nov 2021"
     },
     {
+      "id": "102493",
+      "category": "Medical Aids",
+      "name": "Blood pressure machine",
+      "description": "Single mom with 2 young kids (M3, F1+) requires a blood pressure machine to monitor her risky pregnancy.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Christina Lim",
+        "email": "limpohgekchristina@fycs.org",
+        "phone": [
+          "63519151",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Dec 2021"
+    },
+    {
       "id": "102152",
       "category": "Medical Aids",
       "name": "ID Pants Adult Diapers XL",
@@ -2808,6 +2844,66 @@
   ],
   "offers": [
     {
+      "id": "102500",
+      "name": "Mamypoko Airfit (S)",
+      "description": "3 packs of (S) Mamypoko diapers",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "15 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102499",
+      "name": "Huggies Dry Pants (M)",
+      "description": "Huggies Dry Pants (M)",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "15 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102498",
+      "name": "Mamypoko Pants (XL)",
+      "description": "Mamypoko pants (XL)",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "15 Jan 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102496",
+      "name": "Queen size Bed Frame",
+      "description": "2 uunits of woode queen size bed frame. Brand new, not used. \nNot assembled.",
+      "location": "Jurong",
+      "validTill": "15 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": "1.5 x  2",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102495",
+      "name": "Infant car seat",
+      "description": "Infant car sit/carrier",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "15 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102492",
+      "name": "TV console -(brand new)",
+      "description": "Brand new wooden TV console. Not open,  not used.",
+      "location": "Jurong",
+      "validTill": "15 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": "1.8m",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102488",
       "name": "Note books",
       "description": "Wrting note books, still freah and crisp.\nGood condition",
@@ -2874,16 +2970,6 @@
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "14 Jan 2022",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102473",
-      "name": "Blessing Home Bakes",
-      "description": "We are a group of home bakers looking to bake to bless children of low income/blue chas family for Xmas",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "24 Dec 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
