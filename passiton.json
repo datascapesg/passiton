@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "102536",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Client is a 62 year old male, previously homeless. He had managed to apply successfully for HDB public rental unit, and had received his keys to his unit a few days ago. He works as a gardener and with his low income, he struggles financially to get furniture and household appliances.He hopes for donation for a few items such as fridge. For further enquiries, do contact me at 98598768 for delivery address etc.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (East)",
+        "name": "Nur Afrina",
+        "email": "fsceast@ppis.sg",
+        "phone": [
+          "69503503"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Dec 2021"
+    },
+    {
+      "id": "102535",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is a 62 year old male, previously homeless. He had managed to apply successfully for HDB public rental unit, and had received his keys to his unit a few days ago. He works as a gardener and with his low income, he struggles financially to get furniture and household appliances. He hopes for donation for a few items including washing machine. For further clarifications, do contact me at 98598768 for delivery address etc. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (East)",
+        "name": "Nur Afrina",
+        "email": "fsceast@ppis.sg",
+        "phone": [
+          "69503503"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Dec 2021"
+    },
+    {
       "id": "102529",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -1853,23 +1887,6 @@
       "date": "16 Nov 2021"
     },
     {
-      "id": "102533",
-      "category": "Others",
-      "name": "Back to school items",
-      "description": "Low income family consists of single mother with 3 young children 6, 10 and 11yo. Mother is looking for employment but works as part time food delivery in the meantime. Mother is hoping for support for their schooling needs next year for school bags and stationeries (pens, pencils, erasers, pencil case, rulers etc)",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Mohd Fadil Bin Hassan",
-        "email": "mohdfadil@amkfsc.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "16 Dec 2021"
-    },
-    {
       "id": "102531",
       "category": "Others",
       "name": "20 packets X 150g dried prawns",
@@ -3059,6 +3076,16 @@
   ],
   "offers": [
     {
+      "id": "102534",
+      "name": "Tena Adult Diaper",
+      "description": "Adult Diaper M size\nWaist 32\" - 44\", 81cm - 112cm\n12 pieces in a packet, I have 5 packets",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "15 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102520",
       "name": "Chest of drawers",
       "description": "Spacious and solid chest of drawers.",
@@ -4099,16 +4126,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "101981",
-      "name": "Electric kettle",
-      "description": "Electric kettle. A bit yellowish on outside but working well.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "03 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "101977",
       "name": "MOM  prebiotic  (FOS)",
       "description": "1) MOM PREBIOTIC (FOS) expiry  \n   date : 28/4/2022.\n\n2) Similar Mum expire date : \n   3/1/2022.\n\n3) Fresh mum expire  date : \n   22/02/2022. \n\nSelf collection.",
@@ -4196,16 +4213,6 @@
       "validTill": "30 Dec 2021",
       "ageInYears": 1,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101909",
-      "name": "Single Bed - Frame and Mattress",
-      "description": "Unused Single Bed",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "24 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": "92 x 188 cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
