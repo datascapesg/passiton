@@ -737,23 +737,6 @@
       "date": "15 Dec 2021"
     },
     {
-      "id": "102415",
-      "category": "Infant and Children Items",
-      "name": "Diapers - MamyPoko Pants",
-      "description": "Family has 3 children with father as the sole breadwinner earning minimal income as a goods deliveryman. Youngest daughter is 1year old and requires daily changing of diapers, which is financially taxing on the family. Support for diapers can help reduce overall household expenses.",
-      "specifications": "MamyPoko Pants - Air Fit",
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Dec 2021"
-    },
-    {
       "id": "102358",
       "category": "Infant and Children Items",
       "name": "Faiprice Gold Stage 1 & 3 ( QTY:3 each)",
@@ -3093,13 +3076,53 @@
   ],
   "offers": [
     {
-      "id": "102534",
-      "name": "Tena Adult Diaper",
-      "description": "Adult Diaper M size\nWaist 32\" - 44\", 81cm - 112cm\n12 pieces in a packet, I have 5 packets",
-      "location": "Queenstown, Tiong Bahru",
+      "id": "102543",
+      "name": "Primary 2 Chinese Textbooks",
+      "description": "SG Primary 2 Chinese Textbooks 2A & 2B, Supplementary reading books,\nflash cards 2A & 2B & Chinese CCE.\nTotal 5 books + 2 sets of cards.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "15 Jan 2022",
       "ageInYears": 1,
       "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102542",
+      "name": "Primary 3 Chinese Textbooks and CCE",
+      "description": "SG Primary 3 Chinese Textbooks 3A & 3B, Supplementary reading books & Chinese CCE.\nTotal 5 books",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "15 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102541",
+      "name": "Primary 3 Math Textbooks",
+      "description": "SG Primary 3 Math Textbooks\nMy Pals are here 3A & 3B",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "15 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102540",
+      "name": "Primary 2 Math Textbooks",
+      "description": "SG Primary 2 Math Textbooks\nMy Pals are here 2A & 2B",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "15 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102539",
+      "name": "Study/Work Chair with adjustable height",
+      "description": "Work/Study chair with adjustable height to fit table height.\nAlmost brand new, less than 1 year old.\nRoller protection film still intact.\nWheelbase ~48cm\nAdjustable Seat Height ~58 cm to 84 cm.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "24 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": "Wheel base ~48 cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3383,16 +3406,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "102392",
-      "name": "Mini Exercise Bike",
-      "description": "This is suitable for a SAC (Senior Activity Ctr)",
-      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-      "validTill": "24 Dec 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "102387",
       "name": "Study Table",
       "description": "IKEA study table",
@@ -3440,16 +3453,6 @@
       "validTill": "12 Jan 2022",
       "ageInYears": 4,
       "dimensions": "160x80x73",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102373",
-      "name": "Stationary cycling",
-      "description": "Suitable for the elderly. Bought for my elderly parent",
-      "location": null,
-      "validTill": "21 Dec 2021",
-      "ageInYears": 2,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
