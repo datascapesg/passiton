@@ -55,23 +55,6 @@
       "date": "16 Dec 2021"
     },
     {
-      "id": "102477",
-      "category": "Electrical Home Appliances",
-      "name": "Rice cooker",
-      "description": "A single elderly with multiple medical conditions just moved into HDB rental flat. He wishes to get a rice cooker to cook his own meals to save his spending on food, as he is financially tight.",
-      "specifications": null,
-      "contact": {
-        "org": "Whampoa Family Service Centre",
-        "name": "Ooi Zhi Heng",
-        "email": "ooizhiheng@kkcs.org.sg",
-        "phone": [
-          "63260300"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Dec 2021"
-    },
-    {
       "id": "102464",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -2482,6 +2465,23 @@
       "date": "16 Nov 2021"
     },
     {
+      "id": "102504",
+      "category": "Home Furnishing",
+      "name": "Kitchen Shelves/Cabinet",
+      "description": "This is a newlywed couple who are expecting their first child. \nAfter struggling to find a stable home, they are finally moving into their new rental flat. \nHowever, they are going through financial difficulties. \nClient is unable to afford the abovementioned items. \nClient is not particular with the items, but is in need of a bed soon as she is currently pregnant. \nLooking for a kind donor to help this family. \nThank you.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Dec 2021"
+    },
+    {
       "id": "102478",
       "category": "Home Furnishing",
       "name": "Small pedestal drawer",
@@ -2898,6 +2898,26 @@
   ],
   "offers": [
     {
+      "id": "102506",
+      "name": "IKEA chest of drawers",
+      "description": "White chest of drawers from IKEA in good condition",
+      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+      "validTill": "31 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "115 x 51 x 132",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102505",
+      "name": "IKEA sofa bed",
+      "description": "IKEA sofa bed in great condition with denim-style cover",
+      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+      "validTill": "31 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102500",
       "name": "Mamypoko Airfit (S)",
       "description": "3 packs of (S) Mamypoko diapers",
@@ -2995,16 +3015,6 @@
       "validTill": "31 Dec 2021",
       "ageInYears": 3,
       "dimensions": "W200 x D84 x H83cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102475",
-      "name": "Metal bunk bed",
-      "description": "Single size.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "14 Jan 2022",
-      "ageInYears": 2,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3158,16 +3168,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "102421",
-      "name": "coffee maker",
-      "description": "almost new.  seldom use.",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "13 Jan 2022",
-      "ageInYears": 2,
-      "dimensions": "10\" 6.5\" 13\"",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "102418",
       "name": "Outdoor swing chair",
       "description": "This is a rattan swing chair chained to a helical spring and supported by a rigid steel frame.",
@@ -3215,16 +3215,6 @@
       "validTill": "27 Dec 2021",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102385",
-      "name": "Sandwich/waffle maker",
-      "description": "Hardly been used.",
-      "location": null,
-      "validTill": "12 Jan 2022",
-      "ageInYears": 2,
-      "dimensions": "23x21 approx",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3528,16 +3518,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "102282",
-      "name": "Super Single Mattress, Wheel Chair, Komot, reclining chair",
-      "description": "1. Wheel Chair\n2. Komot\n3. Super Single Mattress\n4. Reclining Chair",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "31 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "102281",
       "name": "Clothes for teenage girls / young adult women size XS-S",
       "description": "3 tshirt \n1 top \n1 skirt\n1 romper",
@@ -3554,26 +3534,6 @@
       "location": null,
       "validTill": "19 Dec 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102395",
-      "name": "IKEA Sofa",
-      "description": "Very new",
-      "location": null,
-      "validTill": "19 Dec 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102397",
-      "name": "IKEA Sofa",
-      "description": "Very new",
-      "location": null,
-      "validTill": "19 Dec 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3975,16 +3935,6 @@
       "validTill": "04 Jan 2022",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101984",
-      "name": "Sofa",
-      "description": "Sofa",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "29 Dec 2021",
-      "ageInYears": 3,
-      "dimensions": "Sofa (38*60inch) and (31*61 inch)",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -4415,16 +4365,6 @@
       "validTill": "24 Dec 2021",
       "ageInYears": 1,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101502",
-      "name": "curtain",
-      "description": "Day and Night Curtain . 2 pieces each for each side. Night curtain in grey in colour with stripes. Day curtain , grey with silver dots.In good condition.",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "23 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": "4-room flat. Full length",
       "deliveryCostsCoveredByDonor": true
     },
     {
