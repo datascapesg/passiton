@@ -1762,6 +1762,23 @@
       "date": "16 Nov 2021"
     },
     {
+      "id": "102486",
+      "category": "Others",
+      "name": "School bags and shoes",
+      "description": "Two families, who are currently facing financial difficulties, need one pair of school shoes(size 33.5) and two school bags for their children (11y/o and 7y/o) who are attending primary school in Jan 2022.",
+      "specifications": null,
+      "contact": {
+        "org": "MontfortCare - Marine Parade Family Service Centre",
+        "name": "Carissa",
+        "email": "carissa.lee@montfortcare.org.sg",
+        "phone": [
+          "64450100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Dec 2021"
+    },
+    {
       "id": "102458",
       "category": "Others",
       "name": "Transport support to school for student with special needs",
@@ -2631,24 +2648,6 @@
       "date": "18 Nov 2021"
     },
     {
-      "id": "102484",
-      "category": "Medical Aids",
-      "name": "Blood pressure machine",
-      "description": "Clt is single mom to 3 primary school going kids and has high blood pressure which needs monitoring.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Christina Lim",
-        "email": "limpohgekchristina@fycs.org",
-        "phone": [
-          "63519151",
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Dec 2021"
-    },
-    {
       "id": "102152",
       "category": "Medical Aids",
       "name": "ID Pants Adult Diapers XL",
@@ -2773,6 +2772,16 @@
   ],
   "offers": [
     {
+      "id": "102488",
+      "name": "Note books",
+      "description": "Wrting note books, still freah and crisp.\nGood condition",
+      "location": null,
+      "validTill": "15 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102485",
       "name": "Spin Bike",
       "description": "Spin bike rarely used. Bought less than 1.5 years. Would prefer if the delivery fee is paid by the collector. Thanks.",
@@ -2789,16 +2798,6 @@
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "17 Dec 2021",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102482",
-      "name": "Samsung Fridge small",
-      "description": "Small fridge of 2 years about 2xx Litres capacity",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "17 Dec 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4490,16 +4489,6 @@
       "validTill": "18 Dec 2021",
       "ageInYears": 4,
       "dimensions": "200cm x 105cm x 37cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101191",
-      "name": "Side table",
-      "description": "Over 10year but still sturdy. This in good condition",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "16 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     }
   ]
