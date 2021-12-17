@@ -2926,6 +2926,16 @@
   ],
   "offers": [
     {
+      "id": "102568",
+      "name": "Dry Food Ration",
+      "description": "Self Collection",
+      "location": "Yishun, Sembawang",
+      "validTill": "22 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102566",
       "name": "Standing fan",
       "description": "Standing fan in good condition. used for about 2 years",
@@ -2999,26 +3009,6 @@
       "id": "102543",
       "name": "Primary 2 Chinese Textbooks",
       "description": "SG Primary 2 Chinese Textbooks 2A & 2B, Supplementary reading books,\nflash cards 2A & 2B & Chinese CCE.\nTotal 5 books + 2 sets of cards.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "15 Jan 2022",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102542",
-      "name": "Primary 3 Chinese Textbooks and CCE",
-      "description": "SG Primary 3 Chinese Textbooks 3A & 3B, Supplementary reading books & Chinese CCE.\nTotal 5 books",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "15 Jan 2022",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102541",
-      "name": "Primary 3 Math Textbooks",
-      "description": "SG Primary 3 Math Textbooks\nMy Pals are here 3A & 3B",
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "15 Jan 2022",
       "ageInYears": 1,
