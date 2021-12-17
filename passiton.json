@@ -1,24 +1,6 @@
 {
   "requests": [
     {
-      "id": "102559",
-      "category": "Infant and Children Items",
-      "name": "Dumex Dugro Stage 3 Milk Powder",
-      "description": "The client is a full-time caregiver to her 1-year-old daughter.  Husband works as a Grab delivery man.  Currently, the couple is struggling with outstanding bills and seeking financial assistance. The client requires 1X Dumex Dugro Stage 3 Milk Powder.",
-      "specifications": "Dumex Dugro Stage 3 Milk Powder (X1)",
-      "contact": {
-        "org": "Fei Yue Community Services",
-        "name": "Tharvini d/o Nadarajah",
-        "email": "tharvini@fycs.org",
-        "phone": [
-          "67690430",
-          "63809169"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Dec 2021"
-    },
-    {
       "id": "102557",
       "category": "Infant and Children Items",
       "name": "Baby Cot",
@@ -1398,24 +1380,6 @@
       "date": "16 Dec 2021"
     },
     {
-      "id": "102519",
-      "category": "Others",
-      "name": "5kg ikan bilis",
-      "description": "We are requesting for 5kg of ikan bilis as we cook 3 meals a day for our residents from Monday to Saturday. The Helping Hand is a Voluntary Welfare Organization affiliated with the National Council of Social Service. We run a home providing drug rehabilitation and after-care services to male drug addicts and ex-offenders in Singapore. This is a residential programme carried out in our agency home, which was graciously provided by the Singapore government in recognition of our services to the community. We have a total of about 100 residents and staff staying in at our premises.",
-      "specifications": null,
-      "contact": {
-        "org": "The Helping Hand",
-        "name": "Chan Toh Han",
-        "email": "chantohhan@thehelpinghand.org.sg",
-        "phone": [
-          "67184081",
-          "62832204"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "16 Dec 2021"
-    },
-    {
       "id": "102497",
       "category": "Others",
       "name": "Smart phone",
@@ -1937,6 +1901,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "16 Nov 2021"
+    },
+    {
+      "id": "102562",
+      "category": "Electrical Home Appliances",
+      "name": "Standing Fan",
+      "description": "This is a 53 year old man, living with his 39yo wife. \nTogether, they have a 3 yo son, living in a rental flat with his aunt-in-law. \nDue to his medical condition, the family is on financial assistance. He has been seeking employment but to no avail.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Dec 2021"
+    },
+    {
+      "id": "102561",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave",
+      "description": "This is a 53 year old man, living with his 39yo wife. \nTogether, they have a 3 yo son, living in a rental flat with his aunt-in-law. \nDue to his medical condition, the family is on financial assistance. \nHe has been seeking employment but to no avail.\nThank you!",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Dec 2021"
     },
     {
       "id": "102553",
@@ -2479,6 +2477,23 @@
       "date": "17 Nov 2021"
     },
     {
+      "id": "102564",
+      "category": "Home Furnishing",
+      "name": "TV Console",
+      "description": "This is a newlywed couple who are expecting their first child. \nAfter struggling to find a stable home, they are finally moving into their new rental flat. \nHowever, they are going through financial difficulties. \nClient is unable to afford the abovementioned item. \nLooking for a kind donor to help this family. \nThank you.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Dec 2021"
+    },
+    {
       "id": "102532",
       "category": "Home Furnishing",
       "name": "One-seater sofa",
@@ -2824,6 +2839,23 @@
       "date": "22 Nov 2021"
     },
     {
+      "id": "102563",
+      "category": "Leisure and Healthy Lifestyle",
+      "name": "Bicycle",
+      "description": "This is a 53 year old man, living with his 39yo wife. \nTogether, they have a 3 yo son, living in a rental flat with his aunt-in-law. \nDue to his medical condition, the family is on financial assistance. He has been seeking employment but to no avail.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Dec 2021"
+    },
+    {
       "id": "102431",
       "category": "Leisure and Healthy Lifestyle",
       "name": "Singapore Zoo Tickets",
@@ -2894,6 +2926,26 @@
   ],
   "offers": [
     {
+      "id": "102566",
+      "name": "Standing fan",
+      "description": "Standing fan in good condition. used for about 2 years",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "24 Dec 2021",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102565",
+      "name": "Children car seat",
+      "description": "Children car seat. Seldom use. Still in good condition.",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "31 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102560",
       "name": "Mattress with Bed Frame",
       "description": "Super Single mattress, used for less than a year. Mattress is in almost new condition. Comes with original bed base & head board(Easy to assemble) also used for less than a year.",
@@ -2901,16 +2953,6 @@
       "validTill": "23 Dec 2021",
       "ageInYears": 1,
       "dimensions": "190 x 107 x 22",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102558",
-      "name": "Washing machine",
-      "description": "fully operational",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "22 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": "see picture",
       "deliveryCostsCoveredByDonor": true
     },
     {
