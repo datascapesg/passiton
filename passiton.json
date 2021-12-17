@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "102584",
+      "category": "Infant and Children Items",
+      "name": "Milk",
+      "description": "1 year old baby needs Fairprice Gold Stage 3 milk powder. Family earns low income and struggle to buy milk powder.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Josherine Toh",
+        "email": "josherinetoh@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "17 Dec 2021"
+    },
+    {
       "id": "102577",
       "category": "Infant and Children Items",
       "name": "XL diapers",
@@ -2596,6 +2613,24 @@
       "date": "17 Nov 2021"
     },
     {
+      "id": "102583",
+      "category": "Home Furnishing",
+      "name": "Single Foldable Foam Mattress (Thick)",
+      "description": "Mother of 3 hopes to seek your kind provision of a foldable mattress for her baby as he embarks on tummy time to ensure safety as their current mattress is too thin and wearing out. Mother is the main caregiver of her children with limited social and financial support. Your blessing of milk powder will truly alleviate great financial load and help her to attend to her children's caregiving needs. We seek your kind understanding that the shelter can only receive brand new mattress due to shelter protocols. Thank you so much!",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Transitional Shelter",
+        "name": "Esther Tan",
+        "email": "esther_tan@awwa.org.sg",
+        "phone": [
+          "65117278",
+          "65117272"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Dec 2021"
+    },
+    {
       "id": "102569",
       "category": "Home Furnishing",
       "name": "Low height drawer",
@@ -2903,6 +2938,23 @@
       "date": "18 Nov 2021"
     },
     {
+      "id": "102586",
+      "category": "Medical Aids",
+      "name": "Tena Adult Diapers",
+      "description": "Client is a divorcee mother (F/53), looking after her aged mother who has osteoporosis and dementia. She also raises her 2 sons (M/23 and M/21) single-handedly. Her eldest son has mild intellectual disability and asthma while the younger one has Lennox-Gastaut Syndrome - a condition of childhood epilepsy with multiple types of seizures.\n\nClient's mother is semi-ambulant and requires a wheelchair when she is outside. She requires constant supervision, according to client, as she has a tendency to throw tantrums due to her dementia.\n\nClient's eldest son currently works part-time as a Safe Distancing Management Officer at hawker centre at Bedok. However, client's younger son is mostly non-ambulant and requires a wheelchair all the time. He is of small stature for a 21-year-old and requires supervision.\n\nDue to client's caregiving commitments, client tries her best to work part-time as a service crew at Burger King, aside from receiving financial assistance from SSO. Therefore, the donations of adult diapers will lighten the financial load off client. Client's mother uses TENA diapers pants, size M. Thank you so much.",
+      "specifications": "Size M & Pull up",
+      "contact": {
+        "org": "THK Family Service Centre @ Bedok North",
+        "name": "Teddy Fu",
+        "email": "teddyfu@thkmc.org.sg",
+        "phone": [
+          "64491440"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Dec 2021"
+    },
+    {
       "id": "102493",
       "category": "Medical Aids",
       "name": "Blood pressure machine",
@@ -3061,6 +3113,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "102585",
+      "name": "Ironman building blocks similar to LEGO",
+      "description": "Building block toys.",
+      "location": "Kranji, Woodgrove",
+      "validTill": "16 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": "28cmx26cmx6cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102582",
+      "name": "Children car seat",
+      "description": "Children car seat. Seldom use. Still in good condition.",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "31 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102581",
       "name": "Slow cooker",
