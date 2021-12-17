@@ -1,5 +1,25 @@
 [
   {
+    "id": "102555",
+    "name": "4 dining chairs",
+    "description": "4 dining chairs in well used but still in good condition",
+    "location": null,
+    "validTill": "23 Dec 2021",
+    "ageInYears": 4,
+    "dimensions": "Standard dining chair size",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "102554",
+    "name": "Dressing table",
+    "description": "Not sure",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "21 Dec 2021",
+    "ageInYears": 3,
+    "dimensions": "90×41×17",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "102550",
     "name": "Osim massage chair",
     "description": "In working condition",
@@ -116,16 +136,6 @@
     "location": "Serangoon Garden, Hougang, Ponggol",
     "validTill": "15 Jan 2022",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "102498",
-    "name": "Mamypoko Pants (XL)",
-    "description": "Mamypoko pants (XL)",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "15 Jan 2022",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -330,16 +340,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "102410",
-    "name": "Ikea Storage with Boxes",
-    "description": "Item is more than 4 yrs old but in good working condition",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "25 Dec 2021",
-    "ageInYears": 4,
-    "dimensions": "44x99x95 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "102405",
     "name": "White study table",
     "description": "Giving away this study table as I am getting an adjustable one.",
@@ -355,16 +355,6 @@
     "description": "Preloved cot and mattress. Will also provide the cot bedsheets if recipient is keen. Other items not included.",
     "location": null,
     "validTill": "31 Dec 2021",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "102387",
-    "name": "Study Table",
-    "description": "IKEA study table",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "27 Dec 2021",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
@@ -547,16 +537,6 @@
     "validTill": "19 Dec 2021",
     "ageInYears": 4,
     "dimensions": "180cm x 80cm x 40cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "102308",
-    "name": "TV Stand",
-    "description": "High quality Italian glass TV stand, well maintained.",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "19 Dec 2021",
-    "ageInYears": 4,
-    "dimensions": "200cm x 50cm x 50cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -870,16 +850,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "102197",
-    "name": "IKEA trolley",
-    "description": "IKEA trolley in good condition - mint green",
-    "location": "Bukit Timah ",
-    "validTill": "08 Jan 2022",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "102192",
     "name": "2-seater Ikea Couch",
     "description": "Ikea 2-seater fabric couch.",
@@ -992,16 +962,6 @@
   {
     "id": "102002",
     "name": "Clay pot",
-    "description": "Self collection.",
-    "location": "Little India",
-    "validTill": "30 Dec 2021",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "102001",
-    "name": "Blender",
     "description": "Self collection.",
     "location": "Little India",
     "validTill": "30 Dec 2021",
@@ -1351,16 +1311,6 @@
   },
   {
     "id": "101770",
-    "name": "PowerPac Electric Oven",
-    "description": "Electric Oven",
-    "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
-    "validTill": "26 Dec 2021",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "101771",
     "name": "PowerPac Electric Oven",
     "description": "Electric Oven",
     "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
