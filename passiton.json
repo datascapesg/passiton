@@ -610,24 +610,6 @@
       "date": "06 Dec 2021"
     },
     {
-      "id": "101875",
-      "category": "Infant and Children Items",
-      "name": "Baby Diapers (Tape/Pants) - Size M and XXL",
-      "description": "Single mother of two young children (18 months and 4yo) is in need of diapers for this month as she had to take unpaid leave from work due to her children falling sick recently.\n\nRequest:\n1) Drypers size M (Female) - 3 packets\n2) Drypers size XXL (Male) - 3 packets",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Lee Yan Jun",
-        "email": "leeyanjun@amkfsc.org.sg",
-        "phone": [
-          "64546678",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Dec 2021"
-    },
-    {
       "id": "101787",
       "category": "Infant and Children Items",
       "name": "Drypers Tape Diapers (XL)",
@@ -3202,6 +3184,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "102600",
+      "name": "Shoe",
+      "description": "Only use once. Black spots behind.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "16 Jan 2022",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102597",
       "name": "Rice cooker",
