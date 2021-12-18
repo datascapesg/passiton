@@ -2715,23 +2715,6 @@
       "date": "02 Dec 2021"
     },
     {
-      "id": "101784",
-      "category": "Others",
-      "name": "Trolley",
-      "description": "Single mother with 4 young children needs a working trolley. She has not been working due to caregiving needs (health) of children. She is motivated to work as a parcel delivery around the neighborhood to support her children. However she requires trolley to ease the workload.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Mohd Fadil Bin Hassan",
-        "email": "mohdfadil@amkfsc.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Dec 2021"
-    },
-    {
       "id": "101769",
       "category": "Others",
       "name": "Dog leash and muzzle",
@@ -3011,6 +2994,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "102616",
+      "name": "Built in Steam oven unused",
+      "description": "Unused steam oven, power cord needs patching to power plug for wall socket",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "30 Dec 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102615",
+      "name": "Brandt oven unused",
+      "description": "unused oven disconnected from power socket so need electrician to help plug in.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "30 Dec 2021",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102614",
       "name": "Child high chair",
