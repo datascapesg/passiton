@@ -52,23 +52,6 @@
       "date": "17 Dec 2021"
     },
     {
-      "id": "102576",
-      "category": "Infant and Children Items",
-      "name": "Similac Stage 3 milk powder",
-      "description": "Client is a single mother, who has just completed her divorce. She is taking care of a 2 year old son by herself, and was recently retrenched as she had taken too many leave days to care for her son/settle the divorce proceedings. Currently, she is looking for a new job and requires support to purchase milk powder and diapers for her child.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Jio Hui Zhen",
-        "email": "jiohuizhen@amkfsc.org.sg",
-        "phone": [
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "17 Dec 2021"
-    },
-    {
       "id": "102575",
       "category": "Infant and Children Items",
       "name": "XXL size diapers",
@@ -2646,23 +2629,6 @@
       "date": "22 Nov 2021"
     },
     {
-      "id": "102596",
-      "category": "Leisure and Healthy Lifestyle",
-      "name": "Foldable bicycle",
-      "description": "Elderly client wishes to have a foldable bicycle to store at home as his current bicycle had been stolen and he is not able to afford another one. Client and spouse is retiree and blue chas card holder.",
-      "specifications": null,
-      "contact": {
-        "org": "Whampoa Family Service Centre",
-        "name": "Travis Lee",
-        "email": "travislee@kkcs.org.sg",
-        "phone": [
-          "63260300"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "17 Dec 2021"
-    },
-    {
       "id": "102589",
       "category": "Leisure and Healthy Lifestyle",
       "name": "Bicycle for adults",
@@ -2785,6 +2751,46 @@
     }
   ],
   "offers": [
+    {
+      "id": "102624",
+      "name": "step ladder",
+      "description": "Small, three steps, step ladder",
+      "location": null,
+      "validTill": "18 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102623",
+      "name": "Study table with two drawers",
+      "description": "Study table with two drawers- minor scratches.",
+      "location": null,
+      "validTill": "18 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102622",
+      "name": "Tefal vacuum cleaner",
+      "description": "Small Tefal vacuum cleaner in excellent condition",
+      "location": null,
+      "validTill": "18 Jan 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102621",
+      "name": "Portable foldable single bed with mattress",
+      "description": "Foldable single bed with mattress- easy to store",
+      "location": null,
+      "validTill": "18 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102620",
       "name": "Lego Toys",
