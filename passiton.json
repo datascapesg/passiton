@@ -2804,6 +2804,16 @@
   ],
   "offers": [
     {
+      "id": "102620",
+      "name": "Lego Toys",
+      "description": "Lego toys for small children. It has train tracks and train as well.",
+      "location": null,
+      "validTill": "18 Jan 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102619",
       "name": "Aerogaz AZ-983SF Double Table Top Gas Cooker (PUB)",
       "description": "https://www.lazada.sg/products/aerogaz-az-983sf-double-table-top-gas-cooker-pub-i160454851-s203779291.html?exlaz=d_1:mm_150050845_51350205_2010350205::12:12261804687!120300669351!!!pla-297963845945!c!297963845945!203779291!117722777&gclid=Cj0KCQiAqvaNBhDLARIsAH1Pq52gPMwVHC9dFaer4fC9h15vLlEcVauHg0gAMOUrqUyxvmW92yohi7YaAkdBEALw_wcB",
@@ -2941,16 +2951,6 @@
       "validTill": "23 Dec 2021",
       "ageInYears": 3,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102604",
-      "name": "IKEA",
-      "description": "IKEA TROFAST Storage combination\nComes with all the storage drawers shown in picture.",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-      "validTill": "31 Dec 2021",
-      "ageInYears": 3,
-      "dimensions": "91xx44x94cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3484,16 +3484,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "102329",
-      "name": "Avent breast pump",
-      "description": "6 years old, but tested still workings. Some parts are yellowish due to aging.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "19 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "102326",
       "name": "Arm Chair",
       "description": "In good condition, hardly used. Hopefully, someone staying in the west can benefit from this item.",
@@ -3511,16 +3501,6 @@
       "validTill": "11 Jan 2022",
       "ageInYears": 4,
       "dimensions": "140cm x 80cm x 75cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102323",
-      "name": "Baby cot",
-      "description": "Includes changing table for babies. Color of bassinet is grey.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "19 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": "89cm by 63.5cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3551,26 +3531,6 @@
       "validTill": "25 Dec 2021",
       "ageInYears": 2,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102313",
-      "name": "Bedside Cabinet",
-      "description": "Small cabinet with 2 drawers, pretty good condition, no scratch",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "19 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": "50x50x50cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102307",
-      "name": "Matress Super Single Seahorse",
-      "description": "Thin 10cm super single matress, like new condition, plastic wrapped never open",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "19 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": "190x110x10cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3650,16 +3610,6 @@
       "location": "Jurong",
       "validTill": "10 Jan 2022",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102279",
-      "name": "King Bed",
-      "description": "Good condition",
-      "location": null,
-      "validTill": "19 Dec 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4471,66 +4421,6 @@
       "validTill": "20 Dec 2021",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101334",
-      "name": "Plastic food container",
-      "description": "New plastic containers with covers.",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "19 Dec 2021",
-      "ageInYears": 3,
-      "dimensions": "About 11(dia)×14 (H) and 13(dia)×22(H) cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101333",
-      "name": "Brown bag",
-      "description": "Bought and did not use. Minor defects such as scratches. Can be used.",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "19 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": "About 32(L)×28(W) cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101332",
-      "name": "Plastic food container",
-      "description": "NEW 3 tier green colour plastic container.",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "19 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": "About 15 cm (Diameter) 2.5 cm (H)",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101330",
-      "name": "Side table",
-      "description": "USED SIDE TABLE WITH CORNER LAMINATION CHIPPED OFF. CAN STILL BE USED. SMALL HOLES ON TABLE WERE DRILLED AND USED FOR HOLDING A LAMP. HOLES ARE RESTORED.",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "19 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": "20(L)×14(W)×15(H) inches",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101323",
-      "name": "Plastic container",
-      "description": "Beautiful 2 tier plastic container.",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "19 Dec 2021",
-      "ageInYears": 2,
-      "dimensions": "21 (hex) x13(h) cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101321",
-      "name": "IBM laptop bag",
-      "description": "IBM LAPTOP BAG. NEW. EXCELLENT CONDITION.",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "19 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": "17(L)×12(H)×7(T) cm",
       "deliveryCostsCoveredByDonor": true
     }
   ]
