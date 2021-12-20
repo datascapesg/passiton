@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "102652",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Family with 8 children had their washing machine broke down. Family is unable to purchase a new one as parents were recently released from prison and trying to stabilise their employment. Family urgently requires a washing machine to maintain overall hygiene of the household.",
+      "specifications": "At least 7kg, Top load",
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Dec 2021"
+    },
+    {
       "id": "68830",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -903,24 +920,6 @@
         "phone": [
           "68179435",
           "64752072"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Dec 2021"
-    },
-    {
-      "id": "102427",
-      "category": "Infant and Children Items",
-      "name": "milk powder (Similac stage 3)",
-      "description": "Single mother with 2 children (8yo & 1.5yo) requires milk powder (Similac stage 3) for the youngest daughter. The mother plans to go out to work after the child placed in child care centre when she reaches 18 months, so that the family can be financially self-reliant.",
-      "specifications": null,
-      "contact": {
-        "org": "Hougang Sheng Hong Family Service Centre",
-        "name": "Pang Yan Chyun",
-        "email": "yan_chyun@shenghong.org.sg",
-        "phone": [
-          "62895022ext107",
-          "62895022"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2306,6 +2305,23 @@
       "date": "19 Nov 2021"
     },
     {
+      "id": "102651",
+      "category": "Home Furnishing",
+      "name": "Sofa - 2 or 3 seaters",
+      "description": "Client is a single mother with a 17-year-old son. The family is living in a two-rental flat and is fully dependent on social assistance for family sustenance as client is medically certified unfit for work. \n\nThe family requested for a brand new/second hand two/three-seater sofa. The maximum length measurement of the sofa should not more than 1.8m due to the space constraint.",
+      "specifications": "Max length 1.8M (180cm)",
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "20 Dec 2021"
+    },
+    {
       "id": "102569",
       "category": "Home Furnishing",
       "name": "Low height drawer",
@@ -2406,23 +2422,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "13 Dec 2021"
-    },
-    {
-      "id": "102212",
-      "category": "Home Furnishing",
-      "name": "13 inch Orthopedic Queen Sized Mattress",
-      "description": "Single mum staying in 2 room flat who suffers from spinal pain due to work injury and is currently still doing manual work as still needs to support child who is in poly and repay housing loans. Doctor has advised her numerous times that she needs a surgery but there is high risk of paralysis. She is unable to sleep at night due to the pain. Meanwhile, doctor advised to get a orthopedic mattress to support her back better so that she will at least be able to sleep at night. As she shares the bed with her daughter, she needs a queen sized mattress with at least thickness of 13 inches so that she will have no trouble getting down to the mattress.",
-      "specifications": "152cmX190cmX33.02cm",
-      "contact": {
-        "org": "MontfortCare - Marine Parade Family Service Centre",
-        "name": "Joi Tan",
-        "email": "joi.tan@montfortcare.org.sg",
-        "phone": [
-          "64450100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "09 Dec 2021"
     },
     {
       "id": "102188",
@@ -3303,26 +3302,6 @@
       "validTill": "14 Jan 2022",
       "ageInYears": 3,
       "dimensions": "1.2m x 0.6m x 1.2m",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102444",
-      "name": "Well Used Rowenta Gourmet Pro Ovem (38L)",
-      "description": "Preloved Oven to give away.\nIn good working condition",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "14 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "W552 x H360 x D560 mm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102459",
-      "name": "Well Used Rowenta Gourmet Pro Ovem (38L)",
-      "description": "Preloved Oven to give away.\nIn good working condition",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "14 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "W552 x H360 x D560 mm",
       "deliveryCostsCoveredByDonor": true
     },
     {
