@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "102668",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "Family is requesting for a replacement washing machine as their current one had broken down. Mother is main\ncaregiver of 4 school-going children and her elderly parents. Due to caregiving commitments, she is unable to secure a job and the family is dependent on only husband's income. As such, this limits the family's financial capacity to purchase a new washing machine themselves. Family hopes to be blessed with a washing machine. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Lynn Yeo",
+        "email": "lynnyeo@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Dec 2021"
+    },
+    {
       "id": "102659",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -2715,6 +2733,24 @@
       "date": "22 Nov 2021"
     },
     {
+      "id": "102669",
+      "category": "Medical Aids",
+      "name": "Wrist guard",
+      "description": "Family of 7 with only 2 breadwinners. Mother injured her wrist 2 months ago and is undergoing therapy. She was recommended to purchase a wrist guard for her recovery but has not been able to afford. Therapist noted there has not been much improvement given she still has to use her arms for daily chores and work.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Diana Kam",
+        "email": "dianakam@mws.sg",
+        "phone": [
+          "67867366",
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "20 Dec 2021"
+    },
+    {
       "id": "102152",
       "category": "Medical Aids",
       "name": "ID Pants Adult Diapers XL",
@@ -2749,6 +2785,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "01 Dec 2021"
+    },
+    {
+      "id": "102667",
+      "category": "Kitchen Utility Items",
+      "name": "Induction cooker",
+      "description": "Client is a 74 year old man who recently shifted from his shelter to a rental flat. Is currently unemployed due to health reasons and is looking for kitchenware (induction stove, pots and pans) to cook and save money from buying meals outside.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Telok Blangah",
+        "name": "Joie Pour",
+        "email": "joie.pour@montfortcare.org.sg",
+        "phone": [
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Dec 2021"
     }
   ],
   "offers": [
@@ -3199,16 +3252,6 @@
       "location": null,
       "validTill": "16 Jan 2022",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102568",
-      "name": "Dry Food Ration",
-      "description": "Self Collection",
-      "location": "Yishun, Sembawang",
-      "validTill": "22 Dec 2021",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
