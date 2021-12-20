@@ -594,42 +594,6 @@
       "date": "24 Nov 2021"
     },
     {
-      "id": "101318",
-      "category": "Electrical Home Appliances",
-      "name": "Wall fans - 2",
-      "description": "Single lady, full time taking care of her elderly mother who can't perform the basic activities like use of toilet and bathroom, needs 2 wall fans to replace her current non working ones.",
-      "specifications": null,
-      "contact": {
-        "org": "Bartley Community Care Services",
-        "name": "Chew Chee Kuan",
-        "email": "cheekuan.chew@bccs.org.sg",
-        "phone": [
-          "83760394",
-          "68850432"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "19 Nov 2021"
-    },
-    {
-      "id": "101317",
-      "category": "Electrical Home Appliances",
-      "name": "Wall fans - 2",
-      "description": "Single lsdy, full time taking care of elder mother who can't perform the daily basic activities like use of toilet and bathroom, needs replacement of her 2 non working wall fans",
-      "specifications": null,
-      "contact": {
-        "org": "Bartley Community Care Services",
-        "name": "Chew Chee Kuan",
-        "email": "cheekuan.chew@bccs.org.sg",
-        "phone": [
-          "83760394",
-          "68850432"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "19 Nov 2021"
-    },
-    {
       "id": "98564",
       "category": "Mobility Aids",
       "name": "Wheelchair battery",
@@ -2614,6 +2578,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "102653",
+      "name": "L-Shaped Sofa",
+      "description": "Condition: 7.5/10, dark brown middle part (non leather) repaired. spring works fine\nHALF LEATHER",
+      "location": "Raffles Place, Cecil, Marina, People's Park",
+      "validTill": "25 Dec 2021",
+      "ageInYears": 3,
+      "dimensions": "255cm x 190cm x 39cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102649",
       "name": "Wheelchair",
