@@ -1186,23 +1186,6 @@
       "date": "08 Dec 2021"
     },
     {
-      "id": "102112",
-      "category": "Infant and Children Items",
-      "name": "New milk bottles (4) & Milk bottle cleaner",
-      "description": "lient has 2 children under 2 years old, and she is currently pregnant with her 3rd child. Her husband works adhoc moving jobs as he was let go from his employment as a cleaner. Children would require new milk bottles for hygiene purposes.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Lyndon Mathews",
-        "email": "lyndonmathews@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Dec 2021"
-    },
-    {
       "id": "102102",
       "category": "Infant and Children Items",
       "name": "Diapers (3 packets each size)",
@@ -1934,6 +1917,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "19 Nov 2021"
+    },
+    {
+      "id": "102671",
+      "category": "Others",
+      "name": "Pre-Loved Items",
+      "description": "We are looking for pre-loved items such as soft toys, books and puzzles for our clients. At the end of every month, we carry out a Reward Shop for them to encourage good behavior. Our clients will trade tokens that they earn for these donated items by you. Do contact us for more information.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Pan-Disability Centre @ Eunos",
+        "name": "Siti Nurzarifah Binte Selamat",
+        "email": "sitinurzarifah@thkmc.org.sg",
+        "phone": [
+          "68461171"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "20 Dec 2021"
     },
     {
       "id": "102664",
@@ -2699,23 +2699,6 @@
       "date": "22 Nov 2021"
     },
     {
-      "id": "102589",
-      "category": "Leisure and Healthy Lifestyle",
-      "name": "Bicycle for adults",
-      "description": "2 adult bicycles needed for low income family as they do not have cash to get one and they want to cycle with their children.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Josherine Toh",
-        "email": "josherinetoh@carecorner.org.sg",
-        "phone": [
-          "64761481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "17 Dec 2021"
-    },
-    {
       "id": "102563",
       "category": "Leisure and Healthy Lifestyle",
       "name": "Bicycle",
@@ -2822,6 +2805,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "102672",
+      "name": "King Sized Texas Spring Mattress",
+      "description": "New barely used mattress to giveaway",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "22 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": "180 x 190 x 22",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102666",
       "name": "A pair of Crutches and a single air boot",
@@ -4429,6 +4422,16 @@
       "location": "Macpherson, Braddell",
       "validTill": "22 Dec 2021",
       "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "97263",
+      "name": "Study desk with shelves",
+      "description": "Self pickup please. Contents on desk not included. Desk more than 4 years old but still sturdy and working well.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "24 Dec 2021",
+      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     }
