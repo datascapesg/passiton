@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "102730",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "The washing machine has been faulty for the past 2-3 months and causing inconvenience to the family.",
+      "specifications": "About 60cm (L) x 55cm (W) x 90cm (H)",
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "21 Dec 2021"
+    },
+    {
       "id": "102727",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -2079,6 +2096,23 @@
       "date": "22 Nov 2021"
     },
     {
+      "id": "102732",
+      "category": "Home Furnishing",
+      "name": "mattress (new) x 2",
+      "description": "Client is a single mum and takes care of an autistic child. She has financial issues as she could not work full-time due to caregiving of child.\n\nBoth client and daughter needs 2 mattress as they have been sharing the same mattress which condition is old.",
+      "specifications": null,
+      "contact": {
+        "org": "Serangoon Moral Family Service Centre",
+        "name": "Muhammad Al-Hakim",
+        "email": "hakim@smfsc.org.sg",
+        "phone": [
+          "62847123"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Dec 2021"
+    },
+    {
       "id": "102726",
       "category": "Home Furnishing",
       "name": "Kitchen Tabletop",
@@ -2997,6 +3031,23 @@
       "date": "21 Dec 2021"
     },
     {
+      "id": "102731",
+      "category": "Medical Aids",
+      "name": "KefenTech plaster",
+      "description": "Client is elderly that has multiple medical conditions while staying with his daughter who is intellectually disabled. The client often uses plaster to help him with the pain of his knees.",
+      "specifications": "Ketoprofen 30mg, (10cm x 7cm)",
+      "contact": {
+        "org": "Serangoon Moral Family Service Centre",
+        "name": "Muhammad Al-Hakim",
+        "email": "hakim@smfsc.org.sg",
+        "phone": [
+          "62847123"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "21 Dec 2021"
+    },
+    {
       "id": "102729",
       "category": "Medical Aids",
       "name": "Milk Supplement",
@@ -3189,16 +3240,6 @@
       "name": "Hospital bed",
       "description": "2nd hand hospital bed and mattress with remote control to adjust the bed.",
       "location": "Little India",
-      "validTill": "19 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102647",
-      "name": "airfryer",
-      "description": "air fryer with good working condition.",
-      "location": "Tampines, Pasir Ris",
       "validTill": "19 Jan 2022",
       "ageInYears": 4,
       "dimensions": null,
