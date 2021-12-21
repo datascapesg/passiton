@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "102712",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Two elderly men in their 60s and 70s are looking to have a small sized washing machine in their rental flat.",
+      "specifications": "Small-sized: 7kg",
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Chua Pei Ching",
+        "email": "peiching.chua@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Dec 2021"
+    },
+    {
       "id": "102709",
       "category": "Electrical Home Appliances",
       "name": "Hot water electric kettle",
