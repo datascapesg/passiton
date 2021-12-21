@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "102727",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "The family's present handed over washing machine has broken down. The family has young children and expenses is prioritised for their daily expenses.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Punggol",
+        "name": "Muhammad Syazwan Bin Senin",
+        "email": "syazwansenin@amkfsc.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Dec 2021"
+    },
+    {
       "id": "102720",
       "category": "Electrical Home Appliances",
       "name": "Ceramic Induction Cooker",
@@ -873,6 +890,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "24 Nov 2021"
+    },
+    {
+      "id": "102728",
+      "category": "Mobility Aids",
+      "name": "Electric/Motorized wheelchair",
+      "description": "Elderly is an amputee who urgently requires an electric/motorized wheelchair for her to move around the house. Elderly has difficulties using the manual wheelchair as she has amputated fingers and right leg. Stays alone and does not have anyone to assist in pushing her at home.",
+      "specifications": null,
+      "contact": {
+        "org": "NTUC Health Cluster Support @ Bukit Merah",
+        "name": "Nurul Ashikin Binte Samsuri",
+        "email": "ashikin.s@ntuchealth.sg",
+        "phone": [
+          "88175763",
+          "62741602"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Dec 2021"
     },
     {
       "id": "98564",
@@ -2044,6 +2079,40 @@
       "date": "22 Nov 2021"
     },
     {
+      "id": "102726",
+      "category": "Home Furnishing",
+      "name": "Kitchen Tabletop",
+      "description": "The family has recently relocated into their HDB flat. They would appreciate for a donated TV console as they prioritise expenses on their other needs.",
+      "specifications": "length = <100cm",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Punggol",
+        "name": "Muhammad Syazwan Bin Senin",
+        "email": "syazwansenin@amkfsc.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Dec 2021"
+    },
+    {
+      "id": "102724",
+      "category": "Home Furnishing",
+      "name": "TV Console",
+      "description": "The family has recently relocated into their HDB flat. They would appreciate for a donated TV console as they prioritise expenses on their other needs.",
+      "specifications": "Height = 90 cm, Length = <120cm",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Punggol",
+        "name": "Muhammad Syazwan Bin Senin",
+        "email": "syazwansenin@amkfsc.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Dec 2021"
+    },
+    {
       "id": "102695",
       "category": "Home Furnishing",
       "name": "Chest of drawers",
@@ -2910,23 +2979,6 @@
       "date": "20 Dec 2021"
     },
     {
-      "id": "102710",
-      "category": "Attires/Clothings",
-      "name": "School Bag and Shoes",
-      "description": "Single mother with 2 children is medically unfit to work. She is seeking assistance to get school shoes for her children 10 and 6 years old.\nBlack school shoes Size 37 and 34. She is also hoping to get school bags for them. Client has medical condition and has limited mobility. This assistance will help her manage her preparation for her children. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Vijaya Rani d/o Jayaguru",
-        "email": "rani@amkfsc.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Dec 2021"
-    },
-    {
       "id": "102697",
       "category": "Attires/Clothings",
       "name": "PCF Sparkletots Uniform (M-L size)",
@@ -2942,6 +2994,42 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
+      "date": "21 Dec 2021"
+    },
+    {
+      "id": "102729",
+      "category": "Medical Aids",
+      "name": "Milk Supplement",
+      "description": "Family has an elderly mother (70/F) who has several medical conditions such as dementia, diabetes, Parkinson's, etc and is wheel-chair bound. Mother recovered from Covid in Oct but since then, she has not been eating solid well. Mother is currently dependent on milk supplement to sustain her. Client (son) has been working as SDA and income is insufficient to support mother's high medical needs.",
+      "specifications": "Nestle Resource 2.0",
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Yew Tee",
+        "name": "Calyn Xu",
+        "email": "calynxu@fycs.org",
+        "phone": [
+          "64162155",
+          "64162162"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Dec 2021"
+    },
+    {
+      "id": "102725",
+      "category": "Medical Aids",
+      "name": "Adult Diapers Size L",
+      "description": "Family has an elderly mother who has several medical conditions such as dementia, diabetes, Parkinson's, etc and is wheel-chair bound. Client (son) has been working as SDA and income is insufficient to support mother's high medical needs. Family needed adult diapers to assist elderly mother in her bowel movements.\nFamily prefers TOP brand Size L. Please contact me if donor would like to donate other brands.\nWebsite for TOP brand diapers:\nhttp://www.budgetdiapers.com/product/top-adult-pull-up-pants-10s-x-12-bags-new-pkg-12-bags/",
+      "specifications": "Size L (Top brand), Other brands (Size XL)",
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Yew Tee",
+        "name": "Calyn Xu",
+        "email": "calynxu@fycs.org",
+        "phone": [
+          "64162155",
+          "64162162"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
       "date": "21 Dec 2021"
     }
   ],
