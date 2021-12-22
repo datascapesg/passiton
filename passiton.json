@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "102751",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Single 23yo female who has hearing and verbal impairments, she has strained relationship with her family. She is highly motivated and working hard for her own future.  require a little push to build up her foundation. (previously received a washing machine that turned out to be in not-working condition)\n\nPlease let me know if you have any enquiries, thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Adil Matin Bin Mohd Ramlan",
+        "email": "adilmatin@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Dec 2021"
+    },
+    {
       "id": "102745",
       "category": "Electrical Home Appliances",
       "name": "vacuum cleaner",
@@ -2010,6 +2027,24 @@
       "date": "22 Nov 2021"
     },
     {
+      "id": "102752",
+      "category": "Home Furnishing",
+      "name": "Shoe Rack",
+      "description": "client is an elderly living alone in a rental\nflat. She is current unfit for work due to multiple medical conditions. \nShe needs a shoe rack as she is unable to leave her shoes outside her house as there are neighbours who spitting saliva around the corridors.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Janetta Tan",
+        "email": "janettatan@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Dec 2021"
+    },
+    {
       "id": "102747",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -2063,8 +2098,8 @@
     {
       "id": "102732",
       "category": "Home Furnishing",
-      "name": "mattress (new) x 2",
-      "description": "Client is a single mum and takes care of an autistic child. She has financial issues as she could not work full-time due to caregiving of child.\n\nBoth client and daughter needs 2 mattress as they have been sharing the same mattress which condition is old.",
+      "name": "Single Size Mattress x 2",
+      "description": "Client is a single mum and takes care of an autistic child. She has financial issues as she could not work full-time due to caregiving of child.\n\nBoth client and daughter needs 2 preferable new mattress as they have been sharing the same mattress which condition is old.",
       "specifications": null,
       "contact": {
         "org": "Serangoon Moral Family Service Centre",
@@ -2948,6 +2983,16 @@
   ],
   "offers": [
     {
+      "id": "102748",
+      "name": "Baby Cot",
+      "description": "IKEA cot and mattress. Also includes a railing padding. Bought in 2017, used for 4 years. Well maintained. There is some paint damage. Otherwise, it is in very good condition.",
+      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
+      "validTill": "21 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102741",
       "name": "IKEA standing lamp",
       "description": "IKEA standing lamp in good condition. Has both a general & reading light.",
@@ -3755,6 +3800,26 @@
       "validTill": "31 Dec 2021",
       "ageInYears": 4,
       "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102749",
+      "name": "Queen bed  plus mattress",
+      "description": "Well used.. Good condition",
+      "location": null,
+      "validTill": "01 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": "211cm x 158cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102750",
+      "name": "Queen bed  plus mattress",
+      "description": "Well used.. Good condition",
+      "location": null,
+      "validTill": "01 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": "211cm x 158cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
