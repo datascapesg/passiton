@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "102764",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave",
+      "description": "Client is staying with his 2 year old toddler. His wife is currently incarcerated. Client is the sole breadwinner of the family and also the main caregiver of his toddler son. Family is requesting for a microwave oven so that he can heat up food for his toddler son.",
+      "specifications": null,
+      "contact": {
+        "org": "Whampoa Family Service Centre",
+        "name": "Dorcas Koh",
+        "email": "dorcaskoh@kkcs.org.sg",
+        "phone": [
+          "63260310",
+          "63260300"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Dec 2021"
+    },
+    {
+      "id": "102763",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is staying with her parents and young daughter in a 3 room flat. At the moment, client's step-father is the sole breadwinner of the family. Her washing machine is spoilt and would require a new one.",
+      "specifications": "8 to 10kg",
+      "contact": {
+        "org": "Whampoa Family Service Centre",
+        "name": "Dorcas Koh",
+        "email": "dorcaskoh@kkcs.org.sg",
+        "phone": [
+          "63260310",
+          "63260300"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Dec 2021"
+    },
+    {
       "id": "102745",
       "category": "Electrical Home Appliances",
       "name": "vacuum cleaner",
@@ -3659,16 +3695,6 @@
       "validTill": "24 Dec 2021",
       "ageInYears": 1,
       "dimensions": "Wheel base ~48 cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102505",
-      "name": "IKEA sofa bed",
-      "description": "IKEA sofa bed in great condition with denim-style cover",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-      "validTill": "31 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
