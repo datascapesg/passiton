@@ -1,6 +1,74 @@
 {
   "requests": [
     {
+      "id": "102769",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "Elderly from a low income family will be moving out to stay in a rental flat and needs a washing machine to do her laundry. \n\nYou may whatsapp Jaslin at 97219039 if you have one to donate. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Jaslin Ong",
+        "email": "jaslinong@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "22 Dec 2021"
+    },
+    {
+      "id": "102768",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Elderly from a low income family will be moving out to stay in a rental flat and needs basic electrical home appliances such as fridge to store food. \n\nYou may whatsapp Jaslin at 97219039 if you have one to donate. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Jaslin Ong",
+        "email": "jaslinong@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Dec 2021"
+    },
+    {
+      "id": "102767",
+      "category": "Electrical Home Appliances",
+      "name": "Flat screen TV (32 to 42 inches)",
+      "description": "Elderly uncle 66 yrs old living in HDB 1-room rental flat needs to change his TV. The screen of his TV is fuzzy and blur. Note that size of TV has to be 42 inches or smaller due to space constraints. Many Thanks.",
+      "specifications": "32 to 42 inches",
+      "contact": {
+        "org": "Moral Senior Activity Center @ Kaki Bukit",
+        "name": "Gary Tan",
+        "email": "garytan@chkmps.org.sg",
+        "phone": [
+          "64486247"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Dec 2021"
+    },
+    {
+      "id": "102766",
+      "category": "Electrical Home Appliances",
+      "name": "Flat screen TV (32 to 42 inches)",
+      "description": "Elderly malay uncle 90 yrs old living in HDB 1-room rental flat has to change his TV. His current TV has sound but no picture. Note that size of TV has to be 42 inches or smaller due to space constraints. Many Thanks.",
+      "specifications": "32 to 42 inches",
+      "contact": {
+        "org": "Moral Senior Activity Center @ Kaki Bukit",
+        "name": "Gary Tan",
+        "email": "garytan@chkmps.org.sg",
+        "phone": [
+          "64486247"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Dec 2021"
+    },
+    {
       "id": "102764",
       "category": "Electrical Home Appliances",
       "name": "Microwave",
@@ -840,6 +908,24 @@
       "date": "24 Nov 2021"
     },
     {
+      "id": "102772",
+      "category": "Mobility Aids",
+      "name": "wheelchair",
+      "description": "Client is living with her elderly mother was just diagnosed with Stage 3 cancer and will need to attend regular follow-ups at the hospital and polyclinic. Due to the progress of her condition, she is getting weaker, hence she will benefit from a wheelchair.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services @ Taman Jurong SSO",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@fycs.org",
+        "phone": [
+          "62672945",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Dec 2021"
+    },
+    {
       "id": "102728",
       "category": "Mobility Aids",
       "name": "Electric/Motorized wheelchair",
@@ -873,6 +959,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Dec 2021"
+    },
+    {
+      "id": "102771",
+      "category": "Infant and Children Items",
+      "name": "Gold Fairprice Milk Powder (2tins)",
+      "description": "Low income family with 2 children trying to make ends meet needs interim help for their child's milk powder. Please respond if you are keen to donate. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "HEART @ Fei Yue",
+        "name": "Melody Chan",
+        "email": "melodychan@fycs.org",
+        "phone": [
+          "81217685",
+          "68199170"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Dec 2021"
     },
     {
       "id": "102761",
@@ -2044,6 +2148,24 @@
       "date": "22 Nov 2021"
     },
     {
+      "id": "102770",
+      "category": "Home Furnishing",
+      "name": "Single-sized (non-pocketed) mattress (x2)",
+      "description": "Single parent with 2 young children will need 2 single-sized (non-pocketed) mattresses. As the bedframe has a metal divan, please respond if you have bonnell spring or foam mattress and is keen to donate. Note: Donor to pay for the delivery fee. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "HEART @ Fei Yue",
+        "name": "Melody Chan",
+        "email": "melodychan@fycs.org",
+        "phone": [
+          "81217685",
+          "68199170"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Dec 2021"
+    },
+    {
       "id": "102754",
       "category": "Home Furnishing",
       "name": "TV Console and Shelf",
@@ -3180,16 +3302,6 @@
       "validTill": "19 Jan 2022",
       "ageInYears": 1,
       "dimensions": "51x20x79 cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102682",
-      "name": "Push Chair",
-      "description": "The pushchair is foldable for easier storage.",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "19 Jan 2022",
-      "ageInYears": 3,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
