@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "102776",
+      "category": "Electrical Home Appliances",
+      "name": "microwave",
+      "description": "Client and husband are unemployed. Husband is medically unfit for work and client has to be the main caregiver for her husband. They have 2 school-going children, age 11 and 9. Client requested for a microwave to ease cooking.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Dini Dzulaikha Bte Dzulkifli",
+        "email": null,
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "22 Dec 2021"
+    },
+    {
       "id": "102769",
       "category": "Electrical Home Appliances",
       "name": "Washing machine",
@@ -425,24 +442,6 @@
       "id": "102592",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
-      "description": "Two homeless friends/uncles (74+ and 60+) staying at our shelter is about to shift to their hdb 1 rm rental flat.  As only one of them is fit to work, the finances are tight for them and they are seeking support to help refurbish their new home.  If anyone can support this item, please contact Ms Jean @ +65 9066 5775 (whatsapp/sms/call) or email int_jeantan@newhopecs.org.sg.  They also hope donors can support the delivery of the items as well. Thank you in advance for supporting our seniors.",
-      "specifications": null,
-      "contact": {
-        "org": "New Hope Community Services",
-        "name": "Goh Ann Tat",
-        "email": "anntat@newhopecs.org.sg",
-        "phone": [
-          "87952925",
-          "63059620"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Dec 2021"
-    },
-    {
-      "id": "102591",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine - Top Load (5-7Kg)",
       "description": "Two homeless friends/uncles (74+ and 60+) staying at our shelter is about to shift to their hdb 1 rm rental flat.  As only one of them is fit to work, the finances are tight for them and they are seeking support to help refurbish their new home.  If anyone can support this item, please contact Ms Jean @ +65 9066 5775 (whatsapp/sms/call) or email int_jeantan@newhopecs.org.sg.  They also hope donors can support the delivery of the items as well. Thank you in advance for supporting our seniors.",
       "specifications": null,
       "contact": {
@@ -973,23 +972,6 @@
         "phone": [
           "81217685",
           "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Dec 2021"
-    },
-    {
-      "id": "102761",
-      "category": "Infant and Children Items",
-      "name": "Lactogen Stage 1",
-      "description": "Family has 3 young children. Mother recently gave birth in November 2021. She requires Lactogen Stage 1 for baby's milk needs. Father is currently working full-time but family is heavily in debt. Sole breadwinner's expenses usually exceeds his monthly income. Baby requires at least 4 packets of Lactogen Stage 1 per month.",
-      "specifications": "Stage 1",
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Khairunisa Rusli",
-        "email": "khairunisa.rusli@ppis.sg",
-        "phone": [
-          "65613462"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2148,6 +2130,24 @@
       "date": "22 Nov 2021"
     },
     {
+      "id": "102773",
+      "category": "Home Furnishing",
+      "name": "Single bed with pull out bed",
+      "description": "Client is from a low-income family, looking after 6 children. The husband is the sole breadwinner but has an unstable income as he works part-time. they are looking for a bed with a pull out bed at the bottom. As they are looking at saving space and also having enough space for the children to sleep on.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services @ Taman Jurong SSO",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@fycs.org",
+        "phone": [
+          "62672945",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Dec 2021"
+    },
+    {
       "id": "102770",
       "category": "Home Furnishing",
       "name": "Single-sized (non-pocketed) mattress (x2)",
@@ -3104,6 +3104,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "102774",
+      "name": "Kids toys - Ben10 and Transformer",
+      "description": "Hi, I have some Ben10 toys and Transformer toys to donate. They are in good condition. I can drop off the toys at the needy’s place if it’s not too far away (1 location).",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "21 Jan 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102765",
       "name": "Preloved Soft Toys",
