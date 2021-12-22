@@ -1,21 +1,57 @@
 {
   "requests": [
     {
-      "id": "102734",
+      "id": "102745",
       "category": "Electrical Home Appliances",
-      "name": "Fridge",
-      "description": "Family of 5, single mother, sole breadwinner. 1 elderly and 3 minors, old fridge has malfunctioned, unable to store fresh food.",
+      "name": "vacuum cleaner",
+      "description": "Family of 3 looking for vacuum as son has skin problem. Wanted to reduce son’s itchiness by making it less dust. Husband is the breadwinner and wife are looking after the child and elderly parents.",
       "specifications": null,
       "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Adil Matin Bin Mohd Ramlan",
-        "email": "adilmatin@amkfsc.org.sg",
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Janetta Tan",
+        "email": "janettatan@amkfsc.org.sg",
         "phone": [
-          "63128100"
+          "64546678",
+          "64578559"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "21 Dec 2021"
+      "date": "22 Dec 2021"
+    },
+    {
+      "id": "102743",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge in good condition",
+      "description": "Family of 3 looking for fridge as theirs has spoilt. Husband is the breadwinner and wife are looking after the child and elderly parents.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Janetta Tan",
+        "email": "janettatan@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Dec 2021"
+    },
+    {
+      "id": "102742",
+      "category": "Electrical Home Appliances",
+      "name": "Air fryer",
+      "description": "Low income family of 2 elderly require air fryer for cooking. Both individuals have health complications. Help for the family is greatly appreciated!",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Simranjit Kaur",
+        "email": "simranjit.kaur@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Dec 2021"
     },
     {
       "id": "102730",
@@ -243,23 +279,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": false,
-      "date": "20 Dec 2021"
-    },
-    {
-      "id": "102652",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Family with 8 children had their washing machine broke down. Family is unable to purchase a new one as parents were recently released from prison and trying to stabilise their employment. Family urgently requires a washing machine to maintain overall hygiene of the household.",
-      "specifications": "At least 7kg, Top load",
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
       "date": "20 Dec 2021"
     },
     {
@@ -871,23 +890,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "21 Dec 2021"
-    },
-    {
-      "id": "102675",
-      "category": "Infant and Children Items",
-      "name": "Milk Bottle Bristle Brush",
-      "description": "Family background: Client has 2 children under 2 years old, and she is currently pregnant with her 3rd child. Her husband works adhoc moving jobs as he was let go from his employment as a cleaner. Children would require milk bottle bristle brushes. They would benefit from *brand new* milk bottles, for hygiene purposes.\n\n\nLink for bristle brush:\nhttps://www.fairprice.com.sg/product/dr-brown-s-natural-bottle-brush-blue-1-pc-90045040?gclid=EAIaIQobChMIgZzWxITy9AIVjpVLBR2MxAIOEAQYBCABEgLEwPD_BwE",
-      "specifications": "1pc",
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Lyndon Mathews",
-        "email": "lyndonmathews@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Dec 2021"
     },
     {
       "id": "102663",
@@ -2008,6 +2010,57 @@
       "date": "22 Nov 2021"
     },
     {
+      "id": "102747",
+      "category": "Home Furnishing",
+      "name": "Wardrobe",
+      "description": "Client is a single elderly lady who recently moved in to her new flat and requires donation of furnitures as she does not have sufficient savings to purchase all that she needs for her house.",
+      "specifications": "Approx 2m in length and height",
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Dec 2021"
+    },
+    {
+      "id": "102746",
+      "category": "Home Furnishing",
+      "name": "3seater Sofa",
+      "description": "Client is a single elderly lady who recently moved in to her new flat and requires donation of furnitures as she does not have sufficient savings to purchase all that she needs for her house.",
+      "specifications": "Minimum 3 seater",
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Dec 2021"
+    },
+    {
+      "id": "102744",
+      "category": "Home Furnishing",
+      "name": "Storage Bed Frame with Mattress",
+      "description": "Client is a single elderly lady who recently moved in to her new flat and requires donation of furnitures as she does not have sufficient savings to purchase all that she needs for her house.",
+      "specifications": "Queen Size",
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Dec 2021"
+    },
+    {
       "id": "102732",
       "category": "Home Furnishing",
       "name": "mattress (new) x 2",
@@ -2895,6 +2948,36 @@
   ],
   "offers": [
     {
+      "id": "102741",
+      "name": "IKEA standing lamp",
+      "description": "IKEA standing lamp in good condition. Has both a general & reading light.",
+      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+      "validTill": "20 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": "Approx 0.8m wide &amp; 1.5m tall",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102740",
+      "name": "Queen size bedframe",
+      "description": "Queen size bedframe . Need to dismantle the headboard to move out and need to clear by 29/12/21 latest in the morning .",
+      "location": "Seletar",
+      "validTill": "28 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "190(L)150cm(W)90 (H)",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102739",
+      "name": "Queen size bedframe",
+      "description": "Queen size bedframe . Need to dismantle the headboard to move out and need to clear by 29/12/21 latest in the morning .",
+      "location": "Seletar",
+      "validTill": "28 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "190(L)150cm(W)90 (H)",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102738",
       "name": "IKEA armchair (x2)",
       "description": "TWO grey-blue Ikea Tullsta armchairs with removable and washable covers & a small back cushion each. Both chairs have been well-used but are in good condition.",
@@ -3055,16 +3138,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "102679",
-      "name": "Contour Plus Blood Glucose Meter",
-      "description": "What’s included?\n•\t1x CONTOUR®PLUS (mmol/L) Meter\n•\t100 MICROLET®NEXT Lancing Device\n•\t100x individual alcohol swabs",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "19 Jan 2022",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "102678",
       "name": "Vacuum cleaner",
       "description": "Bosch black vacuum cleaner. GL-30 model. Retractable wire is not working but vacuum cleaner is okay",
@@ -3072,16 +3145,6 @@
       "validTill": "19 Jan 2022",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102672",
-      "name": "King Sized Texas Spring Mattress",
-      "description": "New barely used mattress to giveaway",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "22 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": "180 x 190 x 22",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3252,16 +3315,6 @@
       "validTill": "07 Jan 2022",
       "ageInYears": 1,
       "dimensions": "70cm x 33 cm x 11 cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102618",
-      "name": "2.5 seater sofa (195cm)",
-      "description": "2.3 seater half leather recliner sofa",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "22 Dec 2021",
-      "ageInYears": 3,
-      "dimensions": "195cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -4025,16 +4078,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "102219",
-      "name": "Carseat",
-      "description": "Still can be used. recently change to seat booster.",
-      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
-      "validTill": "22 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": "na",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "102722",
       "name": "XXL Mamypoko Tape diapers (28 pieces)",
       "description": "used a few pieces. Still in very good condition.",
@@ -4425,16 +4468,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "101661",
-      "name": "Children Pull Out Bed",
-      "description": "Used children pull out bed",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "22 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": "195cm x 100cm x 90cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "101655",
       "name": "Readers for K1 and K2",
       "description": "Good condition readers,  beginners reading books\n\nPick up at my unit anytime.\n\nMeet at train station near me at agreed timing.",
@@ -4541,36 +4574,6 @@
       "location": "Queenstown, Tiong Bahru",
       "validTill": "24 Dec 2021",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101464",
-      "name": "Cornell Slow cooker",
-      "description": "A 1 litre slow cooker",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "22 Dec 2021",
-      "ageInYears": 2,
-      "dimensions": "1l",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101447",
-      "name": "Nanjiren massager",
-      "description": "Nanjiren massager with waist strap, 2 pin plug",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "22 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101445",
-      "name": "Home bakes",
-      "description": "We are a group of home bakers, looking to bake for chidlren from Low Income/Blue chas family to celebrate school holiday and Xmas.",
-      "location": "Macpherson, Braddell",
-      "validTill": "22 Dec 2021",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     }
