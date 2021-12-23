@@ -209,24 +209,6 @@
       "date": "21 Dec 2021"
     },
     {
-      "id": "102713",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Client is a divorced mother who stays in a 2-room rental flat with her three sons. Client has depression and earns a low income due to her low educational qualifications. Her washing machine is spoilt and she hopes she can get support to receive a new one.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Jurong",
-        "name": "Nathan Hou",
-        "email": "nathanhou@thkmc.org.sg",
-        "phone": [
-          "88554795",
-          "67169466"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Dec 2021"
-    },
-    {
       "id": "102708",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -785,23 +767,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Dec 2021"
-    },
-    {
-      "id": "102833",
-      "category": "Infant and Children Items",
-      "name": "Baby shower gel (any brand)",
-      "description": "Family with 3 young children is struggling financially due to father's medical needs and current unemployment. It will be very helpful to support them with baby's essential items such as food & toiletries.",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Nur Hasinah Abdul Kaffur",
-        "email": "nurhasinah.abdkaffur@ppis.sg",
-        "phone": [
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Dec 2021"
     },
     {
       "id": "102832",
@@ -2875,6 +2840,16 @@
   ],
   "offers": [
     {
+      "id": "102835",
+      "name": "Pediasure Triplesure",
+      "description": "Ordering from Redmart and will deliver straight to them",
+      "location": "Jurong",
+      "validTill": "22 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102831",
       "name": "3+2 seaters fabric sofa",
       "description": "3+2 fabric sofa in good condition.",
@@ -3135,16 +3110,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "102755",
-      "name": "Contour Plus Blood Glucose Meter",
-      "description": "What’s included?\n•\t1x CONTOUR®PLUS (mmol/L) Meter\n•\t100 MICROLET®NEXT Lancing Device\n•\t100x individual alcohol swabs",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "19 Jan 2022",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "102756",
       "name": "Contour Plus Blood Glucose Meter",
       "description": "What’s included?\n•\t1x CONTOUR®PLUS (mmol/L) Meter\n•\t100 MICROLET®NEXT Lancing Device\n•\t100x individual alcohol swabs",
@@ -3178,16 +3143,6 @@
       "id": "102637",
       "name": "New car moving game",
       "description": "New wooden car moving game puzzle, able to provide postage",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "30 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102636",
-      "name": "New socks",
-      "description": "10 pairs in total (2 pairs for each design), able to provide postage",
       "location": "Tampines, Pasir Ris",
       "validTill": "30 Dec 2021",
       "ageInYears": 1,
@@ -4272,16 +4227,6 @@
       "validTill": "31 Dec 2021",
       "ageInYears": 3,
       "dimensions": "1.5 litre",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101840",
-      "name": "Philips 'Everflo' Oxygen Concentrator 5 LPM",
-      "description": "3 months old Philips 'Everflo' Oxygen Concentrator 5 litres (5 LPM), comes with free 7 feet Canulla.",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "31 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": "24cm (D) x 38cm (W) x 58cm (H)",
       "deliveryCostsCoveredByDonor": true
     },
     {
