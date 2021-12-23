@@ -60,16 +60,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "102774",
-    "name": "Kids toys - Ben10 and Transformer",
-    "description": "Hi, I have some Ben10 toys and Transformer toys to donate. They are in good condition. I can drop off the toys at the needy’s place if it’s not too far away (1 location).",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "21 Jan 2022",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "102765",
     "name": "Preloved Soft Toys",
     "description": "These preloved soft toys and other toys are kept in good condition.",
@@ -200,16 +190,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "102705",
-    "name": "kids bed",
-    "description": "white kids bed used in the helper's room, good condition, less than 1 year",
-    "location": "Orchard, Cairnhill, River Valley",
-    "validTill": "23 Dec 2021",
-    "ageInYears": 1,
-    "dimensions": "90cm x 200cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "102693",
     "name": "Low table",
     "description": "Ikea table",
@@ -337,16 +317,6 @@
     "validTill": "19 Jan 2022",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "102640",
-    "name": "Dryer",
-    "description": "I have a mover ready to deliver on 23 Dec after 3pm",
-    "location": "Orchard, Cairnhill, River Valley",
-    "validTill": "23 Dec 2021",
-    "ageInYears": 4,
-    "dimensions": "W:60 x D:62 x H:85",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -570,16 +540,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "102605",
-    "name": "IKEA LÅNGFJÄLL Office chair, Gunnared beige/white",
-    "description": "An office chair with lightly curved lines, attention to the sewn details and an easy-to-use mechanism hidden under the seat to highlight the design. \n\nTested for: 110 kg\nWidth: 68 cm\nDepth: 68 cm\nMax. height: 104 cm\nSeat width: 53 cm\nSeat depth: 41 cm\nMin. seat height: 43 cm\nMax. seat height: 53 cm",
-    "location": null,
-    "validTill": "23 Dec 2021",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "102603",
     "name": "Pre-loved baby clothes (Includes cot bedsheets)",
     "description": "Preloved baby clothes from newborn to 18 months. Includes bath towels, bibs, burp towels. Mostly neutrals with some boy specific items.",
@@ -657,16 +617,6 @@
     "validTill": "31 Dec 2021",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "102555",
-    "name": "4 dining chairs",
-    "description": "4 dining chairs in well used but still in good condition",
-    "location": null,
-    "validTill": "23 Dec 2021",
-    "ageInYears": 4,
-    "dimensions": "Standard dining chair size",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1686,6 +1636,16 @@
     "location": "Queenstown, Tiong Bahru",
     "validTill": "24 Dec 2021",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "97263",
+    "name": "Study desk with shelves",
+    "description": "Self pickup please. Contents on desk not included. Desk more than 4 years old but still sturdy and working well.",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "27 Dec 2021",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
