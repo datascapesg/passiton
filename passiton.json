@@ -1,6 +1,41 @@
 {
   "requests": [
     {
+      "id": "102823",
+      "category": "Electrical Home Appliances",
+      "name": "Electric Kettle Jug (approx 1.7L)",
+      "description": "Elderly uncle above 69 yrs old living in HDB 1-room rental flat needs an electric kettle jug. His current kettle has stopped working. Size of kettle should be about 1.7L and inside of kettle should also be white or silver colour. Many Thanks.",
+      "specifications": "approx 1.7L",
+      "contact": {
+        "org": "Moral Senior Activity Center @ Kaki Bukit",
+        "name": "Gary Tan",
+        "email": "garytan@chkmps.org.sg",
+        "phone": [
+          "64486247"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Dec 2021"
+    },
+    {
+      "id": "102822",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave",
+      "description": "Client (F/44, muslim) lives with her husband in a 2-rm rental flat. Client is visually impaired and is largely reliant on her husband to prepare food for her. When her husband is working, she eats instant noodle and only does simple cooking, like frying egg. Family hopes to get a microwave (halal) so that client can prepare her own food better at home alone.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Louise Quek",
+        "email": "louisequek@amkfsc.org.sg",
+        "phone": [
+          "64535349",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Dec 2021"
+    },
+    {
       "id": "102821",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -749,6 +784,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "24 Nov 2021"
+    },
+    {
+      "id": "102825",
+      "category": "Mobility Aids",
+      "name": "Wheelchair",
+      "description": "Client (F/46) is a single mother with 4 children. She is blind on one eye and has multiple chronic medical conditions, which have affected her mobility. As such, she hopes to get a wheelchair to support her mobility.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Louise Quek",
+        "email": "louisequek@amkfsc.org.sg",
+        "phone": [
+          "64535349",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Dec 2021"
     },
     {
       "id": "102728",
@@ -2824,6 +2877,16 @@
   ],
   "offers": [
     {
+      "id": "102824",
+      "name": "Dell Monitor",
+      "description": "Computer monitor",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "22 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": "56cm x 20cm x 48cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102820",
       "name": "Dell Monitor",
       "description": "Computer monitor",
@@ -2850,16 +2913,6 @@
       "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
       "validTill": "05 Jan 2022",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102798",
-      "name": "Sofa Bed",
-      "description": "Almost like new. Only used for 3 months. Can be used as sofa or sofa bed. Material is fabric in denim sky blue",
-      "location": null,
-      "validTill": "03 Jan 2022",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
