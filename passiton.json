@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "102858",
+      "category": "Electrical Home Appliances",
+      "name": "Slim vacuum",
+      "description": "Family consist of father and his two school-going children. Family is currently staying in rental flat and the existing vacuum they own is too bulky to be used within the flat. Family is not able to afford purchase of vacuum cleaner as father's income is only sufficient for family's basic needs.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Punggol",
+        "name": "Leong Miao Lin",
+        "email": "leongmiaolin@amkfsc.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Dec 2021"
+    },
+    {
       "id": "102844",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -2734,6 +2751,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "102859",
+      "name": "Mamy Poko air fit L size pull up diaper x 3",
+      "description": "Brand new Mamy Poko L size pull up diaper x 3",
+      "location": "Bukit panjang",
+      "validTill": "31 Dec 2021",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102856",
       "name": "L Shape Sofa",
