@@ -698,24 +698,6 @@
       "date": "24 Nov 2021"
     },
     {
-      "id": "102825",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "Client (F/46) is a single mother with 4 children. She is blind on one eye and has multiple chronic medical conditions, which have affected her mobility. As such, she hopes to get a wheelchair to support her mobility.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Louise Quek",
-        "email": "louisequek@amkfsc.org.sg",
-        "phone": [
-          "64535349",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Dec 2021"
-    },
-    {
       "id": "102728",
       "category": "Mobility Aids",
       "name": "Electric/Motorized wheelchair",
@@ -2751,6 +2733,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "102860",
+      "name": "Small table",
+      "description": "Delivery on weekday evening and weekend.\n\nThe table top is made up of semicircle 100cmDia and trapezium 100cmL1x80cmL2x50cmW",
+      "location": "Geylang, Eunos",
+      "validTill": "23 Jan 2022",
+      "ageInYears": 2,
+      "dimensions": "100cmDia x 76cmH",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102859",
       "name": "Mamy Poko air fit L size pull up diaper x 3",
