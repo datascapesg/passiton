@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "102844",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Client is unemployed due to his vision problem. He needs a fridge for his new 1-room rental flat.",
+      "specifications": null,
+      "contact": {
+        "org": "Lakeside Family Centre - Jurong West",
+        "name": "Jeanie So Yin Nei",
+        "email": "jeanie-so@lakeside.org.sg",
+        "phone": [
+          "65671908"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Dec 2021"
+    },
+    {
       "id": "102822",
       "category": "Electrical Home Appliances",
       "name": "Microwave",
@@ -734,21 +751,21 @@
       "date": "17 Dec 2021"
     },
     {
-      "id": "102832",
+      "id": "102847",
       "category": "Infant and Children Items",
-      "name": "1-2 tins of Similac Stage 2 Milk Powder (After 6 months)",
-      "description": "Family with 3 young children is struggling financially due to father's medical needs and current unemployment. It will be very helpful to support them with baby's essential items such as food & toiletries.",
+      "name": "Baby Pram/Stroller",
+      "description": "Family is looking for a light children pram for their 17months old child. Grandmother does not have the strength to carry the 17months old child out for walks and would like to look for a pram to push the child out for walks around neighbourhood.",
       "specifications": null,
       "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Nur Hasinah Abdul Kaffur",
-        "email": "nurhasinah.abdkaffur@ppis.sg",
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
         "phone": [
-          "65613462"
+          "67547050"
         ]
       },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Dec 2021"
+      "deliveryCostsCoveredByDonor": false,
+      "date": "24 Dec 2021"
     },
     {
       "id": "102815",
@@ -1098,23 +1115,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "13 Dec 2021"
-    },
-    {
-      "id": "102222",
-      "category": "Infant and Children Items",
-      "name": "Diapers Size S",
-      "description": "Requesting on behalf of a single mother who is staying with her stepdaughter and taking care of 4 grandchildren. She is experiencing financial difficulties and receiving donation of the diapers for her youngest grandchild will be helpful to reduce her expenses.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Jasmine Leong",
-        "email": "jasmine@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Dec 2021"
     },
     {
       "id": "102217",
@@ -2127,6 +2127,23 @@
       "date": "24 Nov 2021"
     },
     {
+      "id": "102845",
+      "category": "Home Furnishing",
+      "name": "Wardrobe",
+      "description": "Client is looking for a sliding 2 door wardrobe to put her clothes in. Her current wardrobe is not working well and there is limited space in her current flat. Hence, she would prefer a sliding wardrobe to save space in her room.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "24 Dec 2021"
+    },
+    {
       "id": "102842",
       "category": "Home Furnishing",
       "name": "Single Bed Mattress",
@@ -2189,23 +2206,6 @@
         "email": "lyndonmathews@amkfsc.org.sg",
         "phone": [
           "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Dec 2021"
-    },
-    {
-      "id": "102807",
-      "category": "Home Furnishing",
-      "name": "Dining Table & Chair",
-      "description": "Dear Donor, we have 2 elderly gentlemen above 65 who managed to get an HDB rental unit after several decades. This is going to be their fixed accomodation for the golden period of their lives. Hope you could assist them with several items as housewarming gifts. Donors, please assist to cover the cost of transport.\n\n- 2 door wardrobe\n- 2 door Fridge\n- Washing machine\n- Induction Cooker\n- Microwave oven\n- Rice Cooker\n- Kettle\n- Table & Chairs\n- kitchen cabinet (movable)\n\nDonors, please assist to cover the cost of transport.\n\nI am contactable at 8388 7562\n\nThank you very much for your kind donation.",
-      "specifications": "Small Dining Table with Chairs",
-      "contact": {
-        "org": "Kampong Kapor Community Services",
-        "name": "Navin Nathaniel Kirinaris",
-        "email": "navin@kkcs.org.sg",
-        "phone": [
-          "62997662"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2720,6 +2720,16 @@
   ],
   "offers": [
     {
+      "id": "102846",
+      "name": "Merries Pants Diapers XXL",
+      "description": "Merries Pants Diapers in size XXL, Recommended weight 15-28kg, Waist size 46-64cm, 26 pieces per pack, 3 packs to giveaway",
+      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
+      "validTill": "23 Jan 2022",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102839",
       "name": "Night curtain",
       "description": "4 pieces of brown night curtains; each size: 1.5x2 m (widthxlength); 2 pieces of brown night curtain for bay window (1.5x 1.5m).",
@@ -2736,16 +2746,6 @@
       "location": "Jurong",
       "validTill": "23 Jan 2022",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102831",
-      "name": "3+2 seaters fabric sofa",
-      "description": "3+2 fabric sofa in good condition.",
-      "location": null,
-      "validTill": "27 Dec 2021",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
