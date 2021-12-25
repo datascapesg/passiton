@@ -1479,114 +1479,6 @@
       "date": "24 Nov 2021"
     },
     {
-      "id": "101500",
-      "category": "Infant and Children Items",
-      "name": "Dumex Dugro Growing Up Milk - Step 4",
-      "description": "Father is the sole financial provider for the family of 4 children and wife. (Does delivery with FoodPanda). While mother has been looking out for jobs to lessen father's financial constraints, there has been multiple unexpected events such as the need for mother to stay home and care for children full-time as the childcare has COVID positive cases etc. Hence, the family would require help with milk powder to help alleviate their financial burden.",
-      "specifications": null,
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Sean Ashwin NJ",
-        "email": "seanashwin@fycs.org",
-        "phone": [
-          "68199170ext123",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Nov 2021"
-    },
-    {
-      "id": "101499",
-      "category": "Infant and Children Items",
-      "name": "Milk Powder",
-      "description": "Client is a 26 y/o unemployed mother with special needs, who has  a 1 year old daughter. Her husband and her are struggling financially as they are still seeking full-time employment. They would need milk powder (Abbott Similac Gain Growing Up Milk Formula - Stage 3) for their daughter.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Charmaine Lim",
-        "email": "charmainelim@amkfsc.org.sg",
-        "phone": [
-          "64546678ext217",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Nov 2021"
-    },
-    {
-      "id": "101498",
-      "category": "Infant and Children Items",
-      "name": "Dumex Dugro Growing Up Milk",
-      "description": "Father is the sole financial provider for the family of 4 children and wife. (Does delivery with FoodPanda). While mother has been looking out for jobs to lessen father's financial constraints, there has been multiple unexpected events such as the need for mother to stay home and care for children full-time as the childcare has COVID positive cases etc. Hence, the family would require help with milk powder to help alleviate their financial burden.",
-      "specifications": null,
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Sean Ashwin NJ",
-        "email": "seanashwin@fycs.org",
-        "phone": [
-          "68199170ext123",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Nov 2021"
-    },
-    {
-      "id": "101497",
-      "category": "Infant and Children Items",
-      "name": "Diapers",
-      "description": "Client is a 26 y/o unemployed mother with special needs, who has  a 1 year old daughter. Her husband and her are struggling financially as they are still seeking full-time employment. They would need Drypers in size XL for their daughter.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Charmaine Lim",
-        "email": "charmainelim@amkfsc.org.sg",
-        "phone": [
-          "64546678ext217",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Nov 2021"
-    },
-    {
-      "id": "101496",
-      "category": "Infant and Children Items",
-      "name": "Dumex Dulac Stage 1",
-      "description": "Young set of parents who are working hard to provide for their newborn by taking on 2 jobs daily even as they face health issues. They have 2 other young children below the age of 5.",
-      "specifications": null,
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Sean Ashwin NJ",
-        "email": "seanashwin@fycs.org",
-        "phone": [
-          "68199170ext123",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Nov 2021"
-    },
-    {
-      "id": "101480",
-      "category": "Infant and Children Items",
-      "name": "Lactogen",
-      "description": "Young family with 4 small children requires donation in kind for Lactogen (step 3) Milk powder (3 tins) and Drypers XXL and L size (10 packets).\n\nCouple is working hard to ensure that the children's needs are met, however, by the end of the month, the family is unable to stretch their dollars further.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Norsalha Mohamad",
-        "email": "norsalha@amkfsc.org.sg",
-        "phone": [
-          "64546678",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "23 Nov 2021"
-    },
-    {
       "id": "102857",
       "category": "Others",
       "name": "Food Rations",
@@ -2786,6 +2678,16 @@
   ],
   "offers": [
     {
+      "id": "102873",
+      "name": "Single Bed",
+      "description": "Good condition.. sturdy wood bed",
+      "location": null,
+      "validTill": "01 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102872",
       "name": "king size bed",
       "description": "King size mattress with bedsheets",
@@ -3586,26 +3488,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "102467",
-      "name": "New owndays pin",
-      "description": "New owndays 8th anniversary pin x2, able to provide normal mail",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "25 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102466",
-      "name": "New self adhesive album",
-      "description": "New costa coffee self adhesive album, hard cover, 12 pages, inner size (page size) approx. 16 x 17 cm, able to provide normal mail",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "25 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "102455",
       "name": "Convofit Slip Adult diapers (Tape) L size",
       "description": "Brand new.",
@@ -3826,16 +3708,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "102315",
-      "name": "Girl's Clothings",
-      "description": "Good condition pyjamas, tops, shorts dresses for 4-6 year olds",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "25 Dec 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "102305",
       "name": "Mattress",
       "description": "King size mattress from Noah good condition and recently cleaned. Replacing",
@@ -3902,16 +3774,6 @@
       "location": "Jurong",
       "validTill": "10 Jan 2022",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102270",
-      "name": "Toy robot",
-      "description": "As good as new but remote control not working. Can still play manually if don’t mind.",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "25 Dec 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4332,66 +4194,6 @@
       "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
       "validTill": "26 Dec 2021",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102161",
-      "name": "Baby cot",
-      "description": "In good condition.",
-      "location": "Jurong",
-      "validTill": "25 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102162",
-      "name": "Baby cot",
-      "description": "In good condition.",
-      "location": "Jurong",
-      "validTill": "25 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101610",
-      "name": "Baby cot",
-      "description": "Baby cot",
-      "location": "Upper Thomson, Springleaf",
-      "validTill": "25 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101570",
-      "name": "Computer Table",
-      "description": "Giving away table that i brought last year on May as i want to get another one",
-      "location": "Little India",
-      "validTill": "25 Dec 2021",
-      "ageInYears": 2,
-      "dimensions": "120x60x75",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101569",
-      "name": "2 pcs of masks",
-      "description": "2 pcs of unused masks. Both washed.\nComes with filter.\nIdeal for rough sleepers or those living in shelters.\n\nSelf collect at home address.",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "25 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101568",
-      "name": "6 sets of disposable toothbrushes with toothpaste",
-      "description": "6 sets of toothbrushes with toothpaste.\nIdeal for rough sleepers or those living in shelters. \n\nSelf collect at home address",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "25 Dec 2021",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     }
