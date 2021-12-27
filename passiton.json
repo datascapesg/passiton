@@ -1,6 +1,41 @@
 {
   "requests": [
     {
+      "id": "102914",
+      "category": "Electrical Home Appliances",
+      "name": "Kitchen blender",
+      "description": "single mother of 2 young children living in a 1 room rental flat requires a kitchen blender.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Krishna Kumar",
+        "email": "krishna@thkmc.org.sg",
+        "phone": [
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Dec 2021"
+    },
+    {
+      "id": "102913",
+      "category": "Electrical Home Appliances",
+      "name": "Electric Oven",
+      "description": "Family with 3 young children requires an electric oven.",
+      "specifications": null,
+      "contact": {
+        "org": "MontfortCare - Marine Parade Family Service Centre",
+        "name": "Cherie Ho",
+        "email": "cherie.ho@montfortcare.org.sg",
+        "phone": [
+          "89407189",
+          "64450100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "27 Dec 2021"
+    },
+    {
       "id": "102909",
       "category": "Electrical Home Appliances",
       "name": "Microwave Oven",
@@ -2369,16 +2404,6 @@
       "location": null,
       "validTill": "15 Jan 2022",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102893",
-      "name": "Mistral Tower Fan",
-      "description": "Mistral tower fan in good working condition (no remote).",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "07 Jan 2022",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
