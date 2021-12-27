@@ -70,24 +70,6 @@
       "date": "27 Dec 2021"
     },
     {
-      "id": "102909",
-      "category": "Electrical Home Appliances",
-      "name": "Microwave Oven",
-      "description": "Low income single father of 1 adult child with disability in need of a new microwave oven. \n\nTheir current one is spoilt and they do not have the means to buy another one. They rely on the oven to heat up their food.",
-      "specifications": null,
-      "contact": {
-        "org": "Lakeside Family Centre - Jurong East",
-        "name": "Edward Choy",
-        "email": "edward-choy@lakeside.org.sg",
-        "phone": [
-          "65649722ext208",
-          "65649722"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Dec 2021"
-    },
-    {
       "id": "102904",
       "category": "Electrical Home Appliances",
       "name": "Television",
@@ -1776,6 +1758,23 @@
       "date": "29 Nov 2021"
     },
     {
+      "id": "102923",
+      "category": "Home Furnishing",
+      "name": "Queen bed and mattress",
+      "description": "Single mother of 2 young children living in a 1 room rental flat requesting for queen bed and mattress.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Krishna Kumar",
+        "email": "krishna@thkmc.org.sg",
+        "phone": [
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Dec 2021"
+    },
+    {
       "id": "102903",
       "category": "Home Furnishing",
       "name": "COT SIZE MATTRESS",
@@ -2121,20 +2120,20 @@
       "date": "01 Dec 2021"
     },
     {
-      "id": "102916",
+      "id": "102925",
       "category": "Learning Aids",
-      "name": "Children's Stationary Items",
-      "description": "Family consists of 4 young children, with 2 who are in primary school. Family is currently struggling financially and would like some help with stationary for the 2 school-going children",
+      "name": "Back to School Items",
+      "description": "Family is a low income family of 6 who has 4 young school going children. School is starting soon and parents do not have enough money to buy for their children school supplies i.e. school bags, pencil cases, water bottles and stationary. Hence FSC would like to appeal for a donor to provide some of these back to school items for the children as they are experiencing some financial difficulties due to mother being pregnant and unable to work, resulting in the family losing 1 breadwinner. Children also have chronic medical condition which affects the family's finances as well. Thank you very much for helping the family! Feel free to contact more information about the ages/gender of the children and more details about the items they need.",
       "specifications": null,
       "contact": {
         "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Koh Tai Sheng",
-        "email": "taisheng@amkfsc.org.sg",
+        "name": "Anabelle Lim",
+        "email": "anabellelim@amkfsc.org.sg",
         "phone": [
           "64355323"
         ]
       },
-      "deliveryCostsCoveredByDonor": false,
+      "deliveryCostsCoveredByDonor": true,
       "date": "27 Dec 2021"
     },
     {
@@ -2333,6 +2332,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "102927",
+      "name": "Honey Weco Perfect 10\" Spring Mattress with Eurotop",
+      "description": "Honey Weco Perfect 10\" Spring Mattress with Eurotop. Item is new with original packaging.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "26 Jan 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102926",
+      "name": "EKTORP, Three-seat sofa, Idemo, brown",
+      "description": "Width: 218 cm\nDepth: 88 cm\nHeight: 88 cm",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "26 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102924",
+      "name": "CDC voucher",
+      "description": "CDC voucher received Dec 2021",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "26 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": "0x0x0",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102919",
       "name": "LOFT BED",
