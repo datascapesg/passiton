@@ -1167,41 +1167,6 @@
       "date": "26 Nov 2021"
     },
     {
-      "id": "101591",
-      "category": "Infant and Children Items",
-      "name": "Nestle Lactogen 2 Milk powder (Qty: 2)",
-      "description": "Low income family of single mom with an infant require milk powder. Help for the family is greatly appreciated!",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Simranjit Kaur",
-        "email": "simranjit.kaur@montfortcare.org.sg",
-        "phone": [
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Nov 2021"
-    },
-    {
-      "id": "101589",
-      "category": "Infant and Children Items",
-      "name": "Milk Powder S26 Stage 4",
-      "description": "Family requires 2 x tins of S26 Stage 4 Milk powder\n\nLow income family with 2 children under 6yo. Younger child (3yo) has has been not been able to meet his developmental milestones. Father has a reduce in his income due to the covid pandemic and is barely making ends meet.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Community Services - Project Family",
-        "name": "Sherrie Ooi",
-        "email": "sherrieooi@fycs.org",
-        "phone": [
-          "67690430",
-          "62355224"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Nov 2021"
-    },
-    {
       "id": "102857",
       "category": "Others",
       "name": "Food Rations",
@@ -2210,6 +2175,16 @@
   ],
   "offers": [
     {
+      "id": "102896",
+      "name": "Study Table",
+      "description": "Study Table\n\nLength 100 cm x breadth 60 cm x Height 74 cm\n\nPlease note some peeling on surface but otherwise quite sturdy.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "30 Dec 2021",
+      "ageInYears": 4,
+      "dimensions": "Study Table  Length 100 cm x breadth 60 cm x Height 74 cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102895",
       "name": "Tena pull up pants (3pks) / Tena tape pants (1pk) sz M",
       "description": "Brand new",
@@ -2311,7 +2286,7 @@
     },
     {
       "id": "102885",
-      "name": "Tens Pads (incontinence)",
+      "name": "Tena Pads (incontinence)",
       "description": "Package been opened. 18 out of 20 pads left. All in sealed condition",
       "location": null,
       "validTill": "25 Jan 2022",
@@ -2467,16 +2442,6 @@
       "validTill": "23 Jan 2022",
       "ageInYears": 1,
       "dimensions": "40cm x 20cm x 94cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102869",
-      "name": "4 seater sofa",
-      "description": "Leather sofa, very good condition .\nReceiver to pay for the collection and delivery",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "27 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3897,36 +3862,6 @@
       "validTill": "28 Dec 2021",
       "ageInYears": 4,
       "dimensions": "(Length 120cm, Width 110cm)",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101665",
-      "name": "Baby and Toddler clothes",
-      "description": "Clothes are in relatively good condition in my opinion (very minimal stainings, don’t have holes, don’t look worn). \n\nThere are both boy and girl clothings (minimal) ranging from 9 months to 2 year plus. Some mittens, bibs and hats included.\n\nI’d prefer if these clothings are taken by families that will use both the boy and girl clothings otherwise it’s a lot for me to go through, sort and pack.\n\nI will pay for delivery fees.\n\nI will include baby laundry detergent in the package.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "27 Dec 2021",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101664",
-      "name": "Beasy Transfer Board & Gyenno Spoon",
-      "description": "2 Beasy transfer boards for patient transfer usage. 4 gyenno fork and spoon set to aid patient with Parkinson.",
-      "location": "Katong, Joo Chiat, Amber Road",
-      "validTill": "27 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "101655",
-      "name": "Readers for K1 and K2",
-      "description": "Good condition readers,  beginners reading books\n\nPick up at my unit anytime.\n\nMeet at train station near me at agreed timing.",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "27 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     }
   ]
