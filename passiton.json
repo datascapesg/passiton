@@ -612,21 +612,22 @@
       "date": "17 Dec 2021"
     },
     {
-      "id": "102862",
+      "id": "102900",
       "category": "Infant and Children Items",
-      "name": "Milk Powder & Diapers",
-      "description": "Family of 6 is living in a 2-room rental flat. Husband, who has been struggling with employment, is the sole breadwinner to his wife and parents who have their own medical conditions. The couple has a 3 years old daughter and a newborn. Due to their financial circumstance, they hope to receive assistance for the following items: 1) a few tins of Nature One Dairy Premium Newborn 2) a few packets of Huggies pants Size M 6-11kg nature made 3) a few packets of Pampers pants Size L 38. For further liaison on delivery address etc, do contact me at 98598768, thank you so much!",
+      "name": "Dugro milk powder",
+      "description": "Single mom (F37) struggles financially to provide for her 3 kids with special needs (twins M4 & F2). Twins M4 take Stage 4 and F2 takes stage 3 Dugro milk powder.",
       "specifications": null,
       "contact": {
-        "org": "PPIS Family Service Centre (East)",
-        "name": "Nur Afrina",
-        "email": "fsceast@ppis.sg",
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Christina Lim",
+        "email": "limpohgekchristina@fycs.org",
         "phone": [
-          "69503503"
+          "63519151",
+          "65690381"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "24 Dec 2021"
+      "date": "27 Dec 2021"
     },
     {
       "id": "102760",
@@ -1287,23 +1288,6 @@
       "date": "22 Dec 2021"
     },
     {
-      "id": "102706",
-      "category": "Others",
-      "name": "Milk Powder (Similac Stage 3)",
-      "description": "Family of 7, with 5 children requires short-term milk powder support for the youngest son. Husband is the sole breadwinner and has unstable income due to his health condition. Wife is unable to work due to caregiving of her children and is currently pregnant.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Ye Jiancheng",
-        "email": "jiancheng@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "21 Dec 2021"
-    },
-    {
       "id": "102664",
       "category": "Others",
       "name": "Food Rations (Halal)",
@@ -1406,23 +1390,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "13 Dec 2021"
-    },
-    {
-      "id": "102357",
-      "category": "Others",
-      "name": "Milk Powder (Lactogen Stage 3)",
-      "description": "Single mother of 2 young children requires short-term milk powder support. Mother is looking for job and family currently has unstable financial situation as she is the sole breadwinner of the family.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Ye Jiancheng",
-        "email": "jiancheng@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "13 Dec 2021"
     },
     {
@@ -1667,6 +1634,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "29 Nov 2021"
+    },
+    {
+      "id": "102897",
+      "category": "Home Furnishing",
+      "name": "3seater Sofa",
+      "description": "Client is a single elderly lady who recently moved in to a new home. She does not have sufficient savings needed to purchase the necessary furniture for her house.",
+      "specifications": "Minimum 3 seater",
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Dec 2021"
     },
     {
       "id": "102845",
@@ -2171,9 +2155,37 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Dec 2021"
+    },
+    {
+      "id": "102899",
+      "category": "Medical Aids",
+      "name": "TEN ADULT PANTS XL",
+      "description": "We are appealing for TENA ADULT PANTS XL for a low income client who suffer from long term bladder  issues and is unable to work due to her poor health",
+      "specifications": "XL",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
+        "name": "Maggie Gan",
+        "email": "maggiegan@amkfsc.org.sg",
+        "phone": [
+          "65536643",
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Dec 2021"
     }
   ],
   "offers": [
+    {
+      "id": "102898",
+      "name": "white metal double bedframe",
+      "description": "Have a sound bedframe for donation.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "23 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "102896",
       "name": "Study Table",
@@ -2375,16 +2387,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "102876",
-      "name": "Single bed frame and mattress",
-      "description": "Used less than 6 months. Will be moving out of the place by 30th dec this year. thus hope to donate to someone in need than dispose it.",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "31 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "102875",
       "name": "New slippers",
       "description": "New men’s slippers size 40/41 from cotton on, able to provide postage",
@@ -2495,31 +2497,11 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "102859",
-      "name": "Mamy Poko air fit L size pull up diaper x 3",
-      "description": "Brand new Mamy Poko L size pull up diaper x 3",
-      "location": "Bukit panjang",
-      "validTill": "31 Dec 2021",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "102856",
       "name": "L Shape Sofa",
       "description": "L Shaped Sofa",
       "location": "Tampines, Pasir Ris",
       "validTill": "05 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102855",
-      "name": "Toshiba refrigerator",
-      "description": "Hi, i am moving house, and bought bigger fridge to accommodate bigger family size\nThe fridge is 3 doors, in good condition, as i dont store much things during use",
-      "location": null,
-      "validTill": "23 Jan 2022",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -2552,16 +2534,6 @@
       "validTill": "23 Jan 2022",
       "ageInYears": 3,
       "dimensions": "Single bed size",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102846",
-      "name": "Merries Pants Diapers XXL",
-      "description": "Merries Pants Diapers in size XXL, Recommended weight 15-28kg, Waist size 46-64cm, 26 pieces per pack, 3 packs to giveaway",
-      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
-      "validTill": "23 Jan 2022",
-      "ageInYears": 3,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -2682,16 +2654,6 @@
       "validTill": "20 Jan 2022",
       "ageInYears": 4,
       "dimensions": "Width 79cm, Depth 69cm, Height 78cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102737",
-      "name": "Kids boy clothing 1 to 3 years",
-      "description": "Kids clothes suitable for 1 to 3 years old. Have a few packs for different household",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "20 Jan 2022",
-      "ageInYears": 2,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3025,16 +2987,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "102603",
-      "name": "Pre-loved baby clothes (Includes cot bedsheets)",
-      "description": "Preloved baby clothes from newborn to 18 months. Includes bath towels, bibs, burp towels. Mostly neutrals with some boy specific items.",
-      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-      "validTill": "31 Dec 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "102600",
       "name": "Shoe",
       "description": "Only use once. Black spots behind.",
@@ -3272,26 +3224,6 @@
       "validTill": "31 Dec 2021",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102749",
-      "name": "Queen bed  plus mattress",
-      "description": "Well used.. Good condition",
-      "location": null,
-      "validTill": "01 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "211cm x 158cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102750",
-      "name": "Queen bed  plus mattress",
-      "description": "Well used.. Good condition",
-      "location": null,
-      "validTill": "01 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "211cm x 158cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
