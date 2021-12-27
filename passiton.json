@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "102931",
+      "category": "Electrical Home Appliances",
+      "name": "DVB-T2 Box plus accessories",
+      "description": "Seniors living in HDB rental flat needs digital set top box (i.e., DVB-T2 box). Their existing boxes or its remote have stopped working. This box is needed for older TVs without internal tuner. Please include all accessories such as power adapter, remote and antenna. Many Thanks.",
+      "specifications": "With power adapter, remote and antenna",
+      "contact": {
+        "org": "Moral Senior Activity Center @ Kaki Bukit",
+        "name": "Gary Tan",
+        "email": "garytan@chkmps.org.sg",
+        "phone": [
+          "64486247"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Dec 2021"
+    },
+    {
       "id": "102921",
       "category": "Electrical Home Appliances",
       "name": "Rice Cooker (0.3L to 0.8L)",
@@ -1256,6 +1273,23 @@
       "date": "26 Nov 2021"
     },
     {
+      "id": "102930",
+      "category": "Others",
+      "name": "Halal Food Rations",
+      "description": "Client is blind on one eye and is recovering from eye surgery on the other, according to doctor's memo is that he is",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (East)",
+        "name": "Nur Afrina",
+        "email": "fsceast@ppis.sg",
+        "phone": [
+          "69503503"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Dec 2021"
+    },
+    {
       "id": "102911",
       "category": "Others",
       "name": "Food Rations",
@@ -2333,6 +2367,16 @@
   ],
   "offers": [
     {
+      "id": "102928",
+      "name": "Living Room Furniture",
+      "description": "Shelving unit - black-brown\n Lack - Wall shelf unit - black-brown\n Lack - Coffee table - black-brown",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "26 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102927",
       "name": "Honey Weco Perfect 10\" Spring Mattress with Eurotop",
       "description": "Honey Weco Perfect 10\" Spring Mattress with Eurotop. Item is new with original packaging.",
@@ -2350,16 +2394,6 @@
       "validTill": "26 Jan 2022",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102924",
-      "name": "CDC voucher",
-      "description": "CDC voucher received Dec 2021",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "26 Jan 2022",
-      "ageInYears": 1,
-      "dimensions": "0x0x0",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -2408,16 +2442,6 @@
       "description": "BOCK Livorno Premium full electric Bed, Split Side Rails with Bock Riposan Mattress. The mattress is suited for bed bound users who need relief from bedsores.\n\nCondition is very good, almost like new with original assembly and operation manual available. Bed frame is collapsible for easy storage.\n\nBed transfer will be arranged with Rainbow Care (local distributor) that includes disassembly at my location, transport and reassembling at new location.",
       "location": null,
       "validTill": "31 Dec 2021",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102907",
-      "name": "Single Bed with Mattress",
-      "description": "Single bed with mattress",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "12 Jan 2022",
       "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
