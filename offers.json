@@ -1,5 +1,15 @@
 [
   {
+    "id": "103001",
+    "name": "Baby bed",
+    "description": "baby bed from infant to 4 years old. Comes with mattress and bed sheets.",
+    "location": "Geylang, Eunos",
+    "validTill": "27 Jan 2022",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "103000",
     "name": "Queen-sized Spring Mattress (Unused)",
     "description": "Brand new Queen mattress, never used before. Accidental double order so we’d like to donate the extra one to anyone who will need it (:\n\nFeatures:\n- Coolmax fabric for cooling sleep, and provides lasting freshness, breathability and durability.\n- Anti Dust mite, Anti Fungal, Anti bacterial\n- High heat treated double-coil system for extra durability and spinal support\n\nFirmness: Medium Firm 7/10",
@@ -43,16 +53,6 @@
     "id": "102990",
     "name": "Bottle warmer",
     "description": "Bottle warmer. Only used for a year. Good condition. Complimentary nursing pads and milk storage bags.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "27 Jan 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "102989",
-    "name": "Playpen",
-    "description": "Playpen. Used but in good condition",
     "location": "Serangoon Garden, Hougang, Ponggol",
     "validTill": "27 Jan 2022",
     "ageInYears": 4,
@@ -267,16 +267,6 @@
     "validTill": "23 Jan 2022",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "102896",
-    "name": "Study Table",
-    "description": "Study Table\n\nLength 100 cm x breadth 60 cm x Height 74 cm\n\nPlease note some peeling on surface but otherwise quite sturdy.",
-    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-    "validTill": "30 Dec 2021",
-    "ageInYears": 4,
-    "dimensions": "Study Table  Length 100 cm x breadth 60 cm x Height 74 cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1430,16 +1420,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "102969",
-    "name": "IKEA trolley",
-    "description": "IKEA trolley in good condition - mint green",
-    "location": "Bukit Timah ",
-    "validTill": "08 Jan 2022",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "102186",
     "name": "Ear piece",
     "description": "Samsung ear piece for phone and PC",
@@ -1536,16 +1516,6 @@
     "location": "Little India",
     "validTill": "30 Dec 2021",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "101994",
-    "name": "Baby clothes and shoes",
-    "description": "Kids clothes and shoes",
-    "location": null,
-    "validTill": "01 Jan 2022",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
