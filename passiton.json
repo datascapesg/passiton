@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "102978",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "Family of 6 lives in a 2-room flat and are struggling with finances. Father had lost his job since the pandemic and have been doing odd jobs as the sole breadwinner of his family, for his wife and 5 children. Children are schooling. Mother shared her difficulties and anxiety for school next year as their washing machine had since broken down and it would be a challenge to ensure that her children have clean uniforms.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Singapore Ltd",
+        "name": "Adriel Tham",
+        "email": "adrieltham@carecorner.org.sg",
+        "phone": [
+          "63642203",
+          "62506813"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Dec 2021"
+    },
+    {
       "id": "102974",
       "category": "Electrical Home Appliances",
       "name": "Washing machine topload 10kg or more",
@@ -1242,6 +1260,41 @@
       "date": "29 Nov 2021"
     },
     {
+      "id": "102977",
+      "category": "Others",
+      "name": "Halal Food Rations",
+      "description": "Client is blind on one eye and is recovering from eye surgery on the other, according to doctor's memo is that he is",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (East)",
+        "name": "Nur Afrina",
+        "email": "fsceast@ppis.sg",
+        "phone": [
+          "69503503"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Dec 2021"
+    },
+    {
+      "id": "102976",
+      "category": "Others",
+      "name": "Adult diapers",
+      "description": "Client is staying with her 2nd son in a 3 room purchased flat. Her 2nd son is a truck driver and his income is just sufficient for the family's expenses and the bills. Family is having difficulties in purchasing the adult diapers - pull-up pants M size for client.",
+      "specifications": "Pants - M Size",
+      "contact": {
+        "org": "Whampoa Family Service Centre",
+        "name": "Dorcas Koh",
+        "email": "dorcaskoh@kkcs.org.sg",
+        "phone": [
+          "63260310",
+          "63260300"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Dec 2021"
+    },
+    {
       "id": "102947",
       "category": "Others",
       "name": "school bags",
@@ -1780,6 +1833,24 @@
       "date": "29 Nov 2021"
     },
     {
+      "id": "102980",
+      "category": "Home Furnishing",
+      "name": "Small foldable table",
+      "description": "Client is a single mother with 2 young children. She has limited kitchen counter space and requires a small foldable table (able to take heat) for some minimal cooking. Appreciate it donor can bear delivery costs. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Ng Yu Qing",
+        "email": null,
+        "phone": [
+          "67867366",
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Dec 2021"
+    },
+    {
       "id": "102975",
       "category": "Home Furnishing",
       "name": "Firm single mattress 4inch",
@@ -2210,24 +2281,6 @@
       "date": "01 Dec 2021"
     },
     {
-      "id": "102817",
-      "category": "Learning Aids",
-      "name": "Laptop",
-      "description": "A family of 6 is requesting for laptop assistance for their teenage son who needs it for his secondary education, and for mother to do online part-time jobs. Parents are unable to afford a laptop as father is the sole breadwinner of the family, while mother cares for their younger children and elderly mother. The assistance will thus be able to support both child and mother while relieving parents from further financial strain. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Lynn Yeo",
-        "email": "lynnyeo@amkfsc.org.sg",
-        "phone": [
-          "64546678",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Dec 2021"
-    },
-    {
       "id": "102511",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -2419,7 +2472,7 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "102963",
+      "id": "102979",
       "name": "Baby swing sarong stand",
       "description": "Include sarong",
       "location": null,
