@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "102987",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "This is a newlywed couple who are expecting their first child. \nAfter struggling to find a stable home, they are finally moving into their new rental flat. \nHowever, they are going through financial difficulties. \nClient is unable to afford the abovementioned item. \nLooking for a kind donor to help this family. \nThank you.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Dec 2021"
+    },
+    {
       "id": "102978",
       "category": "Electrical Home Appliances",
       "name": "Washing machine",
@@ -384,24 +401,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "20 Dec 2021"
-    },
-    {
-      "id": "102657",
-      "category": "Electrical Home Appliances",
-      "name": "Washing machine",
-      "description": "Client is an elderly who lives in a 1-room rental flat. He is unemployed due to his poor health and is unable to purchase a new washing machine. He requires a washing machine that has a top load of 7kg.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Community Services",
-        "name": "Christine Ang",
-        "email": "angliyan@fycs.org",
-        "phone": [
-          "63809163",
-          "63809169"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "20 Dec 2021"
     },
     {
@@ -1939,6 +1938,23 @@
       "date": "02 Dec 2021"
     },
     {
+      "id": "102988",
+      "category": "Home Furnishing",
+      "name": "Single-size Mattress",
+      "description": "Single mother with 3 children who requires 2 single-size mattresses.",
+      "specifications": null,
+      "contact": {
+        "org": "Beautiful People Sg Ltd",
+        "name": "Chloe Ng",
+        "email": "chloe@beautifulpeople.org.sg",
+        "phone": [
+          "63480480"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Dec 2021"
+    },
+    {
       "id": "102981",
       "category": "Home Furnishing",
       "name": "New Super Single Mattress",
@@ -2373,6 +2389,16 @@
   ],
   "offers": [
     {
+      "id": "102989",
+      "name": "Playpen",
+      "description": "Playpen. Used but in good condition",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "27 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "102986",
       "name": "Super Single bed with storage bedframe and 2 pillows",
       "description": "Superb condition super single bed with storage bed frame",
@@ -2509,16 +2535,6 @@
       "location": "Queenstown, Tiong Bahru",
       "validTill": "26 Jan 2022",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102927",
-      "name": "Honey Weco Perfect 10\" Spring Mattress with Eurotop",
-      "description": "Honey Weco Perfect 10\" Spring Mattress with Eurotop. Item is new with original packaging.",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "26 Jan 2022",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
