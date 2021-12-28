@@ -1,5 +1,15 @@
 [
   {
+    "id": "102982",
+    "name": "King size bedframe",
+    "description": "Pine king sized bedframe w/o mattress",
+    "location": "Yishun, Sembawang",
+    "validTill": "27 Jan 2022",
+    "ageInYears": 4,
+    "dimensions": "2m x 2m",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "102973",
     "name": "Fabric 3-seater sofa",
     "description": "Still in good condition. \n\nFabric are all removable for washing.\nSize: W210 x D89 x H71cm",
@@ -27,16 +37,6 @@
     "validTill": "27 Jan 2022",
     "ageInYears": 1,
     "dimensions": "L159cm x D40cm x H68cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "102979",
-    "name": "Baby swing sarong stand",
-    "description": "Include sarong",
-    "location": null,
-    "validTill": "31 Dec 2021",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -217,16 +217,6 @@
     "validTill": "30 Dec 2021",
     "ageInYears": 4,
     "dimensions": "Study Table  Length 100 cm x breadth 60 cm x Height 74 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "102892",
-    "name": "Cupboard",
-    "description": "Open door cupboard. Good condition with no scratches or stain",
-    "location": "Jurong",
-    "validTill": "23 Jan 2022",
-    "ageInYears": 2,
-    "dimensions": "40CM (L) BY 40CM (W) BY 135CM (H)",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1657,6 +1647,16 @@
     "validTill": "31 Dec 2021",
     "ageInYears": 3,
     "dimensions": "1.5 litre",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "102983",
+    "name": "Fridge",
+    "description": "Panasonic fridge with selectable compartment.",
+    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+    "validTill": "31 Dec 2021",
+    "ageInYears": 4,
+    "dimensions": "180cm x 70cm x 70cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
