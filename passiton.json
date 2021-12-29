@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "103023",
+      "category": "Electrical Home Appliances",
+      "name": "Vacuum Cleaner",
+      "description": "Family lives in public rental flat and have 5 children who are attending pri/sec school. \nFather lost his job and mother just started working as a school canteen helper on a part time basis. \nRequesting for a vacuum cleaner for the house.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Dec 2021"
+    },
+    {
       "id": "102994",
       "category": "Electrical Home Appliances",
       "name": "Top-loading Washing Machine (8 kg or smaller)",
@@ -1274,6 +1291,40 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "29 Nov 2021"
+    },
+    {
+      "id": "103022",
+      "category": "Others",
+      "name": "$300 Popular Vouchers",
+      "description": "Family lives in public rental flat and have 5 children who are attending pri/sec school. \nFather lost his job and mother just started working as a school canteen helper on a part time basis. \nRequesting for $300 Popular Bookstore vouchers to buy schooling needs.",
+      "specifications": "$300 Popular Vouchers",
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Dec 2021"
+    },
+    {
+      "id": "103021",
+      "category": "Others",
+      "name": "Food Rations",
+      "description": "49 year old man is facing financial strains and working towards self-sustainability. He would need support for food rations: \n1. Boneless Curry chicken\n2. Beef or Mutton \n3. Wholegrain Biscuits \n4. Canned mushrooms \n5. Canned fruits \n6. Corn \n7. Sardines\n8. Myojo Noodles\n9. Mushroom soup\n10. Chicken soup",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Clarice Lim",
+        "email": "claricelim@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Dec 2021"
     },
     {
       "id": "103010",
@@ -3152,16 +3203,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "102943",
-      "name": "Push Chair",
-      "description": "The pushchair is foldable for easier storage.",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "19 Jan 2022",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "102944",
       "name": "Push Chair",
       "description": "The pushchair is foldable for easier storage.",
@@ -3869,16 +3910,6 @@
       "validTill": "07 Jan 2022",
       "ageInYears": 3,
       "dimensions": "60cm X 45cm X 90cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102119",
-      "name": "Study table with drawers x 2 units",
-      "description": "still in good condition. some scratch marks. ( 2 tables available )",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 Dec 2021",
-      "ageInYears": 2,
-      "dimensions": "132cm x 58 cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
