@@ -2148,23 +2148,6 @@
       "date": "29 Dec 2021"
     },
     {
-      "id": "103044",
-      "category": "Home Furnishing",
-      "name": "Sofa",
-      "description": "Client is a single mother who has recently gotten a new rental flat with her 2 children. She will require a sofa to furnish her home.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Simranjit Kaur",
-        "email": "simranjit.kaur@montfortcare.org.sg",
-        "phone": [
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Dec 2021"
-    },
-    {
       "id": "103005",
       "category": "Home Furnishing",
       "name": "wardrobe",
@@ -2373,23 +2356,6 @@
       "date": "22 Dec 2021"
     },
     {
-      "id": "102744",
-      "category": "Home Furnishing",
-      "name": "Storage Bed Frame with Mattress",
-      "description": "Client is a single elderly lady who recently moved in to her new flat and requires donation of furnitures as she does not have sufficient savings to purchase all that she needs for her house.",
-      "specifications": "Queen Size",
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Dec 2021"
-    },
-    {
       "id": "102726",
       "category": "Home Furnishing",
       "name": "Kitchen Tabletop",
@@ -2580,6 +2546,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "103047",
+      "name": "Super single mattress from 4 Star",
+      "description": "Good quality mattress, used for about 3 years. Still in perfect 10 out of 10 condition, no discoloration.",
+      "location": "Middle Road, Golden Mile",
+      "validTill": "03 Jan 2022",
+      "ageInYears": 3,
+      "dimensions": "107 X 190 X 20",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103043",
       "name": "White school shoes",
