@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "103026",
+      "category": "Electrical Home Appliances",
+      "name": "Television",
+      "description": "Elderly client’s television displays static lines whenever turned on. Client hopes to receive support in attaining a replacement.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Nathan Hou",
+        "email": "nathanhou@thkmc.org.sg",
+        "phone": [
+          "88554795",
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Dec 2021"
+    },
+    {
+      "id": "103025",
+      "category": "Electrical Home Appliances",
+      "name": "Cordless Telephone",
+      "description": "Elderly client’s home phone (cordless, twin set) has connection issues and hopes to receive support in attaining a replacement.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Nathan Hou",
+        "email": "nathanhou@thkmc.org.sg",
+        "phone": [
+          "88554795",
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Dec 2021"
+    },
+    {
       "id": "103023",
       "category": "Electrical Home Appliances",
       "name": "Vacuum Cleaner",
@@ -715,6 +751,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "29 Nov 2021"
+    },
+    {
+      "id": "103024",
+      "category": "Mobility Aids",
+      "name": "Umbrella walking stick",
+      "description": "Elderly client requires a walking stick due to mobility issues however, she is uncomfortable going out in public using one. Client hopes she can receive support in attaining a walking stick which looks like am umbrella.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Nathan Hou",
+        "email": "nathanhou@thkmc.org.sg",
+        "phone": [
+          "88554795",
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Dec 2021"
     },
     {
       "id": "102934",
@@ -2533,16 +2587,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103000",
-      "name": "Queen-sized Spring Mattress (Unused)",
-      "description": "Brand new Queen mattress, never used before. Accidental double order so we’d like to donate the extra one to anyone who will need it (:\n\nFeatures:\n- Coolmax fabric for cooling sleep, and provides lasting freshness, breathability and durability.\n- Anti Dust mite, Anti Fungal, Anti bacterial\n- High heat treated double-coil system for extra durability and spinal support\n\nFirmness: Medium Firm 7/10",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "27 Jan 2022",
-      "ageInYears": 1,
-      "dimensions": "190x152x25cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "102995",
       "name": "Dehumidifier",
       "description": "Have 6 dehumidifers to give away. All in good working condition.",
@@ -2563,7 +2607,7 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "102991",
+      "id": "103027",
       "name": "TV",
       "description": "TV",
       "location": "Queenstown, Tiong Bahru",
@@ -2710,16 +2754,6 @@
       "validTill": "26 Jan 2022",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102919",
-      "name": "LOFT BED",
-      "description": "Very new loft bed which is perfect for places with space constraints. The bottom area can be used as a work area, complete with shelves, cabinet and desk. Item is dismantled and wrapped and protected, delivery will be provided but recipient will need to pay for the assembly fee (approx $75). I will share the details of the assembly personnel",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "15 Jan 2022",
-      "ageInYears": 2,
-      "dimensions": "Pls see pictures",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -4130,16 +4164,6 @@
       "validTill": "31 Dec 2021",
       "ageInYears": 3,
       "dimensions": "1.5 litre",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102983",
-      "name": "Fridge",
-      "description": "Panasonic fridge with selectable compartment.",
-      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-      "validTill": "31 Dec 2021",
-      "ageInYears": 4,
-      "dimensions": "180cm x 70cm x 70cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
