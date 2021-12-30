@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "103089",
+      "category": "Electrical Home Appliances",
+      "name": "Vacuum Cleaner",
+      "description": "Client is a single lady who is in between jobs, and with two daughters. She is currently transiting from part-time to full-time employment. She is seeking some refurbishing for her house, and wants to make her home a conducive environment for her children, and thus looking for a vacuum cleaner.",
+      "specifications": "NIL",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Lyndon Mathews",
+        "email": "lyndonmathews@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Dec 2021"
+    },
+    {
       "id": "103033",
       "category": "Electrical Home Appliances",
       "name": "Instant shower heater",
@@ -1241,6 +1258,23 @@
       "date": "29 Nov 2021"
     },
     {
+      "id": "103084",
+      "category": "Others",
+      "name": "Fresh Food & Rations",
+      "description": "Client is a single lady who is in between jobs, and with two daughters.\nShe is currently transiting from part-time to full-time employment. Due to financial constraints, she has been receiving her salary on a week-by-week basis for her last job, and transiting into a full time job where she is paid at the end of the month would mean that getting through the first and second month in her new job would be uncertain.\nAs such, she requires assistance for daily necessities for this duration.\n\nClient would benefit form the following:\nChicken(midjoint/fillet/breast/wing)-5KG,\n-Rice - 10kg,\n-Fish(Frozen/Fresh) - 5kg\n-Potatoes,\n-Brinjal,\n-Cabbage,\n-Cooking oil,\n-Mango(Fresh),\n-Mangosteen,\n-Nutella bread spread.",
+      "specifications": "One month's supply",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Lyndon Mathews",
+        "email": "lyndonmathews@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Dec 2021"
+    },
+    {
       "id": "103028",
       "category": "Others",
       "name": "Urgent Rations needed",
@@ -1674,23 +1708,6 @@
       "date": "03 Dec 2021"
     },
     {
-      "id": "101941",
-      "category": "Others",
-      "name": "Baba's Packet Curry Powder - Meat & fish",
-      "description": "PPIS Family Service Centre (West) would like to appeal for 30 -50 packets of Baba's Packet Curry Powder - Meat & Fish for its beneficiaries. Thank You.",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Yuliza Mohamad Yusoff",
-        "email": "yuliza@ppis.sg",
-        "phone": [
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Dec 2021"
-    },
-    {
       "id": "101938",
       "category": "Others",
       "name": "Halal Chilli Sauce",
@@ -1794,17 +1811,18 @@
       "date": "29 Nov 2021"
     },
     {
-      "id": "103070",
+      "id": "103085",
       "category": "Learning Aids",
-      "name": "Stationeries",
-      "description": "Stationeries for 5 school-going children.\n\nFamily of 7, in financial hardship, can benefit from this assistance. New school year for Pri 1 child next year (2022).\n\nPlease contact me if you require any additional information, thank you!",
+      "name": "Children's backpack",
+      "description": "Low income family with 9 children. Husband is a blue collared worker while mum is homemaker. Family requested for assistance with purchasing back to school items for children and hopes to receive support for the following:\n4x primary school backpacks (2 boy 2 girl)\n5x childcare backpacks (5 boys)",
       "specifications": null,
       "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Adil Matin Bin Mohd Ramlan",
-        "email": "adilmatin@amkfsc.org.sg",
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Nathan Hou",
+        "email": "nathanhou@thkmc.org.sg",
         "phone": [
-          "63128100"
+          "88554795",
+          "67169466"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1915,6 +1933,75 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "02 Dec 2021"
+    },
+    {
+      "id": "103092",
+      "category": "Home Furnishing",
+      "name": "Coffee Table",
+      "description": "Client is a single lady who is in between jobs, and with two daughters. She is currently transiting from part-time to full-time employment. She is seeking some refurbishing for her house, and wants to make her home a conducive environment for her children, and thus looking for a coffee table.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Lyndon Mathews",
+        "email": "lyndonmathews@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Dec 2021"
+    },
+    {
+      "id": "103086",
+      "category": "Home Furnishing",
+      "name": "Single Bed mattress",
+      "description": "A low income family require a single sized mattress",
+      "specifications": null,
+      "contact": {
+        "org": "MontfortCare - Marine Parade Family Service Centre",
+        "name": "Cherie Ho",
+        "email": "cherie.ho@montfortcare.org.sg",
+        "phone": [
+          "89407189",
+          "64450100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "30 Dec 2021"
+    },
+    {
+      "id": "103083",
+      "category": "Home Furnishing",
+      "name": "New Queen Size Mattress",
+      "description": "Client is a single mother with 2 children. She recently got a new rental flat and will require some items for her home. She will need a new queen sized mattress as she has sensitive skin.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Simranjit Kaur",
+        "email": "simranjit.kaur@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "30 Dec 2021"
+    },
+    {
+      "id": "103082",
+      "category": "Home Furnishing",
+      "name": "Chest of Drawers",
+      "description": "Client is a single mother who is preparing for the birth of her child, and she is unable to work currently due to her being heavily pregnant. Client requires a chest of drawers to store her baby items properly and in a hygienic manner",
+      "specifications": "Approx 80cm (length), 123cm (height). Similar to IKEA MALM chest of 6 drawers.",
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Dec 2021"
     },
     {
       "id": "103077",
@@ -2264,6 +2351,46 @@
   ],
   "offers": [
     {
+      "id": "103091",
+      "name": "Coffee Table",
+      "description": "used but in good condition and well maintained",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "29 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103090",
+      "name": "TV cabinet",
+      "description": "used but in good condition and well maintained",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "29 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103088",
+      "name": "single teak bed",
+      "description": "used but in good condition and well maintained",
+      "location": null,
+      "validTill": "29 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103087",
+      "name": "sofa set",
+      "description": "used but in good condition and well maintained",
+      "location": null,
+      "validTill": "29 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "103081",
       "name": "Children Boys used clothes in good condition from size 90-110 to be given away. About 50 pieces.",
       "description": "Pre-loved boys clothes worn few times only. Good for 3-4 years old . From pants to T-shirts, socks, button shirt, long sleeves.",
@@ -2279,16 +2406,6 @@
       "description": "This item is about 6 years old. Although Pass It On prefers donated items to be below 4 years, this is still a well functioning fridge. Most whitegoods last for much longer than 4 years and it is wasteful to dispose if still functioning well.",
       "location": "Orchard, Cairnhill, River Valley",
       "validTill": "07 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103079",
-      "name": "Single Bed Mattress",
-      "description": "Single size mattress.  Some stains",
-      "location": "Macpherson, Braddell",
-      "validTill": "15 Jan 2022",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
