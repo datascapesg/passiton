@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "103094",
+      "category": "Electrical Home Appliances",
+      "name": "2-door fridge",
+      "description": "Elderly malay couple above 55 yrs old living in 1-room HDB rental flat needs mid-size (i.e., 200 to 300L or approx 600x1650mm) 2-door fridge. Their current fridge is leaking water. Many Thanks.",
+      "specifications": "200 to 300L or approx 600x1650mm",
+      "contact": {
+        "org": "Moral Senior Activity Center @ Kaki Bukit",
+        "name": "Gary Tan",
+        "email": "garytan@chkmps.org.sg",
+        "phone": [
+          "64486247"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Dec 2021"
+    },
+    {
       "id": "103089",
       "category": "Electrical Home Appliances",
       "name": "Vacuum Cleaner",
@@ -273,23 +290,6 @@
         "email": "jaslinong@mws.sg",
         "phone": [
           "67872001"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Dec 2021"
-    },
-    {
-      "id": "102766",
-      "category": "Electrical Home Appliances",
-      "name": "Flat screen TV (32 to 42 inches)",
-      "description": "Elderly malay uncle 90 yrs old living in HDB 1-room rental flat has to change his TV. His current TV has sound but no picture. Note that size of TV has to be 42 inches or smaller due to space constraints. Many Thanks.",
-      "specifications": "32 to 42 inches",
-      "contact": {
-        "org": "Moral Senior Activity Center @ Kaki Bukit",
-        "name": "Gary Tan",
-        "email": "garytan@chkmps.org.sg",
-        "phone": [
-          "64486247"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1933,6 +1933,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "02 Dec 2021"
+    },
+    {
+      "id": "103093",
+      "category": "Home Furnishing",
+      "name": "Sofa - 2 or 3 seaters",
+      "description": "Client is a single mother with a 17-year-old son. The family is living in a two-rental flat and is fully dependent on social assistance for family sustenance as client is medically certified unfit for work. The family requested for a brand new/second hand two/three-seater sofa. The maximum length measurement of the sofa (preferable leather sofa) should not more than 1.8m & the height of the sofa should be more than 0.4M.",
+      "specifications": "Max length dimension <1.8M. Height dimension >0.4M",
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "30 Dec 2021"
     },
     {
       "id": "103092",
