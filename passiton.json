@@ -88,23 +88,6 @@
       "date": "30 Dec 2021"
     },
     {
-      "id": "103115",
-      "category": "Electrical Home Appliances",
-      "name": "Vacuum Cleaner",
-      "description": "Client is a single lady who is in between jobs, and with two daughters. She is currently transiting from part-time to full-time employment. She is seeking some refurbishing for her house, and wants to make her home a conducive environment for her children, and thus looking for a vacuum cleaner.",
-      "specifications": "NIL",
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Lyndon Mathews",
-        "email": "lyndonmathews@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 Dec 2021"
-    },
-    {
       "id": "103114",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -2332,6 +2315,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "103139",
+      "name": "Cabinet",
+      "description": "Brown 8 shelves display caninet with 4 doors",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "28 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": "H173cm x L83cm x D30cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103138",
       "name": "Table fan",
