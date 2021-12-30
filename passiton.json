@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "103094",
-      "category": "Electrical Home Appliances",
-      "name": "2-door fridge",
-      "description": "Elderly malay couple above 55 yrs old living in 1-room HDB rental flat needs mid-size (i.e., 200 to 300L or approx 600x1650mm) 2-door fridge. Their current fridge is leaking water. Many Thanks.",
-      "specifications": "200 to 300L or approx 600x1650mm",
-      "contact": {
-        "org": "Moral Senior Activity Center @ Kaki Bukit",
-        "name": "Gary Tan",
-        "email": "garytan@chkmps.org.sg",
-        "phone": [
-          "64486247"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 Dec 2021"
-    },
-    {
       "id": "103089",
       "category": "Electrical Home Appliances",
       "name": "Vacuum Cleaner",
@@ -766,23 +749,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "22 Dec 2021"
-    },
-    {
-      "id": "102577",
-      "category": "Infant and Children Items",
-      "name": "XL diapers",
-      "description": "Client is a single mother, who has just completed her divorce. She is taking care of a 2 year old son by herself, and was recently retrenched as she had taken too many leave days to care for her son/settle the divorce proceedings. Currently, she is looking for a new job and requires support to purchase milk powder and diapers for her child.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Jio Hui Zhen",
-        "email": "jiohuizhen@amkfsc.org.sg",
-        "phone": [
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "17 Dec 2021"
     },
     {
       "id": "102574",
@@ -2764,6 +2730,16 @@
       "validTill": "26 Jan 2022",
       "ageInYears": 4,
       "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103095",
+      "name": "LOFT BED",
+      "description": "Very new loft bed which is perfect for places with space constraints. The bottom area can be used as a work area, complete with shelves, cabinet and desk. Item is dismantled and wrapped and protected, delivery will be provided but recipient will need to pay for the assembly fee (approx $75). I will share the details of the assembly personnel",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "15 Jan 2022",
+      "ageInYears": 2,
+      "dimensions": "Pls see pictures",
       "deliveryCostsCoveredByDonor": true
     },
     {
