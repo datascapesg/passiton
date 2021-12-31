@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "103153",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Family of 4 hopes to seek your kind provision of a refrigerator as they are shifting into another shelter. Mother is the sole breadwinner striving her best to provide for the family while father is a retiree and caregiver for their children. With the refrigerator, the parents hope to store their food for their children. Your blessing of a refrigerator is deeply appreciated by the family. Thank you!",
+      "specifications": "400L",
+      "contact": {
+        "org": "AWWA Transitional Shelter",
+        "name": "Esther Tan",
+        "email": "esther_tan@awwa.org.sg",
+        "phone": [
+          "65117278",
+          "65117272"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "31 Dec 2021"
+    },
+    {
       "id": "103151",
       "category": "Electrical Home Appliances",
       "name": "Standing Fan",
@@ -29,24 +47,6 @@
         "email": "dan@shenghong.org.sg",
         "phone": [
           "62895022"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "31 Dec 2021"
-    },
-    {
-      "id": "103141",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Client is a low-income earner, supporting herself and her partner who is unable to work due to poor health. They live in a rental flat and are unable to afford the replacement of their spoilt washing machine.",
-      "specifications": "9.5kg",
-      "contact": {
-        "org": "AWWA Family Service Centre",
-        "name": "Loh Yun Yu",
-        "email": "yunyu_loh@awwa.org.sg",
-        "phone": [
-          "65119435",
-          "65119456"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2158,23 +2158,6 @@
       "date": "17 Dec 2021"
     },
     {
-      "id": "103031",
-      "category": "Medical Aids",
-      "name": "TENA PANTS MAXI",
-      "description": "Family consists of 3 children aged 12 to 14, father (41) and grandmother (59). Family depends on father's job as a parcel delivery personnel for income. Grandmother is unable to work due to multiple health issues. Family live in a 1 room rental flat.",
-      "specifications": "Size L",
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Krishna Kumar",
-        "email": "krishna@thkmc.org.sg",
-        "phone": [
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Dec 2021"
-    },
-    {
       "id": "102899",
       "category": "Medical Aids",
       "name": "TEN ADULT PANTS XL",
@@ -2194,6 +2177,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "103156",
+      "name": "piano",
+      "description": "Kimberly piano; working condition. Just need tuning.",
+      "location": null,
+      "validTill": "30 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103154",
+      "name": "Leather Sofa",
+      "description": "Genuine leather curve sofa used for more than 5 year, very comfortable and can use couple of more years, giving away free as moving to smaller place where it doesn't fit.",
+      "location": "Jurong",
+      "validTill": "19 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": "3000x70x160",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103152",
+      "name": "L shape grey sofa",
+      "description": "Grey L shape sofa",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "10 Jan 2022",
+      "ageInYears": 2,
+      "dimensions": "2.5m X 1.4m",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103149",
       "name": "QUEEN SIZE BED WITH MATTRESS",
