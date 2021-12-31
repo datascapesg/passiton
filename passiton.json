@@ -193,23 +193,6 @@
       "date": "30 Dec 2021"
     },
     {
-      "id": "103096",
-      "category": "Electrical Home Appliances",
-      "name": "Microwave",
-      "description": "Family has 2 school going children and the family requires a microwave so that the children are able to heat up their food. Father is the sole breadwinner of the family and the family is only able to meet their basic needs, with no excess money to buy any other home appliances.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Amos Liu",
-        "email": "amosliu@amkfsc.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "30 Dec 2021"
-    },
-    {
       "id": "103033",
       "category": "Electrical Home Appliances",
       "name": "Instant shower heater",
@@ -1225,6 +1208,23 @@
       "date": "06 Dec 2021"
     },
     {
+      "id": "103145",
+      "category": "Home Furnishing",
+      "name": "Cupboard",
+      "description": "Family of 7 living in a 2-room flat is requesting for a cupboard. Thank you very much.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Pek Jie Hui",
+        "email": "jiehui@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "31 Dec 2021"
+    },
+    {
       "id": "103134",
       "category": "Home Furnishing",
       "name": "2 seater sofa",
@@ -2231,6 +2231,36 @@
   ],
   "offers": [
     {
+      "id": "103148",
+      "name": "Clothes hangers",
+      "description": "Quantity: 30 pcs.  Happy to throw in some plastic hangers too if the person needs more (max 50 pcs).",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "10 Jan 2022",
+      "ageInYears": 2,
+      "dimensions": "Na",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103147",
+      "name": "Stationery",
+      "description": "Brand new stationary for blessing. Includes pencils, colour pencils, fruit designed erasers and crayons.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "30 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103146",
+      "name": "Karcher Vacuum cleaner",
+      "description": "*sorry unable to pay for delivery/ sent over. Will need to selfcollect from my unit*\n\nVacuum is in good condition as this is a spare vacuum which is hardly used.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "14 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "103144",
       "name": "Stroller for 2 kids",
       "description": "Stroller for kids / toddler\nEsp for 2 kids in family\nUsed less than 2 times\nCondition super good and new\nHope to find good owner",
@@ -2378,16 +2408,6 @@
       "validTill": "28 Jan 2022",
       "ageInYears": 4,
       "dimensions": "H173cm x L83cm x D30cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103122",
-      "name": "Queen Size Bedframe and Mattress",
-      "description": "Synthetic cream coloured leather Queen size bed frame with Sealy mattress",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "28 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "1.8m x 2m",
       "deliveryCostsCoveredByDonor": true
     },
     {
