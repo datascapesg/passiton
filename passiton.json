@@ -1223,23 +1223,6 @@
       "date": "30 Dec 2021"
     },
     {
-      "id": "103083",
-      "category": "Home Furnishing",
-      "name": "Queen Size Mattress",
-      "description": "Client is a single mother with 2 children. She recently got a new rental flat and will require some items for her home. She will need a preferable new queen sized mattress as she has sensitive skin.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Simranjit Kaur",
-        "email": "simranjit.kaur@montfortcare.org.sg",
-        "phone": [
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "30 Dec 2021"
-    },
-    {
       "id": "103077",
       "category": "Home Furnishing",
       "name": "3x Double Decker Bunk Beds",
@@ -1987,6 +1970,66 @@
     }
   ],
   "offers": [
+    {
+      "id": "103206",
+      "name": "Sofa bed",
+      "description": "Used by my son. Disinfected once every 2 weeks.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "16 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103205",
+      "name": "King size mattress",
+      "description": "Disinfected once every two weeks. Used protector too. Change due to husband’s back.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "16 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103204",
+      "name": "Bunker Bed frame",
+      "description": "Bought and rarely use. Queen size bottom",
+      "location": "Yishun, Sembawang",
+      "validTill": "31 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103203",
+      "name": "Cradle",
+      "description": "Baby yaolan. Baby outgrown. Seldom use, quite new.",
+      "location": "Yishun, Sembawang",
+      "validTill": "31 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103202",
+      "name": "Baby gate",
+      "description": "Baby gate for blessing. Baby outgrown. Quite new.",
+      "location": "Yishun, Sembawang",
+      "validTill": "31 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": "200cm long",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103201",
+      "name": "Muslim Ladies Clothes",
+      "description": "I am 1.6m tall and have a few other pieces as well. Some brands from Uniqlo, Muji or gifted to me but I didnt use.",
+      "location": "Kranji, Woodgrove",
+      "validTill": "06 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": "L size",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103200",
       "name": "Baby bouncy seat (pink)",
