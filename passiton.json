@@ -192,23 +192,6 @@
       "date": "30 Dec 2021"
     },
     {
-      "id": "103097",
-      "category": "Electrical Home Appliances",
-      "name": "Standing Fan",
-      "description": "Family has 2 school going children and the family requires a fan to replace their fan which is spoilt. Father is the sole breadwinner of the family and the family is only able to meet their basic needs, with no excess money to replace their spoilt fan.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Amos Liu",
-        "email": "amosliu@amkfsc.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "30 Dec 2021"
-    },
-    {
       "id": "103033",
       "category": "Electrical Home Appliances",
       "name": "Instant shower heater",
@@ -1328,23 +1311,6 @@
       "date": "23 Dec 2021"
     },
     {
-      "id": "102747",
-      "category": "Home Furnishing",
-      "name": "Wardrobe",
-      "description": "Client is a single elderly lady who recently moved in to her new flat and requires donation of furnitures as she does not have sufficient savings to purchase all that she needs for her house.",
-      "specifications": "Approx 2m in length and height",
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Dec 2021"
-    },
-    {
       "id": "102726",
       "category": "Home Furnishing",
       "name": "Kitchen Tabletop",
@@ -1970,6 +1936,46 @@
     }
   ],
   "offers": [
+    {
+      "id": "103210",
+      "name": "Table fan",
+      "description": "In good working condition",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "07 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103209",
+      "name": "Microwave oven / oven / fan",
+      "description": "In good working condition",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "09 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103208",
+      "name": "Laptop - HP Probook",
+      "description": "4 year old laptop still in good condition but slow. Needs to install own Microsoft software.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "31 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": "33x23x1cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103207",
+      "name": "Refrigerator",
+      "description": "Still in good working conditions",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "31 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103206",
       "name": "Sofa bed",
