@@ -52,24 +52,6 @@
       "date": "31 Dec 2021"
     },
     {
-      "id": "103153",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Family of 4 hopes to seek your kind provision of a refrigerator as they are shifting into another shelter. Mother is the sole breadwinner striving her best to provide for the family while father is a retiree and caregiver for their children. With the refrigerator, the parents hope to store their food for their children. Your blessing of a refrigerator is deeply appreciated by the family. Thank you!",
-      "specifications": "400L",
-      "contact": {
-        "org": "AWWA Transitional Shelter",
-        "name": "Esther Tan",
-        "email": "esther_tan@awwa.org.sg",
-        "phone": [
-          "65117278",
-          "65117272"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "31 Dec 2021"
-    },
-    {
       "id": "103132",
       "category": "Electrical Home Appliances",
       "name": "Fridge (2 Door)",
@@ -680,24 +662,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "30 Dec 2021"
-    },
-    {
-      "id": "103032",
-      "category": "Mobility Aids",
-      "name": "2 Seater e-scooter/wheelchair",
-      "description": "Client is a 63 year old who is the caregiver of wife and daughter aged 64 year old and 29  years who are wheelchair bound. Client is unemployed due to caregiving demands of his wife and daughter. Client's wife e suffered chronic illness e.g diabetes and kidney issues. Client's daughter suffers from cerebral palsy that limits her movements. Both needs client to assist with their Activities of Daily Living. Currently, client experiences sharp pain in his feets that disallowed him to walk for long distance. Hence, client would require a 2 seater electric wheelchair to facilitate him with accompany his wife and daughter to and from medical appointments.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Jurong",
-        "name": "Nathan Hou",
-        "email": "nathanhou@thkmc.org.sg",
-        "phone": [
-          "88554795",
-          "67169466"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Dec 2021"
     },
     {
       "id": "102934",
@@ -1831,6 +1795,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "103233",
+      "name": "Sofa Bed",
+      "description": "I am not willing to pay for collection/delivery fee. Kindly let me know if you want to arrange pick up from me.",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "31 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": "190x110cm (bed); 190x60cm(sofa)",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103232",
+      "name": "2 seater sofa bed from IKEA",
+      "description": "Easy to open into a bed but may find the bed part hard. Otherwise, it is in good condition.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "01 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103231",
       "name": "Study Table",
