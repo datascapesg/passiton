@@ -1238,58 +1238,6 @@
     "date": "06 Dec 2021"
   },
   {
-    "id": "102511",
-    "category": "Learning Aids",
-    "name": "Laptop",
-    "description": "Family of 5, with 2 children in Primary School, requires at least 1 laptop for their online home-based sessions as well as tutoring sessions. The client's spouse is not able to work due to medical issues and the family lost a substantial amount of income. Family now depends on client's income as the sole breadwinner. They are currently using the client's phone for their tutoring sessions. The donation will greatly reduce the financial stress on the couple. Item donated can be sent directly to FSC.",
-    "specifications": null,
-    "contact": {
-      "org": "AMKFSC Community Services Ltd - Cheng San",
-      "name": "Siti Raudhah Bte Azman",
-      "email": "sitiraudhah@amkfsc.org.sg",
-      "phone": [
-        "64546678",
-        "64578559"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "16 Dec 2021"
-  },
-  {
-    "id": "102258",
-    "category": "Learning Aids",
-    "name": "Laptop",
-    "description": "Client is a single mother and just gave birth. Client would like to request a laptop so she is able to do some part-time online job while providing care to her baby. Thank you. (Xin Mo)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Teddy Fu",
-      "email": "teddyfu@thkmc.org.sg",
-      "phone": [
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Dec 2021"
-  },
-  {
-    "id": "102103",
-    "category": "Learning Aids",
-    "name": "Laptop",
-    "description": "Client is currently attending a course to upgrade herself to pursue her dreams to be an early childhood educator, while caring for 4 young children. \nFamily does not have a laptop and face financial challenges. \nA laptop is needed for client's course, and will also be helpful for the children if they need it for school.",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Family Service Centre - Yishun",
-      "name": "Amy Chua",
-      "email": "amychua@mws.sg",
-      "phone": [
-        "67564995"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "07 Dec 2021"
-  },
-  {
     "id": "103021",
     "category": "Others",
     "name": "Food Rations",
@@ -1702,6 +1650,76 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "03 Dec 2021"
+  },
+  {
+    "id": "103251",
+    "category": "Learning Aids",
+    "name": "Laptop (For school usage)",
+    "description": "Young adult with mild ID is currently doing her part-time studies in digital animation at the ITE. She requires a laptop for her school work. Young adult is residing and taken care by her grandparents who are no longer working.\n\nMin specifications required to support the necessary educational software: Processor: Intel(R) Core (TM) i7-8550U CPU @ 1.80GHz 1.99 GHz RAM: 16GB System type: 64-bit operating system, x64-based processer Software: Windows 10",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Cheng San",
+      "name": "Lee Yan Jun",
+      "email": "leeyanjun@amkfsc.org.sg",
+      "phone": [
+        "64546678",
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Jan 2022"
+  },
+  {
+    "id": "102511",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Family of 5, with 2 children in Primary School, requires at least 1 laptop for their online home-based sessions as well as tutoring sessions. The client's spouse is not able to work due to medical issues and the family lost a substantial amount of income. Family now depends on client's income as the sole breadwinner. They are currently using the client's phone for their tutoring sessions. The donation will greatly reduce the financial stress on the couple. Item donated can be sent directly to FSC.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Cheng San",
+      "name": "Siti Raudhah Bte Azman",
+      "email": "sitiraudhah@amkfsc.org.sg",
+      "phone": [
+        "64546678",
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "16 Dec 2021"
+  },
+  {
+    "id": "102258",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Client is a single mother and just gave birth. Client would like to request a laptop so she is able to do some part-time online job while providing care to her baby. Thank you. (Xin Mo)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Teddy Fu",
+      "email": "teddyfu@thkmc.org.sg",
+      "phone": [
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Dec 2021"
+  },
+  {
+    "id": "102103",
+    "category": "Learning Aids",
+    "name": "Laptop",
+    "description": "Client is currently attending a course to upgrade herself to pursue her dreams to be an early childhood educator, while caring for 4 young children. \nFamily does not have a laptop and face financial challenges. \nA laptop is needed for client's course, and will also be helpful for the children if they need it for school.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Amy Chua",
+      "email": "amychua@mws.sg",
+      "phone": [
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Dec 2021"
   },
   {
     "id": "102899",
