@@ -1,6 +1,77 @@
 {
   "requests": [
     {
+      "id": "103269",
+      "category": "Electrical Home Appliances",
+      "name": "Gas Stove with Kitchen Cabinet",
+      "description": "Client is a single mother with four children in a one-room rental flat. She had brought them up singlehandedly without any support from her ex-husband and is supporting three of her children's ITE education by doing parcel delivery.\nClient's gas stove is spoilt; can only use one hob at a time. Appealing for a new stove with a kitchen cabinet that acts as a kitchen countertop. The cabinet should ideally be bigger than the hob so that client can place dishes on it as she does not have any other countertop in the kitchen.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
+        "name": "Muhammad Danial Bin Mazlan",
+        "email": "danialmazlan@amkfsc.org.sg",
+        "phone": [
+          "65536643",
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "03 Jan 2022"
+    },
+    {
+      "id": "103264",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "Elderly couple in their 70s live in a 2 room Public Rental flat. They are unable to work and rely on their savings to meet their daily needs. Their previous donated washing machine has broken down and it would be needful for them to receive a good condition washing machine to support in their daily tasks.",
+      "specifications": "7kg",
+      "contact": {
+        "org": "MontfortCare - Marine Parade Family Service Centre",
+        "name": "Bernice Yong",
+        "email": "bernice.yong@montfortcare.org.sg",
+        "phone": [
+          "64450100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Jan 2022"
+    },
+    {
+      "id": "103263",
+      "category": "Electrical Home Appliances",
+      "name": "Induction Cooker",
+      "description": "One of my clients ( 52 years old female) currently staying in our shelter (New Hope Shelter) is about to shift to her HDB 1 rm rental flat. She is facing financial hardship to buy home appliances as she is doing part time work and has no family support. If anyone can support this item, please contact Sunil Varghese @ +65 91001491 (whatsapp/sms/call) or email sunil@newhopecs.org.sg. She is also hope donors can support the delivery of the items as well. Thank you in advance for supporting our client.",
+      "specifications": null,
+      "contact": {
+        "org": "New Hope Community Services",
+        "name": "Goh Ann Tat",
+        "email": "anntat@newhopecs.org.sg",
+        "phone": [
+          "87952925",
+          "63059620"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Jan 2022"
+    },
+    {
+      "id": "103259",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "One of my clients ( 52 years old female) currently staying in our shelter (New Hope Shelter) is about to shift to her HDB 1 rm rental flat. She is facing financial hardship to buy home appliances as she is doing part time work and has no family support. If anyone can support this item, please contact Sunil Varghese @ +65 91001491 (whatsapp/sms/call) or email sunil@newhopecs.org.sg. She is also hope donors can support the delivery of the items as well. Thank you in advance for supporting our client.",
+      "specifications": null,
+      "contact": {
+        "org": "New Hope Community Services",
+        "name": "Goh Ann Tat",
+        "email": "anntat@newhopecs.org.sg",
+        "phone": [
+          "87952925",
+          "63059620"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Jan 2022"
+    },
+    {
       "id": "103256",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -16,23 +87,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "03 Jan 2022"
-    },
-    {
-      "id": "103255",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Client is a single mother with 2 y/o daughter who has just been granted a public rental flat. She has low family support as they are estranged. She needs help in getting a washing machine for the new flat.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Siti Nur Sa’iidah",
-        "email": "sitinursaiidah@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "03 Jan 2022"
     },
     {
@@ -258,23 +312,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "28 Dec 2021"
-    },
-    {
-      "id": "102974",
-      "category": "Electrical Home Appliances",
-      "name": "Washing machine topload 10kg or more",
-      "description": "Family is living in 2room public rental flat. The parents are working and family is still working towards stabilising their finances and require a topload washing machine in gd condition to wash their bigger household items like pillows and mattresses. Ct able to arrange for transport for collection as he is a driver.",
-      "specifications": "10kg",
-      "contact": {
-        "org": "MontfortCare - Marine Parade Family Service Centre",
-        "name": "Bernice Yong",
-        "email": "bernice.yong@montfortcare.org.sg",
-        "phone": [
-          "64450100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "28 Dec 2021"
     },
     {
@@ -751,6 +788,41 @@
       "date": "17 Dec 2021"
     },
     {
+      "id": "103270",
+      "category": "Infant and Children Items",
+      "name": "diapers - Rascals & friends (pants) size M and L",
+      "description": "Client's husband was incarcerated in end May'21, as such, client has been the sole bread winner providing for her 5 children (youngest infant) .\nNeed 2 packs of size M and 2 packs of size L.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Jan 2022"
+    },
+    {
+      "id": "103268",
+      "category": "Infant and Children Items",
+      "name": "Dumex Dugro Stage 2 (3tins)",
+      "description": "Low income family with 2 young children. Father just managed to find a job while mother is still trying to secure one. Family needs help in milk powder for their youngest child. Please respond if you are keen to donate. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "HEART @ Fei Yue",
+        "name": "Melody Chan",
+        "email": "melodychan@fycs.org",
+        "phone": [
+          "81217685",
+          "68199170"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Jan 2022"
+    },
+    {
       "id": "103011",
       "category": "Infant and Children Items",
       "name": "Huggies Platinum Naturemade Tape Diapers S Size",
@@ -1101,6 +1173,59 @@
       "date": "06 Dec 2021"
     },
     {
+      "id": "103271",
+      "category": "Home Furnishing",
+      "name": "Foldable Dining Table",
+      "description": "Client is a single mother with four children in a one-room rental flat. She had brought them up singlehandedly without any support from her ex-husband and is supporting three of her children's ITE education by doing parcel delivery. \nClient is looking for a foldable dining table. Dining table should be about the size of a mahjong table due to limited space at home.",
+      "specifications": "Mahjong table size",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
+        "name": "Muhammad Danial Bin Mazlan",
+        "email": "danialmazlan@amkfsc.org.sg",
+        "phone": [
+          "65536643",
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "03 Jan 2022"
+    },
+    {
+      "id": "103261",
+      "category": "Home Furnishing",
+      "name": "Cupboard",
+      "description": "One of my clients ( 52 years old female) currently staying in our shelter (New Hope Shelter) is about to shift to her HDB 1 rm rental flat. She is facing financial hardship to buy home appliances as she is doing part time work and has no family support. If anyone can support this item, please contact Sunil Varghese @ +65 91001491 (whatsapp/sms/call) or email sunil@newhopecs.org.sg. She is also hope donors can support the delivery of the items as well. Thank you in advance for supporting our client.",
+      "specifications": null,
+      "contact": {
+        "org": "New Hope Community Services",
+        "name": "Goh Ann Tat",
+        "email": "anntat@newhopecs.org.sg",
+        "phone": [
+          "87952925",
+          "63059620"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Jan 2022"
+    },
+    {
+      "id": "103260",
+      "category": "Home Furnishing",
+      "name": "sofa - 3 seater",
+      "description": "Client is a single elderly lady who got divorced earlier this year. She moved in to her new flat recently and requires donation of sofa as she does not have sufficient savings to purchase all she need for the house.  She is also diabetic and have other health conditions that requires require medical follow up that increase her expenses.She was a homemaker previously but started working this year to earn her own income and savings as a F&B assistant.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "03 Jan 2022"
+    },
+    {
       "id": "103245",
       "category": "Home Furnishing",
       "name": "Big Wardrobe",
@@ -1272,24 +1397,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "06 Dec 2021"
-    },
-    {
-      "id": "103253",
-      "category": "Others",
-      "name": "small study table",
-      "description": "Client (29/F) is a single mother for her 2 children (7/F and 6/F). She is currently unemployed due to caregiving responsibilities for the children and the outlook of covid-19 is difficult for her to find a suitable job. Family is reliant on SSO assistance and struggles to cope financially. The children have been studying on the floor or on the coffee table, causing backache.  Client would greatly appreciate the donation of 1 small study table to the family so as to assist the children in their studies.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Champions Way",
-        "name": "Joycelyn Wong",
-        "email": "joycelynwong@fycs.org",
-        "phone": [
-          "66901010",
-          "66901000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Jan 2022"
     },
     {
       "id": "103252",
@@ -1724,6 +1831,24 @@
       "date": "03 Dec 2021"
     },
     {
+      "id": "103265",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Client is a single mother caring for her school going child. She is working from home and her laptop is wearing out, making it difficult for her to do her administrative work. She is requesting for a new or 2nd hand laptop replacement.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Shannon Ong",
+        "email": "shannonong@fycs.org",
+        "phone": [
+          "69783488",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Jan 2022"
+    },
+    {
       "id": "103251",
       "category": "Learning Aids",
       "name": "Laptop (For school usage)",
@@ -1794,6 +1919,23 @@
       "date": "07 Dec 2021"
     },
     {
+      "id": "103262",
+      "category": "Medical Aids",
+      "name": "First Aid Box with Lock / Small Cabinet with Lock",
+      "description": "Family requires a small cabinet with lock / first aid kit box with lock to store medications. Kindly contact me at 89407231 for more information.",
+      "specifications": null,
+      "contact": {
+        "org": "Monfort Care - Big Love Child Protection",
+        "name": "Lilys Amirah Abdullah",
+        "email": "lilys.abdullah@montfortcare.org.sg",
+        "phone": [
+          "64450400"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Jan 2022"
+    },
+    {
       "id": "102899",
       "category": "Medical Aids",
       "name": "TEN ADULT PANTS XL",
@@ -1810,9 +1952,66 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "27 Dec 2021"
+    },
+    {
+      "id": "103266",
+      "category": "Attires/Clothings",
+      "name": "Large size dresses",
+      "description": "Mdm Teo is a 64 years old client known to Thye Hua Kwan Moral Charities (THKMC). She has limited financial resources and could not afford to purchase more clothings. THKMC is looking for second-hand Large size dresses that she can wear at home and in the community. It will be great if donor is able to arrange delivery to client's place at Ang Mo Kio ave 5. Kindly call/whatsapp Emily Koh at 97245522 for more information, thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Cluster Support @ Ang Mo Kio",
+        "name": "Emily Koh",
+        "email": "emily.koh@thkmc.org.sg",
+        "phone": [
+          "65564833"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Jan 2022"
     }
   ],
   "offers": [
+    {
+      "id": "103272",
+      "name": "Philips All-in-one cooker",
+      "description": "Philips all in one cooker, can be used as rice cooker or pressure cooker. Less than a year old, functioning as brand new.",
+      "location": "Jurong",
+      "validTill": "02 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103267",
+      "name": "Bicycle",
+      "description": "S size adult bicycle, suitable for height around 1.6m, inclusive of a floor pump. Transportation fee will be covered.",
+      "location": "Jurong",
+      "validTill": "02 Feb 2022",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103258",
+      "name": "Chinese N1, N2, K1 Activity Books for Preschoolers",
+      "description": "Lightly or mostly unused activity/assessment books in Chinese for preschoolers. Have to take all or none.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "02 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103257",
+      "name": "English N1, N2, K1 Activity Books for Preschoolers",
+      "description": "Mostly unused or very lightly used Assessment/Activity Books for preschool children. Have to take all or none.",
+      "location": "Watten Estate, Novena, Thomson",
+      "validTill": "02 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103249",
       "name": "Leather Rocking Chair, Book shelf,  coffee table, living room cabinet,",
@@ -1870,16 +2069,6 @@
       "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
       "validTill": "05 Jan 2022",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103237",
-      "name": "3-seater beige sofa",
-      "description": "depth: 89cm\nheight: 80cm\nArm rest to arm rest length: 203cm",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "06 Jan 2022",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -1950,16 +2139,6 @@
       "location": null,
       "validTill": "06 Jan 2022",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103227",
-      "name": "Clothes for Youths",
-      "description": "Short, jeans, t shirts and blouses and Hoodies for girls aged 12-15. Good condition",
-      "location": "Watten Estate, Novena, Thomson",
-      "validTill": "15 Jan 2022",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3344,16 +3523,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "102756",
-      "name": "Contour Plus Blood Glucose Meter",
-      "description": "What’s included?\n•\t1x CONTOUR®PLUS (mmol/L) Meter\n•\t100 MICROLET®NEXT Lancing Device\n•\t100x individual alcohol swabs",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "19 Jan 2022",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "102678",
       "name": "Vacuum cleaner",
       "description": "Bosch black vacuum cleaner. GL-30 model. Retractable wire is not working but vacuum cleaner is okay",
@@ -3701,16 +3870,6 @@
       "validTill": "11 Jan 2022",
       "ageInYears": 4,
       "dimensions": "140cm x 80cm x 75cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102319",
-      "name": "Queen size mattress",
-      "description": "Queen size mattress",
-      "location": "Yishun, Sembawang",
-      "validTill": "11 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
