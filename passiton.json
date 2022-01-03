@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "103256",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client in her 70s, staying alone in rental flat and suffered from multiple medical conditions. Requires washing machine as she currently do not have one. Requires installation and delivery.",
+      "specifications": "standard",
+      "contact": {
+        "org": "Lions Befrienders Cluster Support",
+        "name": "Noor Hashah Binti Hassan",
+        "email": "noor.hashah@lb.org.sg",
+        "phone": [
+          "66814942",
+          "66814020"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Jan 2022"
+    },
+    {
       "id": "103255",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -733,24 +751,6 @@
       "date": "17 Dec 2021"
     },
     {
-      "id": "100807",
-      "category": "Infant and Children Items",
-      "name": "2x L size MamyPoko Pants",
-      "description": "Low-income family of 5 with 2 young dependents. Mother is a full-time caregiver while father earns low wages that are insufficient to support the family’s day to day needs. Due to their chronic financial difficulties, the family need urgent support with their infant’s diapers for the next month.(L size MamyPoko Pants - 2 packets)\nInterested donor can whatsapp me on the picture of the required diaper.\nDelivery arrangements to be covered by donor. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Mindy Choo",
-        "email": "mindychoo@fycs.org",
-        "phone": [
-          "89078297",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Jan 2022"
-    },
-    {
       "id": "103011",
       "category": "Infant and Children Items",
       "name": "Huggies Platinum Naturemade Tape Diapers S Size",
@@ -1130,23 +1130,6 @@
         "email": "navin@kkcs.org.sg",
         "phone": [
           "62997662"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 Dec 2021"
-    },
-    {
-      "id": "103092",
-      "category": "Home Furnishing",
-      "name": "Coffee Table",
-      "description": "Client is a single lady who is in between jobs, and with two daughters. She is currently transiting from part-time to full-time employment. She is seeking some refurbishing for her house, and wants to make her home a conducive environment for her children, and thus looking for a coffee table.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Lyndon Mathews",
-        "email": "lyndonmathews@amkfsc.org.sg",
-        "phone": [
-          "63128100"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1851,16 +1834,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103244",
-      "name": "5 layer plastic drawer",
-      "description": "-Good condition",
-      "location": "Yishun",
-      "validTill": "15 Jan 2022",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103243",
       "name": "Swivel Chair",
       "description": "Lightly used \nIn excellent condition",
@@ -2121,16 +2094,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103209",
-      "name": "Microwave oven / oven / fan",
-      "description": "In good working condition",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "09 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103206",
       "name": "Sofa bed",
       "description": "Used by my son. Disinfected once every 2 weeks.",
@@ -2217,16 +2180,6 @@
       "location": "Tampines, Pasir Ris",
       "validTill": "31 Jan 2022",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103191",
-      "name": "Kenwood 4-in-1 chopper blender",
-      "description": "Only used twice. Includes chopper, blender and mill",
-      "location": null,
-      "validTill": "31 Jan 2022",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
