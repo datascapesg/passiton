@@ -475,24 +475,6 @@
       "date": "20 Dec 2021"
     },
     {
-      "id": "102592",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Two homeless friends/uncles (74+ and 60+) staying at our shelter is about to shift to their hdb 1 rm rental flat.  As only one of them is fit to work, the finances are tight for them and they are seeking support to help refurbish their new home.  If anyone can support this item, please contact Ms Jean @ +65 9066 5775 (whatsapp/sms/call) or email int_jeantan@newhopecs.org.sg.  They also hope donors can support the delivery of the items as well. Thank you in advance for supporting our seniors.",
-      "specifications": null,
-      "contact": {
-        "org": "New Hope Community Services",
-        "name": "Goh Ann Tat",
-        "email": "anntat@newhopecs.org.sg",
-        "phone": [
-          "87952925",
-          "63059620"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Dec 2021"
-    },
-    {
       "id": "102535",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -766,24 +748,6 @@
         "email": "tm.vce@carecorner.org.sg",
         "phone": [
           "67866225"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Jan 2022"
-    },
-    {
-      "id": "103268",
-      "category": "Infant and Children Items",
-      "name": "Dumex Dugro Stage 2 (3tins)",
-      "description": "Low income family with 2 young children. Father just managed to find a job while mother is still trying to secure one. Family needs help in milk powder for their youngest child. Please respond if you are keen to donate. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Melody Chan",
-        "email": "melodychan@fycs.org",
-        "phone": [
-          "81217685",
-          "68199170"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1209,24 +1173,6 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "03 Jan 2022"
-    },
-    {
-      "id": "103245",
-      "category": "Home Furnishing",
-      "name": "Big Wardrobe",
-      "description": "Low income family with 2 young children needs a large wardrobe for their family of 5. Father will be starting his job in Jan and mother is still looking for a job. Please respond if you are keen to donate. Note: Donor to pay for the delivery fee. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Melody Chan",
-        "email": "melodychan@fycs.org",
-        "phone": [
-          "81217685",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Jan 2022"
     },
     {
       "id": "103111",
@@ -1975,6 +1921,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "103295",
+      "name": "Teka fridge",
+      "description": "See files for details",
+      "location": null,
+      "validTill": "28 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": "L89.5 x W73 x H179cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103294",
+      "name": "single mattress 10\"",
+      "description": "Mattress is donated as it doesn't fit our current bunk bed.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "15 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": "10\" thickness",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103293",
       "name": "Juicer",
