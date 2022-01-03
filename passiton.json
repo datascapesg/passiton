@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "103255",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is a single mother with 2 y/o daughter who has just been granted a public rental flat. She has low family support as they are estranged. She needs help in getting a washing machine for the new flat.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Siti Nur Sa’iidah",
+        "email": "sitinursaiidah@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "03 Jan 2022"
+    },
+    {
+      "id": "103254",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Client is a single mother with 2 y/o daughter who has just been granted a public rental flat. She has low family support as they are estranged. She needs help in getting a refrigerator for the new flat. As this is a Muslim family, they prefer it comes from a Muslim family if it's second-hand, unless donor is keen to donate a new one.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Siti Nur Sa’iidah",
+        "email": "sitinursaiidah@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "03 Jan 2022"
+    },
+    {
       "id": "103186",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -699,6 +733,24 @@
       "date": "17 Dec 2021"
     },
     {
+      "id": "100807",
+      "category": "Infant and Children Items",
+      "name": "2x L size MamyPoko Pants",
+      "description": "Low-income family of 5 with 2 young dependents. Mother is a full-time caregiver while father earns low wages that are insufficient to support the family’s day to day needs. Due to their chronic financial difficulties, the family need urgent support with their infant’s diapers for the next month.(L size MamyPoko Pants - 2 packets)\nInterested donor can whatsapp me on the picture of the required diaper.\nDelivery arrangements to be covered by donor. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "HEART @ Fei Yue",
+        "name": "Mindy Choo",
+        "email": "mindychoo@fycs.org",
+        "phone": [
+          "89078297",
+          "68199170"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Jan 2022"
+    },
+    {
       "id": "103011",
       "category": "Infant and Children Items",
       "name": "Huggies Platinum Naturemade Tape Diapers S Size",
@@ -1237,6 +1289,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "06 Dec 2021"
+    },
+    {
+      "id": "103253",
+      "category": "Others",
+      "name": "small study table",
+      "description": "Client (29/F) is a single mother for her 2 children (7/F and 6/F). She is currently unemployed due to caregiving responsibilities for the children and the outlook of covid-19 is difficult for her to find a suitable job. Family is reliant on SSO assistance and struggles to cope financially. The children have been studying on the floor or on the coffee table, causing backache.  Client would greatly appreciate the donation of 1 small study table to the family so as to assist the children in their studies.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Joycelyn Wong",
+        "email": "joycelynwong@fycs.org",
+        "phone": [
+          "66901010",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Jan 2022"
+    },
+    {
+      "id": "103252",
+      "category": "Others",
+      "name": "portable aircon",
+      "description": "Client (53/F) is a divorcee who lives at a HDB 1 room rental flat. Client is unemployed and has multiple medical conditions(eczema, slip disc, hearing impairment, hepatitis C, chronic migranes, asthma)  that requires ongoing treatment. Client has a doctor's memo to use aircon in the rental flat due to her skin conditions and has received approval from HDB to install portable aircon. Client would appreciate the donation of a portable aircon to improve her skin condition.\n\nRespond via email or whatsapp at 66901010 only.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Joycelyn Wong",
+        "email": "joycelynwong@fycs.org",
+        "phone": [
+          "66901010",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Jan 2022"
     },
     {
       "id": "103021",
@@ -2043,16 +2131,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103207",
-      "name": "Refrigerator",
-      "description": "Still in good working conditions",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "31 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103206",
       "name": "Sofa bed",
       "description": "Used by my son. Disinfected once every 2 weeks.",
@@ -2156,16 +2234,6 @@
       "id": "103190",
       "name": "Thermal flask",
       "description": "Thermal flask, keep warm 24hr, 2l",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "31 Jan 2022",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103189",
-      "name": "Electric kettle",
-      "description": "Electric kettle 1.5l",
       "location": "Tampines, Pasir Ris",
       "validTill": "31 Jan 2022",
       "ageInYears": 2,
@@ -2318,16 +2386,6 @@
       "description": "3 seater fabric sofa with a footstool. Can be configured into a L-shaped sofa.",
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
       "validTill": "07 Jan 2022",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103166",
-      "name": "Philips Garment Steamer",
-      "description": "Almost brand new steamer for clothes. Used only 2x. Straighten clothes without need of ironing board.",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "30 Jan 2022",
       "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
@@ -2513,16 +2571,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103136",
-      "name": "Phillips 42” TV with remote control",
-      "description": "Phillips 42” Television with remote control, In good condition",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "29 Jan 2022",
-      "ageInYears": 2,
-      "dimensions": "42”",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103135",
       "name": "Quad cane",
       "description": "Quad cane with wide metal base and 4 rubber feet that reduces slippage on the floor. Height is adjustable",
@@ -2687,16 +2735,6 @@
       "name": "Single Bed Mattress",
       "description": "Single size mattress.  Some stains",
       "location": null,
-      "validTill": "15 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103075",
-      "name": "Single Bed Frame",
-      "description": "Single size Bed Frame. Seldom used.",
-      "location": "Macpherson, Braddell",
       "validTill": "15 Jan 2022",
       "ageInYears": 4,
       "dimensions": null,
@@ -2900,6 +2938,16 @@
       "validTill": "27 Jan 2022",
       "ageInYears": 4,
       "dimensions": "2m x 2m",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "102973",
+      "name": "Fabric 3-seater sofa",
+      "description": "Still in good condition. \nself collection, unable to cover the delivery costs. \n\nFabric are all removable for washing.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "20 Jan 2022",
+      "ageInYears": 3,
+      "dimensions": "Size: W210 x D89 x H71cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3413,16 +3461,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "102625",
-      "name": "Baby cot",
-      "description": "Brand branded baby cot with high quality rubber mattress",
-      "location": "Jurong",
-      "validTill": "18 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "102623",
       "name": "Study table with two drawers",
       "description": "Study table with two drawers- minor scratches.",
@@ -3693,16 +3731,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "102331",
-      "name": "Peg Perego Booklet stroller / pram",
-      "description": "I have 2 peg perego booklet strollers to donate. Both are in good working condition. PVC areas are worn due to regular stroller use. Easy one-action open / closing of stroller. Compact and easy to bring around. Very hardy, and can take rough terrain well. \n\nIf you’re interested, appreciate if you can collect the stroller from me at Beauty World area.",
-      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-      "validTill": "11 Jan 2022",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "102326",
       "name": "Arm Chair",
       "description": "In good condition, hardly used. Hopefully, someone staying in the west can benefit from this item.",
@@ -3773,16 +3801,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "102276",
-      "name": "Electric breast pump",
-      "description": "Blessing Philip Avent breast pump (without bottles)",
-      "location": "Jurong",
-      "validTill": "10 Jan 2022",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "102275",
       "name": "Castella Baby Carrier",
       "description": "Baby carrier in good condition. Been kept in a box.",
@@ -3849,16 +3867,6 @@
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "05 Jan 2022",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102155",
-      "name": "Baby Diaper Bags",
-      "description": "We have over 200 of these brand new diaper bags in stock and would like to share some, if not all of them with your organisation.",
-      "location": "Raffles Place, Cecil, Marina, People's Park",
-      "validTill": "05 Jan 2022",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
