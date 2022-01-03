@@ -1173,11 +1173,11 @@
       "date": "06 Dec 2021"
     },
     {
-      "id": "103271",
+      "id": "103273",
       "category": "Home Furnishing",
-      "name": "Foldable Dining Table",
-      "description": "Client is a single mother with four children in a one-room rental flat. She had brought them up singlehandedly without any support from her ex-husband and is supporting three of her children's ITE education by doing parcel delivery. \nClient is looking for a foldable dining table. Dining table should be about the size of a mahjong table due to limited space at home.",
-      "specifications": "Mahjong table size",
+      "name": "10-door Wardrobe",
+      "description": "Clt is a single mother with four children in a one-room rental flat. She had brought them up singlehandedly without any support from her ex-husband and is supporting three of her children's ITE education by doing parcel delivery. Dimension listed is an estimation.",
+      "specifications": "H 2355 X D 525 X L 1520 mm",
       "contact": {
         "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
         "name": "Muhammad Danial Bin Mazlan",
@@ -1206,23 +1206,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "03 Jan 2022"
-    },
-    {
-      "id": "103260",
-      "category": "Home Furnishing",
-      "name": "sofa - 3 seater",
-      "description": "Client is a single elderly lady who got divorced earlier this year. She moved in to her new flat recently and requires donation of sofa as she does not have sufficient savings to purchase all she need for the house.  She is also diabetic and have other health conditions that requires require medical follow up that increase her expenses.She was a homemaker previously but started working this year to earn her own income and savings as a F&B assistant.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "03 Jan 2022"
     },
     {
@@ -1973,22 +1956,32 @@
   ],
   "offers": [
     {
+      "id": "103275",
+      "name": "Girls Clothing",
+      "description": "New girls clothing for baby & toddler.",
+      "location": "Watten Estate, Novena, Thomson",
+      "validTill": "15 Jan 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103274",
+      "name": "Q mattress & bedframe",
+      "description": "Good condition Q size mattress & bedframe",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "31 Jan 2022",
+      "ageInYears": 2,
+      "dimensions": "5 ft",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "103272",
       "name": "Philips All-in-one cooker",
       "description": "Philips all in one cooker, can be used as rice cooker or pressure cooker. Less than a year old, functioning as brand new.",
       "location": "Jurong",
       "validTill": "02 Feb 2022",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103267",
-      "name": "Bicycle",
-      "description": "S size adult bicycle, suitable for height around 1.6m, inclusive of a floor pump. Transportation fee will be covered.",
-      "location": "Jurong",
-      "validTill": "02 Feb 2022",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -2269,16 +2262,6 @@
       "location": "Tampines, Pasir Ris",
       "validTill": "07 Jan 2022",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103206",
-      "name": "Sofa bed",
-      "description": "Used by my son. Disinfected once every 2 weeks.",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "16 Jan 2022",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
