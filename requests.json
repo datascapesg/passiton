@@ -1,16 +1,67 @@
 [
   {
-    "id": "103357",
+    "id": "103365",
     "category": "Electrical Home Appliances",
-    "name": "Small Television",
-    "description": "Client is a 62 year old male, previously homeless. He had managed to apply successfully for HDB public rental unit, and had received his keys to his unit a few weeks ago. He works as a gardener and with his low income, he struggles financially to get furniture and household appliances. He hopes for donation for a few items including a small television (16-19 inch). For further clarifications, do contact me at 98598768 for delivery address etc. Thank you!",
+    "name": "Rice cooker",
+    "description": "Single mother of 1 just got allocated a 1 room HDB rental flat and requires assistance with furniture/ household items.",
     "specifications": null,
     "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Krishna Kumar",
+      "email": "krishna@thkmc.org.sg",
       "phone": [
-        "69503503"
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Jan 2022"
+  },
+  {
+    "id": "103364",
+    "category": "Electrical Home Appliances",
+    "name": "single gas cooker",
+    "description": "Single mother of 1 just got allocated a 1 room HDB rental flat and requires assistance with furniture/ household items.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Krishna Kumar",
+      "email": "krishna@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Jan 2022"
+  },
+  {
+    "id": "103363",
+    "category": "Electrical Home Appliances",
+    "name": "Television",
+    "description": "Single mother of 1 just got allocated a 1 room HDB rental flat and requires assistance with furniture/ household items.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Krishna Kumar",
+      "email": "krishna@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Jan 2022"
+  },
+  {
+    "id": "103360",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "Single mother of 1 just got allocated a 1 room HDB rental flat and requires assistance with furniture/ household items.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Krishna Kumar",
+      "email": "krishna@thkmc.org.sg",
+      "phone": [
+        "62706711"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -698,46 +749,11 @@
     "date": "17 Dec 2021"
   },
   {
-    "id": "103356",
-    "category": "Infant and Children Items",
-    "name": "Fernleaf Family Milk milkpowder",
-    "description": "This family has a teenage son with special needs who has a diet consisting of milk and porridge. The family is under financial assistance and is tight on expenses. The family is also under quarantine and has a limited supply of milk powder left. As milk powder is a necessity, the provision of milk powder would be greatly beneficial in supporting the family.",
-    "specifications": "8-10 Packets",
-    "contact": {
-      "org": "Rainbow Centre - Magaret Drive School",
-      "name": "Ng Jing Han",
-      "email": "jinghanng@rainbowcentre.org.sg",
-      "phone": [
-        "68179435",
-        "64752072"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 Jan 2022"
-  },
-  {
     "id": "103354",
     "category": "Infant and Children Items",
     "name": "Diapers (tape)",
     "description": "8 children aged 8 mths to 17 years old live in a 2-room rental flat and are looked after by their grandparents. Family is facing financial hardship and is waiting for their Comcare financial assistance to be approved.",
     "specifications": "Any brand. Size M (Tape)",
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Krishna Kumar",
-      "email": "krishna@thkmc.org.sg",
-      "phone": [
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 Jan 2022"
-  },
-  {
-    "id": "103353",
-    "category": "Infant and Children Items",
-    "name": "Formula milk (Lactogen stage 3))",
-    "description": "8 children aged 8 mths to 17 years old live in a 2-room rental flat and are looked after by their grandparents. Family is facing financial hardship and is waiting for their Comcare financial assistance to be approved.",
-    "specifications": "(Lactogen stage 3)",
     "contact": {
       "org": "THK Family Service Centre @ Tanjong Pagar",
       "name": "Krishna Kumar",
@@ -1256,6 +1272,40 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "06 Dec 2021"
+  },
+  {
+    "id": "103362",
+    "category": "Home Furnishing",
+    "name": "Small dining table with chairs",
+    "description": "Single mother of 1 just got allocated a 1 room HDB rental flat and requires assistance with furniture/ household items.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Krishna Kumar",
+      "email": "krishna@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Jan 2022"
+  },
+  {
+    "id": "103359",
+    "category": "Home Furnishing",
+    "name": "2- door wardrobe",
+    "description": "Single mother of 1 just got allocated a 1 room HDB rental flat and requires assistance with furniture/ household items.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Tanjong Pagar",
+      "name": "Krishna Kumar",
+      "email": "krishna@thkmc.org.sg",
+      "phone": [
+        "62706711"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Jan 2022"
   },
   {
     "id": "103350",
@@ -1954,6 +2004,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "08 Dec 2021"
+  },
+  {
+    "id": "103361",
+    "category": "Medical Aids",
+    "name": "Diabetes testing related items",
+    "description": "Family of 5, mother has diabetes. Family has high amount of debts (which takes up 50% of their salary) and is working very hard to clear them. As such, FSC is looking at helping them in the meantime while they clear debts, on the required medical accessories expenses. \n\n\nMother will require: \n\n1) Insulin Needles x 3 boxes\nhttps://shopee.sg/BD-MICRO-FINE-NEEDLES-31G-5MM-100-S--EXP--07-2025--i.193456407.9665267684?gclid=Cj0KCQiA_c-OBhDFARIsAIFg3ewyL5gSZeHiF7cOYcKatrQcrKqKsEGzaO1GRKOZyheZZrkVL4FB_1IaAhMuEALw_wcB\n\n2) Hospicare 701 x 3 boxes\nhttps://shopee.sg/Hospicare-701-IPA-70-Percent-Alcohol-Wipes-1s-x-100-Sheets-i.27373250.7055629811?utm_source=google&utm_medium=seller&utm_campaign=s27373250_ss_sg_gshp_gshpbyshopee-Dec21-freshening-adsellerate-dmpp_15637365814&is_seller=true&gclid=Cj0KCQiA_c-OBhDFARIsAIFg3ezJWSZgivC41SWB3PYIZlrXwyzCwviye1P8fCDymSg3aoI2lSiKMgMaAsNBEALw_wcB\n\n3) Alcohol Swab x 3 boxes\nhttps://shopee.sg/BD-Alcohol-Swabs-100s-i.179157835.4885904593?gclid=Cj0KCQiA_c-OBhDFARIsAIFg3ewbBC9KiKK_r_vfnT1pC3TBIzVi8SSukXAcy7ARXHcJsyeCwEwqfscaAnINEALw_wcB",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
+      "name": "Quek Liu Ting",
+      "email": "quekliuting@amkfsc.org.sg",
+      "phone": [
+        "64535349"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Jan 2022"
   },
   {
     "id": "103347",
