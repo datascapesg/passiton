@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "103346",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator Needed!",
+      "description": "Client is a single-mother, supporting and providing for the needs of her 3 school-going children on her part-time income. Family's current refrigerator is faulty and they are in need of one.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Farahlina Tan",
+        "email": "farahlina_tan@awwa.org.sg",
+        "phone": [
+          "65119458",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Jan 2022"
+    },
+    {
       "id": "103336",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -1886,6 +1904,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "08 Dec 2021"
+    },
+    {
+      "id": "103347",
+      "category": "Medical Aids",
+      "name": "Alcohol Swabs Needed!",
+      "description": "Client is the primary caregiver to his wife, who was diagnosed with a multi-organ infection in 2016. Wife is also diagnosed with other chronic ailments, one of which is diabetes. She is required to take insulin injections thrice daily, thus, the alcohol swabs are a daily necessity.",
+      "specifications": "Alcohol Swabs (for site preparation for insulin injections)",
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Farahlina Tan",
+        "email": "farahlina_tan@awwa.org.sg",
+        "phone": [
+          "65119458",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Jan 2022"
     },
     {
       "id": "103345",
