@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "103328",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave",
+      "description": "Single mother with a school-going daughter looking for a microwave as theirs is spoilt. She is working multiple jobs but unable to afford a new one.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Lim Yi Xi",
+        "email": "yixi@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Jan 2022"
+    },
+    {
       "id": "103326",
       "category": "Electrical Home Appliances",
       "name": "2-door Halal fridge",
@@ -70,24 +87,6 @@
       "date": "03 Jan 2022"
     },
     {
-      "id": "103259",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "One of my clients ( 52 years old female) currently staying in our shelter (New Hope Shelter) is about to shift to her HDB 1 rm rental flat. She is facing financial hardship to buy home appliances as she is doing part time work and has no family support. If anyone can support this item, please contact Sunil Varghese @ +65 91001491 (whatsapp/sms/call) or email sunil@newhopecs.org.sg. She is also hope donors can support the delivery of the items as well. Thank you in advance for supporting our client.",
-      "specifications": null,
-      "contact": {
-        "org": "New Hope Community Services",
-        "name": "Goh Ann Tat",
-        "email": "anntat@newhopecs.org.sg",
-        "phone": [
-          "87952925",
-          "63059620"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Jan 2022"
-    },
-    {
       "id": "103256",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -154,23 +153,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "31 Dec 2021"
-    },
-    {
-      "id": "103160",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Family of 12 with 10 children require a new fridge as theirs has broken down. They require a fridge to store food items for cooking. Being able to store items in bulk and cook would significantly reduce their financial expenses and allow them to meet their basic needs stably.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Lum Yi",
-        "email": "lumyi@carecorner.org.sg",
-        "phone": [
-          "64761481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "31 Dec 2021"
     },
     {
@@ -2004,26 +1986,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103295",
-      "name": "Teka fridge",
-      "description": "See files for details",
-      "location": null,
-      "validTill": "28 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "L89.5 x W73 x H179cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103294",
-      "name": "single mattress 10\"",
-      "description": "Mattress is donated as it doesn't fit our current bunk bed.",
-      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-      "validTill": "15 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "10\" thickness",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103293",
       "name": "Juicer",
       "description": "A teFAL JUICER TO be given away",
@@ -2370,16 +2332,6 @@
       "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
       "validTill": "31 Jan 2022",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103212",
-      "name": "Sofa bed",
-      "description": "Used by my son. Disinfected once every 2 weeks.",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "16 Jan 2022",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
