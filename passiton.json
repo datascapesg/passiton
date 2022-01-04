@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "103326",
+      "category": "Electrical Home Appliances",
+      "name": "2-door Halal fridge",
+      "description": "Elderly malay couple above 55 yrs old living in 1-room HDB rental flat needs mid-size (i.e., 200 to 300L or approx 600x1650mm) 2-door Halal fridge. Their current fridge is leaking water. Many Thanks.",
+      "specifications": "200 to 300L or approx 600x1650mm",
+      "contact": {
+        "org": "Moral Senior Activity Center @ Kaki Bukit",
+        "name": "Gary Tan",
+        "email": "garytan@chkmps.org.sg",
+        "phone": [
+          "64486247"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Jan 2022"
+    },
+    {
       "id": "103304",
       "category": "Electrical Home Appliances",
       "name": "TV",
@@ -613,23 +630,6 @@
       "date": "06 Dec 2021"
     },
     {
-      "id": "103306",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "Family of 5 living in a 3-room flat is requesting for a small wheelchair with length shorter than 55cm. Thank you very much.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Pek Jie Hui",
-        "email": "jiehui@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Jan 2022"
-    },
-    {
       "id": "103073",
       "category": "Mobility Aids",
       "name": "Detachable wheelchair",
@@ -682,6 +682,42 @@
       "date": "17 Dec 2021"
     },
     {
+      "id": "103324",
+      "category": "Infant and Children Items",
+      "name": "4 XXL Diapers (any brand, taped kind)",
+      "description": "Family of 8 with father being the sole breadwinner require support with milk powder as his job has been greatly affected by covid 19 working part time in the F&B sector. Mother is unable to work due to her chronic heart condition.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Choong Ying",
+        "email": "choongying@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Jan 2022"
+    },
+    {
+      "id": "103323",
+      "category": "Infant and Children Items",
+      "name": "2 x Dugro Stage 4 Milk Powder 1.6kg",
+      "description": "Family of 8 with father being the sole breadwinner require support with milk powder as his job has been greatly affected by covid 19 working part time in the F&B sector. Mother is unable to work due to her her chronic heart condition.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Choong Ying",
+        "email": "choongying@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Jan 2022"
+    },
+    {
       "id": "103321",
       "category": "Infant and Children Items",
       "name": "BABY STROLLER",
@@ -711,23 +747,6 @@
         "email": "khairunisa.rusli@ppis.sg",
         "phone": [
           "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Jan 2022"
-    },
-    {
-      "id": "103270",
-      "category": "Infant and Children Items",
-      "name": "diapers - Rascals & friends (pants) size M and L",
-      "description": "Client's husband was incarcerated in end May'21, as such, client has been the sole bread winner providing for her 5 children (youngest infant) .\nNeed 2 packs of size M and 2 packs of size L.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1082,23 +1101,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "06 Dec 2021"
-    },
-    {
-      "id": "103322",
-      "category": "Home Furnishing",
-      "name": "Single-size mattress",
-      "description": "Client is a 60 years old elderly, who is staying in a one room HDB rental flat. Client reported that her mattress is currently infested with bed bugs and hopes to receive another mattress so that she can get rid of her current one and have a comfortable rest.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Simranjit Kaur",
-        "email": "simranjit.kaur@montfortcare.org.sg",
-        "phone": [
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Jan 2022"
     },
     {
       "id": "103320",
@@ -1468,6 +1470,24 @@
       "date": "07 Dec 2021"
     },
     {
+      "id": "103327",
+      "category": "Others",
+      "name": "Smartphone",
+      "description": "Client has difficulty securing employment due to ongoing medical issues and currently surviving on financial assistance, residing in a rental flat. He unfortunately lost all his valuables yesterday, including wallet and handphone and has made a police report. He needs a replacement smartphone for contact purposes and for tracetogether and access to internet for administrative issues.",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Angeline Cheng",
+        "email": "angeline.cheng@reach.org.sg",
+        "phone": [
+          "68010718",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Jan 2022"
+    },
+    {
       "id": "103252",
       "category": "Others",
       "name": "portable aircon",
@@ -1834,6 +1854,16 @@
   ],
   "offers": [
     {
+      "id": "103325",
+      "name": "Office wear",
+      "description": "Very new office shirt . Some were brand new . All kept aside for a while. Size between 6-10. Pants 10-12 .",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "12 Jan 2022",
+      "ageInYears": 3,
+      "dimensions": "Na",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "103319",
       "name": "Coffee tables",
       "description": "Ikea Lack coffee tables. Sturdy and functional. Space saving as the smaller table can be tuck under the bigger table when not in use.",
@@ -1970,16 +2000,6 @@
       "location": null,
       "validTill": "01 Feb 2022",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103301",
-      "name": "Dining set",
-      "description": "1.6m x 0.9m \nA dining table with 6 chairs",
-      "location": null,
-      "validTill": "15 Jan 2022",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3394,16 +3414,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "102856",
-      "name": "L Shape Sofa",
-      "description": "L Shaped Sofa",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "05 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "102852",
       "name": "Single bed comforter",
       "description": "Brown comforter",
@@ -3981,16 +3991,6 @@
       "validTill": "09 Jan 2022",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102182",
-      "name": "office chair",
-      "description": "office chair with rollers.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "07 Jan 2022",
-      "ageInYears": 3,
-      "dimensions": "60cm X 45cm X 90cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
