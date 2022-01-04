@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "103336",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Family has two young children and their fridge has recently broke down. Family is unable to afford a new fridge due to their tight income and finances. Hence family hopes to receive a new or used fridge.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Punggol",
+        "name": "Esther Quek",
+        "email": "estherquek@amkfsc.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Jan 2022"
+    },
+    {
       "id": "103335",
       "category": "Electrical Home Appliances",
       "name": "Fridge",
@@ -662,6 +679,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Dec 2021"
+    },
+    {
+      "id": "103339",
+      "category": "Infant and Children Items",
+      "name": "Diapers Pants (XXL, PetPet brand/any other brand)",
+      "description": "Low-income family is in need of diapers (XXL pants type, PetPet brand/any other brand) for 8yo child who has congenital conditions due to premature birth. Quantity: 4 Packets/month",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Lee Yan Jun",
+        "email": "leeyanjun@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Jan 2022"
+    },
+    {
+      "id": "103338",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder (Cowhead)",
+      "description": "Low-income family is in need of milk powder (Cowhead) for 8yo child who has congenital conditions due to premature birth. Quantity: 3 big tins/month",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Lee Yan Jun",
+        "email": "leeyanjun@amkfsc.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Jan 2022"
     },
     {
       "id": "103333",
@@ -1852,6 +1905,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "103337",
+      "name": "Baby Cot",
+      "description": "Cot to bless with mattress measuring 120cm (L) x 60cm (B) x 10cm (H).",
+      "location": "Little India",
+      "validTill": "03 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": "120cm (L) x 60cm (B) x 98cm (H)",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103334",
       "name": "Mattress",
