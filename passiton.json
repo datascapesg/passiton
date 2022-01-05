@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "103421",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Client is living together with her 3 children & husband. Her husband has mental health concerns & is unemployed. As such, client also has difficulties finding work, due to the caregiving needs of husband. The family is thus facing financial constraints.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Toa Payoh",
+        "name": "Nathania Chua",
+        "email": "nathaniachua@carecorner.org.sg",
+        "phone": [
+          "63561622"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Jan 2022"
+    },
+    {
       "id": "103414",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -1937,6 +1954,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "103420",
+      "name": "Automatic Crank Hospital Bed (Assure AR0553)",
+      "description": "Note: Self-Collection from Jurong East\n\nPlease view the specficiations from https://www.medicalsupplies.com.sg/home-care/1478-electric-low-bed-assure-rehab-abs-ar0553-per-unit",
+      "location": "Jurong",
+      "validTill": "15 Jan 2022",
+      "ageInYears": 3,
+      "dimensions": "198cm x 96cm x 34cm~62cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103416",
       "name": "Standing Fan",
