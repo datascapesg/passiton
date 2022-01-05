@@ -1,5 +1,25 @@
 [
   {
+    "id": "103383",
+    "name": "TV console",
+    "description": "TV console",
+    "location": "Watten Estate, Novena, Thomson",
+    "validTill": "04 Feb 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "103382",
+    "name": "Leather Sofa",
+    "description": "Sofa in very good condition. Can double up as sofa bed as backrest can be adjusted. Pet and smoke-free environment.",
+    "location": null,
+    "validTill": "31 Jan 2022",
+    "ageInYears": 3,
+    "dimensions": "2.1x1.8",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "103381",
     "name": "Single mattress",
     "description": "Very clean and rolled up single mattress. Bed sheets also available.",
@@ -147,16 +167,6 @@
     "validTill": "02 Feb 2022",
     "ageInYears": 4,
     "dimensions": "54 (L) x 45 (W) x 58 (H) cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103314",
-    "name": "Chest of drawers",
-    "description": "Chest of drawers from Picket & Rail.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "02 Feb 2022",
-    "ageInYears": 4,
-    "dimensions": "89 (L) x 45 (W) x 97 (H) cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1656,16 +1666,6 @@
     "location": "Watten Estate, Novena, Thomson",
     "validTill": "17 Jan 2022",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "102600",
-    "name": "Shoe",
-    "description": "Only use once. Black spots behind.",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "16 Jan 2022",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
