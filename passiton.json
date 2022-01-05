@@ -1,18 +1,18 @@
 {
   "requests": [
     {
-      "id": "103410",
+      "id": "103414",
       "category": "Electrical Home Appliances",
-      "name": "Rice Cooker",
-      "description": "Mother is a single parent and the sole breadwinner of her young child age 4 years old with development delay.\n\nFamily is in a tight financial situation, mother’s income is barely enough for family to make ends meet.\n\nThey hope to receive a rice cooker as their current one is no longer functioning.\n\nThe rice cooker would be beneficial to assist Mother in preparing meals for the family.",
+      "name": "Washing Machine",
+      "description": "Elderly client just got his keys to his rental flat. His leg is still healing from a broken toe and wounded heel so he is unable to walk or stand too long without aid. As such a top load washing machine would really help him with washing clothes so that he need not spend too much time standing or squatting to wash his clothes.",
       "specifications": null,
       "contact": {
-        "org": "Fei Yue - Early Intervention Centre For Children",
-        "name": "Jean Oh",
-        "email": "jeanoh@fycs.org",
+        "org": "Catholic Welfare Services",
+        "name": "Ian Michael Binny",
+        "email": "mbinny@catholicwelfare.org.sg",
         "phone": [
-          "66810505",
-          "65656260"
+          "68017489",
+          "63394711"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -628,6 +628,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "06 Dec 2021"
+    },
+    {
+      "id": "103419",
+      "category": "Infant and Children Items",
+      "name": "Dumex Dulac Stage 1 Infant Formula",
+      "description": "Looking for 3 tins of milk powder for family staying in temporary residential services. Brand of milk powder is Dumex Dulac Stage 1 Infant formula. \nSample item can be found at following link.\nhttps://shopee.sg/product/11013198/1310251100?smtt=0.9010721-1641371759.9",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Transition Plus",
+        "name": "K S Vikneshan",
+        "email": "vikneshan@amkfsc.org.sg",
+        "phone": [
+          "82921158"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Jan 2022"
     },
     {
       "id": "103380",
@@ -1502,6 +1519,40 @@
       "date": "07 Dec 2021"
     },
     {
+      "id": "103418",
+      "category": "Others",
+      "name": "Enfagrow Stage 3 Milk Powder",
+      "description": "The child under the care of Yishun Family Service centre is currently in need of 4 tins of Enfagrow Stage 3 milk powder. Items can be delivered to the centre located at Block 107 Yishun Ring Road #01-233, Singapore 760107. Please contact us at dik@childrensociety.org.sg for donation enquires. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Peng Hui",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Jan 2022"
+    },
+    {
+      "id": "103417",
+      "category": "Others",
+      "name": "Nature One Standard Milk Formula",
+      "description": "Children under care of Yishun Family Service centre are in need of Nature One Standard Newborn Formula Step 1 x 4 tins and Nature One Standard Toddler Nutritious Milk Drink Step 3 x 4 tins. The items will be delivered directly to beneficiary's place. Please contact us at dik@childrensociety.org.sg for delivery details. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Peng Hui",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Jan 2022"
+    },
+    {
       "id": "103409",
       "category": "Others",
       "name": "Adult Diapers - Size XL Tena Plus Pants",
@@ -1886,6 +1937,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "103416",
+      "name": "Standing Fan",
+      "description": "Midea 16 inch standing fan\n-Used around 2years\n-still good condition",
+      "location": "Yishun, Sembawang",
+      "validTill": "15 Jan 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103415",
+      "name": "Home Bakes for Blessing",
+      "description": "Hi,\n\nWe are a group of home bakers willing to bake and bless charity, blue chase card families. Bake items to be discussed.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "28 Jan 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103412",
       "name": "3 drawer Cabinet",
@@ -3704,16 +3775,6 @@
       "validTill": "13 Jan 2022",
       "ageInYears": 2,
       "dimensions": "10\" 6.5\" 13\"",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102418",
-      "name": "Outdoor swing chair",
-      "description": "This is a rattan swing chair chained to a helical spring and supported by a rigid steel frame.",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "13 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "90cm x 90cm x 185cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
