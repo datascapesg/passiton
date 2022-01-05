@@ -1,6 +1,41 @@
 {
   "requests": [
     {
+      "id": "103404",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave",
+      "description": "Elderly, residing alone has multiple medical condition. Elderly usually consumes cold food at home as there is no microwave or stove to heat up food. Elderly hopes to receive support for a usable microwave to heat up the food and enjoy consuming it.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - @27 Family Service Centre",
+        "name": "Timothy William Henry",
+        "email": "timothy.henry@montfortcare.org.sg",
+        "phone": [
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Jan 2022"
+    },
+    {
+      "id": "103403",
+      "category": "Electrical Home Appliances",
+      "name": "Standing Fan",
+      "description": "Single parent family with low income and two school going children. Require a standing fan for the room where all 3 of them are sleeping in.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Julia Ao",
+        "email": "juliaao@fycs.org",
+        "phone": [
+          "66901006",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Jan 2022"
+    },
+    {
       "id": "103384",
       "category": "Electrical Home Appliances",
       "name": "Microwave",
@@ -1118,6 +1153,23 @@
       "date": "06 Dec 2021"
     },
     {
+      "id": "103401",
+      "category": "Home Furnishing",
+      "name": "Kitchen cabinet",
+      "description": "Client is a young mother with 6 young and school-going children. Kitchen cabinet is needed to allow mother to have better organisation of her home and better storage of her appliances so to keep her children safe in the kitchen. \n\nPrefer a kitchen cabinet that has drawers and waterproof (plastic material).",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Bedok",
+        "name": "Naurah Syamimi",
+        "email": "Naurah_SYAMIMI@msf.gov.sg",
+        "phone": [
+          "62436909"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Jan 2022"
+    },
+    {
       "id": "103400",
       "category": "Home Furnishing",
       "name": "Storage Bed frame with mattress",
@@ -1779,6 +1831,23 @@
       "date": "27 Dec 2021"
     },
     {
+      "id": "103402",
+      "category": "Mobility Aids",
+      "name": "Wheelchair",
+      "description": "Family consists of both mother and daughter. Mother is 101 years old and has mobility issues. Family needs a wheelchair to transport mother around. Daughter has cancer and is currently recuperating.",
+      "specifications": null,
+      "contact": {
+        "org": "The Singapore Association For The Deaf (SADeaf)",
+        "name": "Tina Li",
+        "email": "dunrui@sadeaf.org.sg",
+        "phone": [
+          "63448274"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Jan 2022"
+    },
+    {
       "id": "103073",
       "category": "Mobility Aids",
       "name": "Detachable wheelchair",
@@ -1863,16 +1932,6 @@
       "validTill": "31 Jan 2022",
       "ageInYears": 2,
       "dimensions": "96cm×155cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103375",
-      "name": "2&3 seater black leather sofa",
-      "description": "sofa",
-      "location": "Orchard, Cairnhill, River Valley",
-      "validTill": "14 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
