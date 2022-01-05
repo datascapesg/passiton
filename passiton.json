@@ -19,41 +19,6 @@
       "date": "05 Jan 2022"
     },
     {
-      "id": "103406",
-      "category": "Electrical Home Appliances",
-      "name": "Standing Fan",
-      "description": "Client is a 23-year-old stay-home mother with three sons, aged 2 years-old, 1 year-old, and 6 months old. \nTogether with her husband, they stay in a 2-room rental flat in Yishun.",
-      "specifications": "Standing Fan",
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "amychua@mws.sg",
-        "phone": [
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Jan 2022"
-    },
-    {
-      "id": "103403",
-      "category": "Electrical Home Appliances",
-      "name": "Standing Fan",
-      "description": "Single parent family with low income and two school going children. Require a standing fan for the room where all 3 of them are sleeping in.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Champions Way",
-        "name": "Julia Ao",
-        "email": "juliaao@fycs.org",
-        "phone": [
-          "66901006",
-          "66901000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Jan 2022"
-    },
-    {
       "id": "103384",
       "category": "Electrical Home Appliances",
       "name": "Microwave",
@@ -1922,6 +1887,16 @@
   ],
   "offers": [
     {
+      "id": "103412",
+      "name": "3 drawer Cabinet",
+      "description": "Designer Sturdy wood cabinet. 3 drawers. In great condition except for some stain mark.",
+      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+      "validTill": "04 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": "76cm x 48cm x 76cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "103411",
       "name": "Work Desk",
       "description": "Teak Wood work desk. In great condition",
@@ -2468,16 +2443,6 @@
       "location": "Upper Thomson, Springleaf",
       "validTill": "09 Jan 2022",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103210",
-      "name": "Table fan",
-      "description": "In good working condition",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "07 Jan 2022",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
