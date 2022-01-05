@@ -174,24 +174,6 @@
       "date": "31 Dec 2021"
     },
     {
-      "id": "103118",
-      "category": "Electrical Home Appliances",
-      "name": "handheld Vacuum Cleaner",
-      "description": "User is an elderly man living in a rental flat whose employment has been affected significantly due to covid-19. His vacuum cleaner has spoilt previously and has difficulties in cleaning his house. The vacuum cleaner would benefit the user greatly. Preferable for the vacuum cleaner to be light as the user is an elderly man and would struggle to move around a heavy Vacuum cleaner.",
-      "specifications": null,
-      "contact": {
-        "org": "AWWA Family Service Centre",
-        "name": "Nicholas Wee",
-        "email": "nicholas_wee@awwa.org.sg",
-        "phone": [
-          "65119437",
-          "65119456"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 Dec 2021"
-    },
-    {
       "id": "103114",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -679,6 +661,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Dec 2021"
+    },
+    {
+      "id": "103380",
+      "category": "Infant and Children Items",
+      "name": "Nan Optipro Stage 1",
+      "description": "Mother is the sole caregiver for her younger son, aged 4 who has multiple medical conditions. The family is fully dependent on father as the sole breadwinner. They also has an elder son who attends Primary Two this year. Given the younger son's multiple medical needs, KKH dietician has recommended Nan Optipro Stage 1 (Tin with green cap) only to be considered. This will help to provide adequate nutrition for the younger son. The younger son consumes one tin per week for all his meals. The family appreciates a donation of four tins. This will allow the younger son to have a month's supply of milk.",
+      "specifications": null,
+      "contact": {
+        "org": "Hougang Sheng Hong Family Service Centre",
+        "name": "Dan Chan",
+        "email": "dan@shenghong.org.sg",
+        "phone": [
+          "62895022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Jan 2022"
     },
     {
       "id": "103377",
@@ -1187,23 +1186,6 @@
       "date": "04 Jan 2022"
     },
     {
-      "id": "103359",
-      "category": "Home Furnishing",
-      "name": "2- door wardrobe",
-      "description": "Single mother of 1 just got allocated a 1 room HDB rental flat and requires assistance with furniture/ household items.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Krishna Kumar",
-        "email": "krishna@thkmc.org.sg",
-        "phone": [
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Jan 2022"
-    },
-    {
       "id": "103341",
       "category": "Home Furnishing",
       "name": "Bunk bed (pull out only)",
@@ -1394,23 +1376,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "06 Dec 2021"
-    },
-    {
-      "id": "103378",
-      "category": "Learning Aids",
-      "name": "Handphone (Pre-loved)",
-      "description": "Any brand of handphone for a secondary school student. The item can be delivered to Yishun Family Service centre located at Block 107 Yishun Ring Road #01-233, Singapore 760107. Please contact us for enquiry/delivery arrangement at dik@childrensociety.org.sg. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Peng Hui",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Jan 2022"
     },
     {
       "id": "103331",
@@ -1902,6 +1867,26 @@
   ],
   "offers": [
     {
+      "id": "103381",
+      "name": "Single mattress",
+      "description": "Very clean and rolled up single mattress. Bed sheets also available.",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "10 Jan 2022",
+      "ageInYears": 3,
+      "dimensions": "Standard",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103379",
+      "name": "Kids 3 door wardrobe",
+      "description": "Pleaae arrange for your own transport & disassemble team",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "31 Jan 2022",
+      "ageInYears": 2,
+      "dimensions": "96cm×155cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "103375",
       "name": "2&3 seater black leather sofa",
       "description": "sofa",
@@ -1989,16 +1974,6 @@
       "validTill": "03 Feb 2022",
       "ageInYears": 1,
       "dimensions": "190cm x 140cm x 25cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103330",
-      "name": "New shoes",
-      "description": "2 pairs of shoes-----brand new!",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "03 Feb 2022",
-      "ageInYears": 1,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -2109,16 +2084,6 @@
       "validTill": "31 Jan 2022",
       "ageInYears": 3,
       "dimensions": "Width 193cm, depth 97cm, height 81cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103302",
-      "name": "tiger kettle",
-      "description": "Water pot - keep water hot.warm all day \ndepending on where is the location.. prefer to pick up from me near east area.",
-      "location": null,
-      "validTill": "01 Feb 2022",
-      "ageInYears": 3,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -2522,16 +2487,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103190",
-      "name": "Thermal flask",
-      "description": "Thermal flask, keep warm 24hr, 2l",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "31 Jan 2022",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103185",
       "name": "Portable Absorb Phlegm unit",
       "description": "Condition: New suction pump unit & 20pcs of Suction catheter, size 12",
@@ -2592,16 +2547,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103174",
-      "name": "IKEA HEMLAGAD Pot with lid",
-      "description": "Seldom used and in excellent condition. Moved house and now doesn’t work with induction cooker. Great design and quality. Made of aluminium and Teflon coated. The lid has a catch which means the water can be poured out through the holes in the lid. Comfortable handles make the cookware easy to lift.",
-      "location": "Katong, Joo Chiat, Amber Road",
-      "validTill": "30 Jan 2022",
-      "ageInYears": 1,
-      "dimensions": "24cm diameter",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103171",
       "name": "Wooden Stool",
       "description": "Wooden stool",
@@ -2609,16 +2554,6 @@
       "validTill": "20 Jan 2022",
       "ageInYears": 1,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103170",
-      "name": "Desk fan/air cooler",
-      "description": "Small desktop/bedside fan using USB plug for power. New unused. Can fill with ice water for cool air",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "30 Jan 2022",
-      "ageInYears": 1,
-      "dimensions": "12 x 12",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -2842,16 +2777,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103123",
-      "name": "Cabinet",
-      "description": "Brown 8 shelves display caninet with 4 doors",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "28 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "H173cm x L83cm x D30cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103121",
       "name": "Diaper Bags",
       "description": "Hi!\n\nWe have around 278 diaper bags left unused from a previous social media campaign to share around with everyone else who needs it more.\n\nIf keen, please contact us so we can arrange a date and time where you can pick the bags up from our office.\n\nThank you!",
@@ -2988,16 +2913,6 @@
       "location": null,
       "validTill": "28 Jan 2022",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103051",
-      "name": "Basic uniqlo women tops",
-      "description": "Basic uniqlo top size S/M",
-      "location": null,
-      "validTill": "28 Jan 2022",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
