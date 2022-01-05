@@ -298,24 +298,6 @@
       "date": "28 Dec 2021"
     },
     {
-      "id": "102965",
-      "category": "Electrical Home Appliances",
-      "name": "Fan(Attached to vertical wall)",
-      "description": "Family needs a verticle fan for them to have a better restful sleep at night.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Nur Syazwani Binte Kamsani",
-        "email": "Syazwanikamsani@amkfsc.org.sg",
-        "phone": [
-          "64535349",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "28 Dec 2021"
-    },
-    {
       "id": "102951",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -1901,6 +1883,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "103423",
+      "name": "Toaster oven",
+      "description": "Self collection at MRT station.",
+      "location": "Little India",
+      "validTill": "30 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103422",
+      "name": "Pop-top toaster",
+      "description": "Pop top bread toaster giving away self collection.",
+      "location": "Little India",
+      "validTill": "30 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103420",
       "name": "Automatic Crank Hospital Bed (Assure AR0553)",
