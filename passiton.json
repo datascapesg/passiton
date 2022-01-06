@@ -612,6 +612,40 @@
       "date": "06 Dec 2021"
     },
     {
+      "id": "103458",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder",
+      "description": "Nan Milk powder required for infant. Family has 1 4-year-old daughter and is expecting another due in March 2022. The family lives in public rental housing and is financially in need. They will appreciate donations of milk powder to cope with increased expenses.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Woodlands",
+        "name": "Chen Yu Xin",
+        "email": "chenyuxin@carecorner.org.sg",
+        "phone": [
+          "63622481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Jan 2022"
+    },
+    {
+      "id": "103457",
+      "category": "Infant and Children Items",
+      "name": "Diapers",
+      "description": "Diapers required for newborn (any brand). Family has 1 4-year-old child, and is expecting another due in March 2022. They live in a public rental flat and will appreciate donations of infant items for their new infant, due to financial needs.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Woodlands",
+        "name": "Chen Yu Xin",
+        "email": "chenyuxin@carecorner.org.sg",
+        "phone": [
+          "63622481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Jan 2022"
+    },
+    {
       "id": "103443",
       "category": "Infant and Children Items",
       "name": "SPIRNG COT",
@@ -1556,23 +1590,6 @@
       "date": "06 Jan 2022"
     },
     {
-      "id": "103418",
-      "category": "Others",
-      "name": "Enfagrow Stage 3 Milk Powder",
-      "description": "The child under the care of Yishun Family Service centre is currently in need of 4 tins of Enfagrow Stage 3 milk powder. Items can be delivered to the centre located at Block 107 Yishun Ring Road #01-233, Singapore 760107. Please contact us at dik@childrensociety.org.sg for donation enquires. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Peng Hui",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Jan 2022"
-    },
-    {
       "id": "103417",
       "category": "Others",
       "name": "Nature One Standard Milk Formula",
@@ -1920,6 +1937,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "103460",
+      "name": "Dresser table",
+      "description": "Dresser table from Picket & Rail",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "05 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": "120 (L) x 60 (W) x 76 (H) cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103459",
+      "name": "Aircast Boot",
+      "description": "I just recovered from an ankle injury, looking to donate this aircast boot",
+      "location": "Geylang, Eunos",
+      "validTill": "07 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103456",
+      "name": "Curtches",
+      "description": "I just recovered from an ankle injury, looking to donate my crutches.",
+      "location": "Geylang, Eunos",
+      "validTill": "05 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103454",
       "name": "Food container",
