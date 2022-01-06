@@ -1883,6 +1883,24 @@
       "date": "08 Dec 2021"
     },
     {
+      "id": "103486",
+      "category": "Medical Aids",
+      "name": "Tena Pants size L",
+      "description": "A client with Crohn's disease. He uses diapers daily. He will need 12 packets of TENA diaper pants size L per month.",
+      "specifications": "Tena Pants Size L",
+      "contact": {
+        "org": "Society For The Physically Disabled (SPD)",
+        "name": "Koh Yeng Yeng",
+        "email": "koh_yeng_yeng@spd.org.sg",
+        "phone": [
+          "65790750",
+          "65790700"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Jan 2022"
+    },
+    {
       "id": "103477",
       "category": "Medical Aids",
       "name": "Adult Diapers",
@@ -2005,6 +2023,86 @@
     }
   ],
   "offers": [
+    {
+      "id": "103489",
+      "name": "Baby cot",
+      "description": "Baby cot with mattress and cover and cot bumper",
+      "location": null,
+      "validTill": "05 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103488",
+      "name": "Electronic Hoist Machine",
+      "description": "For transferring patient from bed to wheelchair/commode.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "05 Feb 2022",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103487",
+      "name": "Geriatric Chair",
+      "description": "Non-reclining, with only 2 wheels at the 2 back legs.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "05 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103485",
+      "name": "Hospital Bed Table",
+      "description": "Rollers are stiff but still functionable.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "05 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103484",
+      "name": "Commode",
+      "description": "Good condition",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "05 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103483",
+      "name": "Hospital Bed with Mattress - Electronic",
+      "description": "All in good working condition.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "05 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103482",
+      "name": "Walker",
+      "description": "Not used at all. New condition.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "05 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103481",
+      "name": "Super-single mattress",
+      "description": "Still in good condition.",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "05 Feb 2022",
+      "ageInYears": 3,
+      "dimensions": "190cm x 107cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103472",
       "name": "Dining table",
@@ -3452,16 +3550,6 @@
       "location": "Queenstown, Tiong Bahru",
       "validTill": "26 Jan 2022",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102968",
-      "name": "Single Bed with Mattress",
-      "description": "Single bed with mattress",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "12 Jan 2022",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
