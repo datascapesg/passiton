@@ -663,23 +663,6 @@
       "date": "05 Jan 2022"
     },
     {
-      "id": "103352",
-      "category": "Infant and Children Items",
-      "name": "Diapers",
-      "description": "8 children aged 8 mths to 17 years old live in a 2-room rental flat and are looked after by their grandparents. Family is facing financial hardship and is waiting for their Comcare financial assistance to be approved.",
-      "specifications": "Mamypoko XXL (Pants)",
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Krishna Kumar",
-        "email": "krishna@thkmc.org.sg",
-        "phone": [
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "04 Jan 2022"
-    },
-    {
       "id": "103351",
       "category": "Infant and Children Items",
       "name": "Formula milk",
@@ -1117,6 +1100,42 @@
       "date": "06 Dec 2021"
     },
     {
+      "id": "103438",
+      "category": "Home Furnishing",
+      "name": "PLASTIC STORRAGE DRAWERS",
+      "description": "We are appealing for PLASTIC STORAGE DRAWERS for a low income client who needs that item to organize his home and cannot afford to purchase one themselves due to financial xonstrains",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
+        "name": "Maggie Gan",
+        "email": "maggiegan@amkfsc.org.sg",
+        "phone": [
+          "65536643",
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Jan 2022"
+    },
+    {
+      "id": "103437",
+      "category": "Home Furnishing",
+      "name": "Kitchen shelves and table",
+      "description": "Single mother who recently obtained her rental flat requires furnishing before moving in with her son. She holds a part-time job while supporting her 1 year old son and does not have sufficient to cover the furnishing of the new flat. Client hopes to have the kitchen shelves up so she could cook at home which would save her more money than eating out.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Hannah Lim",
+        "email": "hannahlimzhixin@fycs.org",
+        "phone": [
+          "69783487",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Jan 2022"
+    },
+    {
       "id": "103405",
       "category": "Home Furnishing",
       "name": "Window Grilles",
@@ -1465,6 +1484,23 @@
       "date": "07 Dec 2021"
     },
     {
+      "id": "103436",
+      "category": "Others",
+      "name": "Printer",
+      "description": "Client is a single mother who is unemployed as she has to care for her young daughter. Client lives in a 1 room rental flat. Client is struggling financially. Client requested for a printer.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Dini Dzulaikha Bte Dzulkifli",
+        "email": null,
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "06 Jan 2022"
+    },
+    {
       "id": "103418",
       "category": "Others",
       "name": "Enfagrow Stage 3 Milk Powder",
@@ -1493,24 +1529,6 @@
         "email": "dik@childrensociety.org.sg",
         "phone": [
           "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Jan 2022"
-    },
-    {
-      "id": "103409",
-      "category": "Others",
-      "name": "Adult Diapers - Size XL Tena Plus Pants",
-      "description": "Client is end stage cancer patient who is now palliative. Client is incontinent and now requires aid to move around. Client is a father of 6 school going children. Wife is the sole breadwinner of family and is facing financial difficulties as client has incurred additional expenses from his consumables.",
-      "specifications": "Tena brand, Size XL, Plus Pants",
-      "contact": {
-        "org": "AIN Society",
-        "name": "Nur'Ain Binte Mohamed Said",
-        "email": "nurain@ainsociety.org.sg",
-        "phone": [
-          "68485116",
-          "68485166"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1700,24 +1718,6 @@
         "email": "jialow@amkfsc.org.sg",
         "phone": [
           "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Dec 2021"
-    },
-    {
-      "id": "102352",
-      "category": "Others",
-      "name": "Eureka Books",
-      "description": "Single mother with 2 school-going children requires Eureka books (part1,2&3) for primary school.  Please contact social worker Christopher.  Thank you",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Navarraj",
-        "email": "navarraj@thkmc.org.sg",
-        "phone": [
-          "64961278",
-          "62706711"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2056,16 +2056,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103371",
-      "name": "dining tabl",
-      "description": "dining table",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "09 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103369",
       "name": "Flexible table lamb",
       "description": "White light",
@@ -2393,16 +2383,6 @@
       "validTill": "01 Feb 2022",
       "ageInYears": 4,
       "dimensions": "120cm x 60cm x 77cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103223",
-      "name": "3-seater leather sofa covered in washable fabric",
-      "description": "Length: 190cm\nDepth: 85cm\nHeight: 90cm\nHeight of seat only: 40cm\nDepth of seat only: 55cm\n\nCovered with customised washable grey fabric. Inside is off-white leather with cat scratch marks below arm rests. \nBought 6 years ago.",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "01 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": "190 x 85 x 90 cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -2836,16 +2816,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103109",
-      "name": "Queen size bed frame and mattress",
-      "description": "Bed frame dimensions in cm :\nL : 190\nW: 150\nH : 25",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-      "validTill": "10 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "190x150x24 cm for mattress",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103108",
       "name": "Unisex Socks",
       "description": "Brand New Ankle-height Unisex Socks\nSuitable for work or school\nOne size, suitable for EU shoe sizes between 36-44.",
@@ -2860,16 +2830,6 @@
       "name": "TV cabinet",
       "description": "used but in good condition and well maintained",
       "location": "Bishan, Ang Mo Kio",
-      "validTill": "29 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103088",
-      "name": "single teak bed",
-      "description": "used but in good condition and well maintained",
-      "location": null,
       "validTill": "29 Jan 2022",
       "ageInYears": 4,
       "dimensions": null,
