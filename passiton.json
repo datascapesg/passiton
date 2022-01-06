@@ -176,23 +176,6 @@
       "date": "03 Jan 2022"
     },
     {
-      "id": "103186",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "A family with 4 young children with developmental delays needs a washing machine. The husband is too sick to work and the wife is the sole breadwinner and main caregiver.",
-      "specifications": null,
-      "contact": {
-        "org": "Lakeside Family Centre - Jurong East",
-        "name": "Karon Ng",
-        "email": "karon-ng@lakeside.org.sg",
-        "phone": [
-          "65649722"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "31 Dec 2021"
-    },
-    {
       "id": "103176",
       "category": "Electrical Home Appliances",
       "name": "Fridge",
@@ -1135,23 +1118,6 @@
       "date": "08 Dec 2021"
     },
     {
-      "id": "102102",
-      "category": "Infant and Children Items",
-      "name": "Diapers (3 packets each size)",
-      "description": "Client is a mother of 7 (F/15, F/9, F/8, M/7, F/5, F3, M/newborn). Client and her husband currently live in a 1-room-1-hall with F/9, F/8, M/7, F/5, F3, M/newborn. Client was previously unable to work due to gestational hypertension, and presently, she is the primary caregiver for the newborn. In addition, she underwent a cesarean section (c-section) when she gave birth on 30th August 2021, and is currently unable to do strenuous activities. Her husband is currently employed as a food delivery rider on a part time basis, working only for a few hours each night as he helps client out in the day. As such, the family are limited in their financial resources and are unable to support the milk and diaper needs for F/5, F/3 and M/newborn.",
-      "specifications": "Drypers Size M, Drypers Size XL, Drypers Size XXL",
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "amychua@mws.sg",
-        "phone": [
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Dec 2021"
-    },
-    {
       "id": "102089",
       "category": "Infant and Children Items",
       "name": "XL Pampers (pants)",
@@ -1590,6 +1556,23 @@
       "date": "07 Dec 2021"
     },
     {
+      "id": "103471",
+      "category": "Others",
+      "name": "Food ration",
+      "description": "A single mother and her 2 years old daughter. Mother has been terminated from her part-item job due to closure of company and her income has been affected.  They need some halal food ration (i.e., rice, oil, instant noodles, poultry, vegetables) and daughter's necessities (i.e., Abbott Grow Toddler Growing Up Milk Formula - Stage 3 & Drypers Drypantz Pants- XL)",
+      "specifications": "Any sizes",
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Chua Pei Ching",
+        "email": "peiching.chua@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Jan 2022"
+    },
+    {
       "id": "103417",
       "category": "Others",
       "name": "Nature One Standard Milk Formula",
@@ -1743,23 +1726,6 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "24 Dec 2021"
-    },
-    {
-      "id": "102828",
-      "category": "Others",
-      "name": "Mini Fridge",
-      "description": "49 y/o clt is facing financial constraints and seeking employment for himself. He requires a new mini fridge as his previous one had spoilt.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Clarice Lim",
-        "email": "claricelim@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Dec 2021"
     },
     {
       "id": "102759",
@@ -1937,6 +1903,46 @@
     }
   ],
   "offers": [
+    {
+      "id": "103472",
+      "name": "Dining table",
+      "description": "Photo for illustration. Actual table is slightly darker.",
+      "location": null,
+      "validTill": "05 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": "About 118cm long x 75 cm wide",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103470",
+      "name": "Diapers",
+      "description": "Size L",
+      "location": "Kranji, Woodgrove",
+      "validTill": "05 Feb 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103469",
+      "name": "Dining chairs (4 pieces in 1 donation)",
+      "description": "Leg/ Rail:\nSolid pine, Stain, Clear acrylic lacquer\n\nSeat:\nFibreboard, Polyurethane foam 35 kg/cu.m.\n\nProtective fabric:\n100% polypropylene\n\nCover/ Fabric:\n35% cotton, 65 % polyester\n\nCover\nMachine wash, max 40°C, normal process.\n\nTested for: 110 kg\n\nWidth: 42 cm\n\nDepth: 49 cm\n\nHeight: 85 cm\n\nSeat width: 42 cm\n\nSeat depth: 38 cm\n\nSeat height: 48 cm",
+      "location": null,
+      "validTill": "31 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103468",
+      "name": "Cupboard",
+      "description": "From IKEA",
+      "location": "Kranji, Woodgrove",
+      "validTill": "05 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103467",
       "name": "Bunk Bed",
@@ -2315,16 +2321,6 @@
       "validTill": "31 Jan 2022",
       "ageInYears": 2,
       "dimensions": "96cm×155cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103372",
-      "name": "Living Room and Dining Room set",
-      "description": "A set of living room and dining room furniture to bless. A Dining Table with 4 chairs, a 4 seater sofa, a coffee table and a TV Console. Originally purchased from Cellini, made of good mahogany. Please take as a set if possible",
-      "location": "Anson, Tanjong Pagar",
-      "validTill": "21 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
