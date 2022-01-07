@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "103524",
+      "category": "Electrical Home Appliances",
+      "name": "Standing Fan",
+      "description": "Client is a single mother and lives with her two teenage son. She has lost her job due to the pandemic and unable to find one due to the caregiving needs of her son with Autism. Client’s current standing fan has spoilt recently and is unable to afford a new replacement.",
+      "specifications": "Nil",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Aw Chin Bee",
+        "email": "awchinbee@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Jan 2022"
+    },
+    {
       "id": "103494",
       "category": "Electrical Home Appliances",
       "name": "Fridge",
@@ -576,6 +593,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "13 Dec 2021"
+    },
+    {
+      "id": "101634",
+      "category": "Infant and Children Items",
+      "name": "Diapers",
+      "description": "Family has 5 children and father is the only sole breadwinner of the family. Mother is the primary caregiver of the children and has to provide monitoring for her second son with ADHD and Dyslexia. Family requires support for children's needs such as diapers (XL), which can be a stressor on the family's finances",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Aw Chin Bee",
+        "email": "awchinbee@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "07 Jan 2022"
     },
     {
       "id": "103522",
@@ -1956,6 +1990,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "103523",
+      "name": "Washing machine",
+      "description": "In good working condition.\nSome stains duke to wrong chemical used in cleaning.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "31 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103520",
       "name": "Dreamgenii Pregnancy Support & Feeding Pillow",
