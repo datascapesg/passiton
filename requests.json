@@ -1,22 +1,5 @@
 [
   {
-    "id": "103524",
-    "category": "Electrical Home Appliances",
-    "name": "Standing Fan",
-    "description": "Client is a single mother and lives with her two teenage son. She has lost her job due to the pandemic and unable to find one due to the caregiving needs of her son with Autism. Client’s current standing fan has spoilt recently and is unable to afford a new replacement.",
-    "specifications": "Nil",
-    "contact": {
-      "org": "AMKFSC Community Services Ltd - Sengkang",
-      "name": "Aw Chin Bee",
-      "email": "awchinbee@amkfsc.org.sg",
-      "phone": [
-        "63128100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "07 Jan 2022"
-  },
-  {
     "id": "103494",
     "category": "Electrical Home Appliances",
     "name": "Fridge",
@@ -594,6 +577,40 @@
     "date": "13 Dec 2021"
   },
   {
+    "id": "103529",
+    "category": "Infant and Children Items",
+    "name": "Infant Diapers (Size S)",
+    "description": "15 year-old teenage girl recently gave birth to a child following alleged sexual violence by ex-boyfriend. Family is low-income and struggling to make ends meet with the baby's expenses.",
+    "specifications": "Any brand, size S",
+    "contact": {
+      "org": "Whispering Hearts Family Service Centre",
+      "name": "Zaynab Binte Abdul Hamid",
+      "email": "zaynab@viriya.org.sg",
+      "phone": [
+        "67951008"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "07 Jan 2022"
+  },
+  {
+    "id": "103528",
+    "category": "Infant and Children Items",
+    "name": "Grow Infant Milk Powder (0-12months)",
+    "description": "15 year-old teenage girl recently gave birth to a child following alleged sexual violence by ex-boyfriend. Family is low-income and struggling to make ends meet with the baby's expenses.",
+    "specifications": null,
+    "contact": {
+      "org": "Whispering Hearts Family Service Centre",
+      "name": "Zaynab Binte Abdul Hamid",
+      "email": "zaynab@viriya.org.sg",
+      "phone": [
+        "67951008"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "07 Jan 2022"
+  },
+  {
     "id": "101634",
     "category": "Infant and Children Items",
     "name": "Diapers",
@@ -837,24 +854,6 @@
     "date": "03 Jan 2022"
   },
   {
-    "id": "103011",
-    "category": "Infant and Children Items",
-    "name": "Huggies Platinum Naturemade Tape Diapers S Size",
-    "description": "Erica is a full-time caregiver to her 2-month-old daughter.  Husband is currently under a court case and pending the final outcome in November.  As such, he is not able to secure any stable job.  Couple is relying on own savings.  It would be helpful for them to receive support for the diapers.",
-    "specifications": "Huggies Platinum Naturemade Tape Diapers S Size",
-    "contact": {
-      "org": "Fei Yue Community Services",
-      "name": "Tharvini d/o Nadarajah",
-      "email": "tharvini@fycs.org",
-      "phone": [
-        "67690430",
-        "63809169"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "28 Dec 2021"
-  },
-  {
     "id": "102574",
     "category": "Infant and Children Items",
     "name": "M size diapers",
@@ -920,24 +919,6 @@
       ]
     },
     "deliveryCostsCoveredByDonor": false,
-    "date": "17 Dec 2021"
-  },
-  {
-    "id": "102556",
-    "category": "Infant and Children Items",
-    "name": "Huggies Platinum Naturemade Tape Diapers",
-    "description": "The client is a full-time caregiver to her 1-year-old daughter.  Husband works as a Grab delivery man.  Currently, the couple is struggling with outstanding bills and seeking financial assistance. The client requires 1 X Huggies Platinum Nature made Tape Diapers L Size",
-    "specifications": "Huggies Platinum Naturemade Tape Diapers L Size (X1)",
-    "contact": {
-      "org": "Fei Yue Community Services",
-      "name": "Tharvini d/o Nadarajah",
-      "email": "tharvini@fycs.org",
-      "phone": [
-        "67690430",
-        "63809169"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
     "date": "17 Dec 2021"
   },
   {
@@ -1569,6 +1550,40 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "07 Dec 2021"
+  },
+  {
+    "id": "103527",
+    "category": "Others",
+    "name": "Milk Powders and Diapers",
+    "description": "A family of 5 is currently in financial difficulty and is working very hard to manage their situation. Due to their current circumstance, the family is unable to meet their basic needs, especially for the 2-years-old baby. Hence, the family will greatly benefit from some support for milk powder and diapers. We really appreciate your help. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Sengkang",
+      "name": "Mabel Ng",
+      "email": "mabelng@amkfsc.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Jan 2022"
+  },
+  {
+    "id": "103526",
+    "category": "Others",
+    "name": "Food Rations",
+    "description": "A family of 5 is currently in a financial difficulty and is working very hard to manage their situation. Due to their current circumstance, they are having difficulty meeting their basic needs. Hence, they will greatly benefit from the food ration during this tough period. We are looking at 1 month supply of halal-certified dry food ration. We really appreciate your help. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Sengkang",
+      "name": "Mabel Ng",
+      "email": "mabelng@amkfsc.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Jan 2022"
   },
   {
     "id": "103511",
