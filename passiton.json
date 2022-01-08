@@ -697,23 +697,6 @@
       "date": "07 Jan 2022"
     },
     {
-      "id": "103514",
-      "category": "Infant and Children Items",
-      "name": "Merries Pants Diapers - Size L",
-      "description": "Client is on dialysis and has just lost his job as a cleaner. His wife works as a packer and her salary is not enough to cover the expenses for their family of 4. Her mother came over from Vietnam to help look after their 18-month-old daughter. She cannot return as there are no flights available. As diapers are a heavy expense, they would benefit from a kind donation.",
-      "specifications": "Size L - 8 packs (1 month's supply)",
-      "contact": {
-        "org": "St. Hilda's Community Services Centre",
-        "name": "Jaime Yeo Min",
-        "email": "jaime.yeo@sthildascsc.org.sg",
-        "phone": [
-          "63450054"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Jan 2022"
-    },
-    {
       "id": "103458",
       "category": "Infant and Children Items",
       "name": "Milk Powder",
@@ -1985,6 +1968,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "103561",
+      "name": "Bed frame and mattress",
+      "description": "Bed frame and mattress.  In good condition.",
+      "location": "Anson, Tanjong Pagar",
+      "validTill": "07 Feb 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103560",
+      "name": "Brother laser printer",
+      "description": "Brother laser monotone printer with Lan cable. No wifi function. Full toner",
+      "location": "Macpherson, Braddell",
+      "validTill": "07 Feb 2022",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103558",
       "name": "water dispenser bottle",
