@@ -1,5 +1,15 @@
 [
   {
+    "id": "103574",
+    "name": "Dining table and chair",
+    "description": "Dining table and 4 dining chairs. Must be collected on 17th january",
+    "location": "Katong, Joo Chiat, Amber Road",
+    "validTill": "08 Feb 2022",
+    "ageInYears": 4,
+    "dimensions": "95cm width X 148cm length",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "103573",
     "name": "Milk powder",
     "description": "12 packets (200g) to give away",
@@ -230,16 +240,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "103546",
-    "name": "Ikea Malm Single bed frame and mattress and two storage drawers",
-    "description": "Single bed with mattress and two storage drawers",
-    "location": null,
-    "validTill": "09 Jan 2022",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "103543",
     "name": "L shaped 3 seater Sofa",
     "description": "https://www.cellini.com.sg/fabric-sofas/fabric-l-shape/karl-l-shape-fabric-sofa",
@@ -247,26 +247,6 @@
     "validTill": "30 Jan 2022",
     "ageInYears": 2,
     "dimensions": "L Shape - W2300 x D540/1280 x H400 mm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103541",
-    "name": "Ikea Malm Single bed frame and mattress and two storage drawers",
-    "description": "Single bed with mattress and two storage drawers",
-    "location": null,
-    "validTill": "09 Jan 2022",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103540",
-    "name": "Ikea Billy Bookshelf",
-    "description": "3 shelves available - all in white and good condition",
-    "location": null,
-    "validTill": "09 Jan 2022",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -327,16 +307,6 @@
     "validTill": "06 Feb 2022",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103506",
-    "name": "MATTRESS BED SINGLE",
-    "description": "SINGLE MATTRESS OF 30\" X 75\"\nSTILL IN GOOD CONDITION 8/10",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "31 Jan 2022",
-    "ageInYears": 3,
-    "dimensions": "30\" X 75\"",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -890,26 +860,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "103313",
-    "name": "Sofa and Mattress",
-    "description": "1 Queen mattress hardly used, very good clean condition \n2+3 seater sofa PU upholstery (without the pink covers)",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "09 Jan 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103312",
-    "name": "Sofa and Mattress",
-    "description": "1 Queen mattress hardly used, very good clean condition \n2+3 seater sofa PU upholstery (without the pink covers)",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "09 Jan 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "103310",
     "name": "Stationery /writing material",
     "description": "Scented color markers, note books",
@@ -955,16 +905,6 @@
     "description": "Queen size bed frame in PU leather.",
     "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
     "validTill": "28 Jan 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103289",
-    "name": "Sofa and Mattress",
-    "description": "1 Queen mattress hardly used, very good clean condition \n2+3 seater sofa PU upholstery (without the pink covers)",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "09 Jan 2022",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
@@ -1130,16 +1070,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "103218",
-    "name": "Study table with cupboard",
-    "description": "Table is 100x60cm, cupboard is 36x60cm and comes with two shelves",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "09 Jan 2022",
-    "ageInYears": 4,
-    "dimensions": "100x60cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "103217",
     "name": "Queen size bed",
     "description": "Queen Size wooden bed frame with all the screws, boards and frame without mattress.\nGood condition.",
@@ -1165,16 +1095,6 @@
     "description": "Spectra S1+ breast pump (hospital grade double breast pump) in good, working condition.",
     "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
     "validTill": "31 Jan 2022",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103211",
-    "name": "Hospital bed for home",
-    "description": "Clean and very good working condition",
-    "location": "Upper Thomson, Springleaf",
-    "validTill": "09 Jan 2022",
     "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
@@ -1526,16 +1446,6 @@
     "location": null,
     "validTill": "29 Jan 2022",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103078",
-    "name": "Single Bed Mattress",
-    "description": "Single size mattress.  Some stains",
-    "location": null,
-    "validTill": "15 Jan 2022",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -2346,36 +2256,6 @@
     "location": "Jurong",
     "validTill": "10 Jan 2022",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "102265",
-    "name": "Feeding bowl",
-    "description": "Feeding bowl",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "09 Jan 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "102263",
-    "name": "Bag",
-    "description": "Small back-carry bag for baby stuff",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "09 Jan 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "102260",
-    "name": "Bottle Warmer",
-    "description": "Bottle warmer",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "09 Jan 2022",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
