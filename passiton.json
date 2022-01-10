@@ -941,23 +941,6 @@
       "date": "10 Jan 2022"
     },
     {
-      "id": "103605",
-      "category": "Home Furnishing",
-      "name": "Small bookshelf",
-      "description": "Client is a single mother to 3 children, having left her marriage. She is also the sole breadwinner for the family, and not receiving support from ex-husband. Client had just gotten a HDB rental unit for her and her children, and are keen to move in, and start anew. However, she does not have the means to get the necessary furniture, as her salary goes towards the basic necessities for the family. (Kamie/Faridah)",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Teddy Fu",
-        "email": "teddyfu@thkmc.org.sg",
-        "phone": [
-          "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Jan 2022"
-    },
-    {
       "id": "103603",
       "category": "Home Furnishing",
       "name": "4 door wardrobe",
@@ -990,23 +973,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "10 Jan 2022"
-    },
-    {
-      "id": "103492",
-      "category": "Home Furnishing",
-      "name": "Sofabed",
-      "description": "Single mother with 3 children is looking for a sofabed (size of a single size mattress at least), as they had to throw away all their furniture at home due to bedbug infestation. They need a sofabed for her eldest son who sleeps in the living hall. Fabric only as there are pets at home. She is working full-time but unable to afford a new sofabed.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Lim Yi Xi",
-        "email": "yixi@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Jan 2022"
     },
     {
       "id": "103452",
@@ -1751,26 +1717,29 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "10 Jan 2022"
-    },
-    {
-      "id": "103612",
-      "category": "Kitchen Utility Items",
-      "name": "Cutlery & Plates",
-      "description": "Client is a 62 year old male, previously homeless. He had managed to apply successfully for HDB public rental unit, and had received his keys to his unit a few weeks ago. He works as a gardener and with his low income, he struggles financially to get furniture and household appliances. He hopes for donation for a few items including brand new plates & bowls (around 2) and cutlery such as fork, spoons, chopsticks etc (around 2 pairs). For further clarifications, do contact me at 98598768 for delivery address etc. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (East)",
-        "name": "Nur Afrina",
-        "email": "fsceast@ppis.sg",
-        "phone": [
-          "69503503"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Jan 2022"
     }
   ],
   "offers": [
+    {
+      "id": "103636",
+      "name": "Adjustable table",
+      "description": "Table",
+      "location": null,
+      "validTill": "31 Jan 2022",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103635",
+      "name": "Single bed with pull-out and drawers",
+      "description": "Single bed with pull-out and storage drawers. Comes with one single mattress. Dismantled into 3 sections for ease of re-assembling. Rarely use.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "09 Feb 2022",
+      "ageInYears": 3,
+      "dimensions": "196 cm x 101 cm x 48 cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103634",
       "name": "ARA 3-DOOR SWING WARDROBE WITH SHELVING",
