@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "103625",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "A family of 5 requires a refrigerator. Their current refrigerator is spoilt. Both husband & wife are unable to work. Husband is visually handicapped & wife suffers from serious eczema.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Jane Antony",
+        "email": "jane@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Jan 2022"
+    },
+    {
       "id": "103615",
       "category": "Electrical Home Appliances",
       "name": "Fridge",
@@ -12,24 +29,6 @@
         "email": "teddyfu@thkmc.org.sg",
         "phone": [
           "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Jan 2022"
-    },
-    {
-      "id": "103608",
-      "category": "Electrical Home Appliances",
-      "name": "WASHING MAHCINE",
-      "description": "We are appealing for a WASHING MACHINE FOR a low income family who father is the sole breadwinner and mother not able to work due poor health and with teenage children who is need need oa a washing machine as their current one has broker down and can afford to buy one on their own WE SEEK FUTHER ASSISTANCE FROM THE DONOR TO ASSIST IN THE TRANSPORTATION OR COVER THE TRANSPORTATION",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
-        "name": "Maggie Gan",
-        "email": "maggiegan@amkfsc.org.sg",
-        "phone": [
-          "65536643",
-          "64535349"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -576,23 +575,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "13 Dec 2021"
-    },
-    {
-      "id": "103600",
-      "category": "Infant and Children Items",
-      "name": "Milk Powder and Diapers",
-      "description": "Client has a large family with 4 young children. The family has high living expenses, and client's husband is the sole breadwinner of the family. Husband's pay is insufficient to provide for the children's needs sometimes. Client was supposed to start working this month but her child had HFMD which pushed back her working plans. Client does not have enough cash at the moment to buy milk and diapers for her baby, and it will run out by tomorrow. But I have shared with her that donors will not be able to help her so quickly. It would be very helpful if a donor could provide her with 2 packets of 1.6KG Dugro Stage 3 milk powder and 4 packets of Drypers Wee Wee Dry Diapers - L (9 - 14kg) to meet her child's basic needs for about a month before she can start working again next month as she missed the dates to work this month. Feel free to contact me for more information about the diapers (I can provide picture of the milk and diapers if required). I will only be able to reply on weekdays office hours. Feel free to email me. Thank you very much for helping the family!",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Anabelle Lim",
-        "email": "anabellelim@amkfsc.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Jan 2022"
     },
     {
       "id": "103535",
@@ -1877,6 +1859,36 @@
   ],
   "offers": [
     {
+      "id": "103624",
+      "name": "Grey Sofa Bed",
+      "description": "Grey sofa bed.",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "31 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103623",
+      "name": "Ikea bed frame with Queen mattress",
+      "description": "Ikea day-bed frame can be used with single bed or pulled out to be used with Queen mattress. There are two drawers under the bed frame. Available from 23rd January.",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "31 Jan 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103622",
+      "name": "Study table with shelving",
+      "description": "Good condition. Can be used as study table or other purposes. With shelving and storage",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "31 Jan 2022",
+      "ageInYears": 2,
+      "dimensions": "180cmx97cmx53cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "103621",
       "name": "100% pure leather sofa",
       "description": "It is high in quality, super comfortable and is set to beautify your loving room.\n\nIf you are looking for the perfect sofa set to enjoy beautiful conversations with family, relax with some Netflix and Chill sessions, or to enjoy a blissful meditation session, look no further than this listing.\n\nThis sofa set has been maintained with absolute care by my family. We are sad to see it go due to renovations, but we are ready to find a new home and be a source of joy for your family.",
@@ -1914,26 +1926,6 @@
       "validTill": "09 Feb 2022",
       "ageInYears": 2,
       "dimensions": "22159mmx1160mmx320-720mm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103611",
-      "name": "samsung fridge",
-      "description": "can only donate the item exactly on 21 jan 2022. thks.",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "21 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "90cm X 67cm X 177cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103610",
-      "name": "LG washing machine",
-      "description": "can only donate the item exactly on 21 jan 2022. thks.",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "21 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "60cm X 54cm X 85cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -2344,16 +2336,6 @@
       "validTill": "06 Feb 2022",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103543",
-      "name": "L shaped 3 seater Sofa",
-      "description": "https://www.cellini.com.sg/fabric-sofas/fabric-l-shape/karl-l-shape-fabric-sofa",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "30 Jan 2022",
-      "ageInYears": 2,
-      "dimensions": "L Shape - W2300 x D540/1280 x H400 mm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -2974,16 +2956,6 @@
       "validTill": "02 Feb 2022",
       "ageInYears": 1,
       "dimensions": "15x12x15",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103292",
-      "name": "Queen Size Bed Frame",
-      "description": "Queen size bed frame in PU leather.",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "28 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
