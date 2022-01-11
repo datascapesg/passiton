@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "103642",
+      "category": "Electrical Home Appliances",
+      "name": "Electric Kettle",
+      "description": "Client and husband experience financial constraint to replace the stove and hence request for an electric kettle. They also have health problems that impede on their ability to secure financial stability.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Simranjit Kaur",
+        "email": "simranjit.kaur@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Jan 2022"
+    },
+    {
+      "id": "103641",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Low income family with a young school going child needs a working fridge. Their current fridge has broken down and they had to rely on their neighbor to place their frozen food items. Father recently just started work again and is unable to repair or purchase a new fridge.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Punggol",
+        "name": "Mohd Fadil Bin Hassan",
+        "email": "mohdfadil@amkfsc.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "11 Jan 2022"
+    },
+    {
       "id": "103615",
       "category": "Electrical Home Appliances",
       "name": "Fridge",
@@ -525,6 +559,23 @@
       "date": "13 Dec 2021"
     },
     {
+      "id": "103644",
+      "category": "Infant and Children Items",
+      "name": "Milk - Lactogen 3: 3 Tins",
+      "description": "Family has 5 young children, with parents currently experiencing employment instability, and therefore affecting their capacity to provide basic needs to the children.",
+      "specifications": "3 Tins",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Punggol",
+        "name": "Fernandez Mark Anthony",
+        "email": "markfernandez@amkfsc.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Jan 2022"
+    },
+    {
       "id": "103535",
       "category": "Infant and Children Items",
       "name": "8 Tins Of Frisolac Gold Stage 1",
@@ -890,6 +941,23 @@
       "date": "13 Dec 2021"
     },
     {
+      "id": "103640",
+      "category": "Home Furnishing",
+      "name": "Wardrobe",
+      "description": "Single mother with 3 young children, including a special needs child, needs a new 4 door wardrobe. Their current wardrobe is worn down and broken in parts (it could potentially fall down).",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Punggol",
+        "name": "Mohd Fadil Bin Hassan",
+        "email": "mohdfadil@amkfsc.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "11 Jan 2022"
+    },
+    {
       "id": "103627",
       "category": "Home Furnishing",
       "name": "Double size bed and mattress",
@@ -1166,6 +1234,23 @@
       "date": "21 Dec 2021"
     },
     {
+      "id": "102258",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Client is a single mother and just gave birth. Client would like to request a laptop so she is able to do some part-time online job while providing care to her baby. Thank you. (Xin Mo)",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Bedok North",
+        "name": "Teddy Fu",
+        "email": "teddyfu@thkmc.org.sg",
+        "phone": [
+          "64491440"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Jan 2022"
+    },
+    {
       "id": "103601",
       "category": "Learning Aids",
       "name": "Laptop (with webcam)",
@@ -1270,23 +1355,6 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "16 Dec 2021"
-    },
-    {
-      "id": "102258",
-      "category": "Learning Aids",
-      "name": "Laptop",
-      "description": "Client is a single mother and just gave birth. Client would like to request a laptop so she is able to do some part-time online job while providing care to her baby. Thank you. (Xin Mo)",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Teddy Fu",
-        "email": "teddyfu@thkmc.org.sg",
-        "phone": [
-          "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Dec 2021"
     },
     {
       "id": "103616",
@@ -1720,6 +1788,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "103645",
+      "name": "musical toy drums for toddlers",
+      "description": "Fisher price toys",
+      "location": null,
+      "validTill": "10 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": "10cm &amp; 15 cm in length",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103639",
+      "name": "Maclaren double stroller",
+      "description": "Maclaren double stroller in almost mint condition. Will come with some accessories. I can deliver to the recipient",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "10 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103637",
+      "name": "Ergonomic study table",
+      "description": "Preloved study table but in relatively gd condition. Height adjustable.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "28 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103636",
       "name": "Adjustable table",
@@ -2191,16 +2289,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103555",
-      "name": "Aini",
-      "description": "Circumference 48 inch.\nHeight 32 inch.",
-      "location": "Geylang, Eunos",
-      "validTill": "11 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "Circumference 48 inch",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103628",
       "name": "Single Bed - Frame & Mattress",
       "description": "The bed will come with 5-10 sets of bedsheet, pillow & bolster covers ( all well used condition).",
@@ -2278,16 +2366,6 @@
       "validTill": "06 Feb 2022",
       "ageInYears": 4,
       "dimensions": "204cm x 108cm x  65cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103531",
-      "name": "furniture",
-      "description": "1 tv console\n1 coffee table\n1 L -SHAPE SOFA\n1 -STUDY TABLE\n1 -BED \n2- MATTRESS\n2 SET  STUDY TABLE AND CHAIR",
-      "location": "Geylang, Eunos",
-      "validTill": "11 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -2941,16 +3019,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103243",
-      "name": "Swivel Chair",
-      "description": "Lightly used \nIn excellent condition",
-      "location": null,
-      "validTill": "01 Feb 2022",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103242",
       "name": "Maternity Clothes",
       "description": "Several boxes of maternity pants, bottom, tops and dresses. Good quality, not torned or tatter. Items are washed, categorised and packed.",
@@ -3047,16 +3115,6 @@
       "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
       "validTill": "31 Jan 2022",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103205",
-      "name": "King size mattress",
-      "description": "Disinfected once every two weeks. Used protector too. Change due to husband’s back.",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "16 Jan 2022",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3271,16 +3329,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103128",
-      "name": "baby hamper",
-      "description": "Newborn baby girl hamper given as a gift and unopened. Includes baby toiletries, bodysuit, bib and toy.",
-      "location": "Macpherson, Braddell",
-      "validTill": "29 Jan 2022",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103127",
       "name": "baby play gym",
       "description": "Play nest perfect for babies. Used only for 3months. \n\nAn endearing nursery play gym that is fun, playful, and imaginative for little ones. A perfect first activity aid that feeds your baby's natural, inborn curiosity while developing attention span and focus, building the foundation blocks to problem-solving and critical thinking that stays with them through later years.",
@@ -3337,16 +3385,6 @@
       "location": "Bishan, Ang Mo Kio",
       "validTill": "29 Jan 2022",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103081",
-      "name": "Children Boys used clothes in good condition from size 90-110 to be given away. About 50 pieces.",
-      "description": "Pre-loved boys clothes worn few times only. Good for 3-4 years old . From pants to T-shirts, socks, button shirt, long sleeves.",
-      "location": null,
-      "validTill": "29 Jan 2022",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4041,16 +4079,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "102792",
-      "name": "coffee maker",
-      "description": "almost new.  seldom use.",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "13 Jan 2022",
-      "ageInYears": 2,
-      "dimensions": "10\" 6.5\" 13\"",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "102374",
       "name": "Wooden study table",
       "description": "Study table/dining table with wooden table top laminate and black legs - very sturdy",
@@ -4078,36 +4106,6 @@
       "validTill": "12 Jan 2022",
       "ageInYears": 2,
       "dimensions": "3*2*3",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102326",
-      "name": "Arm Chair",
-      "description": "In good condition, hardly used. Hopefully, someone staying in the west can benefit from this item.",
-      "location": "Jurong",
-      "validTill": "11 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102324",
-      "name": "Computer desk and chair",
-      "description": "Used computer and multipurpose desk with accompanying chair.  Both are used and chair cover is worn but still functional.",
-      "location": "Kranji, Woodgrove",
-      "validTill": "11 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "140cm x 80cm x 75cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102302",
-      "name": "Walking Frame",
-      "description": "Walking frame - foldable and height adjustable.",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "11 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     }
   ]
