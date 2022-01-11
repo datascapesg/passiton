@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "103659",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is a single mother with a 18 year old son attending ITE, client had a heart condition that she just completed operation for. She works part-time owing to her heart condition. Client reports that her washing machines is in poor condition and requires a new machine. Your help is most appreciated! :)",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Loh Lai Sum",
+        "email": "lsloh@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Jan 2022"
+    },
+    {
       "id": "103652",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -29,23 +46,6 @@
         "email": "fsceast@ppis.sg",
         "phone": [
           "69503503"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "11 Jan 2022"
-    },
-    {
-      "id": "103642",
-      "category": "Electrical Home Appliances",
-      "name": "Electric Kettle",
-      "description": "Client and husband experience financial constraint to replace the stove and hence request for an electric kettle. They also have health problems that impede on their ability to secure financial stability.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Simranjit Kaur",
-        "email": "simranjit.kaur@montfortcare.org.sg",
-        "phone": [
-          "63254753"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -593,6 +593,24 @@
       "date": "13 Dec 2021"
     },
     {
+      "id": "103661",
+      "category": "Infant and Children Items",
+      "name": "Pedisasure Milk (Strawberry)",
+      "description": "A family of 6 is living in rental flat. Client's eldest son requires to drink pediasure milk powder as doctor advise due to health issues.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Yew Tee",
+        "name": "Fu Xiu Ting",
+        "email": "fuxiuting@fycs.org",
+        "phone": [
+          "64162186",
+          "64162162"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Jan 2022"
+    },
+    {
       "id": "103658",
       "category": "Infant and Children Items",
       "name": "Pram",
@@ -1096,23 +1114,6 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "11 Jan 2022"
-    },
-    {
-      "id": "103627",
-      "category": "Home Furnishing",
-      "name": "Double size bed and mattress",
-      "description": "Single mother of 1 just got allocated a 1 room HDB rental flat and requires assistance with furniture/ household items. Unable to accommodate queen size due to space constraints.",
-      "specifications": "Double size",
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Krishna Kumar",
-        "email": "krishna@thkmc.org.sg",
-        "phone": [
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Jan 2022"
     },
     {
       "id": "103618",
@@ -1929,6 +1930,16 @@
   ],
   "offers": [
     {
+      "id": "103660",
+      "name": "Electronic bed",
+      "description": "Electronic bed with supersingle detached hard mattress. Good for patients who need aided mobility without feeling the use of a hospital bed",
+      "location": "Yishun, Sembawang",
+      "validTill": "10 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "103653",
       "name": "Office chair",
       "description": "Functional chair still in good condition",
@@ -2026,16 +2037,6 @@
       "validTill": "09 Feb 2022",
       "ageInYears": 3,
       "dimensions": "196 cm x 101 cm x 48 cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103634",
-      "name": "ARA 3-DOOR SWING WARDROBE WITH SHELVING",
-      "description": "Material(s): Engineered Wood\nFrame Structure: Engineered Wood",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "23 Jan 2022",
-      "ageInYears": 1,
-      "dimensions": "Dimensions: L123 x D43.5 x H180 cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
