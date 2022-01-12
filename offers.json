@@ -1,5 +1,25 @@
 [
   {
+    "id": "103715",
+    "name": "Fax machine",
+    "description": "Fax machine from Brother",
+    "location": "Raffles Place, Cecil, Marina, People's Park",
+    "validTill": "11 Feb 2022",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "103714",
+    "name": "Queen-Sized Bedframe and Mattress",
+    "description": "Item was meant for guest room and so was hardly used and has been kept clean.",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "11 Feb 2022",
+    "ageInYears": 2,
+    "dimensions": "Queen-Sized",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "103696",
     "name": "White Leather Sofa",
     "description": "White leather sofa from childcare centre.\nDarkening of leather due to use but is in otherwise good condition.",
@@ -7,16 +27,6 @@
     "validTill": "14 Jan 2022",
     "ageInYears": 2,
     "dimensions": "177cm x 86cm x 66cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103695",
-    "name": "Brown leather sofa",
-    "description": "Brown leather sofa from childcare centre. \nLightly used and in good condition.",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "14 Jan 2022",
-    "ageInYears": 1,
-    "dimensions": "176cm x 85.5cm x 65 cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -60,16 +70,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "103690",
-    "name": "Single Bed with drawers",
-    "description": "Single bed with storage drawers below.",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "10 Feb 2022",
-    "ageInYears": 4,
-    "dimensions": "195 cm X 98 cm X 46 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "103683",
     "name": "Table, drop leaf",
     "description": "Foldable table that is fixed on the wall. Dimensions in photo. BNIB, never unpacked. For details, look up Norbo from Ikea.",
@@ -97,16 +97,6 @@
     "validTill": "31 Jan 2022",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103679",
-    "name": "Sofa bed",
-    "description": "Constructed with a wooden internal structure and made with a polyurethane foam cushion, Lacel Sofa Bed is upholstered in good quality fabric. With its comfortable seats, you can lean back with ease while watching your favourite television show and easily convert it to a sofa bed when your nap time beckons.",
-    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-    "validTill": "10 Feb 2022",
-    "ageInYears": 1,
-    "dimensions": "179.50 X 108 X 45",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -427,16 +417,6 @@
     "validTill": "08 Feb 2022",
     "ageInYears": 3,
     "dimensions": "19 x 9 x 2 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103584",
-    "name": "Casual Ts for Teenage Boys",
-    "description": "T Shirts for teenage boys aged 14 to 18. In good condition",
-    "location": "Watten Estate, Novena, Thomson",
-    "validTill": "20 Jan 2022",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1160,6 +1140,16 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
+    "id": "103711",
+    "name": "TV console",
+    "description": "TV console",
+    "location": "Watten Estate, Novena, Thomson",
+    "validTill": "04 Feb 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "103597",
     "name": "Leather Sofa",
     "description": "Sofa in very good condition. Can double up as sofa bed as backrest can be adjusted. Pet and smoke-free environment.",
@@ -1176,16 +1166,6 @@
     "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
     "validTill": "03 Feb 2022",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103366",
-    "name": "Queen size Bed Frame",
-    "description": "Solid wood queen size bed frame\nBrand new",
-    "location": "Jurong",
-    "validTill": "03 Feb 2022",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
