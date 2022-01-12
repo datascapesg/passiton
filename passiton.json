@@ -1449,23 +1449,6 @@
       "date": "12 Jan 2022"
     },
     {
-      "id": "103739",
-      "category": "Home Furnishing",
-      "name": "Dining Table for 3",
-      "description": "Our client is experiencing homelessness and was residing at a S3P shelter for the past 6-7 months. \nHe has received his keys for his rental flat in Dec 2021. However, due to the financial situation (i.e. getting a new full-time job with the new housing stability), he would require support for basic household items to support his family's shift into the new rental flat.\nThank you.",
-      "specifications": "Dining Table for 3",
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "amychua@mws.sg",
-        "phone": [
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Jan 2022"
-    },
-    {
       "id": "103738",
       "category": "Home Furnishing",
       "name": "Queen Size Mattress With Bed Frame (Brand New Preferred)",
@@ -1530,23 +1513,6 @@
         "phone": [
           "65536643",
           "64535349"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Jan 2022"
-    },
-    {
-      "id": "103727",
-      "category": "Home Furnishing",
-      "name": "sofa bed/ sofa (3-seater)",
-      "description": "56YO elderly male with skin condition and mobility issues. He is unable to work due to health issues and the sofa bed would improve the hygiene and provide better quality of life for him.",
-      "specifications": "Length 200 X 86 X 90 (cm)",
-      "contact": {
-        "org": "MWS Covenant Family Service Centre - Hougang",
-        "name": "Chan Jun Ren",
-        "email": "chanjunren@mws.sg",
-        "phone": [
-          "62828558"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1969,23 +1935,6 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "16 Dec 2021"
-    },
-    {
-      "id": "103734",
-      "category": "Others",
-      "name": "Smart Mobile Phone 4G",
-      "description": "Client is a senior living in the Jurong East area. Client has a strained relationship with family. Therefore, he depends on himself for everything. Client is hoping to get a Smart Phone as his mobile phone had some issues. Client has difficulty hearing people on the phone with his current mobile.",
-      "specifications": "N/A",
-      "contact": {
-        "org": "SACS Anglican Cluster Operator @ Jurong East",
-        "name": "Hui Nai Xiang",
-        "email": "naixiang_hui@sacs.org.sg",
-        "phone": [
-          "62621183"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Jan 2022"
     },
     {
       "id": "103717",
@@ -2501,26 +2450,29 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "10 Jan 2022"
-    },
-    {
-      "id": "103737",
-      "category": "Kitchen Utility Items",
-      "name": "2 Burners Gas Stove (Using Govt Gas)",
-      "description": "Our client is experiencing homelessness and was residing at a S3P shelter for the past 6-7 months. \nHe has received his keys for his rental flat in Dec 2021. However, due to the financial situation (i.e. getting a new full-time job with the new housing stability), he would require support for basic household items to support his family's shift into the new rental flat.\nThank you",
-      "specifications": "2 Burners Gas Stove (Using Govt Gas)",
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "amychua@mws.sg",
-        "phone": [
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Jan 2022"
     }
   ],
   "offers": [
+    {
+      "id": "103746",
+      "name": "Huggies Baby wet wipes",
+      "description": "Brand new, unopened Huggies baby wet wipes. Please take note the expiry date till 22 March 2022.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "31 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103745",
+      "name": "Nippon Matter Paint",
+      "description": "7 litres unopened tin of emulsion paint. New. Colour - Light Beige. Looks white. Use for walls or ceiling.",
+      "location": "Telok Blangah, Harbourfront",
+      "validTill": "11 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": "7 litres",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103696",
       "name": "White Leather Sofa",
@@ -4219,16 +4171,6 @@
       "validTill": "27 Jan 2022",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102982",
-      "name": "King size bedframe",
-      "description": "Pine king sized bedframe w/o mattress",
-      "location": "Yishun, Sembawang",
-      "validTill": "27 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "2m x 2m",
       "deliveryCostsCoveredByDonor": true
     },
     {
