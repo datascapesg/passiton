@@ -1,5 +1,22 @@
 [
   {
+    "id": "103699",
+    "category": "Electrical Home Appliances",
+    "name": "2 door fridge",
+    "description": "Low income family with 6 children. 6 children are all in primary school or kindergarten and attend school regularly. The fridge in their home has spoilt, and they require a new fridge for their daily necessities. Financial resources are tight in this family, and hence they are not able to purchase one for themselves.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Cheng San",
+      "name": "Jio Hui Zhen",
+      "email": "jiohuizhen@amkfsc.org.sg",
+      "phone": [
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "12 Jan 2022"
+  },
+  {
     "id": "103659",
     "category": "Electrical Home Appliances",
     "name": "Washing Machine",
@@ -626,24 +643,6 @@
     "date": "11 Jan 2022"
   },
   {
-    "id": "103675",
-    "category": "Infant and Children Items",
-    "name": "Newborn Baby Items",
-    "description": "Client, aged 18, single mum and staying at her parents' house with her two-year-old daughter and a new born baby boy. Client is unemployed and from low income family. Donation of items for new born would be greatly appreciated, e.g. Baby cot, Stroller, Clothes, Baby carrier, Diapers",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Jurong",
-      "name": "Nathan Hou",
-      "email": "nathanhou@thkmc.org.sg",
-      "phone": [
-        "88554795",
-        "67169466"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Jan 2022"
-  },
-  {
     "id": "103669",
     "category": "Infant and Children Items",
     "name": "Diaperes",
@@ -1098,6 +1097,24 @@
     "date": "13 Dec 2021"
   },
   {
+    "id": "103697",
+    "category": "Home Furnishing",
+    "name": "Single mattress with bedframe",
+    "description": "Needy family in need of a replacement single size mattress and bedframe.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Jurong",
+      "name": "Nathan Hou",
+      "email": "nathanhou@thkmc.org.sg",
+      "phone": [
+        "88554795",
+        "67169466"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Jan 2022"
+  },
+  {
     "id": "103670",
     "category": "Home Furnishing",
     "name": "Single Mattress",
@@ -1109,23 +1126,6 @@
       "email": "jesslynphua@goodnews.org.sg",
       "phone": [
         "65812159"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Jan 2022"
-  },
-  {
-    "id": "103654",
-    "category": "Home Furnishing",
-    "name": "Queen size bed with storage space and mattress",
-    "description": "Clt has 3 young children and 1 infant. 3 of the children have special needs and ezcema as well. They are living in 3 rm HDB and lack storage space. The old bed is spoilt and the family is looking for bed with storage space.",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner Family Service Centre - Tampines",
-      "name": "Yvette Lau",
-      "email": "tm.vce@carecorner.org.sg",
-      "phone": [
-        "67866225"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -1495,6 +1495,40 @@
     },
     "deliveryCostsCoveredByDonor": false,
     "date": "16 Dec 2021"
+  },
+  {
+    "id": "103700",
+    "category": "Others",
+    "name": "Groceries",
+    "description": "Client is  a father of two, and is undergoing a divorce, and also facing more than one medical procedures within this month.\nAs he is a self-employed taxi driver, during his recovery period, he would not be able to earn any income, and would run into difficulties meeting his basic needs, and taking care of his children.\n\nAs such, client would benefit from fresh rations such as fresh meat and whole foods which are nutritious for his recovery and for his children.\n\nGrocery list:\nFresh Meat -3kg (chicken, fish)\nRice - 10kg,\nCondiments(salt, pepper, soy sauce)\nCooking oil - 1 litre,\nBiscuits/Crackers,\nBread and spread (butter and jam),\nDiapers\nMilk (ISOMIL stage 3 & FRISOGOLD stage 4)\nSoap & Shampoo\nToothpaste\nToilet rolls.",
+    "specifications": "2 weeks supply",
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Sengkang",
+      "name": "Lyndon Mathews",
+      "email": "lyndonmathews@amkfsc.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Jan 2022"
+  },
+  {
+    "id": "103698",
+    "category": "Others",
+    "name": "TENA PROskin Pants Unisex Adult Diapers XL",
+    "description": "Client is an elderly widow with no children. She has multiple medical conditions, including an autoimmune disease. She is wheelchair-bound, and requires diapers at night, as well as when she goes for her rehab sessions and medical appointments.",
+    "specifications": "Size XL - 4 packs (2 months' supply)",
+    "contact": {
+      "org": "St. Hilda's Community Services Centre",
+      "name": "Jaime Yeo Min",
+      "email": "jaime.yeo@sthildascsc.org.sg",
+      "phone": [
+        "63450054"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Jan 2022"
   },
   {
     "id": "103677",
