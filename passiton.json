@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "103798",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "A front-load washing machine is needed for an elderly who has no means to purchase her own. She has been hand washing for many years but her age is catching up for her to continue do so. Sponsorship of delivery is appreciated \nas well.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Josherine Toh",
+        "email": "josherinetoh@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "13 Jan 2022"
+    },
+    {
       "id": "103776",
       "category": "Electrical Home Appliances",
       "name": "Standing fan",
@@ -735,6 +752,23 @@
       "date": "13 Dec 2021"
     },
     {
+      "id": "103795",
+      "category": "Infant and Children Items",
+      "name": "Dumex Dugro Stage 3",
+      "description": "Low income family of 4 young children require Dumex Dugro Stage 3. Wife is expecting a child and spouse has health complications. Help for the family is greatly appreciated! Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Simranjit Kaur",
+        "email": "simranjit.kaur@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "13 Jan 2022"
+    },
+    {
       "id": "103794",
       "category": "Infant and Children Items",
       "name": "XXL Diaper Pants",
@@ -949,23 +983,6 @@
       "name": "Drypers Drypants XXL",
       "description": "Family of four requires assistance with diapers. Mother has resigned her job to focus solely on the caregiving of her young infant and 8 year old daughter diagnosed with Autism. Father is suffering from a chronic illness and is presently on No Pay Leave.",
       "specifications": "XXL",
-      "contact": {
-        "org": "Autism Association (Singapore)",
-        "name": "Nurul Nadiah",
-        "email": "nurul.nadiah@autism-association.org.sg",
-        "phone": [
-          "65925627"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "11 Jan 2022"
-    },
-    {
-      "id": "103685",
-      "category": "Infant and Children Items",
-      "name": "Drypers S Size",
-      "description": "Family of four requires diapers for infant child (est 4 months old). Mother has resigned her job to focus solely on the caregiving of her young infant and 8 year old daughter diagnosed with Autism. Father is suffering from a chronic illness and is presently on No Pay Leave.",
-      "specifications": "Size S",
       "contact": {
         "org": "Autism Association (Singapore)",
         "name": "Nurul Nadiah",
@@ -1849,6 +1866,24 @@
       "date": "21 Dec 2021"
     },
     {
+      "id": "103797",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Please WhatsApp Debera at 8855 3078 during office hours or email to deberatan@thkmc.org.sg to liaise. Client is a single mother to her 7-year-old son. Client is currently unemployed but attending courses to upgrade her skills so that she can get a better paying job after. Recently, client received a good news that she has been shortlisted for the Management Trainee program. As her laptop has stopped working, she had to resort to using her phone to go for the courses. However, some assignments requires client to use a laptop instead. This caused client to have to reschedule some of her courses and will eventually decrease her efficiency and motivation to work to earn money for her family.",
+      "specifications": "NA",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Navarraj",
+        "email": "navarraj@thkmc.org.sg",
+        "phone": [
+          "64961278",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Jan 2022"
+    },
+    {
       "id": "103772",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -2594,6 +2629,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "27 Dec 2021"
+    },
+    {
+      "id": "103796",
+      "category": "Mobility Aids",
+      "name": "Battery: 2PK 12V 55AH",
+      "description": "Please WhatsApp Debera at 8855 3078 during office hours or email to deberatan@thkmc.org.sg to liaise. Client is a single mother to three children aged 11, 12 and 20. Client has diabetes and chronic asthma which causes her to be unable to work. Client's 20-year-old daughter works to support the family. Client relies greatly on a Personal Mobility Aid (PMA) to move around as she has persistent giddiness and propensity to faint. Any form of injury to her body arising from a fall may potentially be life-threatening. Currently, she already has a PMA but needs battery replacement as current one is going very slow and might spoil soon.",
+      "specifications": "NA",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Navarraj",
+        "email": "navarraj@thkmc.org.sg",
+        "phone": [
+          "64961278",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Jan 2022"
     },
     {
       "id": "103762",
@@ -4525,16 +4578,6 @@
       "validTill": "27 Jan 2022",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102973",
-      "name": "Fabric 3-seater sofa",
-      "description": "Still in good condition. \nself collection, unable to cover the delivery costs. \n\nFabric are all removable for washing.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "20 Jan 2022",
-      "ageInYears": 3,
-      "dimensions": "Size: W210 x D89 x H71cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
