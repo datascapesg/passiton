@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "103778",
-      "category": "Electrical Home Appliances",
-      "name": "Standing fan",
-      "description": "Client is single mother working as food stall assistant who requires a standing fan in good working condition. The household has 2 fans that are near faulty and client is worried about the safety hazard it poses if they continue using the fan.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Muhammad Redha Bin Ahmad Razif",
-        "email": "redhamuhammad@carecorner.org.sg",
-        "phone": [
-          "64761481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "13 Jan 2022"
-    },
-    {
       "id": "103776",
       "category": "Electrical Home Appliances",
       "name": "Standing fan",
@@ -1414,6 +1397,24 @@
       "date": "13 Dec 2021"
     },
     {
+      "id": "103792",
+      "category": "Home Furnishing",
+      "name": "Dining Table",
+      "description": "Client is a single mother and is diagnosed with depression. She is currently unemployed. Client and daughter recently secured a rental unit and will benefit from pre-loved furniture as they have financial issues. \n\nDue to financial constraint, would appreciate that delivery fee to be covered by donor.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Yong Jia Chiu",
+        "email": "yongjiachiu@amkfsc.org.sg",
+        "phone": [
+          "64535349",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Jan 2022"
+    },
+    {
       "id": "103786",
       "category": "Home Furnishing",
       "name": "Pillows",
@@ -1490,23 +1491,6 @@
       "name": "2 Sets Of Pillows & Bolsters",
       "description": "Our client is experiencing homelessness and was residing at a S3P shelter for the past 6-7 months. \nHe has received his keys for his rental flat in Dec 2021. However, due to the financial situation (i.e. getting a new full-time job with the new housing stability), he would require support for basic household items to support his family's shift into the new rental flat.\nThank you.",
       "specifications": "2 Sets Of Pillows & Bolsters",
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "amychua@mws.sg",
-        "phone": [
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Jan 2022"
-    },
-    {
-      "id": "103740",
-      "category": "Home Furnishing",
-      "name": "2-3 Seater Sofa",
-      "description": "Our client is experiencing homelessness and was residing at a S3P shelter for the past 6-7 months. \nHe has received his keys for his rental flat in Dec 2021. However, due to the financial situation (i.e. getting a new full-time job with the new housing stability), he would require support for basic household items to support his family's shift into the new rental flat.\nThank you.",
-      "specifications": "2-3 Seater Sofa",
       "contact": {
         "org": "MWS Family Service Centre - Yishun",
         "name": "Amy Chua",
@@ -2736,6 +2720,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "103791",
+      "name": "Cabinet",
+      "description": "One metal cabinet\nOne wooden cabinet \nBoth in good conditions",
+      "location": "Raffles Place, Cecil, Marina, People's Park",
+      "validTill": "12 Feb 2022",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103789",
       "name": "King size mattress",
