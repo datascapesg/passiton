@@ -787,6 +787,40 @@
       "date": "13 Dec 2021"
     },
     {
+      "id": "103787",
+      "category": "Infant and Children Items",
+      "name": "Diapers (Drypers XL Size)",
+      "description": "Family of 7, in financial hardship, can benefit from assistance for the 5 children. Items: Diapers (Drypers XL Size for 2 kids) Fresh/Flavoured Milk (milk box) Please contact me if you require additional information, thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Adil Matin Bin Mohd Ramlan",
+        "email": "adilmatin@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Jan 2022"
+    },
+    {
+      "id": "103783",
+      "category": "Infant and Children Items",
+      "name": "Diapers Drypants Size XXL",
+      "description": "Family has 5 children. Client's husband is the sole breadwinner of the family, earning $1600/month. The family struggle to have their basic needs met. Client would require diapers for her 2 young children.\n\nDiapers Drypants Size XXL",
+      "specifications": null,
+      "contact": {
+        "org": "Whispering Hearts Family Service Centre",
+        "name": "Emerald Chua",
+        "email": "emerald@viriya.org.sg",
+        "phone": [
+          "67951008"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "13 Jan 2022"
+    },
+    {
       "id": "103777",
       "category": "Infant and Children Items",
       "name": "Milk Powder",
@@ -1433,18 +1467,18 @@
       "date": "13 Dec 2021"
     },
     {
-      "id": "103775",
+      "id": "103786",
       "category": "Home Furnishing",
-      "name": "Dining Table",
-      "description": "Client is a single mother and is diagnosed with depression. She is currently unemployed. Client and daughter recently secured a rental unit and will benefit from pre-loved furniture as they have financial issues. \n\nDue to financial constraint, would appreciate that delivery fee to be covered by donor.",
-      "specifications": null,
+      "name": "Pillows",
+      "description": "Family staying in a rental flat and on financial assistance requires 5 sets of preferable new pillows (hygiene purposes). Current pillows are old and thin, are uncomfortable when sleeping.",
+      "specifications": "normal cotton/polyester pillows",
       "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Yong Jia Chiu",
-        "email": "yongjiachiu@amkfsc.org.sg",
+        "org": "NTUC Health Cluster Support @ Bukit Merah",
+        "name": "Nurul Ashikin Binte Samsuri",
+        "email": "ashikin.s@ntuchealth.sg",
         "phone": [
-          "64535349",
-          "64578559"
+          "88175763",
+          "62741602"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2041,6 +2075,23 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "16 Dec 2021"
+    },
+    {
+      "id": "103781",
+      "category": "Others",
+      "name": "Tena Diapers",
+      "description": "Family needs supply of diapers as mum has a diagnosis of mental health condition. It will aid the family alot in terms of their financial status. The diapers needed is the normal ones with the tape and not the pull-up pants",
+      "specifications": "XL (127cm - 157cm)",
+      "contact": {
+        "org": "Fei Yue Community Services - Mental Health",
+        "name": "Nicole Tan",
+        "email": "tanlitingnicole@fycs.org",
+        "phone": [
+          "64712022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "13 Jan 2022"
     },
     {
       "id": "103768",
@@ -2738,6 +2789,56 @@
     }
   ],
   "offers": [
+    {
+      "id": "103788",
+      "name": "Hospital Bed",
+      "description": "Full Electric Bed.\nWorking Condition.\nProblem with the right side handle (cannot be kept upright but can use strings to secure)",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "12 Feb 2022",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103785",
+      "name": "Playpen",
+      "description": "There are 4 panels at 120cm each. And extra panel at 240cm to make the playpen 240x120cm. The playpen has imperfections but still functional. Some of the metal screws has rust but usually we cover it with a cloth or tape.\n\nFeel free to ask for more pix via whatsapp.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "12 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": "120x120x120cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103784",
+      "name": "Study Table",
+      "description": "1. White table with black leg - Study table\n2. Dark Brown table can be used as study table/ dining table (1.6m x 1m)\n3. Adjustable height table (from Ikea)\n\nAll in good condition. Donating it away as I have too many tables at home. Bought on impulse",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "12 Feb 2022",
+      "ageInYears": 3,
+      "dimensions": "1.6m x 1m x 0.6m",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103782",
+      "name": "Dining chairs.  4",
+      "description": "Well used and well taken care of dining chairs x4 \nCushion in good condition\nHas chair cover for protection since purchased",
+      "location": "Jurong",
+      "validTill": "25 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103780",
+      "name": "Hospital Bed",
+      "description": "Hi-Lo, back, knee rest function adjustable via remote handset \nPlastic ABS 4 pcs side rails \nDetachable plastic ABS head and footboard with crashworthy bumpers on all corners \nCentral locking mechanism \n4 x 125mm diameter castors with full swivel",
+      "location": "Kranji, Woodgrove",
+      "validTill": "12 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": "83.5” (L) X 38.2” (W) X 17.7\" MIN – 27.6” MAX (H) X 125kg (Weight)",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103779",
       "name": "Baby Cot",
