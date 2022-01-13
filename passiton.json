@@ -87,24 +87,6 @@
       "date": "13 Jan 2022"
     },
     {
-      "id": "103744",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Elderly client living alone in rental flat without washing machine has to squat for prolonged periods to hand wash her clothes which causes dizziness and bodily discomfort. Having a washing machine would be of great help.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Jurong",
-        "name": "Nathan Hou",
-        "email": "nathanhou@thkmc.org.sg",
-        "phone": [
-          "88554795",
-          "67169466"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Jan 2022"
-    },
-    {
       "id": "103736",
       "category": "Electrical Home Appliances",
       "name": "6-7kg Washing Machine",
@@ -188,23 +170,6 @@
         "phone": [
           "64961278",
           "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Jan 2022"
-    },
-    {
-      "id": "103704",
-      "category": "Electrical Home Appliances",
-      "name": "vacuum cleaner",
-      "description": "Client is a single mum and takes care of an autistic child. She has financial issues as she could not work full-time due to caregiving of child.",
-      "specifications": null,
-      "contact": {
-        "org": "Serangoon Moral Family Service Centre",
-        "name": "Muhammad Al-Hakim",
-        "email": "hakim@smfsc.org.sg",
-        "phone": [
-          "62847123"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2843,6 +2808,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "103805",
+      "name": "2022 calendar, 1-day/2-day type.",
+      "description": "Delivery on weekday evening and weekend.",
+      "location": "Geylang, Eunos",
+      "validTill": "31 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103804",
+      "name": "Baby cot",
+      "description": "Babies rarely use the cot for their sleep. Mattress in good condition.",
+      "location": null,
+      "validTill": "06 Feb 2022",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103803",
       "name": "Single bed with thick mattress",
