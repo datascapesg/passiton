@@ -1,5 +1,35 @@
 [
   {
+    "id": "103759",
+    "name": "Walking frame",
+    "description": "As good as new walking frame.",
+    "location": "Seletar",
+    "validTill": "12 Feb 2022",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "103757",
+    "name": "Black out curtains off white",
+    "description": "Off white black out curtains. Heavy duty. \nShields off 65% of sunlight.\nNeeds to run on rail\nCan’t be washed in a domestic washing machine",
+    "location": "Seletar",
+    "validTill": "12 Feb 2022",
+    "ageInYears": 4,
+    "dimensions": "75” x 95”",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "103754",
+    "name": "Black out curtains",
+    "description": "Heavy duty blackout curtains, brown. Shields off 95% sunlight. Cannot be washed in the domestic washing machine. \nRuns on rail. Needs to install rail",
+    "location": "Seletar",
+    "validTill": "12 Feb 2022",
+    "ageInYears": 4,
+    "dimensions": "64”x95.5”",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "103751",
     "name": "Evo-9 Radio with Remote Control",
     "description": "This is a functional radio with remote control.",
@@ -50,26 +80,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "103746",
-    "name": "Huggies Baby wet wipes",
-    "description": "Brand new, unopened Huggies baby wet wipes. Please take note the expiry date till 22 March 2022.",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "31 Jan 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103745",
-    "name": "Nippon Matter Paint",
-    "description": "7 litres unopened tin of emulsion paint. New. Colour - Light Beige. Looks white. Use for walls or ceiling.",
-    "location": "Telok Blangah, Harbourfront",
-    "validTill": "11 Feb 2022",
-    "ageInYears": 1,
-    "dimensions": "7 litres",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "103696",
     "name": "White Leather Sofa",
     "description": "White leather sofa from childcare centre.\nDarkening of leather due to use but is in otherwise good condition.",
@@ -87,16 +97,6 @@
     "validTill": "16 Jan 2022",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103693",
-    "name": "3 burner cooker hob (HDB gas)",
-    "description": "Cooker hob is in good working condition. Sorry for the late notice. My new cooker hob will be delivered on 13 Jan 3pm-6pm so please let me know before 3pm on 13 Jan. I will pay for the collection and installation fee if it is not more than $30.",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "13 Jan 2022",
-    "ageInYears": 3,
-    "dimensions": "D510 x W870 x H45 / cut-out D420 x W870 x H45",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -447,16 +447,6 @@
     "validTill": "08 Feb 2022",
     "ageInYears": 4,
     "dimensions": "80x50x45 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103582",
-    "name": "Dining table with 4 chairs (1 set)",
-    "description": "Dining chair:\nTested for: 110 kg\nWidth: 42 cm\nDepth: 49 cm\nHeight: 85 cm\n\nTable is about 118cm x 74cm",
-    "location": null,
-    "validTill": "31 Jan 2022",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -997,16 +987,6 @@
     "validTill": "16 Jan 2022",
     "ageInYears": 4,
     "dimensions": "See picture",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103439",
-    "name": "High End Dinning Table",
-    "description": "Donation of a good high-end dinner table.",
-    "location": "Orchard, Cairnhill, River Valley",
-    "validTill": "13 Jan 2022",
-    "ageInYears": 4,
-    "dimensions": "L 130 x W 85cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1626,16 +1606,6 @@
     "location": "Serangoon Garden, Hougang, Ponggol",
     "validTill": "15 Jan 2022",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103090",
-    "name": "TV cabinet",
-    "description": "used but in good condition and well maintained",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "29 Jan 2022",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -2287,26 +2257,6 @@
     "validTill": "14 Jan 2022",
     "ageInYears": 3,
     "dimensions": "1.2m x 0.6m x 1.2m",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "102425",
-    "name": "Hospital bed frame",
-    "description": "Only the bed frame, no bed",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "13 Jan 2022",
-    "ageInYears": 4,
-    "dimensions": "about 200 cm x 100 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "102422",
-    "name": "TOYS - HELLO KITTY ETC",
-    "description": "hello kitty - MacDonald collection range, partial.",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "13 Jan 2022",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
 ]
