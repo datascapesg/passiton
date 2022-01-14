@@ -1378,6 +1378,40 @@
       "date": "15 Dec 2021"
     },
     {
+      "id": "103812",
+      "category": "Home Furnishing",
+      "name": "Queen-sized Mattress",
+      "description": "Client is a divorcee supporting her 4 school-going children. She is not receiving any maintenance from her ex-husband. Client and children are financial reliant on financial assistance rendered to them. As the family is requesting for a queen-sized bed, they are also seeking for a queen-sized mattress. For further liaison on delivery address etc, do contact me at 98598768, thank you very much.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (East)",
+        "name": "Nur Afrina",
+        "email": "fsceast@ppis.sg",
+        "phone": [
+          "69503503"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Jan 2022"
+    },
+    {
+      "id": "103811",
+      "category": "Home Furnishing",
+      "name": "Queen-sized Bed",
+      "description": "Client is a divorcee supporting her 4 school-going children. She is not receiving any maintenance from her ex-husband. Client and children are financial reliant on financial assistance rendered to them. As the family does not have any bed at the moment, family is requesting assistance for any available queen-sized to be donated to them. For further liaison on delivery address etc, do contact me at 98598768, thank you very much.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (East)",
+        "name": "Nur Afrina",
+        "email": "fsceast@ppis.sg",
+        "phone": [
+          "69503503"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Jan 2022"
+    },
+    {
       "id": "103792",
       "category": "Home Furnishing",
       "name": "Dining Table",
@@ -1793,6 +1827,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "21 Dec 2021"
+    },
+    {
+      "id": "103814",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Client is currently unemployed and is faced with financial issues. She is on SSO Comcare assistance and is in need of a laptop so that she can work from home as the previous laptop she has is spoilt. Interested donors kindly contact janetlim@carecorner.org.sg. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Admiralty",
+        "name": "Juanna Sia",
+        "email": null,
+        "phone": [
+          "63658751"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Jan 2022"
     },
     {
       "id": "103797",
@@ -2722,6 +2773,16 @@
   ],
   "offers": [
     {
+      "id": "103813",
+      "name": "Compact Fold Bedrail",
+      "description": "Safety 1st Compact Fold Portable Bedrail suitable for children from 18 months to 5 years (maximum weight 22 kg). Folded Size: 63 (l) x 7 (w) x 42 (h) cm. Has a small hole in the mesh but does not affect function.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "21 Jan 2022",
+      "ageInYears": 3,
+      "dimensions": "106 (l) x 37 (w) x 42.5 (h) cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "103810",
       "name": "Convertible Infant Cot / Children's Bed",
       "description": "Silvercross Nostalgia range convertible cot / children's bed. Item is already disassembled. \nPhotos displayed are from the website, there are some blemishes on the actual item (small scratch marks, pain discolouration)",
@@ -2762,16 +2823,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103806",
-      "name": "Rice Cooker 1.8L Morries",
-      "description": "Used 2 times.Cleaned thoroughly and stored away in dry cool space. Almost new.",
-      "location": "Watten Estate, Novena, Thomson",
-      "validTill": "13 Feb 2022",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103805",
       "name": "2022 calendar, 1-day/2-day type.",
       "description": "Delivery on weekday evening and weekend.",
@@ -2799,16 +2850,6 @@
       "validTill": "25 Jan 2022",
       "ageInYears": 4,
       "dimensions": "92 x 188cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103802",
-      "name": "LG tv",
-      "description": "LG smart tv. Connect by lan cable. Wifi not working.",
-      "location": null,
-      "validTill": "31 Jan 2022",
-      "ageInYears": 3,
-      "dimensions": "110cm by 63cm by 22cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3665,7 +3706,7 @@
       "id": "103521",
       "name": "Super-single mattress",
       "description": "Still in good condition.",
-      "location": "Tampines, Pasir Ris",
+      "location": "Pasir Ris",
       "validTill": "05 Feb 2022",
       "ageInYears": 3,
       "dimensions": "190cm x 107cm",
