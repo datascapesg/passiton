@@ -1,6 +1,41 @@
 {
   "requests": [
     {
+      "id": "103897",
+      "category": "Electrical Home Appliances",
+      "name": "Shower Heater",
+      "description": "The family is in need of the shower heater and installation. The existing heater was mal-functioned. Kindly contact us at dik@childrensociety.org.sg for more details. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Peng Hui",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Jan 2022"
+    },
+    {
+      "id": "103896",
+      "category": "Electrical Home Appliances",
+      "name": "Vacuum Cleaner",
+      "description": "Client is a single mother of 5 children and the sole breadwinner of the family. They recently moved into their new flat and is in need of a vacuum cleaner as she does not have the finances to purchase one.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Annabel Dass",
+        "email": "annabeldass@fycs.org",
+        "phone": [
+          "69783483",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Jan 2022"
+    },
+    {
       "id": "103833",
       "category": "Electrical Home Appliances",
       "name": "Water Heater",
@@ -377,24 +412,6 @@
         "email": "khairunisa.rusli@ppis.sg",
         "phone": [
           "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 Dec 2021"
-    },
-    {
-      "id": "100551",
-      "category": "Electrical Home Appliances",
-      "name": "1x Front Load Washing Machine",
-      "description": "Single father raising a child with special needs. Urgently in need of 1x Front Load Washing Machine. Appreciate for delivery to be arranged and covered by donor to client house. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Mindy Choo",
-        "email": "mindychoo@fycs.org",
-        "phone": [
-          "89078297",
-          "68199170"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1025,23 +1042,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "13 Jan 2022"
-    },
-    {
-      "id": "103728",
-      "category": "Infant and Children Items",
-      "name": "XXL Diapers (tape - drypers)",
-      "description": "Low income family with 5 children (primary school and kindergarten going children). Father is employed and has a low salary due to his citizenship status (on LTVP). Mother is looking for employment to support the household income. Family has limited financial resources and have difficulties meeting the needs of their two youngest children. Hence, they require practical support to tide through this tough period while mother is looking for a new job.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Jio Hui Zhen",
-        "email": "jiohuizhen@amkfsc.org.sg",
-        "phone": [
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "12 Jan 2022"
     },
     {
       "id": "103720",
@@ -2266,6 +2266,26 @@
   ],
   "offers": [
     {
+      "id": "103898",
+      "name": "UV Sterilizer with Timer - New Item not Used",
+      "description": "I have a few units of UV Sterilizer suitable for use in sterilizing face masks or equipment to give away. These are new units and ideal for families with many people and where the repeated purchase of disposable face masks may be prohibitive.\n\nThese are proper units with a safety feature to shut off when the lid is open.  It has a big enough capacity to put in small soft toys to sterilize.",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "28 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": "Box is 40.5x25.5x21cm / Item is about 36x23x15cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103895",
+      "name": "Ikea Single Bed",
+      "description": "Use single ikea bed.\nA few repaired cracks on the side, reinforced with screws.",
+      "location": "Seletar",
+      "validTill": "16 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "103894",
       "name": "Severin Baking and Toaster Oven",
       "description": "Emaculate condition. Used a handful of times. Donating it because I’m moving.",
@@ -2626,16 +2646,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103854",
-      "name": "Washing machine 10kg",
-      "description": "LG washing machine. Front load. 10kg. Still in good condition. Got another machine so did not want to dispose this away as still in good working condition.",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "01 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103853",
       "name": "Grey sofa (cloth) with striped pillow backing",
       "description": "2 seater sofar that is still in good condition but due to work from home table taking up space, it has been move to spare room and not used anymore. Pillow backing is still firm and fluffed.\nThe only issue is the cloth lining at the base of sofa has disintegrated some, but it does not affect stability/comfort or function of sofa",
@@ -2653,16 +2663,6 @@
       "validTill": "25 Jan 2022",
       "ageInYears": 2,
       "dimensions": "Table 120 x 60cm, bench fits the table",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103851",
-      "name": "6ft pool table-cum-dining table",
-      "description": "Pool table that can be converted to dining table. (2 cue sticks plus balls will be included.) Suitable for community clubs, or use at home. Need to clear by end Jan 2022. Will pay for transportation. Item is heavy.",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-      "validTill": "04 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": "188 x 106 x 80",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -2883,16 +2883,6 @@
       "validTill": "13 Feb 2022",
       "ageInYears": 4,
       "dimensions": "210cm by 140cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103807",
-      "name": "Old 32 inch LCD TV",
-      "description": "Old 32inch LCD TV (~12years) with new universal remote. Working condition, slight discoloration at bottom of screen (see pic). Need digital antennae to view mediacorp channels.",
-      "location": "Jurong",
-      "validTill": "13 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
