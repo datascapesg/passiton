@@ -1,5 +1,55 @@
 [
   {
+    "id": "103931",
+    "name": "Bean Bag-Grey",
+    "description": "Grey- 2 tones",
+    "location": "Yishun, Sembawang",
+    "validTill": "16 Feb 2022",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "103930",
+    "name": "Mistral Standing Fan",
+    "description": "Standing Fan- 3 speeds",
+    "location": "Yishun, Sembawang",
+    "validTill": "16 Feb 2022",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "103929",
+    "name": "Wooden Bench",
+    "description": "Please see dimensions in attached file.\nA little white paint “accident” otherwise item is as good as new.",
+    "location": "Yishun, Sembawang",
+    "validTill": "16 Feb 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "103928",
+    "name": "Dining table and chairs",
+    "description": "Glass top teak dining table with 6 chairs",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "16 Feb 2022",
+    "ageInYears": 4,
+    "dimensions": "Diameter 120 cm * height 80cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "103925",
+    "name": "dark wood table",
+    "description": "rubber tree (sustainable wood) dining/study  table\nwith small water mark on the top",
+    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+    "validTill": "20 Jan 2022",
+    "ageInYears": 4,
+    "dimensions": "114 x 72 x 92 cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "103915",
     "name": "Hip Van Sofa Bed",
     "description": "Good condition. Sofa compact and opens out easily into a single bed. Used it for nanny during confinement.",
@@ -40,16 +90,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "103899",
-    "name": "Single Bed Wooden Frame + Mattress",
-    "description": "Solid timber bed frame with single mattress",
-    "location": "Macpherson, Braddell",
-    "validTill": "29 Jan 2022",
-    "ageInYears": 4,
-    "dimensions": "196cm (L) x 98cm (W) x 79cm (H)",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "103895",
     "name": "Ikea Single Bed",
     "description": "Use single ikea bed.\nA few repaired cracks on the side, reinforced with screws.",
@@ -66,16 +106,6 @@
     "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
     "validTill": "01 Feb 2022",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103891",
-    "name": "Dining table set with 4 chairs",
-    "description": "Teak wood dining table with glass top\nAnd 4 chairs upholstered",
-    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-    "validTill": "21 Jan 2022",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -300,16 +330,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "103863",
-    "name": "3-seater sofa",
-    "description": "In good condition.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "30 Jan 2022",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "103862",
     "name": "Custom Made TV Console - 185cm Length, Wood Top",
     "description": "This is a white custom TV counsel we purchased through custo.co about 1.5 years ago.\n\n185 cm length, 38 depth and 43 height. \n\nUntil 6 months ago it was unused. We recently started organising it and realised it no longer fits the layout for our house.\n\nWe had planned for it to be a multiple purpose console to sit and work with a laptop on the floor, etc...\n\nIt is well built and heavy - plywood + laminate and polished plywood. The shelves and drawer are removable. There isn't backing for the 3 open shelves as we expected to have cables running around.",
@@ -347,16 +367,6 @@
     "validTill": "14 Feb 2022",
     "ageInYears": 4,
     "dimensions": "125x65x100",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103857",
-    "name": "Clothes for teenage boys",
-    "description": "Short sleeves shorts, bermudas and jeans for slim teenager aged 12 to 16. In very good condition",
-    "location": "Watten Estate, Novena, Thomson",
-    "validTill": "21 Jan 2022",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -420,16 +430,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "103847",
-    "name": "Infrared cooker, soup pot, grill pan",
-    "description": "Items have been used less than 4 times. Unfortunately, its non-halal. I can provide more photos if need be. The mookata grill set will\nnot be included thou its stated on the box.",
-    "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
-    "validTill": "13 Feb 2022",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "103846",
     "name": "2 King size mattresses",
     "description": "Mattresses in gd condition",
@@ -460,32 +460,12 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "103841",
-    "name": "Wall fan",
-    "description": "Wall fan for self collection",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "13 Feb 2022",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "103840",
     "name": "Honeywell air cooler",
     "description": "Functional air cooler for self collection",
     "location": "Tampines, Pasir Ris",
     "validTill": "13 Feb 2022",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103839",
-    "name": "Full size mirror",
-    "description": "Approximate 120cm length wall mirror for self collection",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "13 Feb 2022",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -500,32 +480,12 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "103837",
-    "name": "IKEA plastic storage",
-    "description": "Roomy ikea storage for self collection",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "13 Feb 2022",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "103836",
     "name": "Plastic hangers",
     "description": "Assorted hangers for self collection",
     "location": "Tampines, Pasir Ris",
     "validTill": "01 Feb 2022",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103835",
-    "name": "Queen bed with frame",
-    "description": "Queen size bed. Please arrange for own transportation",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "13 Feb 2022",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -680,16 +640,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "103780",
-    "name": "Hospital Bed",
-    "description": "Hi-Lo, back, knee rest function adjustable via remote handset \nPlastic ABS 4 pcs side rails \nDetachable plastic ABS head and footboard with crashworthy bumpers on all corners \nCentral locking mechanism \n4 x 125mm diameter castors with full swivel",
-    "location": "Kranji, Woodgrove",
-    "validTill": "12 Feb 2022",
-    "ageInYears": 4,
-    "dimensions": "83.5” (L) X 38.2” (W) X 17.7\" MIN – 27.6” MAX (H) X 125kg (Weight)",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "103779",
     "name": "Baby Cot",
     "description": "Donating baby cot since we no longer need it. The cot is well used but still in good condition and comes with wheels.",
@@ -777,16 +727,6 @@
     "validTill": "31 Jan 2022",
     "ageInYears": 4,
     "dimensions": "60 x60 x60cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103691",
-    "name": "Student's Desk, Lamp and Chair",
-    "description": "Desk (with small shelfing below), Desk Lamp and a swiwel chair",
-    "location": "Jurong",
-    "validTill": "10 Feb 2022",
-    "ageInYears": 2,
-    "dimensions": "100 x 60",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1420,16 +1360,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "103462",
-    "name": "Electric Hospital  Bed",
-    "description": "Comes with table",
-    "location": "Woodlands ",
-    "validTill": "31 Jan 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "103460",
     "name": "Dresser table",
     "description": "Dresser table from Picket & Rail",
@@ -1927,16 +1857,6 @@
     "validTill": "30 Jan 2022",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103139",
-    "name": "Cabinet",
-    "description": "Brown 8 shelves display caninet with 4 doors",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "28 Jan 2022",
-    "ageInYears": 4,
-    "dimensions": "H173cm x L83cm x D30cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
