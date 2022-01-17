@@ -1,6 +1,112 @@
 {
   "requests": [
     {
+      "id": "103908",
+      "category": "Electrical Home Appliances",
+      "name": "Water Heater",
+      "description": "Client has no water heater at home and was advised by her physiotherapist to soak her back under hot water to loosen her muscles for her health condition. She is unable to afford a water heater as family is under financial assistance and the bulk of their assistance goes to their day-to-day expenses.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "17 Jan 2022"
+    },
+    {
+      "id": "103907",
+      "category": "Electrical Home Appliances",
+      "name": "Induction Cooker",
+      "description": "Low-income client in his 60s will be moving into his new rental flat with a housing partner. They would both greatly appreciate an induction cooker to help in their cooking of meals.",
+      "specifications": null,
+      "contact": {
+        "org": "New Hope Community Services - TP@MD",
+        "name": "Amanda Soo",
+        "email": "amanda@newhopecs.org.sg",
+        "phone": [
+          "91190180",
+          "9119n0180"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Jan 2022"
+    },
+    {
+      "id": "103906",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Low-income client in his 60s will be moving into his new rental flat with a housing partner. They would both greatly appreciate a washing machine to furnish the home.",
+      "specifications": null,
+      "contact": {
+        "org": "New Hope Community Services - TP@MD",
+        "name": "Amanda Soo",
+        "email": "amanda@newhopecs.org.sg",
+        "phone": [
+          "91190180",
+          "9119n0180"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Jan 2022"
+    },
+    {
+      "id": "103904",
+      "category": "Electrical Home Appliances",
+      "name": "Rice Cooker",
+      "description": "A single mother caring for her son & grandchild requires a rice cooker. Her current rice cooker is spoilt.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Jane Antony",
+        "email": "jane@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Jan 2022"
+    },
+    {
+      "id": "103903",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Low-income client in his 60s will be moving into his new rental flat with a housing partner. They would both greatly appreciate a refrigerator to help in furnishing the home.",
+      "specifications": null,
+      "contact": {
+        "org": "New Hope Community Services - TP@MD",
+        "name": "Amanda Soo",
+        "email": "amanda@newhopecs.org.sg",
+        "phone": [
+          "91190180",
+          "9119n0180"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Jan 2022"
+    },
+    {
+      "id": "103902",
+      "category": "Electrical Home Appliances",
+      "name": "Rice Cooker",
+      "description": "Low-income client in his 60s will be moving into his new rental flat with a housing partner. They would both greatly appreciate a rice cooker to help in their cooking of meals.",
+      "specifications": null,
+      "contact": {
+        "org": "New Hope Community Services - TP@MD",
+        "name": "Amanda Soo",
+        "email": "amanda@newhopecs.org.sg",
+        "phone": [
+          "91190180",
+          "9119n0180"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Jan 2022"
+    },
+    {
       "id": "103897",
       "category": "Electrical Home Appliances",
       "name": "Shower Heater",
@@ -974,6 +1080,40 @@
       "date": "21 Dec 2021"
     },
     {
+      "id": "101446",
+      "category": "Leisure and Healthy Lifestyle",
+      "name": "Ebike Battery",
+      "description": "A family of 3 with a 3yo child is requesting for an ebike battery. The current ebike battery does not last them very long. The battery that they are looking for is the Zebra Ebike 10AH Battery.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Jane Antony",
+        "email": "jane@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Jan 2022"
+    },
+    {
+      "id": "103602",
+      "category": "Leisure and Healthy Lifestyle",
+      "name": "Adult Bicycle + 2x children bicycles with training wheels",
+      "description": "Client is the sole breadwinner of her family, with 6 children, and is currently undergoing a divorce. She is front-line worker in a hospital, and has little time to spend with her children due to her job responsibilities. 4 of her children who are under 7 years old have voiced out that they want to learn cycling, and she would like to bring them out to learn cycling as a family bonding activity. She currently do not own any bicycles of her own, and hence would like to request for one adult bicycle of her own, and at least 2 children bicycle with training wheels for her children to share.",
+      "specifications": "Adult Bicycle should fit a lady",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Lyndon Mathews",
+        "email": "lyndonmathews@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Jan 2022"
+    },
+    {
       "id": "103822",
       "category": "Infant and Children Items",
       "name": "GROW Toddler Stage 3 Milk Powder",
@@ -1565,6 +1705,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "03 Jan 2022"
+    },
+    {
+      "id": "103905",
+      "category": "Others",
+      "name": "Request of food ration and  household items",
+      "description": "Requesting halal food rations and household items for needy families who may not have money to buy food and household items due to financial issues\n\nRice - 5kg x 10 \nInstant Noodle - Packet - 20 packets / Cup - 20 cups\nHalal canned food - 20 cans\nSpaghetti sauce - 15 bottles / Pasta (Eg: Spaghetti) - 500g x 15\nMilo (sachet) - 15/pack x 10\nBiscuit (assorted) - 20 packets / Cereal - 10 boxes\n\nShampoo x 10 / Soap x 10\n(Toothbrush – 5 pack) x 10 / Toothpaste - 10",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Max Hong",
+        "email": "maxhong@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Jan 2022"
     },
     {
       "id": "103834",
@@ -2245,26 +2402,49 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "27 Dec 2021"
-    },
-    {
-      "id": "103602",
-      "category": "Leisure and Healthy Lifestyle",
-      "name": "Adult Bicycle + 2x children bicycles with training wheels",
-      "description": "Client is the sole breadwinner of her family, with 6 children, and is currently undergoing a divorce. She is front-line worker in a hospital, and has little time to spend with her children due to her job responsibilities. 4 of her children who are under 7 years old have voiced out that they want to learn cycling, and she would like to bring them out to learn cycling as a family bonding activity. She currently do not own any bicycles of her own, and hence would like to request for one adult bicycle of her own, and at least 2 children bicycle with training wheels for her children to share.",
-      "specifications": "Adult Bicycle should fit a lady",
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Lyndon Mathews",
-        "email": "lyndonmathews@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Jan 2022"
     }
   ],
   "offers": [
+    {
+      "id": "103910",
+      "name": "Baby Rocker",
+      "description": "Manual rocker.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "16 Feb 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103909",
+      "name": "Baby Chair",
+      "description": "Baby chair for toddlers.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "16 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103900",
+      "name": "Baby stroller ( used but clean and sanitized)",
+      "description": "Used but clean and sanitized.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "16 Feb 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103899",
+      "name": "Single Bed Wooden Frame + Mattress",
+      "description": "Solid timber bed frame with single mattress",
+      "location": "Macpherson, Braddell",
+      "validTill": "29 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": "196cm (L) x 98cm (W) x 79cm (H)",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103898",
       "name": "UV Sterilizer with Timer - New Item not Used",
@@ -2283,16 +2463,6 @@
       "validTill": "16 Feb 2022",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103894",
-      "name": "Severin Baking and Toaster Oven",
-      "description": "Emaculate condition. Used a handful of times. Donating it because I’m moving.",
-      "location": "Anson, Tanjong Pagar",
-      "validTill": "05 Feb 2022",
-      "ageInYears": 2,
-      "dimensions": "42 × 51.5 × 36.5 cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -2383,16 +2553,6 @@
       "validTill": "15 Feb 2022",
       "ageInYears": 1,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103883",
-      "name": "Two side tables",
-      "description": "Two side tables with drawers all 50cm in height, width, and length. Still in great condition. Very minor signs of use.",
-      "location": "Anson, Tanjong Pagar",
-      "validTill": "15 Feb 2022",
-      "ageInYears": 1,
-      "dimensions": "50 x 50 x 50",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -2846,16 +3006,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103813",
-      "name": "Compact Fold Bedrail",
-      "description": "Safety 1st Compact Fold Portable Bedrail suitable for children from 18 months to 5 years (maximum weight 22 kg). Folded Size: 63 (l) x 7 (w) x 42 (h) cm. Has a small hole in the mesh but does not affect function.",
-      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-      "validTill": "21 Jan 2022",
-      "ageInYears": 3,
-      "dimensions": "106 (l) x 37 (w) x 42.5 (h) cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103810",
       "name": "Convertible Infant Cot / Children's Bed",
       "description": "Silvercross Nostalgia range convertible cot / children's bed. Item is already disassembled. \nPhotos displayed are from the website, there are some blemishes on the actual item (small scratch marks, pain discolouration)",
@@ -2903,16 +3053,6 @@
       "validTill": "06 Feb 2022",
       "ageInYears": 3,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103803",
-      "name": "Single bed with thick mattress",
-      "description": "Very good condition bed frame & thick mattress, as good as new. Super comfortable king koil mattress.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "25 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "92 x 188cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3223,16 +3363,6 @@
       "validTill": "28 Jan 2022",
       "ageInYears": 2,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103645",
-      "name": "musical toy drums for toddlers",
-      "description": "Fisher price toys",
-      "location": null,
-      "validTill": "28 Feb 2022",
-      "ageInYears": 1,
-      "dimensions": "10cm &amp; 15 cm in length",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -4086,16 +4216,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103229",
-      "name": "Breastfeeding essentials",
-      "description": "Steam sterilizer, nursing cover, Medela swing single pump and portable bottle warmer. Prefer to bless first time needy mum as a bundle.",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "01 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103225",
       "name": "Teak Study Table",
       "description": "Teak study table (no longer needed). Slight discolouration spots on top right hand corner but otherwise in very good condition. Large table space for working, sturdy material.",
@@ -4452,16 +4572,6 @@
       "location": "Geylang, Eunos",
       "validTill": "27 Jan 2022",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102990",
-      "name": "Bottle warmer",
-      "description": "Bottle warmer. Only used for a year. Good condition. Complimentary nursing pads and milk storage bags.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "27 Jan 2022",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
