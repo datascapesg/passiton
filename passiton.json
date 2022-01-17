@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "103912",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "Single mother with a school-going daughter requires a washing machine in good condition as theirs has spoilt. She is working part-time and is unable to afford a new washing machine.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Lim Yi Xi",
+        "email": "yixi@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Jan 2022"
+    },
+    {
+      "id": "103911",
+      "category": "Electrical Home Appliances",
+      "name": "Standing fan",
+      "description": "Single mother with a school-going daughter requires a standing fan as theirs has spoilt. She is working part-time and is unable to afford a new standing fan.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Lim Yi Xi",
+        "email": "yixi@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Jan 2022"
+    },
+    {
       "id": "103908",
       "category": "Electrical Home Appliances",
       "name": "Water Heater",
@@ -662,6 +696,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "21 Dec 2021"
+    },
+    {
+      "id": "103913",
+      "category": "Home Furnishing",
+      "name": "Queen-sized mattress and bed frame (metal with space for storage underneath)",
+      "description": "Single mother with a school-going daughter requires a queen-sized bed frame and mattress. She is working part-time job but unable to afford a new bed frame and mattress. \n\nDue to the size of the flat she prefers a metal bed frame, with space for storage underneath. Donations that do not fit the description will be declined. Thank you!",
+      "specifications": "Queen size",
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Lim Yi Xi",
+        "email": "yixi@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Jan 2022"
     },
     {
       "id": "103832",
