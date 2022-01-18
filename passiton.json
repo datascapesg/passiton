@@ -1,6 +1,57 @@
 {
   "requests": [
     {
+      "id": "103970",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is unemployed due to medical condition. She was unable to secure stable employment previously due to ongoing medical issues. She is certified unfit for work for 6 months w.e.f. 15/10/2021. Client has just shifted to her new 1-room rental flat. Due to financial difficulties and limited financial resources, she is unable to afford the purchase of some household items and will benefit from donation. Client is unable to afford transportation fees.",
+      "specifications": "Top load, 9kg",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Ang Bi Xia",
+        "email": "angbixia@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Jan 2022"
+    },
+    {
+      "id": "103969",
+      "category": "Electrical Home Appliances",
+      "name": "Table fan",
+      "description": "Client is a 65 year man living alone in a one-room HDB rental unit. He is not engaged in work due to his health conditions and dialysis thrice a week. He relies on comcare assistance every month to support his living. He shares that the unit he's staying in is warm as is closer to the ground, and would like to have a table fan. Thanks!",
+      "specifications": null,
+      "contact": {
+        "org": "NTUC Health Cluster Support - Taman Jurong",
+        "name": "Evelyn Tan",
+        "email": "huiling.t@ntuchealth.sg",
+        "phone": [
+          "62674197"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "18 Jan 2022"
+    },
+    {
+      "id": "103964",
+      "category": "Electrical Home Appliances",
+      "name": "Standing Fan",
+      "description": "Our client is experiencing homelessness and was residing at a S3P shelter for the past 6-7 months. \nHe has received his keys for his rental flat in Dec 2021. However, due to the financial situation (i.e. getting a new full-time job with the new housing stability), he would require support for basic household items to support his family's shift into the new rental flat.\nThank you.",
+      "specifications": "Standing Fan",
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Jan 2022"
+    },
+    {
       "id": "103959",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -147,23 +198,6 @@
       "category": "Electrical Home Appliances",
       "name": "Washing machine",
       "description": "Single mother with a school-going daughter requires a washing machine in good condition as theirs has spoilt. She is working part-time and is unable to afford a new washing machine.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Lim Yi Xi",
-        "email": "yixi@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Jan 2022"
-    },
-    {
-      "id": "103911",
-      "category": "Electrical Home Appliances",
-      "name": "Standing fan",
-      "description": "Single mother with a school-going daughter requires a standing fan as theirs has spoilt. She is working part-time and is unable to afford a new standing fan.",
       "specifications": null,
       "contact": {
         "org": "South Central Community FSC Ltd",
@@ -944,23 +978,6 @@
       "date": "12 Jan 2022"
     },
     {
-      "id": "103738",
-      "category": "Home Furnishing",
-      "name": "Queen Size Mattress With Bed Frame (Brand New Preferred)",
-      "description": "Our client is experiencing homelessness and was residing at a S3P shelter for the past 6-7 months. \nHe has received his keys for his rental flat in Dec 2021. However, due to the financial situation (i.e. getting a new full-time job with the new housing stability), he would require support for basic household items to support his family's shift into the new rental flat.\nThank you.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "amychua@mws.sg",
-        "phone": [
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Jan 2022"
-    },
-    {
       "id": "103735",
       "category": "Home Furnishing",
       "name": "Paints For House",
@@ -1272,17 +1289,35 @@
       "date": "10 Jan 2022"
     },
     {
-      "id": "103954",
+      "id": "103967",
       "category": "Infant and Children Items",
-      "name": "Diapers and Milk Powder",
-      "description": "Family of 4, mother had difficulty finding jobs due to covid-19. Currently working on employment plans with me. Family low-income, require assistance for diapers and milk powder for this month.\n\n\nITEM 1: Diaper \nXL Sized - PULL UP (need 3 packs)\nNo specific brands.\n\nITEM 2: Dugro Stage 3\n- 2 boxes only\n\nThanks!",
+      "name": "Milk Powder & Diapers",
+      "description": "Family of 4 is living in a 3-room flat. Client is the main caregiver to her 3-years-old daughter who suffers from eczema, as well as an elderly mother with chronic illness, who underwent toe amputation before due to poorly-controlled diabetes. Client has not been able to work due to her caregiving duties and that family is in a tight financial situation. She is needing assistance for these items: Isomil Plus (for 1 to 10 years old) and MamyPoko Pull-Ups Pants Size: XL (extra dry skin) for daughter's eczema issues. For delivery address etc, do contact me at 98598768, thank you very much.",
       "specifications": null,
       "contact": {
-        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
-        "name": "Quek Liu Ting",
-        "email": "quekliuting@amkfsc.org.sg",
+        "org": "PPIS Family Service Centre (East)",
+        "name": "Nur Afrina",
+        "email": "fsceast@ppis.sg",
         "phone": [
-          "64535349"
+          "69503503"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Jan 2022"
+    },
+    {
+      "id": "103966",
+      "category": "Infant and Children Items",
+      "name": "Milk and Diapers for newborn",
+      "description": "Single young mother who just gave birth and is currently unable to work due to caregiving. Needs Huggies Diapers (Newborn JB Size) and Dulac Formula Step 1 milk.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Julia Ao",
+        "email": "juliaao@fycs.org",
+        "phone": [
+          "66901006",
+          "66901000"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2405,6 +2440,23 @@
       "date": "24 Dec 2021"
     },
     {
+      "id": "103968",
+      "category": "Medical Aids",
+      "name": "Blood Pressure Machine",
+      "description": "Client is a 65 year man living alone in a one-room HDB rental unit. He has multiple chronic medical conditions and is undergoing dialysis thrice a week. He has to monitor his blood pressure frequently due to his medical conditions but the current machine is faulty and he hopes for a working set that can assist him to monitor his health. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "NTUC Health Cluster Support - Taman Jurong",
+        "name": "Evelyn Tan",
+        "email": "huiling.t@ntuchealth.sg",
+        "phone": [
+          "62674197"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "18 Jan 2022"
+    },
+    {
       "id": "103952",
       "category": "Medical Aids",
       "name": "Tena Diaper Size M",
@@ -2706,6 +2758,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "103965",
+      "name": "Preloved baby infant clothes",
+      "description": "Self collection for the baby girl infant clothes. ALL GOOD CONDITIONS!",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "17 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103963",
+      "name": "Glass table dining",
+      "description": "Full set with 4 chairs",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "21 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": "160 by 80cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103962",
       "name": "Study Table/ Console Table",
@@ -4454,16 +4526,6 @@
       "validTill": "30 Jan 2022",
       "ageInYears": 4,
       "dimensions": "48cm x 42cm x 102cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103159",
-      "name": "School shoes",
-      "description": "Brand new school shoes.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "30 Jan 2022",
-      "ageInYears": 1,
-      "dimensions": "Size 7",
       "deliveryCostsCoveredByDonor": true
     },
     {
