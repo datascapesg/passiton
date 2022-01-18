@@ -876,18 +876,18 @@
       "date": "21 Dec 2021"
     },
     {
-      "id": "103987",
+      "id": "103989",
       "category": "Home Furnishing",
-      "name": "Single bed and mattress",
-      "description": "Client is an elderly man with mobility issues. he is unemployed. His bed was recently found to have bedbugs and requires a new single bed and mattress.",
+      "name": "Foldable Mattress/Tilam",
+      "description": "For a family with 4 young children sharing a bed together. Since the room is small, parents wish for the bed to be foldable.",
       "specifications": null,
       "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Charmaine Pang",
-        "email": "charmaine.pang@montfortcare.org.sg",
+        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
+        "name": "Muhammad Farhan",
+        "email": "muhammadfarhan@amkfsc.org.sg",
         "phone": [
-          "63254116",
-          "63254753"
+          "64511252",
+          "64535349"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2777,23 +2777,6 @@
       "date": "27 Dec 2021"
     },
     {
-      "id": "103946",
-      "category": "Mobility Aids",
-      "name": "Foldable Wheelchair",
-      "description": "Hi there, I have a low income family of 5 is requesting for a small wheel foldable wheelchair for her 80 year old father with multiple medical conditions.Thanks in advance.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Low Yiing Jia",
-        "email": "jialow@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Jan 2022"
-    },
-    {
       "id": "103800",
       "category": "Mobility Aids",
       "name": "Rollator Walker",
@@ -2824,23 +2807,6 @@
         "phone": [
           "64961278",
           "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Jan 2022"
-    },
-    {
-      "id": "103762",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "An elderly male known to Thye Hua Kwan Moral Charities (THKMC) has requested for a new wheelchair as his current one is spoilt. Please kindly take note that the fees for the delivery needs to be borne by donor. Pls kindly contact May at 83686286 if you are keen to help this elderly. We appreciate if the donor can arrange for delivery directly to the elderly's home at Blk 34 Jalan Bukit Ho Swee #08-862 S(160034). For more information on THKMC, pls visit: https://www.thkmc.org.sg",
-      "specifications": null,
-      "contact": {
-        "org": "THK Cluster Support @ Bukit Merah",
-        "name": "Lee Wee May",
-        "email": "leeweemay@thkmc.org.sg",
-        "phone": [
-          "69242951"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2954,6 +2920,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "103992",
+      "name": "Washer Heater 25L",
+      "description": "https://www.bathroom.com.sg/ariston-inox-aa-specification/",
+      "location": "Jurong",
+      "validTill": "12 Feb 2022",
+      "ageInYears": 3,
+      "dimensions": "485 x 367 x 392 mm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103991",
+      "name": "Philips steriliser, 0.8L kettle, backpack, icepack, drying organiser,storage bags",
+      "description": "1. Philips steriliser had been heavily used but there’s still alot of shelf life. Stains are as shown and cant be removed even with regular maintenance. \n2. Drying organiser has a small part that was cracked due to dismantling at one point of usage. Otherwise, very steady to hold items. \n3. Kettle had been used less than 5times.\n4. Backpack was used twice and washed.",
+      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
+      "validTill": "17 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "103990",
+      "name": "Water heater 25L",
+      "description": "https://www.ariston.com/en-sg/products/electric-water-heaters/storage/andris-r-sg/",
+      "location": "Jurong",
+      "validTill": "12 Feb 2022",
+      "ageInYears": 2,
+      "dimensions": "360 x 360 x 318 mm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "103988",
       "name": "Avent Baby food Blender & Steamer",
