@@ -1,5 +1,15 @@
 [
   {
+    "id": "103943",
+    "name": "Soft  toys",
+    "description": "1 small carton full of soft toys for kids different ages.",
+    "location": "Telok Blangah, Harbourfront",
+    "validTill": "27 Jan 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "103942",
     "name": "Impact School Bag",
     "description": "Impact school bag. Good for primary school usage.",
@@ -157,26 +167,6 @@
     "validTill": "22 Jan 2022",
     "ageInYears": 4,
     "dimensions": "190 cm x 134 cDm x 66 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103888",
-    "name": "Lazy Mop",
-    "description": "-Less use\n-still good condition\n-with box",
-    "location": "Yishun, Sembawang",
-    "validTill": "18 Jan 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103887",
-    "name": "Standing Fan",
-    "description": "Good condition, used around 1 years only\n\nSelf collect before 18/Jan",
-    "location": "Yishun, Sembawang",
-    "validTill": "18 Jan 2022",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -717,16 +707,6 @@
     "validTill": "12 Feb 2022",
     "ageInYears": 4,
     "dimensions": "64”x95.5”",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103751",
-    "name": "Evo-9 Radio with Remote Control",
-    "description": "This is a functional radio with remote control.",
-    "location": "Kranji, Woodgrove",
-    "validTill": "18 Jan 2022",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -2346,46 +2326,6 @@
     "location": "Balestier, Toa Payoh, Serangoon",
     "validTill": "19 Jan 2022",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "102635",
-    "name": "Training potty seat",
-    "description": "Well maintained, sanitised, light weight.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "18 Jan 2022",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "102629",
-    "name": "Bed with another pull out bed below",
-    "description": "Super single bed (without mattress) with another pull out bed below. Slight damage to bed - below the mattress there are some wooden boards and planks. One of the planks is warped or bent.",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "18 Jan 2022",
-    "ageInYears": 3,
-    "dimensions": "202 x 102 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "102623",
-    "name": "Study table with two drawers",
-    "description": "Study table with two drawers- minor scratches.",
-    "location": null,
-    "validTill": "18 Jan 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "102620",
-    "name": "Lego Toys",
-    "description": "Lego toys for small children. It has train tracks and train as well.",
-    "location": null,
-    "validTill": "18 Jan 2022",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
