@@ -1709,23 +1709,6 @@
       "date": "11 Jan 2022"
     },
     {
-      "id": "103644",
-      "category": "Infant and Children Items",
-      "name": "Milk - Lactogen 3: 3 Tins",
-      "description": "Family has 5 young children, with parents currently experiencing employment instability, and therefore affecting their capacity to provide basic needs to the children.",
-      "specifications": "3 Tins",
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Fernandez Mark Anthony",
-        "email": "markfernandez@amkfsc.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "11 Jan 2022"
-    },
-    {
       "id": "101634",
       "category": "Infant and Children Items",
       "name": "Diapers",
@@ -2914,6 +2897,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "104057",
+      "name": "Wooden Dinning Table with 6 seats",
+      "description": "Well kept & seldom use wooden dinning table with 6 seats",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "25 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": "160cmL x 90cmW x 75cmH",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "104056",
       "name": "Hospital bed (Almost new)",
