@@ -895,6 +895,23 @@
       "date": "21 Dec 2021"
     },
     {
+      "id": "104019",
+      "category": "Home Furnishing",
+      "name": "Double decker bed",
+      "description": "Low income family requires a double-decker bed to maximise space in very cramped conditions (one-room flat). Adult son has intellectual disability, mother is currently not working, and daughter is schooling, hence they cannot afford this on their own.",
+      "specifications": null,
+      "contact": {
+        "org": "MINDS - Community Forensic Services",
+        "name": "Ella Tan",
+        "email": "ella.tan@minds.org.sg",
+        "phone": [
+          "93573778"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jan 2022"
+    },
+    {
       "id": "103989",
       "category": "Home Furnishing",
       "name": "Foldable Mattress/Tilam",
@@ -1448,24 +1465,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "18 Jan 2022"
-    },
-    {
-      "id": "103923",
-      "category": "Infant and Children Items",
-      "name": "Drypers Drypantz XL",
-      "description": "Family has 2 school-going children. My client, 7yo, is attending AWWA School @ Napiri and is dependent in all activities of daily living. Mother follows him to school as the mandatory caregiver and takes care of him 24/7. My client requires 3 packs drypers drypantz per month. It would be good if donor is willing to be a long-term donor (6 months to 1 year). Father is unable to work due to medical issues and family relies on SSO monthly handouts to get by. Please contact me for more information.",
-      "specifications": "12-17kg",
-      "contact": {
-        "org": "AWWA School",
-        "name": "Zhang Ciyun Ruby",
-        "email": "ruby_zhang@awwa.org.sg",
-        "phone": [
-          "65117666",
-          "65115280"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Jan 2022"
     },
     {
       "id": "103822",
@@ -2956,6 +2955,16 @@
   ],
   "offers": [
     {
+      "id": "104018",
+      "name": "IKEA CHILDREN EXTENDABLE BED",
+      "description": "https://www.ikea.com/sg/en/p/busunge-extendable-bed-white-50351340/",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "28 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "104017",
       "name": "Refrigerator",
       "description": "Working Condition",
@@ -4309,16 +4318,6 @@
       "id": "103487",
       "name": "Geriatric Chair",
       "description": "Non-reclining, with only 2 wheels at the 2 back legs.",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "05 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103483",
-      "name": "Hospital Bed with Mattress - Electronic",
-      "description": "All in good working condition.",
       "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
       "validTill": "05 Feb 2022",
       "ageInYears": 4,
