@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "104066",
+      "category": "Electrical Home Appliances",
+      "name": "Philips Blender",
+      "description": "Low income family of single mom with four young children is requesting for Philips Blender as her current blender is faulty. Help for the family is greatly appreciated!",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Simranjit Kaur",
+        "email": "simranjit.kaur@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Jan 2022"
+    },
+    {
       "id": "104061",
       "category": "Electrical Home Appliances",
       "name": "Induction cooker",
@@ -577,23 +594,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "11 Jan 2022"
-    },
-    {
-      "id": "103641",
-      "category": "Electrical Home Appliances",
-      "name": "Fridge",
-      "description": "Low income family with a young school going child needs a working fridge. Their current fridge has broken down and they had to rely on their neighbor to place their frozen food items. Father recently just started work again and is unable to repair or purchase a new fridge.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Mohd Fadil Bin Hassan",
-        "email": "mohdfadil@amkfsc.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "11 Jan 2022"
     },
     {
@@ -1378,6 +1378,23 @@
       "date": "21 Dec 2021"
     },
     {
+      "id": "104065",
+      "category": "Leisure and Healthy Lifestyle",
+      "name": "Adult Bicycle with Child Seat",
+      "description": "Family of 4 is living in a 3-room flat. Client is the main caregiver to her 3-years-old daughter who suffers from severe eczema (since birth), as well as to her elderly parents with chronic illnesses such as diabetes and hypertension. Client's elderly mother had undergone below-knee amputation last year and is now wheel-chair bound. Client has not been able to work due to her caregiving duties and that family is dependent on financial assistance. Client is requesting for any available adult bicycle with child seat to assist her in sending and fetching her daughter from school.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (East)",
+        "name": "Nur Afrina",
+        "email": "fsceast@ppis.sg",
+        "phone": [
+          "69503503"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Jan 2022"
+    },
+    {
       "id": "101446",
       "category": "Leisure and Healthy Lifestyle",
       "name": "Ebike Battery",
@@ -2038,6 +2055,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "03 Jan 2022"
+    },
+    {
+      "id": "104064",
+      "category": "Others",
+      "name": "Trolley",
+      "description": "Client is from a low-income household of four (husband, client and two children). Her husband and her are deemed medically unfit to work due to health and mental issues. They need a trolley to help them carry food rations, but are unable to afford it.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@amkfsc.org.sg",
+        "phone": [
+          "64546678ext217",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Jan 2022"
     },
     {
       "id": "104062",
@@ -2933,6 +2968,16 @@
   ],
   "offers": [
     {
+      "id": "104063",
+      "name": "Children’s clothes hangers",
+      "description": "66 children’s clothes hangers. In very good condition.",
+      "location": "Jurong",
+      "validTill": "19 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "104057",
       "name": "Wooden Dinning Table with 6 seats",
       "description": "Well kept & seldom use wooden dinning table with 6 seats",
@@ -2950,26 +2995,6 @@
       "validTill": "18 Feb 2022",
       "ageInYears": 1,
       "dimensions": "190cm x 107cm x 90cm (approx)",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104055",
-      "name": "IKEA toy storage",
-      "description": "2 IKEA toy storage sets with drawers (assortment of colours)",
-      "location": null,
-      "validTill": "18 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104054",
-      "name": "Sharp television",
-      "description": "Smart Tv with remote control",
-      "location": null,
-      "validTill": "18 Feb 2022",
-      "ageInYears": 2,
-      "dimensions": "41 inches",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -5030,16 +5055,6 @@
       "validTill": "27 Jan 2022",
       "ageInYears": 3,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103433",
-      "name": "Hardwood TV Stand",
-      "description": "Hardwood TV table/ console. \nVery heavy.\nMinor damage from delivery otherwise not visible.",
-      "location": "Yishun, Sembawang",
-      "validTill": "27 Jan 2022",
-      "ageInYears": 1,
-      "dimensions": "L159cm x D40cm x H68cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
