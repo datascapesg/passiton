@@ -35,24 +35,6 @@
       "date": "20 Jan 2022"
     },
     {
-      "id": "104061",
-      "category": "Electrical Home Appliances",
-      "name": "Induction cooker",
-      "description": "A family of 5 just got their rental flat and required some basic items. Client does not have financial to induction cooker.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Yew Tee",
-        "name": "Fu Xiu Ting",
-        "email": "fuxiuting@fycs.org",
-        "phone": [
-          "64162186",
-          "64162162"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Jan 2022"
-    },
-    {
       "id": "104059",
       "category": "Electrical Home Appliances",
       "name": "Television",
@@ -2001,23 +1983,6 @@
       "date": "13 Jan 2022"
     },
     {
-      "id": "103772",
-      "category": "Learning Aids",
-      "name": "Laptop",
-      "description": "Requesting for a laptop for a 10 year old boy so that he could have access for ZOOM as his current laptop has spoilt. \n\nHis mother has recently passed away and he is currently staying together with his father in the rental flat. Father recently started working and is earning $600/month. Family is struggling to make ends meet as mother used to be the sole breadwinner.",
-      "specifications": null,
-      "contact": {
-        "org": "Whispering Hearts Family Service Centre",
-        "name": "Emerald Chua",
-        "email": "emerald@viriya.org.sg",
-        "phone": [
-          "67951008"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "13 Jan 2022"
-    },
-    {
       "id": "103732",
       "category": "Learning Aids",
       "name": "2 laptops (can be secondhand)",
@@ -3015,6 +2980,46 @@
     }
   ],
   "offers": [
+    {
+      "id": "104103",
+      "name": "Adult diapers -Top, Nateen & Tena sz M (Pull up & Tape type",
+      "description": "Mix brands diapers Sz M",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "20 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104102",
+      "name": "Ikea PAX Wardrobe",
+      "description": "PAX wardrobe from Ikea. Very sturdy and spacious. 2nd hand. Well-used.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "28 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": "Length 204cm Height 204cm Width 70cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104101",
+      "name": "Sofa",
+      "description": "Grey L-shape sofa",
+      "location": "Jurong",
+      "validTill": "19 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": "Length - 2m",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104100",
+      "name": "Grey L-shaped Sofabed (3 seater)",
+      "description": "3-seater L-shaped sofabed. Very comfortable bed for 2 people but recommend putting a mattress protector on top for extra comfort. Slight stain but it is due to baking powder. Sturdy, solid. Would keep it if there was enough room!",
+      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+      "validTill": "30 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": "225cm x 150cm x 67cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "104099",
       "name": "Tricycle for kids",
