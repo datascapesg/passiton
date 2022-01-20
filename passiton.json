@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "104075",
+      "category": "Electrical Home Appliances",
+      "name": "Induction cooker",
+      "description": "Family with 8 children would like an induction cooker as it is safer (no open flame) and more sustainable than a gas stove for them to use for cooking.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Jan 2022"
+    },
+    {
       "id": "104066",
       "category": "Electrical Home Appliances",
       "name": "Philips Blender",
@@ -891,6 +908,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "21 Dec 2021"
+    },
+    {
+      "id": "104074",
+      "category": "Home Furnishing",
+      "name": "Wardrobe",
+      "description": "A single mother with 3 young daughters is in need of a cupboard as the back of her donated cupboard fell off. The mother is living in rental flat and supported by financial assistance.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Jan 2022"
     },
     {
       "id": "104060",
@@ -3117,16 +3151,6 @@
       "location": "Tampines, Pasir Ris",
       "validTill": "28 Jan 2022",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104031",
-      "name": "Commode on wheels",
-      "description": "Almost new, used as bath chair only",
-      "location": "Raffles Place, Cecil, Marina, People's Park",
-      "validTill": "18 Feb 2022",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
