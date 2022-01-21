@@ -368,24 +368,6 @@
       "date": "17 Jan 2022"
     },
     {
-      "id": "103903",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Low-income client in his 60s will be moving into his new rental flat with a housing partner. They would both greatly appreciate a refrigerator to help in furnishing the home.",
-      "specifications": null,
-      "contact": {
-        "org": "New Hope Community Services - TP@MD",
-        "name": "Amanda Soo",
-        "email": "amanda@newhopecs.org.sg",
-        "phone": [
-          "91190180",
-          "9119n0180"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Jan 2022"
-    },
-    {
       "id": "103897",
       "category": "Electrical Home Appliances",
       "name": "Shower Heater",
@@ -1392,6 +1374,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Jan 2022"
+    },
+    {
+      "id": "104110",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder & Diapers",
+      "description": "Grandma is the sole caregiver for his 1 y/o grandson, as the mother is currently imprisoned. Grandma has mobility issues due to her physical health. In urgent need for milk powder and diapers for grandson.\n\nMamyPoko Pants / Huggies Pants (L)\nAbbott Grow Stage 3",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Wendy Pang",
+        "email": "wendypang@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Jan 2022"
+    },
+    {
+      "id": "104108",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder & Diapers",
+      "description": "Grandma is the sole caregiver for his 1 y/o grandson, as the mother is currently imprisoned. Grandma has mobility issues due to her physical health. In urgent need for milk powder and diapers for grandson.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Wendy Pang",
+        "email": "wendypang@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Jan 2022"
     },
     {
       "id": "104092",
@@ -2981,6 +2997,36 @@
   ],
   "offers": [
     {
+      "id": "104109",
+      "name": "Queen size mattress",
+      "description": "6mth old",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "24 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104106",
+      "name": "Crate and Barrel Chaise Sofa set",
+      "description": "In a good condition.",
+      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+      "validTill": "20 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104105",
+      "name": "Bed guard",
+      "description": "Bed guard - 2m long. Suitable for children.",
+      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+      "validTill": "26 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "104103",
       "name": "Adult diapers -Top, Nateen & Tena sz M (Pull up & Tape type",
       "description": "Mix brands diapers Sz M",
@@ -3011,16 +3057,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "104100",
-      "name": "Grey L-shaped Sofabed (3 seater)",
-      "description": "3-seater L-shaped sofabed. Very comfortable bed for 2 people but recommend putting a mattress protector on top for extra comfort. Slight stain but it is due to baking powder. Sturdy, solid. Would keep it if there was enough room!",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-      "validTill": "30 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "225cm x 150cm x 67cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "104099",
       "name": "Tricycle for kids",
       "description": "In good condition. Clean",
@@ -3048,16 +3084,6 @@
       "validTill": "30 Jan 2022",
       "ageInYears": 4,
       "dimensions": "188cm x 95cm x 87cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104096",
-      "name": "Grey L-shaped Sofabed (3 seater)",
-      "description": "3-seater l-shaped sofabed. Very comfortable bed for 2 people but should have a mattress protector on top for extra comfort. Slight stain due to baking powder used to wipe up a drink. Sturdy, solid. Would keep if there was enough room!",
-      "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-      "validTill": "30 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "225cm x 150cm x 67cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3771,16 +3797,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103856",
-      "name": "Ladies' shoes",
-      "description": "Ladies' shoes for older teenager or young adult. Big Toe to heel 24cm. Eur size 37. UK 4.5 US 7. In good condition",
-      "location": "Watten Estate, Novena, Thomson",
-      "validTill": "21 Jan 2022",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103853",
       "name": "Grey sofa (cloth) with striped pillow backing",
       "description": "2 seater sofar that is still in good condition but due to work from home table taking up space, it has been move to spare room and not used anymore. Pillow backing is still firm and fluffed.\nThe only issue is the cloth lining at the base of sofa has disintegrated some, but it does not affect stability/comfort or function of sofa",
@@ -3897,16 +3913,6 @@
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "13 Feb 2022",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103821",
-      "name": "KING SIZE MATTRESS",
-      "description": "well used",
-      "location": "Yishun, Sembawang",
-      "validTill": "21 Jan 2022",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4098,16 +4104,6 @@
       "validTill": "31 Jan 2022",
       "ageInYears": 2,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103676",
-      "name": "Dining table and chairs",
-      "description": "Dining table + 4 dining chairs",
-      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
-      "validTill": "21 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "1.2m x 1.2m x 1.0m",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -4427,16 +4423,6 @@
       "location": null,
       "validTill": "25 Jan 2022",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103628",
-      "name": "Single Bed - Frame & Mattress",
-      "description": "The bed will come with 5-10 sets of bedsheet, pillow & bolster covers ( all well used condition).",
-      "location": "Kranji, Woodgrove",
-      "validTill": "21 Jan 2022",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -5388,56 +5374,6 @@
       "validTill": "22 Jan 2022",
       "ageInYears": 4,
       "dimensions": "56cm x 20cm x 48cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102784",
-      "name": "Over toilet bowl commode",
-      "description": "Toilet seat for mobile people who have difficulty getting up from normal toilet bowls. Able to fit over standard HDB toilet bowls. Pic shows toilet bowl after HDB HIP. \nSmall crack on seat that doesn't affect function or cause injury. Pic shown.\nPlease collect if possible.\nWill only deliver to area near city square mall.",
-      "location": "Little India",
-      "validTill": "21 Jan 2022",
-      "ageInYears": 2,
-      "dimensions": "57cm wide X 40cm deep X 66cm high",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102783",
-      "name": "Commode with pot & wheels (no cover)",
-      "description": "Commode without cover but with extendable footrest and removable pot.\nSome minor cracks at the backrest. Clean.\nPlease collect if possible. Will not be able to deliver.",
-      "location": "Little India",
-      "validTill": "21 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "84cm high X 53 cm wide x64cm deep",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103687",
-      "name": "Lightweight wheelchair with foldable footrest",
-      "description": "Foldable backrest and foot rest. Lightweight at about 11kg. One problem - only one brake (one on the left) can work. The other brake cannot. The handles used for pushing allows for emergency brake and both sides still function.\nPlease arrange to collect from me. If need to deliver, will deliver to only areas near city square mall. \nPlease note that one brake is not working and thus cannot park patient on a slope.",
-      "location": "Little India",
-      "validTill": "21 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "92cm X 90cm high X 51m wide",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103688",
-      "name": "Lightweight wheelchair with foldable footrest",
-      "description": "Foldable backrest and foot rest. Lightweight at about 11kg. One problem - only one brake (one on the left) can work. The other brake cannot. The handles used for pushing allows for emergency brake and both sides still function.\nPlease arrange to collect from me. If need to deliver, will deliver to only areas near city square mall. \nPlease note that one brake is not working and thus cannot park patient on a slope.",
-      "location": "Little India",
-      "validTill": "21 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "92cm X 90cm high X 51m wide",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102748",
-      "name": "Baby Cot",
-      "description": "IKEA cot and mattress. Also includes a railing padding. Bought in 2017, used for 4 years. Well maintained. There is some paint damage. Otherwise, it is in very good condition.",
-      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
-      "validTill": "21 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     }
   ]
