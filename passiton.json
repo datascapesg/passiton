@@ -2816,24 +2816,6 @@
       "date": "18 Jan 2022"
     },
     {
-      "id": "103952",
-      "category": "Medical Aids",
-      "name": "Tena Diaper Size M",
-      "description": "A client with a physical disability. He uses 3 to 4 pieces of diapers daily. He would need 2 cartons of Tena diapers size M for monthly usage.",
-      "specifications": "Tena Diaper Size M",
-      "contact": {
-        "org": "Society For The Physically Disabled (SPD)",
-        "name": "Koh Yeng Yeng",
-        "email": "koh_yeng_yeng@spd.org.sg",
-        "phone": [
-          "65790750",
-          "65790700"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "18 Jan 2022"
-    },
-    {
       "id": "103801",
       "category": "Medical Aids",
       "name": "Pull-up Adult Diapers (Size S/M)",
@@ -3029,6 +3011,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "104127",
+      "name": "Marevan wafarin 1mg",
+      "description": "Wafarin 1mg not opened, expired date 07/23.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "20 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104126",
+      "name": "GUTRON 5mg",
+      "description": "GUTRON 5mg, total 180 tab,expired date 2023",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "20 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "104121",
       "name": "Working Table & Chair",
@@ -3267,16 +3269,6 @@
       "validTill": "19 Feb 2022",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104056",
-      "name": "Hospital bed (Almost new)",
-      "description": "Standard hospital bed with electrical control. Almost new and used by my late MIL for 1 week before she was warded and passed on in hospital.",
-      "location": null,
-      "validTill": "18 Feb 2022",
-      "ageInYears": 1,
-      "dimensions": "190cm x 107cm x 90cm (approx)",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3966,16 +3958,6 @@
       "location": "Balestier, Toa Payoh, Serangoon",
       "validTill": "13 Feb 2022",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103818",
-      "name": "Table",
-      "description": "I will pay for the delivery fee",
-      "location": "Katong, Joo Chiat, Amber Road",
-      "validTill": "30 Jan 2022",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
