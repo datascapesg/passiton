@@ -924,6 +924,24 @@
       "date": "21 Dec 2021"
     },
     {
+      "id": "104129",
+      "category": "Home Furnishing",
+      "name": "Queen size mattress with bed frame",
+      "description": "Client requires a queen size bed as her previous one was infested with bugs. Client is unable to afford a new one as she is the main caregiver of her young children and are dependent on financial assistance.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Chua Bee Guet",
+        "email": "chuabeeguet@fycs.org",
+        "phone": [
+          "66901004",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Jan 2022"
+    },
+    {
       "id": "104119",
       "category": "Home Furnishing",
       "name": "Chest Drawers",
@@ -1443,6 +1461,23 @@
       "date": "17 Jan 2022"
     },
     {
+      "id": "104132",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder and Diapers",
+      "description": "Young unemployed mother with 3 young children requires milk powder assistance. Toddler is 1.5 years old and drinks Mamil Gold Milk Powder. Toddler is unable to drink milk powder from other brands as she would vomit and have diarrhea. \n\nLooking for donors for Mamil Gold Milk Powder.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Woodlands",
+        "name": "Ann Ling",
+        "email": "annling@carecorner.org.sg",
+        "phone": [
+          "63622481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "21 Jan 2022"
+    },
+    {
       "id": "104108",
       "category": "Infant and Children Items",
       "name": "Milk Powder & Diapers",
@@ -1892,23 +1927,6 @@
       "date": "05 Jan 2022"
     },
     {
-      "id": "103351",
-      "category": "Infant and Children Items",
-      "name": "Formula milk",
-      "description": "8 children aged 8 mths to 17 years old live in a 2-room rental flat and are looked after by their grandparents. Family is facing financial hardship and is waiting for their Comcare financial assistance to be approved.",
-      "specifications": "Aptamil stage 2",
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Krishna Kumar",
-        "email": "krishna@thkmc.org.sg",
-        "phone": [
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Jan 2022"
-    },
-    {
       "id": "103333",
       "category": "Infant and Children Items",
       "name": "Diapers, Baby Food, Milk Powder",
@@ -2136,6 +2154,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "03 Jan 2022"
+    },
+    {
+      "id": "104128",
+      "category": "Others",
+      "name": "Android Smartphone",
+      "description": "Looking for used android smartphone in good and working condition to be used by family currently staying in residential services for means of communications. Smartphone require to be 3G/4G.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Transition Plus",
+        "name": "K S Vikneshan",
+        "email": "vikneshan@amkfsc.org.sg",
+        "phone": [
+          "82921158"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Jan 2022"
     },
     {
       "id": "104118",
@@ -2417,23 +2452,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Jan 2022"
-    },
-    {
-      "id": "103781",
-      "category": "Others",
-      "name": "Tena Diapers",
-      "description": "Family needs supply of diapers as mum has a diagnosis of mental health condition. It will aid the family alot in terms of their financial status. The diapers needed is the normal ones with the tape and not the pull-up pants",
-      "specifications": "XL (127cm - 157cm)",
-      "contact": {
-        "org": "Fei Yue Community Services - Mental Health",
-        "name": "Nicole Tan",
-        "email": "tanlitingnicole@fycs.org",
-        "phone": [
-          "64712022"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "13 Jan 2022"
     },
     {
       "id": "103768",
@@ -3011,6 +3029,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "104131",
+      "name": "Metal bed frame with mattress",
+      "description": "Metal bed frame with mattress",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "20 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": "197(L)×97(W)×69(H) cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104130",
+      "name": "Piano",
+      "description": "Lovely older piano, one key is a bit \"off\" but still good for learner or community to enjoy.",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "10 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": "150x55x120cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "104127",
       "name": "Marevan wafarin 1mg",
