@@ -299,23 +299,6 @@
       "date": "17 Jan 2022"
     },
     {
-      "id": "103918",
-      "category": "Electrical Home Appliances",
-      "name": "Vacuum Cleaner",
-      "description": "Client is a single mother of 2 children, one of which whom has mental health issues. Client would like to look for some cleaning appliances at home, such as a vacuum cleaner, which can allow herself and her children to clean her house more efficiently.",
-      "specifications": "NIL",
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Lyndon Mathews",
-        "email": "lyndonmathews@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Jan 2022"
-    },
-    {
       "id": "103912",
       "category": "Electrical Home Appliances",
       "name": "Washing machine",
@@ -839,41 +822,6 @@
       "date": "22 Dec 2021"
     },
     {
-      "id": "102727",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "The family's present handed over washing machine has broken down. The family has young children and expenses is prioritised for their daily expenses.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Muhammad Syazwan Bin Senin",
-        "email": "syazwansenin@amkfsc.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Dec 2021"
-    },
-    {
-      "id": "104146",
-      "category": "Home Furnishing",
-      "name": "Dining table (4pax)",
-      "description": "Family of 3 has recently moved in to their rental flat. They would require a medium size dining table that fits a 4 pax to have family meals together. Mother has a medical condition where she will experience back pain whenever she wants to get up after sitting down on the floor . The family has been eating on the floor for meals. Hence a dining table and chairs are needed to ensure that the family can have an enjoyable meal without having to straining the mother's back. Donor's kind donation is muchly appreciated.",
-      "specifications": null,
-      "contact": {
-        "org": "AWWA Transitional Shelter",
-        "name": "Siti Syuhada Binte Shahbudin",
-        "email": "siti_syuhada@awwa.org.sg",
-        "phone": [
-          "65117274",
-          "65117272"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Jan 2022"
-    },
-    {
       "id": "104140",
       "category": "Home Furnishing",
       "name": "2-3 Seater Small Sofa",
@@ -1357,23 +1305,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "23 Dec 2021"
-    },
-    {
-      "id": "102726",
-      "category": "Home Furnishing",
-      "name": "Kitchen Tabletop",
-      "description": "The family has recently relocated into their HDB flat. They would appreciate for a donated TV console as they prioritise expenses on their other needs.",
-      "specifications": "length = <100cm",
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Punggol",
-        "name": "Muhammad Syazwan Bin Senin",
-        "email": "syazwansenin@amkfsc.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Dec 2021"
     },
     {
       "id": "104065",
@@ -2949,6 +2880,26 @@
   ],
   "offers": [
     {
+      "id": "104149",
+      "name": "chairs",
+      "description": "chairs",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "21 Feb 2022",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104148",
+      "name": "Queen bed frame with mattress",
+      "description": "6 inch bedframe with dark brown bedframe",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "29 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "104147",
       "name": "Foot puller sit-up assisted fitness equipment",
       "description": "Foot puller sit-up assisted fitness equipment",
@@ -3866,16 +3817,6 @@
       "validTill": "28 Jan 2022",
       "ageInYears": 4,
       "dimensions": "182 cm x 190cm x 24cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103844",
-      "name": "Teakwood dining table with 5 chairs",
-      "description": "Giving away our beloved teakwood with glass top 6 ft by 4 ft. With 5 chairs. All in good condition",
-      "location": null,
-      "validTill": "22 Jan 2022",
-      "ageInYears": 2,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -5346,16 +5287,6 @@
       "validTill": "23 Jan 2022",
       "ageInYears": 3,
       "dimensions": "Single bed size",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102824",
-      "name": "Dell Monitor",
-      "description": "Computer monitor",
-      "location": "Katong, Joo Chiat, Amber Road",
-      "validTill": "22 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "56cm x 20cm x 48cm",
       "deliveryCostsCoveredByDonor": true
     }
   ]
