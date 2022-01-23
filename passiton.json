@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "104181",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "Single mother with a school-going daughter requires a washing machine in good condition as theirs has spoilt. She is working part-time and is unable to afford a new washing machine.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Lim Yi Xi",
+        "email": "yixi@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Jan 2022"
+    },
+    {
       "id": "104124",
       "category": "Electrical Home Appliances",
       "name": "Television",
@@ -2652,6 +2669,36 @@
   ],
   "offers": [
     {
+      "id": "104182",
+      "name": "Adult Diapers",
+      "description": "Adult Diapers in M & L.  4 packs all opened but clean and new. Please pick up at Bukit Merah View. Nearer MRT Tiong Bahru, can meet at MRT by appointment only.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "31 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104180",
+      "name": "Single Matress",
+      "description": "Single Mattress... Spring but soft type",
+      "location": "Jurong",
+      "validTill": "30 Jan 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104179",
+      "name": "King size mattress",
+      "description": "Used for many years. A bit tear here and there and stains",
+      "location": null,
+      "validTill": "31 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": "King size bed",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "104178",
       "name": "Aprica Soraria Baby stroller excellent condition",
       "description": "Hardly used aprica soraria stroller. Excellent condition with some signs of storage. Suitable for newborn up to 36 months. Stroller can be released to lie almost flat for newborn.  Two way stroller, can choose to have baby look out or look at you.\n\nPrefer to send to central location or not too far from Toa payoh",
@@ -2859,16 +2906,6 @@
       "validTill": "28 Jan 2022",
       "ageInYears": 4,
       "dimensions": "US 7",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104153",
-      "name": "IKEA Sofa Bed",
-      "description": "IKEA Sofa Bed",
-      "location": "Orchard Road",
-      "validTill": "21 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
