@@ -52,23 +52,6 @@
       "date": "21 Jan 2022"
     },
     {
-      "id": "104120",
-      "category": "Electrical Home Appliances",
-      "name": "TV",
-      "description": "Clt was a single mother and still looking for jobs, finding hard to make ends meet with young children to care for. Her TV has not been working, require another tv that can be linked to youtube.  it's the source of leisure for the family and to bond together. Appreciate your kind assistance.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Jan 2022"
-    },
-    {
       "id": "104059",
       "category": "Electrical Home Appliances",
       "name": "Television",
@@ -2668,6 +2651,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "104183",
+      "name": "TV Conso",
+      "description": "Good condition TV console",
+      "location": "Katong, Joo Chiat, Amber Road",
+      "validTill": "16 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "104182",
       "name": "Adult Diapers",
