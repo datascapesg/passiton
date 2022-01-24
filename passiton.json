@@ -1,20 +1,21 @@
 {
   "requests": [
     {
-      "id": "104228",
+      "id": "104241",
       "category": "Electrical Home Appliances",
-      "name": "Television",
-      "description": "Family of 3 (1 elderly and 2 with chronic health issues) hindering their ability to find employment. Family's current television has spoilt and would require a television that can be used (family does not have digital tv box). Family is unable to pay for delivery fees.",
+      "name": "Microwave",
+      "description": "Both parents are working and 9YO daughter is alone at home after school hence required a microwave for her to hear up her food for lunch and dinner as switching on the stove is dangerous for her age.",
       "specifications": null,
       "contact": {
-        "org": "MWS Family Service Centre - Tampines",
-        "name": "Ong Boon Cheng",
-        "email": "ongbooncheng@mws.sg",
+        "org": "MSF Social Service Office @ Ang Mo Kio",
+        "name": "Christopher Sng",
+        "email": "christopher_sng@msf.gov.sg",
         "phone": [
-          "67872001"
+          "65547914",
+          "65547929"
         ]
       },
-      "deliveryCostsCoveredByDonor": true,
+      "deliveryCostsCoveredByDonor": false,
       "date": "24 Jan 2022"
     },
     {
@@ -156,23 +157,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "20 Jan 2022"
-    },
-    {
-      "id": "104050",
-      "category": "Electrical Home Appliances",
-      "name": "Airfryer",
-      "description": "Family of 2 (mother and school-going son) residing in a rental flat at Lengkok Bahru is requesting for an Airfryer. Thank you very much.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Pek Jie Hui",
-        "email": "jiehui@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Jan 2022"
     },
     {
       "id": "103983",
@@ -508,24 +492,6 @@
       "date": "12 Jan 2022"
     },
     {
-      "id": "103702",
-      "category": "Electrical Home Appliances",
-      "name": "LPG Gas Stove",
-      "description": "Client is a single mother who has recently moved into rental unit with her 2 young children. Client requires a LPG gas stove to be able to cook for the family.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Hannah Lim",
-        "email": "hannahlimzhixin@fycs.org",
-        "phone": [
-          "69783487",
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Jan 2022"
-    },
-    {
       "id": "99094",
       "category": "Electrical Home Appliances",
       "name": "Fridge (Halal)",
@@ -715,6 +681,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "27 Dec 2021"
+    },
+    {
+      "id": "104239",
+      "category": "Home Furnishing",
+      "name": "Queen size mattress only",
+      "description": "Clt has 3 young children and 1 infant. 3 of the children have special needs and ezcema as well. They are living in 3 rm HDB . The family is looking for queen size mattress.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Tampines",
+        "name": "Yvette Lau",
+        "email": "tm.vce@carecorner.org.sg",
+        "phone": [
+          "67866225"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Jan 2022"
     },
     {
       "id": "104205",
@@ -1081,20 +1064,37 @@
       "date": "17 Jan 2022"
     },
     {
-      "id": "104232",
+      "id": "104250",
       "category": "Infant and Children Items",
-      "name": "Drypers (Tape) (Size M)",
-      "description": "Client is a single mother of a 15 mths old boy. Client is estranged from her family and does not receive any support from them. Client was recently allocated a 1-room HDB rental flat and has moved to live there from the interim shelter. \nClient used to work as a grab food delivery rider but stopped for the moment due to caregiving issues.",
-      "specifications": "(Tape) (Size M)",
+      "name": "Milk (Dugro Stage 3) and diapers (Huggies pull ups M)",
+      "description": "Beneficiary is a low-income and has 2 primary school going children and 1 child in pre-school. Her husband has left the family and is not providing any financial support for the children. Requesting for assistance with diaper and milk formula.",
+      "specifications": null,
       "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Krishna Kumar",
-        "email": "krishna@thkmc.org.sg",
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Juliana Binte Krishna Kassim",
+        "email": "julianakrishna@amkfsc.org.sg",
         "phone": [
-          "62706711"
+          "63128100"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
+      "date": "24 Jan 2022"
+    },
+    {
+      "id": "104235",
+      "category": "Infant and Children Items",
+      "name": "Pediasure (Vanilla)",
+      "description": "Client's job was affected by Covid-19 and he was on hospitalisation leave after an injury last year. He has recovered now and started working as delivery man to manage with the family's financial gap. Wife is taking care of their 2 young children at home. They are trying to re-stabilise by looking for a new job but they are now having difficulties to manage their household expenses including his child's needs.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Siti Nur Sa’iidah",
+        "email": "sitinursaiidah@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
       "date": "24 Jan 2022"
     },
     {
@@ -1898,11 +1898,11 @@
       "date": "03 Jan 2022"
     },
     {
-      "id": "104225",
+      "id": "104252",
       "category": "Others",
       "name": "Groceries",
-      "description": "This is a family of 5 (Mdm N and her husband, 1 teenager and a pair of 5-year old twins). Her husband has a chronic medical condition that causes him to have stroke-like symptoms, which makes it difficult for him to sustain employment as a delivery driver. The family had to rely on Mdm N's sole income during November - January 2022, causing high financial strain on Mdm N.\nOne of the twins has eczema flare-ups, and requires frequent Dr's appointments to treat her skin, including purchase of steroid creams. These responsibilities can be quite costly per month, and she has to temporarily support her family of 5 on her single income.\n\nGrocery List\n-Fragrant rice - 5 -10 kg ( any brand )\n-Sardine - ( any brand )\n-Frozen halal chicken 2 kg - 2 packs\n-Instant halal noodles - soup-based and goreng, \n-Instant halal canned food, \n-Milo (3-in-1) - 2 packs, \n-Lipton tea, \n-Halal hot dog - 2-3 packs, \n-Eggs -30 pieces - 1-2 tray, \n-Cooking oil, \n-Frozen halal instant food.\n\nWilling Donors can contact Ms.Jillisa Kok\ndirectly at jillisakok@amkfsc.org.sg or 96411709.",
-      "specifications": "NIL",
+      "description": "Client has a large family with 6 dependents. Her husband left his employment in Nov 2021, and she is the main breadwinner with an adhoc packing job.\nClient was unable to work due to having to follow up with the hospital after one of her children's labour over the weekend. She subsequently lost her NRIC, which is required for the registration of her adhoc job, and thus currently unemployed.\n\nThe groceries which would tide our client through this hard time would include:\n-Rice(10kg),\n-Fresh Vegetables(Lady's fingers, cabbage, spinach),\n-Cooking oil(5kg),\n-Fresh Chicken(10kg, assorted of parts),\n-Milk powder(Dugro Step 3 Original flavour [green] & Dulac Step 1),\n-3 loaves of white bread,\n-Jam,\n-Assorted biscuits.",
+      "specifications": "2 weeks supply",
       "contact": {
         "org": "AMKFSC Community Services Ltd - Sengkang",
         "name": "Lyndon Mathews",
@@ -1915,15 +1915,15 @@
       "date": "24 Jan 2022"
     },
     {
-      "id": "104212",
+      "id": "104249",
       "category": "Others",
-      "name": "Groceries",
-      "description": "Elderly in their late 70s are currently unemployed and do not have savings to sustain their monthly basic needs. They are living with their daughter with mental health concerns who is unable to work as well. Presently, they rely on their son to provide for their monthly needs but son is unable to keep up with all 3 of their expenses. They will benefit from the above items while they work out a plan with HDB on the lease buyback scheme.\n\nItems Needed (Non-Halal):\n- Biscuits\n- Sugar\n- Teabags and coffee packets \n- Toiletries (toilet paper, bleach, dettol, fab, dishwashing liquid etc.)",
-      "specifications": "One month's supply",
+      "name": "Food Rations",
+      "description": "Beneficiary is a low-income and has 2 primary school going children and 1 child in pre-school. Her husband has left the family and is not providing any financial support for the children. Requesting for assistance with food rations to meet children's basic needs. Will provide list of items to you.",
+      "specifications": null,
       "contact": {
         "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Lyndon Mathews",
-        "email": "lyndonmathews@amkfsc.org.sg",
+        "name": "Juliana Binte Krishna Kassim",
+        "email": "julianakrishna@amkfsc.org.sg",
         "phone": [
           "63128100"
         ]
@@ -2144,24 +2144,6 @@
       "date": "18 Jan 2022"
     },
     {
-      "id": "103945",
-      "category": "Others",
-      "name": "Resource",
-      "description": "Client has terminal illness and short prognosis. Due to his medical condition, he is now on full liquid diet. He requires 3 bottles of resource fruit liquid a day. Client is in financial need as he has been unemployed for several years and savings have been depleting. Family is not contributing to his medical related expenses. Client would benefit from kind donation of 90 bottles of Resource Fruit for 1 month, apple and raspberry flavour. Kindly contact me at my work mobile at 84282545.",
-      "specifications": "Nestle Resource Fruit Nutritional Drink",
-      "contact": {
-        "org": "Singapore Cancer Society",
-        "name": "Amanda Tay",
-        "email": "amanda_tay@singaporecancersociety.org.sg",
-        "phone": [
-          "64215886",
-          "62219578"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Jan 2022"
-    },
-    {
       "id": "103941",
       "category": "Others",
       "name": "Resource Protein Liquid needed",
@@ -2283,24 +2265,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "13 Jan 2022"
-    },
-    {
-      "id": "103752",
-      "category": "Others",
-      "name": "Tena Diapers",
-      "description": "Client has terminal illness and very short prognosis. Due to his medical condition, he is now requiring diapers. Client is in financial need as he has been unemployed for several years and savings have been depleting. Family is not contributing to his medical related expenses.  \nClient will benefit from about 105 pieces of diapers for next 3 weeks (he uses about 5 pieces a day). Kindly contact me at my work mobile at 84282545.",
-      "specifications": "XL",
-      "contact": {
-        "org": "Singapore Cancer Society",
-        "name": "Amanda Tay",
-        "email": "amanda_tay@singaporecancersociety.org.sg",
-        "phone": [
-          "64215886",
-          "62219578"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "13 Jan 2022"
     },
     {
@@ -2560,18 +2524,18 @@
       "date": "24 Dec 2021"
     },
     {
-      "id": "104230",
+      "id": "104243",
       "category": "Medical Aids",
-      "name": "Convifit pull up pants Medium, 8 packets",
-      "description": "Convifit pull up pants Medium, 8 packets\nThis family has a daughter with special needs who is not independent in toileting. She also requires full-time assistance from a caregiver, who accompanies her in school daily. Family is under financial assistance and is tight on expenses. As diapers are an essential item that takes up a significant bulk of income, support through the provision of diapers would be very helpful for the family. Please email me if you are keen to support this family. Thank you so much!",
-      "specifications": "Medium, 8 packets",
+      "name": "Home blood pressure monitor",
+      "description": "Client had a stroke recently and is unable to work. Client was advised from her doctor to get a blood pressure monitor to check her blood pressure regularly so that she can receive necessary medical attention if her blood pressure is too high. Client is a divorcee who lives in a rental flat with her 9 year old son.",
+      "specifications": null,
       "contact": {
-        "org": "Rainbow Centre - Magaret Drive School",
-        "name": "Ng Jing Han",
-        "email": "jinghanng@rainbowcentre.org.sg",
+        "org": "Fei Yue Family Service Centre @ Yew Tee",
+        "name": "Diana Koh",
+        "email": "dianakoh@fycs.org",
         "phone": [
-          "68179435",
-          "64752072"
+          "64162190",
+          "64162162"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2755,6 +2719,116 @@
   ],
   "offers": [
     {
+      "id": "104253",
+      "name": "Philips Cordless Vacuum",
+      "description": "Philips Cordless Vacuum",
+      "location": "Jurong",
+      "validTill": "23 Feb 2022",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104251",
+      "name": "TV for donation",
+      "description": "Used TV for donation. Still usable but did not test due to moving house with no digital box on hand.\n\nMIL was still using it well in 2021.\n\nSorry will not be able to cover delivery costs.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "31 Jan 2022",
+      "ageInYears": 3,
+      "dimensions": "Not sure",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104247",
+      "name": "Baby Carrier - Manduca",
+      "description": "Used but great condition baby carrier. Good for infants and children up to 5 years old.",
+      "location": "Upper Thomson, Springleaf",
+      "validTill": "23 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104245",
+      "name": "Sized S clothes 1.57m 45kg",
+      "description": "Items are old, but in good condition and rarely worn. I feel wasteful to throw into the bin. Prefer this to go to a teenage girl.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "31 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104244",
+      "name": "Oven toaster",
+      "description": "Oven toaster oven giving away.",
+      "location": "Little India",
+      "validTill": "23 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104242",
+      "name": "Caller ID phone",
+      "description": "Caller id phone giving away.",
+      "location": "Little India",
+      "validTill": "23 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104240",
+      "name": "Bed set",
+      "description": "Super single bed frame with mattress. Includes pillow, bolster, duvet and 2 sets of sheets.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "10 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104238",
+      "name": "Air mattress",
+      "description": "picture shown is together with hospital bed",
+      "location": "Kranji, Woodgrove",
+      "validTill": "23 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": "200cmx90cmx10cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104237",
+      "name": "Hospital Bed with mattress",
+      "description": "Comes with 4\" foam mattress.\nElectrically adjustable.",
+      "location": "Kranji, Woodgrove",
+      "validTill": "23 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": "211cmx106cmx69cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104234",
+      "name": "overbed table",
+      "description": "I have 2 units of this",
+      "location": "Kranji, Woodgrove",
+      "validTill": "23 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": "77cmx38cmx110cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104233",
+      "name": "foldable commode",
+      "description": "seat height is 49-58 cm.",
+      "location": "Kranji, Woodgrove",
+      "validTill": "23 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": "53cmx53cmx79cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "104222",
       "name": "Child’s bike",
       "description": "First bike for 3-4 year old. Good working order for another child to enjoy.",
@@ -2772,16 +2846,6 @@
       "validTill": "23 Feb 2022",
       "ageInYears": 3,
       "dimensions": "125 x 66 x 98 cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104216",
-      "name": "Diapers",
-      "description": "Mamypoko anti Mos diaper - taped\n1 x size L\n2 x size XL\n\nMaybe additional packet of pants diapers size xl",
-      "location": "Seletar",
-      "validTill": "27 Jan 2022",
-      "ageInYears": 2,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3025,16 +3089,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "104177",
-      "name": "Queen bed frame, mattress, study table",
-      "description": "One queen size bed frame with mattress, one study table. \n\nPlease arrange your own collection / delivery",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "27 Jan 2022",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "104175",
       "name": "Black table",
       "description": "Good condition",
@@ -3221,16 +3275,6 @@
       "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
       "validTill": "21 Feb 2022",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104148",
-      "name": "Queen bed frame with mattress",
-      "description": "6 inch bedframe with dark brown bedframe",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "29 Jan 2022",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -3681,16 +3725,6 @@
       "location": "Tampines, Pasir Ris",
       "validTill": "25 Jan 2022",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103995",
-      "name": "Female teenager clothes",
-      "description": "Hi, I'm offering a lot of clothes in perfect condition that would be suitable for young female. Mostly size XS/S. \n\nAt least 10-20 items.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "17 Feb 2022",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4185,16 +4219,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103804",
-      "name": "Baby cot",
-      "description": "Babies rarely use the cot for their sleep. Mattress in good condition.",
-      "location": null,
-      "validTill": "06 Feb 2022",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103789",
       "name": "King size mattress",
       "description": "King-sized mattress - very clean, less than a year old. Letting go because my parents can't get used to sleeping on it and they don't want to just throw it away.",
@@ -4615,16 +4639,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103562",
-      "name": "Ikea baby cot",
-      "description": "Ikea Hensvik Cot w mattress and all bedding. Pink and white sheets, mattress protector",
-      "location": null,
-      "validTill": "25 Jan 2022",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103553",
       "name": "Neck massagrer",
       "description": "Giving away",
@@ -4915,16 +4929,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103711",
-      "name": "TV console",
-      "description": "TV console",
-      "location": "Watten Estate, Novena, Thomson",
-      "validTill": "04 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103850",
       "name": "Kids 3 door wardrobe",
       "description": "Pleaae arrange for your own transport & disassemble team",
@@ -4942,16 +4946,6 @@
       "validTill": "03 Feb 2022",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103337",
-      "name": "Baby Cot",
-      "description": "Cot to bless with mattress measuring 120cm (L) x 60cm (B) x 10cm (H).",
-      "location": "Little India",
-      "validTill": "03 Feb 2022",
-      "ageInYears": 1,
-      "dimensions": "120cm (L) x 60cm (B) x 98cm (H)",
       "deliveryCostsCoveredByDonor": true
     },
     {
