@@ -665,24 +665,6 @@
       "date": "30 Dec 2021"
     },
     {
-      "id": "102978",
-      "category": "Electrical Home Appliances",
-      "name": "Washing machine",
-      "description": "Family of 6 lives in a 2-room flat and are struggling with finances. Father had lost his job since the pandemic and have been doing odd jobs as the sole breadwinner of his family, for his wife and 5 children. Children are schooling. Mother shared her difficulties and anxiety for school next year as their washing machine had since broken down and it would be a challenge to ensure that her children have clean uniforms.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Singapore Ltd",
-        "name": "Adriel Tham",
-        "email": "adrieltham@carecorner.org.sg",
-        "phone": [
-          "63642203",
-          "62506813"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Dec 2021"
-    },
-    {
       "id": "102951",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -816,23 +798,6 @@
         "email": "jiehui@sccfsc.org.sg",
         "phone": [
           "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Jan 2022"
-    },
-    {
-      "id": "104019",
-      "category": "Home Furnishing",
-      "name": "Double decker bed",
-      "description": "Low income family requires a double-decker bed to maximise space in very cramped conditions (one-room flat). Adult son has intellectual disability, mother is currently not working, and daughter is schooling, hence they cannot afford this on their own.",
-      "specifications": null,
-      "contact": {
-        "org": "MINDS - Community Forensic Services",
-        "name": "Ella Tan",
-        "email": "ella.tan@minds.org.sg",
-        "phone": [
-          "93573778"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1778,20 +1743,20 @@
       "date": "03 Jan 2022"
     },
     {
-      "id": "104210",
+      "id": "104212",
       "category": "Others",
-      "name": "CDC Voucher",
-      "description": "Client seeks assistance for support of meals and welcome donation/sharing of CDC voucher for use in food stalls.\n\nClient is elderly couple in a rental flat. Unemployed and with little family financial support.",
-      "specifications": null,
+      "name": "Groceries",
+      "description": "Elderly in their late 70s are currently unemployed and do not have savings to sustain their monthly basic needs. They are living with their daughter with mental health concerns who is unable to work as well. Presently, they rely on their son to provide for their monthly needs but son is unable to keep up with all 3 of their expenses. They will benefit from the above items while they work out a plan with HDB on the lease buyback scheme.\n\nItems Needed (Non-Halal):\n- Biscuits\n- Sugar\n- Teabags and coffee packets \n- Toiletries (toilet paper, bleach, dettol, fab, dishwashing liquid etc.)",
+      "specifications": "One month's supply",
       "contact": {
-        "org": "Whampoa Family Service Centre",
-        "name": "Travis Lee",
-        "email": "travislee@kkcs.org.sg",
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Lyndon Mathews",
+        "email": "lyndonmathews@amkfsc.org.sg",
         "phone": [
-          "63260300"
+          "63128100"
         ]
       },
-      "deliveryCostsCoveredByDonor": false,
+      "deliveryCostsCoveredByDonor": true,
       "date": "24 Jan 2022"
     },
     {
@@ -2599,6 +2564,46 @@
     }
   ],
   "offers": [
+    {
+      "id": "104215",
+      "name": "Wardrobe",
+      "description": "Used wardrobe. 10 door. Ample of space. I have 3 of such wardrobe. \n\nAs I am moving house, its not possible for me to pay for delivery as I have about 30 items to give away.",
+      "location": "Yishun, Sembawang",
+      "validTill": "18 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104214",
+      "name": "Baby clothing (6-24 months)",
+      "description": "Mix of boy and girl outfits, rompers etc",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "23 Feb 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104213",
+      "name": "Sofa",
+      "description": "Used sofa. Still in good condition. Doesn't come with cushions. Has got a lot of life left. Clean and hygiene environment. \n\nAs I am moving house, its not possible for me to pay for delivery as I have about 30 items to give away.",
+      "location": "Yishun, Sembawang",
+      "validTill": "18 Feb 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104211",
+      "name": "Hospital Bed",
+      "description": "Electric Wooden Hospital Bed with anti bed sore mattress included\n\nCondition: 9/10\n\nRef: \nhttps://shop.lifelinecorp.com/products/electric-wooden-hospital-bed-with-mattress",
+      "location": "Kranji, Woodgrove",
+      "validTill": "23 Feb 2022",
+      "ageInYears": 3,
+      "dimensions": "L 204cm x W 108cm x H 65cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "104206",
       "name": "Kids Car, 2 wheeler, walker",
