@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "104224",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is single mother with 2 children, low income, living in rental flat. Their washing machine is currently spoilt and they do not have financial means to replace/fix. A donation of a washing machine would be of much assistance.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Nathan Hou",
+        "email": "nathanhou@thkmc.org.sg",
+        "phone": [
+          "88554795",
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Jan 2022"
+    },
+    {
+      "id": "104223",
+      "category": "Electrical Home Appliances",
+      "name": "CCTV camera",
+      "description": "Family has low income and is experiencing family violence. Wife is victim and diagnosed with cancer, unable to work. Children are still schooling. Wife would need assistance with getting a cctv to help with monitoring family’s safety.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Nathan Hou",
+        "email": "nathanhou@thkmc.org.sg",
+        "phone": [
+          "88554795",
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Jan 2022"
+    },
+    {
       "id": "104203",
       "category": "Electrical Home Appliances",
       "name": "Standing fan",
@@ -258,24 +294,6 @@
         "phone": [
           "69783482",
           "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Jan 2022"
-    },
-    {
-      "id": "103921",
-      "category": "Electrical Home Appliances",
-      "name": "Lightweight Cordless vacuum (Airbot)",
-      "description": "Airbot - Lightweight cordless vacuum for a young newly married couple living in rental flat. The wife is wheelchair-bound with a congenital disability and husband is unemployed, seeking for work. The airbot cordless and lightweight vacuum is helpful for the client due to her disability, otherwise she would not be able to lift it and it would tangle around her wheelchair.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Admiralty",
-        "name": "Serene Koh",
-        "email": "serenekoh@carecorner.org.sg",
-        "phone": [
-          "69784103",
-          "63658751"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1063,6 +1081,91 @@
       "date": "17 Jan 2022"
     },
     {
+      "id": "104226",
+      "category": "Infant and Children Items",
+      "name": "Drypers Drypantz Needed",
+      "description": "The family is in need of 4 packs of Drypers Dry pantz with size XXL. The diapers can be ordered online and delivered directly to beneficiary's home. Please contact us at dik@childrensociety.org.sg for delivery details. We welcome whatever quantities that the donor wishes to donate and no obligation on the minimum items donated. Thank you!",
+      "specifications": "XXL",
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Peng Hui",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Jan 2022"
+    },
+    {
+      "id": "104221",
+      "category": "Infant and Children Items",
+      "name": "XL Drypers Drypantz Diapers",
+      "description": "Family has two young children aged 2 and 5 years old. Family is facing financial difficulty as husband is the sole breadwinner and recently experienced a pay cut. Family need assistance in buying diapers. Child is wearing Size XL Drypers Drypantz Diapers.",
+      "specifications": null,
+      "contact": {
+        "org": "Pasir Ris Family Service Centre",
+        "name": "Adelina Yeo@Siti Aminah",
+        "email": "adelinayeo@goodnews.org.sg",
+        "phone": [
+          "65812159"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Jan 2022"
+    },
+    {
+      "id": "104220",
+      "category": "Infant and Children Items",
+      "name": "Nature 1 (3 to 6) Tin Milk Powder",
+      "description": "Family has three young children aged 4, 9 and 10 respectively. Family is facing financial difficulty as husband who is the sole breadwinner is diagnosed with Diabetes and recently his health has been deteriorating. He has not been able to return to work regularly due to his health. Family need assistance in buying milk powder. Youngest child is drinking Nature 1 (3 to 6) tin milk powder.",
+      "specifications": null,
+      "contact": {
+        "org": "Pasir Ris Family Service Centre",
+        "name": "Adelina Yeo@Siti Aminah",
+        "email": "adelinayeo@goodnews.org.sg",
+        "phone": [
+          "65812159"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Jan 2022"
+    },
+    {
+      "id": "104219",
+      "category": "Infant and Children Items",
+      "name": "GROW Preschool Milk Powder",
+      "description": "Family has 4 young children with the youngest being 2 years old. Family is facing financial difficulties due to health issue. Family requires assistance in buying milk powder for their 3rd child. He is drinking GROW Preschool Milk Powder (3-6 years).",
+      "specifications": null,
+      "contact": {
+        "org": "Pasir Ris Family Service Centre",
+        "name": "Adelina Yeo@Siti Aminah",
+        "email": "adelinayeo@goodnews.org.sg",
+        "phone": [
+          "65812159"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Jan 2022"
+    },
+    {
+      "id": "104218",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder Assistance",
+      "description": "Single mother of two is struggling to make ends meet with supporting her children. Eldest child is not growing as fast due to not having milk to drink. Mother requires one-off / short-term assistance of milk powder e.g. Pediasure Gold for ages 1-12. Please whatsapp me at 8109-6845 during office hours if able to donate.",
+      "specifications": null,
+      "contact": {
+        "org": "Hougang Sheng Hong Family Service Centre",
+        "name": "Angie Tan",
+        "email": "angenette@shenghong.org.sg",
+        "phone": [
+          "62895022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Jan 2022"
+    },
+    {
       "id": "104208",
       "category": "Infant and Children Items",
       "name": "Double seater pram",
@@ -1567,6 +1670,23 @@
       "date": "04 Jan 2022"
     },
     {
+      "id": "104227",
+      "category": "Learning Aids",
+      "name": "Stationery for 2022",
+      "description": "Client is a working mother of 4 children. Her husband is not working due to a leg injury. She requires some assistance to prepare for the first year of school for her two children who are aged 7. \n\nThey would benefit from new stationery for 2022. \n\nStationery List: -Pencils 2B -Erasers -Sharpeners -Color pencils -Crayons -Drawing blocks -Pencil Box x 2 -Water bottle x 2 -velcro Wallets (with cartoons) x 2. *Quantity is at donor's discretion. If there is anything else you feel that would benefit children's education journey for the year '22, do feel free to add it onto the list.\n\nWe are hoping to look for a donor who would be able to donate a complete list of items!",
+      "specifications": "NIL",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Lyndon Mathews",
+        "email": "lyndonmathews@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Jan 2022"
+    },
+    {
       "id": "104011",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -1741,6 +1861,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "03 Jan 2022"
+    },
+    {
+      "id": "104225",
+      "category": "Others",
+      "name": "Groceries",
+      "description": "This is a family of 5 (Mdm N and her husband, 1 teenager and a pair of 5-year old twins). Her husband has a chronic medical condition that causes him to have stroke-like symptoms, which makes it difficult for him to sustain employment as a delivery driver. The family had to rely on Mdm N's sole income during November - January 2022, causing high financial strain on Mdm N.\nOne of the twins has eczema flare-ups, and requires frequent Dr's appointments to treat her skin, including purchase of steroid creams. These responsibilities can be quite costly per month, and she has to temporarily support her family of 5 on her single income.\n\nGrocery List\n-Fragrant rice - 5 -10 kg ( any brand )\n-Sardine - ( any brand )\n-Frozen halal chicken 2 kg - 2 packs\n-Instant halal noodles - soup-based and goreng, \n-Instant halal canned food, \n-Milo (3-in-1) - 2 packs, \n-Lipton tea, \n-Halal hot dog - 2-3 packs, \n-Eggs -30 pieces - 1-2 tray, \n-Cooking oil, \n-Frozen halal instant food.\n\nWilling Donors can contact Ms.Jillisa Kok\ndirectly at jillisakok@amkfsc.org.sg or 96411709.",
+      "specifications": "NIL",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Lyndon Mathews",
+        "email": "lyndonmathews@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Jan 2022"
     },
     {
       "id": "104212",
@@ -2565,6 +2702,36 @@
   ],
   "offers": [
     {
+      "id": "104222",
+      "name": "Child’s bike",
+      "description": "First bike for 3-4 year old. Good working order for another child to enjoy.",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "31 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104217",
+      "name": "Baby cot",
+      "description": "Adjustable heigh baby cot, with sliding up/down bar on the side.",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "23 Feb 2022",
+      "ageInYears": 3,
+      "dimensions": "125 x 66 x 98 cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104216",
+      "name": "Diapers",
+      "description": "Mamypoko anti Mos diaper - taped\n1 x size L\n2 x size XL\n\nMaybe additional packet of pants diapers size xl",
+      "location": "Seletar",
+      "validTill": "27 Jan 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "104215",
       "name": "Wardrobe",
       "description": "Used wardrobe. 10 door. Ample of space. I have 3 of such wardrobe. \n\nAs I am moving house, its not possible for me to pay for delivery as I have about 30 items to give away.",
@@ -2885,16 +3052,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "104166",
-      "name": "New Pillow (100% cotton)",
-      "description": "New.",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "21 Feb 2022",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "104165",
       "name": "clothes",
       "description": "As shown, I have a lot of clothing I wish to donate. Includes, tops, pants, dress, 1 boaster, 3 bags of fabrics. Feel free to email for more pictures or info. Thank you. #Staysafe",
@@ -2902,16 +3059,6 @@
       "validTill": "06 Feb 2022",
       "ageInYears": 4,
       "dimensions": "varies",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104164",
-      "name": "LG 47 Inch TV",
-      "description": "TV is in excellent working condition. Will require digital TV antenna to watch free-to-air Digital TV channels. Original Remote control included.",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "31 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -2952,16 +3099,6 @@
       "validTill": "31 Jan 2022",
       "ageInYears": 4,
       "dimensions": "NA.",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104158",
-      "name": "2 seater sofa",
-      "description": "In good condition\nLet me know before 26 Jan",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "26 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3282,16 +3419,6 @@
       "validTill": "19 Feb 2022",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104085",
-      "name": "Brown Half Leather Sofa",
-      "description": "Almost brand new sofa, used less than 6 months, reason for letting go, upgrade. Very well maintained with no kids, or pets.",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "26 Jan 2022",
-      "ageInYears": 1,
-      "dimensions": "220cm x 65cm x 38cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -4255,16 +4382,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103636",
-      "name": "Adjustable table",
-      "description": "Table",
-      "location": null,
-      "validTill": "31 Jan 2022",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103632",
       "name": "Water bottles",
       "description": "Water bottles (13 nos.).\n\nDelivery on weekday evening and weekend.",
@@ -4352,16 +4469,6 @@
       "validTill": "08 Feb 2022",
       "ageInYears": 3,
       "dimensions": "19 x 9 x 2 cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103583",
-      "name": "Television - old model",
-      "description": "old model television but working condition",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "08 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": "80x50x45 cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
