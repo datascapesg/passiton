@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "104284",
-      "category": "Electrical Home Appliances",
-      "name": "3 Wall Fans",
-      "description": "Family lives in public rental flat and have 1 pri school child and a 8-month-old baby. \nThe house is crowded and stuffy. Father is the sole breadwinner doing food deliveries and mother is a home maker. Requesting for 3 wall fans to circulate the air at home.",
-      "specifications": "Wall Fans",
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "amychua@mws.sg",
-        "phone": [
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Jan 2022"
-    },
-    {
       "id": "104282",
       "category": "Electrical Home Appliances",
       "name": "New water heater",
@@ -698,6 +681,24 @@
       "date": "27 Dec 2021"
     },
     {
+      "id": "104292",
+      "category": "Home Furnishing",
+      "name": "Dining table (4pax)",
+      "description": "Family of 3 has recently moved in to their rental flat. They would require a medium size dining table that fits a 4 pax to have family meals together. Mother has a medical condition where she will experience back pain whenever she wants to get up after sitting down on the floor . The family has been eating on the floor for meals. Hence a dining table and chairs are needed to ensure that the family can have an enjoyable meal without having to straining the mother's back. Donor's kind donation is muchly appreciated.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Transitional Shelter",
+        "name": "Siti Syuhada Binte Shahbudin",
+        "email": "siti_syuhada@awwa.org.sg",
+        "phone": [
+          "65117274",
+          "65117272"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Jan 2022"
+    },
+    {
       "id": "104286",
       "category": "Home Furnishing",
       "name": "3 seaters sofa",
@@ -1077,6 +1078,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Jan 2022"
+    },
+    {
+      "id": "104295",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder",
+      "description": "Family has 2 young children aged 8 and 2, the former diagnosed with special needs. Parents are separated and father does not contribute to the family. Mother has difficulty finding full-time stable employment after being asked to leave from her job in July 2021. She is currently doing Grab deliveries but the income is insufficient to support the household expenses. Mother would like to request for milk powder (Similac or Enfagrow Stage 3) for the younger child. Child has sensitive stomach and is unable to take other brands as advised by the doctor.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue - Early Intervention Centre For Children",
+        "name": "Tessa Nai",
+        "email": "tessanai@fycs.org",
+        "phone": [
+          "66810508",
+          "65656260"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Jan 2022"
+    },
+    {
+      "id": "104294",
+      "category": "Infant and Children Items",
+      "name": "Diapers",
+      "description": "Family has 2 young children aged 8 and 2, the former diagnosed with special needs. Parents are separated and father does not contribute to the family. Mother has difficulty finding full-time stable employment after being asked to leave from her job in July 2021. She is currently doing Grab deliveries but the income is insufficient to support the household expenses. Mother would like to request for diapers (Huggies pull up pants, Size XXL) for the younger child.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue - Early Intervention Centre For Children",
+        "name": "Tessa Nai",
+        "email": "tessanai@fycs.org",
+        "phone": [
+          "66810508",
+          "65656260"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Jan 2022"
     },
     {
       "id": "104235",
@@ -1896,6 +1933,24 @@
       "date": "27 Dec 2021"
     },
     {
+      "id": "104293",
+      "category": "Others",
+      "name": "Mobile Phone",
+      "description": "HEART@Fei Yue, Child Protection Specialist Centre is looking for a 2nd-hand good conditioned mobile phone for a youth. Donor may whatsapp me between 10am and 5pm, Mondays and Fridays. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "HEART @ Fei Yue",
+        "name": "Reuben Siew",
+        "email": "reubensiew@fycs.org",
+        "phone": [
+          "97599700",
+          "68199170"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Jan 2022"
+    },
+    {
       "id": "104283",
       "category": "Others",
       "name": "Schooling Needs",
@@ -2507,6 +2562,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "104289",
+      "name": "Study table",
+      "description": "in new condition! just got it a month ago.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "24 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": "120cm x 60cm x 73cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "104280",
       "name": "Washing machine 7.5kg Top Load",
@@ -3135,16 +3200,6 @@
       "validTill": "31 Jan 2022",
       "ageInYears": 4,
       "dimensions": "NA.",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104255",
-      "name": "2 seater sofa",
-      "description": "In good condition\nLet me know before 26 Jan",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "26 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -5244,16 +5299,6 @@
       "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
       "validTill": "28 Jan 2022",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103112",
-      "name": "Baby bed",
-      "description": "baby bed from infant to 4 years old. Comes with mattress and bed sheets.",
-      "location": "Geylang, Eunos",
-      "validTill": "27 Jan 2022",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
