@@ -1,6 +1,57 @@
 {
   "requests": [
     {
+      "id": "104284",
+      "category": "Electrical Home Appliances",
+      "name": "3 Wall Fans",
+      "description": "Family lives in public rental flat and have 1 pri school child and a 8-month-old baby. \nThe house is crowded and stuffy. Father is the sole breadwinner doing food deliveries and mother is a home maker. Requesting for 3 wall fans to circulate the air at home.",
+      "specifications": "Wall Fans",
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Jan 2022"
+    },
+    {
+      "id": "104282",
+      "category": "Electrical Home Appliances",
+      "name": "New water heater",
+      "description": "An elderly female who is known to Thye Hua Kwan Moral Charities (THKMC) stays alone & has no family support. She requested for a new water heater as she does not have one & finds it increasingly challenging to use the kettle to boil hot water to shower. Please kindly take note that the fees for the delivery & installation needs to be borne by donor. Pls kindly contact May at 83686286 if you are keen to help this elderly. We appreciate if the donor can arrange for delivery & installation of the water heater directly to the elderly's home at Blk 93 Henderson Rd #08-218 S150093. For more information on THKMC, pls visit: https://www.thkmc.org.sg",
+      "specifications": null,
+      "contact": {
+        "org": "THK Cluster Support @ Bukit Merah",
+        "name": "Lee Wee May",
+        "email": "leeweemay@thkmc.org.sg",
+        "phone": [
+          "69242951"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Jan 2022"
+    },
+    {
+      "id": "104281",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "An elderly male who is known to Thye Hua Kwan Moral Charities (THKMC) stays alone & has no family support. He requested for a new fridge (enough for one person to use) as his current one is spoilt. Please kindly take note that the fees for the delivery needs to be borne by donor. Pls kindly contact May at 83686286 if you are keen to help this elderly. We appreciate if the donor can arrange for delivery & installation of the washing machine directly to the elderly's home at Blk 79 Indus Road #13-439 S(161079). For more information on THKMC, pls visit: https://www.thkmc.org.sg",
+      "specifications": null,
+      "contact": {
+        "org": "THK Cluster Support @ Bukit Merah",
+        "name": "Lee Wee May",
+        "email": "leeweemay@thkmc.org.sg",
+        "phone": [
+          "69242951"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Jan 2022"
+    },
+    {
       "id": "104241",
       "category": "Electrical Home Appliances",
       "name": "Microwave",
@@ -23,24 +74,6 @@
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
       "description": "Client is single mother with 2 children, low income, living in rental flat. Their washing machine is currently spoilt and they do not have financial means to replace/fix. A donation of a washing machine would be of much assistance.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Jurong",
-        "name": "Nathan Hou",
-        "email": "nathanhou@thkmc.org.sg",
-        "phone": [
-          "88554795",
-          "67169466"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Jan 2022"
-    },
-    {
-      "id": "104223",
-      "category": "Electrical Home Appliances",
-      "name": "CCTV camera",
-      "description": "Family has low income and is experiencing family violence. Wife is victim and diagnosed with cancer, unable to work. Children are still schooling. Wife would need assistance with getting a cctv to help with monitoring family’s safety.",
       "specifications": null,
       "contact": {
         "org": "THK Family Service Centre @ Jurong",
@@ -890,23 +923,6 @@
       "date": "17 Jan 2022"
     },
     {
-      "id": "103832",
-      "category": "Home Furnishing",
-      "name": "HDB Gate Lock and Kitchen Tap",
-      "description": "Client is single, in her 50s and with low family support. She is unable to work due to various life setbacks and limitations in cognitive and physical capabilities. She needs a new gate lock and kitchen tap as her current ones are spoilt.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Covenant Family Service Centre - Hougang",
-        "name": "Chan Jun Ren",
-        "email": "chanjunren@mws.sg",
-        "phone": [
-          "62828558"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Jan 2022"
-    },
-    {
       "id": "103816",
       "category": "Home Furnishing",
       "name": "Cupboard",
@@ -1062,23 +1078,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "29 Dec 2021"
-    },
-    {
-      "id": "102845",
-      "category": "Home Furnishing",
-      "name": "Wardrobe",
-      "description": "Client is looking for a sliding 2 door wardrobe to put her clothes in. Her current wardrobe is not working well and there is limited space in her current flat. Hence, she would prefer a sliding wardrobe to save space in her room.",
-      "specifications": null,
-      "contact": {
-        "org": "Sembawang Family Service Centre",
-        "name": "Po Woei Yee",
-        "email": "powoeiyee@sfsc.org.sg",
-        "phone": [
-          "67547050"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "24 Dec 2021"
     },
     {
       "id": "101446",
@@ -1757,23 +1756,6 @@
       "date": "11 Jan 2022"
     },
     {
-      "id": "103601",
-      "category": "Learning Aids",
-      "name": "Laptop (with webcam)",
-      "description": "Client (F/32) requested assistance on laptop for her 4 children's educational use as well as for participation in our FSC's monthly program which is conducted online via Zoom platform. Family's current laptop have numerous technical malfunctions and no longer in use. Donation of a laptop (new or functioning 2nd hand) would be greatly appreciated!",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Teddy Fu",
-        "email": "teddyfu@thkmc.org.sg",
-        "phone": [
-          "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Jan 2022"
-    },
-    {
       "id": "103497",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -1845,6 +1827,110 @@
       "date": "03 Jan 2022"
     },
     {
+      "id": "103968",
+      "category": "Medical Aids",
+      "name": "Blood Pressure Machine",
+      "description": "Client is a 65 year man living alone in a one-room HDB rental unit. He has multiple chronic medical conditions and is undergoing dialysis thrice a week. He has to monitor his blood pressure frequently due to his medical conditions but the current machine is faulty and he hopes for a working set that can assist him to monitor his health. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "NTUC Health Cluster Support - Taman Jurong",
+        "name": "Evelyn Tan",
+        "email": "huiling.t@ntuchealth.sg",
+        "phone": [
+          "62674197"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "18 Jan 2022"
+    },
+    {
+      "id": "103801",
+      "category": "Medical Aids",
+      "name": "Pull-up Adult Diapers (Size S/M)",
+      "description": "Please WhatsApp Odelia at 8588 3163 during office hours or email to Odelia.Teo@THKMC.ORG.SG to liaise. Client is in her 50s. She had completely lost her eyesight in her right eye and is partially blind in her left eye. She also has mobility issues and is unable to work for long without feeling fatigue and pain. Due to her health condition, client is unable to work and hence has limited financial resources. She does not receive support from her family as well. She is currently relying on her elderly friend for diapers, but supplies are running out soon. Would greatly appreciate a donation of pull-up adult diapers of any brand – Size S or M.",
+      "specifications": "Size S/M",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Navarraj",
+        "email": "navarraj@thkmc.org.sg",
+        "phone": [
+          "64961278",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Jan 2022"
+    },
+    {
+      "id": "103361",
+      "category": "Medical Aids",
+      "name": "Diabetes testing related items",
+      "description": "Family of 5, mother has diabetes. Family has high amount of debts (which takes up 50% of their salary) and is working very hard to clear them. As such, FSC is looking at helping them in the meantime while they clear debts, on the required medical accessories expenses. \n\n\nMother will require: \n\n1) Insulin Needles x 3 boxes\nhttps://shopee.sg/BD-MICRO-FINE-NEEDLES-31G-5MM-100-S--EXP--07-2025--i.193456407.9665267684?gclid=Cj0KCQiA_c-OBhDFARIsAIFg3ewyL5gSZeHiF7cOYcKatrQcrKqKsEGzaO1GRKOZyheZZrkVL4FB_1IaAhMuEALw_wcB\n\n2) Hospicare 701 x 3 boxes\nhttps://shopee.sg/Hospicare-701-IPA-70-Percent-Alcohol-Wipes-1s-x-100-Sheets-i.27373250.7055629811?utm_source=google&utm_medium=seller&utm_campaign=s27373250_ss_sg_gshp_gshpbyshopee-Dec21-freshening-adsellerate-dmpp_15637365814&is_seller=true&gclid=Cj0KCQiA_c-OBhDFARIsAIFg3ezJWSZgivC41SWB3PYIZlrXwyzCwviye1P8fCDymSg3aoI2lSiKMgMaAsNBEALw_wcB\n\n3) Alcohol Swab x 3 boxes\nhttps://shopee.sg/BD-Alcohol-Swabs-100s-i.179157835.4885904593?gclid=Cj0KCQiA_c-OBhDFARIsAIFg3ewbBC9KiKK_r_vfnT1pC3TBIzVi8SSukXAcy7ARXHcJsyeCwEwqfscaAnINEALw_wcB",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
+        "name": "Quek Liu Ting",
+        "email": "quekliuting@amkfsc.org.sg",
+        "phone": [
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Jan 2022"
+    },
+    {
+      "id": "103262",
+      "category": "Medical Aids",
+      "name": "First Aid Box with Lock / Small Cabinet with Lock",
+      "description": "Family requires a small cabinet with lock / first aid kit box with lock to store medications. Kindly contact me at 89407231 for more information.",
+      "specifications": null,
+      "contact": {
+        "org": "Monfort Care - Big Love Child Protection",
+        "name": "Lilys Amirah Abdullah",
+        "email": "lilys.abdullah@montfortcare.org.sg",
+        "phone": [
+          "64450400"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Jan 2022"
+    },
+    {
+      "id": "102899",
+      "category": "Medical Aids",
+      "name": "TEN ADULT PANTS XL",
+      "description": "We are appealing for TENA ADULT PANTS XL for a low income client who suffer from long term bladder  issues and is unable to work due to her poor health",
+      "specifications": "XL",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
+        "name": "Maggie Gan",
+        "email": "maggiegan@amkfsc.org.sg",
+        "phone": [
+          "65536643",
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Dec 2021"
+    },
+    {
+      "id": "104283",
+      "category": "Others",
+      "name": "Schooling Needs",
+      "description": "Family lives in public rental flat and have 1 pri school child and a 8-month-old baby. \nThe house is crowded and stuffy. Father is the sole breadwinner doing food deliveries and mother is a home maker. Requesting for $100 Popular Bookstore vouchers to buy schooling needs.",
+      "specifications": "Schooling Needs",
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Jan 2022"
+    },
+    {
       "id": "104252",
       "category": "Others",
       "name": "Groceries",
@@ -1912,24 +1998,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "21 Jan 2022"
-    },
-    {
-      "id": "104064",
-      "category": "Others",
-      "name": "Trolley",
-      "description": "Client is from a low-income household of four (husband, client and two children). Her husband and her are deemed medically unfit to work due to health and mental issues. They need a trolley to help them carry food rations, but are unable to afford it.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Cheng San",
-        "name": "Charmaine Lim",
-        "email": "charmainelim@amkfsc.org.sg",
-        "phone": [
-          "64546678ext217",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Jan 2022"
     },
     {
       "id": "104015",
@@ -2232,23 +2300,6 @@
       "date": "12 Jan 2022"
     },
     {
-      "id": "103698",
-      "category": "Others",
-      "name": "TENA PROskin Pants Unisex Adult Diapers XL",
-      "description": "Client is an elderly widow with no children. She has multiple medical conditions, including an autoimmune disease. She is wheelchair-bound, and requires diapers at night, as well as when she goes for her rehab sessions and medical appointments.",
-      "specifications": "Size XL - 4 packs (2 months' supply)",
-      "contact": {
-        "org": "St. Hilda's Community Services Centre",
-        "name": "Jaime Yeo Min",
-        "email": "jaime.yeo@sthildascsc.org.sg",
-        "phone": [
-          "63450054"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Jan 2022"
-    },
-    {
       "id": "103677",
       "category": "Others",
       "name": "Groceries",
@@ -2260,23 +2311,6 @@
         "email": "lyndonmathews@amkfsc.org.sg",
         "phone": [
           "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "11 Jan 2022"
-    },
-    {
-      "id": "103668",
-      "category": "Others",
-      "name": "Laptop",
-      "description": "The client is a single mother with a four-year old daughter. She is the sole breadwinner and caregiver to her daughter. She is currently using her phone to perform all online tasks. She hopes to get a laptop to attend virtual meetings or work on documents to increase her efficiency.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Covenant Family Service Centre - Hougang",
-        "name": "Chan Jun Ren",
-        "email": "chanjunren@mws.sg",
-        "phone": [
-          "62828558"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2419,146 +2453,6 @@
       "date": "27 Dec 2021"
     },
     {
-      "id": "102841",
-      "category": "Others",
-      "name": "Abbott Similac Follow On Milk Formula, Stage 2",
-      "description": "The family is faced with multiple transitions in the recent months and would benefit from support to provide caregiving to the infant. Thank you. \n\nInterested donors kindly contact: Joyce Gee 6978 3601 joycegee@carecorner.org.sg",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Admiralty",
-        "name": "Juanna Sia",
-        "email": null,
-        "phone": [
-          "63658751"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Dec 2021"
-    },
-    {
-      "id": "102837",
-      "category": "Others",
-      "name": "Spectacles for Low Income Family",
-      "description": "A large family with 8 children, having difficulty making ends meet. Mother and a son have been experiencing blurry vision and require spectacles prescriptions. Vouchers for Spectacles are preferred.  Interested donor, please contact worker at shiyan@frcsfsc.sg or 8554-8219. Thank you very much!",
-      "specifications": null,
-      "contact": {
-        "org": "FRCS Family Service Centre - Clementi",
-        "name": "Lim Shi Yan",
-        "email": "shiyan@frcsfsc.sg",
-        "phone": [
-          "67799488ext55",
-          "67799488"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "24 Dec 2021"
-    },
-    {
-      "id": "104243",
-      "category": "Medical Aids",
-      "name": "Home blood pressure monitor",
-      "description": "Client had a stroke recently and is unable to work. Client was advised from her doctor to get a blood pressure monitor to check her blood pressure regularly so that she can receive necessary medical attention if her blood pressure is too high. Client is a divorcee who lives in a rental flat with her 9 year old son.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Yew Tee",
-        "name": "Diana Koh",
-        "email": "dianakoh@fycs.org",
-        "phone": [
-          "64162190",
-          "64162162"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Jan 2022"
-    },
-    {
-      "id": "103968",
-      "category": "Medical Aids",
-      "name": "Blood Pressure Machine",
-      "description": "Client is a 65 year man living alone in a one-room HDB rental unit. He has multiple chronic medical conditions and is undergoing dialysis thrice a week. He has to monitor his blood pressure frequently due to his medical conditions but the current machine is faulty and he hopes for a working set that can assist him to monitor his health. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "NTUC Health Cluster Support - Taman Jurong",
-        "name": "Evelyn Tan",
-        "email": "huiling.t@ntuchealth.sg",
-        "phone": [
-          "62674197"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "18 Jan 2022"
-    },
-    {
-      "id": "103801",
-      "category": "Medical Aids",
-      "name": "Pull-up Adult Diapers (Size S/M)",
-      "description": "Please WhatsApp Odelia at 8588 3163 during office hours or email to Odelia.Teo@THKMC.ORG.SG to liaise. Client is in her 50s. She had completely lost her eyesight in her right eye and is partially blind in her left eye. She also has mobility issues and is unable to work for long without feeling fatigue and pain. Due to her health condition, client is unable to work and hence has limited financial resources. She does not receive support from her family as well. She is currently relying on her elderly friend for diapers, but supplies are running out soon. Would greatly appreciate a donation of pull-up adult diapers of any brand – Size S or M.",
-      "specifications": "Size S/M",
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Navarraj",
-        "email": "navarraj@thkmc.org.sg",
-        "phone": [
-          "64961278",
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Jan 2022"
-    },
-    {
-      "id": "103361",
-      "category": "Medical Aids",
-      "name": "Diabetes testing related items",
-      "description": "Family of 5, mother has diabetes. Family has high amount of debts (which takes up 50% of their salary) and is working very hard to clear them. As such, FSC is looking at helping them in the meantime while they clear debts, on the required medical accessories expenses. \n\n\nMother will require: \n\n1) Insulin Needles x 3 boxes\nhttps://shopee.sg/BD-MICRO-FINE-NEEDLES-31G-5MM-100-S--EXP--07-2025--i.193456407.9665267684?gclid=Cj0KCQiA_c-OBhDFARIsAIFg3ewyL5gSZeHiF7cOYcKatrQcrKqKsEGzaO1GRKOZyheZZrkVL4FB_1IaAhMuEALw_wcB\n\n2) Hospicare 701 x 3 boxes\nhttps://shopee.sg/Hospicare-701-IPA-70-Percent-Alcohol-Wipes-1s-x-100-Sheets-i.27373250.7055629811?utm_source=google&utm_medium=seller&utm_campaign=s27373250_ss_sg_gshp_gshpbyshopee-Dec21-freshening-adsellerate-dmpp_15637365814&is_seller=true&gclid=Cj0KCQiA_c-OBhDFARIsAIFg3ezJWSZgivC41SWB3PYIZlrXwyzCwviye1P8fCDymSg3aoI2lSiKMgMaAsNBEALw_wcB\n\n3) Alcohol Swab x 3 boxes\nhttps://shopee.sg/BD-Alcohol-Swabs-100s-i.179157835.4885904593?gclid=Cj0KCQiA_c-OBhDFARIsAIFg3ewbBC9KiKK_r_vfnT1pC3TBIzVi8SSukXAcy7ARXHcJsyeCwEwqfscaAnINEALw_wcB",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
-        "name": "Quek Liu Ting",
-        "email": "quekliuting@amkfsc.org.sg",
-        "phone": [
-          "64535349"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Jan 2022"
-    },
-    {
-      "id": "103262",
-      "category": "Medical Aids",
-      "name": "First Aid Box with Lock / Small Cabinet with Lock",
-      "description": "Family requires a small cabinet with lock / first aid kit box with lock to store medications. Kindly contact me at 89407231 for more information.",
-      "specifications": null,
-      "contact": {
-        "org": "Monfort Care - Big Love Child Protection",
-        "name": "Lilys Amirah Abdullah",
-        "email": "lilys.abdullah@montfortcare.org.sg",
-        "phone": [
-          "64450400"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Jan 2022"
-    },
-    {
-      "id": "102899",
-      "category": "Medical Aids",
-      "name": "TEN ADULT PANTS XL",
-      "description": "We are appealing for TENA ADULT PANTS XL for a low income client who suffer from long term bladder  issues and is unable to work due to her poor health",
-      "specifications": "XL",
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
-        "name": "Maggie Gan",
-        "email": "maggiegan@amkfsc.org.sg",
-        "phone": [
-          "65536643",
-          "64535349"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Dec 2021"
-    },
-    {
       "id": "104045",
       "category": "Mobility Aids",
       "name": "Personal Mobility Aid",
@@ -2612,23 +2506,6 @@
       "date": "13 Jan 2022"
     },
     {
-      "id": "103073",
-      "category": "Mobility Aids",
-      "name": "Detachable wheelchair",
-      "description": "Patient, 53 years old  is divorced with 2 children (F/26, M/19). He is diagnosed with Stroke and admitted at Alexandra Hospital for rehabilitation.Patient would require detachable wheelchair(18",
-      "specifications": "18",
-      "contact": {
-        "org": "Alexandra Hospital - Care &amp; Counselling",
-        "name": "Elaine Aw",
-        "email": "aw_mu_lan@nuhs.edu.sg",
-        "phone": [
-          "63793260"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 Dec 2021"
-    },
-    {
       "id": "102934",
       "category": "Mobility Aids",
       "name": "Electric Scooter",
@@ -2648,6 +2525,116 @@
     }
   ],
   "offers": [
+    {
+      "id": "104280",
+      "name": "Washing machine 7.5kg Top Load",
+      "description": "Well loved Samsung washing machine to hand over to someone who needs it. In full working condition.",
+      "location": null,
+      "validTill": "24 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": "56 X 54 X 85",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104279",
+      "name": "Washing machine 7.5kg Top Load",
+      "description": "Well loved Samsung washing machine to hand over to someone who needs it. In full working condition.",
+      "location": null,
+      "validTill": "24 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": "56 X 54 X 85",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104278",
+      "name": "Reclining wheelchair-Still new",
+      "description": "Used for a week. Still new",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "24 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104277",
+      "name": "Bion Wheel chair (Used)",
+      "description": "Used but still workable.",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "24 Feb 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104276",
+      "name": "Dining table",
+      "description": "Table is in good condition. Comes with 4 chairs",
+      "location": null,
+      "validTill": "26 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": "90*168cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104275",
+      "name": "Chinese Style Desk with Chair",
+      "description": "Antique Chinese style desk (needs a little restoration) and Office Chair",
+      "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+      "validTill": "15 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": "122 x 51 x 84",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104274",
+      "name": "King sized mattress",
+      "description": "King sized bed, less than 2 years old. Picture shows the top of the mattress and as you can see, it's super clean and still looks new",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "24 Feb 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104273",
+      "name": "Kids bicycle",
+      "description": "14 inch wheels Children's bicycle with training wheels that can be attached.",
+      "location": "Telok Blangah, Harbourfront",
+      "validTill": "24 Feb 2022",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104271",
+      "name": "Washing machine 7.5kg Top Load",
+      "description": "Well loved Samsung washing machine to hand over to someone who needs it. In full working condition.",
+      "location": null,
+      "validTill": "24 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": "56 X 54 X 85",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104270",
+      "name": "LG 8kg front load washer",
+      "description": "Washer has been regularly maintained throughout the years of usage. Item has to be moved out by 27 Jan 2022.",
+      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
+      "validTill": "27 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104269",
+      "name": "LG 8kg front load washer",
+      "description": "Washer has been regularly maintained throughout the years of usage. Item has to be moved out by 27 Jan 2022.",
+      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
+      "validTill": "27 Jan 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "104268",
       "name": "Clothes (mainly female, primary school, teens and adult)",
@@ -2789,16 +2776,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "104237",
-      "name": "Hospital Bed with mattress",
-      "description": "Comes with 4\" foam mattress.\nElectrically adjustable.",
-      "location": "Kranji, Woodgrove",
-      "validTill": "23 Feb 2022",
-      "ageInYears": 1,
-      "dimensions": "211cmx106cmx69cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "104234",
       "name": "overbed table",
       "description": "I have 2 units of this",
@@ -2839,7 +2816,7 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "104215",
+      "id": "104285",
       "name": "Wardrobe",
       "description": "Used wardrobe. 10 door. Ample of space. I have 3 of such wardrobe. \n\nAs I am moving house, its not possible for me to pay for delivery as I have about 30 items to give away.",
       "location": "Yishun, Sembawang",
@@ -2986,16 +2963,6 @@
       "validTill": "11 Feb 2022",
       "ageInYears": 4,
       "dimensions": "58cm (length) x 66cm (height) x 40cm (depth)",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104189",
-      "name": "Clothes Cabinet",
-      "description": "5 drawer clothes cabinet",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "11 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": "80cm (length) x 112cm (height) x 47cm ( depth)",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3699,16 +3666,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103998",
-      "name": "Pineapple Tarts",
-      "description": "We are group of home bakers looking yo bake CNY cookies to delight blue chas card children. Will have to discuss on collection/delivery depending on bakers schedule. Some bakers have no transport and pick up needed. Will match with nearby baker for ease of travel",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "25 Jan 2022",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103993",
       "name": "Tricycle for kids",
       "description": "Good condition. Clean.",
@@ -3796,16 +3753,6 @@
       "validTill": "16 Feb 2022",
       "ageInYears": 2,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103937",
-      "name": "Hospital Bed w mattress,walking frame,leg foot rest,adult diapers",
-      "description": "Walking frame L52xW52cH92cm. In addition one leg rest pillow (big). Bed come with 4\" standard PVC foam mattress. Brand new adult pampers. Draw sheet 210cm x 80cm (For Bed)",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "25 Jan 2022",
-      "ageInYears": 1,
-      "dimensions": "L215xW104xH49cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -4019,16 +3966,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103864",
-      "name": "Wheelchair",
-      "description": "Wheelchair for donation. We do not have have sufficient fund to pay for delivery. Hope that kind organisation/ person can help fund the delivery fee. Thank you.",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "15 Feb 2022",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103860",
       "name": "Steamboat",
       "description": "Steamboat works though there are normal food stains in the pot itself",
@@ -4056,16 +3993,6 @@
       "validTill": "14 Feb 2022",
       "ageInYears": 4,
       "dimensions": "1.75m (l) × 0.95m (b) × 0.6m (h)",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103852",
-      "name": "Dining table and bench",
-      "description": "Used but still new dining table set. Pls advise if you can cover delivery fee?",
-      "location": null,
-      "validTill": "25 Jan 2022",
-      "ageInYears": 2,
-      "dimensions": "Table 120 x 60cm, bench fits the table",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -4226,16 +4153,6 @@
       "validTill": "12 Feb 2022",
       "ageInYears": 3,
       "dimensions": "1.6m x 1m x 0.6m",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103782",
-      "name": "Dining chairs.  4",
-      "description": "Well used and well taken care of dining chairs x4 \nCushion in good condition\nHas chair cover for protection since purchased",
-      "location": "Jurong",
-      "validTill": "25 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -4705,16 +4622,6 @@
       "location": null,
       "validTill": "05 Feb 2022",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103488",
-      "name": "Electronic Hoist Machine",
-      "description": "For transferring patient from bed to wheelchair/commode.",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "05 Feb 2022",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -5349,16 +5256,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "102955",
-      "name": "office chair",
-      "description": "office chair..well used but still in fairly good condition",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "25 Jan 2022",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "102953",
       "name": "Sorting toys, counting blocks",
       "description": "Toys suitable for age 1-3",
@@ -5375,46 +5272,6 @@
       "location": "Queenstown, Tiong Bahru",
       "validTill": "26 Jan 2022",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102891",
-      "name": "Baseball/softball shoes",
-      "description": "Baseball or softball shoes with studs",
-      "location": "Telok Blangah, Harbourfront",
-      "validTill": "25 Jan 2022",
-      "ageInYears": 2,
-      "dimensions": "Us size 7",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102890",
-      "name": "Black school shoes",
-      "description": "Reebok sport shoes for girl",
-      "location": "Telok Blangah, Harbourfront",
-      "validTill": "25 Jan 2022",
-      "ageInYears": 1,
-      "dimensions": "18cm or size 12 USA",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102889",
-      "name": "School shoes (black)",
-      "description": "Used black school shoes still in good condition. (Size 21)",
-      "location": "Telok Blangah, Harbourfront",
-      "validTill": "25 Jan 2022",
-      "ageInYears": 1,
-      "dimensions": "Size 21",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102883",
-      "name": "Girl School Bag",
-      "description": "May need some washing but is a working bag for primary school kids.",
-      "location": "Kranji, Woodgrove",
-      "validTill": "25 Jan 2022",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     }
