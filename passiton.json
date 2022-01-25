@@ -3,8 +3,8 @@
     {
       "id": "104282",
       "category": "Electrical Home Appliances",
-      "name": "New water heater",
-      "description": "An elderly female who is known to Thye Hua Kwan Moral Charities (THKMC) stays alone & has no family support. She requested for a new water heater as she does not have one & finds it increasingly challenging to use the kettle to boil hot water to shower. Please kindly take note that the fees for the delivery & installation needs to be borne by donor. Pls kindly contact May at 83686286 if you are keen to help this elderly. We appreciate if the donor can arrange for delivery & installation of the water heater directly to the elderly's home at Blk 93 Henderson Rd #08-218 S150093. For more information on THKMC, pls visit: https://www.thkmc.org.sg",
+      "name": "Water Heater",
+      "description": "An elderly female who is known to Thye Hua Kwan Moral Charities (THKMC) stays alone & has no family support. She requested for a preferable new water heater as she does not have one & finds it increasingly challenging to use the kettle to boil hot water to shower. Please kindly take note that the fees for the delivery & installation needs to be borne by donor. Pls kindly contact May at 83686286 if you are keen to help this elderly. We appreciate if the donor can arrange for delivery & installation of the water heater directly to the elderly's home at Blk 93 Henderson Rd #08-218 S150093. For more information on THKMC, pls visit: https://www.thkmc.org.sg",
       "specifications": null,
       "contact": {
         "org": "THK Cluster Support @ Bukit Merah",
@@ -681,6 +681,24 @@
       "date": "27 Dec 2021"
     },
     {
+      "id": "104299",
+      "category": "Home Furnishing",
+      "name": "Wardrobe",
+      "description": "My client and her family of 4 (1 special needs child) has recently gotten their HDB rental flat and will be moving in soon. The family is facing financial hardship and does not have any income, as they are unfit for work due to medical conditions. Hence, they would like to request for a wardrobe for their new place.\nIf anyone can support this item, please contact Ying Jie @ +65 84339449(whatsapp/sms/call) or email int_yingjie@newhopecs.org.sg. They also hope donors can support the delivery of the item as well. Thank you in advance for supporting our client.",
+      "specifications": null,
+      "contact": {
+        "org": "New Hope Community Services",
+        "name": "Goh Ann Tat",
+        "email": "anntat@newhopecs.org.sg",
+        "phone": [
+          "87952925",
+          "63059620"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "25 Jan 2022"
+    },
+    {
       "id": "104292",
       "category": "Home Furnishing",
       "name": "Dining table (4pax)",
@@ -1061,6 +1079,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "29 Dec 2021"
+    },
+    {
+      "id": "104298",
+      "category": "Leisure and Healthy Lifestyle",
+      "name": "Mountain Bike with Front basket",
+      "description": "Retiree old bicycle was damaged. Seeks a mountain bike with front basket for marketing runs and exercise.",
+      "specifications": null,
+      "contact": {
+        "org": "Whampoa Family Service Centre",
+        "name": "Travis Lee",
+        "email": "travislee@kkcs.org.sg",
+        "phone": [
+          "63260300"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "25 Jan 2022"
     },
     {
       "id": "101446",
@@ -1846,6 +1881,23 @@
       "date": "03 Jan 2022"
     },
     {
+      "id": "104296",
+      "category": "Medical Aids",
+      "name": "ART Kits",
+      "description": "Blue CHAS card elderly, unemployed. Recently warded and discharged. Was told to do ART but they do not have any and too costly to buy. Appreciate donation of 8-10 kits.",
+      "specifications": null,
+      "contact": {
+        "org": "Whampoa Family Service Centre",
+        "name": "Travis Lee",
+        "email": "travislee@kkcs.org.sg",
+        "phone": [
+          "63260300"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "25 Jan 2022"
+    },
+    {
       "id": "103968",
       "category": "Medical Aids",
       "name": "Blood Pressure Machine",
@@ -1931,6 +1983,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "27 Dec 2021"
+    },
+    {
+      "id": "104300",
+      "category": "Others",
+      "name": "2 seater sofa",
+      "description": "Client (53/F) is a divorcee who lives at a HDB 1 room rental flat with her friend. Client is unemployed and has multiple medical conditions(eczema, slip disc, hearing impairment, hepatitis C, chronic migranes, asthma)  that requires ongoing treatment.  Client would appreciate the donation of a 2 seater sofa for the family.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Joycelyn Wong",
+        "email": "joycelynwong@fycs.org",
+        "phone": [
+          "66901010",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Jan 2022"
+    },
+    {
+      "id": "104297",
+      "category": "Others",
+      "name": "Bicycle",
+      "description": "Client's son works as a delivery rider on foot. He hopes to be able to earn more income by using a bicycle. Unfortunately, client's family is unable to afford to buy a bicycle and is looking for a pre-loved one for her son",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Joycelyn Wong",
+        "email": "joycelynwong@fycs.org",
+        "phone": [
+          "66901010",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Jan 2022"
     },
     {
       "id": "104293",
@@ -2653,16 +2741,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "104271",
-      "name": "Washing machine 7.5kg Top Load",
-      "description": "Well loved Samsung washing machine to hand over to someone who needs it. In full working condition.",
-      "location": null,
-      "validTill": "24 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": "56 X 54 X 85",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "104270",
       "name": "LG 8kg front load washer",
       "description": "Washer has been regularly maintained throughout the years of usage. Item has to be moved out by 27 Jan 2022.",
@@ -2899,16 +2977,6 @@
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
       "validTill": "02 Feb 2022",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104204",
-      "name": "Pedestal Fans",
-      "description": "Both the fans are working fine.",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "02 Feb 2022",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
