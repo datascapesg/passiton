@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "104333",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is 21F, currently the sole breadwinner of household of 7 persons. Her parents are having chronic medical issues and receiving treatment at hospitals, thus aree unable to seek employment. Client has to take up the responsibility to finance the household where 4 of her siblings are still schooling. She earns a low income and thus the family iàs facing financial hardship. Their washing machine had recently broken down and they are unable to afford another machine. Would like to request for donation for a 7kg (minimum) washing machine for the family. For liaison on delivery address etc, do contact me at 98598768. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (East)",
+        "name": "Nur Afrina",
+        "email": "fsceast@ppis.sg",
+        "phone": [
+          "69503503"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jan 2022"
+    },
+    {
       "id": "104282",
       "category": "Electrical Home Appliances",
       "name": "Water Heater",
@@ -681,6 +698,40 @@
       "date": "27 Dec 2021"
     },
     {
+      "id": "104338",
+      "category": "Home Furnishing",
+      "name": "Single size bed frame with mattress",
+      "description": "Client requires a single size bed frame with mattress as his current bed frame and mattress is infested with bed bugs. Due to unemployment as a result of his poor physical health, client is unable to afford a new or used unit on his own.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Janarthanan S/O Lingasparan",
+        "email": "jana.lingasparan@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jan 2022"
+    },
+    {
+      "id": "104337",
+      "category": "Home Furnishing",
+      "name": "Queen size Storage Bed with Mattress",
+      "description": "Client currently requires a queen size bed frame (with storage to reduce clutter at home) and mattress. Due to the lack of financial resources client is unable to replace her current unit which is in poor condition.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Janarthanan S/O Lingasparan",
+        "email": "jana.lingasparan@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jan 2022"
+    },
+    {
       "id": "104317",
       "category": "Home Furnishing",
       "name": "Kitchen cabinet/shelf",
@@ -765,24 +816,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "24 Jan 2022"
-    },
-    {
-      "id": "101757",
-      "category": "Home Furnishing",
-      "name": "1x Pull out bunk bed",
-      "description": "Single mother with low income has two young children who needs 1x bunk bed (pull out) as their current one is spoilt.\nAppreciate for donor to arrange and cover delivery, (dismantle and re-assemble if needed) to client house. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Mindy Choo",
-        "email": "mindychoo@fycs.org",
-        "phone": [
-          "89078297",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Jan 2022"
     },
     {
       "id": "104060",
@@ -1060,6 +1093,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Jan 2022"
+    },
+    {
+      "id": "104334",
+      "category": "Infant and Children Items",
+      "name": "Diapers Size L pull up , Dumex Dugro stage 3",
+      "description": "Due to the sudden loss in income, client (sole breadwinner of a family of 7) is currently struggling to stabilize family's financial situation and is struggling to purchase milk powder and diapers for daughter aged 2.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Janarthanan S/O Lingasparan",
+        "email": "jana.lingasparan@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jan 2022"
     },
     {
       "id": "104320",
@@ -2076,41 +2126,6 @@
       "date": "25 Jan 2022"
     },
     {
-      "id": "104293",
-      "category": "Others",
-      "name": "Mobile Phone",
-      "description": "HEART@Fei Yue, Child Protection Specialist Centre is looking for a 2nd-hand good conditioned mobile phone for a youth. Donor may whatsapp me between 10am and 5pm, Mondays and Fridays. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Reuben Siew",
-        "email": "reubensiew@fycs.org",
-        "phone": [
-          "97599700",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Jan 2022"
-    },
-    {
-      "id": "104283",
-      "category": "Others",
-      "name": "Schooling Needs",
-      "description": "Family lives in public rental flat and have 1 pri school child and a 8-month-old baby. \nThe house is crowded and stuffy. Father is the sole breadwinner doing food deliveries and mother is a home maker. Requesting for $100 Popular Bookstore vouchers to buy schooling needs.",
-      "specifications": "Schooling Needs",
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "amychua@mws.sg",
-        "phone": [
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Jan 2022"
-    },
-    {
       "id": "104252",
       "category": "Others",
       "name": "Groceries",
@@ -2723,6 +2738,116 @@
   ],
   "offers": [
     {
+      "id": "104343",
+      "name": "Lightweight umbrella stroller",
+      "description": "Bonbebe lightweight umbrella stroller in good condition",
+      "location": "Geylang, Eunos",
+      "validTill": "25 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104342",
+      "name": "Rehab toilet seater",
+      "description": "Working condition toilet seater.",
+      "location": "Yishun, Sembawang",
+      "validTill": "25 Feb 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104341",
+      "name": "Grey 2 seater sofa",
+      "description": "2 seater sofa. Quite heavily stained as picture shown above but will provide the dark grey cover shown in the picture. Cushions shown in the picture will also be provided.",
+      "location": "Seletar",
+      "validTill": "25 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104339",
+      "name": "Lightweight umbrella stroller",
+      "description": "Bonbebe lightweight umbrella stroller in good condition",
+      "location": "Geylang, Eunos",
+      "validTill": "25 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104335",
+      "name": "Motorised wheelchair",
+      "description": "Self collection at Punggol Drive flat. Used motorised wheelchair. Functioning well. Slight wear and tear at the side of cushion seat.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "25 Feb 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104332",
+      "name": "Hoist",
+      "description": "Self collection from Punggol Drive flat.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "25 Feb 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104330",
+      "name": "Super Single Wooden Bed Frame and Mattress",
+      "description": "Barely used as this is in our guest room, so it is in great condition. Mattress is from Sea Horse.",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "07 Feb 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104329",
+      "name": "Lightweight umbrella stroller",
+      "description": "Bonbebe lightweight umbrella stroller in good condition",
+      "location": "Geylang, Eunos",
+      "validTill": "25 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104328",
+      "name": "Clothes Eack",
+      "description": "Adjustable height for each level.\nWheel base",
+      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
+      "validTill": "30 Jan 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104327",
+      "name": "Baby lightweight stroller",
+      "description": "Prego lightweight stroller in good condition",
+      "location": "Geylang, Eunos",
+      "validTill": "25 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104326",
+      "name": "Baby lightweight stroller",
+      "description": "Alecia lightweight stroller in good condition.",
+      "location": "Geylang, Eunos",
+      "validTill": "25 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "104325",
       "name": "16in Sona table fan",
       "description": "Used a few months only. Bought a bigger fan so do not need it.",
@@ -2740,26 +2865,6 @@
       "validTill": "25 Feb 2022",
       "ageInYears": 1,
       "dimensions": "L215xW104xH49cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104323",
-      "name": "Brand New Chairs x 4",
-      "description": "Bought in March 2021 but did not use because these were extras. In brand new xondition.",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "25 Feb 2022",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104322",
-      "name": "Brand New PowerPac Table Fan (16 inch)",
-      "description": "Brand new 16 inch PowerPac table fan. Bought in Sep 2021 but didn't have a chance to use. Still in the box.",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "25 Feb 2022",
-      "ageInYears": 1,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -2853,27 +2958,7 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "104273",
-      "name": "Kids bicycle",
-      "description": "14 inch wheels Children's bicycle with training wheels that can be attached.",
-      "location": "Telok Blangah, Harbourfront",
-      "validTill": "24 Feb 2022",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "104270",
-      "name": "LG 8kg front load washer",
-      "description": "Washer has been regularly maintained throughout the years of usage. Item has to be moved out by 27 Jan 2022.",
-      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
-      "validTill": "27 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104269",
       "name": "LG 8kg front load washer",
       "description": "Washer has been regularly maintained throughout the years of usage. Item has to be moved out by 27 Jan 2022.",
       "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
@@ -2950,16 +3035,6 @@
       "validTill": "04 Feb 2022",
       "ageInYears": 1,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104251",
-      "name": "TV for donation",
-      "description": "Used TV for donation. Still usable but did not test due to moving house with no digital box on hand.\n\nMIL was still using it well in 2021.\n\nSorry will not be able to cover delivery costs.",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "31 Jan 2022",
-      "ageInYears": 3,
-      "dimensions": "Not sure",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3250,16 +3325,6 @@
       "validTill": "22 Feb 2022",
       "ageInYears": 4,
       "dimensions": "135cm x 66cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104174",
-      "name": "KING SIZE MATTRESS",
-      "description": "SIMMONS BEAUTY REST KING SIZE MATTRESS. GOOD CONDITION. NO STAIN",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "26 Jan 2022",
-      "ageInYears": 3,
-      "dimensions": "193 X 203.5cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3623,16 +3688,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "104094",
-      "name": "Ladies Nike Shoe",
-      "description": "lightly used nike shoes.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "31 Jan 2022",
-      "ageInYears": 1,
-      "dimensions": "US Size 9.5, UK Size 7",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "104093",
       "name": "Cartoon mattress in pristine condition",
       "description": "Never slept on it, just used as sofa, so it is still quite new. Can be used as child bed.",
@@ -3806,16 +3861,6 @@
       "id": "104026",
       "name": "Cosmo med foldable valve drainage bag",
       "description": "18 pieces",
-      "location": "Raffles Place, Cecil, Marina, People's Park",
-      "validTill": "18 Feb 2022",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104025",
-      "name": "Guardian Comfortcare underpads",
-      "description": "60x10cm 5x\n75x75cm 5x",
       "location": "Raffles Place, Cecil, Marina, People's Park",
       "validTill": "18 Feb 2022",
       "ageInYears": 1,
@@ -4610,26 +4655,6 @@
       "validTill": "08 Feb 2022",
       "ageInYears": 3,
       "dimensions": "19 x 9 x 2 cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104287",
-      "name": "Television - old model",
-      "description": "old model television but working condition",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "08 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": "80x50x45 cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104288",
-      "name": "Television - old model",
-      "description": "old model television but working condition",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "08 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": "80x50x45 cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -5449,26 +5474,6 @@
       "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
       "validTill": "28 Jan 2022",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102953",
-      "name": "Sorting toys, counting blocks",
-      "description": "Toys suitable for age 1-3",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "26 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "102939",
-      "name": "Combi Pram",
-      "description": "Baby pram",
-      "location": "Queenstown, Tiong Bahru",
-      "validTill": "26 Jan 2022",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     }
