@@ -855,23 +855,6 @@
       "date": "25 Jan 2022"
     },
     {
-      "id": "104310",
-      "category": "Home Furnishing",
-      "name": "Foldable Mattress",
-      "description": "Family of 7 (5 of their children are aged 13 and below) staying in a two room rental flat require support in having new mattress as the old ones have worn off. The family is in need of 2 single-size foldable mattress. Mattress will be delivered to beneficiary's place and please contact us at dik@childrensociety.org.sg for details.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Peng Hui",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Jan 2022"
-    },
-    {
       "id": "104286",
       "category": "Home Furnishing",
       "name": "3 seaters sofa",
@@ -1181,6 +1164,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Jan 2022"
+    },
+    {
+      "id": "104356",
+      "category": "Infant and Children Items",
+      "name": "Milk powder + Diapers",
+      "description": "Client F/35 is a single mother to a young child M/3. Client lives in a rental unit with her elderly mother and younger brother who is unemployed due to health issues. Client is working part-time due to the need to take care of her son and struggles to afford milk powder and diapers.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Regine Yeo",
+        "email": "regine.yeo@ppis.sg",
+        "phone": [
+          "65613462ext519",
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "26 Jan 2022"
     },
     {
       "id": "104345",
@@ -2090,6 +2091,24 @@
       "date": "03 Jan 2022"
     },
     {
+      "id": "104353",
+      "category": "Medical Aids",
+      "name": "FairPrice Adult Diapers Ultra - M",
+      "description": "Son is taking care of her mother who is bed-bound after her stroke. His mother requires the diapers and the son helps to change her diapers after every meal due to her health condition. Son is the sole caregiver and has some physical disabilities. He prefers the NTUC ultra one for heavy usage. https://www.fairprice.com.sg/product/fairprice-adult-diapers-ultra-m-15-per-pack-13180716?gclid=Cj0KCQiAhs79BRD0ARIsAC6XpaW4r1CHPRGz5UyJlHVK1nwk0zrl55OJvQHj8F70FyfNhbLOEb6rte0aAhD9EALw_wcB Please contact me at 9654 6514.",
+      "specifications": "NA",
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Telok Blangah",
+        "name": "Gina Peh",
+        "email": "gina.peh@montfortcare.org.sg",
+        "phone": [
+          "62746904",
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jan 2022"
+    },
+    {
       "id": "103968",
       "category": "Medical Aids",
       "name": "Blood Pressure Machine",
@@ -2735,23 +2754,6 @@
       "date": "27 Dec 2021"
     },
     {
-      "id": "104303",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "Client is a 84yo elderly and she needs a well functioning wheelchair to help her move around as her physical mobility is deteriorating. She stays with her son and son's family. Son is financially supporting the whole family hence could not afford a new wheelchair.\nPlease contact Ms. Charina Wang at charinawang@fycs.org or 8429 3706 to arrange for the donation. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Community Services - COMIT",
-        "name": "Wong Ji'En",
-        "email": "wongjien@fycs.org",
-        "phone": [
-          "66619488"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Jan 2022"
-    },
-    {
       "id": "104045",
       "category": "Mobility Aids",
       "name": "Personal Mobility Aid",
@@ -2824,6 +2826,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "104355",
+      "name": "Lightweight umbrella stroller",
+      "description": "Bonbebe lightweight umbrella stroller in good condition",
+      "location": "Geylang, Eunos",
+      "validTill": "25 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "104352",
       "name": "Black Leather Sofa - 3 Seater",
@@ -3695,16 +3707,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "104103",
-      "name": "Adult diapers -Top, Nateen & Tena sz M (Pull up & Tape type",
-      "description": "Mix brands diapers Sz M",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "20 Feb 2022",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "104101",
       "name": "Sofa",
       "description": "Grey L-shape sofa",
@@ -3925,16 +3927,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "104022",
-      "name": "Tena value M adult diapers",
-      "description": "2+ packs",
-      "location": "Raffles Place, Cecil, Marina, People's Park",
-      "validTill": "18 Feb 2022",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "104005",
       "name": "IKEA CHILDREN EXTENDABLE BED",
       "description": "https://www.ikea.com/sg/en/p/busunge-extendable-bed-white-50351340/",
@@ -4141,16 +4133,6 @@
       "location": "Queenstown, Tiong Bahru",
       "validTill": "07 Feb 2022",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103880",
-      "name": "Card and key holder",
-      "description": "New card and key holder, kept for 2 years but never use before.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "31 Jan 2022",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4795,16 +4777,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103553",
-      "name": "Neck massagrer",
-      "description": "Giving away",
-      "location": "Little India",
-      "validTill": "30 Jan 2022",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103552",
       "name": "Water Flask",
       "description": "Giving away.",
@@ -4852,16 +4824,6 @@
       "validTill": "06 Feb 2022",
       "ageInYears": 4,
       "dimensions": "158cm (height) x 105cm (length) 61cm (width)",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103503",
-      "name": "Air Purifier",
-      "description": "Giving away self collection.",
-      "location": "Little India",
-      "validTill": "30 Jan 2022",
-      "ageInYears": 1,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
