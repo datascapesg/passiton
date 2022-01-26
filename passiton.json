@@ -1,6 +1,60 @@
 {
   "requests": [
     {
+      "id": "104351",
+      "category": "Electrical Home Appliances",
+      "name": "Water Kettle",
+      "description": "Seeking a Water Kettle for a divorced lady who is moving out of the homeless shelter to a rental flat by HDB. Client need the water kettle to boil hot water for consumption. Client is not on SSO support as she is earning $700 working as a coffeeshop assistant.",
+      "specifications": null,
+      "contact": {
+        "org": "New Hope Community Services",
+        "name": "Goh Ann Tat",
+        "email": "anntat@newhopecs.org.sg",
+        "phone": [
+          "87952925",
+          "63059620"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jan 2022"
+    },
+    {
+      "id": "104350",
+      "category": "Electrical Home Appliances",
+      "name": "Rice Cooker",
+      "description": "Seeking a Rice Cooker for a divorced lady who is moving out of the homeless shelter to a rental flat by HDB. Client need the rice cooker to prepare simple meals for herself. She is not on SSO support as she is earning 700 as a coffeeshop assistant and she faces financial difficulty in buying things needed for the house.",
+      "specifications": null,
+      "contact": {
+        "org": "New Hope Community Services",
+        "name": "Goh Ann Tat",
+        "email": "anntat@newhopecs.org.sg",
+        "phone": [
+          "87952925",
+          "63059620"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jan 2022"
+    },
+    {
+      "id": "104349",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave Oven",
+      "description": "Seeking a microwave oven (new or used is both ok) for a divorced lady who is moving out of the homeless shelter to a rental flat by HDB. Client need the microwave oven so that she can heat up food early in the morning before she travels out to work as a coffeeshop assistant.",
+      "specifications": null,
+      "contact": {
+        "org": "New Hope Community Services",
+        "name": "Goh Ann Tat",
+        "email": "anntat@newhopecs.org.sg",
+        "phone": [
+          "87952925",
+          "63059620"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jan 2022"
+    },
+    {
       "id": "104348",
       "category": "Electrical Home Appliances",
       "name": "Washing machine",
@@ -2123,24 +2177,6 @@
       "date": "27 Dec 2021"
     },
     {
-      "id": "104321",
-      "category": "Others",
-      "name": "Spectacles",
-      "description": "Single mother with 3 children staying in a 2-room flat looking for donation support to get a pair of spectacles done. Mother is starting work doing data entry after months of unemployment and the spectacles will help her in the new job. Please contact Jessie at 9125 0028 if you are able to help. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Jessie Lim",
-        "email": "jessielim@fycs.org",
-        "phone": [
-          "68199173",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Jan 2022"
-    },
-    {
       "id": "104300",
       "category": "Others",
       "name": "2 seater sofa",
@@ -2789,6 +2825,16 @@
   ],
   "offers": [
     {
+      "id": "104352",
+      "name": "Black Leather Sofa - 3 Seater",
+      "description": "leather Sofa less than 1 yr old. Small for my family use but big enough for small family",
+      "location": "Kranji, Woodgrove",
+      "validTill": "31 Jan 2022",
+      "ageInYears": 1,
+      "dimensions": "175 x 75 x 80",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "104346",
       "name": "mattress",
       "description": "Good condition mattress. I will be giving away some newly washed bed sheet as well. Please whatsapp me for faster response. Do arrange own pickup. NO SMS will be entertained, thanks.",
@@ -3009,16 +3055,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "104270",
-      "name": "LG 8kg front load washer",
-      "description": "Washer has been regularly maintained throughout the years of usage. Item has to be moved out by 27 Jan 2022.",
-      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
-      "validTill": "27 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "104268",
       "name": "Clothes (mainly female, primary school, teens and adult)",
       "description": "Clothes (mainly female, primary school, teens and adult)",
@@ -3085,16 +3121,6 @@
       "location": "Queenstown, Tiong Bahru",
       "validTill": "04 Feb 2022",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104247",
-      "name": "Baby Carrier - Manduca",
-      "description": "Used but great condition baby carrier. Good for infants and children up to 5 years old.",
-      "location": "Upper Thomson, Springleaf",
-      "validTill": "23 Feb 2022",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
