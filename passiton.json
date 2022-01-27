@@ -818,23 +818,6 @@
       "date": "25 Jan 2022"
     },
     {
-      "id": "104286",
-      "category": "Home Furnishing",
-      "name": "3 seaters sofa",
-      "description": "2 adult brothers had a household de-cluttering and clearing following the passing of 2 elderly parents recently. They wish to have a 3 seaters sofa to replace the old wooden one which is no longer serving them well.",
-      "specifications": null,
-      "contact": {
-        "org": "Whampoa Family Service Centre",
-        "name": "Ooi Zhi Heng",
-        "email": "ooizhiheng@kkcs.org.sg",
-        "phone": [
-          "63260300"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Jan 2022"
-    },
-    {
       "id": "104254",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -1770,23 +1753,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "11 Jan 2022"
-    },
-    {
-      "id": "101634",
-      "category": "Infant and Children Items",
-      "name": "Diapers",
-      "description": "Family has 5 children and father is the only sole breadwinner of the family. Mother is the primary caregiver of the children and has to provide monitoring for her second son with ADHD and Dyslexia. Family requires support for children's needs such as diapers (XL), which can be a stressor on the family's finances",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Aw Chin Bee",
-        "email": "awchinbee@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "07 Jan 2022"
     },
     {
       "id": "103458",
@@ -2769,6 +2735,16 @@
   ],
   "offers": [
     {
+      "id": "104380",
+      "name": "Chillsren VCDs/ DVDs",
+      "description": "Childrens VCDs/ DVDs",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "26 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": "10cm by 10cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "104379",
       "name": "Drainage bag and Catheter",
       "description": "Brand new Drainage bags and urine catheters",
@@ -2786,16 +2762,6 @@
       "validTill": "20 Feb 2022",
       "ageInYears": 4,
       "dimensions": "24”w x 34”h x 24”d",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104377",
-      "name": "Mitsubishi fridge",
-      "description": "Good condition",
-      "location": "Sin Ming ",
-      "validTill": "20 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": "30”w x 70”h x 31”d",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -2926,16 +2892,6 @@
       "validTill": "31 Jan 2022",
       "ageInYears": 1,
       "dimensions": "175 x 75 x 80",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104346",
-      "name": "mattress",
-      "description": "Good condition mattress. I will be giving away some newly washed bed sheet as well. Please whatsapp me for faster response. Do arrange own pickup. NO SMS will be entertained, thanks.",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "27 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3799,16 +3755,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "104099",
-      "name": "Tricycle for kids",
-      "description": "In good condition. Clean",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "27 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "104098",
       "name": "L shapes study table",
       "description": "Well-maintained study table, no defect",
@@ -4029,16 +3975,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103993",
-      "name": "Tricycle for kids",
-      "description": "Good condition. Clean.",
-      "location": null,
-      "validTill": "27 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103992",
       "name": "Washer Heater 25L",
       "description": "https://www.bathroom.com.sg/ariston-inox-aa-specification/",
@@ -4086,16 +4022,6 @@
       "validTill": "17 Feb 2022",
       "ageInYears": 1,
       "dimensions": "N/A",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103943",
-      "name": "Soft  toys",
-      "description": "1 small carton full of soft toys for kids different ages.",
-      "location": "Telok Blangah, Harbourfront",
-      "validTill": "27 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
