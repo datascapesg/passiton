@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "104388",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine (9kg top load)",
+      "description": "Client, a low-wage worker, is a sole breadwinner to his family of 4, including two children agreed 7 and 9. Client’s wife, a homemaker, is diagnosed with significant health issues and certified permanently unfit for work. The family’s washing machine and client’s wife is unable to cope with manual washing of clothes for a family of 4. However, they are unable to afford a replacement of a washing machine.",
+      "specifications": "9 kg Top load",
+      "contact": {
+        "org": "Care Corner Family Service Centre - Toa Payoh",
+        "name": "Winsome Foo",
+        "email": "winsomefoo@carecorner.org.sg",
+        "phone": [
+          "63561622"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Jan 2022"
+    },
+    {
       "id": "104385",
       "category": "Electrical Home Appliances",
       "name": "Rice Cooker",
@@ -174,23 +191,6 @@
     },
     {
       "id": "104124",
-      "category": "Electrical Home Appliances",
-      "name": "Television",
-      "description": "Client is living with husband and two sons. Client is unemployed as she has to care for her youngest son who has behavioural and learning difficulties. Husband is working as a cleaner and earns 1300 per month. Client's television has broken down and does not have enough funds to purchase a new one. Looking for a good functioning tv that is good for a family of 4.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Dini Dzulaikha Bte Dzulkifli",
-        "email": null,
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "21 Jan 2022"
-    },
-    {
-      "id": "104123",
       "category": "Electrical Home Appliances",
       "name": "Television",
       "description": "Client is living with husband and two sons. Client is unemployed as she has to care for her youngest son who has behavioural and learning difficulties. Husband is working as a cleaner and earns 1300 per month. Client's television has broken down and does not have enough funds to purchase a new one. Looking for a good functioning tv that is good for a family of 4.",
@@ -3047,16 +3047,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "104318",
-      "name": "Mattress",
-      "description": "Mattress less than 6mth",
-      "location": null,
-      "validTill": "28 Jan 2022",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "104313",
       "name": "Sharp Air Purifier FU-A80E-W (no box)",
       "description": "Sharp Air Purifier FU-A80E-W (no box)",
@@ -3423,16 +3413,6 @@
       "location": "Queenstown, Tiong Bahru",
       "validTill": "31 Jan 2022",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104180",
-      "name": "Single Matress",
-      "description": "Single Mattress... Spring but soft type",
-      "location": "Jurong",
-      "validTill": "30 Jan 2022",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4184,16 +4164,6 @@
       "validTill": "15 Feb 2022",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103878",
-      "name": "Toys",
-      "description": "- building bricks (not lego brand, bought from kiddy palace)\n- melissa and doug alphabet bricks\n- plastic/ magnetic numbers & aplhabet (some missing alphabet)\n- wooden puzzles\n- knee, elbow and wrist guards\n- ikea pizza toy\n- plastic jenga toy with dice\n- maths balancing rod\n- cooking toy with food pieces and money counters (loose mahjong coins)\n- wooden toys\n- cake and dessert set with missing 1 slice of cake, plates and knife still available\n-",
-      "location": "Yishun, Sembawang",
-      "validTill": "15 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": "Na",
       "deliveryCostsCoveredByDonor": true
     },
     {
