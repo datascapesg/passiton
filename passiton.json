@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "104414",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "This is a single-parent family with a child with special needs and no income. Mother is unable to work as she is the main caregiver to her son with special needs and high medical needs who requires assistance in most of his activities of daily living. Mother also has an elder son who is still schooling. The family's fridge is over 10 years and is going to spoil soon. A new fridge will be useful for the family to store food. Family is receiving Comcare Assistance.",
+      "specifications": "2 door",
+      "contact": {
+        "org": "Rainbow Centre - Magaret Drive School",
+        "name": "Seah Heng Yong",
+        "email": "hengyongseah@rainbowcentre.org.sg",
+        "phone": [
+          "68179437",
+          "64752072"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Jan 2022"
+    },
+    {
       "id": "104401",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine (Top Load)",
@@ -729,6 +747,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "27 Dec 2021"
+    },
+    {
+      "id": "104412",
+      "category": "Home Furnishing",
+      "name": "Queen size bed frame w mattress",
+      "description": "Client comes from a low income family as husband is currently the sole bread winner. Client is currently waiting for her 2 young children (8 months old and 3 years old) to get into infant & childcare so that she can start searching for a job to help support family’s finances. Their current bed is in bad shape and she hopes to receive a replacement queen size bed and bedframe. Preferably new mattress if possible as client has experienced bedbug issues when she received a second-hand mattress from a donor in the past.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Nathan Hou",
+        "email": "nathanhou@thkmc.org.sg",
+        "phone": [
+          "88554795",
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Jan 2022"
     },
     {
       "id": "104371",
@@ -1983,23 +2019,6 @@
       "date": "27 Jan 2022"
     },
     {
-      "id": "104367",
-      "category": "Others",
-      "name": "Groceries Needs",
-      "description": "Client resides in a 2-room rental unit with her husband and 7 children. \nHer husband does food delivery and is the sole breadwinner of the family as wife is currently pregnant. \nThe family experiences difficulties in making ends meet, amidst having multiple health and chronic issues as well. There has been 2 health emergencies in the past month as the children have contracted HFMD and other issues, where husband is unable to go to work consistently due to caring for his sick children.",
-      "specifications": "Groceries Needs",
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "amychua@mws.sg",
-        "phone": [
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Jan 2022"
-    },
-    {
       "id": "104365",
       "category": "Others",
       "name": "Groceries",
@@ -2716,6 +2735,23 @@
       "date": "27 Dec 2021"
     },
     {
+      "id": "104411",
+      "category": "Learning Aids",
+      "name": "Bag, stationaries, Scientific calculator",
+      "description": "Client, 29 is heading back to school after 10 years to complete his education in order to stabilize on employment to better support his family. Due to medical reasons, he is currently unfit for employment however he is determined to better his physical and mental health and start back on employment. \nI can be contacted at 80236342.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
+        "name": "S Maheswari",
+        "email": "smaheswari@amkfsc.org.sg",
+        "phone": [
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Jan 2022"
+    },
+    {
       "id": "104403",
       "category": "Learning Aids",
       "name": "New Laptop",
@@ -2859,6 +2895,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "104415",
+      "name": "Electric breast pump (new), infant clothes (new) and infant clothes (Pre loved)",
+      "description": "1. Electric breast pump is new, local made. Opened to be washed but not used as baby drinks formula milk instead. \n\n2. Baby clothes brand new, ordered online.\n\n3. Set Pre loved baby clothes (optional) \n\nKindly collect from 65 kallang bahru (The Salvation Army Youth Development Center).",
+      "location": "Balestier, Toa Payoh, Serangoon",
+      "validTill": "26 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104413",
+      "name": "Merries Diapers Size S",
+      "description": "2 packets of brand new diapers — Merries size S—  bought today 27Jan. I bought the wrong size.",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "26 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "104409",
       "name": "Dunlopillo spinal supreme queen size bed, bookrack",
@@ -3847,16 +3903,6 @@
       "validTill": "20 Feb 2022",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104101",
-      "name": "Sofa",
-      "description": "Grey L-shape sofa",
-      "location": "Jurong",
-      "validTill": "19 Feb 2022",
-      "ageInYears": 1,
-      "dimensions": "Length - 2m",
       "deliveryCostsCoveredByDonor": true
     },
     {
