@@ -190,24 +190,6 @@
       "date": "21 Jan 2022"
     },
     {
-      "id": "104059",
-      "category": "Electrical Home Appliances",
-      "name": "Television",
-      "description": "A family of 5 just got their rental flat and required some basic items. Client does not have financial to purchase a television.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Yew Tee",
-        "name": "Fu Xiu Ting",
-        "email": "fuxiuting@fycs.org",
-        "phone": [
-          "64162186",
-          "64162162"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Jan 2022"
-    },
-    {
       "id": "103983",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine (Top Load)",
@@ -853,23 +835,6 @@
       "date": "20 Jan 2022"
     },
     {
-      "id": "104052",
-      "category": "Home Furnishing",
-      "name": "Clothes Cupboard",
-      "description": "A single elderly man residing in a rental flat is requesting for a clothes cupboard. Thank you very much.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Pek Jie Hui",
-        "email": "jiehui@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Jan 2022"
-    },
-    {
       "id": "104049",
       "category": "Home Furnishing",
       "name": "Kitchen Cabinet",
@@ -1110,6 +1075,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Jan 2022"
+    },
+    {
+      "id": "104383",
+      "category": "Infant and Children Items",
+      "name": "Diapers",
+      "description": "Single mother of 2 children (one of them with special needs), mother lost one of her part time job recently due to caregiving commitment. Father is not providing maintenance and not involve in the caregiving. Family would benefit from receiving:  \nMamy Poko XXL x 2 (tap type);\nWee Wee Dry XL x 2 (tap type); Merries (pants type) L size x 2\n\nThank you!",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Adil Matin Bin Mohd Ramlan",
+        "email": "adilmatin@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Jan 2022"
     },
     {
       "id": "104356",
@@ -1911,6 +1893,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "27 Dec 2021"
+    },
+    {
+      "id": "104384",
+      "category": "Others",
+      "name": "Transport Needs",
+      "description": "Client is serving her one-month notice after resigning from work due to medical issues, husband will be the sole breadwinner for a family of 5. \nDue to the economic downturn, his salary has been reduced. Require assistance with EZ-link top up for transport money to work and medical appointments.",
+      "specifications": "EZ-Link Cards with Top Up",
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Jan 2022"
+    },
+    {
+      "id": "104382",
+      "category": "Others",
+      "name": "Handphone (Pre-loved)",
+      "description": "URGENT - Any smartphone, for use by 17yo youth (to keep in contact with natural family and professionals). Please contact us at dik@childrensociety.org.sg for delivery details.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Peng Hui",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Jan 2022"
     },
     {
       "id": "104367",
@@ -2718,6 +2734,16 @@
   ],
   "offers": [
     {
+      "id": "104381",
+      "name": "Single size bedframe",
+      "description": "Used Wooden single bedframe, still in good condition and not fussy person. Bedframe will be in dismantle condition. for self collection only.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "26 Feb 2022",
+      "ageInYears": 2,
+      "dimensions": "L=195cm W=100cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "104380",
       "name": "Chillsren VCDs/ DVDs",
       "description": "Childrens VCDs/ DVDs",
@@ -2735,16 +2761,6 @@
       "validTill": "26 Feb 2022",
       "ageInYears": 1,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104378",
-      "name": "Washing machine",
-      "description": "Working Condition",
-      "location": "Katong, Joo Chiat, Amber Road",
-      "validTill": "20 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": "24”w x 34”h x 24”d",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -2814,16 +2830,6 @@
       "location": "Tampines, Pasir Ris",
       "validTill": "31 Jan 2022",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104366",
-      "name": "Travel Wheel Chair",
-      "description": "TRAVEL CHAIR (+/-)6.9kg  \n•Foldable super lightweight aluminium frame\n•Flip-up armrest for easy transfer\n•Foldable backrest for easy storage\n•Safety belt & handbrakes\nrarely used \n•Solid front Wheel: 13cm\n•Solid Wheel: 20cm\n•Nylon seat width: +/- 35cm\n•Weight: +/- 6.9kg\n•Max load: 100kg",
-      "location": "Loyang, Changi",
-      "validTill": "30 Jan 2022",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
