@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "104449",
+      "category": "Electrical Home Appliances",
+      "name": "Vacuum Cleaner",
+      "description": "Family has 2 schooling children. Ct is a single mother who is supporting them. Ct's current vacuum cleaner has spoilt and cannot be used anymore, hence they would need another vacuum cleaner for housework purpose.",
+      "specifications": null,
+      "contact": {
+        "org": "Whampoa Family Service Centre",
+        "name": "Tan Limin",
+        "email": "tanlimin@kkcs.org.sg",
+        "phone": [
+          "63260308",
+          "63260300"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Jan 2022"
+    },
+    {
       "id": "104434",
       "category": "Electrical Home Appliances",
       "name": "2 Standing Fans",
@@ -2038,23 +2056,6 @@
       "date": "27 Jan 2022"
     },
     {
-      "id": "104365",
-      "category": "Others",
-      "name": "Groceries",
-      "description": "Family of 6 with 4 children are facing financial strains and require support for groceries this month. Parents are facing several medical conditions. They will need: \n1.Spinach\n2.Kang kong\n3.Cooking oil\n4.Nutella\n5.Bread\n7.Chicken\n8.Carrot\n9.Maple Syrup\n10.Milo\n11.Milk\n12.Fish ball\n13.Hotdog\n14.Kara coconut cream\n15.Chicken cube\n16.Some snacks for children to bring to school for refreshment \n17.Fruit",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Clarice Lim",
-        "email": "claricelim@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Jan 2022"
-    },
-    {
       "id": "104361",
       "category": "Others",
       "name": "Trolley",
@@ -2860,24 +2861,6 @@
       "date": "28 Jan 2022"
     },
     {
-      "id": "104418",
-      "category": "Mobility Aids",
-      "name": "Wheel Chair",
-      "description": "Senior staying in 2-room rental, has recurring cancer, multiple chronic conditions and falls with fractures. Her existing wheelchair tyre has broken apart. She need for her medical appointments.\n\nTHKMC is looking for a wheelchair for this elderly preferably large as she is quite heavyset.\n\nIf you know of someone who has the items for donation, please contact Gregory Ho at 8292 2210.  \n\nSince October 2011, THKMC was incorporated as a charity with an IPC status to provide multiple social and welfare services to the community at large. THKMC provides assistance to the Elderly, Families, Children & Youth, and Persons with Disabilities, through more than 70 programmes and services. \n\nTHK Elderly Services Division provides many programmes and services to serve the elderly in need – one of which includes THK Cluster Support. THK Cluster Support provides social support through case management, monitoring, and basic counselling services to vulnerable seniors, and facilitates coordination in the provision of community-based care and support services to the seniors. This service aims to improve the quality of life of vulnerable seniors, particularly for low or no income seniors who are socially-isolated and have minimal or no family support.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Cluster Support @ Bukit Merah",
-        "name": "Gregory Ho",
-        "email": "Gregory.Ho@thkmc.org.sg",
-        "phone": [
-          "69240357",
-          "69242951"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Jan 2022"
-    },
-    {
       "id": "104387",
       "category": "Mobility Aids",
       "name": "Ramp",
@@ -2912,23 +2895,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "27 Jan 2022"
-    },
-    {
-      "id": "104360",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "Client is a 84yo elderly and she needs a well functioning wheelchair to help her move around as her physical mobility is deteriorating. She stays with her son and son's family. Son is financially supporting the whole family hence could not afford a new wheelchair. Please contact Ms. Charina Wang at charinawang@fycs.org or 8429 3706 to arrange for the donation. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Community Services - COMIT",
-        "name": "Wong Ji'En",
-        "email": "wongjien@fycs.org",
-        "phone": [
-          "66619488"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Jan 2022"
     },
     {
       "id": "104045",
@@ -2985,6 +2951,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "104448",
+      "name": "Baby Food Processor",
+      "description": "My friend gave this to me when I had my baby but I never got a a chance to use it. She had used it for her baby but had to give away as she was moving.",
+      "location": "Orchard, Cairnhill, River Valley",
+      "validTill": "27 Feb 2022",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104447",
+      "name": "Small vacuum cleaner",
+      "description": "This is a small vacuum cleaner we bought in 2018 but used for a year before purchasing a bigger one. We haven't used it since then but it is in good condition and we would like to donate.",
+      "location": "Orchard, Cairnhill, River Valley",
+      "validTill": "10 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "104439",
       "name": "Foldable Lazy Sofa",
@@ -4362,16 +4348,6 @@
       "location": "Orchard, Cairnhill, River Valley",
       "validTill": "03 Feb 2022",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103825",
-      "name": "books",
-      "description": "A Child's First Library of Learning. Good condition. Simple to understand for children upto 12 years old.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "13 Feb 2022",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
