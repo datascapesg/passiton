@@ -1,6 +1,57 @@
 {
   "requests": [
     {
+      "id": "104426",
+      "category": "Electrical Home Appliances",
+      "name": "3 Wall Fans",
+      "description": "Family lives in public rental flat and have 1 pri school child and a 8-month-old baby. \nThe house is crowded and stuffy. \nFather is the sole breadwinner doing food deliveries and mother is a home maker. \nClient is requesting for 3 wall fans to circulate the air at home.",
+      "specifications": "3 Wall Fans",
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Jan 2022"
+    },
+    {
+      "id": "104425",
+      "category": "Electrical Home Appliances",
+      "name": "Rice Cooker and Frying Pan",
+      "description": "Single parent with 1 college going child. Client is unemployed due to multiple health needs. Need a rice cooker and frying pan to cook meals. Client stays in Tampines East area, unable to afford delivery cost.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Ong Boon Cheng",
+        "email": "ongbooncheng@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Jan 2022"
+    },
+    {
+      "id": "104424",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Family is a family of 5, with 3 young children. Father (57 years old) is seeking employment but faces barriers due to age and leg injury. Mother has an OCD condition, medically unfit for work. Family mainly relies on formal financial assistance at this juncture. Family's washing machine has broken down which when used cause water to leak everywhere which makes it dangerous at home and inconvenience for them. Family would benefit with a blessing of a washing machine and would really like to seek for any kind donations. Thank you!",
+      "specifications": "9kg washing load and above",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Punggol",
+        "name": "Jennifer Foo",
+        "email": "jenniferfoo@amkfsc.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Jan 2022"
+    },
+    {
       "id": "104421",
       "category": "Electrical Home Appliances",
       "name": "Air Fryer Oven",
@@ -751,23 +802,6 @@
       "date": "26 Jan 2022"
     },
     {
-      "id": "104337",
-      "category": "Home Furnishing",
-      "name": "Queen size Storage Bed with Mattress",
-      "description": "Client currently requires a queen size bed frame (with storage to reduce clutter at home) and mattress. Due to the lack of financial resources client is unable to replace her current unit which is in poor condition.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Janarthanan S/O Lingasparan",
-        "email": "jana.lingasparan@montfortcare.org.sg",
-        "phone": [
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Jan 2022"
-    },
-    {
       "id": "104317",
       "category": "Home Furnishing",
       "name": "Kitchen cabinet/shelf",
@@ -1198,23 +1232,6 @@
         "email": "quekliuting@amkfsc.org.sg",
         "phone": [
           "64535349"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Jan 2022"
-    },
-    {
-      "id": "104334",
-      "category": "Infant and Children Items",
-      "name": "Diapers Size L pull up , Dumex Dugro stage 3",
-      "description": "Due to the sudden loss in income, client (sole breadwinner of a family of 7) is currently struggling to stabilize family's financial situation and is struggling to purchase milk powder and diapers for daughter aged 2.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Janarthanan S/O Lingasparan",
-        "email": "jana.lingasparan@montfortcare.org.sg",
-        "phone": [
-          "63254753"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2808,36 +2825,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "104405",
-      "name": "0.7L slow cooker (Takahi)",
-      "description": "Lightly used, suitable for 1-2 person",
-      "location": "Yishun, Sembawang",
-      "validTill": "26 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104404",
-      "name": "0.7L slow cooker (Power Pac)",
-      "description": "Inner pot is new, body is wiped clean. Suitable for 1-2 person portion.",
-      "location": "Yishun, Sembawang",
-      "validTill": "26 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104402",
-      "name": "Small fan",
-      "description": "Lightly used. The blades are dusty as I am unsure how to open to clean it.",
-      "location": "Yishun, Sembawang",
-      "validTill": "26 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": "30cm by 30cm by 30cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "104397",
       "name": "Walking stick (adjustable height)",
       "description": "Adjustable height walking stick",
@@ -2865,16 +2852,6 @@
       "validTill": "26 Feb 2022",
       "ageInYears": 3,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104389",
-      "name": "Mayer Airfryer 2.1L",
-      "description": "Used, non-halal Mayer airfryer. Capacity 2.1L. Still in good condition. Comes without box",
-      "location": "Yishun, Sembawang",
-      "validTill": "15 Feb 2022",
-      "ageInYears": 2,
-      "dimensions": "2.1L",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3104,16 +3081,6 @@
       "location": "Raffles Place, Cecil, Marina, People's Park",
       "validTill": "24 Feb 2022",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104400",
-      "name": "Queen Size Matress & Frame",
-      "description": "Will provide set of sheets and also having matching bedside tables if needed",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "24 Feb 2022",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
@@ -4178,16 +4145,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "103840",
-      "name": "Honeywell air cooler",
-      "description": "Functional air cooler for self collection",
-      "location": "Tampines, Pasir Ris",
-      "validTill": "13 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "103838",
       "name": "Ikea Shelves with drawers",
       "description": "Ikea 8 cubes storage with green and pick storage boxes. Please arrange self collection",
@@ -5065,16 +5022,6 @@
       "validTill": "30 Jan 2022",
       "ageInYears": 4,
       "dimensions": "Height 90 cm length48 cm, width48cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103179",
-      "name": "Food Steamer",
-      "description": "3 tier food steamer in good and clean condition",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "30 Jan 2022",
-      "ageInYears": 4,
-      "dimensions": "30x35x20cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
