@@ -677,23 +677,6 @@
       "date": "31 Jan 2022"
     },
     {
-      "id": "104483",
-      "category": "Infant and Children Items",
-      "name": "Twin Stroller",
-      "description": "Single mother of 2 young children requires a twin stroller. It will be easier for the mother to bring the children out. The two children are 1 year old and 2 years old. Family is under financial assistance and unable to afford to buy a stroller.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Ye Jiancheng",
-        "email": "jiancheng@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "31 Jan 2022"
-    },
-    {
       "id": "104479",
       "category": "Infant and Children Items",
       "name": "Sweety Silver Pantz (Tape) Size S",
@@ -833,41 +816,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "27 Jan 2022"
-    },
-    {
-      "id": "104383",
-      "category": "Infant and Children Items",
-      "name": "Diapers",
-      "description": "Single mother of 2 children (one of them with special needs), mother lost one of her part time job recently due to caregiving commitment. Father is not providing maintenance and not involve in the caregiving. Family would benefit from receiving:  \nMamy Poko XXL x 2 (tap type);\nWee Wee Dry XL x 2 (tap type); Merries (pants type) L size x 2\n\nThank you!",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Adil Matin Bin Mohd Ramlan",
-        "email": "adilmatin@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Jan 2022"
-    },
-    {
-      "id": "104356",
-      "category": "Infant and Children Items",
-      "name": "Milk powder + Diapers",
-      "description": "Client F/35 is a single mother to a young child M/3. Client lives in a rental unit with her elderly mother and younger brother who is unemployed due to health issues. Client is working part-time due to the need to take care of her son and struggles to afford milk powder and diapers.",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Regine Yeo",
-        "email": "regine.yeo@ppis.sg",
-        "phone": [
-          "65613462ext519",
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "26 Jan 2022"
     },
     {
       "id": "104345",
@@ -2526,6 +2474,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "104501",
+      "name": "Canterbury wheelie luggage",
+      "description": "large kit bag with wheels",
+      "location": null,
+      "validTill": "28 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104500",
+      "name": "Orthopaedic air boot",
+      "description": "Orthopaedic air boot for walking with  ankle lower leg fractures etc",
+      "location": null,
+      "validTill": "28 Feb 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104499",
+      "name": "Combi Car Booster Seat",
+      "description": "Good condition Combi Car Seat. Backrest removable for older kids using just the booster seat base.",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "04 Mar 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "104498",
       "name": "Dresser table",
