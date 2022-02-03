@@ -1,26 +1,45 @@
 [
   {
-    "id": "104544",
+    "id": "104554",
     "category": "Electrical Home Appliances",
-    "name": "Induction Cooker",
-    "description": "Family has 3 children. Husband is the sole breadwinner but income has decreased due to a car accident last year which affected his ability to work longer hours. Wife is currently unfit for work due to medical condition and is the main caregiver of the children. Family is in need of induction cooker so that they could cook their daily meals. Induction cooker is currently spoilt and family is unable to buy a washing machine due to financial strains.",
+    "name": "Washing Machine",
+    "description": "My client lives in a rental flat. She needs a washing machine to wash her clothes. Due to her illness and many health challenges she could not keep her job.",
     "specifications": null,
     "contact": {
-      "org": "Singapore Children's Society - Yishun FSC",
-      "name": "Yong Kwai Hoong",
-      "email": "khyong@childrensociety.org.sg",
+      "org": "SAMH Mobile Support Team",
+      "name": "John Cheang",
+      "email": "john_cheang@samhealth.org.sg",
       "phone": [
-        "67537331"
+        "65155718",
+        "85112678"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "03 Feb 2022"
+  },
+  {
+    "id": "104550",
+    "category": "Electrical Home Appliances",
+    "name": "Iron",
+    "description": "Client is an older adult with multiple medical conditions and lack support from family",
+    "specifications": null,
+    "contact": {
+      "org": "REACH Family Service Centre",
+      "name": "Lim Daniel",
+      "email": null,
+      "phone": [
+        "68010719",
+        "62522566"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "03 Feb 2022"
   },
   {
-    "id": "104543",
+    "id": "104544",
     "category": "Electrical Home Appliances",
-    "name": "Front Load Washing Machine",
-    "description": "Family has 3 children. Husband is the sole breadwinner but income has decreased due to a car accident last year which affected his ability to work longer hours. Wife is currently unfit for work due to medical condition and is the main caregiver of the children. Washing machine has broken down recently and family is unable to buy a washing machine due to financial strains.",
+    "name": "Induction Cooker",
+    "description": "Family has 3 children. Husband is the sole breadwinner but income has decreased due to a car accident last year which affected his ability to work longer hours. Wife is currently unfit for work due to medical condition and is the main caregiver of the children. Family is in need of induction cooker so that they could cook their daily meals. Induction cooker is currently spoilt and family is unable to buy a washing machine due to financial strains.",
     "specifications": null,
     "contact": {
       "org": "Singapore Children's Society - Yishun FSC",
@@ -658,6 +677,40 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "17 Jan 2022"
+  },
+  {
+    "id": "104553",
+    "category": "Infant and Children Items",
+    "name": "Breastpump",
+    "description": "Client's baby is 3 months old infant. Client is young and a first time mother. \n\nLooking for breastpump to support her in caregiving needs for baby",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Petrina Lee",
+      "email": "petrinalee@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Feb 2022"
+  },
+  {
+    "id": "104549",
+    "category": "Infant and Children Items",
+    "name": "Baby Pram",
+    "description": "Client's baby is 3 months old infant. Client is young and a first time mother.\n\nPram needs to be suitable for baby as he grows older.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Petrina Lee",
+      "email": "petrinalee@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Feb 2022"
   },
   {
     "id": "104540",

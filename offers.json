@@ -360,7 +360,7 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "104461",
+    "id": "104552",
     "name": "3 doors refrigerator",
     "description": "3 doors working condition refrigerator",
     "location": "Yishun, Sembawang",
@@ -1487,6 +1487,16 @@
     "validTill": "14 Feb 2022",
     "ageInYears": 4,
     "dimensions": "1.75m (l) × 0.95m (b) × 0.6m (h)",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "104548",
+    "name": "Honeywell air cooler",
+    "description": "Functional air cooler for self collection",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "13 Feb 2022",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {

@@ -1,6 +1,59 @@
 {
   "requests": [
     {
+      "id": "104554",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "My client lives in a rental flat. She needs a washing machine to wash her clothes. Due to her illness and many health challenges she could not keep her job.",
+      "specifications": null,
+      "contact": {
+        "org": "SAMH Mobile Support Team",
+        "name": "John Cheang",
+        "email": "john_cheang@samhealth.org.sg",
+        "phone": [
+          "65155718",
+          "85112678"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "03 Feb 2022"
+    },
+    {
+      "id": "104550",
+      "category": "Electrical Home Appliances",
+      "name": "Iron",
+      "description": "Client is an older adult with multiple medical conditions and lack support from family",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Lim Daniel",
+        "email": null,
+        "phone": [
+          "68010719",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Feb 2022"
+    },
+    {
+      "id": "104544",
+      "category": "Electrical Home Appliances",
+      "name": "Induction Cooker",
+      "description": "Family has 3 children. Husband is the sole breadwinner but income has decreased due to a car accident last year which affected his ability to work longer hours. Wife is currently unfit for work due to medical condition and is the main caregiver of the children. Family is in need of induction cooker so that they could cook their daily meals. Induction cooker is currently spoilt and family is unable to buy a washing machine due to financial strains.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Yong Kwai Hoong",
+        "email": "khyong@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Feb 2022"
+    },
+    {
       "id": "104542",
       "category": "Electrical Home Appliances",
       "name": "Standing Fan",
@@ -627,6 +680,40 @@
       "date": "17 Jan 2022"
     },
     {
+      "id": "104553",
+      "category": "Infant and Children Items",
+      "name": "Breastpump",
+      "description": "Client's baby is 3 months old infant. Client is young and a first time mother. \n\nLooking for breastpump to support her in caregiving needs for baby",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Petrina Lee",
+        "email": "petrinalee@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Feb 2022"
+    },
+    {
+      "id": "104549",
+      "category": "Infant and Children Items",
+      "name": "Baby Pram",
+      "description": "Client's baby is 3 months old infant. Client is young and a first time mother.\n\nPram needs to be suitable for baby as he grows older.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Petrina Lee",
+        "email": "petrinalee@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Feb 2022"
+    },
+    {
       "id": "104540",
       "category": "Infant and Children Items",
       "name": "Diapers and Milk Powder (Similac 4)",
@@ -909,23 +996,6 @@
       "date": "25 Jan 2022"
     },
     {
-      "id": "104235",
-      "category": "Infant and Children Items",
-      "name": "Pediasure (Vanilla)",
-      "description": "Client's job was affected by Covid-19 and he was on hospitalisation leave after an injury last year. He has recovered now and started working as delivery man to manage with the family's financial gap. Wife is taking care of their 2 young children at home. They are trying to re-stabilise by looking for a new job but they are now having difficulties to manage their household expenses including his child's needs.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Siti Nur Sa’iidah",
-        "email": "sitinursaiidah@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "24 Jan 2022"
-    },
-    {
       "id": "104226",
       "category": "Infant and Children Items",
       "name": "Drypers Drypantz Needed",
@@ -1096,23 +1166,6 @@
       "date": "19 Jan 2022"
     },
     {
-      "id": "104014",
-      "category": "Infant and Children Items",
-      "name": "Drypers Drypantz Pants (L and XL sizes) and Abbot Pediasure Gold (1 to 12 years old)",
-      "description": "Family has 4 school-going children. Of which, a 1 and 3 year old toddlers requires Drypers Drypantz Pants (L and XL sizes) and Abbot Pediasure Gold (1 to 12 years old). Mother is certified unfit for work in this period. Father is the sole breadwinner.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Chavonne Tan",
-        "email": "ywctan@childrensociety.org.sg",
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Jan 2022"
-    },
-    {
       "id": "104012",
       "category": "Infant and Children Items",
       "name": "Drypers Drypantz Pants (XXL) and Dumex Dugro 3",
@@ -1161,23 +1214,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "13 Jan 2022"
-    },
-    {
-      "id": "103783",
-      "category": "Infant and Children Items",
-      "name": "Diapers Drypants Size XXL",
-      "description": "Family has 5 children. Client's husband is the sole breadwinner of the family, earning $1600/month. The family struggle to have their basic needs met. Client would require diapers for her 2 young children.\n\nDiapers Drypants Size XXL",
-      "specifications": null,
-      "contact": {
-        "org": "Whispering Hearts Family Service Centre",
-        "name": "Emerald Chua",
-        "email": "emerald@viriya.org.sg",
-        "phone": [
-          "67951008"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "13 Jan 2022"
     },
     {
@@ -1320,23 +1356,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "06 Jan 2022"
-    },
-    {
-      "id": "103377",
-      "category": "Infant and Children Items",
-      "name": "Diapers",
-      "description": "Community Services & Programmes @ Children's Society is currently in need of bulk donations of diapers, any brand in sizes L and XXL.3 Cartons per size. The diapers will be delivered to the centre located at Block 529 Bedok North Street 3 #01-570,Singapore 460529. For enquiry, please contact us at dik@childrensociety.org.sg. Thank you!",
-      "specifications": "Sizes L and XXL.",
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Peng Hui",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Jan 2022"
     },
     {
       "id": "103333",
@@ -1603,6 +1622,41 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "03 Jan 2022"
+    },
+    {
+      "id": "104547",
+      "category": "Others",
+      "name": "Blood Pressure and Blood Sugar Monitoring Machine",
+      "description": "The beneficiary is in need of Blood Pressure and Blood Sugar Monitoring Machine, any brand, size or color are welcome. Can be new or pre-loved. Please contact us at dik@childrensociety.org.sg for delivery details. Thank you for your kindness!",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Peng Hui",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Feb 2022"
+    },
+    {
+      "id": "104546",
+      "category": "Others",
+      "name": "Smart phone",
+      "description": "Client (29/F) is a single mother for her 2 children (7/F and 6/F). She is currently unemployed due to caregiving responsibilities for the children and the outlook of covid-19 is difficult for her to find a suitable job. Family is reliant on SSO assistance and struggles to cope financially. Client accidentally dropped her phone and is unable to have digital access. She would appreciate a donation of a used smart phone. \n\nEmail or whatsapp @ 66901010.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Joycelyn Wong",
+        "email": "joycelynwong@fycs.org",
+        "phone": [
+          "66901010",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Feb 2022"
     },
     {
       "id": "104485",
@@ -2837,7 +2891,7 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "104461",
+      "id": "104552",
       "name": "3 doors refrigerator",
       "description": "3 doors working condition refrigerator",
       "location": "Yishun, Sembawang",
@@ -3964,6 +4018,16 @@
       "validTill": "14 Feb 2022",
       "ageInYears": 4,
       "dimensions": "1.75m (l) × 0.95m (b) × 0.6m (h)",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104548",
+      "name": "Honeywell air cooler",
+      "description": "Functional air cooler for self collection",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "13 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
