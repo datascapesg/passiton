@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "104556",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "Single mother with 2 preschoolers, living in a HDB rental flat, is requesting for a kind donor to gift her a washing machine as her previous one has spoilt.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Yvonne Pua",
+        "email": "yvonnepua@fycs.org",
+        "phone": [
+          "69783480",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Feb 2022"
+    },
+    {
       "id": "104554",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -1445,6 +1463,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "03 Jan 2022"
+    },
+    {
+      "id": "104557",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Hello there, I am looking for a laptop in good and useable condition for a low-income family. It is a learning aid for a child.Thanks in advance.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Low Yiing Jia",
+        "email": "jialow@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Feb 2022"
     },
     {
       "id": "104555",
@@ -3518,16 +3553,6 @@
       "validTill": "21 Feb 2022",
       "ageInYears": 4,
       "dimensions": "100 x 52 x 114 cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104157",
-      "name": "IKEA Sofa Bed",
-      "description": "IKEA Sofa Bed",
-      "location": "Orchard Road",
-      "validTill": "21 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
