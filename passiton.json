@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "104601",
+      "category": "Electrical Home Appliances",
+      "name": "washing machine",
+      "description": "Client is unemployed and a single mother to an autistic daughter.",
+      "specifications": null,
+      "contact": {
+        "org": "Serangoon Moral Family Service Centre",
+        "name": "Muhammad Al-Hakim",
+        "email": "hakim@smfsc.org.sg",
+        "phone": [
+          "62847123"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Feb 2022"
+    },
+    {
       "id": "104596",
       "category": "Electrical Home Appliances",
       "name": "Air Purifier",
@@ -731,6 +748,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "04 Jan 2022"
+    },
+    {
+      "id": "104600",
+      "category": "Leisure and Healthy Lifestyle",
+      "name": "cd player with inbuilt speakers",
+      "description": "Family has a young child with multiple medical needs. The husband is the family's sole breadwinner. The child has to undergo medical surgeries and procedures when needed. According to the doctor, the young child will be needed to undergo further surgeries. To improve his quality of life during his hospitalization stays, the family is hoping for a donation of a CD player with in-built speaker functions. This is helpful for their son to listen to the music as he recuperates in hospital.",
+      "specifications": null,
+      "contact": {
+        "org": "Hougang Sheng Hong Family Service Centre",
+        "name": "Dan Chan",
+        "email": "dan@shenghong.org.sg",
+        "phone": [
+          "62895022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Feb 2022"
     },
     {
       "id": "104538",
@@ -1614,24 +1648,6 @@
         "email": "dik@childrensociety.org.sg",
         "phone": [
           "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Feb 2022"
-    },
-    {
-      "id": "104546",
-      "category": "Others",
-      "name": "Smart phone",
-      "description": "Client (29/F) is a single mother for her 2 children (7/F and 6/F). She is currently unemployed due to caregiving responsibilities for the children and the outlook of covid-19 is difficult for her to find a suitable job. Family is reliant on SSO assistance and struggles to cope financially. Client accidentally dropped her phone and is unable to have digital access. She would appreciate a donation of a used smart phone. \n\nEmail or whatsapp @ 66901010.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Champions Way",
-        "name": "Joycelyn Wong",
-        "email": "joycelynwong@fycs.org",
-        "phone": [
-          "66901010",
-          "66901000"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2805,6 +2821,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "104602",
+      "name": "Ikea study table",
+      "description": "Ikea study table in good condition. Blessing it to go for the other kid who need it.",
+      "location": null,
+      "validTill": "07 Feb 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "104597",
       "name": "Foldable baby high chair",
