@@ -1532,23 +1532,6 @@
       "date": "04 Feb 2022"
     },
     {
-      "id": "104595",
-      "category": "Medical Aids",
-      "name": "Digital thermometer",
-      "description": "Client is a stay-home caregiver with two children. The younger child has multiple medical needs while the older child has spinal related challenges. The family is solely dependent on the husband as the sole breadwinner. Hence, they are unable to afford another digital thermometer when the previous one had just spoilt.",
-      "specifications": null,
-      "contact": {
-        "org": "Hougang Sheng Hong Family Service Centre",
-        "name": "Dan Chan",
-        "email": "dan@shenghong.org.sg",
-        "phone": [
-          "62895022"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Feb 2022"
-    },
-    {
       "id": "104429",
       "category": "Medical Aids",
       "name": "TENA PROskin Pants Plus Adult Diaper Size L",
@@ -1684,24 +1667,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "28 Jan 2022"
-    },
-    {
-      "id": "104436",
-      "category": "Others",
-      "name": "MamyPoko Pants Extra Dry Skin, Boys, XXXL, 18-35kg (4 Packets)",
-      "description": "This family of 4 is under financial assistance and has a teenage child with special needs that requires Diapers on a daily basis. Mother is a responsible lady who tries her best to support her family despite her own health condition. The donation of diapers would be very helpful in helping the family tide through their challenges.",
-      "specifications": null,
-      "contact": {
-        "org": "Rainbow Centre - Magaret Drive School",
-        "name": "Jasmine Ng",
-        "email": "jasmineng@rainbowcentre.org.sg",
-        "phone": [
-          "68179433",
-          "64752072"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "28 Jan 2022"
     },
     {
@@ -2803,6 +2768,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "104607",
+      "name": "Baby Cot",
+      "description": "Joie cot with mattress and bed sheets. Good for newborns till 2 years old.",
+      "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
+      "validTill": "14 Feb 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "104604",
       "name": "Super single storage bed with hydralic",
@@ -4441,6 +4416,16 @@
       "validTill": "08 Feb 2022",
       "ageInYears": 4,
       "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104606",
+      "name": "Round Foldable Table",
+      "description": "Round Foldable Table, some minor dents on it but overall is functioning in good condition.  Got it from The Helping Hand around 2 years ago. Used as a study table hence is pretty clean, no food stain.",
+      "location": "Serangoon Garden, Hougang, Ponggol",
+      "validTill": "08 Feb 2022",
+      "ageInYears": 2,
+      "dimensions": "99cm x 99cm x 75cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
