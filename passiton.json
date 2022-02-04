@@ -1,6 +1,58 @@
 {
   "requests": [
     {
+      "id": "104582",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Refrigerator needed for elderly couple. Both are not working and are relying on financial assistance. They are unable to afford a new fridge.",
+      "specifications": null,
+      "contact": {
+        "org": "Kampong Kapor Community Services",
+        "name": "Adrena Lee",
+        "email": "adrenalee@kkcs.org.sg",
+        "phone": [
+          "64224534",
+          "62997662"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Feb 2022"
+    },
+    {
+      "id": "104581",
+      "category": "Electrical Home Appliances",
+      "name": "2 Standing Fans",
+      "description": "Client has recently moved into a 2 room rental flat with her 10-year-old child. She is recovering from a sinus infection and will be starting work soon. \nShe had brought over fans from her previous house to use in the current house, which her ex-boyfriend had removed the front cover of all the fans, exposing the fan blades. \nThis is very dangerous for the family when the fans are turned on, and client has mentioned they have been accidentally cut by the blades multiple times in their previous home. \nLooking for a kind donor to donate the standing fans to the family.\nThank you.",
+      "specifications": "2 Standing Fans",
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Feb 2022"
+    },
+    {
+      "id": "104579",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine (Top Loader)",
+      "description": "Client is a single mother and is the sole breadwinner.  She has a 12-year-old son. The family is struggling to meet their basic needs as her salary has been reduced significantly due to Covid 19 pandemic.  She is currently staying at a two-room rental flat.  \n\nPlease contact Ms. Devika @ 8388 7609 for further liaising and donation matters.",
+      "specifications": null,
+      "contact": {
+        "org": "Kampong Kapor Community Services",
+        "name": "Navin Nathaniel Kirinaris",
+        "email": "navin@kkcs.org.sg",
+        "phone": [
+          "62997662"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Feb 2022"
+    },
+    {
       "id": "104577",
       "category": "Electrical Home Appliances",
       "name": "3 Wall Fans (Includes installation)",
@@ -1952,24 +2004,6 @@
       "date": "03 Feb 2022"
     },
     {
-      "id": "104530",
-      "category": "Home Furnishing",
-      "name": "Wooden Dining table with 6 chairs",
-      "description": "The family has 3 school going children  and requires a proper place to sit down and study. Father is the sole breadwinner and the mother a foreigner with LTVP pass. Low income family need your kind donations.",
-      "specifications": "Any size",
-      "contact": {
-        "org": "Lakeside Family Centre - Jurong West",
-        "name": "Christopher Nasser",
-        "email": "christopher-nasser@lakeside.org.sg",
-        "phone": [
-          "65671908ext429",
-          "65671908"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "03 Feb 2022"
-    },
-    {
       "id": "104520",
       "category": "Home Furnishing",
       "name": "LEATHER OR PVC OFFICE CHAIR WITH NECKREST",
@@ -2614,6 +2648,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "104580",
+      "name": "Artificial Christmas tree",
+      "description": "It can be unassembled into 3 parts and stored in a box.  Bought in 2020 Dec from Metro.\nWithout decorations but will also give LED light if requested.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "28 Feb 2022",
+      "ageInYears": 2,
+      "dimensions": "180cm when assembled",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "104572",
       "name": "Cordless handheld vacuum - Black & Decker",
