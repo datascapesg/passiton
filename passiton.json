@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "104568",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave (Halal)",
+      "description": "Mother of 5 children was diagnosed with copper tunnel syndrome and would require a new microwave to help with her meal preparations.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Clarice Lim",
+        "email": "claricelim@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Feb 2022"
+    },
+    {
       "id": "104561",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -2513,13 +2530,23 @@
   ],
   "offers": [
     {
-      "id": "104563",
-      "name": "Wooden Coffee Table",
-      "description": "-Wood coffee table with 2 drawers\n-Still in good condition except surface has a few black marker inks caused by my kid",
-      "location": "Watten Estate, Novena, Thomson",
-      "validTill": "09 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": "120*60*45cm",
+      "id": "104569",
+      "name": "32” Philips TV",
+      "description": "32” LED TV bought in Sep 19 with a remote control.\nUsed for 6 months.",
+      "location": "Bishan, Ang Mo Kio",
+      "validTill": "28 Feb 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104567",
+      "name": "Kids bunk bed",
+      "description": "Kids bunk bed with 2 levels",
+      "location": "Orchard, Cairnhill, River Valley",
+      "validTill": "13 Feb 2022",
+      "ageInYears": 2,
+      "dimensions": "L 215cm, W 150cm, H 150cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
