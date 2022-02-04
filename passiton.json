@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "104561",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "The family has 7 young children and their current refrigerator has broken down. Though both parents are working, they continue to have financial difficulties.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Yew Tee",
+        "name": "Sherlyn Chan",
+        "email": "sherlynchan@fycs.org",
+        "phone": [
+          "64162183",
+          "64162162"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Feb 2022"
+    },
+    {
       "id": "104556",
       "category": "Electrical Home Appliances",
       "name": "Washing machine",
@@ -1814,6 +1832,24 @@
       "date": "05 Jan 2022"
     },
     {
+      "id": "104560",
+      "category": "Home Furnishing",
+      "name": "Single size mattress",
+      "description": "A family of 5 just got their rental flat and required some basic items. Client does not have financial to purchase single size mattress.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Yew Tee",
+        "name": "Fu Xiu Ting",
+        "email": "fuxiuting@fycs.org",
+        "phone": [
+          "64162186",
+          "64162162"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Feb 2022"
+    },
+    {
       "id": "104533",
       "category": "Home Furnishing",
       "name": "2 door wardrobe",
@@ -2388,6 +2424,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "13 Jan 2022"
+    },
+    {
+      "id": "104562",
+      "category": "Kitchen Utility Items",
+      "name": "Electronic Kitchen Scales",
+      "description": "Our Centre requires electronic kitchen scales. The kitchen scales are used in our ever growing baking vocational track.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Pan-Disability Centre @ Eunos",
+        "name": "Siti Nurzarifah Binte Selamat",
+        "email": "sitinurzarifah@thkmc.org.sg",
+        "phone": [
+          "68461171"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "04 Feb 2022"
     },
     {
       "id": "104512",
@@ -3515,16 +3568,6 @@
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "20 Feb 2022",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104106",
-      "name": "Crate and Barrel Chaise Sofa set",
-      "description": "In a good condition.",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "20 Feb 2022",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
