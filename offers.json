@@ -60,16 +60,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "104584",
-    "name": "Fruit Juicer",
-    "description": "Relatively new. Used less than 20 times.",
-    "location": "Orchard, Cairnhill, River Valley",
-    "validTill": "28 Feb 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "104583",
     "name": "Vacuum cleaner",
     "description": "Handheld vacuum cleaner with additional accessories and new filter",
@@ -1584,6 +1574,16 @@
     "name": "2 Children school bags (boy & girl)- New",
     "description": "Brand new school bags",
     "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "11 Feb 2022",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "104605",
+    "name": "Fax machine",
+    "description": "Fax machine from Brother",
+    "location": "Raffles Place, Cecil, Marina, People's Park",
     "validTill": "11 Feb 2022",
     "ageInYears": 1,
     "dimensions": null,

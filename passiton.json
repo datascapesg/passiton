@@ -210,24 +210,6 @@
       "date": "03 Feb 2022"
     },
     {
-      "id": "104550",
-      "category": "Electrical Home Appliances",
-      "name": "Iron",
-      "description": "Client is an older adult with multiple medical conditions and lack support from family",
-      "specifications": null,
-      "contact": {
-        "org": "REACH Family Service Centre",
-        "name": "Lim Daniel",
-        "email": null,
-        "phone": [
-          "68010719",
-          "62522566"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Feb 2022"
-    },
-    {
       "id": "104401",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine (Top Load)",
@@ -2882,16 +2864,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "104584",
-      "name": "Fruit Juicer",
-      "description": "Relatively new. Used less than 20 times.",
-      "location": "Orchard, Cairnhill, River Valley",
-      "validTill": "28 Feb 2022",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "104583",
       "name": "Vacuum cleaner",
       "description": "Handheld vacuum cleaner with additional accessories and new filter",
@@ -4406,6 +4378,16 @@
       "name": "2 Children school bags (boy & girl)- New",
       "description": "Brand new school bags",
       "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "11 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104605",
+      "name": "Fax machine",
+      "description": "Fax machine from Brother",
+      "location": "Raffles Place, Cecil, Marina, People's Park",
       "validTill": "11 Feb 2022",
       "ageInYears": 1,
       "dimensions": null,
