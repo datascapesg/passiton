@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "104587",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Hi! Client is a 55 year old divorced lady who is currently working as a coffeeshop assistant earning $700. She is not on governmenet assistance. She will be moving to a forever home - rental unit by HDB and would like to request for a medium sized fridge as she likes to cook when she is not working. Thank you so much for your kind help!",
+      "specifications": null,
+      "contact": {
+        "org": "New Hope Community Services",
+        "name": "Goh Ann Tat",
+        "email": "anntat@newhopecs.org.sg",
+        "phone": [
+          "87952925",
+          "63059620"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Feb 2022"
+    },
+    {
       "id": "104582",
       "category": "Electrical Home Appliances",
       "name": "Fridge",
@@ -1447,6 +1465,40 @@
       "date": "04 Jan 2022"
     },
     {
+      "id": "104589",
+      "category": "Medical Aids",
+      "name": "Fairprice Adult diapers ultra Size M",
+      "description": "Client is 47 years old, has cerebral palsy since young and is bedbound. She lives with her mother and father with dementia in a one-room rental flat. The parents are both 70s and have not been working for quite some time due to caregiving duties and medical conditions. Client uses average 3 diapers per day and THK is looking to support her for three months. She is using Fairprice adult diapers ultra Size M. It would be great if the items can be delivered directly to client's house at Ang Mo Kio Ave 4. If you know of anyone with this item, kindly whatsapp or call Emily at 97245522. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "THK Cluster Support @ Ang Mo Kio",
+        "name": "Emily Koh",
+        "email": "emily.koh@thkmc.org.sg",
+        "phone": [
+          "65564833"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Feb 2022"
+    },
+    {
+      "id": "104588",
+      "category": "Medical Aids",
+      "name": "Underpads",
+      "description": "Client is 47 years old, has cerebral palsy since young and is bedbound. She lives with her mother and father with dementia in a one-room rental flat. The parents are both 70s and have not been working for quite some time due to caregiving duties and medical conditions. Client requires the use of underpads to prevent staining the mattress, any brands are fine. It would be great if the item can be delivered directly to client's house at Ang Mo Kio Ave 4. If you know of anyone with this item, kindly whatsapp or call Emily at 97245522. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "THK Cluster Support @ Ang Mo Kio",
+        "name": "Emily Koh",
+        "email": "emily.koh@thkmc.org.sg",
+        "phone": [
+          "65564833"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Feb 2022"
+    },
+    {
       "id": "104429",
       "category": "Medical Aids",
       "name": "TENA PROskin Pants Plus Adult Diaper Size L",
@@ -1933,6 +1985,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "05 Jan 2022"
+    },
+    {
+      "id": "104590",
+      "category": "Home Furnishing",
+      "name": "Single Mattress",
+      "description": "Hi! Client is a 55 yo divorced lady working as a coffeeshop assistant earning $700. She is not on government assistance and would like to request for a single mattress. Appreciate it if you could contact me at Huixian 92204849 or huixian@newhopecs.org.sg",
+      "specifications": null,
+      "contact": {
+        "org": "New Hope Community Services",
+        "name": "Goh Ann Tat",
+        "email": "anntat@newhopecs.org.sg",
+        "phone": [
+          "87952925",
+          "63059620"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Feb 2022"
     },
     {
       "id": "104576",
@@ -2659,16 +2729,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "104585",
-      "name": "Artificial Christmas tree",
-      "description": "It can be unassembled into 3 parts and stored in a box.  Bought in 2020 Dec from Metro.\nWithout decorations but will also give LED light if requested.",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "28 Feb 2022",
-      "ageInYears": 2,
-      "dimensions": "180cm when assembled",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "104584",
       "name": "Fruit Juicer",
       "description": "Relatively new. Used less than 20 times.",
@@ -2952,16 +3012,6 @@
       "id": "104497",
       "name": "Cloths",
       "description": "New 3nyr old shorts not used before",
-      "location": "Yishun, Sembawang",
-      "validTill": "01 Mar 2022",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104496",
-      "name": "Water boiler",
-      "description": "New have not used at all",
       "location": "Yishun, Sembawang",
       "validTill": "01 Mar 2022",
       "ageInYears": 1,
