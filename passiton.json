@@ -2649,6 +2649,26 @@
   ],
   "offers": [
     {
+      "id": "104584",
+      "name": "Fruit Juicer",
+      "description": "Relatively new. Used less than 20 times.",
+      "location": "Orchard, Cairnhill, River Valley",
+      "validTill": "28 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104583",
+      "name": "Vacuum cleaner",
+      "description": "Handheld vacuum cleaner with additional accessories and new filter",
+      "location": "Orchard, Cairnhill, River Valley",
+      "validTill": "28 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "104580",
       "name": "Artificial Christmas tree",
       "description": "It can be unassembled into 3 parts and stored in a box.  Bought in 2020 Dec from Metro.\nWithout decorations but will also give LED light if requested.",
@@ -3009,16 +3029,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "104478",
-      "name": "Baby cot",
-      "description": "Well used baby cot without mattress (takes 130x70cm size). Not for fussy as has some scratches",
-      "location": "Katong, Joo Chiat, Amber Road",
-      "validTill": "14 Feb 2022",
-      "ageInYears": 1,
-      "dimensions": "130x70cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "104469",
       "name": "Tv console",
       "description": "Please arrange for own transport",
@@ -3046,16 +3056,6 @@
       "validTill": "01 Mar 2022",
       "ageInYears": 2,
       "dimensions": "Not available",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104463",
-      "name": "Children's foam mattress",
-      "description": "Can be used on cots, playpens or on its own. Comes with cotton fitted sheet.",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "10 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": "117 x 72 x 6 cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3365,16 +3365,6 @@
       "location": "Serangoon Garden, Hougang, Ponggol",
       "validTill": "25 Feb 2022",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104326",
-      "name": "Baby lightweight stroller",
-      "description": "Alecia lightweight stroller in good condition.",
-      "location": "Geylang, Eunos",
-      "validTill": "25 Feb 2022",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
