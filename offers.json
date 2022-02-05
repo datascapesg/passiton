@@ -1,5 +1,25 @@
 [
   {
+    "id": "104612",
+    "name": "Single wooden sofa",
+    "description": "2 sets of single sofa.\nIn good condition and good quality wood.",
+    "location": "Yishun, Sembawang",
+    "validTill": "28 Feb 2022",
+    "ageInYears": 3,
+    "dimensions": "29(HT) X 23(W) X 20(L)",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "104611",
+    "name": "Side table",
+    "description": "Table is still in good condition.\nHowever, there are a few stickers/Stickers marks on the table.",
+    "location": "Yishun, Sembawang",
+    "validTill": "28 Feb 2022",
+    "ageInYears": 3,
+    "dimensions": "56(L) X 20(W) X 29.5(HT)",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "104609",
     "name": "HospiCare 40R Adult Body Wipes",
     "description": "5 40R HospiCare adult body wipes to give away. 4 are just the basic body wipes and each packet contains 40 extra-large tear resistant towels. 1 is an ultra-soft version. All the items were purchased in mid-October last year (2021) in anticipation of a surgery but I only ended up needing 1 packet. I also have that available for collection if desired (it is an ultra-soft one).",
@@ -37,26 +57,6 @@
     "validTill": "06 Mar 2022",
     "ageInYears": 4,
     "dimensions": "110 x 205 x 110 (w x l x h)",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "104603",
-    "name": "Ikea study table",
-    "description": "Ikea study table in good condition. Blessing it to go for the other kid who need it.",
-    "location": null,
-    "validTill": "07 Feb 2022",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "104602",
-    "name": "Ikea study table",
-    "description": "Ikea study table in good condition. Blessing it to go for the other kid who need it.",
-    "location": null,
-    "validTill": "07 Feb 2022",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1707,106 +1707,6 @@
     "validTill": "06 Feb 2022",
     "ageInYears": 4,
     "dimensions": "158cm (height) x 105cm (length) 61cm (width)",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "104311",
-    "name": "Electronic Hoist Machine",
-    "description": "For transferring patient from bed to wheelchair/commode.",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "05 Feb 2022",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "104312",
-    "name": "Electronic Hoist Machine",
-    "description": "For transferring patient from bed to wheelchair/commode.",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "05 Feb 2022",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103482",
-    "name": "Walker",
-    "description": "Not used at all. New condition.",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "05 Feb 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103468",
-    "name": "Cupboard",
-    "description": "From IKEA",
-    "location": "Kranji, Woodgrove",
-    "validTill": "05 Feb 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103466",
-    "name": "Walking Stick",
-    "description": "Turns into seat",
-    "location": "Woodlands ",
-    "validTill": "05 Feb 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103464",
-    "name": "Walking Frame",
-    "description": "New",
-    "location": "Woodlands ",
-    "validTill": "05 Feb 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103463",
-    "name": "Commode Wheelchair",
-    "description": "w/o pot and cover",
-    "location": "Woodlands ",
-    "validTill": "05 Feb 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103456",
-    "name": "Curtches",
-    "description": "I just recovered from an ankle injury, looking to donate my crutches.",
-    "location": "Geylang, Eunos",
-    "validTill": "05 Feb 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103434",
-    "name": "King James Bible",
-    "description": "Through Brothers and Sisters in Christ who provided precious prayer support, sourced for Bibles and supplied funds, praise be to God alone, we have some King James Bibles to give away to any ministry or non-profit who uses or shares the Word of God, the King James version, in their work with people.\n\nWe do not charge for the Bible and only ask that you do not sell it.\n\nIf you are wondering why we are giving out these Bibles freely, it is because of the great love God has shown us through the precious blood of the Lord Jesus Christ. We have also been richly blessed by people who gave us Bibles when we could not find them ourselves.\n\nThese King James Bibles are not facsimiles of the 1611, but are still true KJVs. They are also brand new.\n\nAll glory be to God and Him alone!",
-    "location": null,
-    "validTill": "05 Feb 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103431",
-    "name": "Baby cot",
-    "description": "Can be used as baby cot and also convert to single bed with safety frame for toddler",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "05 Feb 2022",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
 ]
