@@ -661,24 +661,6 @@
       "date": "06 Jan 2022"
     },
     {
-      "id": "103414",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Elderly client just got his keys to his rental flat. His leg is still healing from a broken toe and wounded heel so he is unable to walk or stand too long without aid. As such a top load washing machine would really help him with washing clothes so that he need not spend too much time standing or squatting to wash his clothes.",
-      "specifications": null,
-      "contact": {
-        "org": "Catholic Welfare Services",
-        "name": "Ian Michael Binny",
-        "email": "mbinny@catholicwelfare.org.sg",
-        "phone": [
-          "68017489",
-          "63394711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Jan 2022"
-    },
-    {
       "id": "104538",
       "category": "Leisure and Healthy Lifestyle",
       "name": "BICYCLE",
@@ -1599,40 +1581,6 @@
       "date": "10 Jan 2022"
     },
     {
-      "id": "103405",
-      "category": "Home Furnishing",
-      "name": "Window Grilles",
-      "description": "The family experiences some financial difficulties as client is the sole breadwinner of the family and the high cost of education for eldest daughter who is on student pass currently. \nGiven that there are two young children below the age of 3, the lack of window grilles pose as a safety hazard and the family hopes to source for kind donors to request for window grilles.",
-      "specifications": "Window Grilles",
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "amychua@mws.sg",
-        "phone": [
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Jan 2022"
-    },
-    {
-      "id": "103401",
-      "category": "Home Furnishing",
-      "name": "Kitchen cabinet",
-      "description": "Client is a young mother with 6 young and school-going children. Kitchen cabinet is needed to allow mother to have better organisation of her home and better storage of her appliances so to keep her children safe in the kitchen. \n\nPrefer a kitchen cabinet that has drawers and waterproof (plastic material).",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Bedok",
-        "name": "Naurah Syamimi",
-        "email": "Naurah_SYAMIMI@msf.gov.sg",
-        "phone": [
-          "62436909"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Jan 2022"
-    },
-    {
       "id": "104578",
       "category": "Others",
       "name": "Window Grilles For 4-Rooms Flat",
@@ -1979,23 +1927,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "07 Jan 2022"
-    },
-    {
-      "id": "103417",
-      "category": "Others",
-      "name": "Nature One Standard Milk Formula",
-      "description": "Children under care of Yishun Family Service centre are in need of Nature One Standard Newborn Formula Step 1 x 4 tins and Nature One Standard Toddler Nutritious Milk Drink Step 3 x 4 tins. The items will be delivered directly to beneficiary's place. Please contact us at dik@childrensociety.org.sg for delivery details. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Peng Hui",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Jan 2022"
     },
     {
       "id": "104598",
@@ -2470,6 +2401,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "104628",
+      "name": "Gaming Chair / Office Chair",
+      "description": "Chair still in usable condition",
+      "location": "Queenstown, Tiong Bahru",
+      "validTill": "08 Mar 2022",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "104626",
       "name": "Walking Stick",
@@ -3601,16 +3542,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "104165",
-      "name": "clothes",
-      "description": "As shown, I have a lot of clothing I wish to donate. Includes, tops, pants, dress, 1 boaster, 3 bags of fabrics. Feel free to email for more pictures or info. Thank you. #Staysafe",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "06 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": "varies",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "104163",
       "name": "Corporate dresses, blouses",
       "description": "I have new corporate blazers (size: XXL) and blouses (size: XL/ XXL). Some are new, some just wear once. Please arrange for collection on your own. Thanks",
@@ -4268,36 +4199,6 @@
       "validTill": "07 Feb 2022",
       "ageInYears": 1,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103550",
-      "name": "Butterfly sewing machine",
-      "description": "Well used. Wooden frame a bit worn out, sewing slightly not as smooth. Still in useable condition. \n\nSelf pickup please.",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "06 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": "NA",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103539",
-      "name": "Hospital Bed",
-      "description": "L 204cm x W 108cm x  H 65cm\n\nHospital Bed with good condition",
-      "location": "Kranji, Woodgrove",
-      "validTill": "06 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": "204cm x 108cm x  65cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103525",
-      "name": "Study table with built-in shelves",
-      "description": "study desk with shelves, well used (nuts rusty) but sturdy. Self pickup only.\n\nDimensions: 158cm (height) x 105cm (length) 61cm (width)",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "06 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": "158cm (height) x 105cm (length) 61cm (width)",
       "deliveryCostsCoveredByDonor": true
     }
   ]
