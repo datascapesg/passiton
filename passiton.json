@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "104682",
-      "category": "Electrical Home Appliances",
-      "name": "Utensils and Cooking Pot",
-      "description": "Mother with teenage son (school going) requires 1 additional set of utensils (fork, spoon, chopsticks, bowl and plate) as well as a pot to cook. Client is unemployed due to multiple health needs. Client is unable to pay for delivery and hence, would require donor to pay for delivery. Client stays in Tampines East.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Family Service Centre - Tampines",
-        "name": "Ong Boon Cheng",
-        "email": "ongbooncheng@mws.sg",
-        "phone": [
-          "67872001"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Feb 2022"
-    },
-    {
       "id": "104669",
       "category": "Electrical Home Appliances",
       "name": "televison set",
@@ -323,24 +306,6 @@
         "email": "xeang@childrensociety.org.sg",
         "phone": [
           "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Jan 2022"
-    },
-    {
-      "id": "103926",
-      "category": "Electrical Home Appliances",
-      "name": "Water Heater",
-      "description": "Elderly couple living with 2 of their schooling grandchildren are in need of a water heater. They currently do not have any water heater and will require a brand new one. They will need help to install this.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Victoria Chong",
-        "email": "victoriachong@fycs.org",
-        "phone": [
-          "69783482",
-          "65690381"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2297,6 +2262,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "104688",
+      "name": "Dining table",
+      "description": "Solid wood dining table and 2 chairs",
+      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+      "validTill": "20 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": "1.35m x 0.8m",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "104687",
       "name": "Wardrobe",
