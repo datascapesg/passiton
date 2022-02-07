@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "104656",
+      "category": "Electrical Home Appliances",
+      "name": "Ceramic Induction Cooker",
+      "description": "Aunty 90+ yrs old living in HDB 1-room rental flat needs a ceramic induction cooker. Her existing cooker has stopped working. A ceramic cooker will allow her to use any type of pot. Many Thanks.",
+      "specifications": "Ceramic",
+      "contact": {
+        "org": "Moral Senior Activity Center @ Kaki Bukit",
+        "name": "Gary Tan",
+        "email": "garytan@chkmps.org.sg",
+        "phone": [
+          "64486247"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Feb 2022"
+    },
+    {
+      "id": "104654",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "Family consists of client (F/84), her son (M/52/diagnosed with depression and unfit to work, and her daughter-in-law (F/44/foreigner and main caregiver to F84. Family lives in 1 room rental flat.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Krishna Kumar",
+        "email": "krishna@thkmc.org.sg",
+        "phone": [
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Feb 2022"
+    },
+    {
       "id": "104651",
       "category": "Electrical Home Appliances",
       "name": "Blender",
@@ -50,24 +84,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "05 Feb 2022"
-    },
-    {
-      "id": "104582",
-      "category": "Electrical Home Appliances",
-      "name": "Fridge",
-      "description": "Refrigerator needed for elderly couple. Both are not working and are relying on financial assistance. They are unable to afford a new fridge.",
-      "specifications": null,
-      "contact": {
-        "org": "Kampong Kapor Community Services",
-        "name": "Adrena Lee",
-        "email": "adrenalee@kkcs.org.sg",
-        "phone": [
-          "64224534",
-          "62997662"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Feb 2022"
     },
     {
       "id": "104581",
@@ -676,6 +692,41 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Jan 2022"
+    },
+    {
+      "id": "104657",
+      "category": "Infant and Children Items",
+      "name": "Lactogen 3",
+      "description": "This is a family where single mother is sole caregiver of her 4 young children, all under the age of 6 years old. Her husband is incarcerated.Due to caregiving responsibilities, Ct is unable to seek employment and relies on social assistance to meet basic needs. As Ct's renewal of assistance is pending, she requires help to meet urgent milk powder needs for her children.\n\nDonation of milk powder - Lactogen 3, would be appreciated, thank you.",
+      "specifications": "Milk powder",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Tricia Tee",
+        "email": "triciatee@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Feb 2022"
+    },
+    {
+      "id": "104653",
+      "category": "Infant and Children Items",
+      "name": "Diapers & Milk powder",
+      "description": "Family of 5, with 3 young children (4, 3, 2). Parents are both working but have to pause work temporarily to take care of their young children who are feeling unwell. Family would like to be blessed with - Drypers pants, size XL (6 packs)\n- Nature One Diary Premium milk powder (Toddler), (4 tins) Appreciate for delivery to be covered by donor. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "HEART @ Fei Yue",
+        "name": "Mindy Choo",
+        "email": "mindychoo@fycs.org",
+        "phone": [
+          "89078297",
+          "68199170"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Feb 2022"
     },
     {
       "id": "104648",
@@ -2244,6 +2295,42 @@
       "date": "13 Jan 2022"
     },
     {
+      "id": "104659",
+      "category": "Medical Aids",
+      "name": "ART Test Kits",
+      "description": "The family of four faces financial difficulties as both parents are certified medically unfit for work due to health and mental issues. Their two sons are still studying and not able to work to provide for the family yet. They need ART test kits as the whole family is currently unwell with cough and flu.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@amkfsc.org.sg",
+        "phone": [
+          "64546678ext217",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Feb 2022"
+    },
+    {
+      "id": "104658",
+      "category": "Medical Aids",
+      "name": "Hand Sanitiser",
+      "description": "The family of four faces financial difficulties as both parents are certified medically unfit for work due to health and mental issues. Their two sons are still studying and not able to work to provide for the family yet. They need hand sanitisers as the whole family is currently unwell with cough and flu.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@amkfsc.org.sg",
+        "phone": [
+          "64546678ext217",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Feb 2022"
+    },
+    {
       "id": "104429",
       "category": "Medical Aids",
       "name": "TENA PROskin Pants Plus Adult Diaper Size L",
@@ -2461,16 +2548,6 @@
       "validTill": "12 Feb 2022",
       "ageInYears": 1,
       "dimensions": "160 (B) * 197 (L) * 34(H) cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104636",
-      "name": "Single bed & mattress",
-      "description": "Metal frame and in good condition.",
-      "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-      "validTill": "08 Mar 2022",
-      "ageInYears": 2,
-      "dimensions": "Single",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3364,16 +3441,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "104324",
-      "name": "Hospital Bed w mattress,walking frame,leg foot rest,adult diapers",
-      "description": "Walking frame L52xW52xH92cm. In addition one Leg rest Pillow (big). Bed come with 4\" standard PVC foam mattress. Brand new Adult pampers. Draw sheet 210cm x 80cm (For Bed)",
-      "location": "Bishan, Ang Mo Kio",
-      "validTill": "25 Feb 2022",
-      "ageInYears": 1,
-      "dimensions": "L215xW104xH49cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "104308",
       "name": "Walking frame",
       "description": "Foldable walkimg frame",
@@ -3900,16 +3967,6 @@
       "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
       "validTill": "17 Feb 2022",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "103965",
-      "name": "Preloved baby infant clothes",
-      "description": "Self collection for the baby girl infant clothes. ALL GOOD CONDITIONS!",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "17 Feb 2022",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
