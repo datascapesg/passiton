@@ -281,24 +281,6 @@
       "date": "25 Jan 2022"
     },
     {
-      "id": "104224",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Client is single mother with 2 children, low income, living in rental flat. Their washing machine is currently spoilt and they do not have financial means to replace/fix. A donation of a washing machine would be of much assistance.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Jurong",
-        "name": "Nathan Hou",
-        "email": "nathanhou@thkmc.org.sg",
-        "phone": [
-          "88554795",
-          "67169466"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Jan 2022"
-    },
-    {
       "id": "103983",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine (Top Load)",
@@ -648,6 +630,23 @@
       "date": "17 Jan 2022"
     },
     {
+      "id": "104728",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder",
+      "description": "Family of 7 living in a 2-room rental flat. Client is the main caregiver to 2 young children, aged 3 years old and 7 months. Client's husband is sole breadwinner. Despite him working, the family is still facing difficulties in meeting their needs. Family is in need of:\n1. Dumex Dulac Infant Formula Stage 1\n2. Dumex Dugro Stage 3\n\nFor further liaison on delivery information, do contact Nurul via whatsapp at 98598767.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (East)",
+        "name": "Nur Afrina",
+        "email": "fsceast@ppis.sg",
+        "phone": [
+          "69503503"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Feb 2022"
+    },
+    {
       "id": "104722",
       "category": "Infant and Children Items",
       "name": "Baby Bathtub with stand",
@@ -766,24 +765,6 @@
         "phone": [
           "88664791",
           "97229008"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Feb 2022"
-    },
-    {
-      "id": "104534",
-      "category": "Infant and Children Items",
-      "name": "Foldable Booster Seat",
-      "description": "Low income single mother with a 6yo child in need of a foldable booster seat (easier to carry). The child is currently placed in other care due to difficulties in caring and needs to be transported around hence in need of a foldable booster seat. Appreciate for delivery to be arranged and covered by donor to client house. Interested donors can whatsapp me. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Mindy Choo",
-        "email": "mindychoo@fycs.org",
-        "phone": [
-          "89078297",
-          "68199170"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -961,23 +942,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": false,
-      "date": "20 Jan 2022"
-    },
-    {
-      "id": "104089",
-      "category": "Infant and Children Items",
-      "name": "Huggies Diapers Size S",
-      "description": "Low-income family staying in a rental flat, in need of Huggies diapers size S for 10 months old and 1 year old child. \nAny number of packets will do. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Faizah Binte Mohd Salihin",
-        "email": "faizah.mdsalihin@ppis.sg",
-        "phone": [
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
       "date": "20 Jan 2022"
     },
     {
@@ -1604,6 +1568,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "10 Jan 2022"
+    },
+    {
+      "id": "104727",
+      "category": "Others",
+      "name": "Alarm clock",
+      "description": "Client has multiple health aliments and is not able to work because of his health. He require an alarm clock so that he can wake up on time for his medical appointments",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Punggol",
+        "name": "Amos Liu",
+        "email": "amosliu@amkfsc.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "08 Feb 2022"
     },
     {
       "id": "104723",
@@ -2428,6 +2409,16 @@
   ],
   "offers": [
     {
+      "id": "104729",
+      "name": "Mouse",
+      "description": "There are two of them. One is used less than 5 times. The other is brand new. Battery powered. Bluetooth USB connection.",
+      "location": "Watten Estate, Novena, Thomson",
+      "validTill": "28 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "104726",
       "name": "Vertikal Backpack 65L",
       "description": "Used less than 3 times. Still in excellent condition",
@@ -2475,16 +2466,6 @@
       "validTill": "10 Mar 2022",
       "ageInYears": 1,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104696",
-      "name": "2-door Refrigerator",
-      "description": "Fridge is Non-halal. Uploaded picture is for reference. Bottom freezer.",
-      "location": null,
-      "validTill": "15 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": "W790xD695xH1715",
       "deliveryCostsCoveredByDonor": true
     },
     {
