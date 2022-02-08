@@ -1135,6 +1135,41 @@
       "date": "11 Jan 2022"
     },
     {
+      "id": "104736",
+      "category": "Home Furnishing",
+      "name": "Chest of Drawers",
+      "description": "A grandmother who is the main caregiver for her grand daughter requires a chest of drawers to store her grand daughter clothes and belongings.",
+      "specifications": null,
+      "contact": {
+        "org": "NTUC First Campus Co-operative Ltd",
+        "name": "Goh Rui Jing",
+        "email": "ruijing.goh@ntucfirstcampus.com",
+        "phone": [
+          "98335897",
+          "97229008"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Feb 2022"
+    },
+    {
+      "id": "104735",
+      "category": "Home Furnishing",
+      "name": "Wardrobe (for clothes)",
+      "description": "Client has 5 children, and is the main caregiver. \nHer husband is the only breadwinner of the family. \nHence, the family experiences high stress from caregiving stress, limited financial resources and other stressors.\nThank you.",
+      "specifications": "3-/ 4-doors, includes both hanging and folding portions",
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "amychua@mws.sg",
+        "phone": [
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Feb 2022"
+    },
+    {
       "id": "104724",
       "category": "Home Furnishing",
       "name": "Single size mattress",
@@ -1217,23 +1252,6 @@
         "email": "ella.tan@minds.org.sg",
         "phone": [
           "93573778"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Feb 2022"
-    },
-    {
-      "id": "104698",
-      "category": "Home Furnishing",
-      "name": "Dining Table & Chairs",
-      "description": "Client is a divorcee supporting her 4 school-going children. She is not receiving any maintenance from her ex-husband. Client and children are financial reliant on financial assistance rendered to them. The family is hoping for donation of a few furnitures including a dining table set with chairs. For further liaison on delivery address etc, do contact me at 98598768, thank you very much.",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (East)",
-        "name": "Nur Afrina",
-        "email": "fsceast@ppis.sg",
-        "phone": [
-          "69503503"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1550,6 +1568,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "10 Jan 2022"
+    },
+    {
+      "id": "104738",
+      "category": "Others",
+      "name": "Groceries",
+      "description": "This is a family of 5 (Mdm N and her husband, 1 teenager and a pair of 5-year old twins). Her husband has a chronic medical condition that causes him to have stroke-like symptoms, which makes it difficult for him to sustain employment as a delivery driver. The family had to rely on Mdm N's sole income during November - January 2022, causing high financial strain on Mdm N. One of the twins has eczema flare-ups, and requires frequent Dr's appointments to treat her skin, including purchase of steroid creams. These responsibilities can be quite costly per month, and she has to temporarily support her family of 5 on her single income. Grocery List -Fragrant rice - 5 -10 kg ( any brand ) -Sardine - ( any brand ) -Frozen halal chicken 2 kg - 2 packs -Instant halal noodles - soup-based and goreng, -Instant halal canned food, -Milo (3-in-1) - 2 packs, -Lipton tea, -Halal hot dog - 2-3 packs, -Eggs -30 pieces - 1-2 tray, -Cooking oil, -Frozen halal instant food. Willing Donors can contact Ms.Jillisa Kok directly at jillisakok@amkfsc.org.sg or 96411709.",
+      "specifications": "2 weeks supply",
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Lyndon Mathews",
+        "email": "lyndonmathews@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Feb 2022"
+    },
+    {
+      "id": "104737",
+      "category": "Others",
+      "name": "Adult Diapers",
+      "description": "Hi there, a low income family is looking for adult diapers. Brand: Tena. Size: L. Type: tape and not pants. The recipient is requesting for budget value one. Thanks in advance.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Sengkang",
+        "name": "Low Yiing Jia",
+        "email": "jialow@amkfsc.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Feb 2022"
     },
     {
       "id": "104727",
@@ -2373,6 +2425,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "104734",
+      "name": "Study table",
+      "description": "Look as new. Still in working condition.",
+      "location": null,
+      "validTill": "10 Mar 2022",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "104729",
       "name": "Mouse",
@@ -3481,6 +3543,16 @@
       "validTill": "18 Feb 2022",
       "ageInYears": 2,
       "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104739",
+      "name": "Hospital Bed",
+      "description": "Electric Wooden Hospital Bed with anti bed sore mattress included\n\nCondition: 9/10\n\nRef: \nhttps://shop.lifelinecorp.com/products/electric-wooden-hospital-bed-with-mattress",
+      "location": "Kranji, Woodgrove",
+      "validTill": "23 Feb 2022",
+      "ageInYears": 3,
+      "dimensions": "L 204cm x W 108cm x H 65cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
