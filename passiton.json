@@ -1,41 +1,6 @@
 {
   "requests": [
     {
-      "id": "104745",
-      "category": "Electrical Home Appliances",
-      "name": "Standing Fan",
-      "description": "Client is a single elderly lady who got divorced last year. She moved in to her new flat recently and requires donation of furnitures as she does not have sufficient savings to purchase all she need for the house. Client's medical follow-ups have also taken a toll on her expenses.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Tampines",
-        "name": "Yvette Lau",
-        "email": "tm.vce@carecorner.org.sg",
-        "phone": [
-          "67866225"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Feb 2022"
-    },
-    {
-      "id": "104733",
-      "category": "Electrical Home Appliances",
-      "name": "Standing Fan",
-      "description": "A grandmother who is the main caregiver for her grand daughter requires a floor standing fan for the bedroom as the bedroom has no air ventilation.",
-      "specifications": null,
-      "contact": {
-        "org": "NTUC First Campus Co-operative Ltd",
-        "name": "Goh Rui Jing",
-        "email": "ruijing.goh@ntucfirstcampus.com",
-        "phone": [
-          "98335897",
-          "97229008"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Feb 2022"
-    },
-    {
       "id": "104720",
       "category": "Electrical Home Appliances",
       "name": "Digital Camera",
@@ -2477,6 +2442,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "104758",
+      "name": "Bubilian Backpack",
+      "description": "-NIL-",
+      "location": "Seletar",
+      "validTill": "09 Feb 2022",
+      "ageInYears": 1,
+      "dimensions": "-NIL-",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "104757",
       "name": "Mousse Backpack",
