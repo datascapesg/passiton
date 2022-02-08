@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "104733",
+      "category": "Electrical Home Appliances",
+      "name": "Standing Fan",
+      "description": "A grandmother who is the main caregiver for her grand daughter requires a floor standing fan for the bedroom as the bedroom has no air ventilation.",
+      "specifications": null,
+      "contact": {
+        "org": "NTUC First Campus Co-operative Ltd",
+        "name": "Goh Rui Jing",
+        "email": "ruijing.goh@ntucfirstcampus.com",
+        "phone": [
+          "98335897",
+          "97229008"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Feb 2022"
+    },
+    {
       "id": "104720",
       "category": "Electrical Home Appliances",
       "name": "Digital Camera",
@@ -13,24 +31,6 @@
         "phone": [
           "62746904",
           "62708327"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Feb 2022"
-    },
-    {
-      "id": "104719",
-      "category": "Electrical Home Appliances",
-      "name": "Digital TV",
-      "description": "2 low income elderly seniors staying in Toa Payoh rental flat wishes to be blessed with a television set as their current one is broken. They have financial difficulties and have difficulty affording the replacement.",
-      "specifications": null,
-      "contact": {
-        "org": "Agency for Integrated Care",
-        "name": "Lisa Lai",
-        "email": "lisa.lai@aic.sg",
-        "phone": [
-          "69567011",
-          "66036800"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -540,6 +540,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "10 Jan 2022"
+    },
+    {
+      "id": "104732",
+      "category": "Leisure and Healthy Lifestyle",
+      "name": "City Community: Family House (Brand New Lego set)",
+      "description": "Single mother financially supporting and provide care giving for 2 sons aged 6 and 7yo. Younger son has autism. Whenever mother is at work, the boys enjoy playing legos to be meaningfully engaged.\nWhen mom has off days, she will spend time interacting with the children.  Appreciate for a brand new",
+      "specifications": null,
+      "contact": {
+        "org": "HEART @ Fei Yue",
+        "name": "Mindy Choo",
+        "email": "mindychoo@fycs.org",
+        "phone": [
+          "89078297",
+          "68199170"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Feb 2022"
     },
     {
       "id": "104538",
@@ -3476,16 +3494,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "104198",
-      "name": "TV Console",
-      "description": "TV console with sliding door.",
-      "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-      "validTill": "11 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": "120cm (length x 56cm depth x 60cm (height)",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "104197",
       "name": "Storage cabinet",
       "description": "Storage cabinet with one drawer and cupboard",
@@ -3543,16 +3551,6 @@
       "validTill": "21 Feb 2022",
       "ageInYears": 1,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104162",
-      "name": "Mattress",
-      "description": "Total there are 3 mattresses want to donate out. Reason of donate out because CNY planning to get a new one.",
-      "location": "Jurong",
-      "validTill": "21 Feb 2022",
-      "ageInYears": 1,
-      "dimensions": "91x190cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
