@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "104795",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Family of 5, couple with 3 young children requires a working fridge. The current fridge which is also donated is faulty and family has difficulty buying a replacement. Both parents have unstable employment.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Ye Jiancheng",
+        "email": "jiancheng@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "09 Feb 2022"
+    },
+    {
       "id": "104788",
       "category": "Electrical Home Appliances",
       "name": "Fridge",
@@ -29,42 +46,6 @@
         "email": "quekliuting@amkfsc.org.sg",
         "phone": [
           "64535349"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Feb 2022"
-    },
-    {
-      "id": "104782",
-      "category": "Electrical Home Appliances",
-      "name": "Television",
-      "description": "Single mother with 3 young children & elderly mother. Their current television has broken down and are unable to afford a new one. A simple working TV will suffice. Thank you",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Toa Payoh",
-        "name": "Rachel Chua",
-        "email": "rachelchua@carecorner.org.sg",
-        "phone": [
-          "63521622",
-          "63561622"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "09 Feb 2022"
-    },
-    {
-      "id": "104779",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Family with 8 school-going children requires a washing machine.",
-      "specifications": null,
-      "contact": {
-        "org": "NTUC First Campus Co-operative Ltd",
-        "name": "Kyra Annemarie Das",
-        "email": "annemarie.d@ntucfirstcampus.com",
-        "phone": [
-          "88664791",
-          "97229008"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -104,24 +85,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": false,
-      "date": "08 Feb 2022"
-    },
-    {
-      "id": "104692",
-      "category": "Electrical Home Appliances",
-      "name": "Television",
-      "description": "Client has 3 young children and just moved into rental flat. Client has some financial difficulty and not able to get a television. As her current one has spoiled.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Yew Tee",
-        "name": "Fu Xiu Ting",
-        "email": "fuxiuting@fycs.org",
-        "phone": [
-          "64162186",
-          "64162162"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
       "date": "08 Feb 2022"
     },
     {
@@ -769,23 +732,6 @@
       "date": "07 Feb 2022"
     },
     {
-      "id": "104646",
-      "category": "Infant and Children Items",
-      "name": "Milk powder - Dutch Lady Plain flavour",
-      "description": "This is a family where single mother is sole caregiver of her 4 young children, all under the age of 6 years old. Her husband is incarcerated.Due to caregiving responsibilities, Ct is unable to seek employment and relies on social assistance to meet basic needs. As Ct's renewal of assistance is pending, she requires help to meet urgent milk powder needs for her children. \n\nDonation of milk powder - Dutch Lady Plain flavour, would be appreciated, thank you.",
-      "specifications": "Milk powder - Dutch Lady Plain flavour",
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Tricia Tee",
-        "email": "triciatee@amkfsc.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Feb 2022"
-    },
-    {
       "id": "104540",
       "category": "Infant and Children Items",
       "name": "Diapers and Milk Powder (Similac 4)",
@@ -832,23 +778,6 @@
         "email": "smaheswari@amkfsc.org.sg",
         "phone": [
           "64535349"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "31 Jan 2022"
-    },
-    {
-      "id": "104479",
-      "category": "Infant and Children Items",
-      "name": "Sweety Silver Pantz (Tape) Size S",
-      "description": "This is a family of 4 that requires assistance to meet infant needs. Father is the sole caregiver of two young children, and his wife who is suffering from postnatal depression. As he has to monitor the safety at home, the family currently does not have income. \n\nThey would appreciate help to meet the need for diaper for their 5 month old son.",
-      "specifications": null,
-      "contact": {
-        "org": "AMKFSC Community Services Ltd - Sengkang",
-        "name": "Tricia Tee",
-        "email": "triciatee@amkfsc.org.sg",
-        "phone": [
-          "63128100"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1166,6 +1095,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "11 Jan 2022"
+    },
+    {
+      "id": "104792",
+      "category": "Home Furnishing",
+      "name": "Chairs",
+      "description": "Client is a male elderly living with his elderly flatmate. Both are low-income workers. Recently moved into their rental flat and in need of some furniture. Hopes to use the table and chairs to for dining at home.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Simranjit Kaur",
+        "email": "simranjit.kaur@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Feb 2022"
+    },
+    {
+      "id": "104791",
+      "category": "Home Furnishing",
+      "name": "foldable dining table",
+      "description": "Client is a male elderly living with his elderly flatmate. Both are low-income workers. Recently moved into their rental flat and in need of some furniture. Hopes to use the table and chairs to for dining at home.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Simranjit Kaur",
+        "email": "simranjit.kaur@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Feb 2022"
     },
     {
       "id": "104790",
@@ -2527,26 +2490,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "104711",
-      "name": "2 round 14 inch florescent ceiling lights",
-      "description": "Able to fit 32W bulbs",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "10 Mar 2022",
-      "ageInYears": 1,
-      "dimensions": "14 inch",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104710",
-      "name": "4 Round 19 inch florescent ceiling lights",
-      "description": "4 pieces, able to fit 40W bulbs",
-      "location": "Serangoon Garden, Hougang, Ponggol",
-      "validTill": "10 Mar 2022",
-      "ageInYears": 1,
-      "dimensions": "19 inch",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "104700",
       "name": "Wedge pillow",
       "description": "To help with sitting up in bed",
@@ -2664,16 +2607,6 @@
       "validTill": "08 Mar 2022",
       "ageInYears": 3,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104666",
-      "name": "Queen Size Storage bed",
-      "description": "Length: 200cm \nWidth: 153cm\nHeight of bed frame: 115cm \nHeight of storage space: 33cm\n  \nHydraulic all still in very good condition, just little wear and tear in picture",
-      "location": null,
-      "validTill": "14 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": "Length: 200cm  Width: 153cm Height of bed frame: 115cm  Height of storage space: 33cm",
       "deliveryCostsCoveredByDonor": true
     },
     {
