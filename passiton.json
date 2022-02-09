@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "104788",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "A low-income family with a few young children is looking for a fridge. The father is the sole breadwinner at the moment. They live in a 2-room rental flat.",
+      "specifications": null,
+      "contact": {
+        "org": "Lakeside Family Centre - Jurong West",
+        "name": "Jeanie So Yin Nei",
+        "email": "jeanie-so@lakeside.org.sg",
+        "phone": [
+          "65671908"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Feb 2022"
+    },
+    {
       "id": "104783",
       "category": "Electrical Home Appliances",
       "name": "TV (digital TV enabled)",
@@ -1151,6 +1168,23 @@
       "date": "11 Jan 2022"
     },
     {
+      "id": "104790",
+      "category": "Home Furnishing",
+      "name": "3- or 4-door Wardrobe",
+      "description": "Family has 7 young children from 6 months to 11 years old. Family has been facing financial hardship as client has not been able to seek employment due to caregiving needs and husband is the sole breadwinner. The family is seeking kind donor for, min. 3-door wardrobe after their previous wardrobe has collapsed.",
+      "specifications": null,
+      "contact": {
+        "org": "Hougang Sheng Hong Family Service Centre",
+        "name": "Poh Man Wei",
+        "email": "manwei@shenghong.org.sg",
+        "phone": [
+          "62895022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Feb 2022"
+    },
+    {
       "id": "104786",
       "category": "Home Furnishing",
       "name": "Bunk Bed - Queen bed and Single bed on top",
@@ -2006,6 +2040,24 @@
       "date": "13 Jan 2022"
     },
     {
+      "id": "104787",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "A student with a physical disability needs a laptop for school and home-based learning.",
+      "specifications": "Window 10",
+      "contact": {
+        "org": "Society For The Physically Disabled (SPD)",
+        "name": "Koh Yeng Yeng",
+        "email": "koh_yeng_yeng@spd.org.sg",
+        "phone": [
+          "65790750",
+          "65790700"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Feb 2022"
+    },
+    {
       "id": "104598",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -2286,40 +2338,6 @@
       "date": "04 Feb 2022"
     },
     {
-      "id": "104564",
-      "category": "Kitchen Utility Items",
-      "name": "Baking Trays",
-      "description": "Our Centre will require some baking tray to support our ever growing baking vocational track. To be able to fit the trays in our current proofer, we will require a tray that is 23cm x 32cm.\n\nDo get in touch with us if reference is needed.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Pan-Disability Centre @ Eunos",
-        "name": "Siti Nurzarifah Binte Selamat",
-        "email": "sitinurzarifah@thkmc.org.sg",
-        "phone": [
-          "68461171"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "04 Feb 2022"
-    },
-    {
-      "id": "104562",
-      "category": "Kitchen Utility Items",
-      "name": "Electronic Kitchen Scales",
-      "description": "Our Centre requires electronic kitchen scales. The kitchen scales are used in our ever growing baking vocational track.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Pan-Disability Centre @ Eunos",
-        "name": "Siti Nurzarifah Binte Selamat",
-        "email": "sitinurzarifah@thkmc.org.sg",
-        "phone": [
-          "68461171"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "04 Feb 2022"
-    },
-    {
       "id": "104512",
       "category": "Kitchen Utility Items",
       "name": "Electric Steamer",
@@ -2339,13 +2357,13 @@
   ],
   "offers": [
     {
-      "id": "104784",
-      "name": "Tan living room set: large sofa, small sofa, chair",
-      "description": "Furniture set purchased in Taiwan.",
-      "location": "Jurong",
-      "validTill": "12 Feb 2022",
+      "id": "104789",
+      "name": "1.2m marble round table",
+      "description": "Marble top\nGood condition",
+      "location": "Tampines, Pasir Ris",
+      "validTill": "10 Feb 2022",
       "ageInYears": 4,
-      "dimensions": null,
+      "dimensions": "Round 1.2m",
       "deliveryCostsCoveredByDonor": true
     },
     {
