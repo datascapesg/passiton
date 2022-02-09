@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "104779",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Family with 8 school-going children requires a washing machine.",
+      "specifications": null,
+      "contact": {
+        "org": "NTUC First Campus Co-operative Ltd",
+        "name": "Kyra Annemarie Das",
+        "email": "annemarie.d@ntucfirstcampus.com",
+        "phone": [
+          "88664791",
+          "97229008"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Feb 2022"
+    },
+    {
       "id": "104720",
       "category": "Electrical Home Appliances",
       "name": "Digital Camera",
@@ -576,6 +594,23 @@
       "date": "17 Jan 2022"
     },
     {
+      "id": "104775",
+      "category": "Infant and Children Items",
+      "name": "Diapers & Milk",
+      "description": "Child 1 requires Mamy Poko Junior Night Pants XXXL and Dumex Dugro Stage 5. \n\nChild 2 requires Mamy Poko Pants Standard XL and Lactogen 2. Child 3 requires Mamy Poko Pants XXL and Lactogen 3.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Nadiah Binte Shafiee",
+        "email": "nadiah@amkfsc.org.sg",
+        "phone": [
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Feb 2022"
+    },
+    {
       "id": "104749",
       "category": "Infant and Children Items",
       "name": "Milk Powder",
@@ -1114,6 +1149,41 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "11 Jan 2022"
+    },
+    {
+      "id": "104778",
+      "category": "Home Furnishing",
+      "name": "Queen-Sized Sofa Bed",
+      "description": "Family who has 7 school-going children is looking for a queen-sized sofa bed to cater to their children's sleeping arrangements.",
+      "specifications": null,
+      "contact": {
+        "org": "NTUC First Campus Co-operative Ltd",
+        "name": "Kyra Annemarie Das",
+        "email": "annemarie.d@ntucfirstcampus.com",
+        "phone": [
+          "88664791",
+          "97229008"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "09 Feb 2022"
+    },
+    {
+      "id": "104774",
+      "category": "Home Furnishing",
+      "name": "Storage Cupboard",
+      "description": "Looking for a storage cupboard or units to reorganize space to help household to clear current hoarding issue. Household of 5 with 2 children and 1 elderly.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Nadiah Binte Shafiee",
+        "email": "nadiah@amkfsc.org.sg",
+        "phone": [
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "09 Feb 2022"
     },
     {
       "id": "104772",
@@ -2130,6 +2200,23 @@
       "date": "13 Jan 2022"
     },
     {
+      "id": "104773",
+      "category": "Medical Aids",
+      "name": "Art Kit",
+      "description": "Low income families require ART kit for monitoring purposes. Looking for ART kit in bulk.",
+      "specifications": null,
+      "contact": {
+        "org": "AMKFSC Community Services Ltd - Cheng San",
+        "name": "Nadiah Binte Shafiee",
+        "email": "nadiah@amkfsc.org.sg",
+        "phone": [
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Feb 2022"
+    },
+    {
       "id": "104709",
       "category": "Medical Aids",
       "name": "Blood Pressure Machine",
@@ -2305,6 +2392,16 @@
   ],
   "offers": [
     {
+      "id": "104776",
+      "name": "chest of drawers",
+      "description": "good as new, hardly used item",
+      "location": "Geylang, Eunos",
+      "validTill": "11 Mar 2022",
+      "ageInYears": 2,
+      "dimensions": "60.5cmx39cmx100cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
       "id": "104771",
       "name": "King Bed Frame",
       "description": "King size bed frame in good sturdy condition. Stain on headboard that can be covered with cushions.",
@@ -2332,16 +2429,6 @@
       "validTill": "28 Feb 2022",
       "ageInYears": 4,
       "dimensions": "152x60x40",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104766",
-      "name": "Dining table for 4",
-      "description": "Kindly provide your own transport team.",
-      "location": "Balestier, Toa Payoh, Serangoon",
-      "validTill": "18 Feb 2022",
-      "ageInYears": 3,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -2625,16 +2712,6 @@
       "deliveryCostsCoveredByDonor": true
     },
     {
-      "id": "104665",
-      "name": "Queen Size Storage bed",
-      "description": "Length: 200cm \nWidth: 153cm\nHeight of bed frame: 115cm \nHeight of storage space: 33cm\n  \nHydraulic all still in very good condition, just little wear and tear in picture",
-      "location": null,
-      "validTill": "14 Feb 2022",
-      "ageInYears": 4,
-      "dimensions": "Length: 200cm  Width: 153cm Height of bed frame: 115cm  Height of storage space: 33cm",
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
       "id": "104666",
       "name": "Queen Size Storage bed",
       "description": "Length: 200cm \nWidth: 153cm\nHeight of bed frame: 115cm \nHeight of storage space: 33cm\n  \nHydraulic all still in very good condition, just little wear and tear in picture",
@@ -2782,16 +2859,6 @@
       "validTill": "25 Feb 2022",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "104604",
-      "name": "Super single storage bed with hydralic",
-      "description": "35mm above ground. Hydralic lift in working condition",
-      "location": "Raffles Place, Cecil, Marina, People's Park",
-      "validTill": "06 Mar 2022",
-      "ageInYears": 4,
-      "dimensions": "110 x 205 x 110 (w x l x h)",
       "deliveryCostsCoveredByDonor": true
     },
     {
@@ -3612,6 +3679,16 @@
       "validTill": "21 Feb 2022",
       "ageInYears": 4,
       "dimensions": "100 x 52 x 114 cm",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "104777",
+      "name": "IKEA Sofa Bed",
+      "description": "IKEA Sofa Bed",
+      "location": "Orchard Road",
+      "validTill": "21 Feb 2022",
+      "ageInYears": 4,
+      "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
     {
