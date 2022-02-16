@@ -1,5 +1,15 @@
 [
   {
+    "id": "105003",
+    "name": "Air cooler",
+    "description": "Please kindly only request if you need an air cooler (not just a fan). \n\nYou will need to put in cold water or ice for cool air. Without that, it will blow air at the room temperature. \n\nThis is not a portable air con (it does not have any exhaust pipe).",
+    "location": null,
+    "validTill": "18 Mar 2022",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "105002",
     "name": "Resource Juice",
     "description": "24 bottles available for orange flavour\n50 bottles available for raspberry flavour\n40 bottles available for apple flavour\n\nRESOURCE® FRUIT is a refreshing, clear liquid fat free supplement that can be incorporated into liquid diets.\n\nDelivers excellent nutritional benefits: 300kcal energy and 8g of high quality hydrolysed whey protein in each serving\nFat Free: Suitable for patients with fat malabsorption\nDelicious Natural Fruit Flavours: Apple, Orange, Raspberry Blackcurrant\nClear liquid diet suitable as oral supplement for patients with Anorexia, Cachexia, Malnutrition\nLactose free and Gluten Free\nWhat's New!\n- Fat Free\n- 31% lower* sugar content\n- Contains 8G high protein hydrolysed whey\n- With natural flavour from fruit juice concentrate\n* vs previous formulation on a per ml basis",
@@ -1210,16 +1220,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "104183",
-    "name": "TV Conso",
-    "description": "Good condition TV console",
-    "location": "Katong, Joo Chiat, Amber Road",
-    "validTill": "16 Feb 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "104175",
     "name": "Black table",
     "description": "Good condition",
@@ -1487,56 +1487,6 @@
     "validTill": "17 Feb 2022",
     "ageInYears": 1,
     "dimensions": "N/A",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103942",
-    "name": "Impact School Bag",
-    "description": "Impact school bag. Good for primary school usage.",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "16 Feb 2022",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103928",
-    "name": "Dining table and chairs",
-    "description": "Glass top teak dining table with 6 chairs",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "16 Feb 2022",
-    "ageInYears": 4,
-    "dimensions": "Diameter 120 cm * height 80cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103910",
-    "name": "Baby Rocker",
-    "description": "Manual rocker.",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "16 Feb 2022",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103909",
-    "name": "Baby Chair",
-    "description": "Baby chair for toddlers.",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "16 Feb 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "103895",
-    "name": "Ikea Single Bed",
-    "description": "Use single ikea bed.\nA few repaired cracks on the side, reinforced with screws.",
-    "location": "Seletar",
-    "validTill": "16 Feb 2022",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
 ]
