@@ -1,5 +1,15 @@
 [
   {
+    "id": "105072",
+    "name": "Teapot",
+    "description": "Just a regular ceramic teapot.  Only been used twice.  Have been kept in the drawer.  Non-electric",
+    "location": "Telok Blangah, Harbourfront",
+    "validTill": "19 Mar 2022",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "105060",
     "name": "Stationary fitness bike",
     "description": "Preloved exercise bicycle which is well used but also well maintained. There is a slight crack on the casing but it does not affect the bike performance. Good for elderly. Pls Whatsapp for more details",
@@ -210,16 +220,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "104915",
-    "name": "Ceiling lights",
-    "description": "3 used ceilings lights. Still in good condition",
-    "location": "Telok Blangah, Harbourfront",
-    "validTill": "15 Mar 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "104914",
     "name": "Squash rackets",
     "description": "Squash racket come with cover and a ball.",
@@ -247,16 +247,6 @@
     "validTill": "15 Mar 2022",
     "ageInYears": 4,
     "dimensions": "32cm X 24cm X 40cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "104911",
-    "name": "Osram 22W/865 Lumilux Circular light and LED tube",
-    "description": "New items bought from the store as spares at home.",
-    "location": "Telok Blangah, Harbourfront",
-    "validTill": "15 Mar 2022",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -317,6 +307,26 @@
     "validTill": "13 Mar 2022",
     "ageInYears": 4,
     "dimensions": "120 cm X 69 cm X 36 cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "105065",
+    "name": "Single bed w/ pull out bed",
+    "description": "Around 4years but used for about 2years+\nSome scratches at the left leg. But overall, bed frame is sturdy, no defects",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "20 Feb 2022",
+    "ageInYears": 4,
+    "dimensions": "Approx. 100cm x 197cm (frame)",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "105068",
+    "name": "Single bed w/ pull out bed",
+    "description": "Around 4years but used for about 2years+\nSome scratches at the left leg. But overall, bed frame is sturdy, no defects",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "20 Feb 2022",
+    "ageInYears": 4,
+    "dimensions": "Approx. 100cm x 197cm (frame)",
     "deliveryCostsCoveredByDonor": true
   },
   {
