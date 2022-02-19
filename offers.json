@@ -1,5 +1,25 @@
 [
   {
+    "id": "105153",
+    "name": "Rice cooker",
+    "description": "Used portable rice cooker.",
+    "location": null,
+    "validTill": "21 Mar 2022",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "105152",
+    "name": "Air Fryer",
+    "description": "3L Mayer Air fryer. \nIn good working condition",
+    "location": null,
+    "validTill": "21 Mar 2022",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "105151",
     "name": "LG Frontload Washing Machine",
     "description": "LG Frontload Washing Machine",
@@ -280,16 +300,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "104967",
-    "name": "IKEA table",
-    "description": "Drop leaf table, can be used for dining and study.\nWith drawer under tabletop.\nNo defects, except slight wear at edge of tabletop.",
-    "location": null,
-    "validTill": "19 Feb 2022",
-    "ageInYears": 1,
-    "dimensions": "75x78x65",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "104965",
     "name": "Small slow cooker",
     "description": "Small slow cooker, perfect for a single person or small family.  Was used mostly to make soups.  In photo, is turned on to show it is in working condition.  Happy to give to anyone who needs.",
@@ -347,26 +357,6 @@
     "validTill": "16 Mar 2022",
     "ageInYears": 1,
     "dimensions": "115cm tall. 130cm length",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "105084",
-    "name": "tv to give away",
-    "description": "tv to give away. toshiba brand. not frequent used. condition 7/10",
-    "location": "Geylang, Eunos",
-    "validTill": "19 Feb 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "105085",
-    "name": "tv to give away",
-    "description": "tv to give away. toshiba brand. not frequent used. condition 7/10",
-    "location": "Geylang, Eunos",
-    "validTill": "19 Feb 2022",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1446,46 +1436,6 @@
     "location": "Serangoon Garden, Hougang, Ponggol",
     "validTill": "20 Feb 2022",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "104098",
-    "name": "L shapes study table",
-    "description": "Well-maintained study table, no defect",
-    "location": "Yishun, Sembawang",
-    "validTill": "19 Feb 2022",
-    "ageInYears": 3,
-    "dimensions": "60x41x30",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "104093",
-    "name": "Cartoon mattress in pristine condition",
-    "description": "Never slept on it, just used as sofa, so it is still quite new. Can be used as child bed.",
-    "location": "Jurong",
-    "validTill": "19 Feb 2022",
-    "ageInYears": 3,
-    "dimensions": "1.5m x 1.2m x 0.15m",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "104080",
-    "name": "Brand New Diaper Bags",
-    "description": "Hi! We have plenty of brand new diaper bags on hand and need to clear them ASAP as we are running out of storage space.\n\nPlease drop a whatsapp at 93630912 if keen! Bulk collection is greatly welcomed too. Collection can be arranged at our office :)",
-    "location": "Raffles Place, Cecil, Marina, People's Park",
-    "validTill": "19 Feb 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "104063",
-    "name": "Children’s clothes hangers",
-    "description": "66 children’s clothes hangers. In very good condition.",
-    "location": "Jurong",
-    "validTill": "19 Feb 2022",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
