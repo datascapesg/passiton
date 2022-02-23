@@ -1,5 +1,15 @@
 [
   {
+    "id": "105269",
+    "name": "Table",
+    "description": "Table which can be used as dining or study",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "02 Mar 2022",
+    "ageInYears": 2,
+    "dimensions": "150 x 65 x 75",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "105267",
     "name": "Ikea armchair",
     "description": "-cant provide delivery fees nor deliver sorry. U hv to self pickup from my unit-\n\nhttps://www.ikea.com/sg/en/p/strandmon-wing-chair-kelinge-beige-30492812/#content",
@@ -26,16 +36,6 @@
     "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
     "validTill": "24 Feb 2022",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "105256",
-    "name": "Super single bed with pull out and 2 mattresses",
-    "description": "Used very lightly only in guest room. However my friend needs to clear asap! Latest 23rd Feb but please let me know today if possible!",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "23 Feb 2022",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -710,16 +710,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "104743",
-    "name": "Shoe cabinet",
-    "description": "The shoe cabinet has some exterior water damage, but it is beautiful inside and provides good airation for shoes.",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "23 Feb 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "104742",
     "name": "Basketball hoop",
     "description": "Full size and adjustable basketball hoop. Great for a community group. hope it’s useful.",
@@ -795,16 +785,6 @@
     "description": "I have 4 bottles of Diben drink, cappuccino flavour. Expire on 08/22",
     "location": "Geylang, Eunos",
     "validTill": "09 Mar 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "104680",
-    "name": "Nestle Resource Fruit",
-    "description": "I have 7 bottles of Nestle Resource Fruit, orange flavour, 200ml. Expire on 23 Feb 2022.",
-    "location": "Geylang, Eunos",
-    "validTill": "23 Feb 2022",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
@@ -1377,56 +1357,6 @@
     "validTill": "24 Feb 2022",
     "ageInYears": 4,
     "dimensions": "50x50x60",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "104822",
-    "name": "Baby Sterilizer",
-    "description": "Still in working condition. However, 1 side of the door clutch has broken but it does not affect the usability of the machine.\n\nNot for fussy users.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "23 Feb 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "104244",
-    "name": "Oven toaster",
-    "description": "Oven toaster oven giving away.",
-    "location": "Little India",
-    "validTill": "23 Feb 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "105138",
-    "name": "overbed table",
-    "description": "I have 2 units of this",
-    "location": "Kranji, Woodgrove",
-    "validTill": "23 Feb 2022",
-    "ageInYears": 1,
-    "dimensions": "77cmx38cmx110cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "105140",
-    "name": "overbed table",
-    "description": "I have 2 units of this",
-    "location": "Kranji, Woodgrove",
-    "validTill": "23 Feb 2022",
-    "ageInYears": 1,
-    "dimensions": "77cmx38cmx110cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "104233",
-    "name": "foldable commode",
-    "description": "seat height is 49-58 cm.",
-    "location": "Kranji, Woodgrove",
-    "validTill": "23 Feb 2022",
-    "ageInYears": 1,
-    "dimensions": "53cmx53cmx79cm",
     "deliveryCostsCoveredByDonor": true
   }
 ]
