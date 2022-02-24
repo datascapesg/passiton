@@ -1028,23 +1028,6 @@
     "date": "24 Jan 2022"
   },
   {
-    "id": "105345",
-    "category": "Electrical Home Appliances",
-    "name": "Refridgerator",
-    "description": "Single mother lives with her 8 year old daughter. The family's fridge is currently faulty, and her groceries cannot be stored properly, resulting in foul smells emanating from the freezer. Appreciate the support, such that the family can ensure their basic food and nutrition needs are met!",
-    "specifications": "Standard",
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Cheong Ming Fang",
-      "email": "mingfang@sccfsc.org.sg",
-      "phone": [
-        "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Feb 2022"
-  },
-  {
     "id": "105343",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator",
@@ -2073,40 +2056,6 @@
     "date": "04 Feb 2022"
   },
   {
-    "id": "105340",
-    "category": "Kitchen Utility Items",
-    "name": "Standalone Kitchen Sink",
-    "description": "Client's new BTO flat is unfurnished, there is no sink to wash dishes. Client is unemployed and hopes to receive a simple standing Kitchen Sink.",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner Family Service Centre - Woodlands",
-      "name": "Joanne Lim",
-      "email": "joannelim@carecorner.org.sg",
-      "phone": [
-        "63622481"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "24 Feb 2022"
-  },
-  {
-    "id": "104759",
-    "category": "Kitchen Utility Items",
-    "name": "Metal Stove",
-    "description": "Family of 5 living in a 2-room rental flat is requesting for a metal stove with 2 stoves. Thank you very much.",
-    "specifications": null,
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Pek Jie Hui",
-      "email": "jiehui@sccfsc.org.sg",
-      "phone": [
-        "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Feb 2022"
-  },
-  {
     "id": "105259",
     "category": "Learning Aids",
     "name": "Laptop",
@@ -2227,5 +2176,22 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "23 Feb 2022"
+  },
+  {
+    "id": "105340",
+    "category": "Kitchen Utility Items",
+    "name": "Standalone Kitchen Sink",
+    "description": "Client's new BTO flat is unfurnished, there is no sink to wash dishes. Client is unemployed and hopes to receive a simple standing Kitchen Sink.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Woodlands",
+      "name": "Joanne Lim",
+      "email": "joannelim@carecorner.org.sg",
+      "phone": [
+        "63622481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Feb 2022"
   }
 ]
