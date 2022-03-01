@@ -644,111 +644,6 @@
     "date": "08 Feb 2022"
   },
   {
-    "id": "105386",
-    "category": "Mobility Aids",
-    "name": "Electric Wheelchair",
-    "description": "Elderly client has mobility issues and requires a remote wheelchair. Client hopes that with an electric wheelchair, it will be easier for so it is easy for her to move around the neighborhood and around the house. Moving around will help combat her sense of loneliness.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Jurong",
-      "name": "Nathan Hou",
-      "email": "nathanhou@thkmc.org.sg",
-      "phone": [
-        "88554795",
-        "67169466"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Feb 2022"
-  },
-  {
-    "id": "105231",
-    "category": "Mobility Aids",
-    "name": "Motorized Wheelchair",
-    "description": "An elderly requires a working motorized wheelchair to support her in walking long distances. Her current motorized wheelchair is faulty. She has no family support and takes up ad hoc employment.",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore Children's Society - Yishun FSC",
-      "name": "Chavonne Tan",
-      "email": "ywctan@childrensociety.org.sg",
-      "phone": [
-        "67537331"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Feb 2022"
-  },
-  {
-    "id": "105027",
-    "category": "Mobility Aids",
-    "name": "Motorised Wheelchair",
-    "description": "Family consisted of an elderly couple with no children. Husband was a stroke patient and has been depending on his motorized wheelchair to move around the house after losing his mobility. Their current wheelchair has spoilt, and couple do not have any means to repair or purchase a new one. \n\nDue to financial constraint, would appreciate that delivery fee to be covered by donor.",
-    "specifications": null,
-    "contact": {
-      "org": "AMKFSC Community Services Ltd - Cheng San",
-      "name": "Yong Jia Chiu",
-      "email": "yongjiachiu@amkfsc.org.sg",
-      "phone": [
-        "64535349",
-        "64578559"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "16 Feb 2022"
-  },
-  {
-    "id": "104690",
-    "category": "Mobility Aids",
-    "name": "Motorised Wheelchair",
-    "description": "Family of 3 living in a 2 room rental flat. Client unable to work at the moment as he is undergoing therapy for his medical condition. Wife is main caregiver of him and 7 year old young child. She is currently exploring employment to help supplement family's financial needs. The wheelchair will help to offset some financial costs from the family as it lessens cost of transportation. For further liaison of delivery information, please contact Nurul at 98598767 via whatsapp. Thank you.",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
-      "phone": [
-        "69503503"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Feb 2022"
-  },
-  {
-    "id": "104535",
-    "category": "Mobility Aids",
-    "name": "Motorised Wheelchair",
-    "description": "Elderly client and her husband live together, no children, no income. Client is a caregiver to her husband who attends dementia daycare from Mon-Fri. Client usually stays home due to poor mobility and uses wheelchair when she goes out. Husband's PG controller of his motorized wheelchair is damaged and they're unable to afford repairs. \n\nPlease contact Sarah at 97232082, or email sarahseetow@mws.sg",
-    "specifications": "At least size L. Approx 24.4",
-    "contact": {
-      "org": "MWS Active Ageing Centre - Kebun Baru",
-      "name": "Sarah Seetow",
-      "email": "sarahseetow@mws.sg",
-      "phone": [
-        "62384136"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "03 Feb 2022"
-  },
-  {
-    "id": "104420",
-    "category": "Mobility Aids",
-    "name": "Electric Wheelchair",
-    "description": "Elderly person with no income recently discharged from hospital and is unable to walk independently. Hopes to receive a motorised wheelchair in order to assist him in ADL such as going out to buy groceries etc.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Jurong",
-      "name": "Nathan Hou",
-      "email": "nathanhou@thkmc.org.sg",
-      "phone": [
-        "88554795",
-        "67169466"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "28 Jan 2022"
-  },
-  {
     "id": "105470",
     "category": "Home Furnishing",
     "name": "3 Seater Sofa",
@@ -958,6 +853,93 @@
     "date": "03 Feb 2022"
   },
   {
+    "id": "105386",
+    "category": "Mobility Aids",
+    "name": "Electric Wheelchair",
+    "description": "Elderly client has mobility issues and requires a remote wheelchair. Client hopes that with an electric wheelchair, it will be easier for so it is easy for her to move around the neighborhood and around the house. Moving around will help combat her sense of loneliness.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Jurong",
+      "name": "Nathan Hou",
+      "email": "nathanhou@thkmc.org.sg",
+      "phone": [
+        "88554795",
+        "67169466"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Feb 2022"
+  },
+  {
+    "id": "105231",
+    "category": "Mobility Aids",
+    "name": "Motorized Wheelchair",
+    "description": "An elderly requires a working motorized wheelchair to support her in walking long distances. Her current motorized wheelchair is faulty. She has no family support and takes up ad hoc employment.",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Children's Society - Yishun FSC",
+      "name": "Chavonne Tan",
+      "email": "ywctan@childrensociety.org.sg",
+      "phone": [
+        "67537331"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Feb 2022"
+  },
+  {
+    "id": "105027",
+    "category": "Mobility Aids",
+    "name": "Motorised Wheelchair",
+    "description": "Family consisted of an elderly couple with no children. Husband was a stroke patient and has been depending on his motorized wheelchair to move around the house after losing his mobility. Their current wheelchair has spoilt, and couple do not have any means to repair or purchase a new one. \n\nDue to financial constraint, would appreciate that delivery fee to be covered by donor.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Cheng San",
+      "name": "Yong Jia Chiu",
+      "email": "yongjiachiu@amkfsc.org.sg",
+      "phone": [
+        "64535349",
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Feb 2022"
+  },
+  {
+    "id": "104690",
+    "category": "Mobility Aids",
+    "name": "Motorised Wheelchair",
+    "description": "Family of 3 living in a 2 room rental flat. Client unable to work at the moment as he is undergoing therapy for his medical condition. Wife is main caregiver of him and 7 year old young child. She is currently exploring employment to help supplement family's financial needs. The wheelchair will help to offset some financial costs from the family as it lessens cost of transportation. For further liaison of delivery information, please contact Nurul at 98598767 via whatsapp. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
+      "phone": [
+        "69503503"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Feb 2022"
+  },
+  {
+    "id": "104535",
+    "category": "Mobility Aids",
+    "name": "Motorised Wheelchair",
+    "description": "Elderly client and her husband live together, no children, no income. Client is a caregiver to her husband who attends dementia daycare from Mon-Fri. Client usually stays home due to poor mobility and uses wheelchair when she goes out. Husband's PG controller of his motorized wheelchair is damaged and they're unable to afford repairs. \n\nPlease contact Sarah at 97232082, or email sarahseetow@mws.sg",
+    "specifications": "At least size L. Approx 24.4",
+    "contact": {
+      "org": "MWS Active Ageing Centre - Kebun Baru",
+      "name": "Sarah Seetow",
+      "email": "sarahseetow@mws.sg",
+      "phone": [
+        "62384136"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "03 Feb 2022"
+  },
+  {
     "id": "105452",
     "category": "Electrical Home Appliances",
     "name": "Air fryer (halal)",
@@ -1147,6 +1129,42 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "04 Feb 2022"
+  },
+  {
+    "id": "105476",
+    "category": "Others",
+    "name": "Milk Powder (1.2kg)",
+    "description": "Our home need 20 packets of 1.2kg Milk powder (Everyday Brand) for our 522 elderly residents. Thank you",
+    "specifications": null,
+    "contact": {
+      "org": "Ju Eng Home For Senior Citizens",
+      "name": "Lee Jun Hui",
+      "email": "junhui@jeh.org.sg",
+      "phone": [
+        "64846890ext127",
+        "64846890"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Mar 2022"
+  },
+  {
+    "id": "105475",
+    "category": "Others",
+    "name": "Milo Powder",
+    "description": "Our home need 40 packets of 900g Milo powder (refill) for our 522 elderly residents. Thank you",
+    "specifications": null,
+    "contact": {
+      "org": "Ju Eng Home For Senior Citizens",
+      "name": "Lee Jun Hui",
+      "email": "junhui@jeh.org.sg",
+      "phone": [
+        "64846890ext127",
+        "64846890"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "01 Mar 2022"
   },
   {
     "id": "105458",
