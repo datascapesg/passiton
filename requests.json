@@ -1699,23 +1699,6 @@
     "date": "01 Mar 2022"
   },
   {
-    "id": "105469",
-    "category": "Home Furnishing",
-    "name": "round dining table with chairs",
-    "description": "Client is a mother of 3 children(F/14,F/6,F/8) and unfit to work due to health concern and caregiving issue. Client’s husband is the sole breadwinner of the family of 5. Your kind blessing of the following items will ease the family's tight financial situation and allow them to better organise their space. The family deeply appreciates your great support. Thank you! (Xin mo)",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bedok North",
-      "name": "Teddy Fu",
-      "email": "teddyfu@thkmc.org.sg",
-      "phone": [
-        "64491440"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "28 Feb 2022"
-  },
-  {
     "id": "105461",
     "category": "Home Furnishing",
     "name": "2-door wardrobe",
@@ -1819,6 +1802,41 @@
     },
     "deliveryCostsCoveredByDonor": false,
     "date": "15 Feb 2022"
+  },
+  {
+    "id": "106086",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Client is a single, working mother caring for daughter and elderly father and requires a Washing Machine as their current unit is already faulty. This would aid in her daily household chores",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
+      "name": "Muhammad Danial Bin Mazlan",
+      "email": "danialmazlan@amkfsc.org.sg",
+      "phone": [
+        "65536643",
+        "64535349"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "15 Mar 2022"
+  },
+  {
+    "id": "106085",
+    "category": "Electrical Home Appliances",
+    "name": "Top-loading Washing Machine (8 kg or smaller)",
+    "description": "Elderly malay aunty 60 yrs old living in 1-room HDB rental flat needs top-loading washing machine. Her current washing machine has broken down. Because of the space limitations, the ideal size would be 7 / 8 kg. Many Thanks.",
+    "specifications": "7 / 8 kg",
+    "contact": {
+      "org": "Moral Senior Activity Center @ Kaki Bukit",
+      "name": "Gary Tan",
+      "email": "garytan@chkmps.org.sg",
+      "phone": [
+        "64486247"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Mar 2022"
   },
   {
     "id": "106074",
@@ -2520,24 +2538,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "16 Feb 2022"
-  },
-  {
-    "id": "106058",
-    "category": "Others",
-    "name": "Dark Soya Sauce",
-    "description": "Our home need 40 bottles of Dark Soya Sauce (any brand) for our 522 elderly residents. Thank you",
-    "specifications": null,
-    "contact": {
-      "org": "Ju Eng Home For Senior Citizens",
-      "name": "Lee Jun Hui",
-      "email": "junhui@jeh.org.sg",
-      "phone": [
-        "64846890ext127",
-        "64846890"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "14 Mar 2022"
   },
   {
     "id": "106057",
@@ -3773,6 +3773,60 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "22 Feb 2022"
+  },
+  {
+    "id": "106089",
+    "category": "Medical Aids",
+    "name": "Adult Diapers (4 packs)",
+    "description": "Single mother with chronic medical conditions requires adult diapers. Her family has financial challenges and they are on financial assistance to meet their household needs. Diapers have been a high expense for the family.",
+    "specifications": "Tena XXL",
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Cheng San",
+      "name": "Lavania Maria Rajasuria",
+      "email": "lavania@amkfsc.org.sg",
+      "phone": [
+        "64546678",
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Mar 2022"
+  },
+  {
+    "id": "106088",
+    "category": "Medical Aids",
+    "name": "B.Braun Sodium Chloride Solution NacI 0.9% (20ml) - 112 bottles",
+    "description": "Client is a cancer patient who requires long term wound care. Client is financially challenges to meet her medical care needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Cancer Society",
+      "name": "Vivian Koo",
+      "email": "vivian_koo@singaporecancersociety.org.sg",
+      "phone": [
+        "97277507",
+        "62219578"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Mar 2022"
+  },
+  {
+    "id": "106087",
+    "category": "Medical Aids",
+    "name": "Tegardem flim (6x7cm) - 112 pieces",
+    "description": "Client is a cancer patient who requires long term wound care. Client is financially challenges to meet her medical care needs.",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore Cancer Society",
+      "name": "Vivian Koo",
+      "email": "vivian_koo@singaporecancersociety.org.sg",
+      "phone": [
+        "97277507",
+        "62219578"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Mar 2022"
   },
   {
     "id": "106007",
