@@ -20,16 +20,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "106213",
-    "name": "mini fridge",
-    "description": "can deliver",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "07 Apr 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "106211",
     "name": "Coffee Table",
     "description": "can deliver",
@@ -277,6 +267,16 @@
     "validTill": "13 Apr 2022",
     "ageInYears": 1,
     "dimensions": "Normal Chair",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "106219",
+    "name": "Single mattress - 95% new",
+    "description": "Single mattress to give. Bought for the tenant but wasn't used much as the tenant had his own mattress. in very very good condition, and from origin mattress.",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "20 Mar 2022",
+    "ageInYears": 2,
+    "dimensions": "single mattress",
     "deliveryCostsCoveredByDonor": true
   },
   {
