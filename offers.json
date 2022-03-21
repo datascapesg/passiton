@@ -1,5 +1,35 @@
 [
   {
+    "id": "106313",
+    "name": "Wall Picture With Frame",
+    "description": "Item has been cleaned and shrink-wrapped. Will deliver only to East or North-East.",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "20 Apr 2022",
+    "ageInYears": 4,
+    "dimensions": "73cm X 103cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "106312",
+    "name": "Washing Machine and Dryer",
+    "description": "LG Washing Machine 8kg. Well used but working perfectly. Preferably taken together with Elba Dryer in same transport. Pickup date only on 4th or 5th April.",
+    "location": "Katong, Joo Chiat, Amber Road",
+    "validTill": "05 Apr 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "106309",
+    "name": "Cornell microwave oven",
+    "description": "Used microwave oven and is working",
+    "location": null,
+    "validTill": "26 Mar 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "106308",
     "name": "blood pressure monitor",
     "description": "Blood Pressure Monitor",
@@ -107,16 +137,6 @@
     "validTill": "26 Mar 2022",
     "ageInYears": 3,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "106296",
-    "name": "new mattress",
-    "description": "single size newly mattress",
-    "location": "Middle Road, Golden Mile",
-    "validTill": "31 Mar 2022",
-    "ageInYears": 1,
-    "dimensions": "90x92x16cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -363,16 +383,6 @@
     "id": "106169",
     "name": "Automatic Crank Hospital Bed with Mattress",
     "description": "Automatic Crank Hospital Bed with mattress.",
-    "location": null,
-    "validTill": "15 Apr 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "106159",
-    "name": "Geratric Chair/ Recliner Hospital Chair on wheels with adjustable armrests",
-    "description": "Adjustable armrests & height, recliner, with wheels",
     "location": null,
     "validTill": "15 Apr 2022",
     "ageInYears": 1,
@@ -717,16 +727,6 @@
     "validTill": "09 Apr 2022",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "105857",
-    "name": "Book shelf",
-    "description": "Bulky ikea book shelves. Used for 8 years but in good working condition only defect is the top surface got damaged from tape. Image of the defect as attached as well.",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "28 Mar 2022",
-    "ageInYears": 4,
-    "dimensions": "150cm x 40cm x 79cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1090,16 +1090,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "106076",
-    "name": "Grill & steamboat",
-    "description": "Grill & pot cooker. Cornell less than 2 years",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "30 Mar 2022",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "105429",
     "name": "Electrolux Clothes Dryer",
     "description": "Working dryer, minor blemishes. 6kg capacity.",
@@ -1217,16 +1207,6 @@
     "validTill": "24 Mar 2022",
     "ageInYears": 4,
     "dimensions": "130 x 183 x 38.1mm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "105162",
-    "name": "hair dryer",
-    "description": "fully functional hairdryer",
-    "location": "Yishun, Sembawang",
-    "validTill": "21 Mar 2022",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
 ]
