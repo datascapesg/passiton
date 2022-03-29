@@ -1,5 +1,15 @@
 [
   {
+    "id": "106627",
+    "name": "Trolley",
+    "description": "A white trolley for any kind of storage. Can assist any elderly to move items easily around the house.",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "10 Apr 2022",
+    "ageInYears": 1,
+    "dimensions": "40 x 28 x 79 cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "106623",
     "name": "Sofa",
     "description": "Leather sofa / electric recliner\nGood for family centres",
@@ -186,16 +196,6 @@
     "location": "Serangoon Garden, Hougang, Ponggol",
     "validTill": "14 Apr 2022",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "106527",
-    "name": "Hospital Bed",
-    "description": "Hospital Bed - Electric Full Position\nModel: BM-03\n\nPurchased from Home Medical Furnishings (S) Pte Ltd",
-    "location": "Geylang, Eunos",
-    "validTill": "25 Apr 2022",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -1277,16 +1277,6 @@
     "validTill": "31 Mar 2022",
     "ageInYears": 4,
     "dimensions": "106x73x30",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "105474",
-    "name": "Desk",
-    "description": "Desk with drawers",
-    "location": "Yishun, Sembawang",
-    "validTill": "30 Mar 2022",
-    "ageInYears": 4,
-    "dimensions": "120 x 60 x 75",
     "deliveryCostsCoveredByDonor": true
   }
 ]
