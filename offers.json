@@ -1,5 +1,15 @@
 [
   {
+    "id": "106883",
+    "name": "Hospital Bed",
+    "description": "Good working condition and hope it be recycle to needy. Willing to foot the transportation, dismantling and assembling fees.",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "06 May 2022",
+    "ageInYears": 3,
+    "dimensions": "210 x 100 x 100",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "106878",
     "name": "NA HUMANITIES HISTORY/ O level history",
     "description": "nearby postal",
@@ -37,16 +47,6 @@
     "validTill": "10 Apr 2022",
     "ageInYears": 2,
     "dimensions": "2.2m x 0.9m x 0.75",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "106843",
-    "name": "Book shelves",
-    "description": "Billy bookcase from ikea.",
-    "location": "Yishun, Sembawang",
-    "validTill": "05 May 2022",
-    "ageInYears": 3,
-    "dimensions": "Ht 202cm x wd 80 x depth 30",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -90,16 +90,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "106819",
-    "name": "LG Washer",
-    "description": "Washer + dryer function\nOuter shell protected by cover\nIn usable condition\n\nPreferably collection on behalf.",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "15 Apr 2022",
-    "ageInYears": 4,
-    "dimensions": "60 x 60 x 80 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "106811",
     "name": "Mattress for kids bed",
     "description": "Mattress in good shape. From a non-smoking clean household.",
@@ -125,16 +115,6 @@
     "description": "Chairs - 3 (2 white and 1 light brown)",
     "location": "Geylang, Eunos",
     "validTill": "14 Apr 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "106763",
-    "name": "White sofa",
-    "description": "7year old 2m half leather sofa still in acceptable condition",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "28 Apr 2022",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
