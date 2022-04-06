@@ -1,5 +1,15 @@
 [
   {
+    "id": "106876",
+    "name": "O Level Chemistry/Physics",
+    "description": "nearby postal and convenient",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "08 Apr 2022",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "106871",
     "name": "Study Desk",
     "description": "Study table with frosted glass top",
@@ -67,16 +77,6 @@
     "validTill": "17 Apr 2022",
     "ageInYears": 4,
     "dimensions": "700mm x 400mm x 1600mm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "106830",
-    "name": "Pigeon Multi-function Sterilizer",
-    "description": "Used for less than 3 months and kept in storage",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "05 May 2022",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -216,16 +216,6 @@
     "location": "Queenstown, Tiong Bahru",
     "validTill": "03 May 2022",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "106745",
-    "name": "School bags",
-    "description": "School bags",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "07 Apr 2022",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -427,16 +417,6 @@
     "validTill": "10 Apr 2022",
     "ageInYears": 4,
     "dimensions": "25 cm tall, 18 cm wide",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "106512",
-    "name": "Blood pressure monitor",
-    "description": "Blood pressure monitoring machine",
-    "location": null,
-    "validTill": "24 Apr 2022",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
