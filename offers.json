@@ -1,5 +1,35 @@
 [
   {
+    "id": "106899",
+    "name": "Desk and Chair",
+    "description": "Well used desk and chair available.",
+    "location": null,
+    "validTill": "12 Apr 2022",
+    "ageInYears": 2,
+    "dimensions": "120×60",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "106898",
+    "name": "Rice Cooker",
+    "description": "Brand new Cornell Rice Cooker",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "07 May 2022",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "106897",
+    "name": "Dining table",
+    "description": "This is a great piece of dining table that is super scratch resistant and perfect for everyday use! It has curved corners with white table top, safe for little kids! Sturdy steel legs to support your everyday use! Perfect for 6 or a cosy dinner for 8! Feeling sad to part with it. \nMeasures 100cm x 180cm.",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "07 May 2022",
+    "ageInYears": 4,
+    "dimensions": "100cm x 180cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "106896",
     "name": "Hospital bed",
     "description": "Electrical functions : Head & back raising, Leg raising, Low - High Adjustment\n\nComes with air mattress . \n\nRequires 3 men to carry.",
@@ -37,16 +67,6 @@
     "validTill": "06 May 2022",
     "ageInYears": 1,
     "dimensions": "L18cm x W 10cm x H10cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "106883",
-    "name": "Hospital Bed",
-    "description": "Good working condition and hope it be recycle to needy. Willing to foot the transportation, dismantling and assembling fees.",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "06 May 2022",
-    "ageInYears": 3,
-    "dimensions": "210 x 100 x 100",
     "deliveryCostsCoveredByDonor": true
   },
   {
