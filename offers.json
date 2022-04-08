@@ -1,5 +1,25 @@
 [
   {
+    "id": "106952",
+    "name": "Shoes",
+    "description": "Shoes are clean and of very good condition.",
+    "location": "Kranji, Woodgrove",
+    "validTill": "08 May 2022",
+    "ageInYears": 4,
+    "dimensions": "Kids shoes and 1 pair adult shoes",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "106951",
+    "name": "Shoes",
+    "description": "Shoes are in good condition. \nSuitable for kintergarten and lower primary children",
+    "location": "Kranji, Woodgrove",
+    "validTill": "08 May 2022",
+    "ageInYears": 4,
+    "dimensions": "Sizes for children",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "106945",
     "name": "Back Support Waist Belt with Suspenders",
     "description": "Back Support Belt/ Posture Brace for back pain/ prevention of back injuries suitable for caregiver too.",
@@ -67,16 +87,6 @@
     "validTill": "16 Apr 2022",
     "ageInYears": 1,
     "dimensions": "L124 x W46 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "106923",
-    "name": "sofa bed",
-    "description": "Good for 2 room flexi flat. can be a 2 seat sofa , bed and ottoman can be table to study. Good for young kids use.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "16 Apr 2022",
-    "ageInYears": 2,
-    "dimensions": "L130 x D77 x H81/ Ottoman: L130 x D63",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -226,16 +236,6 @@
     "location": "Geylang, Eunos",
     "validTill": "14 Apr 2022",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "106762",
-    "name": "Home bakes",
-    "description": "Home bakes for offering low income /blue chas families. As we are home bakers, may need to collect at baker's house. Our FB : SG Blessing Bakers",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "30 Apr 2022",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -590,16 +590,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "106322",
-    "name": "Hospital Bed with Mattress",
-    "description": "Hospital Bed bought from DNR in 19 March 2020 (Electric 3 Functions Low Bed with 4 Side Rails, some parts still under warranty). \nWith Singa Dynamic Air mattress. Item currently located in Punggol. Delivery cost not provided. Please contact me at 92992840. Thanks.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "20 Apr 2022",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "106302",
     "name": "Bedroom Sideboard/ TV Cabinet",
     "description": "Sideboard with sliding doors and 2 drawers on top. The material is solid plywood and is in good condition. Length 200 cm, height 80 cm, depth 30 cm",
@@ -720,7 +710,17 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "106877",
+    "id": "106954",
+    "name": "Tempered Glass Top Dining Table & 6 Chairs",
+    "description": "Tempered glass top dining table & 6 chairs. V Good condition",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "15 Apr 2022",
+    "ageInYears": 4,
+    "dimensions": "150 x 90 x 70",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "106955",
     "name": "Tempered Glass Top Dining Table & 6 Chairs",
     "description": "Tempered glass top dining table & 6 chairs. V Good condition",
     "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
