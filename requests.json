@@ -1,5 +1,22 @@
 [
   {
+    "id": "106963",
+    "category": "Others",
+    "name": "Food Rations",
+    "description": "Client, aged 55 widowed, urgently requires assistance to purchase some essential food rations. \nMilk powder (Nespray brand)\nRice \nCooking oil\nDhal packet \nMilo tin\nSardine tin",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Janarthanan S/O Lingasparan",
+      "email": "jana.lingasparan@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Apr 2022"
+  },
+  {
     "id": "106956",
     "category": "Others",
     "name": "Food Ration (Urgent)",
@@ -871,23 +888,6 @@
     "date": "09 Mar 2022"
   },
   {
-    "id": "105875",
-    "category": "Others",
-    "name": "Breakfast Cereals",
-    "description": "PPIS Family Service Centre (West) is appealing for 20 - 30 boxes of Breakfast Cereals for its disadvantaged families with school going children. Thank you.",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (West)",
-      "name": "Yuliza Mohamad Yusoff",
-      "email": "yuliza@ppis.sg",
-      "phone": [
-        "65613462"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "09 Mar 2022"
-  },
-  {
     "id": "105874",
     "category": "Others",
     "name": "Pull Up Diaper L size (Huggies)",
@@ -1078,24 +1078,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "06 Apr 2022"
-  },
-  {
-    "id": "106832",
-    "category": "Home Furnishing",
-    "name": "Sofa bed",
-    "description": "Client is a single parent to two young sons and requests for a sofa bed for her sons to sleep on.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Bukit Batok",
-      "name": "Gracia Leong",
-      "email": "gracialeong@fycs.org",
-      "phone": [
-        "69783485",
-        "65690381"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "05 Apr 2022"
   },
   {
     "id": "106823",
@@ -1706,6 +1688,23 @@
     "date": "08 Mar 2022"
   },
   {
+    "id": "106964",
+    "category": "Electrical Home Appliances",
+    "name": "Floor fan (with no stand)",
+    "description": "Client requires a floor fan (with no stand) for herself and her daughter, aged 9. She does not receive any support from family members and struggles to cope with her basic expenses.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Janarthanan S/O Lingasparan",
+      "email": "jana.lingasparan@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Apr 2022"
+  },
+  {
     "id": "106953",
     "category": "Electrical Home Appliances",
     "name": "Top-loading Washing Machine (8 kg)",
@@ -1805,24 +1804,6 @@
       "phone": [
         "68485163",
         "68485166"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Apr 2022"
-  },
-  {
-    "id": "106872",
-    "category": "Electrical Home Appliances",
-    "name": "Blender",
-    "description": "Father is the sole breadwinner, supporting 4 other family members. Mother is unable to work at this juncture due to caregiving needs of newborn. Having a blender will be of a great help for mother when preparing food for her children & family.",
-    "specifications": null,
-    "contact": {
-      "org": "AWWA Transitional Shelter",
-      "name": "Nur Atikah Binte Hamdan",
-      "email": "nur_atikah@awwa.org.sg",
-      "phone": [
-        "65117271",
-        "65117272"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -2786,6 +2767,23 @@
     "date": "08 Mar 2022"
   },
   {
+    "id": "106960",
+    "category": "Learning Aids",
+    "name": "Tablet",
+    "description": "Client is a mother to 3 young schooling children. Family stays in HDB rental flat. Client is requesting to have tablet for her children to use it. Due to family's financial circumstances, client is unable to afford the purchase it and is opened to receive a secondhand tablet. For further liaison on delivery information, please contact Nurul via whatsapp at 98598767. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
+      "phone": [
+        "69503503"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Apr 2022"
+  },
+  {
     "id": "106846",
     "category": "Learning Aids",
     "name": "Laptop",
@@ -3172,6 +3170,58 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "09 Mar 2022"
+  },
+  {
+    "id": "106962",
+    "category": "Infant and Children Items",
+    "name": "Children diapers for EI centre",
+    "description": "Pull-up diapers (any brand) of sizes L & XL required in the centre for children whose parents are unable\nto spare extras due to financial hardship. These children are not toilet trained or in the midst of toilet training.\nYour kind assistance would alleviate their parents' burden. Thank you so much.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue - Early Intervention Centre For Children",
+      "name": "Jessie Chong",
+      "email": "jessiechong@fycs.org",
+      "phone": [
+        "65656260"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Apr 2022"
+  },
+  {
+    "id": "106961",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder and Diapers",
+    "description": "Teenage mother with 3 young children requires milk powder and diapers assistance.  \n\nLooking for donors for 3 months supply of Mamil Gold Milk Powder Stage 3 (1.6kg x 4 tins) and Huggies or Drypers (Size L x 4).",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Woodlands",
+      "name": "Ann Ling",
+      "email": "annling@carecorner.org.sg",
+      "phone": [
+        "63622481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Apr 2022"
+  },
+  {
+    "id": "106958",
+    "category": "Infant and Children Items",
+    "name": "Diapers & Milk Powder",
+    "description": "Client is a young mother (21) to two young children (1 month and 3 years old) and facing financial strains. Client is currently unemployed as she is still recovering from her daughter’s birth and has minimal caregiving support at home. Client has been meeting child related expenses (milk and diapers) through support from donations as her husband is unemployed and is set to face incarceration. Financial assistance has been applied but not been credited. Presently, Ct has no other source of income to meet her child related expenses. \n\nClient is thus seeking milk and diaper assistance for 1 month to stabilise herself while waiting for financial assistance to be credited. \n- Mamypoko pants XL (2 packets)\n- Dumex Dulac milk stage 3 (5 boxes)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Jurong",
+      "name": "Nathan Hou",
+      "email": "nathanhou@thkmc.org.sg",
+      "phone": [
+        "88554795",
+        "67169466"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Apr 2022"
   },
   {
     "id": "106947",
