@@ -1,5 +1,15 @@
 [
   {
+    "id": "107072",
+    "name": "Television",
+    "description": "Item is a 65 Inch TV. Unable to use as smart TV now but still can connect to HDMI 1 and use watch from android TV box/ setup box.",
+    "location": "Yishun, Sembawang",
+    "validTill": "01 May 2022",
+    "ageInYears": 4,
+    "dimensions": "65 inch",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "107068",
     "name": "Chair reclining with leg rest",
     "description": "Chair that can be reclined, with leg rest that can be retracted",
@@ -126,16 +136,6 @@
     "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
     "validTill": "18 Apr 2022",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "107005",
-    "name": "used furniture, double layer bed n sofa",
-    "description": "double layer sofa (without mattress)\nsofa (without table)\ncollect @ ang mo kio ave 8, condo, 16 floor",
-    "location": "Katong, Joo Chiat, Amber Road",
-    "validTill": "17 Apr 2022",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -347,16 +347,6 @@
     "validTill": "06 May 2022",
     "ageInYears": 1,
     "dimensions": "L18cm x W 10cm x H10cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "106871",
-    "name": "Study Desk",
-    "description": "Study table with frosted glass top",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "20 Apr 2022",
-    "ageInYears": 1,
-    "dimensions": "L120 x W54 x H75 cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -576,16 +566,6 @@
     "location": "Geylang, Eunos",
     "validTill": "25 Apr 2022",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "106506",
-    "name": "Pots and Pans",
-    "description": "Used pots and pans, less then 1 year",
-    "location": "Seletar",
-    "validTill": "23 Apr 2022",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
