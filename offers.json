@@ -1,12 +1,42 @@
 [
   {
-    "id": "107073",
-    "name": "Refrigerator (3-door)",
-    "description": "Fridge is ard 6 years old, well-used but working well. Reason for giving away is moving house.",
+    "id": "107078",
+    "name": "Study desk",
+    "description": "Office moving and these will not be needed. We have quite a few of these. Can collect on 22/4 or 21/4 (after 4pm) as we will still need them until then.",
+    "location": "Anson, Tanjong Pagar",
+    "validTill": "22 Apr 2022",
+    "ageInYears": 2,
+    "dimensions": "W120cm X D48cm X H76cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "107077",
+    "name": "4XL men's jacket",
+    "description": "There are 32 pcs of this, used at an event activity. Very new almost brand new.",
+    "location": "Anson, Tanjong Pagar",
+    "validTill": "21 Apr 2022",
+    "ageInYears": 1,
+    "dimensions": "4XL",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "107075",
+    "name": "Brown leather sofa",
+    "description": "2 seater brown sofa. Good condition, no tears. Used for 3 years",
     "location": null,
-    "validTill": "18 Apr 2022",
+    "validTill": "21 Apr 2022",
     "ageInYears": 4,
-    "dimensions": "H - 175cm, W - 66cm, D - 64cm",
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "107074",
+    "name": "Brown leather sofa",
+    "description": "2 seater brown sofa. Good condition, no tears. Used for 3 years",
+    "location": null,
+    "validTill": "21 Apr 2022",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -200,16 +230,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "106995",
-    "name": "Single bed",
-    "description": "A very good condition bed frame",
-    "location": null,
-    "validTill": "13 Apr 2022",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "106990",
     "name": "Ikea tv cabinet - black/brown",
     "description": "Need to get rid of this tv cabinet.",
@@ -237,16 +257,6 @@
     "validTill": "08 May 2022",
     "ageInYears": 4,
     "dimensions": "215 x 95cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "106965",
-    "name": "Two storage compartment",
-    "description": "Two storage compartment each measures at 14.5 inch (height) 59.5inch (length) 37.5 inch (width).",
-    "location": "Yishun, Sembawang",
-    "validTill": "23 Apr 2022",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -466,16 +476,6 @@
     "location": "Balestier, Toa Payoh, Serangoon",
     "validTill": "29 Apr 2022",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "106598",
-    "name": "Sofa",
-    "description": "3+1 Sofa set",
-    "location": "Kranji, Woodgrove",
-    "validTill": "27 Apr 2022",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
