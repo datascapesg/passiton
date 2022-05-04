@@ -3828,92 +3828,6 @@
     "date": "04 Apr 2022"
   },
   {
-    "id": "107735",
-    "category": "Medical Aids",
-    "name": "Adult Diapers",
-    "description": "Client has an adult child with special needs and requires adult diapers. Client is currently working part-time as there is a need to spend the other half day to take provide sufficient caregiving for adult child and elderly mother. Donations of adult diapers will help to greatly alleviate client's financial burdens.",
-    "specifications": "Dr. P Overnight M Size - 3 Cartons",
-    "contact": {
-      "org": "Care Corner Family Service Centre - Tampines",
-      "name": "Timothy Low",
-      "email": "timothylow@carecorner.org.sg",
-      "phone": [
-        "67866225"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "28 Apr 2022"
-  },
-  {
-    "id": "107524",
-    "category": "Medical Aids",
-    "name": "Back Brace for Lower Back Pain Relief",
-    "description": "Client is a senior who suffers from constant lower back pain. Recently, he lost his only back brace that had been supporting him in carrying his daily activities. He is hoping to receive a donated back brace so that it could ease his pain while caring for his mother with dementia.",
-    "specifications": null,
-    "contact": {
-      "org": "AMKFSC Community Services Ltd - COMNET Senior Serv",
-      "name": "Panny Wong",
-      "email": "wongpuiyee@amkfsc.org.sg",
-      "phone": [
-        "64535364",
-        "64510898"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Apr 2022"
-  },
-  {
-    "id": "107398",
-    "category": "Medical Aids",
-    "name": "Trusty Adult Diapers",
-    "description": "Client is a divorcee with 2 adult children. One of the child is an adult with special needs and client is the sole caregiver. Client's other child is currently incarcerated, leading to reduction of overall household income. Client is working part-time due to caregiving commitments for child and would be grateful for adult diaper donations.",
-    "specifications": "Trusty Brand L Size - 3Cartons",
-    "contact": {
-      "org": "Care Corner Family Service Centre - Tampines",
-      "name": "Timothy Low",
-      "email": "timothylow@carecorner.org.sg",
-      "phone": [
-        "67866225"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Apr 2022"
-  },
-  {
-    "id": "107089",
-    "category": "Medical Aids",
-    "name": "Adult Diapers",
-    "description": "Family of 6 who are facing financial difficulties due to health issues. \nWife is a stroke patient who is currently being attended at a day care centre. She requires to use daily diapers due to incontinence. Husband is the main breadwinner and working odd jobs due to his health as well. The Adult Diapers would help to reduce their monthly expenses and to allocate the funds to other essential needs.",
-    "specifications": "XL (Pants)",
-    "contact": {
-      "org": "PPIS Family Service Centre (West)",
-      "name": "Muhammad Zahin Bin Saini",
-      "email": "mdzahin.saini@ppis.sg",
-      "phone": [
-        "65613462"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Apr 2022"
-  },
-  {
-    "id": "106792",
-    "category": "Medical Aids",
-    "name": "Adult Diapers",
-    "description": "Requesting XL size adult diapers for elderly aunty living alone in HDB rental flat. Aunty was recently discharged from hospital after a long stay. She is still quite weak and movements unsteady. Many Thanks.",
-    "specifications": "XL Size",
-    "contact": {
-      "org": "Moral Senior Activity Center @ Kaki Bukit",
-      "name": "Gary Tan",
-      "email": "garytan@chkmps.org.sg",
-      "phone": [
-        "64486247"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 Apr 2022"
-  },
-  {
     "id": "107728",
     "category": "Kitchen Utility Items",
     "name": "Mircowave",
@@ -4189,6 +4103,75 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "11 Apr 2022"
+  },
+  {
+    "id": "107735",
+    "category": "Medical Aids",
+    "name": "Adult Diapers",
+    "description": "Client has an adult child with special needs and requires adult diapers. Client is currently working part-time as there is a need to spend the other half day to take provide sufficient caregiving for adult child and elderly mother. Donations of adult diapers will help to greatly alleviate client's financial burdens.",
+    "specifications": "Dr. P Overnight M Size - 3 Cartons",
+    "contact": {
+      "org": "Care Corner Family Service Centre - Tampines",
+      "name": "Timothy Low",
+      "email": "timothylow@carecorner.org.sg",
+      "phone": [
+        "67866225"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Apr 2022"
+  },
+  {
+    "id": "107524",
+    "category": "Medical Aids",
+    "name": "Back Brace for Lower Back Pain Relief",
+    "description": "Client is a senior who suffers from constant lower back pain. Recently, he lost his only back brace that had been supporting him in carrying his daily activities. He is hoping to receive a donated back brace so that it could ease his pain while caring for his mother with dementia.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - COMNET Senior Serv",
+      "name": "Panny Wong",
+      "email": "wongpuiyee@amkfsc.org.sg",
+      "phone": [
+        "64535364",
+        "64510898"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Apr 2022"
+  },
+  {
+    "id": "107398",
+    "category": "Medical Aids",
+    "name": "Trusty Adult Diapers",
+    "description": "Client is a divorcee with 2 adult children. One of the child is an adult with special needs and client is the sole caregiver. Client's other child is currently incarcerated, leading to reduction of overall household income. Client is working part-time due to caregiving commitments for child and would be grateful for adult diaper donations.",
+    "specifications": "Trusty Brand L Size - 3Cartons",
+    "contact": {
+      "org": "Care Corner Family Service Centre - Tampines",
+      "name": "Timothy Low",
+      "email": "timothylow@carecorner.org.sg",
+      "phone": [
+        "67866225"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Apr 2022"
+  },
+  {
+    "id": "107089",
+    "category": "Medical Aids",
+    "name": "Adult Diapers",
+    "description": "Family of 6 who are facing financial difficulties due to health issues. \nWife is a stroke patient who is currently being attended at a day care centre. She requires to use daily diapers due to incontinence. Husband is the main breadwinner and working odd jobs due to his health as well. The Adult Diapers would help to reduce their monthly expenses and to allocate the funds to other essential needs.",
+    "specifications": "XL (Pants)",
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Muhammad Zahin Bin Saini",
+      "email": "mdzahin.saini@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Apr 2022"
   },
   {
     "id": "107475",
