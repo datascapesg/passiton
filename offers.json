@@ -1,9 +1,19 @@
 [
   {
+    "id": "108143",
+    "name": "Washing machine",
+    "description": "Washing machine in working condition and will require a tap attachment.",
+    "location": "South West",
+    "validTill": "10 Jun 2022",
+    "ageInYears": 4,
+    "dimensions": "55Lx50Wx80H",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "108142",
     "name": "Washing machine",
     "description": "Washing machine in working condition and will require a tap attachment.",
-    "location": "Queenstown, Tiong Bahru",
+    "location": "South West",
     "validTill": "09 Jun 2022",
     "ageInYears": 4,
     "dimensions": "55Lx50Wx80H",
@@ -1116,36 +1126,6 @@
     "location": "Yishun, Sembawang",
     "validTill": "12 May 2022",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "107064",
-    "name": "Multifunctional Toy for Children",
-    "description": "Wooden toy for children to play and learn their ABCs, counting, simple math equations, and how to tell the time.\n\nPlease come down to our centre at 806 King George's Ave #03-212, to collect!:)",
-    "location": "HDB",
-    "validTill": "11 May 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "107060",
-    "name": "Children's Puzzle",
-    "description": "Mini puzzle game sets for children.\nDesigns: Hello Kitty, Winnie the Pooh, and many more.\n(Do check with us again for the availability of desired design)\n\nPlease come down to our centre at 806 King George's Ave #03-212, to collect!:)",
-    "location": "HDB",
-    "validTill": "11 May 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "107059",
-    "name": "Children's Jump Rope",
-    "description": "4 sets of jump rope for children in either pink, green, or blue.\n\nPlease come down to our centre at 806 King George's Ave #03-212, to collect!:)",
-    "location": "HDB",
-    "validTill": "11 May 2022",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
