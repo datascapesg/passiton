@@ -1,5 +1,23 @@
 [
   {
+    "id": "108180",
+    "category": "Electrical Home Appliances",
+    "name": "Muslim owned fridge",
+    "description": "Ct is a single mother and sole breadwinner. Ct was recently employed as a preschool teacher on a freelance basis, however earns about $600/mth; PCI: $300/mth. Ct shares a  strained r/s with her Fam of origin since her father's passing, and is still grieving the loss as she was closest to her father.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bukit Panjang",
+      "name": "Nur Ashikin Binte Hazlan",
+      "email": "NurAshikin@thkmc.org.sg",
+      "phone": [
+        "90021391",
+        "67671740"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 May 2022"
+  },
+  {
     "id": "108152",
     "category": "Electrical Home Appliances",
     "name": "Heater",
@@ -15,23 +33,6 @@
       ]
     },
     "deliveryCostsCoveredByDonor": false,
-    "date": "11 May 2022"
-  },
-  {
-    "id": "108148",
-    "category": "Electrical Home Appliances",
-    "name": "Standing Fan",
-    "description": "Our Client relies on wheelchair to move around and she is a single mother and stays in a rental flat. She requires a fan because her current fan is spoilt and she shares one with her daughters, she take turns because they do not sleep in the same room. Hence they need an extra fan for the house.",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Family Service Centre - Yishun",
-      "name": "Amy Chua",
-      "email": "amychua@mws.sg",
-      "phone": [
-        "67564995"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
     "date": "11 May 2022"
   },
   {
@@ -282,23 +283,6 @@
     "date": "06 May 2022"
   },
   {
-    "id": "107873",
-    "category": "Electrical Home Appliances",
-    "name": "Home Phone",
-    "description": "Single mother of two young children living in a rental flat; she is looking for a home phone replacement. Please contact me if you would like to donate, thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Jasmine Leong",
-      "email": "jasmine@sccfsc.org.sg",
-      "phone": [
-        "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 May 2022"
-  },
-  {
     "id": "107736",
     "category": "Electrical Home Appliances",
     "name": "Washing Machine",
@@ -382,23 +366,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "27 Apr 2022"
-  },
-  {
-    "id": "107617",
-    "category": "Electrical Home Appliances",
-    "name": "Blender",
-    "description": "Family has 2 young children and elderly with medical conditions. Father is the sole breadwinner and family is struggling financially. They hope to get a small blender for the 2-year old child's food needs",
-    "specifications": null,
-    "contact": {
-      "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
-      "name": "Jillian Ti",
-      "email": "jillianti@amkfsc.org.sg",
-      "phone": [
-        "64535349"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Apr 2022"
   },
   {
     "id": "107615",
@@ -730,6 +697,77 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "11 Apr 2022"
+  },
+  {
+    "id": "108187",
+    "category": "Others",
+    "name": "Smart Phone",
+    "description": "Client is a widow staying alone. Unable to secure a full time job due to her chronic illness, she recently started a part time job and earns a minimal wage. She is still paying off some debts from her late husband and is barely scraping by with her savings. Client's current handphone is faulty and is unable to install or update apps as the software is too old. She is looking for a smart phone with a decent software that is able to download relevant apps so that she can kickstart her small business which would give her additional income.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Annabel Dass",
+      "email": "annabeldass@fycs.org",
+      "phone": [
+        "69783483",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 May 2022"
+  },
+  {
+    "id": "108184",
+    "category": "Others",
+    "name": "A used laptop",
+    "description": "A former resident of a halfway house stays on to work as a bakery assistant in the halfway house needs a used laptop for receiving after care support from a church via Zoom meeting. He is self support financially.",
+    "specifications": null,
+    "contact": {
+      "org": "The Helping Hand",
+      "name": "Chan Toh Han",
+      "email": "chantohhan@thehelpinghand.org.sg",
+      "phone": [
+        "67184081",
+        "62832204"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 May 2022"
+  },
+  {
+    "id": "108183",
+    "category": "Others",
+    "name": "A used laptop",
+    "description": "A father works as a cook of a halfway house with three schooling children needs a used laptop of any brand for his son attending Secondary 3 for his school work.",
+    "specifications": null,
+    "contact": {
+      "org": "The Helping Hand",
+      "name": "Chan Toh Han",
+      "email": "chantohhan@thehelpinghand.org.sg",
+      "phone": [
+        "67184081",
+        "62832204"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 May 2022"
+  },
+  {
+    "id": "108179",
+    "category": "Others",
+    "name": "Food rations",
+    "description": "Hi, I have a low income family of 5 requesting for food rations. Please email me if you are interested and I will send you the list of items. Thanks in advance",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Sengkang",
+      "name": "Low Yiing Jia",
+      "email": "jialow@amkfsc.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 May 2022"
   },
   {
     "id": "108147",
@@ -1851,6 +1889,76 @@
     "date": "12 Apr 2022"
   },
   {
+    "id": "108197",
+    "category": "Infant and Children Items",
+    "name": "infant milk powder",
+    "description": "A couple about to get married has just given birth to a baby boy last week. As they are in the midst of trying to settle some money management issues and husband is doing odd jobs currently and in the process of looking for a permanent job, they are badly in need of support for expenses for the new baby. Donations of 2 tins of Dugro Stage 1 milk powder for the next two months would be helpful.",
+    "specifications": null,
+    "contact": {
+      "org": "Bartley Community Care Services",
+      "name": "Chew Chee Kuan",
+      "email": "cheekuan.chew@bccs.org.sg",
+      "phone": [
+        "83760394",
+        "68850432"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 May 2022"
+  },
+  {
+    "id": "108193",
+    "category": "Infant and Children Items",
+    "name": "Thermometer",
+    "description": "Client is married with a 2-year-old child. She is currently 5 months pregnant. Both client and her husband are currently unemployed. They are mainly dependent on the financial assistance from SSO to cover for their expenses. Client does not have a thermometer at home and her 2-year-old child is prone to fever/sick since she started childcare in end-March 2022.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 May 2022"
+  },
+  {
+    "id": "108188",
+    "category": "Infant and Children Items",
+    "name": "Newborn - 1 year old clothes",
+    "description": "A teenage mother is expecting her first baby in June 2022. The family is experiencing financial hardship. As such she is requesting for some baby girl clothing suitable for newborns to 1 year old. They would greatly appreciate if the donor can settle delivery fee of the item to their home.",
+    "specifications": null,
+    "contact": {
+      "org": "TRANS Family Service Centre (Bukit Timah)",
+      "name": "Wendy Yeo",
+      "email": "wendy@trans.org.sg",
+      "phone": [
+        "64662287"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 May 2022"
+  },
+  {
+    "id": "108185",
+    "category": "Infant and Children Items",
+    "name": "Dugro Stage 3 Milk Powder (Urgent)",
+    "description": "Single mother family with 3 young toddlers of which 1 is a baby, living in a rental flat. Mother is not able to work due to her caregiving responsibilities and ex-husband has not been supporting her financially. Mother heavily depends on Social workers and donations. The family is in need of 3 months donation support of Dugro Stage 3 Milk Powder (1.6kg). Appreciate for delivery to be arranged and covered by donor. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "HEART @ Fei Yue",
+      "name": "Mindy Choo",
+      "email": "mindychoo@fycs.org",
+      "phone": [
+        "89078297",
+        "68199170"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 May 2022"
+  },
+  {
     "id": "108176",
     "category": "Infant and Children Items",
     "name": "Diapers and milk powder for children",
@@ -1972,23 +2080,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "11 May 2022"
-  },
-  {
-    "id": "108138",
-    "category": "Infant and Children Items",
-    "name": "Diaper pants",
-    "description": "My Clt is aged 5 years old who was diagnosed with cancer and is currently in remission. He is also diagnosed with global developmental delay and is still diapers dependant. Father is the sole breadwinner of family. Mother is also going for a surgery soon and her health has been poor. Thus, she is unable to work. Your donation will help to reduce some of their financial stressors.",
-    "specifications": "Huggies XXL pants",
-    "contact": {
-      "org": "Children's Cancer Foundation - GB Point",
-      "name": "Joyce Chin",
-      "email": "communityConnect@ccf.org.sg",
-      "phone": [
-        "62293701"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 May 2022"
   },
   {
     "id": "108125",
@@ -2287,23 +2378,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "06 May 2022"
-  },
-  {
-    "id": "107937",
-    "category": "Infant and Children Items",
-    "name": "Breast Pump",
-    "description": "Family has 2 young children (2yo, 8mths) and is currently expecting the 3rd child (pregnant- 4mths). They stay in a HDB rental flat. Husband works as a Grab food delivery personnel. Mother is unable to work due to caregiving of children, pregnancy difficulties and poor maternal health. Mother would like to request for a breastpump to support her breastfeeding journey, preferably hands free so that she is able to still do chores and take care of other children. She is ok with used breastpump as long as it is still good working condition. TIA.",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Family Service Centre - Tampines",
-      "name": "Edna Sim",
-      "email": "ednasim@mws.sg",
-      "phone": [
-        "67872001"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "05 May 2022"
   },
   {
     "id": "107935",
@@ -3154,6 +3228,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "11 Apr 2022"
+  },
+  {
+    "id": "108182",
+    "category": "Home Furnishing",
+    "name": "Chest of drawers",
+    "description": "Single mother with 3 school-going children requires a chest of drawers as their current one is broken and cannot be repaired (was also a donated one). It cannot be used for safety reasons as there are nails sticking out and she has young children. She is working a full-time job but does not earn enough to pay for new/secondhand ones.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Lim Yi Xi",
+      "email": "yixi@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 May 2022"
   },
   {
     "id": "108175",
@@ -4068,24 +4159,6 @@
     "date": "11 Apr 2022"
   },
   {
-    "id": "108173",
-    "category": "Medical Aids",
-    "name": "Adult diapers (pants type)",
-    "description": "Elderly is staying alone, frail and is on financial assistance. Prefers the pull up pants type of diapers as it is more comfortable for elderly to wear. Does not have any preferred brands. Unable to buy diapers on his own frequently due to mobility issues.",
-    "specifications": "Size M, Pants type diapers",
-    "contact": {
-      "org": "NTUC Health Cluster Support @ Bukit Merah",
-      "name": "Nurul Ashikin Binte Samsuri",
-      "email": "ashikin.s@ntuchealth.sg",
-      "phone": [
-        "88175763",
-        "62741602"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 May 2022"
-  },
-  {
     "id": "108088",
     "category": "Medical Aids",
     "name": "Adult Diapers",
@@ -4293,6 +4366,24 @@
     "date": "12 Apr 2022"
   },
   {
+    "id": "108196",
+    "category": "Attires/Clothings",
+    "name": "Baby diapers for infant",
+    "description": "A couple about to get married has just given birth to a baby boy last week.  As they are in the midst of trying to settle some money management issues and husband is doing odd jobs currently and in the process of looking for a permanent job, they are badly in need of support for expenses for the new baby.  Donations of 60 pcs per month for two months would be useful. Huggies for new born, tape kind.",
+    "specifications": null,
+    "contact": {
+      "org": "Bartley Community Care Services",
+      "name": "Chew Chee Kuan",
+      "email": "cheekuan.chew@bccs.org.sg",
+      "phone": [
+        "83760394",
+        "68850432"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 May 2022"
+  },
+  {
     "id": "107876",
     "category": "Attires/Clothings",
     "name": "Formal Black Blazer",
@@ -4325,40 +4416,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "28 Apr 2022"
-  },
-  {
-    "id": "107273",
-    "category": "Attires/Clothings",
-    "name": "Baju Kurung for children & teenager",
-    "description": "Single mother with 3 children (1 P4 son, 1 16yo son and 14yo daughter) is looking for secondhand or new Baju Kurung for Hari Raya. She is working full-time but unable to afford new Baju Kurung for upcoming Hari Raya, and they have outworn their old Baju Kurung.\n\n(family is not looking for normal clothing, pls don't respond to this request if you are donating normal clothes. thank you! :))",
-    "specifications": null,
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Lim Yi Xi",
-      "email": "yixi@sccfsc.org.sg",
-      "phone": [
-        "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Apr 2022"
-  },
-  {
-    "id": "107272",
-    "category": "Attires/Clothings",
-    "name": "Baju Kurung for children & teenager",
-    "description": "Family with 4 children (7yo daughter, 14yo daughter, 15yo son and 18yo daughter) is looking for secondhand or new Baju Kurung for Hari Raya. The couple is unable to work due to health issues and caregiving responsibilities for their 18yo daughter who has special needs. They are unable to afford new Baju Kurung for upcoming Hari Raya, and have already outworn their old baju kurung. Hope donor can donate secondhand baju kurung or sponsor new ones.\n\n(the family is not looking for normal clothes, please don't respond if you are donating normal clothing, thank you :))",
-    "specifications": null,
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Lim Yi Xi",
-      "email": "yixi@sccfsc.org.sg",
-      "phone": [
-        "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Apr 2022"
   },
   {
     "id": "107135",
@@ -4396,23 +4453,6 @@
     "date": "10 May 2022"
   },
   {
-    "id": "108112",
-    "category": "Kitchen Utility Items",
-    "name": "Kitchen Cutleries",
-    "description": "Client was previously homeless for the past years. Client has just gotten a rental flat and is seeking assistance for any kind donations for electrical appliances as well as kitchen cutleries. Client is currently financially dependent on financial assistance and is in the process of building up his finances. Kindly contact me at 98598768 for further liaisons, thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
-      "phone": [
-        "69503503"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 May 2022"
-  },
-  {
     "id": "107148",
     "category": "Kitchen Utility Items",
     "name": "electric gas stove",
@@ -4428,23 +4468,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "13 Apr 2022"
-  },
-  {
-    "id": "108170",
-    "category": "Mobility Aids",
-    "name": "Commode",
-    "description": "Mdm Y is an elderly client known to Thye Hua Kwan Moral Charities (THKMC). She is recovering from hip surgery and has trouble toileting by herself. She is also developing bed sores as she does not have a suitable commode and has been relying on adult diapers. THKMC is looking for an adjustable commode that is easy to use to ensure that she is able to have a healthy recovery and alleviate her bed sores. If you know of someone who has the items for donation, please contact Syarifah (Assistant Case Manager) at 9177 6614 or Syarifah.Insyirah@thkmc.org.sg Since October 2011, THKMC was incorporated as a charity with an IPC status to provide multiple social and welfare services to the community at large. THKMC provides assistance to the Elderly, Families, Children & Youth, and Persons with Disabilities, through more than 70 programmes and services. THK Elderly Services Division provides many programmes and services to serve the elderly in need – one of which includes THK Cluster Support. THK Cluster Support provides social support through case management, monitoring, and basic counselling services to vulnerable seniors, and facilitates coordination in the provision of community-based care and support services to the seniors. This service aims to improve the quality of life of vulnerable seniors, particularly for low or no income seniors who are socially-isolated and have minimal or no family support.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Cluster Support @ Bedok",
-      "name": "Syarifah Insyirah Farhanah",
-      "email": "syarifah.Insyirah@thkmc.org.sg",
-      "phone": [
-        "62418171"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 May 2022"
   },
   {
     "id": "107903",

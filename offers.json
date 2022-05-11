@@ -1,5 +1,55 @@
 [
   {
+    "id": "108198",
+    "name": "IPAD",
+    "description": "7th Gen IPAD",
+    "location": null,
+    "validTill": "23 May 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "108195",
+    "name": "Reclining Chair",
+    "description": "comfortable faux leather chair. with leg reclining feature. a bit worn out but with a cover.",
+    "location": "Watten Estate, Novena, Thomson",
+    "validTill": "10 Jun 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "108191",
+    "name": "Tefal Easy Gliss Iron",
+    "description": "Tefal Easy Gliss Iron",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "20 May 2022",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "108190",
+    "name": "Philips blender",
+    "description": "Philips blender in perfect working condition",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "20 May 2022",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "108186",
+    "name": "Queen Mattress",
+    "description": "Well maintained Queen size mattress available from 27 May 2022.All other items in the picture are not included.",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "28 May 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "108178",
     "name": "Wooden shoe cabinet",
     "description": "Still in good condition",
@@ -10,16 +60,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "108177",
-    "name": "Philips Clothes Steamer",
-    "description": "Philips clothes steamer. I have another iron and don't need both items so letting this clothes steamer go.",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "10 Jun 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "108169",
     "name": "Mattress",
     "description": "King size mattress x 2 to bless. \nMattress topper king size x 1 to bless.",
@@ -27,16 +67,6 @@
     "validTill": "31 May 2022",
     "ageInYears": 1,
     "dimensions": "King size x 2",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "108164",
-    "name": "Commode chair (foldable)",
-    "description": "In good condition as used less than a year",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "10 Jun 2022",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -187,16 +217,6 @@
     "validTill": "31 May 2022",
     "ageInYears": 1,
     "dimensions": "66cm/104cm (L) x 57.4cm (H)",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "108083",
-    "name": "Adjustable Bed Rail Bar with Foot Support & Bed Strap",
-    "description": "Bed rail bought from MEDPRO in Sep 2021. It is not brand new, about 8 months' usage. No longer in usage now as we had bought a hospital bed with installed bed rails. \nFeatures: \n*Bed support safety rail\n* Helps user get in and out of bed\n* Bed grab bar\n* Curved, padded handle for a stronger grip\n*Nylon mesh storage bag to store whatever you need\n\nWidth: 14 inch\nLength: 14.5 inch\nHeight: 18 inch\nWeight Capacity: 250lb",
-    "location": "Jurong",
-    "validTill": "31 May 2022",
-    "ageInYears": 1,
-    "dimensions": "14.5\" x 14\" x 18\"",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -430,16 +450,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "107950",
-    "name": "Bedside Rail",
-    "description": "Bedside rail, new",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "04 Jun 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "108119",
     "name": "Used Shower Chair",
     "description": "Used shower chair but still in good conditions",
@@ -570,16 +580,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "107911",
-    "name": "Bib",
-    "description": "Three pieces NEW baby bib. Washable without detergent used.",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "03 Jun 2022",
-    "ageInYears": 4,
-    "dimensions": "34 cm height x 32 cm diameter",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "107910",
     "name": "Sling bag",
     "description": "NEW black colour sling bag.",
@@ -597,16 +597,6 @@
     "validTill": "30 May 2022",
     "ageInYears": 3,
     "dimensions": "107x60x77",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "107908",
-    "name": "Medel Blood Pressure Measuring Monitor Machine",
-    "description": "Model : Medel Elite Ref 95123\nAutomatic Blood Pressure Monitor\nAA Size Battery (Included)\nEasy to use.\nGood condition as hardly use.",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "03 Jun 2022",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -910,16 +900,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "107636",
-    "name": "Baby boy clothings (Infant to 6mths)",
-    "description": "Worn but in good condition.",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "26 May 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "107629",
     "name": "Ensure Plus Milk",
     "description": "16 packets of Ensure Plus milk to give away. Each packet 200mL. In good condition, expiry date in 2023.",
@@ -1067,26 +1047,6 @@
     "validTill": "14 May 2022",
     "ageInYears": 4,
     "dimensions": "Standard queen size and super single size",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "107123",
-    "name": "Clothes hanger",
-    "description": "About 40+ pcs of clothes hangers in good condition.",
-    "location": "Upper Thomson, Springleaf",
-    "validTill": "12 May 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "107098",
-    "name": "White Stool",
-    "description": "Stools were from Ikea, may not be suitable for elderly (as it can be quite imbalance). Kindly assist to find sponsor for delivery, I may be able to help arrange for delivery from courier etc.",
-    "location": "Yishun, Sembawang",
-    "validTill": "12 May 2022",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
 ]
