@@ -1,5 +1,15 @@
 [
   {
+    "id": "108314",
+    "name": "Study chair",
+    "description": "Study chair",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "04 Jun 2022",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "108313",
     "name": "Recliner",
     "description": "Cellini Recliner",
@@ -7,16 +17,6 @@
     "validTill": "04 Jun 2022",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "108312",
-    "name": "Sofa bed",
-    "description": "Frame is in good condition. Part of the underneath of the mattress cover is torn, but otherwise mattress is fine.",
-    "location": "Macpherson, Braddell",
-    "validTill": "20 May 2022",
-    "ageInYears": 4,
-    "dimensions": "200cm x 140cm x 38cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
