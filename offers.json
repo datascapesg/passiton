@@ -1,15 +1,5 @@
 [
   {
-    "id": "108356",
-    "name": "Hospital bed with air mattress",
-    "description": "Electric hospital bed with air mattress to give away.",
-    "location": null,
-    "validTill": "31 May 2022",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "108352",
     "name": "Shoe White",
     "description": "New set of shoe white for school shoes.",
@@ -210,16 +200,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "108311",
-    "name": "Printer cum scanner/photocopy",
-    "description": "Inkjet printer with Scan and Photocopy function. Still with ink but may need to renew ink cartridges soon.\n\nBrand; Brother\nModel; DCP 1610W",
-    "location": "Anson, Tanjong Pagar",
-    "validTill": "31 May 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "108310",
     "name": "Baby Boy Items",
     "description": "Baby bottle\nBaby bibs\nSome baby clothes for 6 months onwards",
@@ -270,16 +250,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "108300",
-    "name": "3 seaters blue fabric sofa",
-    "description": "Pre-loved 3 seaters fabric sofa.",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "31 May 2022",
-    "ageInYears": 4,
-    "dimensions": "192x87x94 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "108299",
     "name": "Rollable Bed frame with wooden board",
     "description": "Unused rollable bed frame w/o mattress. Ca n be pulled in and out underneath the bed frame. Additionally, the wooden board can be used to support person with heavy weight",
@@ -287,16 +257,6 @@
     "validTill": "13 Jun 2022",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "108298",
-    "name": "Single bed",
-    "description": "Head rest 104 cm.",
-    "location": null,
-    "validTill": "31 May 2022",
-    "ageInYears": 4,
-    "dimensions": "213cm x 105cm x 35.5cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -337,16 +297,6 @@
     "validTill": "01 Jun 2022",
     "ageInYears": 4,
     "dimensions": "NA",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "108293",
-    "name": "TV console (Dark Brown)",
-    "description": "Solid wood dark brown TV console in good condition.",
-    "location": "Yishun, Sembawang",
-    "validTill": "01 Jun 2022",
-    "ageInYears": 4,
-    "dimensions": "200x45x50",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -447,16 +397,6 @@
     "validTill": "12 Jun 2022",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "108265",
-    "name": "Single bedframe with mattress",
-    "description": "Single bed frame with mattress (can give pillow and bedsheets too) in good condition. Lightly used for 2 years only. Cuenca single bed frame from BedandBasics",
-    "location": "Little India",
-    "validTill": "02 Jun 2022",
-    "ageInYears": 2,
-    "dimensions": "198cm x 100cm x 60cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -607,6 +547,16 @@
     "validTill": "08 Jun 2022",
     "ageInYears": 1,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "108371",
+    "name": "Grey & Blue Sofa",
+    "description": "Non convertible 3 seater sofa. Good condition. I can share the dimensions if anyone is interested",
+    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+    "validTill": "31 May 2022",
+    "ageInYears": 3,
+    "dimensions": "TBC",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1170,16 +1120,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "107571",
-    "name": "Ikea Baby Chair (Pink)",
-    "description": "Ikea Baby Chair (Pink)\n\nBeneficiary to pay for own delivery fees.",
-    "location": "Sembawang",
-    "validTill": "24 May 2022",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "107542",
     "name": "Double decker bunk bed",
     "description": "Ikea double decker bed. Not used at all other than placing kids toys. \n\nItem available on 4th June 2022. Please drop me a WhatsApp if i didn’t pick up the call.",
@@ -1247,26 +1187,6 @@
     "validTill": "18 May 2022",
     "ageInYears": 4,
     "dimensions": "36cm x 40cm x 16cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "107244",
-    "name": "Mask Cap",
-    "description": "Cap with mask screen",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "17 May 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "107237",
-    "name": "Ikea Pahl children's table large x2",
-    "description": "Height adjustable and well used but in good condition",
-    "location": null,
-    "validTill": "17 May 2022",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
 ]
