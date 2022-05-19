@@ -1,5 +1,35 @@
 [
   {
+    "id": "108575",
+    "name": "Boys clothing for 3/4 years old",
+    "description": "Boys clothing for age 3-4years old",
+    "location": null,
+    "validTill": "18 Jun 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "108573",
+    "name": "Office Desk",
+    "description": "Metal office table with 6 drawers.",
+    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+    "validTill": "29 May 2022",
+    "ageInYears": 4,
+    "dimensions": "152*76*76",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "108572",
+    "name": "TV Console",
+    "description": "IKEA Malsjo TV Console.",
+    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+    "validTill": "29 May 2022",
+    "ageInYears": 3,
+    "dimensions": "160*48*59",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "108567",
     "name": "Metal Rack",
     "description": "Spacious and functional 3 layer rack. Multifunctional use.",
@@ -17,16 +47,6 @@
     "validTill": "18 Jun 2022",
     "ageInYears": 3,
     "dimensions": "36 x 35 x 80",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "108565",
-    "name": "Bar table",
-    "description": "A wooden surface bar tabletop just right for your kitchen or even living room.",
-    "location": "Joo Chiat ",
-    "validTill": "18 Jun 2022",
-    "ageInYears": 3,
-    "dimensions": "60 x 60 x 107",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -373,7 +393,7 @@
     "id": "108352",
     "name": "Shoe White",
     "description": "New set of shoe white for school shoes.",
-    "location": "Bishan, Ang Mo Kio",
+    "location": "AMK",
     "validTill": "15 Jun 2022",
     "ageInYears": 2,
     "dimensions": "NA",
@@ -640,16 +660,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "108169",
-    "name": "Mattress",
-    "description": "King size mattress x 2 to bless. \nMattress topper king size x 1 to bless.",
-    "location": "Jurong",
-    "validTill": "31 May 2022",
-    "ageInYears": 1,
-    "dimensions": "King size x 2",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "108141",
     "name": "White school shoes sz 36",
     "description": "Pick up anytime at Sg150101",
@@ -833,7 +843,7 @@
     "id": "107976",
     "name": "Multi purpose plastic container",
     "description": "New multi purpose plastic container. Can use for storing medications, snacks, sewing kit.",
-    "location": "Bishan, Ang Mo Kio",
+    "location": "AMK",
     "validTill": "05 Jun 2022",
     "ageInYears": 4,
     "dimensions": "13 cm height, 68 cm diameter",
@@ -963,7 +973,7 @@
     "id": "107912",
     "name": "Glass top coffee table",
     "description": "Used glass top coffee table. Good condition. Glass top is detachable.",
-    "location": "Bishan, Ang Mo Kio",
+    "location": "AMK",
     "validTill": "03 Jun 2022",
     "ageInYears": 4,
     "dimensions": "Height 52 cm x 68 cm diameter",
@@ -973,7 +983,7 @@
     "id": "107910",
     "name": "Sling bag",
     "description": "NEW black colour sling bag.",
-    "location": "Bishan, Ang Mo Kio",
+    "location": "AMK",
     "validTill": "03 Jun 2022",
     "ageInYears": 4,
     "dimensions": "43 cm  length x 33 cm height",
@@ -993,7 +1003,7 @@
     "id": "107906",
     "name": "Cornell electric kettle",
     "description": "Well used kettle with no defect. Clean and in working condition.",
-    "location": "Bishan, Ang Mo Kio",
+    "location": "AMK",
     "validTill": "03 Jun 2022",
     "ageInYears": 4,
     "dimensions": "76 cm diameter x 14 cm height",
@@ -1003,7 +1013,7 @@
     "id": "107899",
     "name": "Whistling kettle",
     "description": "Well used kettle. No defect. When water is boiled, kettle produces a whistle.",
-    "location": "Bishan, Ang Mo Kio",
+    "location": "AMK",
     "validTill": "03 Jun 2022",
     "ageInYears": 4,
     "dimensions": "21cm diameter x14cm height",
