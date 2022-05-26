@@ -1,11 +1,41 @@
 [
   {
-    "id": "108854",
-    "name": "Peg perego pliko p3 stroller",
-    "description": "Stroller to give away",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "id": "108877",
+    "name": "Computer keyboard",
+    "description": "USB computer keyboard.",
+    "location": null,
     "validTill": "25 Jun 2022",
-    "ageInYears": 4,
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "108876",
+    "name": "Computer monitor",
+    "description": "17-inch computer monitor without stand.\n\nInclude\n1. Power cable.\n2. VGA cable.\n3. Audio cable.",
+    "location": null,
+    "validTill": "25 Jun 2022",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "108856",
+    "name": "Disposable Underpad",
+    "description": "1 new pack Guardian Comfort & Care Disposable Underpads (75x75cm)",
+    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+    "validTill": "31 May 2022",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "108855",
+    "name": "Goodnites Unisex Bedtime Pants",
+    "description": "2 new packs of Goodnites L/XL (7-11 years or 27-57kg)",
+    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+    "validTill": "31 May 2022",
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -55,16 +85,6 @@
     "description": "Quite bulky sofa\n\nDefects:\n- black lining underneath sofa started to peel off slightly. But its not visible\n- 1 side recliner is not working but another side is working",
     "location": "Jurong",
     "validTill": "30 May 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "108841",
-    "name": "Sony Bravia TV",
-    "description": "32 inch Sony Bravia TV",
-    "location": "Orchard, Cairnhill, River Valley",
-    "validTill": "17 Jun 2022",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
@@ -150,16 +170,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "108804",
-    "name": "Dining table",
-    "description": "Outdoor dining table 6 seater",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "07 Jun 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "108803",
     "name": "Plates/ cutlery",
     "description": "Plates and cups",
@@ -220,16 +230,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "108766",
-    "name": "Black Utility Backpack",
-    "description": "Black backpack which is less than 3 months old. \nCondition as seen in picture.",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "23 Jun 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "108741",
     "name": "Stationary commode",
     "description": "Stationary commmode. Has bucket (unused). Can't be dismantled.",
@@ -260,7 +260,17 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "108724",
+    "id": "108862",
+    "name": "Chair",
+    "description": "Desk chair with unique design features",
+    "location": "Bukit Timah",
+    "validTill": "22 Jun 2022",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "108863",
     "name": "Chair",
     "description": "Desk chair with unique design features",
     "location": "Bukit Timah",
@@ -1096,6 +1106,26 @@
     "location": null,
     "validTill": "07 Jun 2022",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "108872",
+    "name": "PMD Scooter",
+    "description": "Brand: LifeLine",
+    "location": "Geylang, Eunos",
+    "validTill": "07 Jun 2022",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "108873",
+    "name": "PMD Scooter",
+    "description": "Brand: LifeLine",
+    "location": "Geylang, Eunos",
+    "validTill": "07 Jun 2022",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
