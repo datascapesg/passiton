@@ -400,16 +400,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "108958",
-    "name": "Storage cupboard",
-    "description": "8 doors cabinet walnut",
-    "location": "Little India",
-    "validTill": "29 Jun 2022",
-    "ageInYears": 1,
-    "dimensions": "30i”x21”x76”",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "108955",
     "name": "projector",
     "description": "720p resolution",
@@ -417,16 +407,6 @@
     "validTill": "29 Jun 2022",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "108940",
-    "name": "Sofa bed and sofa",
-    "description": "3 seater Sofa bed \n2 seater sofa",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "01 Jun 2022",
-    "ageInYears": 4,
-    "dimensions": "185x92x64cm and 155x92x64cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -596,6 +576,26 @@
     "location": null,
     "validTill": "25 Jun 2022",
     "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "108876",
+    "name": "Computer monitor",
+    "description": "17-inch computer monitor without stand.\n\nInclude\n1. Power cable.\n2. VGA cable.\n3. Audio cable.",
+    "location": null,
+    "validTill": "25 Jun 2022",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "108844",
+    "name": "Toilet Shower Chair with Removable Backrest, Handle & Adjustable Height Legs",
+    "description": "Toilet Shower Chair with Removable Backrest, Handle & Adjustable Height Legs\nUsed only once",
+    "location": null,
+    "validTill": "24 Jun 2022",
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
