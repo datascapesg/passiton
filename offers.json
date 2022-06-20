@@ -1,5 +1,65 @@
 [
   {
+    "id": "109796",
+    "name": "Refrigerator",
+    "description": "2 Door refrigerator \nFreezer section on top",
+    "location": "Katong, Joo Chiat, Amber Road",
+    "validTill": "23 Jun 2022",
+    "ageInYears": 4,
+    "dimensions": "76cm by 76cm by 178cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "109791",
+    "name": "Child Single Bed",
+    "description": "Child Bed with Mattress",
+    "location": "Jurong",
+    "validTill": "30 Jun 2022",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "109790",
+    "name": "Sofa Bed",
+    "description": "IKEA SOFA BED",
+    "location": "Jurong",
+    "validTill": "30 Jun 2022",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "109787",
+    "name": "Underpads and diapers",
+    "description": "Adult underpads for beds, chairs.\nMale M Size diapers",
+    "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
+    "validTill": "20 Jul 2022",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "109785",
+    "name": "Old TV",
+    "description": "still in good condition",
+    "location": "Jurong",
+    "validTill": "20 Jul 2022",
+    "ageInYears": 4,
+    "dimensions": "42' in",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "109783",
+    "name": "Reclining Chair",
+    "description": "Reclining chair for elderly",
+    "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
+    "validTill": "20 Jul 2022",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "109776",
     "name": "Red Ring Files x 3",
     "description": "Pick up at Sg 150101",
@@ -27,16 +87,6 @@
     "validTill": "19 Jul 2022",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109772",
-    "name": "2-seater Wide Sofa",
-    "description": "Brand: HTL HomesToLife\nColour: Mustard yellow\nDimension: W93cm x L190cm x H102cm\n\nHigh back electric reclining sofa\nWide 2-seater\nHalf leather - sitting areas in real leather, sides and back in faux leather",
-    "location": "Geylang, Eunos",
-    "validTill": "19 Jul 2022",
-    "ageInYears": 2,
-    "dimensions": "W93cm x L190cm x H102cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -73,26 +123,6 @@
     "id": "109765",
     "name": "Single Premium Sofa - 2 pieces",
     "description": "Very plush and very premium single seater sofa - two pieces",
-    "location": "Yishun, Sembawang",
-    "validTill": "10 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109764",
-    "name": "Ikea glass bookshelf",
-    "description": "Ikea glass bookshelf held together with light metal rods",
-    "location": "Yishun, Sembawang",
-    "validTill": "10 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109763",
-    "name": "Single seater sofa",
-    "description": "Single Yellow sofa. Not much used",
     "location": "Yishun, Sembawang",
     "validTill": "10 Jul 2022",
     "ageInYears": 4,
@@ -170,13 +200,23 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "109753",
-    "name": "Samsung washing machine",
-    "description": "Samsung washing machine in good condition, all parts working. 7kg load, front loading.",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "10 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": "80(h)x60(w)x60(d)",
+    "id": "109792",
+    "name": "(1) SHARP 32\" LED TV (2) Floor Stand Fan (3) Philips DVD Micro Music System with Radio",
+    "description": "All in good working condition except the DVD Micro Music System with a small fault in replaying specific number of disc.",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "24 Jun 2022",
+    "ageInYears": 3,
+    "dimensions": "TV 32\"",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "109793",
+    "name": "(1) SHARP 32\" LED TV (2) Floor Stand Fan (3) Philips DVD Micro Music System with Radio",
+    "description": "All in good working condition except the DVD Micro Music System with a small fault in replaying specific number of disc.",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "24 Jun 2022",
+    "ageInYears": 3,
+    "dimensions": "TV 32\"",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -200,16 +240,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "109749",
-    "name": "Queen size pocket spring 10.5in mattress with bedframe",
-    "description": "Queen size pocket spring 10.5in mattress with bedframe",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "25 Jun 2022",
-    "ageInYears": 2,
-    "dimensions": "Queen size",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "109746",
     "name": "Sofa bed",
     "description": "Is a 3 seater sofa bed frame with almost like new mattress. It is a super single size bed when opened.",
@@ -222,7 +252,7 @@
   {
     "id": "109739",
     "name": "Single size bed frame",
-    "description": "It's a bundle so will not cover delivery charges.",
+    "description": "Not cover delivery charges. \nPrefer to take all the following together as bundle \n1) stroller\n2) Commode\n3) Walking frame with wheels\n4) Single size bed frame",
     "location": "Bishan, Ang Mo Kio",
     "validTill": "26 Jun 2022",
     "ageInYears": 4,
@@ -232,7 +262,7 @@
   {
     "id": "109738",
     "name": "Commode",
-    "description": "It's a bundle so will not cover delivery charges. \nThe commode is new, never used before",
+    "description": "Not cover delivery charges. Prefer to take all the following together as bundle 1) stroller 2) Commode 3) Walking frame with wheels 4) Single size bed frame",
     "location": "Bishan, Ang Mo Kio",
     "validTill": "26 Jun 2022",
     "ageInYears": 1,
@@ -242,7 +272,7 @@
   {
     "id": "109737",
     "name": "Stroller",
-    "description": "It's a bundle so will not cover delivery charges",
+    "description": "Not cover delivery charges. Prefer to take all the following together as bundle 1) stroller 2) Commode 3) Walking frame with wheels 4) Single size bed frame",
     "location": "Bishan, Ang Mo Kio",
     "validTill": "26 Jun 2022",
     "ageInYears": 3,
@@ -252,21 +282,11 @@
   {
     "id": "109736",
     "name": "Walking frame with wheels",
-    "description": "It's in a bundle will not cover delivery charges",
+    "description": "Not cover delivery charges. \nPrefer to take all the following together as bundle 1) stroller 2) Commode 3) Walking frame with wheels 4) Single size bed frame",
     "location": "Bishan, Ang Mo Kio",
     "validTill": "26 Jun 2022",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109734",
-    "name": "Queen mattress with cot",
-    "description": "Unused foam+coir firm queen size mattress along with rosewood cot with carved peacock motifs. Cot is already dismantled and packed with bubblewrap and cardboard for easy transportation. Giving away the mattress and cot because of space constraints in our new rental unit.",
-    "location": "Geylang, Eunos",
-    "validTill": "30 Jun 2022",
-    "ageInYears": 3,
-    "dimensions": "Queen size",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -296,26 +316,6 @@
     "location": "Raffles Place, Cecil, Marina, People's Park",
     "validTill": "17 Jul 2022",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109722",
-    "name": "Ikea Sofa",
-    "description": "3 seater sofa",
-    "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
-    "validTill": "28 Jun 2022",
-    "ageInYears": 1,
-    "dimensions": "204x89x78",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109721",
-    "name": "Black standing fan",
-    "description": "Standing fan in good condition. Giving away because have installed ceiling fans.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "17 Jul 2022",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -417,16 +417,6 @@
     "validTill": "16 Jul 2022",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109695",
-    "name": "Wooden cabinet",
-    "description": "2 set of cabinets",
-    "location": "Jurong",
-    "validTill": "16 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": "H90cm  x W42cm x D30cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -630,16 +620,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "109486",
-    "name": "Glass Dining Table and Leather Sofa",
-    "description": "1 x Glass Dining Table\n1 x Sofa (1 seater)\n1 x Sofa  (3 seater)",
-    "location": "Jurong",
-    "validTill": "28 Jun 2022",
-    "ageInYears": 4,
-    "dimensions": "Refer to attached Picture",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "109666",
     "name": "Super Single Bedframe",
     "description": "Seldom use. Only 5 months old. Giving away as selling flat.",
@@ -746,16 +726,6 @@
     "location": "Queenstown, Tiong Bahru",
     "validTill": "07 Jul 2022",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109575",
-    "name": "Pockit Stroller",
-    "description": "Good Condition",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "07 Jul 2022",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
