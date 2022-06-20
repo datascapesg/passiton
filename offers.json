@@ -1,5 +1,25 @@
 [
   {
+    "id": "109800",
+    "name": "Washable Fabric Sofa",
+    "description": "L shape Sofa. Cover just washed",
+    "location": null,
+    "validTill": "30 Jun 2022",
+    "ageInYears": 4,
+    "dimensions": "200cm X 90 cm X 48 cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "109798",
+    "name": "Electrolux cordless vacuum cleaner",
+    "description": "Electrolux cordless vacuum cleaner with charging base. Detachable handheld unit, come with mini brush and bed/sofa accessories. 2 power modes. Good working condition.",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "20 Jul 2022",
+    "ageInYears": 4,
+    "dimensions": "NA",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "109796",
     "name": "Refrigerator",
     "description": "2 Door refrigerator \nFreezer section on top",
@@ -13,16 +33,6 @@
     "id": "109791",
     "name": "Child Single Bed",
     "description": "Child Bed with Mattress",
-    "location": "Jurong",
-    "validTill": "30 Jun 2022",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109790",
-    "name": "Sofa Bed",
-    "description": "IKEA SOFA BED",
     "location": "Jurong",
     "validTill": "30 Jun 2022",
     "ageInYears": 2,
@@ -47,16 +57,6 @@
     "validTill": "20 Jul 2022",
     "ageInYears": 4,
     "dimensions": "42' in",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109783",
-    "name": "Reclining Chair",
-    "description": "Reclining chair for elderly",
-    "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
-    "validTill": "20 Jul 2022",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -200,16 +200,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "109792",
-    "name": "(1) SHARP 32\" LED TV (2) Floor Stand Fan (3) Philips DVD Micro Music System with Radio",
-    "description": "All in good working condition except the DVD Micro Music System with a small fault in replaying specific number of disc.",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "24 Jun 2022",
-    "ageInYears": 3,
-    "dimensions": "TV 32\"",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "109793",
     "name": "(1) SHARP 32\" LED TV (2) Floor Stand Fan (3) Philips DVD Micro Music System with Radio",
     "description": "All in good working condition except the DVD Micro Music System with a small fault in replaying specific number of disc.",
@@ -237,16 +227,6 @@
     "validTill": "25 Jun 2022",
     "ageInYears": 2,
     "dimensions": "1.2x0.8m",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109746",
-    "name": "Sofa bed",
-    "description": "Is a 3 seater sofa bed frame with almost like new mattress. It is a super single size bed when opened.",
-    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-    "validTill": "17 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": "2x1.2x0.9m",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -287,6 +267,16 @@
     "validTill": "26 Jun 2022",
     "ageInYears": 2,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "109801",
+    "name": "Queen mattress with cot",
+    "description": "Unused foam+coir firm queen size mattress along with rosewood cot with carved peacock motifs. Cot is already dismantled and packed with bubblewrap and cardboard for easy transportation. Giving away the mattress and cot because of space constraints in our new rental unit.",
+    "location": "Geylang, Eunos",
+    "validTill": "30 Jun 2022",
+    "ageInYears": 3,
+    "dimensions": "Queen size",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -430,16 +420,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "109692",
-    "name": "Wardrobe",
-    "description": "Wardrobe in good condition. Kindly contact ke thru Whatsapp.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "28 Jun 2022",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "109669",
     "name": "Lamp shades",
     "description": "4 lampshades suitable for ceiling or floor lamp",
@@ -537,26 +517,6 @@
     "validTill": "14 Jul 2022",
     "ageInYears": 2,
     "dimensions": "60 x 40cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109546",
-    "name": "Kolcraft Cloud Plus double stroller",
-    "description": "Used fewer than 5 times, in mint condition.",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "14 Jul 2022",
-    "ageInYears": 1,
-    "dimensions": "20x 31x 33.5 (in inches) (folded up)",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109525",
-    "name": "Table / Work desk",
-    "description": "Lightly used work desk, with 2 drawers and 3 cabinet shelves.",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "01 Jul 2022",
-    "ageInYears": 1,
-    "dimensions": "105X50X75",
     "deliveryCostsCoveredByDonor": true
   },
   {
