@@ -1,5 +1,15 @@
 [
   {
+    "id": "109910",
+    "name": "chest of drawers",
+    "description": "Small chest of drawers from IKEA. Can also be used as a side table.",
+    "location": "Katong, Joo Chiat, Amber Road",
+    "validTill": "30 Jun 2022",
+    "ageInYears": 4,
+    "dimensions": "38 x 69 x 67",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "109908",
     "name": "Dining table light",
     "description": "Warm coloured dining table light",
@@ -407,16 +417,6 @@
     "validTill": "26 Jun 2022",
     "ageInYears": 1,
     "dimensions": "15x15x2",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109702",
-    "name": "3-Seater Leather Sofa",
-    "description": "Full leather sofa in off-white colour. Overall condition still quite good except the edge of the seat cushion has a bit of wear-off.",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "22 Jun 2022",
-    "ageInYears": 4,
-    "dimensions": "L2100 x D930 x H800 mm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1177,66 +1177,6 @@
     "validTill": "23 Jun 2022",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "108862",
-    "name": "Chair",
-    "description": "Desk chair with unique design features",
-    "location": "Bukit Timah",
-    "validTill": "22 Jun 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "108863",
-    "name": "Chair",
-    "description": "Desk chair with unique design features",
-    "location": "Bukit Timah",
-    "validTill": "22 Jun 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "108723",
-    "name": "Chair",
-    "description": "Desk chair with unique design features",
-    "location": "Bukit Timah",
-    "validTill": "22 Jun 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "108719",
-    "name": "Desk",
-    "description": "Multi level desk",
-    "location": "Bukit Timah",
-    "validTill": "22 Jun 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109007",
-    "name": "Red scooter",
-    "description": "Scooter",
-    "location": "Yishun, Sembawang",
-    "validTill": "22 Jun 2022",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "108683",
-    "name": "commode chair",
-    "description": "The item is available anytime, the valid date is just an indication as it is a required field.\nThe chair is to be collected from Everton Park",
-    "location": "Anson, Tanjong Pagar",
-    "validTill": "22 Jun 2022",
-    "ageInYears": 2,
-    "dimensions": "82cm x 67cm x 117cm",
     "deliveryCostsCoveredByDonor": true
   }
 ]
