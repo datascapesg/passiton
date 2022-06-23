@@ -1,5 +1,15 @@
 [
   {
+    "id": "109999",
+    "name": "Blood pressure monitor",
+    "description": "Blood pressure monitor",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "23 Jul 2022",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "109998",
     "name": "Dining table with 6 chairs",
     "description": "Extendable table with 6 chairs\nSolid wood table with glass top\nLength of table when extended: 180cm",
@@ -17,16 +27,6 @@
     "validTill": "27 Jun 2022",
     "ageInYears": 4,
     "dimensions": "86cm by 87cm by 77cm height",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109992",
-    "name": "Fabric 2 seater sofa",
-    "description": "Grey fabric 2 seater sofa",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "23 Jul 2022",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
