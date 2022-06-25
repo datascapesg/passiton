@@ -1,21 +1,31 @@
 [
   {
+    "id": "110066",
+    "name": "King size wooden bed",
+    "description": "Durable wooden bed frame",
+    "location": "Katong, Joo Chiat, Amber Road",
+    "validTill": "27 Jun 2022",
+    "ageInYears": 4,
+    "dimensions": "190cm by 197cm by 40cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110065",
+    "name": "Sofa Set",
+    "description": "3+1+1 seater\n3 seater measurement: 167cm×69cmx87cm\n1 seater measurement: 66cm×69cm×87cm",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "25 Jul 2022",
+    "ageInYears": 1,
+    "dimensions": "As in description below",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "110062",
     "name": "Hopital Bed",
     "description": "Used hospital bed (electronic air bed) passed down from hospice. Used only about 1.5 months. Very good condition.",
     "location": null,
     "validTill": "25 Jul 2022",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110060",
-    "name": "Washing machine",
-    "description": "In working conditions",
-    "location": null,
-    "validTill": "15 Jul 2022",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
