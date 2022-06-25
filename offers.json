@@ -1,5 +1,25 @@
 [
   {
+    "id": "110061",
+    "name": "Refrigerator",
+    "description": "In working condition",
+    "location": null,
+    "validTill": "14 Jul 2022",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110060",
+    "name": "Washing machine",
+    "description": "In working conditions",
+    "location": null,
+    "validTill": "15 Jul 2022",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "110059",
     "name": "Electrical Hospital Bed with mattress",
     "description": "Hardly used and in good condition",
