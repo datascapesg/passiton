@@ -1,5 +1,15 @@
 [
   {
+    "id": "110071",
+    "name": "Office Chair with wheels",
+    "description": "Chair with wheels and hand rest.  Good for study or work at home.",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "26 Jul 2022",
+    "ageInYears": 1,
+    "dimensions": "standard chair size",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "110070",
     "name": "Children's Train Bed",
     "description": "2 Train beds available. Very new.",
@@ -217,16 +227,6 @@
     "validTill": "23 Jul 2022",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109998",
-    "name": "Dining table with 6 chairs",
-    "description": "Extendable table with 6 chairs\nSolid wood table with glass top\nLength of table when extended: 180cm",
-    "location": "Katong, Joo Chiat, Amber Road",
-    "validTill": "26 Jun 2022",
-    "ageInYears": 4,
-    "dimensions": "90cm by 140cm by 75cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -580,36 +580,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "109739",
-    "name": "Single size bed frame",
-    "description": "Not cover delivery charges. \nPrefer to take all the following together as bundle \n1) stroller\n2) Commode\n3) Walking frame with wheels\n4) Single size bed frame",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "26 Jun 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109737",
-    "name": "Stroller",
-    "description": "Not cover delivery charges. Prefer to take all the following together as bundle 1) stroller 2) Commode 3) Walking frame with wheels 4) Single size bed frame",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "26 Jun 2022",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109736",
-    "name": "Walking frame with wheels",
-    "description": "Not cover delivery charges. \nPrefer to take all the following together as bundle 1) stroller 2) Commode 3) Walking frame with wheels 4) Single size bed frame",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "26 Jun 2022",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "109729",
     "name": "Ikea TROFAST frame shelves",
     "description": "IKEA storage frame, can insert IKEA trofast storage boxes that cost $4/$3",
@@ -647,16 +617,6 @@
     "validTill": "17 Jul 2022",
     "ageInYears": 3,
     "dimensions": "NA",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109704",
-    "name": "Grade 2 Textbooks",
-    "description": "Books used which are all in mint condition.",
-    "location": "Orchard, Cairnhill, River Valley",
-    "validTill": "26 Jun 2022",
-    "ageInYears": 1,
-    "dimensions": "15x15x2",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1277,16 +1237,6 @@
     "validTill": "27 Jun 2022",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "108911",
-    "name": "Mattress Topper Queen",
-    "description": "King Koil Microgel Mattress Topper for queen size bed. Preloved and has some yellow stains on one side (the other side is white). However it is in perfectly clean and sanitised condition.",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "26 Jun 2022",
-    "ageInYears": 4,
-    "dimensions": "150 x 190 x 3.8 cm",
     "deliveryCostsCoveredByDonor": true
   }
 ]
