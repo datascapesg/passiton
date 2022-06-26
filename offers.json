@@ -1,5 +1,15 @@
 [
   {
+    "id": "110083",
+    "name": "2 Steel dining chairs",
+    "description": "2 white steel chairs in good condition.",
+    "location": null,
+    "validTill": "26 Jul 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "110082",
     "name": "Low stool",
     "description": "wooden legs, soft seating.",
@@ -190,16 +200,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "110047",
-    "name": "Study desk",
-    "description": "A bit of rust at the bottom and left bottom plastic faded due to sun. Besides these 2 areas, table is in pretty good condition.",
-    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-    "validTill": "10 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": "110x87x76cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "110045",
     "name": "Hospital bed",
     "description": "Good condition",
@@ -327,16 +327,6 @@
     "validTill": "23 Jul 2022",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109997",
-    "name": "Single sofa bed",
-    "description": "Sofa cover fully detachable for washing\nBed size when open: 210cm by 87cm\nMattress size: 185cm by 76cm by 8cm\nSome stains on mattress",
-    "location": "Katong, Joo Chiat, Amber Road",
-    "validTill": "27 Jun 2022",
-    "ageInYears": 4,
-    "dimensions": "86cm by 87cm by 77cm height",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1305,36 +1295,6 @@
     "description": "A thick Blanket",
     "location": "Tampines, Pasir Ris",
     "validTill": "28 Jun 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "108928",
-    "name": "Chinese e-Dictionary",
-    "description": "Not MOE-approved but can be used for adult learning.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "27 Jun 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "108926",
-    "name": "Breast Milk Bag",
-    "description": "This bag is a carrier to carry extracted breast milk packets. There is a compartment to put in the coolant pack.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "27 Jun 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "108919",
-    "name": "BACTIGRAS",
-    "description": "Dressing Bactigras",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "27 Jun 2022",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
