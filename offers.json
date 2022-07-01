@@ -1,5 +1,15 @@
 [
   {
+    "id": "110361",
+    "name": "Iron",
+    "description": "Brand new in box never used",
+    "location": "Yishun, Sembawang",
+    "validTill": "31 Jul 2022",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "110347",
     "name": "Bosch Dryer",
     "description": "Working dryer",
@@ -126,16 +136,6 @@
     "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
     "validTill": "29 Jul 2022",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110229",
-    "name": "Changing table",
-    "description": "Ikea changing table with drawers. Very good condition. Top can be positioned high or low. It becomes a study table for older kids",
-    "location": null,
-    "validTill": "02 Jul 2022",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -376,16 +376,6 @@
     "location": null,
     "validTill": "25 Jul 2022",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110059",
-    "name": "Electrical Hospital Bed with mattress",
-    "description": "Hardly used and in good condition",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "02 Jul 2022",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -850,16 +840,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "109959",
-    "name": "Pans",
-    "description": "Used non stick pans available for donation as we bought new pans.",
-    "location": "Orchard, Cairnhill, River Valley",
-    "validTill": "02 Jul 2022",
-    "ageInYears": 3,
-    "dimensions": "28cm diameter",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "109207",
     "name": "Billard table 7 ft by 4 ft",
     "description": "Billard table to give away as it is occupying too much space.",
@@ -897,46 +877,6 @@
     "validTill": "03 Jul 2022",
     "ageInYears": 3,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109126",
-    "name": "PagePlus",
-    "description": "Hope can be useful to someone who is keen to learn. Self-collection near Kovan.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "02 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109125",
-    "name": "PhotoPlus",
-    "description": "Hope can be useful to someone who is keen to learn. Self-collection near Kovan.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "02 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109097",
-    "name": "4\" Premium Alternating Air Pressure Relief Mattress",
-    "description": "4\" Premium Alternating Air Pressure Relief Mattres\n\nThis 4” premium mattress consists of 24 rectangular air cells (with 8 ventilation cells) with low air loss function to further optimise pressure and weight redistribution. This helps to minimise user's discomfort during alternating.\n\nPillow function maintains the 4 air cells at the head of bed in static mode for added comfort. Each air cell is easily removable and replaceable.\n\nNylon zipped mattress cover is water resistant, vapour permeable, machine washable and low shear safeguarding user's skin and comfort.",
-    "location": "Jurong",
-    "validTill": "02 Jul 2022",
-    "ageInYears": 1,
-    "dimensions": "23.5×26×11.9 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109096",
-    "name": "3 Crank Electrical Hospital Bed - Wood Design",
-    "description": "3 Crank Electrical Hospital Bed - Wood Design \n\n3 Functions Electric Home Care Bed:",
-    "location": "Jurong",
-    "validTill": "02 Jul 2022",
-    "ageInYears": 1,
-    "dimensions": "204cm x 103cm",
     "deliveryCostsCoveredByDonor": true
   }
 ]
