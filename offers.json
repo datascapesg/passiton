@@ -1,11 +1,81 @@
 [
   {
-    "id": "110319",
-    "name": "Flask",
-    "description": "Small flask can keep warm for a while",
-    "location": "Yishun, Sembawang",
-    "validTill": "30 Jul 2022",
-    "ageInYears": 2,
+    "id": "110347",
+    "name": "Bosch Dryer",
+    "description": "Working dryer",
+    "location": "Orchard, Cairnhill, River Valley",
+    "validTill": "31 Jul 2022",
+    "ageInYears": 4,
+    "dimensions": "60cm x 85cm x 62cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110346",
+    "name": "Bosch Dishwasher",
+    "description": "Working condition dishwasher",
+    "location": "Orchard, Cairnhill, River Valley",
+    "validTill": "31 Jul 2022",
+    "ageInYears": 4,
+    "dimensions": "60cm x 85cm x 60cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110339",
+    "name": "Tv Console",
+    "description": "TV console with 2 storage space and drawer.",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "16 Jul 2022",
+    "ageInYears": 3,
+    "dimensions": "180cmx40cmx74cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110337",
+    "name": "Foldable Table",
+    "description": "Comes with 4 foldable chairs. Table is foldable. Table just need lacquering.",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "15 Jul 2022",
+    "ageInYears": 4,
+    "dimensions": "135cmx85cmx75cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110333",
+    "name": "King size bed",
+    "description": "Good condition. Giving away",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "09 Jul 2022",
+    "ageInYears": 4,
+    "dimensions": "W72cm L200cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110332",
+    "name": "TV, Washing Machine, Dining Table, Sofe, Beds, Coffee Table",
+    "description": "No transport will be provided. Please arrange own transport. Items are about 10 years old. Some dismantling may be required. Please arrange collection from 23 - 28 July.",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "28 Jul 2022",
+    "ageInYears": 4,
+    "dimensions": "Sofa is 210 cm length",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110331",
+    "name": "TV, Washing Machine, Sofa, Coffee Table, Beds, Dining Table",
+    "description": "Transportation fees will not be included. Items are about 10 years old. Collection from 23 to 28 July, to be pre arranged. Some dismantling may be required.",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "28 Jul 2022",
+    "ageInYears": 4,
+    "dimensions": "Sofa is 210 cm length",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110322",
+    "name": "Super Single Bed Frame c/w Mattress",
+    "description": "Black frame super single bed complete with pocketed spring mattress",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "31 Jul 2022",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -40,26 +110,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "110299",
-    "name": "2-door cupboard",
-    "description": "1x 2-door white color cupboard. Bought from ikea.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "17 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": "47Lx16.5Wx51H (inches)",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110298",
-    "name": "TV console cabinet",
-    "description": "There 2 tv console cabinets to be donated. Items bought from ikea.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "17 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": "47Lx16.5Wx15.5H (inches)",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "110290",
     "name": "Hospital bed",
     "description": "This hospital bed have not been used at all. It is automated and has a remote control to control if. It is in very good condition. Still works very well.",
@@ -80,16 +130,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "110281",
-    "name": "Dining table & 4 chairs",
-    "description": "Excellent condition. \nDue to moving out need to donate urgent.\nNew owner to arrange delivery & cost.",
-    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-    "validTill": "01 Jul 2022",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "110258",
     "name": "Jevity,   nestle boost isocal",
     "description": "Jevity\nnestle boost isocal",
@@ -100,31 +140,11 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "110246",
-    "name": "Adult Diapers, Tape, M size",
-    "description": "Tena adult diapers, 4 packets, each packet (12pcs) with above dimensions.",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "29 Jul 2022",
-    "ageInYears": 1,
-    "dimensions": "20cm x 25 cm x 30cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "110229",
     "name": "Changing table",
     "description": "Ikea changing table with drawers. Very good condition. Top can be positioned high or low. It becomes a study table for older kids",
     "location": null,
     "validTill": "02 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110209",
-    "name": "Work lamp",
-    "description": "1 no used working condition 220volts work lamp (lkea band)",
-    "location": "Geylang, Eunos",
-    "validTill": "09 Jul 2022",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
@@ -153,16 +173,6 @@
     "id": "110157",
     "name": "True Wireless Earphone : Black",
     "description": "Model: QCY T8\nBrand new condition/ Rarely used",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "28 Jul 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110153",
-    "name": "Black Health Sports Watch (Heartrate, Blood Oxygen, ECG, Blood Pressure, Sleep Assessment)",
-    "description": "Multi function smart watch in very good brand new condition. \nHope to find it a new owner who is able to put it to good use. \nHave to pair with phone, compatible with apple ios and android.",
     "location": "Bishan, Ang Mo Kio",
     "validTill": "28 Jul 2022",
     "ageInYears": 1,
@@ -270,16 +280,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "110108",
-    "name": "Baby Cot",
-    "description": "Pre-loved cot but still in good condition.",
-    "location": "Watten Estate, Novena, Thomson",
-    "validTill": "27 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": "24x48 inches",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "110093",
     "name": "Crutch",
     "description": "Brand new crutches",
@@ -317,16 +317,6 @@
     "validTill": "26 Jul 2022",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110075",
-    "name": "Recycled books",
-    "description": "Used to get friends and families to use their recycled paper to make into simple A5 books. It can used for kids to draw and write things.",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "01 Jul 2022",
-    "ageInYears": 1,
-    "dimensions": "3 x A4 paper boxes",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -570,16 +560,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "109838",
-    "name": "Sofa",
-    "description": "Not in TOP NOTCH Condition but still not bad condition. I am moving soon. So decided to give away the sofa",
-    "location": "Upper Thomson, Springleaf",
-    "validTill": "08 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "109776",
     "name": "Red Ring Files x 3",
     "description": "Pick up at Sg 150101",
@@ -660,16 +640,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "109729",
-    "name": "Ikea TROFAST frame shelves",
-    "description": "IKEA storage frame, can insert IKEA trofast storage boxes that cost $4/$3",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "01 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": "99x44x95",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "109771",
     "name": "frozen high quality (non halal) food",
     "description": "we have some merchant has few hundreds of of seasonable high quality non halal food frozen food to give away. contact me to tell me the situation  / distribution. bernice@kindcitizensg.com",
@@ -697,16 +667,6 @@
     "validTill": "17 Jul 2022",
     "ageInYears": 3,
     "dimensions": "NA",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109701",
-    "name": "Maternity Wear",
-    "description": "Maternity wear size S/M",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "01 Jul 2022",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -987,16 +947,6 @@
     "validTill": "02 Jul 2022",
     "ageInYears": 1,
     "dimensions": "204cm x 103cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109060",
-    "name": "Baby girl clothes (newborn to 18mths)",
-    "description": "Worn but in good condition. No holes nor stains",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "01 Jul 2022",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
 ]
