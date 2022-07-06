@@ -1,5 +1,15 @@
 [
   {
+    "id": "110502",
+    "name": "Wooden table",
+    "description": "4 square wooden table.",
+    "location": "Katong, Joo Chiat, Amber Road",
+    "validTill": "17 Jul 2022",
+    "ageInYears": 3,
+    "dimensions": "60 x 60 x 75",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "110501",
     "name": "Crutches",
     "description": "Adjustable pair of crutches, used for less than 1 month for a broken toe, handles are foldable.",
@@ -886,6 +896,26 @@
     "location": "Balestier, Toa Payoh, Serangoon",
     "validTill": "10 Jul 2022",
     "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110503",
+    "name": "Bedframe",
+    "description": "Single size bedframe\nHeight - 37 cm\nLength - 200 cm",
+    "location": "Yishun, Sembawang",
+    "validTill": "15 Jul 2022",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110504",
+    "name": "Bedframe",
+    "description": "Single size bedframe\nHeight - 37 cm\nLength - 200 cm",
+    "location": "Yishun, Sembawang",
+    "validTill": "15 Jul 2022",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
