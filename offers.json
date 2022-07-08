@@ -1,12 +1,42 @@
 [
   {
-    "id": "110580",
-    "name": "King size bed 190cmx200cm",
-    "description": "Pre-loved SIMMONS Backcare mattress and divan, King-size. In a good condition.",
+    "id": "110586",
+    "name": "Baby mat",
+    "description": "Korean baby mat",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "01 Aug 2022",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110585",
+    "name": "Baby rocker",
+    "description": "Baby rocker for infant onwards.",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "01 Aug 2022",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110584",
+    "name": "Commode",
+    "description": "Commode is used but working condition",
     "location": "Bishan, Ang Mo Kio",
-    "validTill": "07 Aug 2022",
-    "ageInYears": 4,
-    "dimensions": "200cm x 190cm",
+    "validTill": "30 Jul 2022",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110583",
+    "name": "Geriatric Chair",
+    "description": "Geriatric chair in good condition",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "30 Jul 2022",
+    "ageInYears": 2,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -17,16 +47,6 @@
     "validTill": "07 Aug 2022",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110558",
-    "name": "Small cupboard",
-    "description": "Solid wood with shelves.  Giving away due to moving out.",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "09 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": "W63cm D33cmH98cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -140,7 +160,7 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "110489",
+    "id": "110587",
     "name": "Whirlppol Washing Machine",
     "description": "Transport will not be provided. Washing Machine is about 6 years old. In good working condition except some rust at the outside.",
     "location": "Balestier, Toa Payoh, Serangoon",
@@ -150,11 +170,11 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "110440",
-    "name": "Dressing Table with Mirror",
-    "description": "Refer to attached image",
-    "location": "Punggol",
-    "validTill": "15 Jul 2022",
+    "id": "110588",
+    "name": "Whirlppol Washing Machine",
+    "description": "Transport will not be provided. Washing Machine is about 6 years old. In good working condition except some rust at the outside.",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "28 Jul 2022",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
@@ -166,16 +186,6 @@
     "location": "Balestier, Toa Payoh, Serangoon",
     "validTill": "31 Jul 2022",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110422",
-    "name": "Electric 3 ways hospital bed  with mattress",
-    "description": "Used less than 3 months. Mattress not soiled or stain. Senitized\nAnd clean. High quality matress\nhttps://www.rainbowcare.com.sg/3elux-new\nWith  \n Bock Riposan Mattress (+S$510.00)\nNew condition",
-    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-    "validTill": "03 Aug 2022",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -210,32 +220,12 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "110405",
-    "name": "Dining table and 2 chairs",
-    "description": "Item is currently in a tenanted unit. Pickup needs to be done on 13 July 2022. \n\nUnfortunately, I do not have item dimensions.\n\nThank you!",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "14 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": "unknown",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "110388",
     "name": "Bed Wedge Pillow",
     "description": "Bed wedge pillow that was used before but still in good condition. We have 2 of this pillow.",
     "location": "Serangoon Garden, Hougang, Ponggol",
     "validTill": "02 Aug 2022",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110382",
-    "name": "Wooden Chairs",
-    "description": "3 pieces of wooden chairs. good condition, used for 2-3 weeks only while waiting for the new dining set to arrive.",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "02 Aug 2022",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -700,16 +690,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "109715",
-    "name": "Study/work table",
-    "description": "Wide enough to place 2 monitors.\n\nWidth: 1200mm\nDepth: 750mm\nHeight: 740mm",
-    "location": "Yishun, Sembawang",
-    "validTill": "17 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "109709",
     "name": "Munchkin organizer",
     "description": "Organizer for baby cot or diaper changing station",
@@ -877,16 +857,6 @@
     "validTill": "10 Jul 2022",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "109419",
-    "name": "Desk",
-    "description": "Writing desk",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "10 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": "130cm length × 70cm width x 72cm height",
     "deliveryCostsCoveredByDonor": true
   },
   {
