@@ -1,5 +1,35 @@
 [
   {
+    "id": "110891",
+    "name": "Ontario Electrical Chair",
+    "description": "Almost new, adjustable",
+    "location": "Jurong",
+    "validTill": "13 Aug 2022",
+    "ageInYears": 1,
+    "dimensions": "Size of a massage chair",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110890",
+    "name": "Electric Nursing Care Bed - Made in Germany",
+    "description": "Almost New, hardly use, great condition, made in Germany electrical bed",
+    "location": "Jurong",
+    "validTill": "13 Aug 2022",
+    "ageInYears": 1,
+    "dimensions": "A normal single size bed",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110889",
+    "name": "Wardrobe closet with mirror",
+    "description": "Very spacious inside, it’s a 3-in-1 that can be unscrewed with 2 drawers below. Used it for 4 years but shifting and will not use it anymore.",
+    "location": "Telok Blangah, Harbourfront",
+    "validTill": "24 Jul 2022",
+    "ageInYears": 4,
+    "dimensions": "154x55x190 cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "110878",
     "name": "Baby cot",
     "description": "Unable to pay for transportation. Has a few scratches but In a good state.",
@@ -43,16 +73,6 @@
     "id": "110856",
     "name": "Rocker",
     "description": "Item is rarely used and is still in good condition.",
-    "location": "Yishun, Sembawang",
-    "validTill": "12 Aug 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110855",
-    "name": "Stroller",
-    "description": "Preloved stroller which is more than 6 years but is still sturdy and in good working condition.",
     "location": "Yishun, Sembawang",
     "validTill": "12 Aug 2022",
     "ageInYears": 4,
@@ -460,46 +480,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "110813",
-    "name": "Frying Pan",
-    "description": "In good condition",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "15 Jul 2022",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110596",
-    "name": "Oven",
-    "description": "In good condition",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "15 Jul 2022",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110595",
-    "name": "Electric boiler",
-    "description": "available from 15 Jul 2022",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "20 Jul 2022",
-    "ageInYears": 3,
-    "dimensions": "na",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110594",
-    "name": "Electric Kettle",
-    "description": "Only valid from 15 Jul 2022",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "25 Jul 2022",
-    "ageInYears": 1,
-    "dimensions": "Na",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "110866",
     "name": "Baby mat",
     "description": "Korean baby mat",
@@ -746,16 +726,6 @@
     "location": "Tampines, Pasir Ris",
     "validTill": "31 Jul 2022",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110318",
-    "name": "Food container",
-    "description": "Used a few times only but kept away for long time.",
-    "location": "Yishun, Sembawang",
-    "validTill": "30 Jul 2022",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
