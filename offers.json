@@ -1,12 +1,22 @@
 [
   {
-    "id": "110858",
-    "name": "Queen size bed",
-    "description": "Queen size bed frame + mattress",
+    "id": "110874",
+    "name": "Dining Table",
+    "description": "8 seater table (extendable to 10)",
     "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "15 Jul 2022",
+    "validTill": "13 Aug 2022",
     "ageInYears": 4,
-    "dimensions": "206cm(L) x 152cm(W) x 47cm(H)",
+    "dimensions": "150cmx90cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110868",
+    "name": "Chinese E-dictionary for students",
+    "description": "Hansvision PX2101 by Creative Technology",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "13 Aug 2022",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -310,16 +320,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "110743",
-    "name": "Milk Powder",
-    "description": "I have 10 cans of Mamil Mama milk powder for mummies who just gave birth to donate",
-    "location": "Kranji, Woodgrove",
-    "validTill": "09 Aug 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "110742",
     "name": "Bag packs",
     "description": "I have 10 young kids bag packs to donate",
@@ -487,6 +487,16 @@
     "validTill": "25 Jul 2022",
     "ageInYears": 1,
     "dimensions": "Na",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110866",
+    "name": "Baby mat",
+    "description": "Korean baby mat",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "01 Aug 2022",
+    "ageInYears": 3,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
