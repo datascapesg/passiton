@@ -1,5 +1,75 @@
 [
   {
+    "id": "110932",
+    "name": "Ikea double bed and matreas",
+    "description": "Ikea Mandal bed",
+    "location": null,
+    "validTill": "19 Jul 2022",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110930",
+    "name": "20 inch Samsung computer monitor",
+    "description": "The screen is 20 inches across.\nComes with adapter n wires.",
+    "location": "Loyang, Changi",
+    "validTill": "14 Aug 2022",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110925",
+    "name": "Pinewood Dressing table",
+    "description": "An old but very solid pinewood dresser in excellent condition.",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "14 Aug 2022",
+    "ageInYears": 4,
+    "dimensions": "110 x 46 x 65 cm (length x depth x height)",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110921",
+    "name": "Table",
+    "description": "Office table",
+    "location": "Watten Estate, Novena, Thomson",
+    "validTill": "19 Jul 2022",
+    "ageInYears": 4,
+    "dimensions": "120 Height 73cm Width x 60 cm depth",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110920",
+    "name": "Ceiling fan with lamp",
+    "description": "Powerful KDK ceiling fan with lamp.\nWill require assistance to dismount.\nCan deliver to recipient.\nRecipient will need to seek assistance to mount.",
+    "location": "Telok Blangah, Harbourfront",
+    "validTill": "28 Jul 2022",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110898",
+    "name": "Hospital Electric Bed with Air Mattress",
+    "description": "In working condition.",
+    "location": "Jurong",
+    "validTill": "16 Jul 2022",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110896",
+    "name": "Foldable Walking frame w front wheels",
+    "description": "Hardly used",
+    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+    "validTill": "31 Jul 2022",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "110895",
     "name": "Extendable dining table",
     "description": "Good condition but urgently need to remove.",
@@ -7,66 +77,6 @@
     "validTill": "16 Jul 2022",
     "ageInYears": 3,
     "dimensions": "160(200)x90x76cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110894",
-    "name": "Chng Peng Eik",
-    "description": "New condition... Used less than 10 times",
-    "location": null,
-    "validTill": "31 Jul 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110893",
-    "name": "Whellchair",
-    "description": "Not heavily used... condition good 8/10",
-    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-    "validTill": "31 Jul 2022",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110892",
-    "name": "Chest of drawers",
-    "description": "Chest of drawers… in good condition…  previously used for keeping toys..",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "13 Aug 2022",
-    "ageInYears": 4,
-    "dimensions": "90x105x48cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110891",
-    "name": "Ontario Electrical Chair",
-    "description": "Almost new, adjustable",
-    "location": "Jurong",
-    "validTill": "13 Aug 2022",
-    "ageInYears": 1,
-    "dimensions": "Size of a massage chair",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110890",
-    "name": "Electric Nursing Care Bed - Made in Germany",
-    "description": "Almost New, hardly use, great condition, made in Germany electrical bed",
-    "location": "Jurong",
-    "validTill": "13 Aug 2022",
-    "ageInYears": 1,
-    "dimensions": "A normal single size bed",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110889",
-    "name": "Wardrobe closet with mirror",
-    "description": "Very spacious inside, it’s a 3-in-1 that can be unscrewed with 2 drawers below. Used it for 4 years but shifting and will not use it anymore.",
-    "location": "Telok Blangah, Harbourfront",
-    "validTill": "24 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": "154x55x190 cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -190,16 +200,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "110828",
-    "name": "baby clothing’s",
-    "description": "I can only send to nearby neighbourhood \nbaby infants clothings 0-3 years old, nursing cover",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "22 Jul 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "110826",
     "name": "Brown wood dining table for 6 pax",
     "description": "Well maintained, woody table",
@@ -317,26 +317,6 @@
     "validTill": "11 Aug 2022",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110755",
-    "name": "Foldable Single Mattress Pad",
-    "description": "Sea Horse brand fordable single mattress pad. Only used for around 20 days when I was staying in my friend's house before moving to current place.",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "10 Aug 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110754",
-    "name": "Chest of drawers",
-    "description": "Pre-loved Chest of Drawers from Barang Barang. Making way for new furniture. \n\nI will pay for delivery directly to recipient.",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "29 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": "160W x 91H x 44D",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -700,16 +680,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "110498",
-    "name": "Super Single Bed Frame c/w Mattress",
-    "description": "Black frame super single bed complete with pocketed spring mattress",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "31 Jul 2022",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "110316",
     "name": "Samsung TV Monitor",
     "description": "Samsung 22inch TV monitor. Still in working condition. Come with power cable. The tilting of the monitor is slightly downwards and cannot be adjusted. Everything else is working fine. Can be used as a monitor to a laptop as well.\n\nhttps://icecat.biz/en/p/samsung/ue22d5003b/tvs-ue22d5003bw-14739139.html",
@@ -727,6 +697,16 @@
     "validTill": "17 Jul 2022",
     "ageInYears": 4,
     "dimensions": "36H x 19W (inches)",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110904",
+    "name": "2-door cupboard",
+    "description": "1x 2-door white color cupboard. Bought from ikea.",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "17 Jul 2022",
+    "ageInYears": 4,
+    "dimensions": "47Lx16.5Wx51H (inches)",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -900,12 +880,32 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
+    "id": "110912",
+    "name": "Sandwich maker",
+    "description": "Brand new sandwich toaster.",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "22 Jul 2022",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "109976",
     "name": "Toddler shoes for girl",
     "description": "Kid outgrown. Seldom wear due to previous lockdown.",
     "location": "Serangoon Garden, Hougang, Ponggol",
     "validTill": "22 Jul 2022",
     "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110911",
+    "name": "Office Chairs, Sofas, Mattresses, Chairs",
+    "description": "I have many items for donation. However, the items might need some cleaning",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "22 Jul 2022",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
