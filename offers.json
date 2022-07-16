@@ -1,5 +1,25 @@
 [
   {
+    "id": "110943",
+    "name": "Dishwashing machine",
+    "description": "Working dishwashing machine",
+    "location": "Upper Thomson, Springleaf",
+    "validTill": "15 Aug 2022",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110942",
+    "name": "Chest of drawers",
+    "description": "Ikea Chest of 3 drawers, MALM\nhttps://www.ikea.com/sg/en/p/malm-chest-of-3-drawers-white-stained-oak-veneer-30354660/#content\nincluding grey glass top",
+    "location": "Yishun, Sembawang",
+    "validTill": "15 Aug 2022",
+    "ageInYears": 1,
+    "dimensions": "80cm w x 48cm d x 78cm h",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "110932",
     "name": "Ikea double bed and matreas",
     "description": "Ikea Mandal bed",
