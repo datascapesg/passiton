@@ -1,5 +1,55 @@
 [
   {
+    "id": "111010",
+    "name": "4 seater Dining Table and Chairs",
+    "description": "4 Seater Dining Table with 4 Chairs\n\nTransportation may need to be paid by recipient.",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "28 Jul 2022",
+    "ageInYears": 4,
+    "dimensions": "120 x 75",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111009",
+    "name": "3 seater sofa",
+    "description": "Barely 4 years old, well used but still in very good conditions. \n \nTransportation fee needs to be covered by recipient.",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "28 Jul 2022",
+    "ageInYears": 4,
+    "dimensions": "225 × 40 × 90",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110998",
+    "name": "Electrolux clothes dryer EDE429E",
+    "description": "An Electrolux clothes dryer, model EDE429E, in good working condition but slightly dusty. Dries clothes completely!",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "31 Jul 2022",
+    "ageInYears": 3,
+    "dimensions": "600W x 600D x 800H mm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110992",
+    "name": "Office chair",
+    "description": "Office chair l",
+    "location": null,
+    "validTill": "28 Jul 2022",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "110991",
+    "name": "Lazy chair",
+    "description": "Lazy chair, very comfortable",
+    "location": null,
+    "validTill": "26 Jul 2022",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "110990",
     "name": "Bed Backrest",
     "description": "Suitable as support for sit up / backrest on bed",
@@ -41,7 +91,7 @@
   },
   {
     "id": "110977",
-    "name": "DNR Alpus Lightweight Pushchair 16\"",
+    "name": "DNR Alpus Lightweight Pushchair 16 with Head Support",
     "description": "Bought new DNR Aplus Lightweight Detachable Pushchair 16\". Used by my late mum for approx 4 months. Pushchair is still in very good working condition. Hope to pass this on to VWO or donee who needs a pushchair. Would prefer the VWO or donee to arrange for collection and pay for the transportation.",
     "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
     "validTill": "31 Jul 2022",
@@ -51,7 +101,7 @@
   },
   {
     "id": "110976",
-    "name": "Hospital Bed",
+    "name": "Hospital Bed with Air Mattress",
     "description": "Bought new Assure Rehab Electric Low Bed with Elevation for long term homecare of bed-ridden or limited mobility patients. Used by my late mum for approx 4 months. Bed is still in very good working condition. Hope to pass this on to VWO or donee who needs a hospital bed. Would prefer the VWO or donee to arrange for collection and pay for the transportation.",
     "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
     "validTill": "31 Jul 2022",
@@ -125,16 +175,6 @@
     "description": "Working dishwashing machine",
     "location": "Upper Thomson, Springleaf",
     "validTill": "15 Aug 2022",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110920",
-    "name": "Ceiling fan with lamp",
-    "description": "Powerful KDK ceiling fan with lamp.\nWill require assistance to dismount.\nCan deliver to recipient.\nRecipient will need to seek assistance to mount.",
-    "location": "Telok Blangah, Harbourfront",
-    "validTill": "28 Jul 2022",
     "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
@@ -690,16 +730,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "110590",
-    "name": "Sofa set",
-    "description": "3 seater sofa. 2 sets.",
-    "location": "Katong, Joo Chiat, Amber Road",
-    "validTill": "29 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": "210cm wide x 94cm deep x 78cm high",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "110191",
     "name": "10 Dell Desktops (without hard-disk and OS)",
     "description": "10 Dell OptiPlex 7060 Small Form Factor Desktop\nIntel Core i7-8700 (6 Cores/12MB/12T/up to 4.6GHz/65W)\n16GB 1x16GB DDR4 2666MHz UDIMM Non-ECC\n**Please take note before reserving. ** These desktops does not come with harddisk. You can get harddisk spare part and purchase Windows OS to operate it functionality.",
@@ -815,16 +845,6 @@
     "description": "3 x Malm bedside cabinets",
     "location": "Telok Blangah, Harbourfront",
     "validTill": "24 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110008",
-    "name": "Chairs",
-    "description": "2 IKEA Chairs in good condition to sit.\nPlease feel free to contact me for the same.",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "23 Jul 2022",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
