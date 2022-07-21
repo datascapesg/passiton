@@ -1,15 +1,5 @@
 [
   {
-    "id": "111071",
-    "name": "Folding Table",
-    "description": "Ikea Folding Table\nQty=1, Condition=Like New, \n60cm x 62cm x 73cm\nSolid acacia wood, good for outdoors",
-    "location": "Jurong",
-    "validTill": "20 Aug 2022",
-    "ageInYears": 2,
-    "dimensions": "60cm x 62cm x 73cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "111070",
     "name": "Dining Table Extendable",
     "description": "Ikea Extendable Dining Table\nQty=1, Condition=Like New, 138cm x 80cm x 74cm, Strong Bamboo Top, Aluminium Legs\nNO CHAIRS (can sit 4 person)",
@@ -17,6 +7,16 @@
     "validTill": "20 Aug 2022",
     "ageInYears": 2,
     "dimensions": "138cm x 80cm x 74cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111069",
+    "name": "Teak cabinet",
+    "description": "Customised cabinet slot in doors nature teak finish",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "31 Jul 2022",
+    "ageInYears": 4,
+    "dimensions": "Length 234 cm breath 56cm height 6",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -360,16 +360,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "110806",
-    "name": "Director's Chair",
-    "description": "A good and comfortable, black, fabric chair with high back and arm rests. We are moving house and no longer need the item. We like to benefit a needy family with it.",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "23 Jul 2022",
-    "ageInYears": 2,
-    "dimensions": "600W x 600B x 1050H mm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "110794",
     "name": "Casio fx-85MS Scientific Calculator",
     "description": "Scientific calculator (brand new condition) - hopefully it is able to help someone who is still in school and requires it.",
@@ -386,16 +376,6 @@
     "location": null,
     "validTill": "11 Aug 2022",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110784",
-    "name": "Geriatric Chair",
-    "description": "Geriatric chair for the elderly.\n1) Important note: Needs to be plugged into socket for use.\n2) Adjust sitting, sleeping and standing positions with remote control. \n3) Comfortable and easy to clean.",
-    "location": "Orchard, Cairnhill, River Valley",
-    "validTill": "24 Jul 2022",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
