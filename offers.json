@@ -1,5 +1,15 @@
 [
   {
+    "id": "111215",
+    "name": "Study Table",
+    "description": "Study table...a bit rusty on the side...",
+    "location": "Yishun, Sembawang",
+    "validTill": "10 Aug 2022",
+    "ageInYears": 4,
+    "dimensions": "60CM X 95CM x 77cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "111210",
     "name": "Coffee table",
     "description": "Coffee table.",
@@ -20,16 +30,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "111204",
-    "name": "refrigerator",
-    "description": "This is a Hitachi 2 door digital control fridge with about 605 litre capacity. It had been used for around 5 years old but is in good condition. The seals on the door is still in good working condition. I had already cleaned it up. It is non halah. Not for the fussy family. I had reached out to a few other needy families. First come first serve. Please get back soonest.",
-    "location": "Jurong",
-    "validTill": "28 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": "92cm (front) x 71cm (depth) x 178cm(height)",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "111195",
     "name": "Children Clothing",
     "description": "Children's shorts and some never been worn girl panties. All in good condition.",
@@ -41,7 +41,7 @@
   },
   {
     "id": "111194",
-    "name": "Flora Leong",
+    "name": "Children's short and long tights",
     "description": "Children's short and long tights, suitable for children aged between 7 to 8 yrs olds.",
     "location": "Yishun, Sembawang",
     "validTill": "24 Aug 2022",
@@ -827,16 +827,6 @@
     "validTill": "31 Jul 2022",
     "ageInYears": 4,
     "dimensions": "60cm x 85cm x 60cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111053",
-    "name": "Samsung TV Monitor",
-    "description": "Samsung 22inch TV monitor. Still in working condition. Come with power cable. The tilting of the monitor is slightly downwards and cannot be adjusted. Everything else is working fine. Can be used as a monitor to a laptop as well.\n\nhttps://icecat.biz/en/p/samsung/ue22d5003b/tvs-ue22d5003bw-14739139.html",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "30 Jul 2022",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
