@@ -1,5 +1,35 @@
 [
   {
+    "id": "111220",
+    "name": "Sandwich maker",
+    "description": "Workable triangle sandwich maker",
+    "location": null,
+    "validTill": "15 Aug 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111219",
+    "name": "Blender",
+    "description": "Well working blender",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "15 Aug 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111218",
+    "name": "Bread toaster",
+    "description": "Philips toaster. Looks old but we’ll try to clean it as much as possible.",
+    "location": "East Coast",
+    "validTill": "15 Aug 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "111216",
     "name": "Queen storage bed frame (white)",
     "description": "206x153x117\nHydraulic springs working condition.",
@@ -87,6 +117,16 @@
     "validTill": "24 Aug 2022",
     "ageInYears": 1,
     "dimensions": "Diameter 36cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111217",
+    "name": "Kitchen Cabinet (vintage style)",
+    "description": "Very good condition",
+    "location": null,
+    "validTill": "23 Aug 2022",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -863,7 +903,7 @@
     "id": "110289",
     "name": "Sofa bed / Fold out bed",
     "description": "Sofa bed but can’t fold back into sofa. Useable as bed",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "location": "East Coast",
     "validTill": "30 Jul 2022",
     "ageInYears": 4,
     "dimensions": null,
