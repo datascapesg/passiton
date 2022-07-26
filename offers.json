@@ -1,5 +1,15 @@
 [
   {
+    "id": "111256",
+    "name": "IKEA Office Chair",
+    "description": "IKEA Chair",
+    "location": "Jurong",
+    "validTill": "10 Aug 2022",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "111252",
     "name": "Rice Cooker",
     "description": "Rice Cooker 1.0L capacity in good condition.",
@@ -496,16 +506,6 @@
     "location": "Upper Thomson, Springleaf",
     "validTill": "15 Aug 2022",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110896",
-    "name": "Foldable Walking frame w front wheels",
-    "description": "Hardly used",
-    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-    "validTill": "31 Jul 2022",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
