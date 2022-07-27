@@ -1,5 +1,35 @@
 [
   {
+    "id": "111277",
+    "name": "Wardrobe",
+    "description": "Giving a wardrobe in working condition, I will pay for collection fee",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "09 Aug 2022",
+    "ageInYears": 4,
+    "dimensions": "79cm X 51cm X 175cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111275",
+    "name": "Washing Machine",
+    "description": "Panasonic 12.5 Kg Top load washer\n\nNote: item is available only on 1 Sep 2022",
+    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+    "validTill": "26 Aug 2022",
+    "ageInYears": 2,
+    "dimensions": "600x1069x672 mm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111274",
+    "name": "Refrigerator",
+    "description": "Samsung 2 DR refrigerator (528 L)\n\nNote: item is only available on 1 Sep 2022",
+    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+    "validTill": "26 Aug 2022",
+    "ageInYears": 2,
+    "dimensions": "790x1855x720 mm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "111266",
     "name": "Baby boy clothes (Newborn to 6mths)",
     "description": "Worn but in good condition.",
