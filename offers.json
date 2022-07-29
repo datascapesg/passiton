@@ -1,12 +1,52 @@
 [
   {
-    "id": "111346",
-    "name": "Samsung Refrigerator",
-    "description": "Only available on 31 Aug 2022",
-    "location": "Serangoon Garden, Hougang, Ponggol",
+    "id": "111358",
+    "name": "Car seat for baby",
+    "description": "Swivel car seat\nPerfect working conditions",
+    "location": "Tampines, Pasir Ris",
     "validTill": "28 Aug 2022",
     "ageInYears": 4,
-    "dimensions": "68x65x171",
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111355",
+    "name": "Baby bouncer",
+    "description": "Used once or twice only as my kid prefers other bouncers. My kid has outgrown the bouncer",
+    "location": "Yishun, Sembawang",
+    "validTill": "28 Aug 2022",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111353",
+    "name": "Maternity Pillow",
+    "description": "Hardly used, pillow is still sturdy for good support as shown on pic. Brown cover is removable for washing and hygiene purposes.",
+    "location": null,
+    "validTill": "28 Aug 2022",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111351",
+    "name": "used and semi new baby clothing and items",
+    "description": "Self-collection at hillview\nNew and used baby girl clothing can fit from 4 months on . some used bottles and night clothing",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "31 Jul 2022",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111348",
+    "name": "Osim petite massage chair",
+    "description": "Slightly used Osim petite massage chair.",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "15 Aug 2022",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -26,16 +66,6 @@
     "location": "Katong, Joo Chiat, Amber Road",
     "validTill": "04 Aug 2022",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111341",
-    "name": "29 inch Samsung digital TV with Set Up Box",
-    "description": "A wall mounted 29inch Samsung television in good working condition. It comes with remote control, cables and set up box. But the wall brackets have been discarded already. So the user has to find a way to prop up the TV.",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "10 Aug 2022",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -83,16 +113,6 @@
     "id": "111298",
     "name": "Dining table with chairs",
     "description": "Cellini table and chairs. Used for 10 years but still in ok condition. Glass table top",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "26 Aug 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111297",
-    "name": "3 seater sofa",
-    "description": "Used sofa",
     "location": "Tampines, Pasir Ris",
     "validTill": "26 Aug 2022",
     "ageInYears": 4,
@@ -220,26 +240,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "111234",
-    "name": "Wooden chest",
-    "description": "Delivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "25 Aug 2022",
-    "ageInYears": 2,
-    "dimensions": "90cmLx49cmWx44cmH",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111233",
-    "name": "Shelf",
-    "description": "Delivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "25 Aug 2022",
-    "ageInYears": 2,
-    "dimensions": "62cmLx25cmWx165cmH",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "111220",
     "name": "Sandwich maker",
     "description": "Workable triangle sandwich maker",
@@ -327,16 +327,6 @@
     "validTill": "24 Aug 2022",
     "ageInYears": 1,
     "dimensions": "Diameter 36cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111217",
-    "name": "Kitchen Cabinet (vintage style)",
-    "description": "Very good condition",
-    "location": null,
-    "validTill": "23 Aug 2022",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
