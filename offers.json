@@ -170,16 +170,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "111459",
-    "name": "L-shaped sofa",
-    "description": "The sofa is in good condition and is comfortable. The covers can be washed or changed.",
-    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-    "validTill": "20 Aug 2022",
-    "ageInYears": 4,
-    "dimensions": "290x170x100",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "111439",
     "name": "Bed frame and mattress",
     "description": "Single size bed. Used",
@@ -216,6 +206,26 @@
     "location": "Upper Thomson, Springleaf",
     "validTill": "31 Aug 2022",
     "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111590",
+    "name": "Mitsubishi 3 Dr Refrigerator",
+    "description": "Available only on 15-20 September 2022",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "31 Aug 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111591",
+    "name": "Mitsubishi 3 Dr Refrigerator",
+    "description": "Available only on 15-20 September 2022",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "31 Aug 2022",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
