@@ -1,5 +1,15 @@
 [
   {
+    "id": "111634",
+    "name": "Single bed with mattress",
+    "description": "Single bed with wooden frame complete with mattress.\nSuggest not to dismantle it.",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "18 Aug 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "111633",
     "name": "peg perego high chair tatamia",
     "description": "High chair infant and up with swing option",
@@ -45,16 +55,6 @@
     "description": "Queen size use by single person",
     "location": "Serangoon Garden, Hougang, Ponggol",
     "validTill": "09 Aug 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111611",
-    "name": "Wooden single bed frame and mattress",
-    "description": "4 wooden single bed frames and 3 mattresses to be given away. Used it for 4 years. Still in good condition",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "20 Aug 2022",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
@@ -857,26 +857,6 @@
     "validTill": "07 Aug 2022",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111486",
-    "name": "Commode with wheel and lock",
-    "description": "The commode is still in good condition and clean.\nMay i know the collection fee before proceed. \nThanks",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "06 Aug 2022",
-    "ageInYears": 2,
-    "dimensions": "W20.5\"xD 34\"xH39.5\"",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111487",
-    "name": "Commode with wheel and lock",
-    "description": "The commode is still in good condition and clean.\nMay i know the collection fee before proceed. \nThanks",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "06 Aug 2022",
-    "ageInYears": 2,
-    "dimensions": "W20.5\"xD 34\"xH39.5\"",
     "deliveryCostsCoveredByDonor": true
   }
 ]
