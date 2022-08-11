@@ -1,5 +1,15 @@
 [
   {
+    "id": "111812",
+    "name": "Scooter",
+    "description": "Item is in good condition",
+    "location": "Yishun, Sembawang",
+    "validTill": "31 Aug 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "111806",
     "name": "Pigeon Rapid Steam Sterilizer",
     "description": "Pigeon Rapid Steam Sterilizer",
@@ -74,16 +84,6 @@
     "name": "Unused Medicine",
     "description": "Please indicate the requested items & quantity\n\n1.   UMECLIDINIUM 62.5MCG ELLIPTA INH 30D (INCRUSE) - 5 units (Exp 03/2023)   \n2.   Nicotinell 1 mg - 1 unit (Exp 08/2023)\n3.   Moxiclav 1g - 2 strip (Exp 09/2023)\n\nMeetup option to be determined later.",
     "location": "Katong, Joo Chiat, Amber Road",
-    "validTill": "10 Sep 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111788",
-    "name": "Hospital Bed",
-    "description": "Used Hospital Bed. In good condition.",
-    "location": "Geylang, Eunos",
     "validTill": "10 Sep 2022",
     "ageInYears": 1,
     "dimensions": null,
