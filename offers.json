@@ -1,5 +1,55 @@
 [
   {
+    "id": "111868",
+    "name": "Bibs, wash clothes, soft toys",
+    "description": "Well used items",
+    "location": "Queenstown, Tiong Bahru",
+    "validTill": "12 Sep 2022",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111867",
+    "name": "Children shoes 13cm to 16cm",
+    "description": "Boys shoes",
+    "location": "Queenstown, Tiong Bahru",
+    "validTill": "12 Sep 2022",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111866",
+    "name": "Children shoes 14.5cm to 21cm",
+    "description": "Boys shoes 14.5cm to 21cm",
+    "location": "Queenstown, Tiong Bahru",
+    "validTill": "12 Sep 2022",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111865",
+    "name": "Oticon Hearing Aid",
+    "description": "Seldom used Oticon high definition hearing aid. This was used by my late mum but she seldom used it. Still in good condition with all accessories. Cost over $15K.\nNew user will need to visit a specialist who can recalibrate the hearing aid specific to the user.",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "31 Aug 2022",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111864",
+    "name": "Baby and children clothes from 0-3 years old",
+    "description": "Boys clothing",
+    "location": "Queenstown, Tiong Bahru",
+    "validTill": "12 Sep 2022",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "111863",
     "name": "Young kids toddler books",
     "description": "Used toddler books. No major defects.",
@@ -600,16 +650,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "111630",
-    "name": "Grey L-shaped sofa",
-    "description": "3 seater grey fabric sofa in good condition to be given away. served our family well.",
-    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-    "validTill": "13 Aug 2022",
-    "ageInYears": 4,
-    "dimensions": "220cm x 110cm x 70cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "111857",
     "name": "Fridge",
     "description": "Toshiba Fridge to donate",
@@ -797,6 +837,16 @@
     "validTill": "30 Aug 2022",
     "ageInYears": 1,
     "dimensions": "41 x 7 x 31",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111358",
+    "name": "Car seat for baby",
+    "description": "Swivel car seat\nPerfect working conditions",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "28 Aug 2022",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1000,16 +1050,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "111680",
-    "name": "Queen size Mattress",
-    "description": "very minor Slightly torn at the edges. Otherwise all good. Need to donate or dispose only because of no space due to using common room as working room",
-    "location": "Upper Thomson, Springleaf",
-    "validTill": "21 Aug 2022",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "111118",
     "name": "3 tier steamer-nom halal",
     "description": "Non halal 3 tier steamer. europace brand.",
@@ -1106,16 +1146,6 @@
     "location": "Upper Thomson, Springleaf",
     "validTill": "15 Aug 2022",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110868",
-    "name": "Chinese E-dictionary for students",
-    "description": "Hansvision PX2101 by Creative Technology",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "13 Aug 2022",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
