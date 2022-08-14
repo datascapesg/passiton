@@ -1,5 +1,15 @@
 [
   {
+    "id": "111890",
+    "name": "Clothings",
+    "description": "My mum recently passed away & some of her clothings are still new.\n1) 2 shawls (all new)\n2) 3 sets pyjamas & 5 T-shirts (L-size)\n3) Underwear-L size (all new)\n   - with label intact- 14 pcs\n   - without label- 4 pcs\nNote: to meet up for collection",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "13 Sep 2022",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "111889",
     "name": "Negative Ion Air Purifier",
     "description": "Air Purifier which was gifted and never used.\nDonating as we already have other air purifiers at home.",
@@ -390,16 +400,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "111801",
-    "name": "Laptop Bags or Backpack",
-    "description": "Various bags and backpack for school and laptops available. \nPlease email/contact me with your laptop size to find a right match.  \nMeetup arrangement.",
-    "location": null,
-    "validTill": "10 Sep 2022",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "111799",
     "name": "Printer Ink CANON PIXMA 726",
     "description": "Items available: \n\nCANON Pixma Ink Cartridge (1 each) CLI-726x - M C Y & Black\n\nMeetup arrangement to be determined later",
@@ -587,6 +587,16 @@
     "validTill": "08 Sep 2022",
     "ageInYears": 4,
     "dimensions": "20cm wide, 109-180cm length",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111708",
+    "name": "Laundry drying system (Manual)",
+    "description": "Perfect for the elderly. Safe option and minimal strength required to hang and dry clothes compared to bamboos",
+    "location": "Serangoon",
+    "validTill": "20 Aug 2022",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -990,46 +1000,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "111378",
-    "name": "Dell Laptop Bag - very good condition",
-    "description": "rarely used, in very good condition with multiple compartments.  either meet me to collect or I can send to the famiyl center, East and Central only please, thank you.",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "30 Aug 2022",
-    "ageInYears": 1,
-    "dimensions": "41 x 7 x 31",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111358",
-    "name": "Car seat for baby",
-    "description": "Swivel car seat\nPerfect working conditions",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "28 Aug 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111302",
-    "name": "Bedframe and mattress",
-    "description": "Mattress and bed frames can be given separately.",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "26 Aug 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111300",
-    "name": "Book or toy shelve",
-    "description": "Well used . Condition 7/10",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "26 Aug 2022",
-    "ageInYears": 3,
-    "dimensions": "90 x 30 x120 h",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "111298",
     "name": "Dining table with chairs",
     "description": "Cellini table and chairs. Used for 10 years but still in ok condition. Glass table top",
@@ -1097,36 +1067,6 @@
     "validTill": "25 Aug 2022",
     "ageInYears": 2,
     "dimensions": "70cmLx90cmWx95cmH",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111220",
-    "name": "Sandwich maker",
-    "description": "Workable triangle sandwich maker",
-    "location": null,
-    "validTill": "15 Aug 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111218",
-    "name": "Bread toaster",
-    "description": "Philips toaster. Looks old but we’ll try to clean it as much as possible.",
-    "location": "East Coast",
-    "validTill": "15 Aug 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111207",
-    "name": "Cupboard, console, coffee table",
-    "description": "We also have a chair with table for senior",
-    "location": "Seletar",
-    "validTill": "15 Aug 2022",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1297,16 +1237,6 @@
     "validTill": "16 Aug 2022",
     "ageInYears": 4,
     "dimensions": "50 x 55 x 79",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "110943",
-    "name": "Dishwashing machine",
-    "description": "Working dishwashing machine",
-    "location": "Upper Thomson, Springleaf",
-    "validTill": "15 Aug 2022",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
 ]
