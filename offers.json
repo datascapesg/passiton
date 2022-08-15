@@ -1,5 +1,35 @@
 [
   {
+    "id": "111905",
+    "name": "Baby cot",
+    "description": "baby cot with wheels and mattress",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "14 Sep 2022",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111904",
+    "name": "Queen bed and mattress",
+    "description": "Queen bed with mattress. Great condition. Used less than a year",
+    "location": null,
+    "validTill": "10 Sep 2022",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111893",
+    "name": "High Density Foam Single Mattress",
+    "description": "Can deliver to selected East and North-East areas",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "14 Sep 2022",
+    "ageInYears": 2,
+    "dimensions": "194cm X 92cm X 12cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "111890",
     "name": "Clothings",
     "description": "My mum recently passed away & some of her clothings are still new.\n1) 2 shawls (all new)\n2) 3 sets pyjamas & 5 T-shirts (L-size)\n3) Underwear-L size (all new)\n   - with label intact- 14 pcs\n   - without label- 4 pcs\nNote: to meet up for collection",
@@ -10,32 +40,12 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "111889",
-    "name": "Negative Ion Air Purifier",
-    "description": "Air Purifier which was gifted and never used.\nDonating as we already have other air purifiers at home.",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "13 Sep 2022",
-    "ageInYears": 1,
-    "dimensions": "33x18x59cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "111888",
     "name": "MAXI COSI PRIORI BABY CARSEAT",
     "description": "Blessing this baby chair\nSuitable for 9kg onwards\nI do not know the exact age of the chair as its been pass down to me.\nPlease kindly self collect\n\nThanks",
     "location": "Seletar",
     "validTill": "13 Sep 2022",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111887",
-    "name": "Single trundle bed frame & 2 mattresses",
-    "description": "Bed is well-used with 2 mattresses. 1 is new & the other used.",
-    "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
-    "validTill": "31 Aug 2022",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -77,16 +87,6 @@
     "validTill": "12 Sep 2022",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111881",
-    "name": "Single-size bunk bed",
-    "description": "Pine wood single-size bunk bed w/o mattress. In good condition. Comes with wooden ladder to climb to upper bed.",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "12 Sep 2022",
-    "ageInYears": 4,
-    "dimensions": "(Length 2m, Width 1m, Height 1.5m)",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -146,16 +146,6 @@
     "location": "Jurong",
     "validTill": "24 Aug 2022",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111870",
-    "name": "Wardobe, Bed and Mattress, Sofa Set, Coffee Table, Dining Table",
-    "description": "I wish to  donate these used furniture to the needy community as I am moving out from the HDB flat.",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "31 Aug 2022",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -520,16 +510,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "111754",
-    "name": "Mixer",
-    "description": "Good working condition Mixer with 2 additional mixers.\nLooking forward to donate. Please contact me if you can arrange for pickup and delivery.",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "25 Aug 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "111752",
     "name": "Educational toys",
     "description": "Missing a number 1 only",
@@ -780,26 +760,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "111857",
-    "name": "Fridge",
-    "description": "Toshiba Fridge to donate",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "20 Aug 2022",
-    "ageInYears": 4,
-    "dimensions": "59x67x173cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111859",
-    "name": "Fridge",
-    "description": "Toshiba Fridge to donate",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "20 Aug 2022",
-    "ageInYears": 4,
-    "dimensions": "59x67x173cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "111593",
     "name": "Male clothes",
     "description": "Male clothes still in good condition (pants/shirts)",
@@ -911,6 +871,16 @@
   },
   {
     "id": "111858",
+    "name": "Mitsubishi 3 Dr Refrigerator",
+    "description": "Available only on 15-20 September 2022",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "31 Aug 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111892",
     "name": "Mitsubishi 3 Dr Refrigerator",
     "description": "Available only on 15-20 September 2022",
     "location": "Tampines, Pasir Ris",
