@@ -125,6 +125,24 @@
     "date": "21 Jul 2022"
   },
   {
+    "id": "111950",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder (Pediasure Stage 4; for 4 years old and above) - Vanilla Flavour",
+    "description": "Low-income family with one 5yo child with developmental delay is in need of milk powder (Pediasure Stage 4/for 4 years old and above) - Vanilla Flavour. Only one breadwinner in family due to caregiving needs of child.\n\nFamily has been experiencing caregiving stress with the child, and the purchase of milk powder is adding on further stress on the family.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Cheng San",
+      "name": "Lee Yan Jun",
+      "email": "leeyanjun@amkfsc.org.sg",
+      "phone": [
+        "64546678",
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Aug 2022"
+  },
+  {
     "id": "111918",
     "category": "Infant and Children Items",
     "name": "Huggies baby gold diapers Size L & Friso Stage 1 milk powder needed",
@@ -175,24 +193,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "15 Aug 2022"
-  },
-  {
-    "id": "111852",
-    "category": "Infant and Children Items",
-    "name": "Happy Cot 5 in 1",
-    "description": "Low-income young couple residing in rental flat has pre-term twin babies who are going to be discharged home after more than 2 months of being in the hospital. Wife has congenital brittle bones condition which has resulted her being wheelchair-bound. The Happy Cot's versatility will help her in her caregiving to better manage her baby's needs.",
-    "specifications": null,
-    "contact": {
-      "org": "Care Corner Family Service Centre - Admiralty",
-      "name": "Serene Koh",
-      "email": "serenekoh@carecorner.org.sg",
-      "phone": [
-        "69784103",
-        "63658751"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Aug 2022"
   },
   {
     "id": "111825",
@@ -621,23 +621,6 @@
     "date": "01 Aug 2022"
   },
   {
-    "id": "111397",
-    "category": "Infant and Children Items",
-    "name": "Milk Powder & Diapers",
-    "description": "Family of 7 living in a 2-room rental flat. Client is the main caregiver to 2 young children, aged 3 and 7 months. Client's husband is sole breadwinner. Despite him working, the family is still facing difficulties in meeting their needs. Family is therefore seeking assistance for 1) Drypers Drypantz Pants XL 2) Drypers Wee Wee Dry Diapers L 3) Dumex Dugro Stage 3 Growing Up Baby Formula and 4) Dumex Dulac Infant Milk Formula Step 2. Do contact me at 98598768 for liaison on delivery address etc, thank you so much!",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
-      "phone": [
-        "69503503"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Aug 2022"
-  },
-  {
     "id": "111329",
     "category": "Infant and Children Items",
     "name": "Potty Chair",
@@ -906,24 +889,6 @@
     "date": "25 Jul 2022"
   },
   {
-    "id": "111179",
-    "category": "Infant and Children Items",
-    "name": "Diapers and milk powder",
-    "description": "Family of 5; client is a mother of 2 children below the age of 2, and is a caregiver to her mother. Client's mother was recently discharged from hospital and she is unable to work. Family of 5 is dependent on client's husband salary as a food delivery man.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - GoodLife! @ Telok Blangah",
-      "name": "Chen Jie Mei",
-      "email": "jiemei.chen@montfortcare.org.sg",
-      "phone": [
-        "62746904",
-        "62708327"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Jul 2022"
-  },
-  {
     "id": "111109",
     "category": "Infant and Children Items",
     "name": "Electronic Baby Cradle",
@@ -974,6 +939,78 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "20 Jul 2022"
+  },
+  {
+    "id": "111947",
+    "category": "Home Furnishing",
+    "name": "Shoe Rack",
+    "description": "Family consists of single mother and 2 daughters. As their rental flat requires some home improvement, they are looking for a shoe rack, preferably foldable, so that they are able to organize their space in their 1 room flat better.",
+    "specifications": "H60cm X W30cm X L50cm",
+    "contact": {
+      "org": "Canossaville Children and Community Services",
+      "name": "Regina Leong",
+      "email": null,
+      "phone": [
+        "68128555",
+        "68120697"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Aug 2022"
+  },
+  {
+    "id": "111946",
+    "category": "Home Furnishing",
+    "name": "Sofa Bed",
+    "description": "Family consists of single mother and 2 daughters. As their rental flat requires some home improvement, they are looking for a sofa bed so that the mother is able to rest comfortably.",
+    "specifications": "188x140cm (extended)",
+    "contact": {
+      "org": "Canossaville Children and Community Services",
+      "name": "Regina Leong",
+      "email": null,
+      "phone": [
+        "68128555",
+        "68120697"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Aug 2022"
+  },
+  {
+    "id": "111945",
+    "category": "Home Furnishing",
+    "name": "White Paint",
+    "description": "Family consists of single mother and 2 daughters. As their rental flat requires some home improvement, they are looking for 14L of white paint to repaint their 1 room flat.",
+    "specifications": "14L",
+    "contact": {
+      "org": "Canossaville Children and Community Services",
+      "name": "Regina Leong",
+      "email": null,
+      "phone": [
+        "68128555",
+        "68120697"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Aug 2022"
+  },
+  {
+    "id": "111944",
+    "category": "Home Furnishing",
+    "name": "Painting Tool Set",
+    "description": "Family consists of single mother and 2 daughters. As their rental flat requires some home improvement, they are looking for a painting tool set - preferably with tray, brush, long roller and drop sheet so that we can help them with repainting of the house.",
+    "specifications": null,
+    "contact": {
+      "org": "Canossaville Children and Community Services",
+      "name": "Regina Leong",
+      "email": null,
+      "phone": [
+        "68128555",
+        "68120697"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Aug 2022"
   },
   {
     "id": "111923",
@@ -1571,6 +1608,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "16 Jul 2022"
+  },
+  {
+    "id": "111949",
+    "category": "Others",
+    "name": "New Pillows x 2, Bolsters x 2 and Supersingle bedsheets x 2 sets",
+    "description": "Client is unable to work due to mental and health issues, perpetuating her financial issues. She requires New Pillows x 2, Bolsters x 2 and Super single bedsheets x 2 sets for her and her daughter as she is currently sleeping on the floor with little space. \n\nEmail or whatsapp at 66901010.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Champions Way",
+      "name": "Joycelyn Wong",
+      "email": "joycelynwong@fycs.org",
+      "phone": [
+        "66901010",
+        "66901000"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Aug 2022"
   },
   {
     "id": "111884",
@@ -2173,6 +2228,41 @@
     "date": "18 Jul 2022"
   },
   {
+    "id": "111956",
+    "category": "Electrical Home Appliances",
+    "name": "fridge",
+    "description": "Senior staying in rental flat living on Comcare assistance wish to be bless with a new refrigerator to replace his old fridge.",
+    "specifications": "small 2 door",
+    "contact": {
+      "org": "Lions Befrienders Cluster Support",
+      "name": "Noor Hashah Binti Hassan",
+      "email": "noor.hashah@lb.org.sg",
+      "phone": [
+        "66814942",
+        "66814020"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Aug 2022"
+  },
+  {
+    "id": "111948",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Client (female / 61 years old) accommodating in Studio Apartment (Golden Lavendar) together with eldest son. Client is wheelchair bound and son has medical conditions. Son is working as delivery rider despite his medical conditions to support himself and client.\n\nTheir current washing machine is faulty and due to financial strain, family could not afford to purchase a replacement.\n\nNeed support in used working condition or new washing machine. Thank you!\n\nTo contact,\nNur Hernani, Social Worker - 88085714",
+    "specifications": null,
+    "contact": {
+      "org": "Whispering Hearts Family Service Centre",
+      "name": "Nur Hernani Binte Razni",
+      "email": "hernani@viriya.org.sg",
+      "phone": [
+        "67951008"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Aug 2022"
+  },
+  {
     "id": "111921",
     "category": "Electrical Home Appliances",
     "name": "Mini fridge",
@@ -2749,24 +2839,6 @@
     "date": "02 Aug 2022"
   },
   {
-    "id": "111442",
-    "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "Family with 3 school-going children is preparing to move into an unfurnished public rental flat and have no other means to afford a refrigerator. Client is a single parent with low income and also the main caregiver to elderly father. \n\nSeeking for the kind donation of a refrigerator.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Bukit Batok",
-      "name": "Rosie Huang",
-      "email": "rosiehuang@fycs.org",
-      "phone": [
-        "69782981",
-        "65690381"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "02 Aug 2022"
-  },
-  {
     "id": "111428",
     "category": "Electrical Home Appliances",
     "name": "7KG top load washing Machine",
@@ -3182,6 +3254,23 @@
     "date": "19 Jul 2022"
   },
   {
+    "id": "111951",
+    "category": "Medical Aids",
+    "name": "Blood Glucose Meter",
+    "description": "Client's husband is the sole breadwinner of the family. They have 2 children, aged 6 years old and 6 months old. Client's husband was recently diagnosed with diabetes and was hospitalized. As finances are tight in the family, they cannot afford to purchase a blood glucose meter to monitor his blood sugar at home.  This is much needed to ensure that his health stabilizes.",
+    "specifications": null,
+    "contact": {
+      "org": "Kampong Kapor Community Services",
+      "name": "Chew Jia Hui",
+      "email": "chewjiahui@kkcs.org.sg",
+      "phone": [
+        "62997662"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "16 Aug 2022"
+  },
+  {
     "id": "111901",
     "category": "Medical Aids",
     "name": "Adult Diapers",
@@ -3395,23 +3484,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "03 Aug 2022"
-  },
-  {
-    "id": "111913",
-    "category": "Attires/Clothings",
-    "name": "Clothes for Men",
-    "description": "Two single man staying together to care for each other's health needs. One is permanently unfit for work whilst the other is has special needs. They require adult sized clothes (i.e. long pants, tee shirts) for daily use.",
-    "specifications": "L / XL",
-    "contact": {
-      "org": "Kampong Kapor Community Services",
-      "name": "Hilyah Binte Mohamed Bashir",
-      "email": "hilyahbashir@kkcs.org.sg",
-      "phone": [
-        "62997662"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "15 Aug 2022"
   },
   {
     "id": "111847",

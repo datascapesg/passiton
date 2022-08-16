@@ -1,5 +1,65 @@
 [
   {
+    "id": "111958",
+    "name": "Electric Steamboat",
+    "description": "In good condition, hardly use.",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "26 Aug 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111957",
+    "name": "Small Rice Cooker",
+    "description": "In good condition, hardly use.",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "24 Aug 2022",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111955",
+    "name": "3 seater teak wood sofa with grey cushion",
+    "description": "Teak wood sofa in very good condition.\nGrey cushion which has some slight stains on the under side of it. Durable material, suitable if you have cats.",
+    "location": "Katong, Joo Chiat, Amber Road",
+    "validTill": "15 Sep 2022",
+    "ageInYears": 1,
+    "dimensions": "Length 174cm, depth 62cm, height from seat to ground 41cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111953",
+    "name": "47\" LCD TV",
+    "description": "47\" TV (Not smart TV)\nPerfect operating condition. \nSelf- collect/pick up. Will pay for transportation if required.",
+    "location": null,
+    "validTill": "31 Aug 2022",
+    "ageInYears": 4,
+    "dimensions": "116 x 78 (cm)",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111952",
+    "name": "3 person sofa",
+    "description": "3 seater sofa. Very comfortable, bought second hand only a year or so ago, very good condition. Perfect for a family sofa.\n\nDimensions\nLength: 2m \nWidth: 86cm \nHeight: 96cm\n\nNote: cushions not included\n\nMaterial: Genuine Leather",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "15 Sep 2022",
+    "ageInYears": 4,
+    "dimensions": "See below",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111940",
+    "name": "Portable Table Fan",
+    "description": "In good and working condition, just need to clean the dust, as it is a small and portable item, prefer to deliver to family center in the east or central for client to collect, thank you.",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "15 Sep 2022",
+    "ageInYears": 4,
+    "dimensions": "Height 36cm length 31cm width 14cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "111939",
     "name": "Queen Size wooden bedframe",
     "description": "Solid wooden Queen Size bedframe with beautiful carvings in good conditions.",
@@ -37,16 +97,6 @@
     "validTill": "27 Aug 2022",
     "ageInYears": 4,
     "dimensions": "120.5cmx65cmx95cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111935",
-    "name": "Washing Machine",
-    "description": "Washing machine for donation. Mint condition.",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "27 Aug 2022",
-    "ageInYears": 4,
-    "dimensions": "51cm×50.5cmx81cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -570,16 +620,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "111843",
-    "name": "Metz 47 \" TV",
-    "description": "Perfect working condition. \nNote:German TV more than 20kg.",
-    "location": null,
-    "validTill": "31 Aug 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "111776",
     "name": "Baby monitor, bottle warmer",
     "description": "Baby monitor only sound, no visual. Bottle warmer Pigeon brand.",
@@ -870,16 +910,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "111559",
-    "name": "Pillow wedge",
-    "description": "Pillow wedge",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "16 Aug 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "111558",
     "name": "Hair Dryer",
     "description": "Brand new hair dryer",
@@ -977,6 +1007,16 @@
     "validTill": "31 Aug 2022",
     "ageInYears": 4,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "111943",
+    "name": "Honeywell Air Cooler",
+    "description": "Used Air Cooler Cum humidifier",
+    "location": "Telok Blangah, Harbourfront",
+    "validTill": "31 Aug 2022",
+    "ageInYears": 4,
+    "dimensions": "18.9 x 14.3 x 33.3 inch",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1150,6 +1190,16 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
+    "id": "111954",
+    "name": "Foot Stool - Fabric",
+    "description": "2 round foot stools, in very good condition.  Wooden legs.",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "24 Aug 2022",
+    "ageInYears": 1,
+    "dimensions": "Diameter 36cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "111148",
     "name": "Children puzzles and books",
     "description": "Children books and puzzles eg jigsaw. Girls clothes ( for about age 3-5yrs,) also available. Will deliver to central / west side only.",
@@ -1277,16 +1327,6 @@
     "validTill": "17 Aug 2022",
     "ageInYears": 3,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111616",
-    "name": "Commode Chair",
-    "description": "Commode - clean and good condition.",
-    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-    "validTill": "16 Aug 2022",
-    "ageInYears": 4,
-    "dimensions": "50 x 55 x 79",
     "deliveryCostsCoveredByDonor": true
   }
 ]
