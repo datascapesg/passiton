@@ -1,5 +1,25 @@
 [
   {
+    "id": "112037",
+    "name": "Brown IKEA Nightstand",
+    "description": "Wooden nightstand in great condition with 2 drawers",
+    "location": null,
+    "validTill": "26 Aug 2022",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "112029",
+    "name": "Crib+toddler bed w/ mattress + changing tray + bedsheets",
+    "description": "Baby crib that turns into a toddler bed in very good condition. Comes with a mattress, cotton bedsheet sets and a white changing tray. Adjustable mattress height.",
+    "location": "Orchard, Cairnhill, River Valley",
+    "validTill": "17 Sep 2022",
+    "ageInYears": 2,
+    "dimensions": "132x77x93",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "112026",
     "name": "Sofa Bed, Fridge, Clothes Dryer, Table & Chairs",
     "description": "Sofa Bed, Fridge, Clothes Dryer, Table & Chairs are in good working condition. Please arrange your own transport at your cost to pickup before 21 August 2022. All altogether in 1 pickup only. Thank you.",
@@ -7,16 +27,6 @@
     "validTill": "21 Aug 2022",
     "ageInYears": 4,
     "dimensions": "56 x 56 x 155",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "112024",
-    "name": "Mini fridge",
-    "description": "Bought in early July 2022, still in very good condition. 8L large. Can store boxes of fruit, small drinks and food cans etc.",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "21 Aug 2022",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -270,16 +280,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "111914",
-    "name": "DNR Electric hospital bed with air mattress",
-    "description": "a few months DNR electric bed with remote and air mattress. still under warranty.",
-    "location": "Jurong",
-    "validTill": "31 Aug 2022",
-    "ageInYears": 1,
-    "dimensions": "85x40x13",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "111905",
     "name": "Baby cot",
     "description": "baby cot with wheels and mattress",
@@ -287,6 +287,16 @@
     "validTill": "14 Sep 2022",
     "ageInYears": 2,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "112035",
+    "name": "High Density Foam Single Mattress",
+    "description": "Can deliver to selected East and North-East areas",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "14 Sep 2022",
+    "ageInYears": 2,
+    "dimensions": "194cm X 92cm X 12cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -340,17 +350,27 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "111882",
-    "name": "Stroller",
-    "description": "I am not sure about the item age as the stroller is given by my hubby’s friend. We didn’t use it in the end at all because we bought a new one before that and we have also gotten one more from Cordlife (I am a mother of twins.) And I believe it is valid or rather it can last as long as it can be used.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
+    "id": "111912",
+    "name": "Single-size bunk bed",
+    "description": "Pine wood single-size bunk bed w/o mattress. In good condition. Comes with wooden ladder to climb to upper bed.",
+    "location": "Balestier, Toa Payoh, Serangoon",
     "validTill": "12 Sep 2022",
     "ageInYears": 4,
-    "dimensions": null,
+    "dimensions": "(Length 2m, Width 1m, Height 1.5m)",
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "111912",
+    "id": "112027",
+    "name": "Single-size bunk bed",
+    "description": "Pine wood single-size bunk bed w/o mattress. In good condition. Comes with wooden ladder to climb to upper bed.",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "12 Sep 2022",
+    "ageInYears": 4,
+    "dimensions": "(Length 2m, Width 1m, Height 1.5m)",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "112028",
     "name": "Single-size bunk bed",
     "description": "Pine wood single-size bunk bed w/o mattress. In good condition. Comes with wooden ladder to climb to upper bed.",
     "location": "Balestier, Toa Payoh, Serangoon",
@@ -607,16 +627,6 @@
     "validTill": "31 Aug 2022",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111742",
-    "name": "Small Filing Cabinet",
-    "description": "One drawer filing cabinet on wheels.  Could go under a desk.  Also has 2 small drawers inside useful for stationery items.",
-    "location": "Watten Estate, Novena, Thomson",
-    "validTill": "02 Sep 2022",
-    "ageInYears": 4,
-    "dimensions": "62cm deep x 46cm wide x 64cm high",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1037,16 +1047,6 @@
     "validTill": "26 Aug 2022",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111999",
-    "name": "Refrigerator",
-    "description": "Samsung 2 DR refrigerator (528 L)\n\nNote: item is only available on 1 Sep 2022",
-    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-    "validTill": "26 Aug 2022",
-    "ageInYears": 2,
-    "dimensions": "790x1855x720 mm",
     "deliveryCostsCoveredByDonor": true
   },
   {
