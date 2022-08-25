@@ -1,12 +1,52 @@
 [
   {
-    "id": "112231",
-    "name": "32\" Philips TV",
-    "description": "Used TV. Donating due to upgrade to a bigger one. However, there are some spots on screen when the TV is switched off but the TV can still be used",
-    "location": "Yishun, Sembawang",
+    "id": "112240",
+    "name": "male urinal disposable",
+    "description": "18 pcs new",
+    "location": "Jurong",
+    "validTill": "31 Aug 2022",
+    "ageInYears": 1,
+    "dimensions": "10x10x10",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "112239",
+    "name": "A4 Exam writing paper",
+    "description": "Qty:5 books\nMinus point: as shown in the picture. a vertical line has been drawn across the page.",
+    "location": "Bishan, Ang Mo Kio",
     "validTill": "24 Sep 2022",
-    "ageInYears": 2,
-    "dimensions": null,
+    "ageInYears": 1,
+    "dimensions": "A4",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "112238",
+    "name": "A4 Exam writing paper",
+    "description": "Qty:5 books\nMinus point: as shown in the picture. a vertical line has been drawn across the page.",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "24 Sep 2022",
+    "ageInYears": 1,
+    "dimensions": "A4",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "112236",
+    "name": "Thin and Soft Mat",
+    "description": "Not thick enough to be mattress. Most suitable for infants learninf to flip or a cushion to place somewhere.",
+    "location": "Upper Thomson, Springleaf",
+    "validTill": "31 Aug 2022",
+    "ageInYears": 1,
+    "dimensions": "90cm X 50cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "112235",
+    "name": "Storage",
+    "description": "Dimensions are including the blue part of the storage, not internal dimension. Item is from ikea.",
+    "location": "Upper Thomson, Springleaf",
+    "validTill": "31 Aug 2022",
+    "ageInYears": 1,
+    "dimensions": "90cm X 48cm X 19cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -170,32 +210,12 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "112103",
-    "name": "Baby girl clothes",
-    "description": "One bag of baby girl accessories - swaddles, bibs, socks, cloths. Suitable for below 9m\nOne bag of baby girl clothes - dresses, pyjamas. Suitable for 6-18m \n\nAll used but good condition.",
-    "location": null,
-    "validTill": "15 Sep 2022",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "112046",
     "name": "Glass water bottle",
     "description": "New, unused.250ml.",
     "location": "Bishan, Ang Mo Kio",
     "validTill": "17 Sep 2022",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "112217",
-    "name": "Brown IKEA Nightstand",
-    "description": "Wooden nightstand in great condition with 2 drawers",
-    "location": null,
-    "validTill": "26 Aug 2022",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -207,16 +227,6 @@
     "validTill": "17 Sep 2022",
     "ageInYears": 2,
     "dimensions": "132x77x93",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "112100",
-    "name": "Laptops",
-    "description": "Engineering Good provides laptops to the needy through partner organisations i.e. you have to be a registered VWO to apply for these laptops.\n\nYou may request laptops directly with us via request4laptops@engineeringgood.org\n\nThis is our laptop refurbishing programme which we have run since 2020, where old laptops are collected and refurbished, and given to the needy. \n\nYou will need to collect the laptop(s) at our office in B-Central, which is 5mins walk from Boon Keng MRT station.\n\nFor more information about the programme, see https://engineeringgood.org/digital-inclusion/cac/",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "16 Sep 2022",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -570,7 +580,17 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "111721",
+    "id": "112244",
+    "name": "Walking Frame, Foldable",
+    "description": "Seldom use.",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "08 Sep 2022",
+    "ageInYears": 4,
+    "dimensions": "Standard size",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "112245",
     "name": "Walking Frame, Foldable",
     "description": "Seldom use.",
     "location": "Serangoon Garden, Hougang, Ponggol",
