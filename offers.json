@@ -1,28 +1,8 @@
 [
   {
-    "id": "112277",
-    "name": "PMA",
-    "description": "PMA is still functional and brand new look.",
-    "location": null,
-    "validTill": "25 Sep 2022",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "112276",
     "name": "Dvd player",
     "description": "Seldom use",
-    "location": "Yishun, Sembawang",
-    "validTill": "24 Sep 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "112275",
-    "name": "Toshiba sound bar",
-    "description": "Had for 6 years but did not play audio through jt",
     "location": "Yishun, Sembawang",
     "validTill": "24 Sep 2022",
     "ageInYears": 4,
@@ -827,6 +807,26 @@
     "validTill": "31 Aug 2022",
     "ageInYears": 4,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "112278",
+    "name": "Study Table",
+    "description": "Good and usable condition\nThere are tears of the laminate but does not affect functionality",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "31 Aug 2022",
+    "ageInYears": 2,
+    "dimensions": "120cm x 96.5cm x 181cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "112279",
+    "name": "Study Table",
+    "description": "Good and usable condition\nThere are tears of the laminate but does not affect functionality",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "31 Aug 2022",
+    "ageInYears": 2,
+    "dimensions": "120cm x 96.5cm x 181cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
