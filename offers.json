@@ -1,9 +1,29 @@
 [
   {
+    "id": "112328",
+    "name": "2 seater sofa",
+    "description": "Grey color 2 seaters sofa",
+    "location": "Jurong",
+    "validTill": "21 Sep 2022",
+    "ageInYears": 2,
+    "dimensions": "153x74",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "112327",
+    "name": "Tefal Rice Cooker",
+    "description": "Tefal rice cooker ( not heavy used)",
+    "location": "West",
+    "validTill": "21 Sep 2022",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "112326",
     "name": "Fisher & Paykel Refrigerator",
     "description": "Fisher & Paykel Fridge (used)",
-    "location": "Jurong",
+    "location": "West",
     "validTill": "21 Sep 2022",
     "ageInYears": 4,
     "dimensions": "64x65x168",
@@ -13,7 +33,7 @@
     "id": "112325",
     "name": "Washing Machine",
     "description": "LG 10.0kg used washing machine",
-    "location": "Jurong",
+    "location": "West",
     "validTill": "21 Sep 2022",
     "ageInYears": 4,
     "dimensions": "57x56x90",
