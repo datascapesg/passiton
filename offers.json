@@ -1,5 +1,15 @@
 [
   {
+    "id": "112457",
+    "name": "Trolley Rack",
+    "description": "A trolley rack that can hold kitchen equipment, organize utensils, store dry goods.",
+    "location": "Anson, Tanjong Pagar",
+    "validTill": "30 Sep 2022",
+    "ageInYears": 2,
+    "dimensions": "40cmx21cmx90cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "112434",
     "name": "1 super single mattress and 2 duvans",
     "description": "One super single sized mattress and 2 duvans. The duvan can be stacked to form higher frame",
@@ -57,16 +67,6 @@
     "validTill": "06 Sep 2022",
     "ageInYears": 4,
     "dimensions": "180cm x 80cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "112384",
-    "name": "Single bed",
-    "description": "Single Ikea bed with mattress. Around 4 years old but in good condition.",
-    "location": "Jurong",
-    "validTill": "05 Sep 2022",
-    "ageInYears": 4,
-    "dimensions": "98x208cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -147,16 +147,6 @@
     "validTill": "27 Sep 2022",
     "ageInYears": 3,
     "dimensions": "190cmx95cmx40cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "112444",
-    "name": "Fisher & Paykel Refrigerator",
-    "description": "Fisher & Paykel Fridge (used)",
-    "location": "West",
-    "validTill": "21 Sep 2022",
-    "ageInYears": 4,
-    "dimensions": "64x65x168",
     "deliveryCostsCoveredByDonor": true
   },
   {
