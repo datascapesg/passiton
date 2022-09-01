@@ -1,5 +1,15 @@
 [
   {
+    "id": "112527",
+    "name": "Sharp Fridge 368L",
+    "description": "Well maintained and in good condition.",
+    "location": null,
+    "validTill": "01 Oct 2022",
+    "ageInYears": 4,
+    "dimensions": "65*65*165",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "112526",
     "name": "Tv console",
     "description": "Tv console",
@@ -46,16 +56,6 @@
     "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
     "validTill": "11 Sep 2022",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "112520",
-    "name": "Wheelchair, Commode & Hospital Bed",
-    "description": "All items are in good condition",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "02 Sep 2022",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -736,16 +736,6 @@
     "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
     "validTill": "04 Sep 2022",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111521",
-    "name": "Unused Medications",
-    "description": "Many unused and unboxed medications from  my late mother-in-law. Do contact me for more information.",
-    "location": "Geylang, Eunos",
-    "validTill": "02 Sep 2022",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
