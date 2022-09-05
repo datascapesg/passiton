@@ -1,15 +1,5 @@
 [
   {
-    "id": "112655",
-    "name": "Single mattress",
-    "description": "Well kept mattress",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "06 Sep 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "112654",
     "name": "Office Desk",
     "description": "Please arrange for transport to collect the table. Thanks.",
@@ -217,16 +207,6 @@
     "validTill": "02 Oct 2022",
     "ageInYears": 4,
     "dimensions": "Height 60cm width 122cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "112564",
-    "name": "3-seater reclining sofa",
-    "description": "Blessing our leather sofa, each end reclines. We cut the motor so that it reclines when you lean back. The one arm rest has wear and tear, otherwise a solid and comfy sofa. \n\nArrange own pick up, location 438641.",
-    "location": "Katong, Joo Chiat, Amber Road",
-    "validTill": "06 Sep 2022",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -756,26 +736,6 @@
     "location": "Bishan, Ang Mo Kio",
     "validTill": "07 Sep 2022",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111657",
-    "name": "Table",
-    "description": "Glass top table in good condition",
-    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-    "validTill": "06 Sep 2022",
-    "ageInYears": 4,
-    "dimensions": "150x90cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "111654",
-    "name": "Tricycle",
-    "description": "Tricycle for Kids",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "06 Sep 2022",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
