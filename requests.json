@@ -18,24 +18,6 @@
     "date": "05 Sep 2022"
   },
   {
-    "id": "112617",
-    "category": "Medical Aids",
-    "name": "glucose monitor machine with strips",
-    "description": "Client is a dialysis patient and has 2 school going children. She would need a glucose machine to measure her blood sugar as advised by the doctor.",
-    "specifications": null,
-    "contact": {
-      "org": "National Kidney Foundation (NKF)",
-      "name": "Liau Lian Lee",
-      "email": "lianlee.liau@nkfs.org",
-      "phone": [
-        "63593657",
-        "65062244"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "05 Sep 2022"
-  },
-  {
     "id": "112594",
     "category": "Medical Aids",
     "name": "Diapers (Pants)",
@@ -210,6 +192,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "17 Aug 2022"
+  },
+  {
+    "id": "112665",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Single elderly man who suffered a stroke that left him with mobility issue. He watches TV channel for his leisure as he is mostly home bound. He current old TV is spoilt.",
+    "specifications": "32 inches",
+    "contact": {
+      "org": "Yong-En Care Centre",
+      "name": "Katherine Ting",
+      "email": "katherine-ting@yong-en.org.sg",
+      "phone": [
+        "63090581",
+        "62251002"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Sep 2022"
   },
   {
     "id": "112660",
@@ -1524,6 +1524,23 @@
     "date": "08 Aug 2022"
   },
   {
+    "id": "112664",
+    "category": "Home Furnishing",
+    "name": "2 x Wardrobes",
+    "description": "Family of 3 consists of a Single Father with 2 sons with Mental Health Issues that prevent them from seeking employment. Father has to play multiple roles such as being the caregiver and sole breadwinner for his sons. Currently their house is infested with bed bugs, and the insects have started to infest their clothes as they do not have Wardrobes.\nAs such, we are looking for kind donors who can hand them pre-loved wardrobes to improve their quality of life, and allow father to carry out his multiple roles with lesser worry.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Sengkang",
+      "name": "Lyndon Mathews",
+      "email": "lyndonmathews@amkfsc.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Sep 2022"
+  },
+  {
     "id": "112658",
     "category": "Home Furnishing",
     "name": "wardrobe",
@@ -1539,23 +1556,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "06 Sep 2022"
-  },
-  {
-    "id": "112651",
-    "category": "Home Furnishing",
-    "name": "Sofa",
-    "description": "Low-income family of 7, newly moved into a 2-room rental unit and require some support for furniture for their children’s use. Seeking donation for 3 seater sofa, preferably dark coloured.",
-    "specifications": null,
-    "contact": {
-      "org": "Kampong Kapor Community Services",
-      "name": "Tay Shuyun",
-      "email": "tayshuyun@kkcs.org.sg",
-      "phone": [
-        "62997662"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "05 Sep 2022"
   },
   {
     "id": "112650",
@@ -1727,23 +1727,6 @@
       "phone": [
         "64961278",
         "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Sep 2022"
-  },
-  {
-    "id": "112511",
-    "category": "Home Furnishing",
-    "name": "Coffee Table",
-    "description": "Family of 4 has just gotten a rental flat. Client is the main caregiver to 2 young children, aged 3 years old and 7 months. Client has just gotten a job, there is no source of income at the moment. The family is hoping to obtain furnitures/items such as a coffee table for their flat. For further enquiries, kindly contact me at 98598768 for liaison etc, thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
-      "phone": [
-        "69503503"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -2203,6 +2186,95 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "10 Aug 2022"
+  },
+  {
+    "id": "112667",
+    "category": "Infant and Children Items",
+    "name": "Dugro Stage 3 milk powder x 2",
+    "description": "Family of 6 living in a 2 room rental flat requires milk powder and diapers for their toddler. Mother is currently the sole breadwinner of the family as father is required to be the certified full time caregiver of the bed ridden elderly at home.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Cheng San",
+      "name": "Choong Ying",
+      "email": "choongying@amkfsc.org.sg",
+      "phone": [
+        "64546678",
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Sep 2022"
+  },
+  {
+    "id": "110773",
+    "category": "Infant and Children Items",
+    "name": "1 x Dugro Stage 4 Milk Powder 1.6kg",
+    "description": "Family of 7 with single father being the sole breadwinner require support with milk powder and diapers temporarily.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Cheng San",
+      "name": "Choong Ying",
+      "email": "choongying@amkfsc.org.sg",
+      "phone": [
+        "64546678",
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Sep 2022"
+  },
+  {
+    "id": "110769",
+    "category": "Infant and Children Items",
+    "name": "Enfagrow Stage 4 Milk Powder",
+    "description": "Family of 4 with a special needs child, officially diagnosed with autism requires support with milk powder and diapers. Grandmother and grandfather are unable to work due to poor health conditions while mother is the sole breadwinner and a single mother taking care everyone in the household. Mother had been taking a few off days as the family contracted with covid to take care of child and her parents, and requires support with diapers and milk powder to tide through this month",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Cheng San",
+      "name": "Choong Ying",
+      "email": "choongying@amkfsc.org.sg",
+      "phone": [
+        "64546678",
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Sep 2022"
+  },
+  {
+    "id": "112666",
+    "category": "Infant and Children Items",
+    "name": "2 x S26 stage 4 milk powder",
+    "description": "Family of 5 (single mother with 4 children) require support with milk powder and diapers. Mother is trying her best to juggle the caregiving and household responsibilities while battling depression.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Cheng San",
+      "name": "Choong Ying",
+      "email": "choongying@amkfsc.org.sg",
+      "phone": [
+        "64546678",
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Sep 2022"
+  },
+  {
+    "id": "112662",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Low-income family of 3, just moved into a one room rental flat. Client just started on a new job and family is currently not financially stable at the moment. Client and wife would appreciate assistance acquiring items to help with caring for their 9-month infant. They are seeking a few packets of Merries Pants XL. For further liaison on delivery address etc, kindly WhatsApp/contact me at 98598768, thank you so much!",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
+      "phone": [
+        "69503503"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Sep 2022"
   },
   {
     "id": "112653",
@@ -3527,24 +3599,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "15 Aug 2022"
-  },
-  {
-    "id": "111783",
-    "category": "Infant and Children Items",
-    "name": "Milk Powder and Diapers",
-    "description": "A family in need required: 1) 1-3 bottles of Frisolac Gold Infant Formula 1 (0-6 months) 400g 2) 1-3 packets of Drypers Wee Wee Dry Tape Diapers Size M (6-11KG) Any amount is welcomed and delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore Children's Society Corporate Office",
-      "name": "Kartini",
-      "email": "dik@childrensociety.org.sg",
-      "phone": [
-        "69787279",
-        "62732010"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Aug 2022"
   },
   {
     "id": "112657",
