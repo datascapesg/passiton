@@ -1,5 +1,25 @@
 [
   {
+    "id": "112708",
+    "name": "Study table",
+    "description": "Children study table. Very well-maintained and not much signs of usage.",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "07 Oct 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "112707",
+    "name": "Rice cooker",
+    "description": "1 litre rice cooker. \nCooks up to 6 cups. \nAll functions working.\nInner pot has scratches.",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "07 Oct 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "112706",
     "name": "L Shaped Brown Leather Sofa",
     "description": "Brown L shaped leather sofa, very comfortable. Has not been used for two years as it is a spare sofa sitting in my study.",
@@ -10,16 +30,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "112705",
-    "name": "Commode",
-    "description": "Pre-owned commode like new.",
-    "location": "Geylang, Eunos",
-    "validTill": "06 Oct 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "112704",
     "name": "Homecare hospital bed",
     "description": "Pre-owned home care bed with air mattress.",
@@ -27,16 +37,6 @@
     "validTill": "06 Oct 2022",
     "ageInYears": 4,
     "dimensions": "102 x 218 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "112701",
-    "name": "Infant gate",
-    "description": "For use to prevent toddler from going into kitchen.",
-    "location": "Yishun, Sembawang",
-    "validTill": "30 Sep 2022",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -407,16 +407,6 @@
     "validTill": "15 Sep 2022",
     "ageInYears": 4,
     "dimensions": "19\" monitor",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "112313",
-    "name": "Hospital Bed",
-    "description": "Still in good working conditions",
-    "location": "Geylang, Eunos",
-    "validTill": "26 Sep 2022",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
