@@ -17,40 +17,6 @@
     "date": "08 Sep 2022"
   },
   {
-    "id": "112771",
-    "category": "Medical Aids",
-    "name": "Blood Pressure Measuring Device",
-    "description": "Client is a 65 year old male, has multiple medical conditions. Would benefit from a blood pressure measuring device to keep track of his own medical needs. Client is working as an odd-job worker, doing food-delivery. He has no social support from his family.",
-    "specifications": "small",
-    "contact": {
-      "org": "Whispering Hearts Family Service Centre",
-      "name": "Justin Waung",
-      "email": "justin@viriya.org.sg",
-      "phone": [
-        "67951008"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "08 Sep 2022"
-  },
-  {
-    "id": "112732",
-    "category": "Medical Aids",
-    "name": "Suction machine",
-    "description": "Mr A is an elderly client known to Thye Hua Kwan Moral Charities (THKMC). He is presently bedridden with multiple chronic condition. THKMC is looking for a suction machine. If you know of someone who has the items for donation, please contact Qhairah Qhaliesah (Case Manager) at 9177 6614 or Qhairahqhaliesah@thkmc.org.sg Since October 2011, THKMC was incorporated as a charity with an IPC status to provide multiple social and welfare services to the community at large. THKMC provides assistance to the Elderly, Families, Children & Youth, and Persons with Disabilities, through more than 70 programmes and services. THK Elderly Services Division provides many programmes and services to serve the elderly in need – one of which includes THK Cluster Support. THK Cluster Support provides social support through case management, monitoring, and basic counselling services to vulnerable seniors, and facilitates coordination in the provision of community-based care and support services to the seniors. This service aims to improve the quality of life of vulnerable seniors, particularly for low or no income seniors who are socially-isolated and have minimal or no family support.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Cluster Support @ Bedok",
-      "name": "Qhairah Qhaliesah",
-      "email": "qhairahqhaliesah@thkmc.org.sg",
-      "phone": [
-        "62418171"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "07 Sep 2022"
-  },
-  {
     "id": "112626",
     "category": "Medical Aids",
     "name": "Tena Diapers",
@@ -245,6 +211,60 @@
     "date": "17 Aug 2022"
   },
   {
+    "id": "112801",
+    "category": "Electrical Home Appliances",
+    "name": "Microwave (Halal)",
+    "description": "Client is a single mother with 2 young children. Client requires a microwave for ease of preparing meals. Client is currently unemployed due to caregiving needs and would appreciate if donor can bear delivery fees please. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Ng Yu Qing",
+      "email": null,
+      "phone": [
+        "67867366",
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Sep 2022"
+  },
+  {
+    "id": "112800",
+    "category": "Electrical Home Appliances",
+    "name": "Rice Cooker (New)",
+    "description": "Client is a 76-year-old elderly, amputee (with prostatic leg), on Public Assistance, living alone in one room rental flat. Client would like to have a new rice cooker as she is using gas stove to cook her rice, which is posting a danger as she quite forgetful.",
+    "specifications": "Rice cooker for 1 person",
+    "contact": {
+      "org": "Society For The Physically Disabled (SPD)",
+      "name": "Koh Yeng Yeng",
+      "email": "koh_yeng_yeng@spd.org.sg",
+      "phone": [
+        "65790750",
+        "65790700"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Sep 2022"
+  },
+  {
+    "id": "112797",
+    "category": "Electrical Home Appliances",
+    "name": "50/55 Inch TV",
+    "description": "Family has 6 children and one child was diagnosed with cancer. Family is in need of a working television. This will lighten their load as father is the sole breadwinner and the family is financially needy.",
+    "specifications": "50/55 inch or above",
+    "contact": {
+      "org": "AIN Society",
+      "name": "Norhashimah Binti Kamarudin",
+      "email": "shimah@ainsociety.org.sg",
+      "phone": [
+        "68485163",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Sep 2022"
+  },
+  {
     "id": "112784",
     "category": "Electrical Home Appliances",
     "name": "Old Television For Senior",
@@ -311,23 +331,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "08 Sep 2022"
-  },
-  {
-    "id": "112752",
-    "category": "Electrical Home Appliances",
-    "name": "Electric standing fan",
-    "description": "Client is a 50 year old man who stays with his wife and 5 children in a 2 room flexi unit. This is a low income household. Usually, they use a ceiling fan. However, as the children sleep on a double decker bed below the ceiling fan, this is an unsafe and accident-prone arrangement. The electric standing fan is for the household to use, so that they can keep the ceiling fan off and keep the environment safe for children.",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Covenant Family Service Centre - Hougang",
-      "name": "Chan Jun Ren",
-      "email": "chanjunren@mws.sg",
-      "phone": [
-        "62828558"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "07 Sep 2022"
   },
   {
     "id": "112749",
@@ -1626,6 +1629,24 @@
     "date": "10 Aug 2022"
   },
   {
+    "id": "112795",
+    "category": "Home Furnishing",
+    "name": "Mattress",
+    "description": "Looking for donors who can sponsor client a NEW single size mattress for the bed, preferably firm and not soft mattress. Elderly is on financial assistance. Current mattress has became thinner due to long period of use which is giving discomfort to elderly.",
+    "specifications": "Single size, firm",
+    "contact": {
+      "org": "NTUC Health Cluster Support @ Bukit Merah",
+      "name": "Nurul Ashikin Binte Samsuri",
+      "email": "ashikin.s@ntuchealth.sg",
+      "phone": [
+        "88175763",
+        "62741602"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Sep 2022"
+  },
+  {
     "id": "112764",
     "category": "Home Furnishing",
     "name": "kitchen cabinet",
@@ -2429,6 +2450,23 @@
     "date": "10 Aug 2022"
   },
   {
+    "id": "112796",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Low-income family of 3 young children (5 2 years old and infant child) requires milk powder to meet the children's basic needs. Wife is a full-time caregiver for her children and husband has just lost his job. Interested donors kindly contact annachan@carecorner.org.sg or 63658751. Thank you.",
+    "specifications": "Durgo Stage 3 & Dulac s Stage 1",
+    "contact": {
+      "org": "Care Corner Family Service Centre - Admiralty",
+      "name": "Juanna Sia",
+      "email": null,
+      "phone": [
+        "63658751"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "09 Sep 2022"
+  },
+  {
     "id": "112780",
     "category": "Infant and Children Items",
     "name": "Milk Powder",
@@ -2719,23 +2757,6 @@
       "phone": [
         "64546678",
         "64578559"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Sep 2022"
-  },
-  {
-    "id": "112662",
-    "category": "Infant and Children Items",
-    "name": "Diapers",
-    "description": "Low-income family of 3, just moved into a one room rental flat. Client just started on a new job and family is currently not financially stable at the moment. Client and wife would appreciate assistance acquiring items to help with caring for their 9-month infant. They are seeking a few packets of Merries Pants XL. For further liaison on delivery address etc, kindly WhatsApp/contact me at 98598768, thank you so much!",
-    "specifications": null,
-    "contact": {
-      "org": "PPIS Family Service Centre (East)",
-      "name": "Nur Afrina",
-      "email": "fsceast@ppis.sg",
-      "phone": [
-        "69503503"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
