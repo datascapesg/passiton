@@ -1,5 +1,15 @@
 [
   {
+    "id": "112859",
+    "name": "Iron",
+    "description": "Condition: lightly used\nThis a spare iron at home which is seldom used.",
+    "location": "Jurong",
+    "validTill": "12 Oct 2022",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "112845",
     "name": "Pediped kids shoes",
     "description": "Used shoes but in excellent condition.",
@@ -47,36 +57,6 @@
     "validTill": "10 Oct 2022",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "112833",
-    "name": "Bookcase",
-    "description": "White IKEA Billy Bookcase, good condition",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "22 Sep 2022",
-    "ageInYears": 3,
-    "dimensions": "80x28x202cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "112832",
-    "name": "Bookcase",
-    "description": "IKEA white Billy bookcase - good condition",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "22 Sep 2022",
-    "ageInYears": 3,
-    "dimensions": "80x28x202cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "112831",
-    "name": "Small cupboard",
-    "description": "Oak coloured cupboard in good condition. Bought from neighbourhood furniture shop.",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "10 Oct 2022",
-    "ageInYears": 4,
-    "dimensions": "175.5 H x 68 W x 44.5 D",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -297,16 +277,6 @@
     "validTill": "15 Sep 2022",
     "ageInYears": 4,
     "dimensions": "210Lx90D / 300Lx9D",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "112670",
-    "name": "DINING TABLE",
-    "description": "Marble Dining Table \nGood condition. As good as new",
-    "location": "Jurong",
-    "validTill": "30 Sep 2022",
-    "ageInYears": 3,
-    "dimensions": "L150cm W90cm H78cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
