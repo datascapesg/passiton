@@ -1,5 +1,35 @@
 [
   {
+    "id": "113020",
+    "name": "Fridge",
+    "description": "It's almost brand new . Dad only use it for 3 weeks b4 passing on.",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "17 Oct 2022",
+    "ageInYears": 1,
+    "dimensions": "545 W x 1560 H x 625 D",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "113019",
+    "name": "Geriatric Chair",
+    "description": "DNR Mobile Geriatric Chair with Drop Down Armrest",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "17 Oct 2022",
+    "ageInYears": 1,
+    "dimensions": "72 cm x 51cm x 20.5cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "113018",
+    "name": "Commode Stainless Steel Deluxe",
+    "description": "Stainless Steel Deluxe Commode with PVC Seat Cushion.",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "17 Oct 2022",
+    "ageInYears": 1,
+    "dimensions": "44.5cm x 44.5 cm x 53 cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "113017",
     "name": "Hospital Bed",
     "description": "An electric Bed with full position BM-03 W/4\" with a pressure relief air mattress 4\" APEX.",
