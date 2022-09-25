@@ -1,5 +1,15 @@
 [
   {
+    "id": "113344",
+    "name": "Tefal Oven",
+    "description": "Hardly used oven. Baked fishes and cupcakes only. 8 years old",
+    "location": "Yishun, Sembawang",
+    "validTill": "25 Oct 2022",
+    "ageInYears": 4,
+    "dimensions": "Width 40cm, Length 46cm, Ht 35cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "113342",
     "name": "Electronic keyboard",
     "description": "Inova Pro electronic keyboard",
@@ -277,6 +287,16 @@
     "validTill": "30 Sep 2022",
     "ageInYears": 1,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "113343",
+    "name": "Computer",
+    "description": "Sony Vio      15 inch \nIntel core i5\nWindow 7",
+    "location": null,
+    "validTill": "21 Oct 2022",
+    "ageInYears": 4,
+    "dimensions": "33 cm x 22 cm x 2 cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
