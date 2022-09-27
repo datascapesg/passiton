@@ -1,5 +1,15 @@
 [
   {
+    "id": "113432",
+    "name": "Electric Hospital Bed",
+    "description": "Electric Hospital bed < 1year",
+    "location": "Macpherson, Braddell",
+    "validTill": "27 Oct 2022",
+    "ageInYears": 1,
+    "dimensions": "+/- 1800mmx900mmx600mm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "113403",
     "name": "Small chair / stool",
     "description": "Small stool. Relatively good condition. Seldom used",
@@ -196,16 +206,6 @@
     "location": "Tampines, Pasir Ris",
     "validTill": "23 Oct 2022",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "113286",
-    "name": "3 seater faux leather sofa",
-    "description": "I am giving away the preloved sofa faux leather 3 seaters",
-    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-    "validTill": "05 Oct 2022",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -417,16 +417,6 @@
     "validTill": "30 Sep 2022",
     "ageInYears": 4,
     "dimensions": "185x93cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "113146",
-    "name": "Tv console",
-    "description": "All other items on TV console will be removed.",
-    "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
-    "validTill": "01 Oct 2022",
-    "ageInYears": 2,
-    "dimensions": "148x47x57cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
