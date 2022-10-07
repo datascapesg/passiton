@@ -1,17 +1,35 @@
 [
   {
-    "id": "113766",
+    "id": "113771",
     "category": "Electrical Home Appliances",
-    "name": "Refrigerator",
-    "description": "Client is a single parent of 2 young children going through divorce proceedings. She struggles financially as her husband has not been paying her regular maintenance. Her fridge is not working well and hopes to receive a working fridge for groceries.",
+    "name": "microwave oven",
+    "description": "Client who is on financial assistance requires a microwave oven. Prefers a small and compact oven as kitchen does not have enough space.",
+    "specifications": "small microwave",
+    "contact": {
+      "org": "NTUC Health Cluster Support @ Bukit Merah",
+      "name": "Nurul Ashikin Binte Samsuri",
+      "email": "ashikin.s@ntuchealth.sg",
+      "phone": [
+        "88175763",
+        "62741602"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Oct 2022"
+  },
+  {
+    "id": "113768",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Low-income family with 7 small children requested for a washing machine as theirs is spoiled. Family is struggling to manage the high volume of laundry without a proper washing machine.",
     "specifications": null,
     "contact": {
-      "org": "Fei Yue Family Service Centre @ Bukit Batok",
-      "name": "Wong Wing Sang",
-      "email": "wongwingsang@fycs.org",
+      "org": "Care Corner Family Service Centre - Toa Payoh",
+      "name": "Nur Hidayah Binte Abdul Rahim",
+      "email": "nurhidayah@carecorner.org.sg",
       "phone": [
-        "69784261",
-        "65690381"
+        "64506649",
+        "63561622"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -75,24 +93,6 @@
     "name": "WIFI Router",
     "description": "Client is a family of 5 members (3 of them are school-going children) have to evacuate to the current rental flat due to a recent fire broke out damaging their living hall and kitchen.\nHence, the family needed a WIFI router so that the family can use for their daily use.",
     "specifications": "WIFI Router",
-    "contact": {
-      "org": "MWS Family Service Centre - Yishun",
-      "name": "Amy Chua",
-      "email": "amychua@mws.sg",
-      "phone": [
-        "89010407",
-        "67564995"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "06 Oct 2022"
-  },
-  {
-    "id": "113749",
-    "category": "Electrical Home Appliances",
-    "name": "3 x Standing Fans",
-    "description": "Client is a family of 5 members (3 of them are school-going children) have to evacuate to the current rental flat due to a recent fire broke out damaging their living hall and kitchen.\nHence, they need 3 x standing fans for their new flat.",
-    "specifications": "3 x Standing Fans",
     "contact": {
       "org": "MWS Family Service Centre - Yishun",
       "name": "Amy Chua",
@@ -3174,6 +3174,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "06 Sep 2022"
+  },
+  {
+    "id": "113769",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Low-income family with 7 children does not have any wardrobe to keep their clothes in. A wardrobe would enable them to organize their house and prevent any hazard in the 2 room rental flat.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Toa Payoh",
+      "name": "Nur Hidayah Binte Abdul Rahim",
+      "email": "nurhidayah@carecorner.org.sg",
+      "phone": [
+        "64506649",
+        "63561622"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "07 Oct 2022"
   },
   {
     "id": "113762",
