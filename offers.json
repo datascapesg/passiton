@@ -90,16 +90,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "113858",
-    "name": "oven",
-    "description": "Cornel oven - well used. Good for baking cookies and heating food, toasting bread.",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "09 Nov 2022",
-    "ageInYears": 4,
-    "dimensions": "45cm X 30cmX 35cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "113847",
     "name": "desk",
     "description": "regular writing table",
@@ -836,6 +826,16 @@
     "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
     "validTill": "23 Oct 2022",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "113921",
+    "name": "Toddler Diapers, Refrigerator, Kids Study, Kitchenware",
+    "description": "NA",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "23 Oct 2022",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
