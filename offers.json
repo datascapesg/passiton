@@ -1,5 +1,15 @@
 [
   {
+    "id": "114387",
+    "name": "Electric motorcycle",
+    "description": "The power button needs to be tapped while using. Rechargeable button operated.",
+    "location": "Anson, Tanjong Pagar",
+    "validTill": "24 Nov 2022",
+    "ageInYears": 4,
+    "dimensions": "115cm x 40cm x 60cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "114380",
     "name": "Small 2-seater Sofa",
     "description": "Bought 1 an a half years ago. Seldom used. In excellent condition.",
@@ -67,16 +77,6 @@
     "validTill": "28 Oct 2022",
     "ageInYears": 2,
     "dimensions": "L60cm x W60cm x H40cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "114333",
-    "name": "Philips Electric Kettle HD4646",
-    "description": "well used but in good condition, am still using daily but recently received a new kettle as a gift from a friend so I am giving away this current one.",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "23 Nov 2022",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -176,16 +176,6 @@
     "location": "Yishun, Sembawang",
     "validTill": "23 Nov 2022",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "114379",
-    "name": "Top load washing machine 7kg",
-    "description": "Good condition working top load washing machine.",
-    "location": null,
-    "validTill": "05 Nov 2022",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
