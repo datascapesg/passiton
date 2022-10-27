@@ -1,12 +1,12 @@
 [
   {
-    "id": "114467",
-    "name": "Queen Size Mattress",
-    "description": "Not used at all",
+    "id": "114475",
+    "name": "Air mattress with pump",
+    "description": "To prevent bed sores for bedridden",
     "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-    "validTill": "10 Nov 2022",
-    "ageInYears": 1,
-    "dimensions": "152 cm x 190 cm",
+    "validTill": "26 Nov 2022",
+    "ageInYears": 2,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -240,16 +240,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "114322",
-    "name": "Study/Office/Work Chair (2 pcs)",
-    "description": "Two used office chairs. Both are in used condition, comfortable to sit on but have a worn seat cover (see photos). Completely functional and comfortable to sit in. Great for study chair.",
-    "location": "Orchard, Cairnhill, River Valley",
-    "validTill": "28 Oct 2022",
-    "ageInYears": 3,
-    "dimensions": "124cm (tall) 62cm (wide) 70cm (depth)",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "114319",
     "name": "Study Desk (2 Units)",
     "description": "2 Writing desks with 1 drawer each.\nStill in good condition.",
@@ -277,6 +267,26 @@
     "validTill": "15 Nov 2022",
     "ageInYears": 4,
     "dimensions": "207cm x 169cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "114476",
+    "name": "Bench with Shoe Rack",
+    "description": "Ikea Black Bench with Shoe Rack\n\nReference: https://www.ikea.com/sg/en/p/tjusig-bench-with-shoe-storage-black-10160861/",
+    "location": "Jurong",
+    "validTill": "23 Nov 2022",
+    "ageInYears": 3,
+    "dimensions": "108 x 34 x 50 cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "114477",
+    "name": "Bench with Shoe Rack",
+    "description": "Ikea Black Bench with Shoe Rack\n\nReference: https://www.ikea.com/sg/en/p/tjusig-bench-with-shoe-storage-black-10160861/",
+    "location": "Jurong",
+    "validTill": "23 Nov 2022",
+    "ageInYears": 3,
+    "dimensions": "108 x 34 x 50 cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
