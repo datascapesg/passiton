@@ -1,5 +1,25 @@
 [
   {
+    "id": "114604",
+    "name": "Single Bed w Mattress",
+    "description": "Single bed",
+    "location": "Orchard, Cairnhill, River Valley",
+    "validTill": "03 Nov 2022",
+    "ageInYears": 4,
+    "dimensions": "206x117x64 cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "114603",
+    "name": "Full-sized bed (super single)",
+    "description": "Double (super single) bed",
+    "location": "Orchard, Cairnhill, River Valley",
+    "validTill": "03 Nov 2022",
+    "ageInYears": 4,
+    "dimensions": "198X137X69 cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "114600",
     "name": "Medical aids",
     "description": "Call to make collection arrangement",
