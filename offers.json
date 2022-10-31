@@ -1,5 +1,15 @@
 [
   {
+    "id": "114706",
+    "name": "Hospital Bed",
+    "description": "Still in good working conditions",
+    "location": "Geylang, Eunos",
+    "validTill": "30 Nov 2022",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "114705",
     "name": "Art Decor for Wall - Black Stone",
     "description": "Black stone relief on classic beige background, framed and with fixture to hang on wall on back. Very elegant decorative piece.",
@@ -87,16 +97,6 @@
     "validTill": "30 Nov 2022",
     "ageInYears": 4,
     "dimensions": "160 cm x 80 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "114607",
-    "name": "Study Table",
-    "description": "Fairly new work / study table to make way for a bigger table.",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "30 Nov 2022",
-    "ageInYears": 2,
-    "dimensions": "151cm x 84cm x 73cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -826,16 +826,6 @@
     "location": "Watten Estate, Novena, Thomson",
     "validTill": "07 Nov 2022",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "113811",
-    "name": "writing table",
-    "description": "writing table from Ikea",
-    "location": "Watten Estate, Novena, Thomson",
-    "validTill": "07 Nov 2022",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
