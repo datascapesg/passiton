@@ -1,5 +1,25 @@
 [
   {
+    "id": "114720",
+    "name": "Study table and chair",
+    "description": "Study or office table and a chair",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "30 Nov 2022",
+    "ageInYears": 4,
+    "dimensions": "120x60x78cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "114717",
+    "name": "Seminar Office Chairs",
+    "description": "Hi there, \n\nThese are seminar office chairs and are all still in good working condition.\n\nPlease advise on the collection fee.\n\nThank you.",
+    "location": "Raffles Place, Cecil, Marina, People's Park",
+    "validTill": "11 Nov 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "114711",
     "name": "Mattress (Single-Size)",
     "description": "Mattress with Fitted Sheet (As Shown)",
@@ -10,32 +30,12 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "114710",
-    "name": "Glucerna Triple care Vanila",
-    "description": "1 tin of Glucerna Triple Care Vanilla flavour.Expiry 30 Dec 2023",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "30 Nov 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "114708",
     "name": "Queen size sofa bed",
     "description": "Its a queen size sofa bed.. comfortable bedding.. can give the 3 set of bedsheet.. pillow not included..",
     "location": null,
     "validTill": "09 Nov 2022",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "114707",
-    "name": "Kendamil Stage 2 Milk Powder",
-    "description": "2 tins of stage 2 milk powder Kendamil Organic",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "30 Nov 2022",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -177,16 +177,6 @@
     "validTill": "29 Nov 2022",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "114609",
-    "name": "Sofa 3-seater + mobile stool set",
-    "description": "Fibric sofa, 3-seater plus a mobile stool as a set, green color, lightly used. Sofa cover can be removed for washing. Available from Nov. 20.",
-    "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
-    "validTill": "28 Nov 2022",
-    "ageInYears": 2,
-    "dimensions": "2.6m x 0.95m x 0.7m",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -417,16 +407,6 @@
     "validTill": "24 Nov 2022",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "114387",
-    "name": "Electric motorcycle",
-    "description": "The power button needs to be tapped while using. Rechargeable button operated.",
-    "location": "Anson, Tanjong Pagar",
-    "validTill": "24 Nov 2022",
-    "ageInYears": 4,
-    "dimensions": "115cm x 40cm x 60cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
