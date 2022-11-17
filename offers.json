@@ -10,16 +10,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "115332",
-    "name": "TV Console",
-    "description": "TV Console in very good condition",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "28 Nov 2022",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "115330",
     "name": "Hospital Bed",
     "description": "Hospital bed with pressure mattress",
@@ -617,6 +607,26 @@
     "validTill": "27 Nov 2022",
     "ageInYears": 4,
     "dimensions": "Queen Size Bed",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "115345",
+    "name": "Curtain/Drape",
+    "description": "Pls take both, if you can.",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "27 Nov 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "115346",
+    "name": "Curtain/Drape",
+    "description": "Pls take both, if you can.",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "27 Nov 2022",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
