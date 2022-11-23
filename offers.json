@@ -60,26 +60,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "115512",
-    "name": "Basketball shoes",
-    "description": "Jordan basketball hi-top shoes in excellent condition. Very comfortable.",
-    "location": "Orchard, Cairnhill, River Valley",
-    "validTill": "25 Nov 2022",
-    "ageInYears": 1,
-    "dimensions": "Size UK 4 (US 4.5)",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "115511",
-    "name": "Boy’s walking shoes",
-    "description": "Boys walking shoes (Onitsuka Tiger), worn once.",
-    "location": "Orchard, Cairnhill, River Valley",
-    "validTill": "25 Nov 2022",
-    "ageInYears": 1,
-    "dimensions": "Size US 2",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "115510",
     "name": "Bed Frame-Queen",
     "description": "Please call to arrange 96162124",
@@ -90,16 +70,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "115509",
-    "name": "Adidas football boots",
-    "description": "Adidas football boots in excellent condition",
-    "location": "Orchard, Cairnhill, River Valley",
-    "validTill": "25 Nov 2022",
-    "ageInYears": 1,
-    "dimensions": "UK size 2 (US size 2.5)",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "115508",
     "name": "Bed Frame & Mattress",
     "description": "Please call to arrange 96162124",
@@ -107,36 +77,6 @@
     "validTill": "27 Nov 2022",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "115507",
-    "name": "Football boots",
-    "description": "Nike Tiempo football boots in excellent condition. Used once.",
-    "location": "Orchard, Cairnhill, River Valley",
-    "validTill": "25 Nov 2022",
-    "ageInYears": 1,
-    "dimensions": "Size 4 US (size 3.5 UK)",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "115506",
-    "name": "Brand new white school shoes",
-    "description": "Brand new white shoes, never worn. Price tag still attached. Suitable for school or sports.",
-    "location": "Orchard",
-    "validTill": "24 Nov 2022",
-    "ageInYears": 1,
-    "dimensions": "Size 7",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "115504",
-    "name": "Massage chair",
-    "description": "I want to donate this massage chair to familyies who need it as I seldom use. If you got a delivery transport can also advise me. Thanks.",
-    "location": null,
-    "validTill": "08 Dec 2022",
-    "ageInYears": 4,
-    "dimensions": "93.5cm/65cm/105cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -550,16 +490,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "115270",
-    "name": "Hospital bed and mattresses",
-    "description": "Included: hospital bed, mattress and air mattress, controller to elevate and lower the bed, as well as incline (change angle) of the legs and head, air pump for air mattress to prevent bed sores by alternating air pressures inside",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "15 Dec 2022",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "115268",
     "name": "Commode",
     "description": "Commode for the elderly, barely used.",
@@ -800,6 +730,26 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
+    "id": "115581",
+    "name": "Children's desk x 2 plus chairs",
+    "description": "An older version of the Moll desk with optional extension table (66cm)\n\nActual photos to follow.\n\nhttps://www.ergokid.com/collections/children-desks/products/moll-bandit-kids-desk",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "08 Dec 2022",
+    "ageInYears": 4,
+    "dimensions": "63cm depth x 115cm length",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "115582",
+    "name": "Children's desk x 2 plus chairs",
+    "description": "An older version of the Moll desk with optional extension table (66cm)\n\nActual photos to follow.\n\nhttps://www.ergokid.com/collections/children-desks/products/moll-bandit-kids-desk",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "08 Dec 2022",
+    "ageInYears": 4,
+    "dimensions": "63cm depth x 115cm length",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "114967",
     "name": "Queen Size Bed",
     "description": "Queen Size Bed w mattress",
@@ -1004,6 +954,26 @@
     "name": "Divan Bed",
     "description": "In good condition.",
     "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "27 Nov 2022",
+    "ageInYears": 4,
+    "dimensions": "Queen Size Bed",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "115583",
+    "name": "Wooden Bedframe (IKEA)",
+    "description": "In good condition.",
+    "location": null,
+    "validTill": "27 Nov 2022",
+    "ageInYears": 4,
+    "dimensions": "Queen Size Bed",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "115585",
+    "name": "Wooden Bedframe (IKEA)",
+    "description": "In good condition.",
+    "location": null,
     "validTill": "27 Nov 2022",
     "ageInYears": 4,
     "dimensions": "Queen Size Bed",
