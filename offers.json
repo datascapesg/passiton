@@ -1,5 +1,25 @@
 [
   {
+    "id": "115771",
+    "name": "Hospital Bed & Air Mattress",
+    "description": "Hospital bed with wooden dark brown head&food board and Yhmed air mattress 4.5\"",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "15 Dec 2022",
+    "ageInYears": 1,
+    "dimensions": "210 x 97 x 33 cms",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "115770",
+    "name": "Metal bed frame (single size)",
+    "description": "Metal bed frame (single).\nIt’s more than 5 years old but in good condition. Requires cleaning up",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "28 Dec 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "115766",
     "name": "Refrigerator",
     "description": "Fridge in good working condition. Can release the refrigerator when I move house by end March 2023",
@@ -72,16 +92,6 @@
   {
     "id": "115752",
     "name": "Fabric Sofa",
-    "description": "Item is more than 4 years old but in working condition",
-    "location": "Jurong",
-    "validTill": "16 Dec 2022",
-    "ageInYears": 4,
-    "dimensions": "Na",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "115751",
-    "name": "Samsung Fridge",
     "description": "Item is more than 4 years old but in working condition",
     "location": "Jurong",
     "validTill": "16 Dec 2022",
