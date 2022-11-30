@@ -1,5 +1,15 @@
 [
   {
+    "id": "115892",
+    "name": "dining table",
+    "description": "Dining table with stainless steel legs and glass top.",
+    "location": "Jurong",
+    "validTill": "11 Dec 2022",
+    "ageInYears": 4,
+    "dimensions": "140 x 82 x 75cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "115891",
     "name": "Queen sized storage bed with mattress",
     "description": "Storage space under bed, easy to lift. four star brand mattress",
@@ -530,16 +540,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "115546",
-    "name": "Bedsheet clips",
-    "description": "2 sets to bless",
-    "location": null,
-    "validTill": "01 Dec 2022",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "115539",
     "name": "Diabetmin 850, Metformin Tablet B.P. 850mg",
     "description": "Diabetmin 850, Metformin Tablet B.P. 850mg",
@@ -1005,16 +1005,6 @@
     "description": "Baby bath tub, not much used, as good as new",
     "location": "Queenstown, Tiong Bahru",
     "validTill": "02 Dec 2022",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "114741",
-    "name": "English Story Books (Primary)",
-    "description": "English Story Books for Primary School children to strengthen their reading and comprehension.",
-    "location": "Geylang, Eunos",
-    "validTill": "01 Dec 2022",
     "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
