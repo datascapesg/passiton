@@ -1,5 +1,15 @@
 [
   {
+    "id": "116485",
+    "name": "Air purifiers",
+    "description": "Novita air purifier",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "14 Jan 2023",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "116482",
     "name": "6 Dining Chairs",
     "description": "Lorenzo - Full Leather Dining Chair",
@@ -7,16 +17,6 @@
     "validTill": "31 Dec 2022",
     "ageInYears": 4,
     "dimensions": "48cm x 56cm x 105cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "116481",
-    "name": "Children’s clothing (1-2yo)",
-    "description": "Children’s clothings fairly new",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "31 Dec 2022",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -167,16 +167,6 @@
     "validTill": "31 Dec 2022",
     "ageInYears": 1,
     "dimensions": "60x120cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "116381",
-    "name": "Sewing machine",
-    "description": "Sewing machine in working condition",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "12 Jan 2023",
-    "ageInYears": 4,
-    "dimensions": "Small",
     "deliveryCostsCoveredByDonor": true
   },
   {
