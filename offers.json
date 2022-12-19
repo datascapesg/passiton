@@ -1,5 +1,25 @@
 [
   {
+    "id": "116588",
+    "name": "Single bed metal bed frame with wooden plank",
+    "description": "Metal bed frame",
+    "location": "Macpherson, Braddell",
+    "validTill": "31 Dec 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "116586",
+    "name": "IKEA Bed frame with mattress and 2 pillows",
+    "description": "Ikea bed frame with mattress. comes with 2 pillows, 2 sets of bedsheet and pillow covers.",
+    "location": "Queenstown, Tiong Bahru",
+    "validTill": "15 Jan 2023",
+    "ageInYears": 4,
+    "dimensions": "90cm x 200cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "116579",
     "name": "Dinning table with 4 chairs",
     "description": "Dinning table 162.5cm length by 91.5 cm width.",
@@ -16,6 +36,16 @@
     "location": null,
     "validTill": "18 Jan 2023",
     "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "116585",
+    "name": "TV console",
+    "description": "almost never used",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "21 Dec 2022",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -573,6 +603,26 @@
     "id": "116338",
     "name": "High table",
     "description": "High table that can be used for studying or eating at - needs to be paired with high chair(s) that is not included.\n\nPlease only request for beneficiary with genuine needs, and if VWO is able to collect from Punggol. Thank you!",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "21 Dec 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "116591",
+    "name": "Wooden dining table",
+    "description": "Sits at least 4 people\n\nPlease only request for beneficiary with genuine needs, and if VWO is able to collect from Punggol\n\nThank you",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "21 Dec 2022",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "116592",
+    "name": "Wooden dining table",
+    "description": "Sits at least 4 people\n\nPlease only request for beneficiary with genuine needs, and if VWO is able to collect from Punggol\n\nThank you",
     "location": "Serangoon Garden, Hougang, Ponggol",
     "validTill": "21 Dec 2022",
     "ageInYears": 4,
