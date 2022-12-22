@@ -384,18 +384,35 @@
     "date": "21 Nov 2022"
   },
   {
+    "id": "116723",
+    "category": "Electrical Home Appliances",
+    "name": "Television",
+    "description": "Senior stays at home largely due to limited mobility. His TV has broken down, looking for 1 to replace the faulty set. Open to second hand (good condition).",
+    "specifications": null,
+    "contact": {
+      "org": "Filos Community Services Ltd",
+      "name": "Petrina Lee",
+      "email": "petrina@filos.sg",
+      "phone": [
+        "62411503",
+        "62425978"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Dec 2022"
+  },
+  {
     "id": "116717",
     "category": "Electrical Home Appliances",
     "name": "Television",
     "description": "Widowed elderly with 2 special needs children who require a working TV as the one they had for 10+ years is not working anymore.",
     "specifications": null,
     "contact": {
-      "org": "AWWA Family Service Centre",
+      "org": "AWWA Integrated Home and Day Care",
       "name": "Eva Chia",
       "email": "eva_chia@awwa.org.sg",
       "phone": [
-        "65115250",
-        "65119456"
+        "65115250"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -1077,23 +1094,6 @@
       "email": "shirleychiew@lovingheart.org.sg",
       "phone": [
         "68972646"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Dec 2022"
-  },
-  {
-    "id": "116206",
-    "category": "Electrical Home Appliances",
-    "name": "Halal Fridge",
-    "description": "Single mother of 2 young children requires a fridge to replace current one which has problem. Family has tight financial situation and under financial assistance. They are unable to get a replacement.",
-    "specifications": null,
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Ye Jiancheng",
-      "email": "jiancheng@sccfsc.org.sg",
-      "phone": [
-        "64619200"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -2011,6 +2011,96 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "23 Nov 2022"
+  },
+  {
+    "id": "116727",
+    "category": "Infant and Children Items",
+    "name": "Karihome stage 3 milk powder",
+    "description": "Client (F/22) is a young mom and full-time caregiver to 3 young children (F/3) and (M/1) and (F/3 months). The family is relying on SSO financial assistance to meet their needs. Client's spouse has a heart condition and has been working part-time to supplement the family's expenses.",
+    "specifications": "2 tins",
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Regine Yeo",
+      "email": "regine.yeo@ppis.sg",
+      "phone": [
+        "65613462ext519",
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Dec 2022"
+  },
+  {
+    "id": "116726",
+    "category": "Infant and Children Items",
+    "name": "Karihome stage 1 milk powder",
+    "description": "Client (F/22) is a young mom and full-time caregiver to 3 young children (F/3) and (M/1) and (F/3 months). The family is relying on SSO financial assistance to meet their needs. Client's spouse has a heart condition and has been working part-time to supplement the family's expenses.",
+    "specifications": "2 tins",
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Regine Yeo",
+      "email": "regine.yeo@ppis.sg",
+      "phone": [
+        "65613462ext519",
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Dec 2022"
+  },
+  {
+    "id": "116725",
+    "category": "Infant and Children Items",
+    "name": "Huggies S tape diapers",
+    "description": "Client (F/22) is a young mom and full-time caregiver to 3 young children (F/3) and (M/1) and (F/3 months). The family is relying on SSO financial assistance to meet their needs. Client's spouse has a heart condition and has been working part-time to supplement the family's expenses.",
+    "specifications": "2 packs",
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Regine Yeo",
+      "email": "regine.yeo@ppis.sg",
+      "phone": [
+        "65613462ext519",
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Dec 2022"
+  },
+  {
+    "id": "116724",
+    "category": "Infant and Children Items",
+    "name": "Huggies XL pull up diapers",
+    "description": "Client (F/22) is a young mom and full-time caregiver to 3 young children (F/3) and (M/1) and (F/3 months). The family is relying on SSO financial assistance to meet their needs. Client's spouse has a heart condition and has been working part-time to supplement the family's expenses.",
+    "specifications": "4 packs",
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Regine Yeo",
+      "email": "regine.yeo@ppis.sg",
+      "phone": [
+        "65613462ext519",
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Dec 2022"
+  },
+  {
+    "id": "116722",
+    "category": "Infant and Children Items",
+    "name": "regine.yeo@ppis.sg",
+    "description": "Huggies XL pull up diapers 2 packs",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Regine Yeo",
+      "email": "regine.yeo@ppis.sg",
+      "phone": [
+        "65613462ext519",
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Dec 2022"
   },
   {
     "id": "116716",
@@ -4345,6 +4435,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "22 Nov 2022"
+  },
+  {
+    "id": "116728",
+    "category": "Medical Aids",
+    "name": "Adult Diapers",
+    "description": "Family has a young daughter and a 2 year old son and elderly mother to take care of. The sole breadwinner of the family is having difficulties working as he has a pre-existing medical conditions and met with an accident 2 years ago. Their elder mother is diagnosed with multiple medical condition and has to be on adult diapers. The family is having difficulties coping with the monthly expenses in the family. They require assistance with the adult diapers for their elder mother. Please find source, brand and size of the diaper in link below: https://www.medicalsupplies.com.sg/adult-diapers/2424-1395-pants-super-id-medium-80cm-120cm-14-s-pk#/58-size-xtra_large",
+    "specifications": "Super ID pants XL",
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Cheng San",
+      "name": "Nur Farisha",
+      "email": "nurfarisha@amkfsc.org.sg",
+      "phone": [
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Dec 2022"
   },
   {
     "id": "116364",
