@@ -1,10 +1,10 @@
 [
   {
-    "id": "116743",
+    "id": "116746",
     "category": "Home Furnishing",
     "name": "Sofa",
-    "description": "Client is currently living with her 2 school going children and her spouse. She is the main caregiver for her children with special needs hence is unable to gain employment, and is only relying on her husband who is a Part Time deliverer. The family's income is dependent on his daily assignments received. Client is unable to afford a new sofa as her current sofa is spoilt.",
-    "specifications": "2 seater",
+    "description": "Client and his wife are both employed and have 6 children, 2 of which are below 6 years old. The rest of his kids are schooling or enrolled into the army. As the family has limited financial resources due to caring for the youngest 2 children, they require a new sofa as their current one has spoilt due to wear and tear.",
+    "specifications": "3 Seater Sofa",
     "contact": {
       "org": "AMKFSC Community Services Ltd - Cheng San",
       "name": "Nur Farisha",
@@ -384,6 +384,23 @@
     "date": "21 Nov 2022"
   },
   {
+    "id": "116747",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Family of 5 is requesting for a replacement TV as their current one had broken down. Mother is main caregiver of her elderly parent and young child. Due to caregiving commitments, she is unable to secure a job and the family is dependent on husband's income. As such, this limits the family's financial capacity to purchase a TV themselves. Family hopes to be blessed with a TV. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Cheng San",
+      "name": "Nur Farisha",
+      "email": "nurfarisha@amkfsc.org.sg",
+      "phone": [
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Dec 2022"
+  },
+  {
     "id": "116742",
     "category": "Electrical Home Appliances",
     "name": "A roller toaster",
@@ -396,23 +413,6 @@
       "phone": [
         "67184081",
         "62832204"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Dec 2022"
-  },
-  {
-    "id": "116738",
-    "category": "Electrical Home Appliances",
-    "name": "Floor Lamp",
-    "description": "Elderly couple living alone, currently unemployed due to old age. Couple has been showering in the dark and relying on one of the light bulbs at home to maneuver their way around at home. Unable to afford a new lamp.",
-    "specifications": "Battery operated",
-    "contact": {
-      "org": "AMKFSC Community Services Ltd - Cheng San",
-      "name": "Nur Farisha",
-      "email": "nurfarisha@amkfsc.org.sg",
-      "phone": [
-        "64578559"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -2098,6 +2098,76 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "23 Nov 2022"
+  },
+  {
+    "id": "116752",
+    "category": "Infant and Children Items",
+    "name": "2 x Dryper Pants type L size",
+    "description": "Single mum of 3 special needs child is living in a rental unit requires support with milk powder and diapers. Her husband is currently incarcerated and she is unable to work due to the high caregiving demands of the 3 special needs children.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Cheng San",
+      "name": "Choong Ying",
+      "email": "choongying@amkfsc.org.sg",
+      "phone": [
+        "64546678",
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Dec 2022"
+  },
+  {
+    "id": "116751",
+    "category": "Infant and Children Items",
+    "name": "2 x Grow Stage 4 Milk powder",
+    "description": "Single mum of 3 special needs child is living in a rental unit requires support with milk powder and diapers. Her husband is currently incarcerated and she is unable to work due to the high caregiving demands of the 3 special needs children.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Cheng San",
+      "name": "Choong Ying",
+      "email": "choongying@amkfsc.org.sg",
+      "phone": [
+        "64546678",
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Dec 2022"
+  },
+  {
+    "id": "116750",
+    "category": "Infant and Children Items",
+    "name": "Dypers DryPantz",
+    "description": "Mum who is taking care of 3 children (7, 5 and 2 years old) is requesting for Lactogen 3 milk powder and Drypers Diaper pants (size XL) for youngest child. She currently only has sufficient supply until around 31 Dec. Client is unable to engage in work as she is the sole caregiver for her children and one of her children has developmental delays.",
+    "specifications": "XL 4 pkts",
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Cheng San",
+      "name": "Nur Farisha",
+      "email": "nurfarisha@amkfsc.org.sg",
+      "phone": [
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Dec 2022"
+  },
+  {
+    "id": "116749",
+    "category": "Infant and Children Items",
+    "name": "Lactogen 3 Milk Powder",
+    "description": "Mum who is taking care of 3 children (7, 5 and 2 years old) is requesting for Lactogen 3 milk powder and Drypers Diaper pants (size XL) for youngest child. She currently only has sufficient supply until around 31 Dec. Client is unable to engage in work as she is the sole caregiver for her children and one of her children has developmental delays.",
+    "specifications": "2 tins",
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Cheng San",
+      "name": "Nur Farisha",
+      "email": "nurfarisha@amkfsc.org.sg",
+      "phone": [
+        "64578559"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Dec 2022"
   },
   {
     "id": "116741",
@@ -4464,24 +4534,6 @@
       ]
     },
     "deliveryCostsCoveredByDonor": true,
-    "date": "22 Dec 2022"
-  },
-  {
-    "id": "116703",
-    "category": "Mobility Aids",
-    "name": "Walking Stick",
-    "description": "Client has multiple health conditions and requires a walking stick to aid her walking as she is unable to stand for long periods and prone to falling. She has regular appointments to follow-up with her medical needs. Family has 2 children (1 school-going and another is presently caring for client) and her husband is working full-time as a kitchen helper.",
-    "specifications": null,
-    "contact": {
-      "org": "MSF Social Service Office @ Kreta Ayer",
-      "name": "Dhaifina Dasri",
-      "email": "dhaifina_dasri@msf.gov.sg",
-      "phone": [
-        "60138546",
-        "1800-222-0000"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
     "date": "22 Dec 2022"
   },
   {
