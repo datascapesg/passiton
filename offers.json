@@ -1,5 +1,15 @@
 [
   {
+    "id": "116791",
+    "name": "Washing Machine",
+    "description": "Working condition except ON/OFF hvg issue at time",
+    "location": "Queenstown, Tiong Bahru",
+    "validTill": "24 Dec 2022",
+    "ageInYears": 3,
+    "dimensions": "W600xD550xH850",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "116789",
     "name": "Grey 3-Seater Leather Sofa",
     "description": "In good / brand new condition",
@@ -45,16 +55,6 @@
     "description": "Old utensils but clean and in good condition",
     "location": "Macpherson, Braddell",
     "validTill": "21 Jan 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "116768",
-    "name": "Shoe cabinet from IKEA x2",
-    "description": "Used Shoe cabinets. \nGood condition as cabinets are placed indoor. \n1 cabinet can put 12 pairs.",
-    "location": "Orchard, Cairnhill, River Valley",
-    "validTill": "15 Jan 2023",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
@@ -117,16 +117,6 @@
     "validTill": "20 Jan 2023",
     "ageInYears": 4,
     "dimensions": "Nil",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "116693",
-    "name": "Hospital bed",
-    "description": "Need to dispose by 30 Dec 22",
-    "location": null,
-    "validTill": "30 Dec 2022",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -487,16 +477,6 @@
     "validTill": "13 Jan 2023",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "116404",
-    "name": "Ikea Vitval loft bed frame",
-    "description": "Without mattress\nStill very new and clean",
-    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-    "validTill": "02 Jan 2023",
-    "ageInYears": 1,
-    "dimensions": "207 x 97 x 195",
     "deliveryCostsCoveredByDonor": true
   },
   {
