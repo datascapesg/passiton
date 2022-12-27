@@ -1,5 +1,65 @@
 [
   {
+    "id": "116903",
+    "name": "Cabinet",
+    "description": "Solid wood, in good condition",
+    "location": "Jurong",
+    "validTill": "11 Jan 2023",
+    "ageInYears": 4,
+    "dimensions": "100*60*90cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "116901",
+    "name": "Sofa",
+    "description": "3 seater plus 1 seater. Leather but the leather of seating area got cracks. Main structure still good.",
+    "location": "Jurong",
+    "validTill": "11 Jan 2023",
+    "ageInYears": 4,
+    "dimensions": "200*90*70cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "116900",
+    "name": "Dining table",
+    "description": "Extended dining table with some stains and scratches on it.",
+    "location": "Jurong",
+    "validTill": "11 Jan 2023",
+    "ageInYears": 4,
+    "dimensions": "160(180)*90*75cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "116899",
+    "name": "Wardrobe",
+    "description": "Solid ply wood",
+    "location": "Jurong",
+    "validTill": "11 Jan 2023",
+    "ageInYears": 4,
+    "dimensions": "200*60*230cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "116898",
+    "name": "Wardrobe",
+    "description": "Solid wood",
+    "location": "Jurong",
+    "validTill": "11 Jan 2023",
+    "ageInYears": 4,
+    "dimensions": "220*65*250cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "116896",
+    "name": "King size bed with mattress",
+    "description": "Solid wood bed",
+    "location": "Jurong",
+    "validTill": "11 Jan 2023",
+    "ageInYears": 4,
+    "dimensions": "220*180*60cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "116894",
     "name": "Sturdy Wooden Bed Frame with Safety Rail",
     "description": "Low wooden bed frame, sturdy wood, custom made.\nComes with adjustable safety rail for fall prevention.\nAble to fit another pullout mattress below.",
@@ -380,16 +440,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "116824",
-    "name": "Single Mattress and Storage Bed Frame",
-    "description": "Functional Mattress and Storage Bed Frame.",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "10 Jan 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "116823",
     "name": "Baby girl clothes",
     "description": "Most are Preloved, some are brand new.",
@@ -416,16 +466,6 @@
     "location": "Yishun, Sembawang",
     "validTill": "24 Jan 2023",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "116818",
-    "name": "Single bed and mattress",
-    "description": "Single wooden bed frame with single mattress",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "10 Jan 2023",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
