@@ -1,11 +1,31 @@
 [
   {
-    "id": "116851",
-    "name": "Washing machine",
-    "description": "2018 made Sharp Washing Machine \n\nStill in good working condition",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "08 Jan 2023",
+    "id": "116855",
+    "name": "Stretching Rope",
+    "description": "For arms and legs stretching",
+    "location": "Jurong",
+    "validTill": "26 Jan 2023",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "116854",
+    "name": "Biege Leather Sofa",
+    "description": "Good condition 2.5 seater sofa bed.",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "29 Dec 2022",
     "ageInYears": 4,
+    "dimensions": "180cm x 90 x 50",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "116852",
+    "name": "Printer, monitor, computer table and chair",
+    "description": "Printer, monitor, chair and PC Table available.\nIf keen please WhatsApp for delivery.\nThanks.",
+    "location": null,
+    "validTill": "09 Jan 2023",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
