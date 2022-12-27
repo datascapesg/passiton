@@ -1,5 +1,15 @@
 [
   {
+    "id": "116879",
+    "name": "Display (Fu-Lu-Shou)",
+    "description": "Delivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "26 Jan 2023",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "116875",
     "name": "Book shelf",
     "description": "Wood shelves",
@@ -113,16 +123,6 @@
     "id": "116863",
     "name": "Solid Wood Table with benches and Stools",
     "description": "Solid wood table with 2 matching benches and 2 stools",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "26 Jan 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "116862",
-    "name": "Toshiba 9kg Washing Machine",
-    "description": "Top load 9kg",
     "location": "Serangoon Garden, Hougang, Ponggol",
     "validTill": "26 Jan 2023",
     "ageInYears": 4,
