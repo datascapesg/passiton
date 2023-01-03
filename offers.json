@@ -320,16 +320,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "117050",
-    "name": "Stroller",
-    "description": "I have two stroller",
-    "location": "Macpherson, Braddell",
-    "validTill": "29 Jan 2023",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "117049",
     "name": "Hospital bed with circulation mattress",
     "description": "A very good condition electric hospital bed with circulation mattress.",
@@ -673,6 +663,16 @@
     "id": "116866",
     "name": "Single bed with raised bed frame",
     "description": "Single size bed with frame raised for additional space",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "26 Jan 2023",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "117134",
+    "name": "King size bed",
+    "description": "King Size bed with 2 matching side tables",
     "location": "Serangoon Garden, Hougang, Ponggol",
     "validTill": "26 Jan 2023",
     "ageInYears": 3,
