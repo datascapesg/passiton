@@ -680,16 +680,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "117082",
-    "name": "Running Shoes",
-    "description": "Kid running shoes\nUS 7Y",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "31 Jan 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "117078",
     "name": "Large pot 30L",
     "description": "This is a very large pot for 30 liters. Only stove cooking (not induction)",
@@ -1104,6 +1094,16 @@
     "name": "32W Circular Tube Light",
     "description": "Qty:3 (2 used,1 new)\nCircular lights were no longer needed because lamps have been replaced",
     "location": "Bishan, Ang Mo Kio",
+    "validTill": "19 Jan 2023",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "117610",
+    "name": "sports shoes",
+    "description": "size: UK 10, US11\nNew pair of Saucony sports shoes",
+    "location": "Telok Blangah, Harbourfront",
     "validTill": "19 Jan 2023",
     "ageInYears": 1,
     "dimensions": null,
