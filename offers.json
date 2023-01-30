@@ -1,11 +1,21 @@
 [
   {
-    "id": "118083",
-    "name": "Hair dryer",
-    "description": "“Cold air” function is not working.\n\nDelivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "28 Feb 2023",
-    "ageInYears": 2,
+    "id": "118088",
+    "name": "DeVilbiss 5L- Oxygen Concentrator",
+    "description": "5L DeVilbiss medical Oxygen Concentrator for patients with breathing difficulties.",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "01 Mar 2023",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "118087",
+    "name": "DeVilbiss 5L- Oxygen Concentrator",
+    "description": "5L DeVilbiss medical Oxygen Concentrator for patients with breathing difficulties.",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "01 Mar 2023",
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -110,16 +120,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "118032",
-    "name": "Small shoe cabinet",
-    "description": "Small, short shoe cabinet",
-    "location": "Jurong",
-    "validTill": "28 Feb 2023",
-    "ageInYears": 3,
-    "dimensions": "23.6\" x 9.4\" x 31.5\"",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "118031",
     "name": "Kitchenwares",
     "description": "- Kitchen wares\n- Wok (can come with lid but it was not a set with the wok)\n- Pot (with lid)\n***Non-halal",
@@ -213,16 +213,6 @@
     "id": "118015",
     "name": "Hospital bed",
     "description": "Only used for 2 days before elderly went back to hospital. New",
-    "location": "Loyang, Changi",
-    "validTill": "27 Feb 2023",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "118059",
-    "name": "Adult Diapers Male M",
-    "description": "Diapers",
     "location": "Loyang, Changi",
     "validTill": "27 Feb 2023",
     "ageInYears": 1,
