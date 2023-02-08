@@ -1615,40 +1615,6 @@
     "date": "09 Jan 2023"
   },
   {
-    "id": "114654",
-    "category": "Home Furnishing",
-    "name": "Wardobe (PVC with zipper)",
-    "description": "Person is living alone and currently does not have a source of income, is solely depending on financial assistance. Person has a strained relationship with family, and has just gotten a rental flat. Person is hoping kind assistance for items/furniture for the rental flat. For further liaison, kindly contact me at 9122-4351, thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "MontfortCare - Marine Parade Family Service Centre",
-      "name": "Cindy Chiang",
-      "email": "cindy.chiang@montfortcare.org.sg",
-      "phone": [
-        "64450100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Jan 2023"
-  },
-  {
-    "id": "117331",
-    "category": "Home Furnishing",
-    "name": "Wardrobe",
-    "description": "Client is a single father to two children. Client managed to get a rental flat for himself and his children who has been living apart from him. Client needs a wardrobe for his children.",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore Children's Society - Yishun FSC",
-      "name": "Dini Dzulaikha Bte Dzulkifli",
-      "email": null,
-      "phone": [
-        "67537331"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Jan 2023"
-  },
-  {
     "id": "118472",
     "category": "Electrical Home Appliances",
     "name": "Vacuum cleaner",
@@ -5809,76 +5775,6 @@
     "date": "19 Jan 2023"
   },
   {
-    "id": "118455",
-    "category": "Kitchen Utility Items",
-    "name": "Induction cooker",
-    "description": "Client is an elderly man in his 80s. He lives with with wife and daughter. The 3 of them are unemployed due to their chronic medical conditions. Their stove has been spoilt for a long time and have been relying on the microwave to cook simple meals/heat up food.",
-    "specifications": null,
-    "contact": {
-      "org": "FRCS Family Service Centre - Clementi",
-      "name": "Hillary Heng",
-      "email": "hillary@frcsfsc.sg",
-      "phone": [
-        "67799488ext54",
-        "67799488"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Feb 2023"
-  },
-  {
-    "id": "117946",
-    "category": "Kitchen Utility Items",
-    "name": "cooking stove with table",
-    "description": "Client is a mental health patient residing in a one room rental flat with his older brother. They are both on financial assistance. They have recently been relocated to another rental flat in Punggol. They moved over with not much furniture. They require a cooking stove with table (preferred dimensions as above). It will be placed next to the sink in their one room flat kitchen.",
-    "specifications": "31 inches in height and 20 inches in length (table)length",
-    "contact": {
-      "org": "REACH Family Service Centre",
-      "name": "Jerry Leon Kasman",
-      "email": "jerry.leon@reach.org.sg",
-      "phone": [
-        "68010712",
-        "62522566"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Jan 2023"
-  },
-  {
-    "id": "117892",
-    "category": "Kitchen Utility Items",
-    "name": "Kitchen Stove",
-    "description": "Client is a single mother with two children, 8 and 6 years old. Client is heavily dependent on SSO financial assistance as she struggles to secure a stable employment due to her caregiving responsibilities. Client has reportedly started her parcel delivery part time job to help her brother deliver parcels, however there have been lesser parcels to deliver for the month of December. Client’s kitchen cabinet was reported to be infested with ants and one of the hobs on her kitchen stove is faulty but the other is still useable. Client’s sofa broke and she requires a new sofa as they have been sitting on the floor ever since. Client’s fridge is also faulty as the fridge is not cold. The items do not have to be a new, as long as they are not faulty and are functioning well.",
-    "specifications": null,
-    "contact": {
-      "org": "Sembawang Family Service Centre",
-      "name": "Po Woei Yee",
-      "email": "powoeiyee@sfsc.org.sg",
-      "phone": [
-        "67547050"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "25 Jan 2023"
-  },
-  {
-    "id": "117345",
-    "category": "Kitchen Utility Items",
-    "name": "Stainless Steel Faucet Extender",
-    "description": "Person is living alone and currently does not have a source of income, is solely depending on financial assistance. Person has a strained relationship with family, and has just gotten a rental flat. Person is hoping kind assistance for items/furniture for the rental flat. For further liaison, kindly contact me at 9122-4351, thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "MontfortCare - Marine Parade Family Service Centre",
-      "name": "Cindy Chiang",
-      "email": "cindy.chiang@montfortcare.org.sg",
-      "phone": [
-        "64450100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "08 Jan 2023"
-  },
-  {
     "id": "118473",
     "category": "Mobility Aids",
     "name": "Lightweight wheelchair",
@@ -6352,5 +6248,58 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "19 Jan 2023"
+  },
+  {
+    "id": "118455",
+    "category": "Kitchen Utility Items",
+    "name": "Induction cooker",
+    "description": "Client is an elderly man in his 80s. He lives with with wife and daughter. The 3 of them are unemployed due to their chronic medical conditions. Their stove has been spoilt for a long time and have been relying on the microwave to cook simple meals/heat up food.",
+    "specifications": null,
+    "contact": {
+      "org": "FRCS Family Service Centre - Clementi",
+      "name": "Hillary Heng",
+      "email": "hillary@frcsfsc.sg",
+      "phone": [
+        "67799488ext54",
+        "67799488"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 Feb 2023"
+  },
+  {
+    "id": "117946",
+    "category": "Kitchen Utility Items",
+    "name": "cooking stove with table",
+    "description": "Client is a mental health patient residing in a one room rental flat with his older brother. They are both on financial assistance. They have recently been relocated to another rental flat in Punggol. They moved over with not much furniture. They require a cooking stove with table (preferred dimensions as above). It will be placed next to the sink in their one room flat kitchen.",
+    "specifications": "31 inches in height and 20 inches in length (table)length",
+    "contact": {
+      "org": "REACH Family Service Centre",
+      "name": "Jerry Leon Kasman",
+      "email": "jerry.leon@reach.org.sg",
+      "phone": [
+        "68010712",
+        "62522566"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Jan 2023"
+  },
+  {
+    "id": "117892",
+    "category": "Kitchen Utility Items",
+    "name": "Kitchen Stove",
+    "description": "Client is a single mother with two children, 8 and 6 years old. Client is heavily dependent on SSO financial assistance as she struggles to secure a stable employment due to her caregiving responsibilities. Client has reportedly started her parcel delivery part time job to help her brother deliver parcels, however there have been lesser parcels to deliver for the month of December. Client’s kitchen cabinet was reported to be infested with ants and one of the hobs on her kitchen stove is faulty but the other is still useable. Client’s sofa broke and she requires a new sofa as they have been sitting on the floor ever since. Client’s fridge is also faulty as the fridge is not cold. The items do not have to be a new, as long as they are not faulty and are functioning well.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Jan 2023"
   }
 ]
