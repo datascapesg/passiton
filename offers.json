@@ -1,5 +1,55 @@
 [
   {
+    "id": "118539",
+    "name": "Samsonite backpack",
+    "description": "Good durable bag. Still in good condition.",
+    "location": "Queenstown, Tiong Bahru",
+    "validTill": "12 Mar 2023",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "118538",
+    "name": "Royal Umbrella Rice",
+    "description": "10kg x 2",
+    "location": "Orchard, Cairnhill, River Valley",
+    "validTill": "12 Mar 2023",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "118537",
+    "name": "Dining Table with 3 Chairs",
+    "description": "Square Dining Table with 3 chairs. Used in good condition. \n\nAvailable for delivery after 1 March.",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "10 Mar 2023",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "118536",
+    "name": "Queen Size Bed Frame",
+    "description": "Queen Size Bed Frame. No Mattress. Used, in good condition. Can lift up for storage. \n\nAvailable after 1 March.",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "12 Mar 2023",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "118535",
+    "name": "Washing Machine",
+    "description": "Used in good working condition, comes with dryer function. \n\nAvailable for delivery after 1st March.",
+    "location": null,
+    "validTill": "10 Mar 2023",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "118533",
     "name": "2 seater sofa",
     "description": "Used, good condition 2 seater sofa. It is electric, can plug it and tilt for back rest and leg rest.",
@@ -67,16 +117,6 @@
     "validTill": "12 Feb 2023",
     "ageInYears": 1,
     "dimensions": "100 x 50 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "118514",
-    "name": "Asus Zenfone 2 Laser ZE601KL",
-    "description": "Functioning Asus smartphone with new changeable battery installed. Power button is unfortunately broken, but phone can still be powered on and off using a thin object eg fingernail. These are the specifications : https://m.gsmarena.com/asus_zenfone_2_laser_ze601kl-7479.php",
-    "location": "Geylang, Eunos",
-    "validTill": "12 Mar 2023",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
