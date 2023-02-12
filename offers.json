@@ -1,5 +1,15 @@
 [
   {
+    "id": "118586",
+    "name": "Hospital Bed and Mattresd",
+    "description": "Hospital bed and Hospital mattress",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "19 Feb 2023",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "118585",
     "name": "Wheelchair",
     "description": "Please do come and collect the wheelchair.",
@@ -316,16 +326,6 @@
     "location": "Queenstown, Tiong Bahru",
     "validTill": "09 Mar 2023",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "118387",
-    "name": "3L electric kettle",
-    "description": "Kettle still in good condition. Clearing space in stored room.",
-    "location": "Telok Blangah, Harbourfront",
-    "validTill": "09 Mar 2023",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
