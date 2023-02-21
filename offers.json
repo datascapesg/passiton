@@ -1,5 +1,35 @@
 [
   {
+    "id": "118908",
+    "name": "IKEA KLIPPAN 2 Seater Sofa",
+    "description": "IKEA KLIPPAN 2 Seater Sofa",
+    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+    "validTill": "23 Mar 2023",
+    "ageInYears": 4,
+    "dimensions": "WxDxH, 180cmx88cmx66cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "118907",
+    "name": "Grey Recliner Armchair",
+    "description": "A recliner armchair that is still in good condition.\nGreat for nursing mothers or elderly who needs a comfortable chair to relax.",
+    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+    "validTill": "23 Mar 2023",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "118904",
+    "name": "Full Glass Coffee Table",
+    "description": "Well used",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "20 Mar 2023",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "118899",
     "name": "3 seater sofa",
     "description": "3 seater sofa, about 6 years old but lightly used. Giving up due to home renovations.",
@@ -77,16 +107,6 @@
     "validTill": "21 Mar 2023",
     "ageInYears": 4,
     "dimensions": "W34cmx 42cmH",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "118835",
-    "name": "Stroller",
-    "description": "maxi cosi mila stroller.  lightly used, very clean.",
-    "location": "Jurong",
-    "validTill": "21 Mar 2023",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -260,16 +280,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "118787",
-    "name": "Queen size bed with mattress.",
-    "description": "Almost new Queen size bed with mattress",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "28 Feb 2023",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "118785",
     "name": "Sodium Chloride Intravenous Infusion B.P. Normal Saline",
     "description": "We have one bottle of the Sodium Chloride Intravenous Infusion B.P. Normal Saline to bless.\nExpiry date: 24 Feb 25",
@@ -307,6 +317,26 @@
     "validTill": "17 Mar 2023",
     "ageInYears": 4,
     "dimensions": "(LxWxH) 36.5x16x21cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "118905",
+    "name": "Dining Table & Chairs",
+    "description": "Chairs have some defects on the cover as shown",
+    "location": null,
+    "validTill": "17 Mar 2023",
+    "ageInYears": 4,
+    "dimensions": "160cm x 85cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "118906",
+    "name": "Dining Table & Chairs",
+    "description": "Chairs have some defects on the cover as shown",
+    "location": null,
+    "validTill": "17 Mar 2023",
+    "ageInYears": 4,
+    "dimensions": "160cm x 85cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
