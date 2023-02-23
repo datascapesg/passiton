@@ -1,5 +1,25 @@
 [
   {
+    "id": "119006",
+    "name": "Electric Oven",
+    "description": "1 year + old oven. lightly used.",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "01 Mar 2023",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "119000",
+    "name": "3-seater sofa",
+    "description": "Dark grey sofa hardly used. Have to give away to make way for other furniture.",
+    "location": "Upper Thomson, Springleaf",
+    "validTill": "06 Mar 2023",
+    "ageInYears": 2,
+    "dimensions": "2m length x 80cm width x 95cm height",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "118995",
     "name": "Brown mat",
     "description": "Delivery on weekday evening and weekend.",
@@ -126,6 +146,16 @@
     "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
     "validTill": "25 Feb 2023",
     "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "119005",
+    "name": "Office Chair",
+    "description": "No noticeable defects; fully functional",
+    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+    "validTill": "28 Feb 2023",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
