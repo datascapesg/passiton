@@ -1,12 +1,22 @@
 [
   {
-    "id": "118983",
-    "name": "Queen Sized Mattress",
-    "description": "Lightly used queen-sized mattress bought for over $2000 from the US, donating due to relocation. Slight pilling from vacuuming, but other than that the mattress is great. Super high-end but I will give it to someone in need",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "28 Feb 2023",
-    "ageInYears": 1,
-    "dimensions": "Queen",
+    "id": "118995",
+    "name": "Brown mat",
+    "description": "Delivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "25 Mar 2023",
+    "ageInYears": 2,
+    "dimensions": "300cmLx200cmW",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "118993",
+    "name": "Clothes racks",
+    "description": "4 nos.\n\nDelivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "25 Mar 2023",
+    "ageInYears": 2,
+    "dimensions": "100cmLx40cmWx150cmH",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -246,6 +256,26 @@
     "location": null,
     "validTill": "01 Mar 2023",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "118985",
+    "name": "Single Size Mattress",
+    "description": "Single size mattress",
+    "location": null,
+    "validTill": "19 Mar 2023",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "118987",
+    "name": "Single Size Mattress",
+    "description": "Single size mattress",
+    "location": null,
+    "validTill": "19 Mar 2023",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -787,16 +817,6 @@
     "validTill": "24 Feb 2023",
     "ageInYears": 2,
     "dimensions": "70 x 160cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "117950",
-    "name": "Commode",
-    "description": "brand new",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "24 Feb 2023",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
 ]
