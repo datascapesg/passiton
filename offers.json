@@ -1,5 +1,25 @@
 [
   {
+    "id": "119343",
+    "name": "Standing Fan",
+    "description": "Standing fan's front and back cover has some rusting and is secured together by fasteners, but is in good proper working condition. Oscillates with three wind speeds.",
+    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+    "validTill": "03 Apr 2023",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "119342",
+    "name": "table fan",
+    "description": "fan does not rotate or oscillate, has three speeds and good working condition",
+    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+    "validTill": "03 Apr 2023",
+    "ageInYears": 4,
+    "dimensions": "30 x 30 x 40",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "119341",
     "name": "E14 bulb warm white",
     "description": "Bulbs, 4 pieces.\nBase: All E14.\nWhiteness: All warm white.\nLumen: All around 500lm.\nType: Fluorescent/LED.\n\nDelivery on weekday evening and weekend.",
@@ -500,16 +520,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "119202",
-    "name": "Birthday Cake",
-    "description": "Sponsors offering birthday cakes with delivery/Redemption for blue chas card kid below 12 years old. Please Q at FB SG Blessing Bakers Group directly so sponsor can see your Q.",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "05 Mar 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "119195",
     "name": "Toy push cart",
     "description": "Baby toy push cart walker with interactive elements and sounds to stimulate baby's senses (please note that keyboard lights up but music does not play).",
@@ -517,16 +527,6 @@
     "validTill": "30 Mar 2023",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "119193",
-    "name": "Dining Table",
-    "description": "Dining Table only, no chairs",
-    "location": "Orchard, Cairnhill, River Valley",
-    "validTill": "05 Mar 2023",
-    "ageInYears": 4,
-    "dimensions": "140 x 90 x 76",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -1107,16 +1107,6 @@
     "validTill": "07 Mar 2023",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "118256",
-    "name": "Men’s Bermuda",
-    "description": "1 x blue Giodano man’s Bermuda size 38 to bless. Wore once only.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "05 Mar 2023",
-    "ageInYears": 1,
-    "dimensions": "Size 38 giodano size",
     "deliveryCostsCoveredByDonor": true
   }
 ]
