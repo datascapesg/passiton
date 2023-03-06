@@ -1,9 +1,27 @@
 [
   {
-    "id": "119378",
+    "id": "119385",
     "category": "Electrical Home Appliances",
-    "name": "Oven for baking",
-    "description": "Client is on long-term MC for 6 months, husband is the only sole breadwinner. The family consist of 8 members with 6 school-going children aged between 6 to 14. \nThe family is currently receiving insufficient finance support. Client is working towards self-reliance to resume her online baking business for additional income to support family finances. The oven would support client in her pastries business.",
+    "name": "Refrigerator",
+    "description": "Family of low income requires a refrigerator, as theirs is spoilt. One parent working, mother is home maker.",
+    "specifications": null,
+    "contact": {
+      "org": "Care Corner Family Service Centre - Queenstown",
+      "name": "Navviin s/o Rajanthran",
+      "email": "navviinrajanthran@carecorner.org.sg",
+      "phone": [
+        "69506641",
+        "64761481"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "06 Mar 2023"
+  },
+  {
+    "id": "119383",
+    "category": "Electrical Home Appliances",
+    "name": "Juicer",
+    "description": "Client is 49y/o with multiple chronic health issues, client is certified to be unfit for unemployment, wife is the only sole breadwinner.",
     "specifications": null,
     "contact": {
       "org": "Fei Yue Family Services SSO @ Taman Jurong",
@@ -18,18 +36,54 @@
     "date": "06 Mar 2023"
   },
   {
-    "id": "119373",
+    "id": "119382",
     "category": "Electrical Home Appliances",
-    "name": "Television",
-    "description": "Client is a single mother who resides in a public rental flat and requests for television as the one at home is faulty but she has difficulties to afford purchasing it.",
+    "name": "Washing Machine",
+    "description": "A family of 3 is looking for a washing machine as their current one is faulty. They are blue-collar workers.",
     "specifications": null,
     "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Lynette Tan",
-      "email": "lynettetan@thkmc.org.sg",
+      "org": "REACH Family Service Centre",
+      "name": "Eliada Hng",
+      "email": "eliada.hng@reach.org.sg",
       "phone": [
-        "64961272",
-        "62706711"
+        "64709775",
+        "62522566"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Mar 2023"
+  },
+  {
+    "id": "119380",
+    "category": "Electrical Home Appliances",
+    "name": "Washing machine",
+    "description": "Client is from a low-income family. Wife is temporarily unable to work due to a medical condition. Client is a family of 5, living in a rental unit, she hopes to replace current washing machine as current machine is unable to drain the water properly during washing.\nFamily would preferably to have a 9-10 kg capacity to suit her family needs.",
+    "specifications": "9-10kg",
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Chan Yvonne",
+      "email": "yvonne-chan@fycs.org",
+      "phone": [
+        "69783516",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Mar 2023"
+  },
+  {
+    "id": "119378",
+    "category": "Electrical Home Appliances",
+    "name": "Oven for baking",
+    "description": "Client is on long-term MC for 6 months, husband is the only sole breadwinner. The family consist of 8 members with 6 school-going children aged between 6 to 14. \nThe family is currently receiving insufficient finance support. Client is working towards self-reliance to resume her online baking business for additional income to support family finances. The oven would support client in her pastries business.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Chan Yvonne",
+      "email": "yvonne-chan@fycs.org",
+      "phone": [
+        "69783516",
+        "62672900"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -87,24 +141,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "06 Mar 2023"
-  },
-  {
-    "id": "119296",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "Helping a senior who is staying in a one-room rental flat and is on financial assistance to get a washing machine as his current one is spoilt and he does not have any money to buy a new one or pay for transportation fees. Appreciate your help. Thanks",
-    "specifications": null,
-    "contact": {
-      "org": "Presbyterian Community Services",
-      "name": "Andy Toh",
-      "email": "andytoh@pcs.org.sg",
-      "phone": [
-        "67866826",
-        "63344445"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "03 Mar 2023"
   },
   {
     "id": "118054",
@@ -1402,23 +1438,6 @@
       "phone": [
         "67719520",
         "67625215"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "09 Feb 2023"
-  },
-  {
-    "id": "118481",
-    "category": "Electrical Home Appliances",
-    "name": "Oven",
-    "description": "A family of four including a teen with special needs requires a new microwave, their current microwave has spoilt. They would need an oven for their food preparations.",
-    "specifications": null,
-    "contact": {
-      "org": "AMKFSC Community Services Ltd - Sengkang",
-      "name": "Clarice Lim",
-      "email": "claricelim@amkfsc.org.sg",
-      "phone": [
-        "63128100"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -3466,6 +3485,40 @@
     "date": "03 Feb 2023"
   },
   {
+    "id": "119389",
+    "category": "Infant and Children Items",
+    "name": "Milk Powder",
+    "description": "Requesting on behalf of a low income single parent household of 5 living in a rental flat. The family is experiencing multiple challenges including finances and health. Please contact me for more information, thank you!",
+    "specifications": "Dumex Dulac 2",
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Jasmine Leong",
+      "email": "jasmine@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Mar 2023"
+  },
+  {
+    "id": "119386",
+    "category": "Infant and Children Items",
+    "name": "Diapers (Pants)",
+    "description": "Requesting on behalf of a low income single parent household of 5 living in a rental flat. The family is experiencing multiple challenges including finances and health. Please contact me for more information, thank you!",
+    "specifications": "XL",
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Jasmine Leong",
+      "email": "jasmine@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Mar 2023"
+  },
+  {
     "id": "119376",
     "category": "Infant and Children Items",
     "name": "Milk Powder & Diapers",
@@ -5210,6 +5263,57 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "03 Feb 2023"
+  },
+  {
+    "id": "119391",
+    "category": "Home Furnishing",
+    "name": "Hospital bed with mattress",
+    "description": "Mdm S is an elderly client known to Thye Hua Kwan Moral Charities (THKMC). She is bedbound and is looking for a brand-new hospital bed with mattress. If you know of someone who has the items for donation, please contact Qhairah Qhaliesah (Case Manager) at 9177 6614 or Qhairahqhaliesah@thkmc.org.sg Since October 2011, THKMC was incorporated as a charity with an IPC status to provide multiple social and welfare services to the community at large. THKMC provides assistance to the Elderly, Families, Children & Youth, and Persons with Disabilities, through more than 70 programmes and services. THK Elderly Services Division provides many programmes and services to serve the elderly in need – one of which includes THK Cluster Support. THK Cluster Support provides social support through case management, monitoring, and basic counselling services to vulnerable seniors, and facilitates coordination in the provision of community-based care and support services to the seniors. This service aims to improve the quality of life of vulnerable seniors, particularly for low or no income seniors who are socially-isolated and have minimal or no family support.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Cluster Support @ Bedok",
+      "name": "Qhairah Qhaliesah",
+      "email": "qhairahqhaliesah@thkmc.org.sg",
+      "phone": [
+        "62418171"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Mar 2023"
+  },
+  {
+    "id": "119384",
+    "category": "Home Furnishing",
+    "name": "Single bed with mattress ,pillow,bedsheet",
+    "description": "A 73 year old male, recently retired due to his numbness on his right arm that affect his arm mobility hence unable to continue working, stay in a rental flat alone, the flat is very dirty and messy and he sleep on a very dirty and blackened mattress on the floor, hopefully to get a proper bed.",
+    "specifications": "Single size",
+    "contact": {
+      "org": "SingHealth (CGH) – Community Care",
+      "name": "Yick Lai Cheng",
+      "email": "yick.lai.cheng@singhealth.com.sg",
+      "phone": [
+        "64268053"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Mar 2023"
+  },
+  {
+    "id": "119381",
+    "category": "Home Furnishing",
+    "name": "Lounge chair or beach chair or reclining chair",
+    "description": "A 70year old male currently staying with a tenant ,he is with low IQ. The house is infested with bedbugs and would be undergoing fumigation by Habitat for Humanity , due to the severity of the infestation, all of the furniture would be disposed off.",
+    "specifications": "Any size",
+    "contact": {
+      "org": "SingHealth (CGH) – Community Care",
+      "name": "Yick Lai Cheng",
+      "email": "yick.lai.cheng@singhealth.com.sg",
+      "phone": [
+        "64268053"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Mar 2023"
   },
   {
     "id": "118111",
