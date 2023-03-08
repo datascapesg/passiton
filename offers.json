@@ -90,16 +90,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "119463",
-    "name": "Samsung 2 Door Fridge",
-    "description": "Samsung 2 Door Fridge.\nNo ice cube tray compartment.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "16 Mar 2023",
-    "ageInYears": 4,
-    "dimensions": "W x H x D: 60.0 x 171.5 x 67.2 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "119395",
     "name": "Hospital Bed",
     "description": "Well taken care of Hospiital bed. Please arrange own transport.",
@@ -286,6 +276,26 @@
     "location": null,
     "validTill": "02 Apr 2023",
     "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "119473",
+    "name": "Gaming chair/ office chairs with wheels",
+    "description": "3 office chairs to donate. They are all in fairly good conditions.",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "01 Apr 2023",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "119474",
+    "name": "Gaming chair/ office chairs with wheels",
+    "description": "3 office chairs to donate. They are all in fairly good conditions.",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "01 Apr 2023",
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
