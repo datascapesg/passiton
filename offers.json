@@ -1,5 +1,15 @@
 [
   {
+    "id": "119692",
+    "name": "Microwave oven",
+    "description": "Panasonic Microwave. Still in very good working condition. No problems. Cleaned with no stains.",
+    "location": "Queenstown, Tiong Bahru",
+    "validTill": "31 Mar 2023",
+    "ageInYears": 4,
+    "dimensions": "48Lx38Wx28H",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "119689",
     "name": "Desk",
     "description": "Writing desk",
@@ -147,16 +157,6 @@
     "validTill": "09 Apr 2023",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "119570",
-    "name": "Positioning pillow",
-    "description": "1. Elevating bed wedge designed to comfortably elevate patients' heads or feet.\n2. Has a washable fabric cover.\n3. For information on similar product, pls see \nhttps://shop.lifelinecorp.com/products/skilcare-elevating-bed-wedge-12-x-27-x-24",
-    "location": "Orchard, Cairnhill, River Valley",
-    "validTill": "15 Mar 2023",
-    "ageInYears": 3,
-    "dimensions": "67 cm (L), 29 (H), 59 (W)",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -420,16 +420,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "119285",
-    "name": "Brown Sofa",
-    "description": "Brown Sofa to give away",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "15 Mar 2023",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "119268",
     "name": "5 bath towels",
     "description": "5 bath towels, various sizes. Clean and in good condition",
@@ -576,16 +566,6 @@
     "location": "Serangoon Garden, Hougang, Ponggol",
     "validTill": "30 Mar 2023",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "119188",
-    "name": "Childrens Crutches",
-    "description": "Childrens Crutches - nearly new \nAdjustable height",
-    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-    "validTill": "15 Mar 2023",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
