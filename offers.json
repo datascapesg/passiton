@@ -1,5 +1,15 @@
 [
   {
+    "id": "119894",
+    "name": "Leather bed",
+    "description": "Hospital bed\nCommode\nOxygen concentrator",
+    "location": "Macpherson, Braddell",
+    "validTill": "19 Apr 2023",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "119890",
     "name": "Standing Fan",
     "description": "Working floor standing fan",
@@ -160,26 +170,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "119837",
-    "name": "Storage Sofa Bed",
-    "description": "Very well maintained Storage Sofa Bed with NO scratches or damages. Originally purchased from fortytwo furniture store online (https://www.fortytwo.sg/sarai-storage-sofa-bed-pvc-brown.html)",
-    "location": "Macpherson, Braddell",
-    "validTill": "31 Mar 2023",
-    "ageInYears": 2,
-    "dimensions": "203cm X 99cm X 75cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "119884",
-    "name": "Toshiba 9L washing machine",
-    "description": "Available from 27-30 march 2023",
-    "location": null,
-    "validTill": "30 Mar 2023",
-    "ageInYears": 4,
-    "dimensions": "57x57x85",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "119835",
     "name": "Pressure Mattress with Air Pump",
     "description": "Alternating Pressure Mattress with air pump.",
@@ -187,16 +177,6 @@
     "validTill": "17 Apr 2023",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "119885",
-    "name": "Samsung refrigerator",
-    "description": "Used. Available from 27 - 30 march 2023",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "30 Mar 2023",
-    "ageInYears": 4,
-    "dimensions": "70x70x 175",
     "deliveryCostsCoveredByDonor": true
   },
   {
