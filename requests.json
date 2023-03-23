@@ -1,5 +1,73 @@
 [
   {
+    "id": "120002",
+    "category": "Home Furnishing",
+    "name": "dining table",
+    "description": "Client is a 71 year old elderly who is living alone and is unfit for work. She has no financial support at the moment and is looking to replace her old fridge which is already spoilt.",
+    "specifications": null,
+    "contact": {
+      "org": "Serangoon Moral Family Service Centre",
+      "name": "Muhammad Amin",
+      "email": "muhdamin@smfsc.org.sg",
+      "phone": [
+        "62847123"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Mar 2023"
+  },
+  {
+    "id": "120000",
+    "category": "Home Furnishing",
+    "name": "Kitchen Cabinet",
+    "description": "Client and 3 young children (Muslim family) recently moved to new premises and need help with some furnishing for their new home.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Mar 2023"
+  },
+  {
+    "id": "119998",
+    "category": "Home Furnishing",
+    "name": "Queen size storage bed with mattress",
+    "description": "Client and 3 young children (Muslim family) recently moved to new premises and need help with some furnishing for their new home.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Mar 2023"
+  },
+  {
+    "id": "119997",
+    "category": "Home Furnishing",
+    "name": "Queen-sized bedframe",
+    "description": "Client is a single mother with a 22-year-old son. She is medically certified unfit to work. Client’s son is not contributing financially for client despite his part-time job and does not provide support to client in other household matters. Client is fully dependent on SSO financial assistance for sustenance. The bottom of client’s bedframe has recently broken, and client has resorted to sleeping on the sofa in the living room. Client’s sleeping has since been affected and would require to sleep on proper bed and bedframe to aid in her sleeping condition.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Mar 2023"
+  },
+  {
     "id": "119994",
     "category": "Home Furnishing",
     "name": "Wardrobe",
@@ -3304,6 +3372,40 @@
     "date": "20 Feb 2023"
   },
   {
+    "id": "120001",
+    "category": "Electrical Home Appliances",
+    "name": "fridge",
+    "description": "Client is a 71 year old elderly who is living alone and is unfit for work. She has no financial support at the moment and is looking to replace her old fridge which is already spoilt.",
+    "specifications": null,
+    "contact": {
+      "org": "Serangoon Moral Family Service Centre",
+      "name": "Muhammad Amin",
+      "email": "muhdamin@smfsc.org.sg",
+      "phone": [
+        "62847123"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Mar 2023"
+  },
+  {
+    "id": "119999",
+    "category": "Electrical Home Appliances",
+    "name": "Refrigerator",
+    "description": "Client and 3 young children (Muslim family) recently moved to new premises and need help with some furnishing for their new home.",
+    "specifications": null,
+    "contact": {
+      "org": "Sembawang Family Service Centre",
+      "name": "Po Woei Yee",
+      "email": "powoeiyee@sfsc.org.sg",
+      "phone": [
+        "67547050"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Mar 2023"
+  },
+  {
     "id": "119979",
     "category": "Electrical Home Appliances",
     "name": "Radio",
@@ -4892,6 +4994,57 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "20 Feb 2023"
+  },
+  {
+    "id": "120005",
+    "category": "Others",
+    "name": "Wet Produce",
+    "description": "Elderly couple require wet produce to meet their daily needs. Help for the family is greatly appreciated. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Nur Batrisyia",
+      "email": "batrisyia.rani@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Mar 2023"
+  },
+  {
+    "id": "120004",
+    "category": "Others",
+    "name": "Wet Produce",
+    "description": "Low-income family of 2 young children require wet produce to meet their daily needs. Help for the family is greatly appreciated. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Nur Batrisyia",
+      "email": "batrisyia.rani@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Mar 2023"
+  },
+  {
+    "id": "120003",
+    "category": "Others",
+    "name": "Wet Produce",
+    "description": "Low-income family of 4 young children (2 special needs) require wet produce to meet their daily needs. Help for the family is greatly appreciated. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Kreta Ayer Family Services",
+      "name": "Nur Batrisyia",
+      "email": "batrisyia.rani@montfortcare.org.sg",
+      "phone": [
+        "63254753"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "23 Mar 2023"
   },
   {
     "id": "119964",
