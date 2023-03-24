@@ -1,5 +1,15 @@
 [
   {
+    "id": "120049",
+    "name": "Vacuum Cleaner",
+    "description": "Vacuum Cleaner",
+    "location": null,
+    "validTill": "10 Apr 2023",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "120047",
     "name": "Chaise sofa",
     "description": "right arm sofa",
@@ -56,16 +66,6 @@
     "location": null,
     "validTill": "30 Mar 2023",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "120025",
-    "name": "Sofa",
-    "description": "3 to 4 seater sofa. Can be converted to a bed.",
-    "location": "Orchard, Cairnhill, River Valley",
-    "validTill": "20 Apr 2023",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
