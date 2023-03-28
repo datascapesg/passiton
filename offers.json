@@ -1,5 +1,35 @@
 [
   {
+    "id": "120212",
+    "name": "Bipap machine",
+    "description": "bipap machine used for sleep apnea",
+    "location": "Yishun, Sembawang",
+    "validTill": "15 Apr 2023",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "120211",
+    "name": "Oxygen concentrator 10L",
+    "description": "only used for 2 months",
+    "location": "Yishun, Sembawang",
+    "validTill": "15 Apr 2023",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "120210",
+    "name": "Oxygen concentrator - 5L",
+    "description": "Philips Respironics brand",
+    "location": "Yishun, Sembawang",
+    "validTill": "15 Apr 2023",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "120202",
     "name": "Geriatric Chair Brand New",
     "description": "Estimate W65cm , Ht 103-116cm & Length 65cm",
