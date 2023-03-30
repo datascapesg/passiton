@@ -1,5 +1,94 @@
 [
   {
+    "id": "120279",
+    "category": "Home Furnishing",
+    "name": "Single bed and mattress",
+    "description": "Client is a mother to 7 children, she has been suffering long-term depression and is deemed unfit for employment by the doctor. The husband is the only sole breadwinner in the family, he just changed jobs recently and has an unstable income.\n\nRecently client had a bad fracture on her ankle and just finished a procedure. The family is requesting a commode and a single bed mattress to assist in her recovery and daily movements.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Chan Yvonne",
+      "email": "yvonne-chan@fycs.org",
+      "phone": [
+        "69783516",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Mar 2023"
+  },
+  {
+    "id": "120278",
+    "category": "Home Furnishing",
+    "name": "Pull-out bed (super single or single)",
+    "description": "Client along with her elderly mother and daughter are currently facing financial difficulties due to having to afford medical expenses for their long-standing medical conditions. They also have incurred debts as they are unable to pay for their electricity and town council bills. With most of their income being used to pay for their medical bills, they struggle to pay for their basic needs such as groceries, adult diapers, and transportation. Furthermore, the family recently experienced a pest infestation and is in need of new furniture.\n\nIn light of these circumstances, any donations of the aforementioned items would be greatly appreciated and would provide the family with much-needed relief. By reducing their expenses in these areas, the family would be able to allocate more of their income towards other essential needs.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Covenant Family Service Centre - Hougang",
+      "name": "Chan Jun Ren",
+      "email": "chanjunren@mws.sg",
+      "phone": [
+        "62828558"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Mar 2023"
+  },
+  {
+    "id": "120273",
+    "category": "Home Furnishing",
+    "name": "Kitchen Cabinet",
+    "description": "Client is a divorcee and mother of 2 children. They have recently moved into a rental flat with limited furnishing and utilities. Client hopes she can get help to receive a kitchen cabinet.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Jurong",
+      "name": "Nathan Hou",
+      "email": "nathanhou@thkmc.org.sg",
+      "phone": [
+        "88554795",
+        "67169466"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Mar 2023"
+  },
+  {
+    "id": "120272",
+    "category": "Home Furnishing",
+    "name": "Super single mattress",
+    "description": "Client is a divorcee and mother of 2 children. They have recently moved into a rental flat with limited furnishing and utilities. Client hopes she can get help to receive a super single size mattress for her and her children.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Jurong",
+      "name": "Nathan Hou",
+      "email": "nathanhou@thkmc.org.sg",
+      "phone": [
+        "88554795",
+        "67169466"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Mar 2023"
+  },
+  {
+    "id": "120271",
+    "category": "Home Furnishing",
+    "name": "Queen size mattress",
+    "description": "Client is a divorcee and mother of 2 children. They have recently moved into a rental flat with limited furnishing and utilities. Client hopes she can get help to receive a queen size mattress for her and her children.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Jurong",
+      "name": "Nathan Hou",
+      "email": "nathanhou@thkmc.org.sg",
+      "phone": [
+        "88554795",
+        "67169466"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Mar 2023"
+  },
+  {
     "id": "120264",
     "category": "Home Furnishing",
     "name": "Folding mattress",
@@ -1268,6 +1357,59 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "27 Feb 2023"
+  },
+  {
+    "id": "120275",
+    "category": "Electrical Home Appliances",
+    "name": "Stove",
+    "description": "Client is a single mother, originally from Indonesia. She has three boys and works as a packer for supermarket. Her stove has spoilt recently and she needs help to get another stove.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Jurong",
+      "name": "Nathan Hou",
+      "email": "nathanhou@thkmc.org.sg",
+      "phone": [
+        "88554795",
+        "67169466"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Mar 2023"
+  },
+  {
+    "id": "120274",
+    "category": "Electrical Home Appliances",
+    "name": "Kitchen Appliances",
+    "description": "Client is a divorcee and mother of 2 children. They have recently moved into a rental flat with limited furnishing and utilities. Client hopes she can get help to receive the following cooking appliances:\n1. Air fryer\n2. Electric cooker\n3. Rice cooker",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Jurong",
+      "name": "Nathan Hou",
+      "email": "nathanhou@thkmc.org.sg",
+      "phone": [
+        "88554795",
+        "67169466"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Mar 2023"
+  },
+  {
+    "id": "120270",
+    "category": "Electrical Home Appliances",
+    "name": "TV",
+    "description": "Sole breadwinner client for a family of 4 requesting for a SMART TV for her old and handicapped father-in-law for his entertainment and staying up to date with the news. Maximum size of 55\" as client stays in a small rental unit",
+    "specifications": "55\" and below",
+    "contact": {
+      "org": "The SBL Vision Family Service Centre",
+      "name": "Phil Wong",
+      "email": "phil@sblvisionfsc.org.sg",
+      "phone": [
+        "65442263"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Mar 2023"
   },
   {
     "id": "118803",
@@ -5508,6 +5650,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "03 Mar 2023"
+  },
+  {
+    "id": "120277",
+    "category": "Mobility Aids",
+    "name": "Commode",
+    "description": "Client is a mother to 7 children, she has been suffering long-term depression and is deemed unfit for employment by the doctor. The husband is the only sole breadwinner in the family, he just changed jobs recently and has an unstable income.\n\nRecently client had a bad fracture on her ankle and just finished a procedure. The family is requesting a commode and a single bed mattress to assist in her recovery and daily movements.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Chan Yvonne",
+      "email": "yvonne-chan@fycs.org",
+      "phone": [
+        "69783516",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "30 Mar 2023"
   },
   {
     "id": "120267",
