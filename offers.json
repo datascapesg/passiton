@@ -1,5 +1,15 @@
 [
   {
+    "id": "120418",
+    "name": "Medicine",
+    "description": "Bumetanide 1mg - expiry Jul 2025 (120pcs)\nBisoprolol 5mg - expiry Oct 2023 (150pcs)\nGlipizide 5mg -expiry Jul 2025 (300pcs)",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "30 Apr 2023",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "120417",
     "name": "Medicine",
     "description": "Glaucome eyedrop expiry Oct 23(6 btl)\nInsulin 100ml Expiry Jun 23 (7 btl)\nZenpro-20mg Expiry Mar 25(280pcs)",
@@ -380,16 +390,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "120098",
-    "name": "Nestle Beneprotein (Instant Protein Powder)",
-    "description": "2 tubs ( 1 full + 80% untouched tub). Stock purchased from Mount Elizabeth hospital.",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "24 Apr 2023",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "120097",
     "name": "Shower Chair with Back & Arm-rest",
     "description": "Weight Capacity: 300 lbs./ 136KG\nProduct weight: 6.7 lbs. / 2.5kg\n\nWidth between arms: 19.25\"; Seat height: 16\" to 20.75\"; Seat dimensions: 15.75\"W x 13\"D; Overall dimensions: 21.25\"W x 19.25\"D x 33.75”H, Overall footprint at the lowest adjustment: 18.5”W x 17”D; Overall footprint at highest adjustment: 19.25”W x 18.25”D, Product weight: 6.7 lbs.",
@@ -556,16 +556,6 @@
     "location": "Jurong",
     "validTill": "14 Apr 2023",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "119720",
-    "name": "Diben Nutrition Drink (Cappucino flavour)",
-    "description": "15 bottles of Diben Nutrition Drink",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "14 Apr 2023",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
