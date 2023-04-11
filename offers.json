@@ -1,5 +1,15 @@
 [
   {
+    "id": "120626",
+    "name": "Electric hospital bed",
+    "description": "Working bed with multiple functions",
+    "location": "Telok Blangah, Harbourfront",
+    "validTill": "19 Apr 2023",
+    "ageInYears": 4,
+    "dimensions": "200x100 cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "120607",
     "name": "Hospital Bed With Air Pressure Mattress",
     "description": "Hospital bed in good working condition. Comes complete with air pressure mattress and remote control. Timotion brand.",
@@ -27,16 +37,6 @@
     "validTill": "11 May 2023",
     "ageInYears": 2,
     "dimensions": "60cm by 60cm by 42.5cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "120594",
-    "name": "Drawers Cabinets/ Book Shelves",
-    "description": "2 units each of brown low height moveable drawers cabinets & 2 units of painted green wooden book shelves + 1 table 1 tall chair 1 unit tall steel & 1 unit 3/4 steel cabinet + 3/4 height steel cabinet &  2 red plastic chairs",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "11 May 2023",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -187,16 +187,6 @@
     "validTill": "30 Apr 2023",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "120586",
-    "name": "sommell king-size mattress c/w bed",
-    "description": "Spotless and very clean. Donate it because of moving to a new place which master room is pretty small and can not fit a king size bed.",
-    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
-    "validTill": "22 Apr 2023",
-    "ageInYears": 4,
-    "dimensions": "190 x 180 x 60",
     "deliveryCostsCoveredByDonor": true
   },
   {
