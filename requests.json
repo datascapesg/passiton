@@ -35,24 +35,6 @@
     "date": "11 Apr 2023"
   },
   {
-    "id": "120589",
-    "category": "Electrical Home Appliances",
-    "name": "Fridge",
-    "description": "Client is a 75 years old male senior who has retired and stays in a 1-room HDB rental flat with a senior housemate. Client requires a good and useful fridge that can help him to keep raw ingredients so that he can cook at home frequently. Without a fridge, he is unable to keep raw ingredients.",
-    "specifications": "Small fridge",
-    "contact": {
-      "org": "Fei Yue Community Services",
-      "name": "Christine Ang",
-      "email": "angliyan@fycs.org",
-      "phone": [
-        "63809163",
-        "63809169"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Apr 2023"
-  },
-  {
     "id": "120568",
     "category": "Electrical Home Appliances",
     "name": "Digital Ready TV",
@@ -609,24 +591,6 @@
       "email": "fatimah.hakeem@montfortcare.org.sg",
       "phone": [
         "64450100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "30 Mar 2023"
-  },
-  {
-    "id": "120275",
-    "category": "Electrical Home Appliances",
-    "name": "Stove",
-    "description": "Client is a single mother, originally from Indonesia. She has three boys and works as a packer for supermarket. Her stove has spoilt recently and she needs help to get another stove.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Jurong",
-      "name": "Nathan Hou",
-      "email": "nathanhou@thkmc.org.sg",
-      "phone": [
-        "88554795",
-        "67169466"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -2468,23 +2432,6 @@
       "email": "yick.lai.cheng@singhealth.com.sg",
       "phone": [
         "64268053"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Apr 2023"
-  },
-  {
-    "id": "120579",
-    "category": "Infant and Children Items",
-    "name": "School bag",
-    "description": "Family has a child who has spinal challenges. After the child progressed to Primary Three and is growing up, he requires a school bag that is helpful to lessen to the weight and load on his back. Father is a low wage earner and is unable to adequately set aside funds to purchase a proper school bag that can support and spread the weight evenly across his son's upper body. Mother is a full time caregiver for her elderly parents and have exhausted her savings.",
-    "specifications": null,
-    "contact": {
-      "org": "Hougang Sheng Hong Family Service Centre",
-      "name": "Dan Chan",
-      "email": "dan@shenghong.org.sg",
-      "phone": [
-        "62895022"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -4496,23 +4443,6 @@
     "date": "11 Apr 2023"
   },
   {
-    "id": "120583",
-    "category": "Mobility Aids",
-    "name": "Bicycle",
-    "description": "Heavy student (about 100kg) looking for a sturdy bicycle to reduce transport costs. Student comes from family of 9 with 2 adult brothers working.",
-    "specifications": null,
-    "contact": {
-      "org": "SHINE Children and Youth Services - Clementi",
-      "name": "Jonathan Soh",
-      "email": "jonathan_soh@shine.org.sg",
-      "phone": [
-        "67786867"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "10 Apr 2023"
-  },
-  {
     "id": "119324",
     "category": "Mobility Aids",
     "name": "Electric wheelchair",
@@ -4601,6 +4531,40 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "13 Mar 2023"
+  },
+  {
+    "id": "120599",
+    "category": "Learning Aids",
+    "name": "Iphone 13",
+    "description": "Client is Deaf and Blind. He lives with his wife and 2 young toddlers. He is the sole breadwinner of his household as his wife is medically unfit for work. He uses technology to aid him in travelling independently, but recent OS changes have made his current iphone hard to use, and he cannot afford to buy a new phone with his low income as a massuese.",
+    "specifications": null,
+    "contact": {
+      "org": "The Singapore Association For The Deaf (SADeaf)",
+      "name": "Josiah Liu Yixuan",
+      "email": "josiah@sadeaf.org.sg",
+      "phone": [
+        "63448274"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Apr 2023"
+  },
+  {
+    "id": "120598",
+    "category": "Learning Aids",
+    "name": "Laptop with MS office",
+    "description": "Client is Deaf, and has a low level of english comprehension. He would like to hold an admin job, but he will need to undergo training, and does not have a computer to do it. Client has been searching for a suitable job of his level for 2 years to no avail.",
+    "specifications": null,
+    "contact": {
+      "org": "The Singapore Association For The Deaf (SADeaf)",
+      "name": "Josiah Liu Yixuan",
+      "email": "josiah@sadeaf.org.sg",
+      "phone": [
+        "63448274"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Apr 2023"
   },
   {
     "id": "120559",
