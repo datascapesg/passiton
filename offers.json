@@ -1,5 +1,15 @@
 [
   {
+    "id": "120700",
+    "name": "Hospital bed",
+    "description": "Hospital bed",
+    "location": "Yishun, Sembawang",
+    "validTill": "13 May 2023",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "120690",
     "name": "Sofa Bed",
     "description": "In very good condition, upholstery has been washed.",
