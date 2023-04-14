@@ -1,15 +1,5 @@
 [
   {
-    "id": "120745",
-    "name": "IKEA drawers",
-    "description": "Plastic white IKEA drawers.",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "20 Apr 2023",
-    "ageInYears": 4,
-    "dimensions": "50x50x120",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "120734",
     "name": "Single Bed with Mattress",
     "description": "A Single Bed with solid structure, and mattress, minimally used. Please arrange transport and labour to carry.",
@@ -55,16 +45,6 @@
     "description": "Documents drawer. More than 10 years old. Can be considered vintage. Drawers are shallow, so more suitable for flat pieces of items. Originally used to keep notes, papers, documents. \n\nAlternatively, can be used to keep small hand/face towels, thin or flatly folded pieces of clothing.\n\nItem is already shrink wrapped for easy transport. There is padding on the feet to prevent scratches on floors.\n\nClearing to declutter.",
     "location": "Katong, Joo Chiat, Amber Road",
     "validTill": "16 Apr 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "120744",
-    "name": "living room furniture",
-    "description": "Red cushioned chair with red velvet cloth (one piece)\n\nTV console (without TV)- heavy solid wood (one piece)\n\n7ft shelf - heavy solid wood (two pieces)",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "17 Apr 2023",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
@@ -250,16 +230,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "120482",
-    "name": "Bed Rails (1 Pair)",
-    "description": "NEED TO BE CLEARED BY NEXT WEEK! Very lightly used pair of bed rails available. Excellent to help elderly support themselves to sit up on the bed.",
-    "location": "Telok Blangah, Harbourfront",
-    "validTill": "15 Apr 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "120481",
     "name": "NIDEK NUVE OXYGEN CONCENTRATOR (up to 5L)",
     "description": "Oxygen concentrator was purchased as 2nd hand in mid 2022.  The filter was changed to a new one in late 2022.",
@@ -286,36 +256,6 @@
     "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
     "validTill": "05 May 2023",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "120458",
-    "name": "Ikea Glass shelf",
-    "description": "unopened. still in box.",
-    "location": "Yishun, Sembawang",
-    "validTill": "15 Apr 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "120457",
-    "name": "Household Oxygen Concentrator",
-    "description": "Household Oxygen Concentrator",
-    "location": "Yishun, Sembawang",
-    "validTill": "15 Apr 2023",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "120432",
-    "name": "3 seater sofa with washable covers",
-    "description": "3 seater scanteak sofa with extra set of washable covers",
-    "location": null,
-    "validTill": "15 Apr 2023",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -405,96 +345,6 @@
     "description": "Working condition though it is rather old",
     "location": "Bishan, Ang Mo Kio",
     "validTill": "30 Apr 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "120262",
-    "name": "Commode (detachable)",
-    "description": "Steel Detachable commode with brakes",
-    "location": null,
-    "validTill": "15 Apr 2023",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "120217",
-    "name": "Elliptical Machine",
-    "description": "Elliptical machine used for some years. still gud condition",
-    "location": "Yishun, Sembawang",
-    "validTill": "15 Apr 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "120215",
-    "name": "Mini trampoline",
-    "description": "mini trampoline",
-    "location": "Yishun, Sembawang",
-    "validTill": "15 Apr 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "120212",
-    "name": "Bipap machine",
-    "description": "bipap machine used for sleep apnea",
-    "location": "Yishun, Sembawang",
-    "validTill": "15 Apr 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "120211",
-    "name": "Oxygen concentrator 10L",
-    "description": "only used for 2 months",
-    "location": "Yishun, Sembawang",
-    "validTill": "15 Apr 2023",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "120210",
-    "name": "Oxygen concentrator - 5L",
-    "description": "Philips Respironics brand",
-    "location": "Yishun, Sembawang",
-    "validTill": "15 Apr 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "120176",
-    "name": "toilet commode",
-    "description": "Used less than 1 month. Heavy duty stationary commode. adjustable height. load up to 150kg",
-    "location": "Katong, Joo Chiat, Amber Road",
-    "validTill": "15 Apr 2023",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "120547",
-    "name": "Queen size bed frame",
-    "description": "Solid wood queen size bed frame. Kept in storage since 2019",
-    "location": null,
-    "validTill": "15 Apr 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "120549",
-    "name": "Queen size bed frame",
-    "description": "Solid wood queen size bed frame. Kept in storage since 2019",
-    "location": null,
-    "validTill": "15 Apr 2023",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
@@ -597,16 +447,6 @@
     "validTill": "17 Apr 2023",
     "ageInYears": 4,
     "dimensions": "80x70x77",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "119761",
-    "name": "Wooden Cabinet",
-    "description": "Pre loves wooden vintage cabinet.3 nod the cabinets are availble for donation.",
-    "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
-    "validTill": "15 Apr 2023",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
 ]
