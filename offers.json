@@ -1,5 +1,25 @@
 [
   {
+    "id": "120865",
+    "name": "Double decker bed",
+    "description": "Lower bed: 120cm x 190 cm\nUpper bed: 90cm x 190 cm",
+    "location": null,
+    "validTill": "18 May 2023",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "120864",
+    "name": "Kids wardrobe, 2-sided",
+    "description": "2-sided wardrobe",
+    "location": "Orchard, Cairnhill, River Valley",
+    "validTill": "18 May 2023",
+    "ageInYears": 1,
+    "dimensions": "141cm x 190cm x 50cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "120863",
     "name": "Washing Machine",
     "description": "Washing machine is still functional and seldom used. Its around 8 years.",
@@ -467,26 +487,6 @@
     "validTill": "20 Apr 2023",
     "ageInYears": 2,
     "dimensions": "Suitable for 4 to 8 years old child",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "119902",
-    "name": "computer printer",
-    "description": "Canon i320  printer\n\nportable and quite light\nstill in good working condition",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "19 Apr 2023",
-    "ageInYears": 4,
-    "dimensions": "38 cm x 20 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "119874",
-    "name": "School used Calculators",
-    "description": "Several calculators are available, some required to be refilled with batteries. Some needs to be refurbish. And a few is still in good condition.",
-    "location": "Telok Blangah, Harbourfront",
-    "validTill": "19 Apr 2023",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
 ]
