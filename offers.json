@@ -1,5 +1,25 @@
 [
   {
+    "id": "120958",
+    "name": "Study desk and chair",
+    "description": "good condition",
+    "location": "Jurong",
+    "validTill": "26 Apr 2023",
+    "ageInYears": 2,
+    "dimensions": "120cm * 60 * 73 cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "120957",
+    "name": "Wheelchair with head rest",
+    "description": "Wheelchair for small frame person (45-47 kg) with detachable footrest and armrest",
+    "location": "Queenstown, Tiong Bahru",
+    "validTill": "20 May 2023",
+    "ageInYears": 3,
+    "dimensions": "38cm x 40cm x 105cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "120956",
     "name": "Double Bed Frame and Mattress",
     "description": "Ikea bedframe and mattress (standard queen/double size). Mattress has some wear and tear,  but it is not deformed in any way. Sturdy bed frame,",
@@ -37,16 +57,6 @@
     "validTill": "25 Apr 2023",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "120940",
-    "name": "Queen Matttess",
-    "description": "Used mattress in reasonable condition",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "25 Apr 2023",
-    "ageInYears": 4,
-    "dimensions": "60” by 74”",
     "deliveryCostsCoveredByDonor": true
   },
   {
