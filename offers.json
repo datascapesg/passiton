@@ -60,26 +60,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "120934",
-    "name": "Super Single bed with pull-out Single x 2",
-    "description": "Super Single bed with pull-out Single \n(2 units) - less than 3.5 years old\n\nBoth available on 25 May 2023",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "19 May 2023",
-    "ageInYears": 3,
-    "dimensions": "2.0m (L) x 1.09m(W) x 1.06m (H)",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "120933",
-    "name": "Dining table",
-    "description": "Gently used, good condition",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "25 Apr 2023",
-    "ageInYears": 4,
-    "dimensions": "Length- 151cm Width- 91cm Height- 78cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "120865",
     "name": "Double decker bed",
     "description": "Lower bed: 120cm x 190 cm\nUpper bed: 90cm x 190 cm",
@@ -446,6 +426,16 @@
     "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
     "validTill": "01 May 2023",
     "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "120963",
+    "name": "Extendable children's bed with mattress",
+    "description": "Extendable children's bed with mattress from IKEA. Good condition.",
+    "location": "Geylang, Eunos",
+    "validTill": "30 Apr 2023",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
