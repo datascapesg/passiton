@@ -1,5 +1,35 @@
 [
   {
+    "id": "121276",
+    "name": "Cupboard",
+    "description": "Cupboard that can be used to store books or clothing.",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "30 May 2023",
+    "ageInYears": 4,
+    "dimensions": "80cm x 35cm x 81cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "121275",
+    "name": "Electric kettle",
+    "description": "Electric kettle for boiling hot water.",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "30 May 2023",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "121274",
+    "name": "Foldable table",
+    "description": "Foldable table. Can be use for dining or study table.",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "30 May 2023",
+    "ageInYears": 3,
+    "dimensions": "91cm by 61cm by 73cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "121273",
     "name": "Sharp Double Grill Convention Oven",
     "description": "Oven is for Baking.",
