@@ -100,16 +100,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "121493",
-    "name": "Cabinet, chest of drawers",
-    "description": "Chest of drawers that is actually more than 4 years old, but still in good condition.",
-    "location": "Jurong",
-    "validTill": "05 Jun 2023",
-    "ageInYears": 4,
-    "dimensions": "865 x 435 x 1,110",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "121492",
     "name": "Brown leather sofa",
     "description": "Brown leather sofa in good condition.",
@@ -150,23 +140,13 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "121484",
-    "name": "Blood Pressure Monitor",
-    "description": "Blood pressure monitor is more than 4 years old but still functioning well. Will include batteries.",
+    "id": "121509",
+    "name": "Fridge",
+    "description": "Item is more than 4 years old but in good condition. Can last for a few more years.",
     "location": "Balestier, Toa Payoh, Serangoon",
     "validTill": "05 Jun 2023",
     "ageInYears": 4,
-    "dimensions": "17cmx10cmx13cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "121482",
-    "name": "Bed Frame and Mattress",
-    "description": "Dimensions of bed frame is super single but mattress is single. Both items are more than 4 years old but still in good condition. Will provide a box of bedsheets and protectors together with the bed and mattress.",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "05 Jun 2023",
-    "ageInYears": 4,
-    "dimensions": "214cmx120cmx50cm",
+    "dimensions": "62cmx68cmx177cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -207,16 +187,6 @@
     "validTill": "14 May 2023",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "121436",
-    "name": "Bookcase",
-    "description": "Oak colour (lighter than pictured)\n\nPlease only reserve if it meets your client's needs",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "31 May 2023",
-    "ageInYears": 2,
-    "dimensions": "90cm wide x 29.5cm deep x 180cm tall",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -460,13 +430,13 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "121276",
-    "name": "Cupboard",
-    "description": "Cupboard that can be used to store books or clothing.",
-    "location": "Bishan, Ang Mo Kio",
+    "id": "121507",
+    "name": "Sharp Double Grill Convention Oven",
+    "description": "Oven is for Baking.",
+    "location": "Toa Payoh",
     "validTill": "30 May 2023",
     "ageInYears": 4,
-    "dimensions": "80cm x 35cm x 81cm",
+    "dimensions": "520cm x 309cm x 486cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -747,6 +717,26 @@
     "validTill": "10 May 2023",
     "ageInYears": 3,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "121510",
+    "name": "Wheelchair with head rest",
+    "description": "Wheelchair for small frame person (45-47 kg) with detachable footrest and armrest",
+    "location": "Queenstown, Tiong Bahru",
+    "validTill": "20 May 2023",
+    "ageInYears": 3,
+    "dimensions": "38cm x 40cm x 105cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "121511",
+    "name": "Wheelchair with head rest",
+    "description": "Wheelchair for small frame person (45-47 kg) with detachable footrest and armrest",
+    "location": "Queenstown, Tiong Bahru",
+    "validTill": "20 May 2023",
+    "ageInYears": 3,
+    "dimensions": "38cm x 40cm x 105cm",
     "deliveryCostsCoveredByDonor": true
   },
   {

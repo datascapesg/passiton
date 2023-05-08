@@ -1768,23 +1768,6 @@
     "date": "10 Apr 2023"
   },
   {
-    "id": "120560",
-    "category": "Infant and Children Items",
-    "name": "Milk Powder",
-    "description": "The family has 2 young children (1y/o and 2y/o) Mother is receiving mental health treatment and currently looking for an employment. The family is living on tight budget, and they have difficulties to purchase sufficient milk powder for the children.",
-    "specifications": "S-26 Gold Progress",
-    "contact": {
-      "org": "AMKFSC Community Services Ltd - Cheng San",
-      "name": "Nur Farisha",
-      "email": "nurfarisha@amkfsc.org.sg",
-      "phone": [
-        "64578559"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Apr 2023"
-  },
-  {
     "id": "120558",
     "category": "Infant and Children Items",
     "name": "Diapers",
@@ -1836,6 +1819,23 @@
     "date": "07 Apr 2023"
   },
   {
+    "id": "121506",
+    "category": "Electrical Home Appliances",
+    "name": "Fridge",
+    "description": "Family of 5 (parents with 3 children) requires a fridge to replace their current faulty fridge. Family has tight financial situation due to unstable employment and under financial assistance. Family cannot afford to get a replacement and the fridge's condition is bad that it will not last long even after repair.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Ye Jiancheng",
+      "email": "jiancheng@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 May 2023"
+  },
+  {
     "id": "121490",
     "category": "Electrical Home Appliances",
     "name": "Refrigerator",
@@ -1865,24 +1865,6 @@
       "phone": [
         "63254116",
         "63254753"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "05 May 2023"
-  },
-  {
-    "id": "121465",
-    "category": "Electrical Home Appliances",
-    "name": "Ceiling Fan",
-    "description": "Family of 4. Patient/Client is terminally ill cancer patient with 2 school going children. They have limited income as patient is no longer able to work. As finances are tight due to expenses for children and client's healthcare needs, they have not been able to purchase their ceiling fan that has been spoilt. Currently client and wife are residing in room without a ceiling fan. It would improve client's quality of life during this palliative care period with a ceiling fan in good condition. Kindly contact me at 84282545 (my work office number) for more details on the ceiling fan description.",
-    "specifications": "Ceiling Fan standard size",
-    "contact": {
-      "org": "Singapore Cancer Society",
-      "name": "Amanda Tay",
-      "email": "amanda_tay@singaporecancersociety.org.sg",
-      "phone": [
-        "64215886",
-        "62219578"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -2663,23 +2645,6 @@
     "date": "21 Apr 2023"
   },
   {
-    "id": "121032",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "Single mother with 3 children, two 6 years and one old 3 years. Working part-time admin with only $400 salary. Have spend  a few hundred dollars to repair her current washing machine but it broken down again.",
-    "specifications": null,
-    "contact": {
-      "org": "Beautiful People Sg Ltd",
-      "name": "Hasyimah Ibrahim",
-      "email": null,
-      "phone": [
-        "63480480"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "21 Apr 2023"
-  },
-  {
     "id": "121027",
     "category": "Electrical Home Appliances",
     "name": "Bladeless Fan",
@@ -3157,23 +3122,6 @@
     "category": "Electrical Home Appliances",
     "name": "Ceiling Fan with Light",
     "description": "My client (F/33) is a divorcee and the main caregiver for 2 young children (F/4 and F/2). Due to caregiving responsibilities, she struggles to find stable employment that can provide sufficient income. One of her daughters has also been diagnosed with chronic eczema and requires additional intensive care which incurs additional expenses for the family. \n\nThey have recently moved into a public rental flat and require help to furnish the flat with basic appliances. My client hopes to have a ceiling fan to better ventilate the air and make it more cooling for her daughter struggling with chronic eczema.",
-    "specifications": null,
-    "contact": {
-      "org": "MontfortCare - Marine Parade Family Service Centre",
-      "name": "Natalie Tan",
-      "email": "natalie.tan@montfortcare.org.sg",
-      "phone": [
-        "64450100"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "17 Apr 2023"
-  },
-  {
-    "id": "120778",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "My client (F/33) is a divorcee and the main caregiver for 2 young children (F/4 and F/2). Due to caregiving responsibilities, she struggles to find stable employment that can provide sufficient income. One of her daughters has also been diagnosed with chronic eczema and requires additional intensive care which incurs additional expenses for the family. \n\nThey have recently moved into a public rental flat and require help to furnish the flat with basic appliances.",
     "specifications": null,
     "contact": {
       "org": "MontfortCare - Marine Parade Family Service Centre",
@@ -3710,6 +3658,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "10 Apr 2023"
+  },
+  {
+    "id": "121508",
+    "category": "Others",
+    "name": "Tena L Pants Diapers",
+    "description": "Patient/client with cancer in our palliative care has been deteriorating has difficulties with toileting. He now requires Tena L Pants diapers but family is unable to afford as finances are very tight. \nKindly contact me at 84282545 (my work number).",
+    "specifications": "Tena L Pants Diapers",
+    "contact": {
+      "org": "Singapore Cancer Society",
+      "name": "Amanda Tay",
+      "email": "amanda_tay@singaporecancersociety.org.sg",
+      "phone": [
+        "64215886",
+        "62219578"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "08 May 2023"
   },
   {
     "id": "121474",
@@ -4994,24 +4960,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "05 May 2023"
-  },
-  {
-    "id": "121416",
-    "category": "Home Furnishing",
-    "name": "Queen size mattress",
-    "description": "Ct is living with husband, 3 children, and her elderly mother is also staying with her. Eldest child is 20y/o with intellectual disability and has caused ct a lot of caregiver stress. 2 younger daughters are still schooling. Only her husband is working but earning less than $2k to support the family. A lot of her furniture at home are donated and some are in poor condition. Ct hopes for some donation to assist with her circumstance.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Bukit Panjang",
-      "name": "Nur Ashikin Binte Hazlan",
-      "email": "NurAshikin@thkmc.org.sg",
-      "phone": [
-        "90021391",
-        "67671740"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 May 2023"
   },
   {
     "id": "121304",
