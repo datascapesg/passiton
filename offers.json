@@ -1,5 +1,15 @@
 [
   {
+    "id": "121505",
+    "name": "Hospital Bed",
+    "description": "Brand new Hospital bed - Unused.",
+    "location": null,
+    "validTill": "07 Jun 2023",
+    "ageInYears": 1,
+    "dimensions": "2.2m (L) x 95cm (W)",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "121504",
     "name": "Chromecast",
     "description": "No longer needed",
@@ -147,16 +157,6 @@
     "validTill": "05 Jun 2023",
     "ageInYears": 4,
     "dimensions": "17cmx10cmx13cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "121483",
-    "name": "Fridge",
-    "description": "Item is more than 4 years old but in good condition. Can last for a few more years.",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "05 Jun 2023",
-    "ageInYears": 4,
-    "dimensions": "62cmx68cmx177cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
