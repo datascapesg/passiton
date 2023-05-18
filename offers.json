@@ -1,5 +1,35 @@
 [
   {
+    "id": "122001",
+    "name": "TV Console",
+    "description": "TV console more than 4 years old, but still in ok condition.",
+    "location": "Jurong",
+    "validTill": "17 Jun 2023",
+    "ageInYears": 4,
+    "dimensions": "1480 x 560 x 570 mm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "121999",
+    "name": "Black reclining chair",
+    "description": "Black chair that can recline and comes with 2 leg rests.\n\nMore than 4 years old, but still in ok condition.",
+    "location": "Jurong",
+    "validTill": "17 Jun 2023",
+    "ageInYears": 4,
+    "dimensions": "Approx. 2000 x 700 x 1000 mm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "121998",
+    "name": "Coffee table",
+    "description": "More than 4 years old, but still in ok condition.",
+    "location": "Jurong",
+    "validTill": "17 Jun 2023",
+    "ageInYears": 4,
+    "dimensions": "1170 x 780 x 420 mm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "121972",
     "name": "Refrigerator",
     "description": "Working well. Extra fridge that we dont need anymore.",
