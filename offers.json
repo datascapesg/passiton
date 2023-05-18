@@ -1,6 +1,16 @@
 [
   {
-    "id": "121963",
+    "id": "121965",
+    "name": "Dining table",
+    "description": "Dining table. It has been dismantled for easy transportation.",
+    "location": "Telok Blangah, Harbourfront",
+    "validTill": "17 Jun 2023",
+    "ageInYears": 4,
+    "dimensions": "104cm x 37cm x 26.5cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "121968",
     "name": "Glass dining table with 4 chairs",
     "description": "Black glass dining table with 4 fabric chairs. Table is well-used but in good condition, chairs are fairly new.",
     "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
@@ -16,26 +26,6 @@
     "location": "Tampines, Pasir Ris",
     "validTill": "09 Jun 2023",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "121936",
-    "name": "Baby cloth clothes (6 months to 18 months)",
-    "description": "many baby boy clothes to give away. clothes are in good condition, some are washed but not worn before. 6 months to 18 months old clothes.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "16 Jun 2023",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "121934",
-    "name": "BabyBjorn Baby Carrier Older Model",
-    "description": "Older model that does not have “M” shaped seating for babies. Also not forward facing. Please self-collect as I have no income SAHM, single income family, and unable to pay for delivery l fees.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "16 Jun 2023",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -97,16 +87,6 @@
     "validTill": "31 May 2023",
     "ageInYears": 3,
     "dimensions": "Around 1.5m long",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "121920",
-    "name": "Chairs",
-    "description": "2 Wooden chairs in good condition.",
-    "location": "Kranji, Woodgrove",
-    "validTill": "19 May 2023",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
