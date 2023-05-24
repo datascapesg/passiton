@@ -1,5 +1,15 @@
 [
   {
+    "id": "122182",
+    "name": "Double Bed",
+    "description": "IKEA Double Bed with Mattress",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "02 Jun 2023",
+    "ageInYears": 4,
+    "dimensions": "200x150x90",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "122176",
     "name": "Sofa",
     "description": "Sofa in decent condition.",
@@ -257,16 +267,6 @@
     "validTill": "20 Jun 2023",
     "ageInYears": 4,
     "dimensions": "NA",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "122066",
-    "name": "Hospital bed",
-    "description": "Less than 1 year",
-    "location": "Yishun, Sembawang",
-    "validTill": "20 Jun 2023",
-    "ageInYears": 1,
-    "dimensions": "Single bed size",
     "deliveryCostsCoveredByDonor": true
   },
   {
