@@ -1,5 +1,15 @@
 [
   {
+    "id": "122292",
+    "name": "Sofa bed (2 seater)",
+    "description": "In good condition. Mattress is firm.",
+    "location": "Upper Bukit Timah, Clementi Park, Ulu Pandan",
+    "validTill": "28 Jun 2023",
+    "ageInYears": 2,
+    "dimensions": "About 94 cm wide.  About 180 cm long when unfolded.",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "122288",
     "name": "Hospital Bed",
     "description": "Hospital bed in very mint condition",
@@ -40,16 +50,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "122273",
-    "name": "Standing Fan",
-    "description": "The switch-on button on the standing fan need to be pressed harder to turn it on. If you are not fussy, this Euro Ace fan is still in very good working condition. Self collect only at Potong Pasir. My apology as I am unable to send to anywhere nor pay for the delivery fee.",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "27 Jun 2023",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "122270",
     "name": "Sofa 3 seater with L",
     "description": "3 seater sofa\n\nSofa: 2.60 * 1.60m\nDepth 0.85m",
@@ -57,16 +57,6 @@
     "validTill": "01 Jun 2023",
     "ageInYears": 4,
     "dimensions": "2.6 * 1.6m",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "122268",
-    "name": "JHE 1.2L Deluxe Rice Cooker",
-    "description": "Nearly new JHE 1.2 Liter Rice Cooker.\nClean and not used.",
-    "location": "Geylang, Eunos",
-    "validTill": "27 Jun 2023",
-    "ageInYears": 1,
-    "dimensions": "Height 23cm  Diameter 21cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -807,6 +797,16 @@
     "validTill": "30 May 2023",
     "ageInYears": 4,
     "dimensions": "1m x 1m x 1m",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "121589",
+    "name": "Wheelchair with head rest",
+    "description": "Wheelchair for small frame person (45-47 kg) with detachable footrest and armrest. Wheelchair is not fully collapsible and bulky for transportation in car or taxi. usage for home or moving around neighborhood only. Self collection preferred and only willing to pay $20 for transportation. Will provide the tape which can be wind around the handle bar",
+    "location": "Queenstown, Tiong Bahru",
+    "validTill": "05 Jun 2023",
+    "ageInYears": 3,
+    "dimensions": "38cm x 40cm x 105cm",
     "deliveryCostsCoveredByDonor": true
   }
 ]
