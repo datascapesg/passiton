@@ -1,5 +1,15 @@
 [
   {
+    "id": "122617",
+    "name": "Desk and chair",
+    "description": "Simple table and chair",
+    "location": "Upper Thomson, Springleaf",
+    "validTill": "17 Jun 2023",
+    "ageInYears": 4,
+    "dimensions": "100cm x 60cm x 75cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "122599",
     "name": "Bed with mattress",
     "description": "Single bed",
@@ -117,16 +127,6 @@
     "validTill": "30 Jun 2023",
     "ageInYears": 2,
     "dimensions": "177cm x 92cm x 79cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "122504",
-    "name": "KinG sized mattress and divan",
-    "description": "4 year old king sized mattress and divan Sealy brand",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "12 Jun 2023",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
