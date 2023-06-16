@@ -1,12 +1,32 @@
 [
   {
-    "id": "122973",
-    "name": "Glucerna - milk feeding",
-    "description": "Glucerna milk - high quality, limited shelf life.",
-    "location": "Middle Road, Golden Mile",
-    "validTill": "30 Jun 2023",
-    "ageInYears": 1,
+    "id": "122986",
+    "name": "Sofa",
+    "description": "Good Condition",
+    "location": null,
+    "validTill": "17 Jun 2023",
+    "ageInYears": 2,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "122982",
+    "name": "Refrigerator",
+    "description": "Available to only on 1st July onwards.",
+    "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
+    "validTill": "30 Jun 2023",
+    "ageInYears": 4,
+    "dimensions": "54x54x170",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "122981",
+    "name": "Stationary exercise bike",
+    "description": "Lightly used, foldable exercise bike. Still in good condition. Pls see photos for specs.\nSelf collection at Pasir Ris as it is bulky. Thanks",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "28 Jun 2023",
+    "ageInYears": 3,
+    "dimensions": "Pls see photos",
     "deliveryCostsCoveredByDonor": true
   },
   {
