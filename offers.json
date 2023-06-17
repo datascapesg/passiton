@@ -1,5 +1,35 @@
 [
   {
+    "id": "123006",
+    "name": "Wardrobe",
+    "description": "Wardrobe",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "10 Jul 2023",
+    "ageInYears": 4,
+    "dimensions": "152W x 201H x 61D",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123005",
+    "name": "KDK",
+    "description": "Floor Standing Fan x 02 units\nTabletop Standing Fan x 01 unit",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "10 Jul 2023",
+    "ageInYears": 4,
+    "dimensions": "40cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123004",
+    "name": "Mitsubishi Electric",
+    "description": "MITSUBISHI 2 DOOR FRIDGE MR-FS51ES-SSL-P",
+    "location": null,
+    "validTill": "10 Jul 2023",
+    "ageInYears": 4,
+    "dimensions": "66.9W x 182H x 73.5D",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "123003",
     "name": "Bonbijou S3 playpen",
     "description": "Good condition playpen without mattress.",
