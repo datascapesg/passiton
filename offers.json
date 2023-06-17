@@ -1,5 +1,35 @@
 [
   {
+    "id": "123009",
+    "name": "Dining Table",
+    "description": "Dining Table",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "10 Jul 2023",
+    "ageInYears": 4,
+    "dimensions": "160W X 90D",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123008",
+    "name": "Drawers",
+    "description": "Drawer (79W x 71H x 40D) x 01 unit\nSide Drawer (45W x 51.5H x 40D) x 01 unit",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "10 Jul 2023",
+    "ageInYears": 4,
+    "dimensions": "79W x 71H x 40D",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123007",
+    "name": "Glass Table",
+    "description": "Glass table",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "10 Jul 2023",
+    "ageInYears": 4,
+    "dimensions": "120W x 73H x 60D",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "123006",
     "name": "Wardrobe",
     "description": "Wardrobe",
