@@ -1,5 +1,15 @@
 [
   {
+    "id": "123062",
+    "name": "Air regulated mattress",
+    "description": "Band new air regulated mattress",
+    "location": "Queenstown, Tiong Bahru",
+    "validTill": "19 Jul 2023",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "123042",
     "name": "CERAGEM THERAPY MESSAGE BED",
     "description": "MASSAGE BED BOUGHT IN DEC 2008, WHICH IS STILL IN WORKING CONDITION.  LAST MAINTENANCE WAS DONE IN JUN 2022",
@@ -26,16 +36,6 @@
     "location": null,
     "validTill": "18 Jul 2023",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "123037",
-    "name": "Water boiler/kettle",
-    "description": "Hardly used",
-    "location": null,
-    "validTill": "18 Jul 2023",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -287,16 +287,6 @@
     "validTill": "26 Jun 2023",
     "ageInYears": 4,
     "dimensions": "L194cm, H74cm, D73cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "123000",
-    "name": "Takahi Rice cooker - Used but in good condition/ For family of 3-4",
-    "description": "Good condition even though used for 3 years. Only cook rice. Suitable for family 3-4 max.",
-    "location": null,
-    "validTill": "16 Jul 2023",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
