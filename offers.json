@@ -1,5 +1,15 @@
 [
   {
+    "id": "123098",
+    "name": "Coffee table",
+    "description": "Coffee tabel is in good condition.",
+    "location": "Yishun, Sembawang",
+    "validTill": "20 Jul 2023",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "123091",
     "name": "Office chair",
     "description": "Office chair like new",
@@ -147,16 +157,6 @@
     "validTill": "18 Jul 2023",
     "ageInYears": 1,
     "dimensions": "about 1 m high for seating",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "123024",
-    "name": "TV stand",
-    "description": "IKEA TV stand console.",
-    "location": "Katong, Joo Chiat, Amber Road",
-    "validTill": "18 Jul 2023",
-    "ageInYears": 4,
-    "dimensions": "2 meters long 50 cm wide and deep approximately",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -767,16 +767,6 @@
     "validTill": "03 Jul 2023",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "122604",
-    "name": "Writing desk and chair",
-    "description": "in good condition",
-    "location": "Upper Thomson, Springleaf",
-    "validTill": "30 Jun 2023",
-    "ageInYears": 4,
-    "dimensions": "H75cm/ L100cm/Depth 60cm estimated",
     "deliveryCostsCoveredByDonor": true
   },
   {
