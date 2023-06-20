@@ -180,16 +180,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "123025",
-    "name": "Super single bed frame",
-    "description": "Super single bed frame .",
-    "location": null,
-    "validTill": "30 Jun 2023",
-    "ageInYears": 4,
-    "dimensions": "200cm x 110cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "123024",
     "name": "TV stand",
     "description": "IKEA TV stand console.",
@@ -446,16 +436,6 @@
     "location": "Kranji, Woodgrove",
     "validTill": "13 Jul 2023",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "122873",
-    "name": "TV Console",
-    "description": "TV Console. \nDelivery fee to be paid by VWO/needy unless special circumstances. For special circumstances, Social Worker to throughoutly vett thru diligently to authenticate situation.",
-    "location": null,
-    "validTill": "30 Jun 2023",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -746,6 +726,26 @@
     "location": "Balestier, Toa Payoh, Serangoon",
     "validTill": "25 Jun 2023",
     "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123077",
+    "name": "Hospital bed frame",
+    "description": "Electrical hospital bed with remote control. In very good working condition. Mattress not included.",
+    "location": null,
+    "validTill": "06 Jul 2023",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123078",
+    "name": "Hospital bed frame",
+    "description": "Electrical hospital bed with remote control. In very good working condition. Mattress not included.",
+    "location": null,
+    "validTill": "06 Jul 2023",
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
