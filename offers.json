@@ -10,16 +10,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "123120",
-    "name": "Metal standing fan",
-    "description": "EuropAce metal blade standing fan. Okay condition with some rust. Very strong wind.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "30 Jun 2023",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "123115",
     "name": "hospital bed",
     "description": "Hospital Bed c/w remote control & power adaptor\n4” Mattress c/w Medical Cover \n2” Mattress c/w Medical Cover \n\nspecialised transport is $180 + GST",
@@ -87,16 +77,6 @@
     "validTill": "20 Jul 2023",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "123072",
-    "name": "Ziera comfort shoes",
-    "description": "Brand new. Leather. Suitable for those with high arch and wide feet.",
-    "location": null,
-    "validTill": "19 Jul 2023",
-    "ageInYears": 1,
-    "dimensions": "Size 36 W",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -876,6 +856,26 @@
     "location": "Geylang, Eunos",
     "validTill": "27 Jun 2023",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123157",
+    "name": "Standing Fan",
+    "description": "The switch-on button on the standing fan need to be pressed harder to turn it on. If you are not fussy, this Euro Ace fan is still in very good working condition. Self collect only at Potong Pasir. My apology as I am unable to send to anywhere nor pay for the delivery fee.",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "27 Jun 2023",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123158",
+    "name": "Standing Fan",
+    "description": "The switch-on button on the standing fan need to be pressed harder to turn it on. If you are not fussy, this Euro Ace fan is still in very good working condition. Self collect only at Potong Pasir. My apology as I am unable to send to anywhere nor pay for the delivery fee.",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "27 Jun 2023",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
