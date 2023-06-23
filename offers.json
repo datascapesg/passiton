@@ -1,5 +1,15 @@
 [
   {
+    "id": "123268",
+    "name": "Wired Magazines",
+    "description": "Wired technology magazine issues 2020 - 2021.\nThe collector to pay the transportation cost or can come and pick the item up.",
+    "location": "Telok Blangah, Harbourfront",
+    "validTill": "12 Jul 2023",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "123266",
     "name": "Paired speakers",
     "description": "Paired speakers with good quality sound.\nThe collector to pay the transportation cost or can come and pick the item up.",
@@ -50,16 +60,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "123260",
-    "name": "Chestnut Spacious Wardrobe",
-    "description": "Spacious wardrobe. The collector to pay the transportation cost.",
-    "location": "Telok Blangah, Harbourfront",
-    "validTill": "12 Jul 2023",
-    "ageInYears": 2,
-    "dimensions": "H-214cm, W-60cm, L-120cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "123246",
     "name": "dining table with chair",
     "description": "Lorenzo Dining Table with glass top and 6 chairs (seats of 2 chairs are broken, backing and legs everything else is fine) \nLength - 163 cm \nWidth - 90 cm\nHeight - 75 cm \n\nSELF COLLECTION : 25 - 27 June, Tanjong Rhu \nOnce confirmed can liase for address",
@@ -67,16 +67,6 @@
     "validTill": "26 Jun 2023",
     "ageInYears": 4,
     "dimensions": "l 163 W 90 H 75 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "123244",
-    "name": "Wooden day-bed with storage & w/o mattress",
-    "description": "Solid wooden day bed without mattress\nComes with 3 drawer compartments, ideal as storage bed",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "24 Jun 2023",
-    "ageInYears": 4,
-    "dimensions": "200cm x 83cm x 86cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
