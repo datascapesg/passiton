@@ -1,5 +1,15 @@
 [
   {
+    "id": "123260",
+    "name": "Chestnut Spacious Wardrobe",
+    "description": "Spacious wardrobe. The collector to pay the transportation cost.",
+    "location": "Telok Blangah, Harbourfront",
+    "validTill": "12 Jul 2023",
+    "ageInYears": 2,
+    "dimensions": "H-214cm, W-60cm, L-120cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "123246",
     "name": "dining table with chair",
     "description": "Lorenzo Dining Table with glass top and 6 chairs (seats of 2 chairs are broken, backing and legs everything else is fine) \nLength - 163 cm \nWidth - 90 cm\nHeight - 75 cm \n\nSELF COLLECTION : 25 - 27 June, Tanjong Rhu \nOnce confirmed can liase for address",
@@ -7,16 +17,6 @@
     "validTill": "26 Jun 2023",
     "ageInYears": 4,
     "dimensions": "l 163 W 90 H 75 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "123245",
-    "name": "Wooden dining table with 4 chairs",
-    "description": "Wooden dining table with 4 chairs\nideal for small families",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "24 Jun 2023",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -57,16 +57,6 @@
     "validTill": "22 Jul 2023",
     "ageInYears": 4,
     "dimensions": "50cm x 40cm x 86cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "123191",
-    "name": "Queen size mattress",
-    "description": "The queen size mattress is 6 months old and in good condition. Tenant said that the mattress height is too high for a loft unit bed and will be replacing it with a 15cm high one.",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "30 Jun 2023",
-    "ageInYears": 1,
-    "dimensions": "190cm x 152cm x 25cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
