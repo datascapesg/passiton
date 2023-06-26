@@ -1,23 +1,5 @@
 [
   {
-    "id": "123319",
-    "category": "Home Furnishing",
-    "name": "single-size mattress",
-    "description": "Family of 8 household members staying in a 2 room rental flat who requires more mattresses for their children. Currently, they are sleeping on the floor without mattresses and affecting their sleep quality which affected the children's school attendance.",
-    "specifications": "nil",
-    "contact": {
-      "org": "MSF Social Service Office @ Woodlands",
-      "name": "Chester Heng Jing Kai",
-      "email": "chester_heng@msf.gov.sg",
-      "phone": [
-        "60138530",
-        "67660097"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "26 Jun 2023"
-  },
-  {
     "id": "123307",
     "category": "Home Furnishing",
     "name": "Wardrobe",
@@ -65,24 +47,6 @@
       "phone": [
         "69783487",
         "65690381"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "23 Jun 2023"
-  },
-  {
-    "id": "123254",
-    "category": "Home Furnishing",
-    "name": "Single Bedframe",
-    "description": "She is a 59 year old living in a rental flat with multiple chronic conditions. She requires further help with financial assistance, and is unable to work due to her medical conditions.",
-    "specifications": "Single Bedframe",
-    "contact": {
-      "org": "MWS Family Service Centre - Yishun",
-      "name": "Amy Chua",
-      "email": "mwsfscy@mws.sg",
-      "phone": [
-        "89010407",
-        "67564995"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -316,23 +280,6 @@
       "phone": [
         "64961278",
         "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Jun 2023"
-  },
-  {
-    "id": "123084",
-    "category": "Home Furnishing",
-    "name": "Single Mattress (thin and foldable)",
-    "description": "Single elderly man living in a 1-room rental flat is looking for a single mattress than is thin and foldable. Thank you very much.",
-    "specifications": null,
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Pek Jie Hui",
-      "email": "jiehui@sccfsc.org.sg",
-      "phone": [
-        "64619200"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -3353,6 +3300,76 @@
     "date": "01 Jun 2023"
   },
   {
+    "id": "123323",
+    "category": "Electrical Home Appliances",
+    "name": "electric microwave",
+    "description": "Family of 8 household members staying in a 2 room rental flat. Client house caught fire due to PMD battery explosion last 2 week. electric microwave was affected during the fire. Client and spouse are not working and cannot afford to purchase a new electric microwave at the moment.",
+    "specifications": "Nil",
+    "contact": {
+      "org": "MSF Social Service Office @ Woodlands",
+      "name": "Chester Heng Jing Kai",
+      "email": "chester_heng@msf.gov.sg",
+      "phone": [
+        "60138530",
+        "67660097"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Jun 2023"
+  },
+  {
+    "id": "123322",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Family of 8 household members staying in a 2 room rental flat. Client house caught fire due to PMD battery explosion last 2 week. Washing Machine was affected during the fire. Client and spouse are not working and cannot afford to purchase a new wahsing machine at the moment.",
+    "specifications": "Nil",
+    "contact": {
+      "org": "MSF Social Service Office @ Woodlands",
+      "name": "Chester Heng Jing Kai",
+      "email": "chester_heng@msf.gov.sg",
+      "phone": [
+        "60138530",
+        "67660097"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Jun 2023"
+  },
+  {
+    "id": "123321",
+    "category": "Electrical Home Appliances",
+    "name": "Television",
+    "description": "Client is a caregiver to her mother who is suspected to have mild intellectual disability and diagnosed with a mental health condition. Due to her caregiving duties, client is unable to attain stable income. The family is hoping to receive a television as their current television is depleting in condition (screen is getting darker). Due to family's financial circumstances, client is unable to afford the purchase of a new television. Kindly contact me at 98598768 for further liaison, thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
+      "phone": [
+        "69503503"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Jun 2023"
+  },
+  {
+    "id": "123320",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Client was previously homeless and is now shifting into a HDB rental flat.  \n\nHe will require a washing machine. Client does not mind preloved (prefers 7-8kg, front load).",
+    "specifications": null,
+    "contact": {
+      "org": "MSF Social Service Office @ Bedok",
+      "name": "Norrashikin Abdul Refaiie",
+      "email": "norrashikin_abdul_refaiie@msf.gov.sg",
+      "phone": [
+        "62436909"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Jun 2023"
+  },
+  {
     "id": "123318",
     "category": "Electrical Home Appliances",
     "name": "Microwave",
@@ -3410,24 +3427,6 @@
     "category": "Electrical Home Appliances",
     "name": "Washing Machine",
     "description": "Low income family requires washing machine as their previous one had broken down. They require support due to financial constraints. Please WhatsApp Ignatius at 8718 8452 or email to Ignatius.Pereira@thkmc.org.sg to liaise.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Lynette Tan",
-      "email": "lynettetan@thkmc.org.sg",
-      "phone": [
-        "64961272",
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "23 Jun 2023"
-  },
-  {
-    "id": "123282",
-    "category": "Electrical Home Appliances",
-    "name": "Standing fan",
-    "description": "Client is a primary caregiver to 6 children (4 of which live with her presently). Family live in a public rental flat, and rely on spouse income to meet needs. Family require support due to financial difficulties. Please WhatsApp Mei at 8484 3156 or email to meilinda.tan@thkmc.org.sg to liaise.",
     "specifications": null,
     "contact": {
       "org": "THK Family Service Centre @ Tanjong Pagar",
