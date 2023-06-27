@@ -1,5 +1,15 @@
 [
   {
+    "id": "123388",
+    "name": "Sona Convectional Oven",
+    "description": "Big convectional oven. Big enough to roast full chicken",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "27 Jul 2023",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "123387",
     "name": "Dark brown 3 door cabinet",
     "description": "Internal shelfing height is about 36cm.\n3 door cabinet.\nContents in the picture not included. Will be removed.",
@@ -907,36 +917,6 @@
     "validTill": "30 Jun 2023",
     "ageInYears": 2,
     "dimensions": "standard chair size",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "122310",
-    "name": "Gabapentin Capsules",
-    "description": "There are 12 packets and each packet has 10 tablets. 3 pkts expire on 09/2024 and 9 pkts expire on 05/2024.",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "28 Jun 2023",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "122309",
-    "name": "Medication for Kidney Patients",
-    "description": "The contents and expiry dates are indicated on the boxes for easy reference.",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "28 Jun 2023",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "122308",
-    "name": "Anoro Inhaler for Asthma Patients",
-    "description": "Total of 6 Boxes of Inhaler. 5 boxes expiring on 06/2024 and 1 box on 08/2024.",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "28 Jun 2023",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
 ]
