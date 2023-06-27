@@ -1,5 +1,15 @@
 [
   {
+    "id": "123382",
+    "name": "Lg fridge",
+    "description": "No longer need fridge as got another one.",
+    "location": "Upper Thomson, Springleaf",
+    "validTill": "27 Jul 2023",
+    "ageInYears": 4,
+    "dimensions": "70x66x165",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "123379",
     "name": "Cold Press Juicer Hurom",
     "description": "Used cold pressed juicer. Motor and spareparts are still in good condition. Only the chamber is yellowish. Overall can be used to make nice and healthy juice.",
@@ -630,16 +640,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "122924",
-    "name": "Commode chair",
-    "description": "Used for shower and toilet. Clean and in working condition. Wheel has stopper",
-    "location": "Telok Blangah, Harbourfront",
-    "validTill": "30 Jun 2023",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "122912",
     "name": "Preloved saree blouses",
     "description": "Medium size saree blouses",
@@ -817,16 +817,6 @@
     "validTill": "04 Jul 2023",
     "ageInYears": 4,
     "dimensions": "medium",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "122479",
-    "name": "Hospital bed",
-    "description": "Good condition hospital bed , comes with air mattress for bed sore .",
-    "location": null,
-    "validTill": "04 Jul 2023",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
