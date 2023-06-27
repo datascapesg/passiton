@@ -1,5 +1,35 @@
 [
   {
+    "id": "123342",
+    "name": "sofa bed",
+    "description": "This item will be available for collection on 17th of August 2023 or 18th August at the latest(moving).",
+    "location": "High Street, Beach Road (part)",
+    "validTill": "27 Jul 2023",
+    "ageInYears": 3,
+    "dimensions": "W196cm/D98cm/H68cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123338",
+    "name": "Chair",
+    "description": "Standard office chair for desks and computer table.",
+    "location": null,
+    "validTill": "27 Jul 2023",
+    "ageInYears": 1,
+    "dimensions": "Standard office chair",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123337",
+    "name": "Single bed",
+    "description": "Single size mattress.",
+    "location": null,
+    "validTill": "27 Jul 2023",
+    "ageInYears": 1,
+    "dimensions": "90x190cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "123334",
     "name": "Leather Sofa",
     "description": "MOVE OUT of Singapore and giving away a great sofa. Surface worn but still in good condition",
@@ -127,6 +157,16 @@
     "validTill": "30 Jun 2023",
     "ageInYears": 4,
     "dimensions": "24 inch screen",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123339",
+    "name": "Baby cot",
+    "description": "Baby cot composed of a mattress and 4 stoppers. Ideal for small babies. Completely new and never used",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "25 Jul 2023",
+    "ageInYears": 2,
+    "dimensions": "90 x 150",
     "deliveryCostsCoveredByDonor": true
   },
   {
