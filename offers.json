@@ -1,5 +1,35 @@
 [
   {
+    "id": "123494",
+    "name": "Similac stage 2",
+    "description": "1 can (850g) of Similac stage 2 available, expiry date 17 Sept 2023. I can deliver to a mutually convenient MRT station after office hours.",
+    "location": "Geylang, Eunos",
+    "validTill": "01 Aug 2023",
+    "ageInYears": 1,
+    "dimensions": "850g",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123493",
+    "name": "Friso Stage 3",
+    "description": "1 large can of Friso Stage 3 available, expiry date mid August. Can deliver to a mutually convenient MRT station after office hours.",
+    "location": "Geylang, Eunos",
+    "validTill": "01 Aug 2023",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123492",
+    "name": "IKEA Storage Cabinet",
+    "description": "Black/brown IKEA display cabinet. Shelves need to be secured. Still in good condition.",
+    "location": "Watten Estate, Novena, Thomson",
+    "validTill": "01 Aug 2023",
+    "ageInYears": 3,
+    "dimensions": "198cm x 89cm x 34cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "123491",
     "name": "Dryer",
     "description": "Dryer still in good condition.",
