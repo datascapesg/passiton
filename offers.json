@@ -50,26 +50,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "123494",
-    "name": "Similac stage 2",
-    "description": "1 can (850g) of Similac stage 2 available, expiry date 17 Sept 2023. I can deliver to a mutually convenient MRT station after office hours.",
-    "location": "Geylang, Eunos",
-    "validTill": "01 Aug 2023",
-    "ageInYears": 1,
-    "dimensions": "850g",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "123493",
-    "name": "Friso Stage 3",
-    "description": "1 large can of Friso Stage 3 available, expiry date mid August. Can deliver to a mutually convenient MRT station after office hours.",
-    "location": "Geylang, Eunos",
-    "validTill": "01 Aug 2023",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "123492",
     "name": "IKEA Storage Cabinet",
     "description": "Black/brown IKEA display cabinet. Shelves need to be secured. Still in good condition.",
@@ -77,26 +57,6 @@
     "validTill": "01 Aug 2023",
     "ageInYears": 3,
     "dimensions": "198cm x 89cm x 34cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "123491",
-    "name": "Dryer",
-    "description": "Dryer still in good condition.",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "01 Aug 2023",
-    "ageInYears": 4,
-    "dimensions": "60cm by 60cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "123490",
-    "name": "Adult diapers n inserts",
-    "description": "Adult diapers n insert.",
-    "location": "Upper Thomson, Springleaf",
-    "validTill": "01 Aug 2023",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -130,32 +90,12 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "123486",
-    "name": "Iron Board and Electric Steam Iron",
-    "description": "Used but still in very good condition",
-    "location": "Yishun, Sembawang",
-    "validTill": "31 Jul 2023",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "123485",
     "name": "Cabinet 2 Doors",
     "description": "Used cabinet.",
     "location": "Yishun, Sembawang",
     "validTill": "31 Jul 2023",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "123484",
-    "name": "Mayer personal blender",
-    "description": "As per photo, used <10 times.\nCollection at punggol mrt.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "31 Jul 2023",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -267,6 +207,16 @@
     "validTill": "29 Jul 2023",
     "ageInYears": 1,
     "dimensions": "Queen fitted sheet -153cm (W) x 191cm (L) + 43cm (H)",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123500",
+    "name": "Black 3 Tier Wooden Drawer",
+    "description": "Black wooden chest drawer bought less than 1 year.",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "29 Jul 2023",
+    "ageInYears": 1,
+    "dimensions": "80cmX48cmX78cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
