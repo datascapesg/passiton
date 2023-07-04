@@ -1,5 +1,15 @@
 [
   {
+    "id": "123547",
+    "name": "Diaper and diaper insert",
+    "description": "Diaper and diaper inserts",
+    "location": "Upper Thomson, Springleaf",
+    "validTill": "03 Aug 2023",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "123540",
     "name": "Single bed frame from IKEA",
     "description": "Single bed frame with mattress and bedsheets. However mattress has some stain.",
@@ -276,6 +286,16 @@
     "location": null,
     "validTill": "28 Jul 2023",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123545",
+    "name": "Sona Convectional Oven",
+    "description": "Big convectional oven. Big enough to roast full chicken",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "27 Jul 2023",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
