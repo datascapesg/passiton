@@ -1,22 +1,22 @@
 [
   {
-    "id": "123582",
-    "name": "Refrigerator",
-    "description": "Still in working condition refrigerator",
-    "location": "Upper Thomson, Springleaf",
-    "validTill": "06 Jul 2023",
+    "id": "123593",
+    "name": "Dining table with 6 chairs",
+    "description": "Well maintained dining table with 6 chairs",
+    "location": null,
+    "validTill": "20 Jul 2023",
     "ageInYears": 4,
-    "dimensions": null,
+    "dimensions": "160X90cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "123560",
-    "name": "Refrigerator",
-    "description": "Fridge for storing drinks or bread. Lightly used, with slight scratches. No longer needed because I am relocating.",
-    "location": "Jurong",
-    "validTill": "03 Aug 2023",
+    "id": "123592",
+    "name": "Hospital Bed and Elderly Portable Toilet Bowl",
+    "description": "Hospital bed, mattress and portable toilet bowl. All in very good condition.",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "04 Aug 2023",
     "ageInYears": 3,
-    "dimensions": "510.0 x 489.0 x 489.0",
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -220,16 +220,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "123449",
-    "name": "Queen-sized bedsheet, duvet cover, pillowcases",
-    "description": "Brand new quilt cover bedding set\n1x fitted sheet\n1x quilt cover\n2x pillow covers",
-    "location": "Little India",
-    "validTill": "29 Jul 2023",
-    "ageInYears": 1,
-    "dimensions": "Queen fitted sheet -153cm (W) x 191cm (L) + 43cm (H)",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "123503",
     "name": "Black 3 Tier Wooden Drawer",
     "description": "Black wooden chest drawer bought less than 1 year.",
@@ -237,16 +227,6 @@
     "validTill": "29 Jul 2023",
     "ageInYears": 1,
     "dimensions": "80cmX48cmX78cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "123440",
-    "name": "Ling Carpet",
-    "description": "A pre-loved rug still in good condition.  It is not heavy or big, just right 195cm x 135cm.",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "28 Jul 2023",
-    "ageInYears": 2,
-    "dimensions": "135cm by 195cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -337,16 +317,6 @@
     "validTill": "26 Jul 2023",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "123309",
-    "name": "Black shelf",
-    "description": "It is a black shelf that is in good condition.",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "26 Jul 2023",
-    "ageInYears": 3,
-    "dimensions": "77cm x 39cm x 75cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -597,16 +567,6 @@
     "validTill": "18 Jul 2023",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "123029",
-    "name": "Ilea shelf",
-    "description": "Open shelf, still good condition just need to clear as no space",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "18 Jul 2023",
-    "ageInYears": 4,
-    "dimensions": "40 short side, 60 width, 64 heignt",
     "deliveryCostsCoveredByDonor": true
   },
   {
