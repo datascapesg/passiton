@@ -1,5 +1,35 @@
 [
   {
+    "id": "123637",
+    "name": "Washing Machine",
+    "description": "Top load Hitachi washing machine",
+    "location": null,
+    "validTill": "14 Jul 2023",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123636",
+    "name": "Study table",
+    "description": "Study / computer table ; movable; adjustable height",
+    "location": null,
+    "validTill": "29 Jul 2023",
+    "ageInYears": 3,
+    "dimensions": "80cmx40cmx65cm; adjustable height",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123635",
+    "name": "Table and chair",
+    "description": "Study / computer table; the chair and table lamp can be provided if needed",
+    "location": "Queenstown, Tiong Bahru",
+    "validTill": "29 Jul 2023",
+    "ageInYears": 3,
+    "dimensions": "80cmx60cmx65cm; adjustable height",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "123604",
     "name": "Tabletop Storage Rack with pull-out tray",
     "description": "Dimension below:\n\nLength: 46cm\nHeight: 20cm\nWidth: 17cm \n\nSelf collect only at Potong pasir mrt. If you are representing an organisation, please note that I do not wish to liaise directly with your client and appreciate that you can arrange for self-collection at Potong Pasir MRT. I am unable to pay for collection fee or send to VWO/needy family.",
@@ -297,16 +327,6 @@
     "validTill": "27 Jul 2023",
     "ageInYears": 2,
     "dimensions": "D15xH33xW22 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "123333",
-    "name": "Extendable marble dining table",
-    "description": "Extendable marble dining table",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "15 Jul 2023",
-    "ageInYears": 2,
-    "dimensions": "Seat 6 to 10 pax",
     "deliveryCostsCoveredByDonor": true
   },
   {
