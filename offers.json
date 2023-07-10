@@ -1,15 +1,5 @@
 [
   {
-    "id": "123734",
-    "name": "IKEA bookshelf",
-    "description": "Simple book shelf (books not included)",
-    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-    "validTill": "15 Jul 2023",
-    "ageInYears": 3,
-    "dimensions": "60 x 24 x 180",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "123733",
     "name": "IKEA bookshelf",
     "description": "Simple book shelf",
@@ -217,16 +207,6 @@
     "validTill": "14 Jul 2023",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "123636",
-    "name": "Study table",
-    "description": "Study / computer table ; movable; adjustable height",
-    "location": null,
-    "validTill": "29 Jul 2023",
-    "ageInYears": 3,
-    "dimensions": "80cmx40cmx65cm; adjustable height",
     "deliveryCostsCoveredByDonor": true
   },
   {
