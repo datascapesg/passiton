@@ -30,16 +30,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "123731",
-    "name": "Television",
-    "description": "TV set (non-smart/ need TV box if watching broadcast) with remote controller. Probably >4 yrs old but in working condition.",
-    "location": "Jurong",
-    "validTill": "09 Aug 2023",
-    "ageInYears": 4,
-    "dimensions": "51\"",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "123725",
     "name": "Leather recliner sofa",
     "description": "3 seater recliner sofa where middle seat is converted to table (built in).",
@@ -127,6 +117,26 @@
     "validTill": "31 Jul 2023",
     "ageInYears": 4,
     "dimensions": "35 x 35 x 138 cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123755",
+    "name": "Sofa x 2units",
+    "description": "Suitable for elderly \nCan recline",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "08 Aug 2023",
+    "ageInYears": 2,
+    "dimensions": "70cm x 103cm x 80cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123756",
+    "name": "Sofa x 2units",
+    "description": "Suitable for elderly \nCan recline",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "08 Aug 2023",
+    "ageInYears": 2,
+    "dimensions": "70cm x 103cm x 80cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
