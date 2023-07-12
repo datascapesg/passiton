@@ -665,23 +665,6 @@
     "date": "04 Jul 2023"
   },
   {
-    "id": "123537",
-    "category": "Home Furnishing",
-    "name": "TV Console",
-    "description": "Elderly man living in a rental HDB alone. Recently, his previously donated tv console storage had broken, shelf collapsed. He finds it difficult to find a replacement as he is living on financial assistance.",
-    "specifications": "L x D x H (180 x 40 x 55)",
-    "contact": {
-      "org": "Viriya Family Service Centre",
-      "name": "Ong Qiu Lin",
-      "email": "qiulin_ong@viriya.org.sg",
-      "phone": [
-        "62858033"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 Jul 2023"
-  },
-  {
     "id": "123513",
     "category": "Home Furnishing",
     "name": "Sliding-door Wardrobe",
@@ -3153,6 +3136,24 @@
     "date": "13 Jun 2023"
   },
   {
+    "id": "123850",
+    "category": "Others",
+    "name": "Groceries Needs",
+    "description": "Our client faces concerns of FV and marital issues in the household and she is not able to seek support from her husband. Hence, she needs some assistance in their family groceries needs.",
+    "specifications": "Groceries Needs",
+    "contact": {
+      "org": "MWS Family Service Centre - Yishun",
+      "name": "Amy Chua",
+      "email": "mwsfscy@mws.sg",
+      "phone": [
+        "83688612",
+        "67564995"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Jul 2023"
+  },
+  {
     "id": "118072",
     "category": "Others",
     "name": "Food rations",
@@ -4389,6 +4390,42 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "12 Jun 2023"
+  },
+  {
+    "id": "123849",
+    "category": "Electrical Home Appliances",
+    "name": "Standing fan",
+    "description": "Client is a low-income, unemployed divorcee who has been rough-sleeping for more than a year, and has recently managed to move into a rental flat in July 2023. Although this allowed client to return to employment as he found a proper place for rest and self-care, client needs further assistance to allow him to conduct his laundry and other daily functioning while he focuses on rebuilding his finances at this juncture.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Chan Yvonne",
+      "email": "yvonne-chan@fycs.org",
+      "phone": [
+        "69783516",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Jul 2023"
+  },
+  {
+    "id": "123848",
+    "category": "Electrical Home Appliances",
+    "name": "Standing fan",
+    "description": "Client is a low-income, unemployed divorcee who has been rough-sleeping for more than a year, and has recently managed to move into a rental flat in July 2023. Although this allowed client to return to employment as he found a proper place for rest and self-care, client needs further assistance to allow him to conduct his laundry and other daily functioning while he focuses on rebuilding his finances at this juncture.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Services SSO @ Taman Jurong",
+      "name": "Chan Yvonne",
+      "email": "yvonne-chan@fycs.org",
+      "phone": [
+        "69783516",
+        "62672900"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Jul 2023"
   },
   {
     "id": "123845",
