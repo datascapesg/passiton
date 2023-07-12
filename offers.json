@@ -1,15 +1,5 @@
 [
   {
-    "id": "123818",
-    "name": "King mattress and frame",
-    "description": "King sized mattress with bed frame",
-    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-    "validTill": "31 Jul 2023",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "123816",
     "name": "Couch/chaise lounge",
     "description": "Hi, the couch is older than 4 years - probably about 8 years but not used for the last 4 years.  It is old but in OK condition.  Would request that delivery costs be covered if possible.",
@@ -30,16 +20,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "123806",
-    "name": "Double bed frame and mattress",
-    "description": "Ikea Tarva bed frame (pine) and double mattress\nin good condition",
-    "location": "Katong, Joo Chiat, Amber Road",
-    "validTill": "10 Aug 2023",
-    "ageInYears": 3,
-    "dimensions": "150 by 200 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "123783",
     "name": "Ladies Sandals",
     "description": "Gold Ladies Sandals",
@@ -47,16 +27,6 @@
     "validTill": "01 Aug 2023",
     "ageInYears": 4,
     "dimensions": "US 9/Euro 40",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "123725",
-    "name": "Leather recliner sofa",
-    "description": "3 seater recliner sofa where middle seat is converted to table (built in).",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "20 Jul 2023",
-    "ageInYears": 4,
-    "dimensions": "190cm x 80cm x 100cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -107,6 +77,16 @@
     "validTill": "07 Aug 2023",
     "ageInYears": 4,
     "dimensions": "Approximately 44inches by 23 inches",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123819",
+    "name": "Travel Baby Cot",
+    "description": "Joie Cheer Travel Cot - Little Explorer\nVery lightly used; almost brand new!",
+    "location": "Queenstown, Tiong Bahru",
+    "validTill": "07 Aug 2023",
+    "ageInYears": 1,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {

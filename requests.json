@@ -507,24 +507,6 @@
     "date": "05 Jul 2023"
   },
   {
-    "id": "123597",
-    "category": "Home Furnishing",
-    "name": "Sofa Bed",
-    "description": "Client is unfit for work due to health condition. She is a single parent to 5 children. Family's current sofa bed has spoilt and hopes to receive a donation to replace it.",
-    "specifications": null,
-    "contact": {
-      "org": "AWWA Family Service Centre",
-      "name": "Lim Hui Ying",
-      "email": "huiying_lim@awwa.org.sg",
-      "phone": [
-        "65119431",
-        "65119456"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "05 Jul 2023"
-  },
-  {
     "id": "123587",
     "category": "Home Furnishing",
     "name": "Wardrobe",
@@ -3081,6 +3063,24 @@
     "date": "13 Jun 2023"
   },
   {
+    "id": "123821",
+    "category": "Others",
+    "name": "TENA DIAPER Proskin Slip (TAPE M)",
+    "description": "Client is 75 years old, staying with her daughter. She was diagnosed with Gastro Colon Cancer in 2017. Due to the sign effect of the treatment, client has difficulties to walk. She needs to use diaper regularly.",
+    "specifications": null,
+    "contact": {
+      "org": "AIN Society",
+      "name": "Nur'Ain Binte Mohamed Said",
+      "email": "nurain@ainsociety.org.sg",
+      "phone": [
+        "68485116",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Jul 2023"
+  },
+  {
     "id": "123817",
     "category": "Others",
     "name": "Electric Guitar",
@@ -3443,24 +3443,6 @@
     },
     "deliveryCostsCoveredByDonor": false,
     "date": "05 Jul 2023"
-  },
-  {
-    "id": "123580",
-    "category": "Others",
-    "name": "Android mobile phone",
-    "description": "Client is married with school-going child. He recently lost his job as a deliveryman and in the midst of looking for job. His mobile phone is faulty and has difficulty replacing it due to family's financial difficulties. Donation of mobile phone would greatly support Client especially when he is employed back as deliveryman and requires mobile phone use for his job.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Family Service Centre @ Tanjong Pagar",
-      "name": "Lynette Tan",
-      "email": "lynettetan@thkmc.org.sg",
-      "phone": [
-        "64961272",
-        "62706711"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 Jul 2023"
   },
   {
     "id": "123568",
@@ -4299,6 +4281,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "12 Jun 2023"
+  },
+  {
+    "id": "123826",
+    "category": "Electrical Home Appliances",
+    "name": "microwave",
+    "description": "Client is a 60s man living alone. He is permanently unfit for work due to multiple health issues. Client needs a microwave to heat up overnight food to avoid food wastage.",
+    "specifications": "NA",
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Emma Zhang",
+      "email": "emmazhang@fycs.org",
+      "phone": [
+        "69783022",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Jul 2023"
   },
   {
     "id": "123809",
@@ -5749,6 +5749,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "12 Jun 2023"
+  },
+  {
+    "id": "123820",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "Mdm A is an elderly client known to Thye Hua Kwan Moral Charities (THKMC). She is suffering from arthritis on both her knees and has trouble with her ambulation. THKMC is looking for a wheelchair to ensure that she is able to navigate the community safely. If you know of someone who has the items for donation, please contact Qhairah Qhaliesah (Case Manager) at 9177 6614 or Qhairahqhaliesah@thkmc.org.sg Since October 2011, THKMC was incorporated as a charity with an IPC status to provide multiple social and welfare services to the community at large. THKMC provides assistance to the Elderly, Families, Children & Youth, and Persons with Disabilities, through more than 70 programmes and services. THK Elderly Services Division provides many programmes and services to serve the elderly in need – one of which includes THK Cluster Support. THK Cluster Support provides social support through case management, monitoring, and basic counselling services to vulnerable seniors, and facilitates coordination in the provision of community-based care and support services to the seniors. This service aims to improve the quality of life of vulnerable seniors, particularly for low or no income seniors who are socially-isolated and have minimal or no family support.",
+    "specifications": null,
+    "contact": {
+      "org": "THK Cluster Support @ Bedok",
+      "name": "Qhairah Qhaliesah",
+      "email": "qhairahqhaliesah@thkmc.org.sg",
+      "phone": [
+        "62418171"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "12 Jul 2023"
   },
   {
     "id": "123732",
