@@ -1,5 +1,75 @@
 [
   {
+    "id": "123901",
+    "category": "Home Furnishing",
+    "name": "Dining Table",
+    "description": "Family requires dining table to improve home hygiene that has been impacted by meals on their respective bed",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
+      "name": "Hannah Wong",
+      "email": "wongteenteen@fycs.org",
+      "phone": [
+        "69783108",
+        "67625215"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Jul 2023"
+  },
+  {
+    "id": "123900",
+    "category": "Home Furnishing",
+    "name": "Mattress",
+    "description": "Family requires mattresses for their 3 sons who have been sleeping on the concrete floor",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
+      "name": "Hannah Wong",
+      "email": "wongteenteen@fycs.org",
+      "phone": [
+        "69783108",
+        "67625215"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Jul 2023"
+  },
+  {
+    "id": "123899",
+    "category": "Home Furnishing",
+    "name": "super single bed frame only",
+    "description": "Client (M/73) is an elderly staying alone in rental flat. Recovered from stroke but still weak. No saving and income, depend mainly on Silver Support Scheme and SSO.\n\nCurrently, the client's bed frame damaged and he is sleeping on a soft arm chair but he is old and weak, getting up is a problem.\n\nsuper single bed frame only, special request the base to be solid plywood. Also for new blanket and sleep\n\n(9487 2967)",
+    "specifications": "super single",
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Teddy Fu",
+      "email": "teddyfu@thkmc.org.sg",
+      "phone": [
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Jul 2023"
+  },
+  {
+    "id": "123897",
+    "category": "Home Furnishing",
+    "name": "Folding Bed",
+    "description": "Due to space constrain, the family need an extra bed to be folded after used. \nMy client is a single father of 5 children, is currently looking for a job after his previous job contract was expired.(Kak, 9487 2967)",
+    "specifications": "single size",
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Teddy Fu",
+      "email": "teddyfu@thkmc.org.sg",
+      "phone": [
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Jul 2023"
+  },
+  {
     "id": "123882",
     "category": "Home Furnishing",
     "name": "TV Console",
@@ -463,23 +533,6 @@
     "name": "kitchen cabinet",
     "description": "client is a single mother, who is employed with a 10-year-old daughter.",
     "specifications": "Length: 120, Width: 42, Height: 93",
-    "contact": {
-      "org": "Serangoon Moral Family Service Centre",
-      "name": "Muhammad Amin",
-      "email": "muhdamin@smfsc.org.sg",
-      "phone": [
-        "62847123"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "07 Jul 2023"
-  },
-  {
-    "id": "123670",
-    "category": "Home Furnishing",
-    "name": "1 queen size storage bed frame",
-    "description": "client is a single mother, with a 10-year-old daughter.",
-    "specifications": null,
     "contact": {
       "org": "Serangoon Moral Family Service Centre",
       "name": "Muhammad Amin",
@@ -4264,6 +4317,57 @@
     "date": "13 Jun 2023"
   },
   {
+    "id": "123896",
+    "category": "Electrical Home Appliances",
+    "name": "electric soup pot (halal)",
+    "description": "Client and husband, with 2 school-going children recently opened a food-stall business to supplement their income. Family lives in a 2-room rental flat and hope that their new stall buisness will alleviate the family from financial difficulties and enhance their quality of life. Donation of necessary items will allow family to save some money and they can focus on purchasing raw ingredients and setting up the stall. \n\nItem requested: electric soup pot\n\nDonor to kindly cover transport arrangement and delivery cost please! Thank you",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
+      "name": "Tasya Puspita Maulany",
+      "email": "tasya@amkfsc.org.sg",
+      "phone": [
+        "64535349"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Jul 2023"
+  },
+  {
+    "id": "123895",
+    "category": "Electrical Home Appliances",
+    "name": "Heated display cabinet",
+    "description": "Client and husband, with 2 school-going children recently opened a food-stall business to supplement their income. Family lives in a 2-room rental flat and hope that their new stall buisness will alleviate the family from financial difficulties and enhance their quality of life. Donation of necessary items will allow family to save some money and they can focus on purchasing raw ingredients and setting up the stall. \n\nItem requested: Heated display cabinet \n\nDonor to kindly cover transport arrangement and delivery cost please. Thanks!",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
+      "name": "Tasya Puspita Maulany",
+      "email": "tasya@amkfsc.org.sg",
+      "phone": [
+        "64535349"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Jul 2023"
+  },
+  {
+    "id": "123893",
+    "category": "Electrical Home Appliances",
+    "name": "Electrical deep fry (halal)",
+    "description": "Client and husband, with 2 school-going children recently opened a food-stall business to supplement their income. Family lives in a 2-room rental flat and hope that their new stall buisness will alleviate the family from financial difficulties and enhance their quality of life. Donation of necessary items will allow family to save some money and they can focus on purchasing raw ingredients and setting up the stall. \n\nShe hopes to receive an electrical deep fry. \n\nDonor to kindly cover transport arrangement and delivery cost. Thanks!",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Ang Mo Kio",
+      "name": "Tasya Puspita Maulany",
+      "email": "tasya@amkfsc.org.sg",
+      "phone": [
+        "64535349"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Jul 2023"
+  },
+  {
     "id": "123887",
     "category": "Electrical Home Appliances",
     "name": "Washing Machine",
@@ -5712,6 +5816,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "14 Jun 2023"
+  },
+  {
+    "id": "123898",
+    "category": "Mobility Aids",
+    "name": "wheelchair",
+    "description": "Client resides in a rental flat with her elderly mother. Her elderly mother requires a wheelchair to move about in the community due to her limited mobility, and her current wheelchair is spoiled.( Pei Ying, 9487 2967)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Teddy Fu",
+      "email": "teddyfu@thkmc.org.sg",
+      "phone": [
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Jul 2023"
   },
   {
     "id": "123847",
