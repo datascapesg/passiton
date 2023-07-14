@@ -1,20 +1,20 @@
 [
   {
+    "id": "123885",
+    "name": "Computer monitor",
+    "description": "ASUS VP228HE model\n1920x1080",
+    "location": "Orchard, Cairnhill, River Valley",
+    "validTill": "23 Jul 2023",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "123878",
     "name": "sofa bed",
     "description": "sofa bed",
     "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
     "validTill": "17 Jul 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "123873",
-    "name": "Super single mattress (Max Coil)",
-    "description": "Brand: max coil\nFirm, thick and comfortable mattress\nGood quality and condition",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "12 Aug 2023",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
@@ -376,16 +376,6 @@
     "location": "Geylang, Eunos",
     "validTill": "25 Jul 2023",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "123456",
-    "name": "EasyAir 400 Series Ripple Air Mattress with Pump (4\" Thick)",
-    "description": "https://shop.lifelinecorp.com/products/easyair-400-series-ripple-air-mattress-with-pump-4-thick",
-    "location": null,
-    "validTill": "24 Jul 2023",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
