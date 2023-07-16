@@ -1,5 +1,25 @@
 [
   {
+    "id": "123943",
+    "name": "study desk",
+    "description": "Compact study table",
+    "location": "Kranji, Woodgrove",
+    "validTill": "23 Jul 2023",
+    "ageInYears": 2,
+    "dimensions": "80Lx48Dx140cmH",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123942",
+    "name": "Super Single Mattresses",
+    "description": "Available: \n2 Super Single mattresses \n2 Super Single mattresses with bed frames (sturdy but missing black cloth covering). \nPillows, Bedsheets and Blankets.\nMust deliver before 23 Jul as I am moving out.",
+    "location": "Kranji, Woodgrove",
+    "validTill": "23 Jul 2023",
+    "ageInYears": 4,
+    "dimensions": "107 cm x 190 cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "123941",
     "name": "King Size mattress",
     "description": "Mattress: Carson brand, latex with pocketed spring mattress. Very good condition, rarely used. \nBed frame: plywood is sturdy and in good condition but the black cloth covering is not. If dont mind, can remove the black cloth. Both can be donated. Also can give pillows. \n\nMust be delivered quickly as I am moving out of the country.",
@@ -10,30 +30,10 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "123940",
-    "name": "Children’s toy",
-    "description": "Maths game",
-    "location": null,
-    "validTill": "15 Aug 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "123939",
     "name": "Bath tub",
     "description": "Mother care bath tub",
     "location": "Yishun, Sembawang",
-    "validTill": "15 Aug 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "123938",
-    "name": "Educational toys",
-    "description": "To learn simple maths",
-    "location": null,
     "validTill": "15 Aug 2023",
     "ageInYears": 4,
     "dimensions": null,
