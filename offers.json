@@ -1,5 +1,15 @@
 [
   {
+    "id": "123932",
+    "name": "Hospital Bed",
+    "description": "Hospital Bed to be donated.",
+    "location": "Upper Thomson, Springleaf",
+    "validTill": "23 Jul 2023",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "123931",
     "name": "Regular size acoustic guitar",
     "description": "Regular size acoustic guitar. It is a very old guitar (more than 4 years), but I have been maintaining it and it still sounds good!",
