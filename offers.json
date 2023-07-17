@@ -1,5 +1,45 @@
 [
   {
+    "id": "123982",
+    "name": "Electric bread toaster",
+    "description": "Brand new",
+    "location": "Watten Estate, Novena, Thomson",
+    "validTill": "16 Aug 2023",
+    "ageInYears": 1,
+    "dimensions": "Normal",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123981",
+    "name": "Electric roaster",
+    "description": "Brand new but not used for > 10 years.",
+    "location": "Watten Estate, Novena, Thomson",
+    "validTill": "16 Aug 2023",
+    "ageInYears": 1,
+    "dimensions": "Normal",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123980",
+    "name": "Home Party Set 16 pieces",
+    "description": "Brand new cocktail glass set",
+    "location": "Watten Estate, Novena, Thomson",
+    "validTill": "16 Aug 2023",
+    "ageInYears": 1,
+    "dimensions": "Normal",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123979",
+    "name": "Foldable Chair",
+    "description": "Brand new foldable chair from Decathlon.",
+    "location": "Watten Estate, Novena, Thomson",
+    "validTill": "16 Aug 2023",
+    "ageInYears": 1,
+    "dimensions": "Normal",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "123978",
     "name": "milk powder enfragrow stage 4",
     "description": "Enfragrow milk powder stage 4",
@@ -117,26 +157,6 @@
     "validTill": "15 Aug 2023",
     "ageInYears": 3,
     "dimensions": "136cm(L) * 76.5cm(W) * 114cm(H)",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "123927",
-    "name": "Disposable Nitrile Gloves",
-    "description": "3 packs of Size S Nitrile Disposable Gloves",
-    "location": "Katong, Joo Chiat, Amber Road",
-    "validTill": "15 Aug 2023",
-    "ageInYears": 1,
-    "dimensions": "Small",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "123926",
-    "name": "Disposable Adult Diapers",
-    "description": "3 PACKS (36PCS EACH PACK) of S/M SIZES",
-    "location": "Katong, Joo Chiat, Amber Road",
-    "validTill": "15 Aug 2023",
-    "ageInYears": 1,
-    "dimensions": "S/M",
     "deliveryCostsCoveredByDonor": true
   },
   {
