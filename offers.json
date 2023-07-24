@@ -20,16 +20,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "124211",
-    "name": "Rascal & Friends Pull up Diaper",
-    "description": "Blessing 1 brand new packet. Size L(10 - 15kg). 52 Pants.",
-    "location": "Geylang, Eunos",
-    "validTill": "22 Aug 2023",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "124210",
     "name": "Dining table",
     "description": "Some metal parts are rusty, scratches on the glass surface. \nOne of the suction out of the 4 suction is missing, hence the glass can be slightly unstable.",
@@ -237,16 +227,6 @@
     "validTill": "18 Aug 2023",
     "ageInYears": 2,
     "dimensions": "190 x 90 x 17cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "124071",
-    "name": "Oven/ Toaster",
-    "description": "Oven works well for heating, making cakes/ cookies and even roasting fish",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "17 Aug 2023",
-    "ageInYears": 4,
-    "dimensions": "H 22 x L 45 x W 33 cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -607,6 +587,16 @@
     "validTill": "27 Jul 2023",
     "ageInYears": 2,
     "dimensions": "80 cm/200cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "124214",
+    "name": "Single bed",
+    "description": "Single size mattress.",
+    "location": null,
+    "validTill": "27 Jul 2023",
+    "ageInYears": 1,
+    "dimensions": "90x190cm",
     "deliveryCostsCoveredByDonor": true
   }
 ]
