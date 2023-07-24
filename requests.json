@@ -663,23 +663,6 @@
     "date": "14 Jul 2023"
   },
   {
-    "id": "123882",
-    "category": "Home Furnishing",
-    "name": "TV Console",
-    "description": "Client is solely managing her household expenses with financial assistance, and she also has 3 young children. With debts and loans to be repaid, client is finding it difficult to purchase the requested item.",
-    "specifications": null,
-    "contact": {
-      "org": "Sembawang Family Service Centre",
-      "name": "Po Woei Yee",
-      "email": "powoeiyee@sfsc.org.sg",
-      "phone": [
-        "67547050"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "14 Jul 2023"
-  },
-  {
     "id": "118348",
     "category": "Home Furnishing",
     "name": "Wardrobe",
@@ -1292,17 +1275,18 @@
     "date": "23 Jun 2023"
   },
   {
-    "id": "124234",
+    "id": "111292",
     "category": "Infant and Children Items",
-    "name": "Preloved Children Story Books (4-6 years old)",
-    "description": "A single mother is looking for some pre-loved preschool English language story books (preferable for 4- to 6 years old) for her 6-year-old daughter. Daughter is waiting to be enrolled into a Special Needs school. She has asked her mother for some books but mother is currently unemployed and does not have the financial means to purchase the books amidst caregiver stressors. \n\nThank you!",
+    "name": "S26 milk stage 3 and stage 4",
+    "description": "Low income family with 2 young children (2 preschooler). Mother is a widow and unemployed as family is settling some matters. The family requires assistance in purchasing milk for her 2 children for the upcoming month.",
     "specifications": null,
     "contact": {
-      "org": "Fei Yue Early Intervention Programme for Infants and Children - Upper Thomson",
-      "name": "Sharon Ng",
-      "email": "sharonng@fycs.org",
+      "org": "FRCS Family Service Centre - Clementi",
+      "name": "Hillary Heng",
+      "email": "hillary@frcsfsc.sg",
       "phone": [
-        "67719600"
+        "67799488ext54",
+        "67799488"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -3151,6 +3135,91 @@
     "date": "27 Jun 2023"
   },
   {
+    "id": "124241",
+    "category": "Others",
+    "name": "Halal Canned Sardines",
+    "description": "PPIS Family Service Centre (West) is appealing for 30-50 cans of Halal sardines in tomato sauce for its beneficiaries. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yuliza Mohamad Yusoff",
+      "email": "yuliza@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Jul 2023"
+  },
+  {
+    "id": "124240",
+    "category": "Others",
+    "name": "Halal canned Yeo chicken curry",
+    "description": "PPIS Family Service Centre (West) is appealing for 30- 50 cans of halal Yeo's chicken curry for its beneficiaries. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yuliza Mohamad Yusoff",
+      "email": "yuliza@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Jul 2023"
+  },
+  {
+    "id": "124239",
+    "category": "Others",
+    "name": "Vegetable oil",
+    "description": "PPIS Family Service Centre (West) is appealing for 30 - 50 of 2 litre bottles of vegetable oil for its beneficiaries. Thank you",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yuliza Mohamad Yusoff",
+      "email": "yuliza@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Jul 2023"
+  },
+  {
+    "id": "124238",
+    "category": "Others",
+    "name": "Refillable Halal Milo",
+    "description": "PPIS Family Service Centre (West) is appealing for 30 - 50 packets of Halal Refillable Milo for its beneficiaries. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yuliza Mohamad Yusoff",
+      "email": "yuliza@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Jul 2023"
+  },
+  {
+    "id": "124237",
+    "category": "Others",
+    "name": "halal Instant noodles",
+    "description": "PPIS Family Service Centre (West) is appealing for 30 - 50 packets of halal  instant noodles in assorted flavours for its beneficiaries. Thank you.",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Yuliza Mohamad Yusoff",
+      "email": "yuliza@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Jul 2023"
+  },
+  {
     "id": "124228",
     "category": "Others",
     "name": "Fresh eggs",
@@ -3391,6 +3460,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "20 Jul 2023"
+  },
+  {
+    "id": "124092",
+    "category": "Others",
+    "name": "steel trolley",
+    "description": "Brief description of client's situation: Client (F/53) was diagnosed with schizoaffective disorder and is taking care of her elderly mother who had a stroke as well as her elderly father with dementia. Client was recently terminated from her job and is currently looking for employment. A donated push cart would be greatly appreciated as client has health issues and requires assistance of a push cart to transport heavy items. She does not have sufficient financial resources to purchase a new push cart. Thank you very much! (Hui Wen)",
+    "specifications": null,
+    "contact": {
+      "org": "THK Family Service Centre @ Bedok North",
+      "name": "Teddy Fu",
+      "email": "teddyfu@thkmc.org.sg",
+      "phone": [
+        "64491440"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "19 Jul 2023"
   },
   {
     "id": "124092",
@@ -3738,24 +3824,6 @@
       "email": "jiancheng@sccfsc.org.sg",
       "phone": [
         "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Jul 2023"
-  },
-  {
-    "id": "122573",
-    "category": "Others",
-    "name": "N95 Masks",
-    "description": "Sunbeam Place @ Children's Society requires 4 Boxes (50pcs) of N95 Masks for their residents.\nDelivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore Children's Society Corporate Office",
-      "name": "Kartini",
-      "email": "dik@childrensociety.org.sg",
-      "phone": [
-        "69787279",
-        "62732010"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -4161,6 +4229,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "23 Jun 2023"
+  },
+  {
+    "id": "123126",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "My ct's washing machine recently broke down and would require a new one. Ct recently started working and hence, is unable to afford a new washing machine. Ct's family is a family of 4 with a young child.",
+    "specifications": null,
+    "contact": {
+      "org": "FRCS Family Service Centre - Clementi",
+      "name": "Hillary Heng",
+      "email": "hillary@frcsfsc.sg",
+      "phone": [
+        "67799488ext54",
+        "67799488"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "24 Jul 2023"
   },
   {
     "id": "121395",
