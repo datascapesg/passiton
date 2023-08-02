@@ -1,12 +1,32 @@
 [
   {
-    "id": "124556",
-    "name": "Washing Machine",
-    "description": "7.5 kg Washing machine. Small. Good working condition.",
-    "location": "Middle Road, Golden Mile",
-    "validTill": "08 Aug 2023",
+    "id": "124560",
+    "name": "Chest of drawers",
+    "description": "Still in working condition",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "14 Aug 2023",
     "ageInYears": 4,
-    "dimensions": "7.5kg",
+    "dimensions": "80cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "124559",
+    "name": "Tv console tv",
+    "description": "Tv cabinet only\nIn good condition",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "14 Aug 2023",
+    "ageInYears": 4,
+    "dimensions": "160cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "124558",
+    "name": "3 seater sofa",
+    "description": "Clean and quite new",
+    "location": "Queenstown, Tiong Bahru",
+    "validTill": "08 Aug 2023",
+    "ageInYears": 2,
+    "dimensions": "W264cm, D161cm, H85cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
