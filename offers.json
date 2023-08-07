@@ -1,5 +1,15 @@
 [
   {
+    "id": "124717",
+    "name": "Sofa",
+    "description": "Fabric L-shape sofa \n1.8m x 1.3m (L shape)",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "30 Aug 2023",
+    "ageInYears": 4,
+    "dimensions": "1.8m x 1.3m",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "124715",
     "name": "DVD Player",
     "description": "Unused DVD player by client of FSC, client would like to give it away as he does not use it.",
@@ -76,16 +86,6 @@
     "location": null,
     "validTill": "25 Aug 2023",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "124685",
-    "name": "Washing machine",
-    "description": "Washing machine",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "31 Aug 2023",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
