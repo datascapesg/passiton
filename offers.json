@@ -1,5 +1,15 @@
 [
   {
+    "id": "124815",
+    "name": "Kitchen Cabinet",
+    "description": "Kitchen cabinet",
+    "location": "Yishun, Sembawang",
+    "validTill": "15 Aug 2023",
+    "ageInYears": 1,
+    "dimensions": "60x32x106",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "124814",
     "name": "BRAND NEW Marble top table with 6 chairs",
     "description": "Brand new dining table, very very heavy. Giving it away because it doesn’t suit the house, and there are some flaws on the dining table leg (Color chip off, but is not very obvious). Table is slight shaky but still very stable. If not too picky, this table looks really good.",
@@ -36,16 +46,6 @@
     "location": "Orchard, Cairnhill, River Valley",
     "validTill": "31 Aug 2023",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "124789",
-    "name": "Bed Blocker",
-    "description": "Bed Blocker, prevent baby fall from adult bed.",
-    "location": "Watten Estate, Novena, Thomson",
-    "validTill": "01 Sep 2023",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -377,16 +377,6 @@
     "validTill": "31 Aug 2023",
     "ageInYears": 2,
     "dimensions": "NIL",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "124675",
-    "name": "Study table",
-    "description": "Used study table. It is still sturdy, but with paint/ pen marks due to wear and tear",
-    "location": null,
-    "validTill": "11 Aug 2023",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
