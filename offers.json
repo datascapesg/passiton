@@ -1,5 +1,15 @@
 [
   {
+    "id": "124819",
+    "name": "Convection Oven",
+    "description": "35L mistral oven",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "31 Aug 2023",
+    "ageInYears": 4,
+    "dimensions": "55x33x33cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "124818",
     "name": "Hot and cold water dispenser with filter",
     "description": "Hot and cold water dispenser with filter",
@@ -637,6 +647,26 @@
     "validTill": "30 Aug 2023",
     "ageInYears": 4,
     "dimensions": "medium",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "124821",
+    "name": "Chairs qty: 10",
+    "description": "Quality solid wood chair. Fairly new look",
+    "location": null,
+    "validTill": "27 Aug 2023",
+    "ageInYears": 3,
+    "dimensions": "Height 110cm width &amp; depth 56cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "124822",
+    "name": "Chairs qty: 10",
+    "description": "Quality solid wood chair. Fairly new look",
+    "location": null,
+    "validTill": "27 Aug 2023",
+    "ageInYears": 3,
+    "dimensions": "Height 110cm width &amp; depth 56cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
