@@ -3409,24 +3409,6 @@
     "date": "01 Aug 2023"
   },
   {
-    "id": "124514",
-    "category": "Others",
-    "name": "Mee suan",
-    "description": "Our home need 30 packets of (350g) Mee Suan (any brand) for our 522 elderly residents. Thank you.",
-    "specifications": null,
-    "contact": {
-      "org": "Ju Eng Home For Senior Citizens",
-      "name": "Lee Jun Hui",
-      "email": "junhui@jeh.org.sg",
-      "phone": [
-        "64846890ext127",
-        "64846890"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "01 Aug 2023"
-  },
-  {
     "id": "124513",
     "category": "Others",
     "name": "Biscuit",
@@ -3915,23 +3897,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "21 Jul 2023"
-  },
-  {
-    "id": "124160",
-    "category": "Others",
-    "name": "Fresh Food Ration",
-    "description": "A family of 7 with 6 children are looking to have halal food ration, milk and diapers.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - Kreta Ayer Family Services",
-      "name": "Chua Pei Ching",
-      "email": "peiching.chua@montfortcare.org.sg",
-      "phone": [
-        "63254753"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "20 Jul 2023"
   },
   {
     "id": "124146",
@@ -5458,93 +5423,6 @@
     "date": "14 Jul 2023"
   },
   {
-    "id": "124892",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "bicycle",
-    "description": "Client is a single mother who requires a bicycle to send her daughter to school and also for her leisure activities to destress.",
-    "specifications": null,
-    "contact": {
-      "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
-      "name": "Clara Cheah",
-      "email": "claracheah@fycs.org",
-      "phone": [
-        "69783121",
-        "67625215"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "14 Aug 2023"
-  },
-  {
-    "id": "124802",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Handphone",
-    "description": "A family in rental flat is looking at a secondhand phone as one of their child's phone (also a secondhand phone) is currently spoilt. The family is unable to afford a new phone.",
-    "specifications": null,
-    "contact": {
-      "org": "South Central Community FSC Ltd",
-      "name": "Goh Guan Qun",
-      "email": "guanqun@sccfsc.org.sg",
-      "phone": [
-        "64619200"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Aug 2023"
-  },
-  {
-    "id": "124622",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Bicycles",
-    "description": "Requesting for 2 bicycles for my centre. Preferably foldable ones, but non-foldable ones are also ok. Must be in good working condition for safety. \n\nPls email me or whatsapp/call at 97232082 during working hrs Mon-Fri, 9am-5pm.",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Active Ageing Centre - Kebun Baru",
-      "name": "Sarah Seetow",
-      "email": "sarahseetow@mws.sg",
-      "phone": [
-        "62384136"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "04 Aug 2023"
-  },
-  {
-    "id": "124203",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Sewing machines",
-    "description": "Elderly clients are hoping to start a sewing club but do not have resources to get sewing machines.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - GoodLife! @ Telok Blangah",
-      "name": "Chen Jie Mei",
-      "email": "jiemei.chen@montfortcare.org.sg",
-      "phone": [
-        "62746904",
-        "62708327"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Jul 2023"
-  },
-  {
-    "id": "124169",
-    "category": "Leisure and Healthy Lifestyle",
-    "name": "Fresh Food Ration",
-    "description": "Family of 6 with 4 young children of which 2 have special needs require food ration to meet their daily needs. Family also requires milk and diapers for their infant. Help for the family is greatly appreciated! Thank you.",
-    "specifications": null,
-    "contact": {
-      "org": "Montfort Care - Kreta Ayer Family Services",
-      "name": "Nur Batrisyia",
-      "email": "batrisyia.rani@montfortcare.org.sg",
-      "phone": [
-        "63254753"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Jul 2023"
-  },
-  {
     "id": "124557",
     "category": "Learning Aids",
     "name": "Laptop",
@@ -5686,6 +5564,76 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "21 Jul 2023"
+  },
+  {
+    "id": "124892",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "bicycle",
+    "description": "Client is a single mother who requires a bicycle to send her daughter to school and also for her leisure activities to destress.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
+      "name": "Clara Cheah",
+      "email": "claracheah@fycs.org",
+      "phone": [
+        "69783121",
+        "67625215"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "14 Aug 2023"
+  },
+  {
+    "id": "124802",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Handphone",
+    "description": "A family in rental flat is looking at a secondhand phone as one of their child's phone (also a secondhand phone) is currently spoilt. The family is unable to afford a new phone.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Goh Guan Qun",
+      "email": "guanqun@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "10 Aug 2023"
+  },
+  {
+    "id": "124622",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Bicycles",
+    "description": "Requesting for 2 bicycles for my centre. Preferably foldable ones, but non-foldable ones are also ok. Must be in good working condition for safety. \n\nPls email me or whatsapp/call at 97232082 during working hrs Mon-Fri, 9am-5pm.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Active Ageing Centre - Kebun Baru",
+      "name": "Sarah Seetow",
+      "email": "sarahseetow@mws.sg",
+      "phone": [
+        "62384136"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "04 Aug 2023"
+  },
+  {
+    "id": "124203",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Sewing machines",
+    "description": "Elderly clients are hoping to start a sewing club but do not have resources to get sewing machines.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - GoodLife! @ Telok Blangah",
+      "name": "Chen Jie Mei",
+      "email": "jiemei.chen@montfortcare.org.sg",
+      "phone": [
+        "62746904",
+        "62708327"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "22 Jul 2023"
   },
   {
     "id": "124231",
