@@ -120,16 +120,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "125008",
-    "name": "Display cabinet, Bookshelf, Shelf",
-    "description": "Less than 2 years old cabinet. Can not be dismantled. \nDelivery will be covered by me. \nPlease help to arrange transport.",
-    "location": null,
-    "validTill": "19 Aug 2023",
-    "ageInYears": 2,
-    "dimensions": "83cm x 24cm x 183cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "125005",
     "name": "Bed Rail - Stander EZ Adjust Bed Rail",
     "description": "Bed Rail - supports for senior to get up from bed and prevent falls",
@@ -147,6 +137,16 @@
     "validTill": "31 Dec 2023",
     "ageInYears": 1,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "125064",
+    "name": "Mitsubishi refrigerator",
+    "description": "Mitsubishi (238L) 2doors refrigerator / fridge ($200 + Free Delivery & 2mths warranty)Model : MR-F30X-SL-PColor : SilverEco-friendly Certification(s) : ✓ ✓ (NEA)+) Front Cooling System+) Anti Bacteria Deodorizer+) Revolving Ice Tray+) Deodorizer+) Frost Free System+) Free Style Pocket+) Sliding Multi-room+) Tempered Glass Shelf+) Vitamin FactoryIn Good Working ConditionPrice: $200 + Free Delivery & 2mths warrantyCapacity: 300L (Gross) 238L (Net)Dimension: 1592mm(H) 555mm(W) 654mm(D)",
+    "location": null,
+    "validTill": "15 Sep 2023",
+    "ageInYears": 2,
+    "dimensions": "1592*555*654 (mm)",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -477,16 +477,6 @@
     "validTill": "31 Aug 2023",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "124731",
-    "name": "Airfryer",
-    "description": "Rarely used",
-    "location": "Pasir Panjang, Hong Leong Garden, Clementi New Town",
-    "validTill": "19 Aug 2023",
-    "ageInYears": 1,
-    "dimensions": "35cmX15cmX15cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -906,26 +896,6 @@
     "location": "Bishan, Ang Mo Kio",
     "validTill": "20 Aug 2023",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "124953",
-    "name": "Hospital bed , hospital chairs , wheelchair,como",
-    "description": "Hospital bed , single bed with mattress, wheelchair, hospital chair and como seat to be donate .",
-    "location": "Kranji, Woodgrove",
-    "validTill": "19 Aug 2023",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "124135",
-    "name": "Bath tub and toys",
-    "description": "In good condition",
-    "location": "Yishun, Sembawang",
-    "validTill": "19 Aug 2023",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
