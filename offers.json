@@ -1,5 +1,15 @@
 [
   {
+    "id": "125178",
+    "name": "Hospital Bed",
+    "description": "Hospital bed that is not in use.  Very good condition.",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "22 Sep 2023",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "125166",
     "name": "Small cabinet",
     "description": "In good condition",
@@ -177,16 +187,6 @@
     "validTill": "17 Sep 2023",
     "ageInYears": 4,
     "dimensions": "92x 51 x 77 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "125045",
-    "name": "Dining table and chairs",
-    "description": "Have been some years but in good condition",
-    "location": null,
-    "validTill": "17 Sep 2023",
-    "ageInYears": 4,
-    "dimensions": "Diameter 122 cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -407,16 +407,6 @@
     "validTill": "31 Aug 2023",
     "ageInYears": 4,
     "dimensions": "2 m x 1m",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "124916",
-    "name": "Sofas and coffee table",
-    "description": "Two seater and three seater fabric sofas and granite coffee table",
-    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
-    "validTill": "09 Sep 2023",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
