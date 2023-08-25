@@ -1617,24 +1617,6 @@
     "date": "24 Aug 2023"
   },
   {
-    "id": "124176",
-    "category": "Home Furnishing",
-    "name": "Single-size Mattress",
-    "description": "Request for a single size mattress for a clients, who is in his 60s and facing health-related challenges that prevent him from working. Given his heavy frame, he requires a thick and supportive mattress to ensure a comfortable rest. He is currently resting on an old and saggy mattress.",
-    "specifications": null,
-    "contact": {
-      "org": "Reach Community Service Society",
-      "name": "Joy Lew",
-      "email": "joy.lew@reach.org.sg",
-      "phone": [
-        "68010873",
-        "62522566"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "24 Aug 2023"
-  },
-  {
     "id": "125241",
     "category": "Home Furnishing",
     "name": "Window grilles installation",
@@ -2730,6 +2712,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "04 Aug 2023"
+  },
+  {
+    "id": "125268",
+    "category": "Mobility Aids",
+    "name": "Wheelchair",
+    "description": "An elderly male has been recently diagnosed with advanced-stage cancer and has also lost his job. His daily functioning has been impacted as his physical mobility has weakened. However, the financial strain on his family makes it challenging for them to afford a wheelchair to assist him in moving around.",
+    "specifications": null,
+    "contact": {
+      "org": "Whampoa Family Service Centre",
+      "name": "Jaslyn Chin",
+      "email": "jaslynchin@kkcs.org.sg",
+      "phone": [
+        "63260309",
+        "63260300"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Aug 2023"
   },
   {
     "id": "125228",
@@ -4240,6 +4240,24 @@
     "date": "25 Jul 2023"
   },
   {
+    "id": "125269",
+    "category": "Others",
+    "name": "Ensure Plus Vanilla Milk (for Adults)",
+    "description": "An elderly male has been recently diagnosed with advanced-stage cancer and has also lost his job. His appetite has deteriorated over time and he has cut down on solid food. However, the financial strain on his family makes it challenging for them to afford Ensure Plus Vanilla Milk to supplement his diet.",
+    "specifications": null,
+    "contact": {
+      "org": "Whampoa Family Service Centre",
+      "name": "Jaslyn Chin",
+      "email": "jaslynchin@kkcs.org.sg",
+      "phone": [
+        "63260309",
+        "63260300"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Aug 2023"
+  },
+  {
     "id": "125251",
     "category": "Others",
     "name": "Wet Wipe",
@@ -5666,40 +5684,6 @@
     "date": "31 Jul 2023"
   },
   {
-    "id": "125131",
-    "category": "Attires/Clothings",
-    "name": "Female sports shoes (Eur size 40; 25.5cm)",
-    "description": "Female senior is in her 70's has multiple chronic medical conditions and does not has much family support. She is undergoing medical treatment and doctor has recommended her to be more physically active. Senior has not been employed for many years due to poor health, and her current sport shoes has spoilt for many months, however does not has the financial ability to purchase a new pair. Any kind blessing of a pair of female sports shoes (Eur size 40; 25.5cm) will be much appreciated. You may whatsapp or call Emily at 8368 6285 for more information, thank you!",
-    "specifications": null,
-    "contact": {
-      "org": "THK CCMS @ AMK",
-      "name": "Emily Koh",
-      "email": "emily.koh@thkmc.org.sg",
-      "phone": [
-        "65564833"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "21 Aug 2023"
-  },
-  {
-    "id": "124792",
-    "category": "Attires/Clothings",
-    "name": "Boys' underwears",
-    "description": "Single parent of 1 child who has developmental delay. Mother has been unemployed for a year after terminated due to frequent absenteeism due to caregiving for child whenever he is sick. Mother and child relies on social support for monthly sustenance. New underwears are essential for his toilet training.",
-    "specifications": "Fits for 5-6 years old",
-    "contact": {
-      "org": "Fei Yue - Early Intervention Centre For Children",
-      "name": "Jessie Chong",
-      "email": "jessiechong@fycs.org",
-      "phone": [
-        "65656260"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "10 Aug 2023"
-  },
-  {
     "id": "124926",
     "category": "Kitchen Utility Items",
     "name": "Sink with a stand platform",
@@ -5734,5 +5718,22 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "15 Aug 2023"
+  },
+  {
+    "id": "125131",
+    "category": "Attires/Clothings",
+    "name": "Female sports shoes (Eur size 40; 25.5cm)",
+    "description": "Female senior is in her 70's has multiple chronic medical conditions and does not has much family support. She is undergoing medical treatment and doctor has recommended her to be more physically active. Senior has not been employed for many years due to poor health, and her current sport shoes has spoilt for many months, however does not has the financial ability to purchase a new pair. Any kind blessing of a pair of female sports shoes (Eur size 40; 25.5cm) will be much appreciated. You may whatsapp or call Emily at 8368 6285 for more information, thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "THK CCMS @ AMK",
+      "name": "Emily Koh",
+      "email": "emily.koh@thkmc.org.sg",
+      "phone": [
+        "65564833"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "21 Aug 2023"
   }
 ]
