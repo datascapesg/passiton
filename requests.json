@@ -1544,24 +1544,6 @@
     "date": "14 Aug 2023"
   },
   {
-    "id": "125634",
-    "category": "Mobility Aids",
-    "name": "Wheelchair",
-    "description": "Patient is wheelchair bound and has to attend multiple dialysis sessions a week. His current wheelchair is broken hence he requires a replacement wheelchair. Patient is unable to work and has limited financial support hence unable to purchase a wheelchair for himself.",
-    "specifications": null,
-    "contact": {
-      "org": "National Kidney Foundation (NKF)",
-      "name": "Johanna Lim",
-      "email": "johanna.lim@nkfs.org",
-      "phone": [
-        "62990200",
-        "65062244"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": false,
-    "date": "06 Sep 2023"
-  },
-  {
     "id": "122935",
     "category": "Mobility Aids",
     "name": "Motorised Wheelchair",
@@ -3410,6 +3392,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "07 Aug 2023"
+  },
+  {
+    "id": "125647",
+    "category": "Others",
+    "name": "Handphone",
+    "description": "Smartphone required for a beneficiary that allows him to use basic apps like WhatsApp and Singpass. Beneficiary is currently looking for a job. As he does not have a phone, he is not able to be contacted for job opportunities. No brand/specification required.",
+    "specifications": null,
+    "contact": {
+      "org": "Singapore After Care Association",
+      "name": "Lin Mingjie",
+      "email": "mingjie@saca.org.sg",
+      "phone": [
+        "62942350"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "06 Sep 2023"
   },
   {
     "id": "125639",
