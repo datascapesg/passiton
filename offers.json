@@ -80,16 +80,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "125607",
-    "name": "King size mattress",
-    "description": "King size mattress",
-    "location": "Seletar",
-    "validTill": "01 Oct 2023",
-    "ageInYears": 1,
-    "dimensions": "182cm x 190cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "125552",
     "name": "Hoist Machine - medical grade, home use",
     "description": "Brand new - used less than 3 times. Hoist machine with hoist cloth. Medical grade. For mobility assistance to move in and out of bed/ chairs.",
@@ -556,6 +546,16 @@
     "location": "Serangoon Garden, Hougang, Ponggol",
     "validTill": "09 Sep 2023",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "123754",
+    "name": "Baby Chair",
+    "description": "Ingenuity Baby Base 2-in-1 Seat. Self-collection please.",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "31 Dec 2023",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
