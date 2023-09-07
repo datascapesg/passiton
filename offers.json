@@ -1,5 +1,15 @@
 [
   {
+    "id": "125680",
+    "name": "Hospital bed",
+    "description": "Woodframe hospital bed",
+    "location": null,
+    "validTill": "30 Sep 2023",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "125674",
     "name": "Rattan Chair",
     "description": "In good condition",
@@ -177,6 +187,26 @@
     "validTill": "30 Sep 2023",
     "ageInYears": 2,
     "dimensions": "130cm x 70cm x 4 inch",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "125675",
+    "name": "Side Table",
+    "description": "Ikea Bedside table, with drawer. It is quite heavy. Not suitable for elderly and very young kids to carry and move.",
+    "location": "Watten Estate, Novena, Thomson",
+    "validTill": "14 Sep 2023",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "125677",
+    "name": "Side Table",
+    "description": "Ikea Bedside table, with drawer. It is quite heavy. Not suitable for elderly and very young kids to carry and move.",
+    "location": "Watten Estate, Novena, Thomson",
+    "validTill": "14 Sep 2023",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -434,6 +464,26 @@
     "name": "Children study table",
     "description": "As per pictures\nPls arrange own courier.",
     "location": "Queenstown, Tiong Bahru",
+    "validTill": "17 Sep 2023",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "125676",
+    "name": "Three layer rack/table",
+    "description": "Has been many years",
+    "location": "Bishan, Ang Mo Kio",
+    "validTill": "17 Sep 2023",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "125678",
+    "name": "Three layer rack/table",
+    "description": "Has been many years",
+    "location": "Bishan, Ang Mo Kio",
     "validTill": "17 Sep 2023",
     "ageInYears": 4,
     "dimensions": null,
