@@ -1,5 +1,15 @@
 [
   {
+    "id": "125899",
+    "name": "Vacuum cleaner",
+    "description": "Philips vacuum cleaner.",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "30 Sep 2023",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "125897",
     "name": "Bed Rail",
     "description": "Bed rail is in brand new condition. Unused. The bed rail has to be screwed to the existing bed frame.\n\n2 units to donate.",
@@ -245,16 +255,6 @@
     "description": "Brand new toilet frame",
     "location": null,
     "validTill": "01 Oct 2023",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "125723",
-    "name": "Blood Thinner medication",
-    "description": "Expiry day is 2024. Hv 3 boxes",
-    "location": null,
-    "validTill": "15 Sep 2023",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
@@ -746,16 +746,6 @@
     "location": "Balestier, Toa Payoh, Serangoon",
     "validTill": "16 Sep 2023",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "124942",
-    "name": "Juicer / Juice Extractor",
-    "description": "USED 2x ONLY. PowerPac Juice Extractor (NOT blender). Arrange own transport and pickup at my unit only.",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "15 Sep 2023",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
