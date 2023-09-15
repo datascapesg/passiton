@@ -1,5 +1,15 @@
 [
   {
+    "id": "125924",
+    "name": "Ladies Clothes",
+    "description": "Clothings are suitable for small size ladies. Most clothes are from Uniqlo (Size S) and Osmose (Size M). Osmose cutting is small so is as good as Size S.",
+    "location": null,
+    "validTill": "15 Oct 2023",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "125918",
     "name": "Dryer",
     "description": "This is a standard dryer",
@@ -7,16 +17,6 @@
     "validTill": "22 Sep 2023",
     "ageInYears": 4,
     "dimensions": "unknown",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "125916",
-    "name": "Dryer",
-    "description": "Less frequent use",
-    "location": "Seletar",
-    "validTill": "20 Sep 2023",
-    "ageInYears": 4,
-    "dimensions": "680mm x 600mm x 850mm",
     "deliveryCostsCoveredByDonor": true
   },
   {
