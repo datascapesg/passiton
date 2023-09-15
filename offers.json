@@ -1,12 +1,52 @@
 [
   {
-    "id": "125901",
-    "name": "Microwave oven in working condition",
-    "description": "National Microwave oven in working condition. Model: NN-S650WF",
+    "id": "125920",
+    "name": "4 seater Dining Set",
+    "description": "This 120cm solid wood dining table comes with 4 chairs",
+    "location": "Upper Thomson, Springleaf",
+    "validTill": "22 Sep 2023",
+    "ageInYears": 3,
+    "dimensions": "120cm in length",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "125918",
+    "name": "Dryer",
+    "description": "This is a standard dryer",
+    "location": "Upper Thomson, Springleaf",
+    "validTill": "22 Sep 2023",
+    "ageInYears": 4,
+    "dimensions": "unknown",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "125916",
+    "name": "Dryer",
+    "description": "Less frequent use",
+    "location": "Seletar",
+    "validTill": "20 Sep 2023",
+    "ageInYears": 4,
+    "dimensions": "680mm x 600mm x 850mm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "125915",
+    "name": "Washing Machine",
+    "description": "Less frequent used washing machine.",
+    "location": "Seletar",
+    "validTill": "20 Sep 2023",
+    "ageInYears": 4,
+    "dimensions": "680mm x 600mm x 850mm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "125913",
+    "name": "2 seater sofa",
+    "description": "2 seater fabric sofa, lightly used",
     "location": "Serangoon Garden, Hougang, Ponggol",
     "validTill": "15 Oct 2023",
     "ageInYears": 4,
-    "dimensions": "301mm H X 518mm W X 407mm D",
+    "dimensions": "L160cm x W85cm x H75cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -637,16 +677,6 @@
     "validTill": "22 Sep 2023",
     "ageInYears": 3,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "125180",
-    "name": "Small cabinet",
-    "description": "In good condition",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "21 Sep 2023",
-    "ageInYears": 4,
-    "dimensions": "61x46x63cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
