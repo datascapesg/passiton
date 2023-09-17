@@ -1,5 +1,55 @@
 [
   {
+    "id": "125954",
+    "name": "Hospital Bed",
+    "description": "Hospital Bed with motorised air mattress",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "17 Oct 2023",
+    "ageInYears": 2,
+    "dimensions": "2.2m (L) x 1.0m (W) x 0.9m (H)",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "125953",
+    "name": "Kid study chair and back support",
+    "description": "Kids study chair and back support",
+    "location": null,
+    "validTill": "01 Oct 2023",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "125952",
+    "name": "Foldable table with chair",
+    "description": "Foldable table and chair.",
+    "location": null,
+    "validTill": "01 Oct 2023",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "125951",
+    "name": "White school shoe",
+    "description": "Condition 9/10, cleaned.",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "17 Oct 2023",
+    "ageInYears": 1,
+    "dimensions": "23cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "125950",
+    "name": "Badminton sports shoes",
+    "description": "Condition 8/10",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "17 Oct 2023",
+    "ageInYears": 2,
+    "dimensions": "Size 37",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "125948",
     "name": "Cotton queen mattress",
     "description": "Queen size cotton mattress",
