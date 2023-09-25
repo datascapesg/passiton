@@ -1,5 +1,57 @@
 [
   {
+    "id": "126323",
+    "category": "Home Furnishing",
+    "name": "Storage box",
+    "description": "The family of three have just moved into their new rental flat. The client is facing financial difficulties and client is requesting for a storage box or cabinet to store their 5-year-old son's toys.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Sengkang",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@amkfsc.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "25 Sep 2023"
+  },
+  {
+    "id": "126322",
+    "category": "Home Furnishing",
+    "name": "Queen Sized Bed frame with storage space",
+    "description": "The family of three have just moved into their new rental flat. As family is having financial difficulties, they are urgently requesting for a queen-sized bed frame with storage space for their new home.",
+    "specifications": "152cm x 190cm",
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Sengkang",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@amkfsc.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Sep 2023"
+  },
+  {
+    "id": "126321",
+    "category": "Home Furnishing",
+    "name": "New mattress (1) + Wooden Bedframe (1)",
+    "description": "Elderly female client moving into her flat at Bukit Batok requires a new mattress and a wooden bedframe in good condition. Delivery to be covered by donor. Please contact Rebekah at 80229520 or int_rebekah@newhopecs.org.sg to donate.",
+    "specifications": "Single-sized",
+    "contact": {
+      "org": "New Hope Community Services",
+      "name": "Goh Ann Tat",
+      "email": "anntat@newhopecs.org.sg",
+      "phone": [
+        "87952925",
+        "63059620"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Sep 2023"
+  },
+  {
     "id": "126315",
     "category": "Home Furnishing",
     "name": "Looking for 2nd half drawers (wooden & plastic)",
@@ -384,24 +436,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "19 Sep 2023"
-  },
-  {
-    "id": "126002",
-    "category": "Home Furnishing",
-    "name": "5 single-sized mattresses + 4 single-sized bedframes",
-    "description": "Please contact Rebekah at int_rebekah@newhopecs.org.sg or WhatsApp her at 80225920 with your name and a picture of the item(s). Clients who have stayed at our shelter have finally obtained keys to their rental flats. They will be moving out soon to various locations. We require a total of 5 single-sized mattresses and 4 single-sized bedframes (as one client already has a bedframe) to help them get started in their new homes. Your kind donation and covering of delivery cost and arrangement would be greatly appreciated as clients come from needy backgrounds. Whatever you are able to donate (in good condition) will be greatly appreciated. Thank you very much :)",
-    "specifications": "Single-sized (not super-single)",
-    "contact": {
-      "org": "New Hope Community Services",
-      "name": "Goh Ann Tat",
-      "email": "anntat@newhopecs.org.sg",
-      "phone": [
-        "87952925",
-        "63059620"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "18 Sep 2023"
   },
   {
     "id": "125998",
@@ -1776,24 +1810,6 @@
     "date": "15 Sep 2023"
   },
   {
-    "id": "125929",
-    "category": "Electrical Home Appliances",
-    "name": "Standing fans",
-    "description": "Please contact Rebekah at 80225920 (WhatsApp) or int_rebekah@newhopecs.org.sg to donate. Elderly clients are moving into their single-room flat and require standing fans to keep cool. We appreciate your kind donation and coverage of transportation cost. Please send the fans unassembled. Thank you!",
-    "specifications": "-",
-    "contact": {
-      "org": "New Hope Community Services",
-      "name": "Goh Ann Tat",
-      "email": "anntat@newhopecs.org.sg",
-      "phone": [
-        "87952925",
-        "63059620"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "15 Sep 2023"
-  },
-  {
     "id": "125921",
     "category": "Electrical Home Appliances",
     "name": "Non-standing Floor Fan",
@@ -1911,24 +1927,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "14 Sep 2023"
-  },
-  {
-    "id": "125869",
-    "category": "Electrical Home Appliances",
-    "name": "1x TV",
-    "description": "Please contact Rebekah at int_rebekah@newhopecs.org.sg or WhatsApp her at 80225920 to donate. 2 elderly clients are moving into their one-room flat in Redhill. They would like a working TV to entertain them when at home. Donor to cover delivery fee. We appreciate your generosity :)",
-    "specifications": "-",
-    "contact": {
-      "org": "New Hope Community Services",
-      "name": "Goh Ann Tat",
-      "email": "anntat@newhopecs.org.sg",
-      "phone": [
-        "87952925",
-        "63059620"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 Sep 2023"
   },
   {
     "id": "125864",
@@ -2085,42 +2083,6 @@
       "phone": [
         "65511676",
         "65117272"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Sep 2023"
-  },
-  {
-    "id": "125792",
-    "category": "Electrical Home Appliances",
-    "name": "1 Fridge",
-    "description": "2 elderly clients from our shelter are moving into their one-room flat in RedHill and require a functioning refrigerator for their shared use. Kindly contact Rebekah at int_rebekah@newhopecs.org.sg or 80225920 to donate. We would greatly appreciate your donation inclusive of the delivery fee. Do include a picture of the refrigerator in your correspondence with us so that we can assess suitability.",
-    "specifications": "Not too large",
-    "contact": {
-      "org": "New Hope Community Services",
-      "name": "Goh Ann Tat",
-      "email": "anntat@newhopecs.org.sg",
-      "phone": [
-        "87952925",
-        "63059620"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "12 Sep 2023"
-  },
-  {
-    "id": "125790",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine",
-    "description": "2 elderly clients from our shelter are moving into their one-room flat in RedHill. They would require 1x Washing Machine in good and functioning condition to share. Kindly contact Rebekah at int_rebekah@newhopecs.org.sg or WhatsApp her at 80225920 to donate. We would greatly appreciate your donation as well as coverage of delivery costs if possible. Thank you so much.",
-    "specifications": "-",
-    "contact": {
-      "org": "New Hope Community Services",
-      "name": "Goh Ann Tat",
-      "email": "anntat@newhopecs.org.sg",
-      "phone": [
-        "87952925",
-        "63059620"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -2804,6 +2766,40 @@
     "date": "04 Sep 2023"
   },
   {
+    "id": "126324",
+    "category": "Others",
+    "name": "Tena incontinence pad",
+    "description": "The client is working as a healthcare worker and is the sole breadwinner of the family of three. She suffers from congenital urinary bladder anomalies and is urgently requesting for Tena incontinence pads to manage her condition.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Sengkang",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@amkfsc.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "25 Sep 2023"
+  },
+  {
+    "id": "126319",
+    "category": "Others",
+    "name": "Fresh grocerries",
+    "description": "Family has 3 school going children and she has been unemployed and only found a new job recently. She has been dependent on her ex-husband children maintenance to meet basic needs when she was unemployed but her ex-husband has recently been incarcerated and she loses her only source of financial support. Client require fresh groceries to cook and meet the basic needs of herself and her children.",
+    "specifications": null,
+    "contact": {
+      "org": "AMKFSC Community Services Ltd - Punggol",
+      "name": "Amos Liu",
+      "email": "amosliu@amkfsc.org.sg",
+      "phone": [
+        "64355323"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "25 Sep 2023"
+  },
+  {
     "id": "126280",
     "category": "Others",
     "name": "Food Rations",
@@ -3416,6 +3412,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "25 Aug 2023"
+  },
+  {
+    "id": "126320",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Low-income family living in a 2-room rental flat with the youngest age 2 years old. Husband is the sole breadwinner of the family as wife lost her job recently last month. Family hopes to obtain assistance on milk and diapers for their 2 years old daughter. Family is hoping to obtain a few packets of Merries Pants XL. For further liaison on delivery address etc, kindly contact me at 98598768. Thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "PPIS Family Service Centre (East)",
+      "name": "Nur Afrina",
+      "email": "fsceast@ppis.sg",
+      "phone": [
+        "60156970"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "25 Sep 2023"
   },
   {
     "id": "126312",
