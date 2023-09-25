@@ -1,5 +1,15 @@
 [
   {
+    "id": "126356",
+    "name": "Baking tools",
+    "description": "Miscellaneous baking tools such as mixer, weighing scale, rolling pin etc.",
+    "location": "Jurong",
+    "validTill": "09 Oct 2023",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "126349",
     "name": "GREY SOFA",
     "description": "3 SEATER SOFA",
@@ -707,16 +717,6 @@
     "validTill": "27 Sep 2023",
     "ageInYears": 1,
     "dimensions": "not sure",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "125288",
-    "name": "Dining table",
-    "description": "Tempered Round glass table",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "26 Sep 2023",
-    "ageInYears": 3,
-    "dimensions": "1200x1200mm",
     "deliveryCostsCoveredByDonor": true
   }
 ]
