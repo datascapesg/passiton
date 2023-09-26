@@ -1,5 +1,77 @@
 [
   {
+    "id": "126363",
+    "category": "Home Furnishing",
+    "name": "Single Bed",
+    "description": "An elderly 73 male with mild cognitive impairment is using a broken old bed as he does not know how to approach others for help for his needs. Looking for a metal frame bed to prevent bed bugs infestation.",
+    "specifications": "Single Bed",
+    "contact": {
+      "org": "NTUC Health Cluster Support @ Bukit Merah",
+      "name": "Jordan Kek",
+      "email": "jordan.k@ntuchealth.sg",
+      "phone": [
+        "97978057",
+        "62741602"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "26 Sep 2023"
+  },
+  {
+    "id": "126362",
+    "category": "Home Furnishing",
+    "name": "Queen size bed frame",
+    "description": "Client's wife is pregnant with 4th child and has backpain issues. They hope to be blessed with a queen size bedframe.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Family Service Centre @ Bukit Batok",
+      "name": "Wong Wing Sang",
+      "email": "wongwingsang@fycs.org",
+      "phone": [
+        "69784261",
+        "65690381"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Sep 2023"
+  },
+  {
+    "id": "126360",
+    "category": "Home Furnishing",
+    "name": "Dining Chairs",
+    "description": "Family moving to a HDB rental flat require 2 dinning chairs to furnish their kitchen.",
+    "specifications": null,
+    "contact": {
+      "org": "AWWA Transitional Shelter",
+      "name": "Lau Chor Eng",
+      "email": "choreng_lau@awwa.org.sg",
+      "phone": [
+        "65117271",
+        "65117272"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Sep 2023"
+  },
+  {
+    "id": "126357",
+    "category": "Home Furnishing",
+    "name": "Small Cupboard for Baby Items",
+    "description": "Client is an expectant mother who will be raising her child by herself. She has limited family support and also has financial challenges after being terminated from her job midway through her pregnancy. Hence, Client needs help with securing baby essentials before the birth. The small cupboard would be used for storing her baby items.",
+    "specifications": null,
+    "contact": {
+      "org": "REACH Family Service Centre",
+      "name": "Sarah Bethany Rozario",
+      "email": "sarah.rozario@reach.org.sg",
+      "phone": [
+        "68010729",
+        "62522566"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Sep 2023"
+  },
+  {
     "id": "126355",
     "category": "Home Furnishing",
     "name": "Pillows (x2)",
@@ -1352,6 +1424,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "31 Aug 2023"
+  },
+  {
+    "id": "126361",
+    "category": "Electrical Home Appliances",
+    "name": "Top-loading Washing Machine (7 kg or smaller)",
+    "description": "Elderly uncle 65 yrs old living in 1-room HDB rental flat needs top-loading washing machine. His current washing machine has broken down. Because of the space problem, the ideal size would be 7kg. Many Thanks.",
+    "specifications": "7 kg",
+    "contact": {
+      "org": "Moral Active Ageing Centre @ Kaki Bukit",
+      "name": "Gary Tan",
+      "email": "garytan@chkmps.org.sg",
+      "phone": [
+        "64486247"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Sep 2023"
   },
   {
     "id": "126347",
@@ -2716,23 +2805,6 @@
     "date": "13 Sep 2023"
   },
   {
-    "id": "125843",
-    "category": "Mobility Aids",
-    "name": "Large Motorised Wheelchair",
-    "description": "Client is currently using a mechanical wheelchair and is hoping for a motorised wheelchair to get around independently. Due to health conditions such as diabetes and cancer, client does not have enough financial resources to obtain a motorised wheelchair.\n\nAs client weighs about 90kg and is quite tall, the motorised wheelchair should be slightly large.",
-    "specifications": "Large Motorised Wheelchair that can carry a tall, 90kg user.",
-    "contact": {
-      "org": "Care Corner Family Service Centre - Tampines",
-      "name": "Timothy Low",
-      "email": "timothylow@carecorner.org.sg",
-      "phone": [
-        "67866225"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 Sep 2023"
-  },
-  {
     "id": "125809",
     "category": "Mobility Aids",
     "name": "3-wheel motorised scooter",
@@ -3534,6 +3606,42 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "28 Aug 2023"
+  },
+  {
+    "id": "126359",
+    "category": "Infant and Children Items",
+    "name": "Baby cot mattress covers x2",
+    "description": "Client is an expectant mother who will be raising her child by herself. She has limited family support and also has financial challenges after being terminated from her job midway through her pregnancy. Hence, Client needs help with securing baby essentials before the birth.",
+    "specifications": null,
+    "contact": {
+      "org": "REACH Family Service Centre",
+      "name": "Sarah Bethany Rozario",
+      "email": "sarah.rozario@reach.org.sg",
+      "phone": [
+        "68010729",
+        "62522566"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Sep 2023"
+  },
+  {
+    "id": "126358",
+    "category": "Infant and Children Items",
+    "name": "Newborn pillow and bolster",
+    "description": "Client is an expectant mother who will be raising her child by herself. She has limited family support and also has financial challenges after being terminated from her job midway through her pregnancy. Hence, Client needs help with securing baby essentials before the birth.",
+    "specifications": null,
+    "contact": {
+      "org": "REACH Family Service Centre",
+      "name": "Sarah Bethany Rozario",
+      "email": "sarah.rozario@reach.org.sg",
+      "phone": [
+        "68010729",
+        "62522566"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "26 Sep 2023"
   },
   {
     "id": "126338",
