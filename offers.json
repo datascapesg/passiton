@@ -1,5 +1,15 @@
 [
   {
+    "id": "126492",
+    "name": "Bluetooth speaker",
+    "description": "A bluetooth speaker to give away, model MMS-66. \nTested to be working with bluetooth connection to mobile phone.\nBT version: 5.0",
+    "location": "Jurong",
+    "validTill": "30 Oct 2023",
+    "ageInYears": 1,
+    "dimensions": "Diameter 8cm, Thickness 4cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "126491",
     "name": "Shower chair",
     "description": "Chair for showering",
@@ -157,16 +167,6 @@
     "validTill": "15 Oct 2023",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "126446",
-    "name": "Queen bed x 3",
-    "description": "3 Queen-sized beds to donate. Still on good condition. Collection asap as renovation starting soon. Thank you.",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "01 Oct 2023",
-    "ageInYears": 4,
-    "dimensions": "190cm x 152cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -430,16 +430,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "125978",
-    "name": "Pink office chair",
-    "description": "Used ikea office chair on wheels",
-    "location": null,
-    "validTill": "01 Oct 2023",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "125958",
     "name": "Desk",
     "description": "Writing / computer table in good condition from IKEA",
@@ -596,56 +586,6 @@
     "location": null,
     "validTill": "11 Oct 2023",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "125735",
-    "name": "Tennis racket",
-    "description": "Wilson tennis racket (Profile 4.8 si, super-light power system), with tennis ball and bag for tennis racket",
-    "location": "Jurong",
-    "validTill": "01 Oct 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "125733",
-    "name": "Original Yamaha piano with bench and metronome",
-    "description": "Original Yamaha M5J upright piano with piano bench and metronome - all in good condition. First owner.",
-    "location": "Jurong",
-    "validTill": "01 Oct 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "125726",
-    "name": "Toilet frame (brand new)",
-    "description": "Brand new toilet frame",
-    "location": null,
-    "validTill": "01 Oct 2023",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "125709",
-    "name": "Various children toys",
-    "description": "Few toys",
-    "location": "Katong, Joo Chiat, Amber Road",
-    "validTill": "01 Oct 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "125708",
-    "name": "Mosquito net with crib holder",
-    "description": "Clean mosquito veil, pretty and fully functional",
-    "location": "Katong, Joo Chiat, Amber Road",
-    "validTill": "01 Oct 2023",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
