@@ -1,12 +1,42 @@
 [
   {
-    "id": "126737",
-    "name": "queen bed",
-    "description": "queen size bed with headboard and mattress available.",
-    "location": "Macpherson, Braddell",
-    "validTill": "27 Oct 2023",
-    "ageInYears": 3,
+    "id": "126746",
+    "name": "Kids Scooter",
+    "description": "For kids between 6 to 9 or 1.10m to 1.50m in height",
+    "location": null,
+    "validTill": "31 Oct 2023",
+    "ageInYears": 2,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "126742",
+    "name": "Minimalist carpet",
+    "description": "Imported carpet from US. BARELY used for a week and kept in storage since. All vacuumed and neatly packed as per pics.",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "08 Nov 2023",
+    "ageInYears": 3,
+    "dimensions": "1.25m x 1.85m",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "126741",
+    "name": "Storage shelves",
+    "description": "Ikea trofast shelves - 2 sets in black and 1 set in white",
+    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+    "validTill": "13 Oct 2023",
+    "ageInYears": 4,
+    "dimensions": "99cm (l) x 44cm (d) x 95cm (h)",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "126739",
+    "name": "Baby cot",
+    "description": "Cot used for 3 years by 1 kid. Still in good condition (minor scratches where cot mobile was attached) and preloved mattress and covers can be provided if necessary too). Cot has wheels and drop side on one side for easier access to carry baby.",
+    "location": null,
+    "validTill": "20 Oct 2023",
+    "ageInYears": 1,
+    "dimensions": "120cm x 60cm x 98 cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -80,16 +110,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "126705",
-    "name": "Dining Table and Four Chairs",
-    "description": "This is a well kept dining set from Ikea. Please refer here for details https://www.ikea.com/sg/en/p/jokkmokk-table-and-4-chairs-antique-stain-60365803/",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "06 Nov 2023",
-    "ageInYears": 4,
-    "dimensions": "Table length: 118 cm  Table width: 74 cm  Table height: 74 cm  Seat width: 41 cm  Seat depth: 41 cm  Seat height: 44 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "126704",
     "name": "Office chair",
     "description": "Self collect only",
@@ -107,16 +127,6 @@
     "validTill": "13 Oct 2023",
     "ageInYears": 4,
     "dimensions": "80cm width, 50cm depth x172cm height.",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "126701",
-    "name": "Super single Bed frame w storage",
-    "description": "Super single bed frame with storage, good condition. \nMuji bed frame",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "05 Nov 2023",
-    "ageInYears": 2,
-    "dimensions": "width of 107cm and a length of 190cm and height if 30cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -437,6 +447,16 @@
     "validTill": "16 Oct 2023",
     "ageInYears": 4,
     "dimensions": "About: Length 2m x width 1m x height 40-80cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "126740",
+    "name": "cap for digital thermometer",
+    "description": "disposable medical cap for thermometer for hospital use or elderly care, quantity 3800 pcs. New item, never open.           \n\nNote: self collection at 131 rifle range road. Temasek Club. Thanks",
+    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+    "validTill": "26 Oct 2023",
+    "ageInYears": 1,
+    "dimensions": "100cm *100am",
     "deliveryCostsCoveredByDonor": true
   },
   {
