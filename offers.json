@@ -40,16 +40,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "126769",
-    "name": "Ikea Sofa",
-    "description": "Width: 180 cm\n\nDepth: 88 cm\n\nHeight: 66 cm",
-    "location": "Middle Road, Golden Mile",
-    "validTill": "15 Oct 2023",
-    "ageInYears": 4,
-    "dimensions": "width 180cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "126768",
     "name": "Dining Table",
     "description": "Round Glass table and two folding chairs",
@@ -60,42 +50,12 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "126763",
-    "name": "3 seater sofa",
-    "description": "3 seater sofa.  Very comfortable",
-    "location": null,
-    "validTill": "16 Oct 2023",
-    "ageInYears": 4,
-    "dimensions": "90cm x 220cm x 65cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "126759",
-    "name": "TV Console Sideboard",
-    "description": "Sideboard in good condition \nCan be used as tv console too\n3 cupboards, 2 doors (2 rows with 1 shelf, no divider)\nVery spacious\nComes from a household with cats",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "19 Oct 2023",
-    "ageInYears": 4,
-    "dimensions": "180cm (L) x 40cm (W) x 85cm (H)",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "126758",
     "name": "Assortment of Hangers",
     "description": "Assortment of hangers to pass it on.",
     "location": "Orchard, Cairnhill, River Valley",
     "validTill": "01 Nov 2023",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "126746",
-    "name": "Kids Scooter",
-    "description": "For kids between 6 to 9 or 1.10m to 1.50m in height",
-    "location": null,
-    "validTill": "31 Oct 2023",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -130,16 +90,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "126736",
-    "name": "Mobility items",
-    "description": "2 wheel chairs, 1 commode chair, 1 frame walking stick, 1 walking stuck, 1 pair Clutches and 1 bed frame holder",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "11 Oct 2023",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "126732",
     "name": "5 Chairs",
     "description": "5 chairs and a small table.",
@@ -167,6 +117,16 @@
     "validTill": "07 Nov 2023",
     "ageInYears": 4,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "126785",
+    "name": "baby cot",
+    "description": "baby cot",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "07 Nov 2023",
+    "ageInYears": 2,
+    "dimensions": "1.5 x 0.5 x 1",
     "deliveryCostsCoveredByDonor": true
   },
   {
