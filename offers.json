@@ -1,11 +1,91 @@
 [
   {
-    "id": "126782",
-    "name": "2 Door Fridge (not Halal)",
-    "description": "2 Door Fridge (not Halal)",
+    "id": "126828",
+    "name": "Single Bed (metal) frame + mattress",
+    "description": "Good condition single bed frame w/ mattress.  available immediately, has to go by Friday october 12th.",
+    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
+    "validTill": "12 Oct 2023",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "126827",
+    "name": "Big wooden cupboard can be used as TV console too",
+    "description": "This item can only be collected between 28-30 Nov.",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "09 Nov 2023",
+    "ageInYears": 4,
+    "dimensions": "185cm X 49cm X 83cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "126826",
+    "name": "8 black stackable chairs",
+    "description": "6 black stackable chairs with back rest",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "09 Nov 2023",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "126825",
+    "name": "Baby Formula / Powered Milk - Nestle Nan Optipro 4",
+    "description": "Unopened package of Baby Formula / Powered Milk - Nestle Nan Optipro 4",
+    "location": null,
+    "validTill": "09 Nov 2023",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "126824",
+    "name": "KDK Wall Fan with Remote",
+    "description": "Unused and kept for a long time.",
     "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "01 Nov 2023",
+    "validTill": "09 Nov 2023",
     "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "126822",
+    "name": "Philips Bread Toaster",
+    "description": "Unused, but kept for a long time. Tested to be working.",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "09 Nov 2023",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "126821",
+    "name": "Study desk",
+    "description": "A study desk with drawer. Still in good condition.",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "27 Oct 2023",
+    "ageInYears": 3,
+    "dimensions": "L 190cm x W 50cm.x H 74cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "126820",
+    "name": "Freezer",
+    "description": "Box Freezer. It is only for FROZEN food, not a refridgerator.",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "31 Oct 2023",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "126792",
+    "name": "1.0L rice cooker",
+    "description": "Good working rice cooker",
+    "location": "Jurong",
+    "validTill": "31 Oct 2023",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -27,16 +107,6 @@
     "validTill": "08 Nov 2023",
     "ageInYears": 3,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "126768",
-    "name": "Dining Table",
-    "description": "Round Glass table and two folding chairs",
-    "location": "Middle Road, Golden Mile",
-    "validTill": "15 Oct 2023",
-    "ageInYears": 4,
-    "dimensions": "About 1.4m in diameter",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -100,16 +170,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "126714",
-    "name": "Clothes dryer",
-    "description": "Working",
-    "location": "Ardmore, Bukit Timah, Holland Road, Tanglin",
-    "validTill": "07 Nov 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "126785",
     "name": "baby cot",
     "description": "baby cot",
@@ -170,32 +230,12 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "126699",
-    "name": "Dining Table",
-    "description": "Dinning Table only (4-6pax)",
-    "location": "Hougang",
-    "validTill": "05 Nov 2023",
-    "ageInYears": 2,
-    "dimensions": "1400 x 800 x 750",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "126686",
     "name": "Wood Study Table",
     "description": "Item is still in very good condition\nHope to pass this on to someone who will have use for it!",
     "location": "Geylang, Eunos",
     "validTill": "11 Oct 2023",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "126675",
-    "name": "1.8L Electrolux rice cooker",
-    "description": "Used a few times as hardly cook at home. Still in good condition",
-    "location": null,
-    "validTill": "05 Nov 2023",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -380,16 +420,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "126666",
-    "name": "6 seater tempered glass dining set",
-    "description": "6 seater tempered glass dining set in very good condition",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "28 Oct 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "126461",
     "name": "Infant/Toddler Dining Chair",
     "description": "Good for dining at home or outside",
@@ -404,16 +434,6 @@
     "name": "High Chair",
     "description": "High chair not for picky user",
     "location": "Bishan, Ang Mo Kio",
-    "validTill": "28 Oct 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "126459",
-    "name": "Cane sofa set for 5 persons.  cushion covers are washable.",
-    "description": "cane cushion sofa set.  covers are washable",
-    "location": "Balestier, Toa Payoh, Serangoon",
     "validTill": "28 Oct 2023",
     "ageInYears": 4,
     "dimensions": null,
@@ -457,16 +477,6 @@
     "validTill": "15 Oct 2023",
     "ageInYears": 1,
     "dimensions": "Size L and Size Xl",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "126400",
-    "name": "Nursing Bed",
-    "description": "Model is WISSNER-BOSSERHOFF Movita Casa Home Nursing Bed. Good working condition; motor, hinges, remote, side guards. Superficial wear and tear.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "16 Oct 2023",
-    "ageInYears": 4,
-    "dimensions": "About: Length 2m x width 1m x height 40-80cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
