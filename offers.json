@@ -1,5 +1,15 @@
 [
   {
+    "id": "127320",
+    "name": "Sofa",
+    "description": "5 seater sofa",
+    "location": null,
+    "validTill": "27 Oct 2023",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "127317",
     "name": "Leather Bean Bag Cushion Seat",
     "description": "Leather Bean Bag Cushion for Relaxation and Rest",
@@ -17,16 +27,6 @@
     "validTill": "23 Nov 2023",
     "ageInYears": 1,
     "dimensions": "W131, D60, H82 seating height 42cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "127281",
-    "name": "Black drawer",
-    "description": "Black drawer with 3 openings",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "23 Nov 2023",
-    "ageInYears": 2,
-    "dimensions": "148cm x 47cm x 57cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
