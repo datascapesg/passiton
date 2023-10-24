@@ -1,5 +1,15 @@
 [
   {
+    "id": "127276",
+    "name": "White Book Shelf",
+    "description": "White Bookshelf with 8 square openings",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "23 Nov 2023",
+    "ageInYears": 3,
+    "dimensions": "147cm x 73cm x 39cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "127274",
     "name": "Wahing Machine",
     "description": "Black Toshiba Washing Machine",
@@ -87,16 +97,6 @@
     "validTill": "31 Oct 2023",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "127249",
-    "name": "Wheelchair",
-    "description": "Standard size",
-    "location": null,
-    "validTill": "22 Nov 2023",
-    "ageInYears": 1,
-    "dimensions": "18 inches",
     "deliveryCostsCoveredByDonor": true
   },
   {
