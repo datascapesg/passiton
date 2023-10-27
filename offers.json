@@ -1,5 +1,15 @@
 [
   {
+    "id": "127439",
+    "name": "Freezer",
+    "description": "Mini freezer",
+    "location": "Yishun, Sembawang",
+    "validTill": "26 Nov 2023",
+    "ageInYears": 4,
+    "dimensions": "85cm (H) X 55cm(W) X 54cm(L)",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "127438",
     "name": "Crumpled laptop bag",
     "description": "Crumpled laptop bag sling style big",
@@ -530,16 +540,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "126972",
-    "name": "Study desk",
-    "description": "Almost new condition study desk. Can place multiple computer screens or file racks as necessary. Will last 20 years if well maintained.",
-    "location": "Balestier, Toa Payoh, Serangoon",
-    "validTill": "28 Oct 2023",
-    "ageInYears": 4,
-    "dimensions": "1.6m x 62cm x 45cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "126953",
     "name": "Marble Dining Table w Lazy Susan + 3 chairs",
     "description": "Round marble table with lazy susan & 3 dining chairs",
@@ -787,16 +787,6 @@
     "validTill": "29 Oct 2023",
     "ageInYears": 1,
     "dimensions": "173cm x 61cm x 6mm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "126460",
-    "name": "High Chair",
-    "description": "High chair not for picky user",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "28 Oct 2023",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   }
 ]
