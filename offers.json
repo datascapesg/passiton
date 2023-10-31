@@ -1,5 +1,35 @@
 [
   {
+    "id": "127496",
+    "name": "PRINTER",
+    "description": "HP scanner/printer",
+    "location": "Katong, Joo Chiat, Amber Road",
+    "validTill": "30 Nov 2023",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "127494",
+    "name": "Single bed (mattress and frame)",
+    "description": "Single bed mattress with frame. Used less than 2 years.",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "20 Nov 2023",
+    "ageInYears": 3,
+    "dimensions": "195cm by 105cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "127492",
+    "name": "Study desk",
+    "description": "IKEA study table w two drawers. Slight scratchers on top.",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "20 Nov 2023",
+    "ageInYears": 3,
+    "dimensions": "140cm by 50cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "127489",
     "name": "Black study desk",
     "description": "Ikea study table. Slight scratches on surface. Two drawers.",
@@ -417,16 +447,6 @@
     "validTill": "16 Nov 2023",
     "ageInYears": 2,
     "dimensions": "100cm X 60cm X 74 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "127068",
-    "name": "study table",
-    "description": "white colour study / computer table",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "16 Nov 2023",
-    "ageInYears": 2,
-    "dimensions": "100cm X 60cm X 74cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
