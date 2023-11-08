@@ -1,5 +1,15 @@
 [
   {
+    "id": "127771",
+    "name": "Chair",
+    "description": "Suitable for student",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "15 Nov 2023",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "127766",
     "name": "Baby boy clothes",
     "description": "2 bags of baby boy clothes. 1 to 6months",
@@ -97,16 +107,6 @@
     "validTill": "10 Nov 2023",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "127681",
-    "name": "2 single grey leather sofas",
-    "description": "Company moving. Those sofas over 4 years but condition quite good.",
-    "location": null,
-    "validTill": "15 Nov 2023",
-    "ageInYears": 4,
-    "dimensions": "D82cm, W84cm, L89cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -427,16 +427,6 @@
     "validTill": "23 Nov 2023",
     "ageInYears": 3,
     "dimensions": "147cm x 39cm x 73cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "127266",
-    "name": "Kids table and 2 chairs",
-    "description": "Ikea kids table and chairs still in good condition",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "22 Nov 2023",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
