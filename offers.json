@@ -1,5 +1,15 @@
 [
   {
+    "id": "128025",
+    "name": "Office Chair",
+    "description": "Office Chair to giveaway",
+    "location": null,
+    "validTill": "17 Dec 2023",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "128017",
     "name": "Ikea Table",
     "description": "White ikea study table in good condition",
@@ -170,6 +180,16 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
+    "id": "128022",
+    "name": "Baby cot",
+    "description": "White baby cot used for a year only. In very good condition. Comes with mattress cover, mattress and bumpers.",
+    "location": "Serangoon Garden, Hougang, Ponggol",
+    "validTill": "30 Nov 2023",
+    "ageInYears": 1,
+    "dimensions": "124X66X84",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "127958",
     "name": "Sofa bed",
     "description": "Two-seater fully functional sofa bed",
@@ -217,16 +237,6 @@
     "validTill": "15 Dec 2023",
     "ageInYears": 1,
     "dimensions": "11.81\" L x 19.69\" W x 28.94\"",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "127931",
-    "name": "Study table and chair",
-    "description": "Good condition study table and chair",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "15 Dec 2023",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -450,16 +460,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "127725",
-    "name": "UV sterilizer and dryer for milk bottles etc",
-    "description": "UV sterilizer and dryer for milk bottles etc",
-    "location": "Geylang, Eunos",
-    "validTill": "07 Dec 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "127668",
     "name": "Playpen",
     "description": "Hexagonal playpen. Good condition.\nEasy to dismantle, sturdy",
@@ -496,16 +496,6 @@
     "location": "Serangoon Garden, Hougang, Ponggol",
     "validTill": "02 Dec 2023",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "127583",
-    "name": "Hospital bed",
-    "description": "A reclinable hospital bed, and an air mattress to prevent bed sores",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "02 Dec 2023",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
