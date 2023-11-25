@@ -1,5 +1,35 @@
 [
   {
+    "id": "128353",
+    "name": "Electric lamp",
+    "description": "LED table lamp",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "10 Dec 2023",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "128352",
+    "name": "Electric kettle",
+    "description": "Morries electric kettle, less than 1 year old",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "10 Dec 2023",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "128351",
+    "name": "TV",
+    "description": "Comes with digital set top box",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "10 Dec 2023",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "128347",
     "name": "Ikea SMÅSTAD / PLATSA Wardrobe Cabinet Bookcase 60x57x123 cm",
     "description": "- Almost new! Lightly used only.\n- Free 30 hangers!",
@@ -7,16 +37,6 @@
     "validTill": "08 Dec 2023",
     "ageInYears": 1,
     "dimensions": "60x57x123 cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "128319",
-    "name": "Round Dining Table (No chairs)",
-    "description": "Pre-loved dining table. Chairs not included because not in a donateable condition.",
-    "location": "Tampines, Pasir Ris",
-    "validTill": "10 Dec 2023",
-    "ageInYears": 4,
-    "dimensions": "1050mm (diameter) x 800mm",
     "deliveryCostsCoveredByDonor": true
   },
   {
