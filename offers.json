@@ -1,5 +1,45 @@
 [
   {
+    "id": "128447",
+    "name": "Sofa",
+    "description": "L shaped sofa.",
+    "location": "Watten Estate, Novena, Thomson",
+    "validTill": "28 Dec 2023",
+    "ageInYears": 4,
+    "dimensions": "236 cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "128445",
+    "name": "Aneka kitchen cabinet, storage cabinet",
+    "description": "Please note that right upper corner of lower cabinet is chipped but repaired with epoxy. Able to open properly.",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "10 Dec 2023",
+    "ageInYears": 2,
+    "dimensions": "L99cm x H80cm x D30cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "128443",
+    "name": "Wooden storage shelf w doors",
+    "description": "Good condition except for lowest shelf door is crack and chipped. Otherwise all other doors can be closed as shown on top shelf in the attached picture.",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "10 Dec 2023",
+    "ageInYears": 2,
+    "dimensions": "H170cm x W79cm x D32cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "128439",
+    "name": "PIANO",
+    "description": "piano to be donated out to the needy. they will need to do own tuning once the items is delivered…",
+    "location": null,
+    "validTill": "28 Dec 2023",
+    "ageInYears": 4,
+    "dimensions": "58 x 24.5 x45",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "128436",
     "name": "Singer 8280 Home Sewing Machine",
     "description": "Working condition. Comes with a pedal, electronic plug to socket. Small and compact portable place on desktop. Just did servicing.",
@@ -356,6 +396,16 @@
     "location": "Yishun, Sembawang",
     "validTill": "15 Dec 2023",
     "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "128442",
+    "name": "Joyoung Chinese Medicine Pot",
+    "description": "Good condition Joyoung Chinese Medicine Pot. Can be used to make soup or chinese desserts.",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "14 Dec 2023",
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
