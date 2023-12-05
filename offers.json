@@ -1,5 +1,15 @@
 [
   {
+    "id": "128631",
+    "name": "Dining Chairs",
+    "description": "Set of 2 dining chairs. Wide seating area and easy to clean as it's a hard durable plastice",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "15 Dec 2023",
+    "ageInYears": 2,
+    "dimensions": "46cmx46cmx80cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "128624",
     "name": "Pillow",
     "description": "Lightly Used to pass on",
@@ -257,16 +267,6 @@
     "validTill": "10 Dec 2023",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "128563",
-    "name": "Sony Bravia 64' OLED TV",
-    "description": "OLED TV still works. Slight picture interference with horizontal lines.\n\nBox used is just to protect the Sony TV.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "10 Dec 2023",
-    "ageInYears": 3,
-    "dimensions": "65 inch TV",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -547,6 +547,26 @@
     "validTill": "21 Dec 2023",
     "ageInYears": 2,
     "dimensions": "L 70 cm, W 77 cm, H 100cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "128629",
+    "name": "Cabinet",
+    "description": "3 tiered glass shelf , drawer below",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "24 Dec 2023",
+    "ageInYears": 3,
+    "dimensions": "Depth 40cm , height 120 cm , width 69 cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "128630",
+    "name": "Cabinet",
+    "description": "3 tiered glass shelf , drawer below",
+    "location": "Bedok, Upper East Coast, Eastwood, Kew Drive",
+    "validTill": "24 Dec 2023",
+    "ageInYears": 3,
+    "dimensions": "Depth 40cm , height 120 cm , width 69 cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
