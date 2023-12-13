@@ -1,5 +1,15 @@
 [
   {
+    "id": "128833",
+    "name": "Hospital bed and air mattress",
+    "description": "Electricity-powered hospital bed and air mattress",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "12 Jan 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "128827",
     "name": "Milk powder (Lactogen 1)",
     "description": "Lactogen 1(800g) x 3 tins",
@@ -135,16 +145,6 @@
     "description": "SMALL ROUND DINING TABLE SUITABLE FOR SMALL FAMILY. DIAMETER - 90 CM.",
     "location": "Serangoon Garden, Hougang, Ponggol",
     "validTill": "31 Dec 2023",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "128780",
-    "name": "Queen size bed",
-    "description": "Big enough for 2 adults to sleep on",
-    "location": "Bishan, Ang Mo Kio",
-    "validTill": "23 Dec 2023",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
