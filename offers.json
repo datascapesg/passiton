@@ -1,5 +1,25 @@
 [
   {
+    "id": "129060",
+    "name": "Dish Rack",
+    "description": "Dismantled dish rack to bless",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "18 Jan 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "129056",
+    "name": "LG Washing Machine",
+    "description": "Spacious 12kg capacity.\nPowerful spin cycles.\nWell-maintained condition: This washer has been gently used and is in excellent working order.",
+    "location": "Tampines, Pasir Ris",
+    "validTill": "22 Dec 2023",
+    "ageInYears": 4,
+    "dimensions": "606 X 590 X 960 mm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "129055",
     "name": "Combi Stroller",
     "description": "Used the stroller less than 5 times. In almost brand new condition thought it may be a little dusty as we have kept it in the storeroom for the past 2 years. Need to wash/ vacuum it.",
@@ -13,7 +33,7 @@
     "id": "129042",
     "name": "Grey PVC sofabed",
     "description": "Delivery prefer to be paid by VWO",
-    "location": "Tampines, Pasir Ris",
+    "location": "Tampines ",
     "validTill": "18 Jan 2024",
     "ageInYears": 2,
     "dimensions": "L180 cm x W94 cm x H36 cm",
@@ -136,16 +156,6 @@
     "location": "Bishan, Ang Mo Kio",
     "validTill": "17 Jan 2024",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "129023",
-    "name": "Vacuum cleaner",
-    "description": "Can only send on 10 or 11 Jan 2024",
-    "location": "Loyang, Changi",
-    "validTill": "11 Jan 2024",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
