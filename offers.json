@@ -130,16 +130,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "129148",
-    "name": "Fridge",
-    "description": "Well maintained two door fridge to give away.\n\nCan only give away on 12 Jan 2024 as this is the date for my replacement fridge to arrive.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "12 Jan 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "129141",
     "name": "Hospital Bed and Geriatric Chair",
     "description": "It a 3 crank electrical automated bed and a Geriatric chair where patient can lie flat on the chair and it also can wheel the patient to the needed location easily.",
@@ -787,6 +777,26 @@
     "validTill": "26 Dec 2023",
     "ageInYears": 4,
     "dimensions": "113cm x 148cm x 56cm",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "129179",
+    "name": "Duphalac (lactulose)",
+    "description": "9 btls (new) 200 ml each\nSee photo",
+    "location": "Upper Thomson, Springleaf",
+    "validTill": "25 Dec 2023",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "129180",
+    "name": "Duphalac (lactulose)",
+    "description": "9 btls (new) 200 ml each\nSee photo",
+    "location": "Upper Thomson, Springleaf",
+    "validTill": "25 Dec 2023",
+    "ageInYears": 1,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
