@@ -580,7 +580,17 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "129025",
+    "id": "129295",
+    "name": "Hosiptal Bed and Geriatric Chair",
+    "description": "Preferably no covering of delivery cost",
+    "location": "Balestier, Toa Payoh, Serangoon",
+    "validTill": "31 Dec 2023",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "129296",
     "name": "Hosiptal Bed and Geriatric Chair",
     "description": "Preferably no covering of delivery cost",
     "location": "Balestier, Toa Payoh, Serangoon",
