@@ -1,5 +1,35 @@
 [
   {
+    "id": "129383",
+    "name": "Book shelf",
+    "description": "Wooden book shelf. The books and toys will be empty.",
+    "location": null,
+    "validTill": "20 Jan 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "129382",
+    "name": "Foldable table",
+    "description": "Study table (foldable). Picture is showing fully folded table.",
+    "location": null,
+    "validTill": "20 Jan 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "129381",
+    "name": "Dryer",
+    "description": "Dryer, Load: 8kg, brand: Bosch",
+    "location": null,
+    "validTill": "20 Jan 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "129380",
     "name": "LG TV 32 inch",
     "description": "Mint Condition spare TV.",
