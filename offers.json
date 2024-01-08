@@ -1,5 +1,15 @@
 [
   {
+    "id": "129678",
+    "name": "Punching Bag",
+    "description": "Punching bag in good condition!",
+    "location": "Jurong",
+    "validTill": "07 Feb 2024",
+    "ageInYears": 4,
+    "dimensions": "30cm length x 89cm height",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "129677",
     "name": "Fridge",
     "description": "d2 door fridge",
@@ -1167,16 +1177,6 @@
     "validTill": "12 Jan 2024",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "128775",
-    "name": "Stroller",
-    "description": "This is a light weight stroller with a rain coat cover.  It can incline at various angles.  I would like to work with the social worker for their collection to bless the family in need.   Collection at Serangoon mrt.  Please contact me for more information.  Thank you.",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "10 Jan 2024",
-    "ageInYears": 3,
-    "dimensions": "90cm * 30cm, std stroller size",
     "deliveryCostsCoveredByDonor": true
   }
 ]
