@@ -1,5 +1,15 @@
 [
   {
+    "id": "129737",
+    "name": "32\" Dell monitor  #1",
+    "description": "The display measures 18.5 by 28.1 by 8.7 inches.",
+    "location": "Raffles Place, Cecil, Marina, People's Park",
+    "validTill": "31 Jan 2024",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "129730",
     "name": "High chair",
     "description": "Solid wood, sturdy",
@@ -77,16 +87,6 @@
     "validTill": "15 Jan 2024",
     "ageInYears": 4,
     "dimensions": "135 cm L x 75cm H x75 cm D",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "129688",
-    "name": "Washing Machine rack",
-    "description": "Rack for laundry",
-    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
-    "validTill": "11 Jan 2024",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -930,16 +930,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "129255",
-    "name": "Electric Hospital Bed with Mattress",
-    "description": "Electric Hospital Bed with Mattress and Easyair 200 series Air Mattress with Pump",
-    "location": "Serangoon Garden, Hougang, Ponggol",
-    "validTill": "25 Jan 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "129231",
     "name": "Electric kettle",
     "description": "Clean and good working condition.",
@@ -956,16 +946,6 @@
     "location": "Queenstown, Tiong Bahru",
     "validTill": "24 Jan 2024",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "129229",
-    "name": "Scooter for children ( Pink)",
-    "description": "Scooter for children in good condition.",
-    "location": "Queenstown, Tiong Bahru",
-    "validTill": "24 Jan 2024",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -1126,16 +1106,6 @@
     "location": "Bishan, Ang Mo Kio",
     "validTill": "16 Jan 2024",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "128954",
-    "name": "bowl set",
-    "description": "new set of 5 piece bowl set",
-    "location": null,
-    "validTill": "16 Jan 2024",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
