@@ -1,5 +1,39 @@
 [
   {
+    "id": "129880",
+    "category": "Home Furnishing",
+    "name": "2-seater sofa",
+    "description": "Family- single mum with 2 kids in need of a sofa for their home",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Grace Ang",
+      "email": "grace@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jan 2024"
+  },
+  {
+    "id": "129879",
+    "category": "Home Furnishing",
+    "name": "Wardrobe",
+    "description": "Family-single mum with 2 children in need to a wardrobe to keep their clothes neatly",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Grace Ang",
+      "email": "grace@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jan 2024"
+  },
+  {
     "id": "129850",
     "category": "Home Furnishing",
     "name": "Wardrobe",
@@ -1418,6 +1452,77 @@
     "date": "15 Dec 2023"
   },
   {
+    "id": "129875",
+    "category": "Infant and Children Items",
+    "name": "Milk powder: Similac Stage 3 x 4 tins",
+    "description": "Client is a mother of 3 children (19yo, 10yo, 2yo). She is in need of milk powder for her 2yo son as she's facing financial difficulties with her household bills currently. Her 19yo child has just completed her ITE education however is unable to seek employment yet as she's holding onto a visitor pass currently.\nDespite having financial struggles and the need to look after her children, client still continue to work on part-time basis to gain some income for the family",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Patricia Poo",
+      "email": "patriciapoo@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jan 2024"
+  },
+  {
+    "id": "129874",
+    "category": "Infant and Children Items",
+    "name": "Diapers",
+    "description": "Low income family of 3 with a 1yr old. Father is a delivery attendant, but has been on unpaid medical leave for 3 months due to a car accident. \n\nPlease contact me @ 97522900, thank you!",
+    "specifications": "Size L",
+    "contact": {
+      "org": "HEART @ Fei Yue",
+      "name": "Oh Rui Yun",
+      "email": "ohruiyun@fycs.org",
+      "phone": [
+        "97522900",
+        "68199170"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jan 2024"
+  },
+  {
+    "id": "129873",
+    "category": "Infant and Children Items",
+    "name": "Isomil Milk Powder",
+    "description": "Low income family of 3 with a 1yr old. Father is a delivery attendant, but has been on unpaid medical leave for 3 months due to a car accident.\n\nPlease contact me @ 97522900, thank you!",
+    "specifications": "Stage 3",
+    "contact": {
+      "org": "HEART @ Fei Yue",
+      "name": "Oh Rui Yun",
+      "email": "ohruiyun@fycs.org",
+      "phone": [
+        "97522900",
+        "68199170"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jan 2024"
+  },
+  {
+    "id": "129872",
+    "category": "Infant and Children Items",
+    "name": "Marigold Strawberry Flavoured Milk",
+    "description": "Family consists of a father who is the only breadwinner and 3 children, of which a 10yo client child has underweight problems and so this helps him with weight gain.\n\nPlease contact me @ 97522900, thank you!",
+    "specifications": null,
+    "contact": {
+      "org": "HEART @ Fei Yue",
+      "name": "Oh Rui Yun",
+      "email": "ohruiyun@fycs.org",
+      "phone": [
+        "97522900",
+        "68199170"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jan 2024"
+  },
+  {
     "id": "129817",
     "category": "Infant and Children Items",
     "name": "2 tins of Nature one dairy premium junior stage 4",
@@ -1988,6 +2093,40 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "18 Dec 2023"
+  },
+  {
+    "id": "129877",
+    "category": "Electrical Home Appliances",
+    "name": "Smart TV",
+    "description": "Family of 3 needs household items as they moved into their new rental flat. The sole breadwinner is currently on medical leave due to an injury, hence, would need some support for their new house. Mother was a full time caregiver for their 9-month old baby and is starting work.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Marine Parade Family Service Centre",
+      "name": "Carissa",
+      "email": "carissa.lee@montfortcare.org.sg",
+      "phone": [
+        "64450100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jan 2024"
+  },
+  {
+    "id": "129876",
+    "category": "Electrical Home Appliances",
+    "name": "Fan",
+    "description": "Family of 3 needs household items as they moved into their new rental flat. The sole breadwinner is currently on medical leave due to an injury, hence, would need some support for their new house. Mother was a full time caregiver for their 9-month old baby and is starting work.",
+    "specifications": null,
+    "contact": {
+      "org": "Montfort Care - Marine Parade Family Service Centre",
+      "name": "Carissa",
+      "email": "carissa.lee@montfortcare.org.sg",
+      "phone": [
+        "64450100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jan 2024"
   },
   {
     "id": "129869",
@@ -4777,6 +4916,24 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "02 Jan 2024"
+  },
+  {
+    "id": "129878",
+    "category": "Attires/Clothings",
+    "name": "Jacket and long pants",
+    "description": "Senior rough sleeping for months and in need of clothing for work and to weather the cold outdoors. He needs one windbreaker/jacket to keep warm and a long black pants for work in restaurant. Slacks would be suitable.",
+    "specifications": "L, 34",
+    "contact": {
+      "org": "Whampoa Family Service Centre",
+      "name": "Samuel Lim",
+      "email": "samuellim@kkcs.org.sg",
+      "phone": [
+        "63260316",
+        "63260300"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "15 Jan 2024"
   },
   {
     "id": "129753",
