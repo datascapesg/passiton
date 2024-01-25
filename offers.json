@@ -1,5 +1,25 @@
 [
   {
+    "id": "130212",
+    "name": "Wheelchair",
+    "description": "Wheelchair",
+    "location": "Jurong",
+    "validTill": "24 Feb 2024",
+    "ageInYears": 1,
+    "dimensions": "1.5m x 0.5m x 0.9m",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "130210",
+    "name": "Hospital Bed",
+    "description": "Hospital Bed",
+    "location": "Jurong",
+    "validTill": "24 Feb 2024",
+    "ageInYears": 1,
+    "dimensions": "2.1m x 1.0m x 0.9m",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "130207",
     "name": "IKEA LEKSVIK sideboard cabinet",
     "description": "Solid wood pine cabinet with antique look. Really lovely and functional piece (no longer available at IKEA which makes it limited edition!) that we have enjoyed tremendously but now have to give away to make space for baby’s play area. \n\nAll drawers and doors working well. Internal shelves intact, adjustable. Actually in great condition. Used indoors for glassware etc. No defects, minimal wear and tear.",
@@ -157,6 +177,16 @@
     "validTill": "22 Feb 2024",
     "ageInYears": 1,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "130213",
+    "name": "Chest of Drawers",
+    "description": "*ONLY SELF PICKUP FROM MY UNIT. Sorry i cant pay for delivery* \nPRELOVED CABINET WITH NO Defects. Hope it goes to a good home :)",
+    "location": "Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",
+    "validTill": "03 Feb 2024",
+    "ageInYears": 4,
+    "dimensions": "60.5x40.5x106",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -517,6 +547,16 @@
     "validTill": "16 Feb 2024",
     "ageInYears": 3,
     "dimensions": "2m x90X 70",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "129962",
+    "name": "Mattress",
+    "description": "1. Well used (>10 yr) Queen size mattress (Simmons Backcare), still good condition \n2. Lightly used Storage bed frame (3 yrs old) with 2drawers n storage space.\n3. Two thin foldable mattresses (single)",
+    "location": null,
+    "validTill": "15 Feb 2024",
+    "ageInYears": 4,
+    "dimensions": "Queen size 6ftx5ftx2ft",
     "deliveryCostsCoveredByDonor": true
   },
   {
