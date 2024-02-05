@@ -1,12 +1,22 @@
 [
   {
-    "id": "130525",
-    "name": "grocery trolley",
-    "description": "brand new grocery trolley",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "06 Mar 2024",
-    "ageInYears": 1,
-    "dimensions": null,
+    "id": "130530",
+    "name": "Mitsubishi 3 door fridge",
+    "description": "Working fridge",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "21 Feb 2024",
+    "ageInYears": 4,
+    "dimensions": "6 feet",
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "130528",
+    "name": "Samsung 40 inch LED Smart TV",
+    "description": "It's a Samsung 40\" LED TV that is still in working condition. About 8 years old.Details below:\nhttps://www.samsung.com/ae/support/model/UA40J5500AKXZN/\n\nCompatible with Singapore DVB-T2 digital antenna. But antenna not included.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "29 Feb 2024",
+    "ageInYears": 4,
+    "dimensions": "3 feet x 1.5\" x 2 feet",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -27,16 +37,6 @@
     "validTill": "06 Mar 2024",
     "ageInYears": 1,
     "dimensions": "26cm x 6cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "130517",
-    "name": "utensil holder",
-    "description": "Brand new utensil holder",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "06 Mar 2024",
-    "ageInYears": 1,
-    "dimensions": "16cm x 13.5cm x 33.5cm",
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -106,16 +106,6 @@
     "location": null,
     "validTill": "29 Feb 2024",
     "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "130480",
-    "name": "Electric Yao Lan",
-    "description": "Great condition",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "08 Feb 2024",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
@@ -273,16 +263,6 @@
     "id": "130446",
     "name": "double deck bedframe",
     "description": "minor scratches but still sturdy",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "18 Feb 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "130445",
-    "name": "folding table",
-    "description": "in good condition",
     "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
     "validTill": "18 Feb 2024",
     "ageInYears": 4,
