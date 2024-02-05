@@ -1,5 +1,15 @@
 [
   {
+    "id": "130502",
+    "name": "Baby Boy Clothes",
+    "description": "Great condition baby boy clothes",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "07 Feb 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "130501",
     "name": "Children Chinese costume",
     "description": "Delivery on weekday evening and weekend.",
@@ -11,17 +21,7 @@
   },
   {
     "id": "130499",
-    "name": "Children pants 4",
-    "description": "Delivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "29 Feb 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "130498",
-    "name": "Children pants 3",
+    "name": "3 X Children pant",
     "description": "Delivery on weekday evening and weekend.",
     "location": null,
     "validTill": "29 Feb 2024",
@@ -32,16 +32,6 @@
   {
     "id": "130497",
     "name": "Children pants 2",
-    "description": "Delivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "29 Feb 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "130496",
-    "name": "Children pants 1",
     "description": "Delivery on weekday evening and weekend.",
     "location": null,
     "validTill": "29 Feb 2024",
@@ -190,16 +180,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "130473",
-    "name": "Standing lamp",
-    "description": "Standing lamp in good condition.\n1.8m high. \nI can deliver ONLY to central/south areas.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "28 Feb 2024",
-    "ageInYears": 3,
-    "dimensions": "1.8m high",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "130472",
     "name": "Building block toy",
     "description": "Building blocks. Stem toys",
@@ -313,16 +293,6 @@
     "id": "130445",
     "name": "folding table",
     "description": "in good condition",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "18 Feb 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "130444",
-    "name": "10kg washing machine",
-    "description": "10kg washing machine",
     "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
     "validTill": "18 Feb 2024",
     "ageInYears": 4,
