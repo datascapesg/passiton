@@ -1,5 +1,15 @@
 [
   {
+    "id": "130523",
+    "name": "vacuum cleaner",
+    "description": "used only twice, very new",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "06 Mar 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "130522",
     "name": "gas stove rack (iron)",
     "description": "gas stove rack (cast iron).brand new",
@@ -17,16 +27,6 @@
     "validTill": "06 Mar 2024",
     "ageInYears": 1,
     "dimensions": "16cm x 13.5cm x 33.5cm",
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "130502",
-    "name": "Baby Boy Clothes",
-    "description": "Great condition baby boy clothes",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "07 Feb 2024",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
   {
@@ -62,16 +62,6 @@
   {
     "id": "130495",
     "name": "Children shirt 7",
-    "description": "Delivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "29 Feb 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
-    "id": "130494",
-    "name": "Children shirt 6",
     "description": "Delivery on weekday evening and weekend.",
     "location": null,
     "validTill": "29 Feb 2024",
