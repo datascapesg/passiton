@@ -50,16 +50,6 @@
     "deliveryCostsCoveredByDonor": true
   },
   {
-    "id": "130573",
-    "name": "new geriatric chair",
-    "description": "new geriatric bed",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "20 Feb 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "130571",
     "name": "new unused hospital bed",
     "description": "new unused electrical hospital bed",
@@ -346,6 +336,26 @@
     "location": null,
     "validTill": "02 Mar 2024",
     "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "130583",
+    "name": "hospital bed",
+    "description": "fairly new electric hospital bed",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "01 Mar 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "130584",
+    "name": "hospital bed",
+    "description": "fairly new electric hospital bed",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "01 Mar 2024",
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
