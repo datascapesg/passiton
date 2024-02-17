@@ -1,4 +1,4 @@
-import { readJSON } from 'https://deno.land/x/flat@0.0.10/mod.ts' 
+import { readJSON } from 'https://deno.land/x/flat@0.0.15/mod.ts' 
 
 // Read the downloaded_filename JSON
 const requests = await readJSON('requests.json')
