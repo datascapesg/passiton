@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "130914",
+      "category": "Electrical Home Appliances",
+      "name": "Top-load washing machine",
+      "description": "Client is a single mother caring for daughter who has recently reintegrated back to stay with her in her 1-room rental flat. She would like to request for a top-load washing machine as the one at home is faulty.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Lynette Tan",
+        "email": "lynettetan@thkmc.org.sg",
+        "phone": [
+          "64961272",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Feb 2024"
+    },
+    {
       "id": "130898",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -138,23 +156,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "16 Feb 2024"
-    },
-    {
-      "id": "130842",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Low income family of 7, staying in a 2-rm rental flat. Client is still coping with the loss of her late husband and has not been able to sustain stable employment due to caregiving difficulties. Her previous washing machine leaks and is beyond repair. Client is hoping to request for a top load washing machine. For further liaison, kindly contact me at 98598768, thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (East)",
-        "name": "Nur Afrina",
-        "email": "fsceast@ppis.sg",
-        "phone": [
-          "60156970"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Feb 2024"
     },
     {
       "id": "130837",
@@ -2060,24 +2061,6 @@
       "date": "06 Feb 2024"
     },
     {
-      "id": "126110",
-      "category": "Learning Aids",
-      "name": "Past Exams Paper (2022 P3 Eng/Math/Sci Papers)",
-      "description": "Sunbeam Place requires 5 Sets of Past Exams Paper (2022 P3 Eng/Math/Sci Papers) for our beneficiaries.\nDelivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society Corporate Office",
-        "name": "Kartini",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "69787279",
-          "62732010"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Feb 2024"
-    },
-    {
       "id": "126129",
       "category": "Learning Aids",
       "name": "Past Exam Papers (Sec 1 NA 2018 Eng)",
@@ -2118,42 +2101,6 @@
       "category": "Learning Aids",
       "name": "Past Exam Papers (Sec 1 NA 2017 Eng Set B)",
       "description": "Sunbeam Place @ Children's Society requires 3 sets of Past Exam Papers (Sec 1 NA 2017 Eng Set B) for our beneficiaries. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society Corporate Office",
-        "name": "Kartini",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "69787279",
-          "62732010"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Feb 2024"
-    },
-    {
-      "id": "126135",
-      "category": "Learning Aids",
-      "name": "Past Exam Papers (Sec 1 NA 2022 Sci)",
-      "description": "Sunbeam Place @ Children's Society requires 3 sets of Past Exam Papers (Sec 1 NA 2022 Sci) for our beneficiaries. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society Corporate Office",
-        "name": "Kartini",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "69787279",
-          "62732010"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Feb 2024"
-    },
-    {
-      "id": "126136",
-      "category": "Learning Aids",
-      "name": "Past Exam Papers (Sec 1 NA 2021 Sci)",
-      "description": "Sunbeam Place @ Children's Society requires 3 sets of Past Exam Papers (Sec 1 NA 2021 Sci) for our beneficiaries. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
       "specifications": null,
       "contact": {
         "org": "Singapore Children's Society Corporate Office",
@@ -2222,42 +2169,6 @@
       "date": "06 Feb 2024"
     },
     {
-      "id": "126143",
-      "category": "Learning Aids",
-      "name": "Past Exam Papers (Sec 1 NT 2022 Sci)",
-      "description": "Sunbeam Place @ Children's Society requires 5 sets of Past Exam Papers (Sec 1 NT 2022 Sci) for our beneficiaries. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society Corporate Office",
-        "name": "Kartini",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "69787279",
-          "62732010"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Feb 2024"
-    },
-    {
-      "id": "126144",
-      "category": "Learning Aids",
-      "name": "Past Exam Papers (Sec 1 NT 2021 Sci)",
-      "description": "Sunbeam Place @ Children's Society requires 5 sets of Past Exam Papers (Sec 1 NT 2021 Sci) for our beneficiaries. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society Corporate Office",
-        "name": "Kartini",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "69787279",
-          "62732010"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Feb 2024"
-    },
-    {
       "id": "126145",
       "category": "Learning Aids",
       "name": "Past Exam Papers (Sec 2 Express 2019 Eng Set A)",
@@ -2280,96 +2191,6 @@
       "category": "Learning Aids",
       "name": "Past Exam Papers (Sec 2 Express 2019 Eng Set B)",
       "description": "Sunbeam Place @ Children's Society requires 3 sets of Past Exam Papers (Sec 2 Express 2019 Eng Set B) for our beneficiaries. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society Corporate Office",
-        "name": "Kartini",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "69787279",
-          "62732010"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Feb 2024"
-    },
-    {
-      "id": "126147",
-      "category": "Learning Aids",
-      "name": "Past Exam Papers (Sec 2 Express 2021 Math Set A)",
-      "description": "Sunbeam Place @ Children's Society requires 3 sets of Past Exam Papers (Sec 2 Express 2021 Math Set A) for our beneficiaries. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society Corporate Office",
-        "name": "Kartini",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "69787279",
-          "62732010"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Feb 2024"
-    },
-    {
-      "id": "126148",
-      "category": "Learning Aids",
-      "name": "Past Exam Papers (Sec 2 Express 2021 Math Set B)",
-      "description": "Sunbeam Place @ Children's Society requires 3 sets of Past Exam Papers (Sec 2 Express 2021 Math Set B) for our beneficiaries. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society Corporate Office",
-        "name": "Kartini",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "69787279",
-          "62732010"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Feb 2024"
-    },
-    {
-      "id": "126149",
-      "category": "Learning Aids",
-      "name": "Pass Exam Papers (Sec 2 Express 2022 Sci Set A)",
-      "description": "Sunbeam Place @ Children's Society requires 3 sets of Pass Exam Papers (Sec 2 Express 2022 Sci Set A) for our beneficiaries. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society Corporate Office",
-        "name": "Kartini",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "69787279",
-          "62732010"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Feb 2024"
-    },
-    {
-      "id": "126150",
-      "category": "Learning Aids",
-      "name": "Past Exam Papers (Sec 2 Express 2022 Sci Set B)",
-      "description": "Sunbeam Place @ Children's Society requires 3 sets of Past Exam Papers (Sec 2 Express 2022 Sci Set B) for our beneficiaries. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society Corporate Office",
-        "name": "Kartini",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "69787279",
-          "62732010"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Feb 2024"
-    },
-    {
-      "id": "126151",
-      "category": "Learning Aids",
-      "name": "Past Exam Papers (Sec 2 Express 2021 Sci Set A)",
-      "description": "Sunbeam Place @ Children's Society requires 3 sets of Past Exam Papers (Sec 2 Express 2021 Sci Set A) for our beneficiaries. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
       "specifications": null,
       "contact": {
         "org": "Singapore Children's Society Corporate Office",
@@ -2690,82 +2511,10 @@
       "date": "06 Feb 2024"
     },
     {
-      "id": "126175",
-      "category": "Learning Aids",
-      "name": "Past Exam Papers (Sec 3 Express 2020 Sci Chem Set A)",
-      "description": "Sunbeam Place @ Children's Society requires 3 sets of Past Exam Papers (Sec 3 Express 2020 Sci Chem Set A) for our beneficiaries. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society Corporate Office",
-        "name": "Kartini",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "69787279",
-          "62732010"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Feb 2024"
-    },
-    {
-      "id": "126176",
-      "category": "Learning Aids",
-      "name": "Past Exam Papers (Sec 3 Express 2020 Sci Chem Set B)",
-      "description": "Sunbeam Place @ Children's Society requires 3 sets of Past Exam Papers (Sec 3 Express 2020 Sci Chem Set B) for our beneficiaries. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society Corporate Office",
-        "name": "Kartini",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "69787279",
-          "62732010"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Feb 2024"
-    },
-    {
       "id": "126177",
       "category": "Learning Aids",
       "name": "Past Exam Papers (Sec 3 Express 2021 Sci Bio)",
       "description": "Sunbeam Place @ Children's Society requires 3 sets of Past Exam Papers (Sec 3 Express 2021 Sci Bio)for our beneficiaries. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society Corporate Office",
-        "name": "Kartini",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "69787279",
-          "62732010"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Feb 2024"
-    },
-    {
-      "id": "126178",
-      "category": "Learning Aids",
-      "name": "Past Exam Papers (Sec 3 Express 2022 Sci Phy)",
-      "description": "Sunbeam Place @ Children's Society requires 3 sets of Past Exam Papers (Sec 3 Express 2022 Sci Phy) for our beneficiaries. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society Corporate Office",
-        "name": "Kartini",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "69787279",
-          "62732010"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Feb 2024"
-    },
-    {
-      "id": "126179",
-      "category": "Learning Aids",
-      "name": "Past Exam Papers (Sec 3 Express 2021 Sci Phy)",
-      "description": "Sunbeam Place @ Children's Society requires 3 sets of Past Exam Papers (Sec 3 Express 2021 Sci Phy) for our beneficiaries. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
       "specifications": null,
       "contact": {
         "org": "Singapore Children's Society Corporate Office",
@@ -4765,6 +4514,24 @@
       "date": "19 Jan 2024"
     },
     {
+      "id": "130915",
+      "category": "Others",
+      "name": "TV console",
+      "description": "Client is a single mother caring for daughter who has recently reintegrated back to stay with her in her 1-room rental flat. She would like to request for a TV console to watch the television.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Lynette Tan",
+        "email": "lynettetan@thkmc.org.sg",
+        "phone": [
+          "64961272",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Feb 2024"
+    },
+    {
       "id": "130912",
       "category": "Others",
       "name": "Food ration",
@@ -5874,16 +5641,6 @@
       "description": "Blessing away a good-condition queen-size mattress.",
       "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
       "validTill": "26 Feb 2024",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "130911",
-      "name": "Sona standing fan",
-      "description": "Sona standing fan with electronic keypad. Still in good condition",
-      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-      "validTill": "19 Mar 2024",
       "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
