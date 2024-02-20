@@ -1,15 +1,5 @@
 [
   {
-    "id": "130962",
-    "name": "Commode",
-    "description": "2 weeks old. Very good condition",
-    "location": null,
-    "validTill": "21 Mar 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true
-  },
-  {
     "id": "130946",
     "name": "Skyworth TV 32” c/w bracket",
     "description": "Skyworth TV 32” c/w bracket",
@@ -346,6 +336,16 @@
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "07 Mar 2024",
     "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "130967",
+    "name": "Hospital Bed",
+    "description": "Fully operational hospital bed with mattress and electric operated backrest",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "07 Mar 2024",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true
   },
