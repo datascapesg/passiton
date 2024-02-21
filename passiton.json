@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "130981",
+      "category": "Electrical Home Appliances",
+      "name": "Instant Water Heater",
+      "description": "Client's current water heater is faulty and requires replacement so that she can take showers with warm water. She would appreciate if basic installation service is also be provided as she does not know how to fix it.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Telok Blangah",
+        "name": "Liaw Wan Qing",
+        "email": "wanqing.liaw@montfortcare.org.sg",
+        "phone": [
+          "62746904",
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Feb 2024"
+    },
+    {
       "id": "130974",
       "category": "Electrical Home Appliances",
       "name": "Standing fan",
@@ -1067,23 +1085,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "20 Feb 2024"
-    },
-    {
-      "id": "130919",
-      "category": "Infant and Children Items",
-      "name": "Dulax Stage 1 milk",
-      "description": "Low income family residing in rental flat. Couple are waiting to receive their salaries next week, and require milk for their 7 month old this week. Donor to send directly to client at Holland.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Fitrah Nabilah",
-        "email": "fitrahnabilah@carecorner.org.sg",
-        "phone": [
-          "64761481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Feb 2024"
     },
     {
       "id": "130918",
@@ -6134,16 +6135,6 @@
       "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
       "validTill": "14 Mar 2024",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "130715",
-      "name": "Baby clothes",
-      "description": "Blessing clothes for baby boy and girl. Includes newborn caps (not in picture)",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "13 Mar 2024",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true
     },
