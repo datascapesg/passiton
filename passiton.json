@@ -35,24 +35,6 @@
       "date": "22 Feb 2024"
     },
     {
-      "id": "131005",
-      "category": "Electrical Home Appliances",
-      "name": "Microwave",
-      "description": "Client is the sole breadwinner of 6 school going children and 1 husband who is currently medically unfit for work. In order to manage her food expenses, she is looking at doing home cooked meals to meal prep for her children to bring the meals to school. However, the family does not have a microwave to heat up. It will be helpful to have a microwave so that the family can have warm food to their table.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
-        "name": "Inez Hong",
-        "email": "inezhong@fycs.org",
-        "phone": [
-          "69783104",
-          "67625215"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Feb 2024"
-    },
-    {
       "id": "130981",
       "category": "Electrical Home Appliances",
       "name": "Instant Water Heater",
@@ -4800,7 +4782,7 @@
     {
       "id": "131037",
       "category": "Home Furnishing",
-      "name": "Dining Table",
+      "name": "1.2m Dining Table",
       "description": "5 siblings living together in a 4-room flat. Eldest brother is the only one working to provide for household. His 4 sisters are persons with intellectual disability; unable to hold open employment. Their glass dining table broke after reunion dinner and would need a new one to replace it. The family is still using the old table.",
       "specifications": "To sit 5 pax",
       "contact": {
@@ -5777,23 +5759,6 @@
       "date": "21 Feb 2024"
     },
     {
-      "id": "130961",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "Client is a divorced individual living independently. He suffered a stroke in 2018, rendering him medically unable to work. Currently, he is in need of a new wheelchair, as his current one, used for the past four years, is malfunctioning, making it challenging for him to move around independently.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Punggol 616",
-        "name": "Sajidah Binte Sazali",
-        "email": "sajidahsazali@allkin.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Feb 2024"
-    },
-    {
       "id": "130943",
       "category": "Mobility Aids",
       "name": "Bigger wheelchair or motorised electric wheelchair",
@@ -6072,6 +6037,36 @@
     }
   ],
   "offers": [
+    {
+      "id": "131047",
+      "name": "Commode",
+      "description": "Commode with detachable wheels",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "24 Mar 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "131046",
+      "name": "Wheel Chair",
+      "description": "Wheel Chair",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "24 Mar 2024",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "131045",
+      "name": "Hospital bed",
+      "description": "Electric 3 Function Hospital Bed with Quad Rails.\n\nComes with Singa 4\" Air Mattress with brick pump.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "24 Mar 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "131041",
       "name": "RED CASTLE CHILDREN TENT",
