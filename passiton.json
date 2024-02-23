@@ -740,23 +740,6 @@
       "date": "06 Feb 2024"
     },
     {
-      "id": "130549",
-      "category": "Electrical Home Appliances",
-      "name": "Good Working Television",
-      "description": "Client is a cancer patient who lives alone. His current TV has spoilt and hope to get a good working one to provide him a source of entertainment. He is unable to go out as he might feel the side effects of the medication and may cause him to have giddiness. \n\nAny donors may contact me straight @ 9152 2647\n\nThank you!",
-      "specifications": "Does not matter",
-      "contact": {
-        "org": "NTUC Health Cluster Support - Taman Jurong",
-        "name": "Muhammad Azfar Bin Nazri",
-        "email": "muhammadazfar.b@ntuchealth.sg",
-        "phone": [
-          "62674197"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Feb 2024"
-    },
-    {
       "id": "130455",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -3910,6 +3893,23 @@
       "date": "24 Jan 2024"
     },
     {
+      "id": "131042",
+      "category": "Others",
+      "name": "Office Chairs",
+      "description": "VWO in need of new office chairs (with arm-rests, black) due to current ones being broken. Grateful for any (new/pre-loved good condition) chairs you can spare.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Senior Activity Centre - Fernvale Rivergrove",
+        "name": "Eileen Oon",
+        "email": "eileenoon@mws.sg",
+        "phone": [
+          "64817395"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Feb 2024"
+    },
+    {
       "id": "131034",
       "category": "Others",
       "name": "Groceries and Household Necessities",
@@ -6054,6 +6054,26 @@
     }
   ],
   "offers": [
+    {
+      "id": "131041",
+      "name": "RED CASTLE CHILDREN TENT",
+      "description": "Almost brand new, hardly in use.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "24 Mar 2024",
+      "ageInYears": 3,
+      "dimensions": "Approx w60 x h160",
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "131040",
+      "name": "ELC LITTLE COOK KITCHEN",
+      "description": "Preloved kitchen, some scratches can be seen. Includes 2 bags of kitchen toys. Unable to disassemble as afraid it will break. Need collect as whole.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "24 Mar 2024",
+      "ageInYears": 2,
+      "dimensions": "w 47 x h 95 x d 53 cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "131032",
       "name": "Commode",
