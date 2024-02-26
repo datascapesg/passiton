@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "131121",
+      "category": "Electrical Home Appliances",
+      "name": "TV",
+      "description": "A low-income family with 5 young children is in need of a new TV as their current one is no longer functional. The TV would greatly benefit their pregnant mother, providing entertainment and helping her manage the household while her husband is at work.",
+      "specifications": "No requirements",
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Yu Ki",
+        "email": "yuki@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Feb 2024"
+    },
+    {
       "id": "131120",
       "category": "Electrical Home Appliances",
       "name": "Wall mounted fans and portable aircon cooler",
@@ -4952,6 +4969,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "30 Jan 2024"
+    },
+    {
+      "id": "131122",
+      "category": "Home Furnishing",
+      "name": "Child-safe Window Grilles",
+      "description": "Family consists of 3 young children (4, 3 and 1 years). Father is earning unstable and low income in a contract job after recently being retrenched while mother takes on ad-hoc jobs, resulting in insufficient income to support the household needs. The family would like to request for support to install window grilles in their living room, for the safety of the children.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Early Intervention Programme for Infants and Children - Jurong East",
+        "name": "Tessa Nai",
+        "email": "tessanai@fycs.org",
+        "phone": [
+          "66810508",
+          "65656260"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Feb 2024"
     },
     {
       "id": "131119",
