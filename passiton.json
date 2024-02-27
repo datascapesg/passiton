@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "131174",
+      "category": "Electrical Home Appliances",
+      "name": "Water Heater",
+      "description": "A family of three require a new water heater for their new rental house. They are not able to work for now due to medical reasons and they are pregnant with one more child.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Marine Parade Family Service Centre",
+        "name": "Carissa",
+        "email": "carissa.lee@montfortcare.org.sg",
+        "phone": [
+          "64450100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Feb 2024"
+    },
+    {
       "id": "131171",
       "category": "Electrical Home Appliances",
       "name": "Air Purifier",
@@ -5185,6 +5202,23 @@
       "date": "30 Jan 2024"
     },
     {
+      "id": "131176",
+      "category": "Home Furnishing",
+      "name": "Bed and Mattress",
+      "description": "A single male client residing in a rental unit is facing health challenges that prevent him from working. As a result, he needs a bed to support his well-being.",
+      "specifications": "Single",
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Ferhad Khan",
+        "email": "ferhad@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Feb 2024"
+    },
+    {
       "id": "131163",
       "category": "Home Furnishing",
       "name": "Clothes rack",
@@ -6201,23 +6235,6 @@
       "date": "23 Feb 2024"
     },
     {
-      "id": "130992",
-      "category": "Kitchen Utility Items",
-      "name": "Kitchen Utility Items",
-      "description": "Client, 45-year-old mother, has undergone surgery and is gradually recovering. To help support household finances, client wishes to resume her home-based business. She needs essential items such as a cooking wok, spatula and ladle set, and a microwave. Do get in touch if you're able to assist. Thank you in advance!",
-      "specifications": null,
-      "contact": {
-        "org": "Kampong Kapor Community Services",
-        "name": "Muhammad Iskandar Bin Razali",
-        "email": "iskandarrazali@kkcs.org.sg",
-        "phone": [
-          "62997662"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Feb 2024"
-    },
-    {
       "id": "130747",
       "category": "Kitchen Utility Items",
       "name": "Kitchen rack",
@@ -6236,6 +6253,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "131175",
+      "name": "Hecom Sea Horse 8” Single Size Mattress",
+      "description": "Lightly used. Good condition.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "28 Mar 2024",
+      "ageInYears": 1,
+      "dimensions": "190cm x 91cm",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "131172",
       "name": "Baby Trend Deluxe Crib",
@@ -6780,16 +6807,6 @@
       "id": "130342",
       "name": "Dark grey 14 inch laptop backpack",
       "description": "Used lightly once. In great condition",
-      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-      "validTill": "29 Feb 2024",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true
-    },
-    {
-      "id": "130341",
-      "name": "Jujube grab and go drawstring backpack",
-      "description": "Used lightly once. In great condition.",
       "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
       "validTill": "29 Feb 2024",
       "ageInYears": 1,
