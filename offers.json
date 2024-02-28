@@ -1,5 +1,15 @@
 [
   {
+    "id": "131205",
+    "name": "Blue Sofa",
+    "description": "Blue Sofa Good condition mainly used in work office",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "16 Mar 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
     "id": "131202",
     "name": "TV CONSOLE",
     "description": "TV Console , TV not included",
@@ -263,6 +273,16 @@
     "id": "131047",
     "name": "Commode",
     "description": "Commode with detachable wheels",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "24 Mar 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true
+  },
+  {
+    "id": "131204",
+    "name": "Hospital bed",
+    "description": "Electric 3 Function Hospital Bed with Quad Rails.\n\nComes with Singa 4\" Air Mattress with brick pump.",
     "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
     "validTill": "24 Mar 2024",
     "ageInYears": 2,
