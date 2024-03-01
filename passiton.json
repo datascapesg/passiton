@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "131271",
+      "category": "Electrical Home Appliances",
+      "name": "Clothes Iron",
+      "description": "My client is a poor elderly man who has just moved into his rental flat as his flat was sold without his knowledge. He has multiple chronic illnesses and needs a clothes iron to stay independent.",
+      "specifications": null,
+      "contact": {
+        "org": "TRANS Family Service Centre (Bedok Reservoir)",
+        "name": "Huang Yanchao",
+        "email": "yanchao.huang@trans.org.sg",
+        "phone": [
+          "67473202"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Mar 2024"
+    },
+    {
+      "id": "131269",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "My client is a poor elderly man who has just moved into his rental flat as his flat was sold without his knowledge. He multiple chronic illnesses and needs a washing machine to stay independent.",
+      "specifications": null,
+      "contact": {
+        "org": "TRANS Family Service Centre (Bedok Reservoir)",
+        "name": "Huang Yanchao",
+        "email": "yanchao.huang@trans.org.sg",
+        "phone": [
+          "67473202"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Mar 2024"
+    },
+    {
       "id": "131260",
       "category": "Electrical Home Appliances",
       "name": "Coffee machine (non pods version), preferably with milk froth",
@@ -6563,6 +6597,16 @@
     }
   ],
   "offers": [
+    {
+      "id": "131270",
+      "name": "Wooden Building Blocks",
+      "description": "Wooden building blocks from ELC. Comes in a canvas bag.",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "31 Mar 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "131268",
       "name": "Toy Cars & Road Mat",
