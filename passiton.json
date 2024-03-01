@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "131279",
+      "category": "Electrical Home Appliances",
+      "name": "Electric Dryer or Washing machine cum dryer",
+      "description": "The household has 5 persons living in a 1 room rental flat. The mother is unable to work due to health conditions. She is seeking for an electric dryer for clothes (10 kg).  The model could also be a washing machine cum dryer",
+      "specifications": null,
+      "contact": {
+        "org": "Prison Fellowship Singapore Ltd",
+        "name": "Lee Oi Wei",
+        "email": "oiweilee@pfs.org.sg",
+        "phone": [
+          "63842338ext210",
+          "63842338"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Mar 2024"
+    },
+    {
       "id": "131278",
       "category": "Electrical Home Appliances",
       "name": "Baking Oven",
@@ -47,23 +65,6 @@
         "email": "garytan@chkmps.org.sg",
         "phone": [
           "64486247"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Mar 2024"
-    },
-    {
-      "id": "131271",
-      "category": "Electrical Home Appliances",
-      "name": "Clothes Iron",
-      "description": "My client is a poor elderly man who has just moved into his rental flat as his flat was sold without his knowledge. He has multiple chronic illnesses and needs a clothes iron to stay independent.",
-      "specifications": null,
-      "contact": {
-        "org": "TRANS Family Service Centre (Bedok Reservoir)",
-        "name": "Huang Yanchao",
-        "email": "yanchao.huang@trans.org.sg",
-        "phone": [
-          "67473202"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -5105,6 +5106,24 @@
       "date": "30 Jan 2024"
     },
     {
+      "id": "131285",
+      "category": "Medical Aids",
+      "name": "Theo10 Eczema Cream and Bodywash",
+      "description": "Family has 10 school-going children who requires ezcema cream and bodywash to help them cope with their ezcema condition. Currently, the family PCI is $150 as the sole breadwinner of the family was recently laid off from work.",
+      "specifications": "Body Wash (1000ml) and Ezcema Cream x 2",
+      "contact": {
+        "org": "FRCS Family Service Centre",
+        "name": "Zulayqha Zulkifli",
+        "email": "zulayqha@frcsfsc.sg",
+        "phone": [
+          "67799456",
+          "67799488"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "01 Mar 2024"
+    },
+    {
       "id": "131275",
       "category": "Medical Aids",
       "name": "Blood pressure machine",
@@ -5614,6 +5633,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "30 Jan 2024"
+    },
+    {
+      "id": "131281",
+      "category": "Home Furnishing",
+      "name": "Dining Chairs",
+      "description": "The household has 5 persons living in a 1 room rental flat. The mother is unable to work due to health conditions. She would like to request for 4 dining chairs.",
+      "specifications": null,
+      "contact": {
+        "org": "Prison Fellowship Singapore Ltd",
+        "name": "Lee Oi Wei",
+        "email": "oiweilee@pfs.org.sg",
+        "phone": [
+          "63842338ext210",
+          "63842338"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Mar 2024"
     },
     {
       "id": "131277",
@@ -6702,6 +6739,46 @@
     }
   ],
   "offers": [
+    {
+      "id": "131284",
+      "name": "Stroller",
+      "description": "Graco stroller, compact, lightweight and easy to use.",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "31 Mar 2024",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "131283",
+      "name": "Baby rocker/chair",
+      "description": "Baby rocker/chair ready to go to anyone who needs it, good condition",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "31 Mar 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "131282",
+      "name": "Baby rocker/chair",
+      "description": "2 baby rocker/chair ready to go to anyone who needs, very good condition.",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "31 Mar 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true
+    },
+    {
+      "id": "131280",
+      "name": "ZOJIRUSHI Stainless Pot (1.2L)",
+      "description": "NA",
+      "location": "Changi, Flora, Loyang",
+      "validTill": "31 Mar 2024",
+      "ageInYears": 1,
+      "dimensions": "NA",
+      "deliveryCostsCoveredByDonor": true
+    },
     {
       "id": "131270",
       "name": "Wooden Building Blocks",
