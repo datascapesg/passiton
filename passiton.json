@@ -142,24 +142,6 @@
       "date": "29 Feb 2024"
     },
     {
-      "id": "131242",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Client and her 4 teenage children are residing in a 1 room rental flat. Client suffers from chronic back pain and unable to work. Family is requesting for a small fridge. Please WhatsApp Kek Koon at 9226 7029 or email to seahkekkoon@thkmc.org.sg to liaise.",
-      "specifications": "Small  (L 27 inch X B 24 Inch X H 70 Inch)",
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Lynette Tan",
-        "email": "lynettetan@thkmc.org.sg",
-        "phone": [
-          "64961272",
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Feb 2024"
-    },
-    {
       "id": "131215",
       "category": "Electrical Home Appliances",
       "name": "TV",
@@ -6240,6 +6222,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "131330",
+      "name": "Fridge",
+      "description": "In good condition",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "09 Mar 2024",
+      "ageInYears": 3,
+      "dimensions": "L60cmXW60cmXH170cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "131316",
       "name": "Dish washer",
       "description": "Brand new",
@@ -6304,6 +6297,50 @@
       "dimensions": "20 x 22 x 21cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "131329",
+      "name": "King Size Bed",
+      "description": "King Size Bed, Mattress is optional",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "07 Mar 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "131328",
+      "name": "Display Set Book Shelf",
+      "description": "Looks almost brand new with copper handles recently changed.",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "06 Mar 2024",
+      "ageInYears": 4,
+      "dimensions": "89cm x 32cm x 198cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "131327",
+      "name": "Sofa Set",
+      "description": "3 + 2 Sofa.\nStill in good condition, the fabric might need cleaning for the stains from kids spilling drinks on them",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "06 Mar 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "131326",
+      "name": "Full solid wood dining table",
+      "description": "Full solid wood",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "07 Mar 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "131311",
@@ -6526,39 +6563,6 @@
       "category": "Infant and Children Items"
     },
     {
-      "id": "131295",
-      "name": "Boys clothes and potty training pants for 2yo- 4yo",
-      "description": "Casual shirts, socks, jacket, toddler potty training pants for boys 2-4yo",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "31 Mar 2024",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "131294",
-      "name": "English and Chinese activity, storybooks for young toddlers to preschoolers",
-      "description": "11 pieces of Huggies XXL diapers",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "31 Mar 2024",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "131293",
-      "name": "Early stages puzzles, Melissa &Doug lock, Counting puzzles",
-      "description": "Educational toys(counting, motor skills) and puzzles (early stages) for toddlers",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "31 Mar 2024",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
       "id": "131284",
       "name": "Stroller",
       "description": "Graco stroller, compact, lightweight and easy to use.",
@@ -6609,17 +6613,6 @@
       "location": null,
       "validTill": "28 Mar 2024",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "131149",
-      "name": "Baby clothes",
-      "description": "Good conditioned clothing. No stains.",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "28 Mar 2024",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
