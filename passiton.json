@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "131395",
+      "category": "Electrical Home Appliances",
+      "name": "75 inches TV",
+      "description": "Our VWO is currently seeking a 75-inch TV to enhance the multi-purpose hall, where it will be utilized for various activities with seniors. We welcome any form of donation, whether it be a new or pre-loved TV in good working condition. Your support is greatly appreciated.",
+      "specifications": "75 Inches",
+      "contact": {
+        "org": "MWS Senior Activity Centre - Fernvale Rivergrove",
+        "name": "Eileen Oon",
+        "email": "eileenoon@mws.sg",
+        "phone": [
+          "64817395"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Mar 2024"
+    },
+    {
+      "id": "131393",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "61-years-old sole breadwinner and widow works part-time to support in the caregiving of her 5 grandchildren. Presently, her refrigerator is faulty and the family are not able to finance for a new one. \n\nTo support this family, do reach Hanna at her work mobile number, 8878 8846. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "New Life Stories Limited",
+        "name": "Noorfaiza Hassan",
+        "email": "noorfaiza@newlifestories.org.sg",
+        "phone": [
+          "63867688"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Mar 2024"
+    },
+    {
       "id": "131391",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -1121,6 +1155,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "06 Feb 2024"
+    },
+    {
+      "id": "131397",
+      "category": "Infant and Children Items",
+      "name": "Diapers",
+      "description": "28 years old pregnant mother requires support in diapers while she explores for work opportunities and manages caregiving of her 1 year old. \n\nType:Pull up (Any brand)\nSize: M \n\nTo support the mother, do reach Hanna at her work mobile number, 8878 8846. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "New Life Stories Limited",
+        "name": "Noorfaiza Hassan",
+        "email": "noorfaiza@newlifestories.org.sg",
+        "phone": [
+          "63867688"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Mar 2024"
+    },
+    {
+      "id": "131396",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder",
+      "description": "28 years old pregnant mother requires support in milk powder while she explores for work opportunities and manages caregiving of her 1 year old. \n\nBrand: Dugro Age 1 -3 yr\n\nTo support the mother, do reach Hanna at her work mobile number, 8878 8846. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "New Life Stories Limited",
+        "name": "Noorfaiza Hassan",
+        "email": "noorfaiza@newlifestories.org.sg",
+        "phone": [
+          "63867688"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Mar 2024"
     },
     {
       "id": "131389",
@@ -3992,6 +4060,23 @@
       "date": "06 Feb 2024"
     },
     {
+      "id": "131394",
+      "category": "Others",
+      "name": "Groceries (Halal)",
+      "description": "61-years-old sole breadwinner and widow works part-time to support in the caregiving of her 5 grandchildren. Presently, she needs some support in groceries.\n\nTo support this family, do reach Hanna at her work mobile number, 8878 8846. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "New Life Stories Limited",
+        "name": "Noorfaiza Hassan",
+        "email": "noorfaiza@newlifestories.org.sg",
+        "phone": [
+          "63867688"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Mar 2024"
+    },
+    {
       "id": "131378",
       "category": "Others",
       "name": "Food Rations",
@@ -6594,6 +6679,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "131392",
+      "name": "Super Single size mattress x 2",
+      "description": "Two Seahorse brand mattress \nSuper single size\nNote : the mattress are very firm not the soft type",
+      "location": "Braddell , Macpherson, Potong Pasir",
+      "validTill": "04 Apr 2024",
+      "ageInYears": 3,
+      "dimensions": "Super single size mattress",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "131390",
       "name": "Brown Super single bed with storage",
       "description": "Dark brown Super single bed frame with storage. In very good condition.  Comes with mattress.",
@@ -6612,17 +6708,6 @@
       "validTill": "04 Apr 2024",
       "ageInYears": 1,
       "dimensions": "120(160)x80x75",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "131344",
-      "name": "Mattress",
-      "description": "Queen size mattress in good condition and clean.",
-      "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-      "validTill": "31 Mar 2024",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
