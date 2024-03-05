@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "131365",
+      "category": "Electrical Home Appliances",
+      "name": "10kg washing machine",
+      "description": "Family has 7 children and requires assistance to replace their washing machine which is spoilt. This family only has a single income earner as the other parent has to care for a child with special needs.",
+      "specifications": "Washing machine with at least 10kg load",
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Loh Yun Yu",
+        "email": "yunyu_loh@awwa.org.sg",
+        "phone": [
+          "65119435",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Mar 2024"
+    },
+    {
       "id": "131362",
       "category": "Electrical Home Appliances",
       "name": "Television",
@@ -3786,6 +3804,23 @@
       "date": "06 Feb 2024"
     },
     {
+      "id": "131364",
+      "category": "Others",
+      "name": "Food ration",
+      "description": "Requesting Halal food rations for needy families who may not have the money to buy food items due to financial issues. Items needed are as following:\n\n- Halal Can Food [Meat - Sardine/Chicken etc] / [Vegetarian – Corn/Mushroom etc]\n\n\nAny amount is appreciated! Please call/email me before making any purchase as we have space constraint issues. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Daisy Davina d/o Rajalingam",
+        "email": "daisydavina@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Mar 2024"
+    },
+    {
       "id": "131358",
       "category": "Others",
       "name": "Saline Solution",
@@ -6441,17 +6476,6 @@
       "validTill": "07 Mar 2024",
       "ageInYears": 4,
       "dimensions": "105x50x140",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "131246",
-      "name": "Grey fabric 3-seater sofa",
-      "description": "We have a 3-seater L-shaped sofa to donate. It is still a good condition. Would be good for a family of 4-5. \n\nWhen moving, the sofa can be dismantled into 2 parts (the L shaped section and the rest of the sofa).",
-      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-      "validTill": "06 Mar 2024",
-      "ageInYears": 4,
-      "dimensions": "240cm x 67cm x 157cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
