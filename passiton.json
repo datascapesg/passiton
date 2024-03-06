@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "131438",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave",
+      "description": "Client lives in a one-room rental flat. He was recently certified as unfit for work due to his medical condition which requires him to be on follow-up frequently. Currently, he requires a microwave oven which will help him to prepare his own meals.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Lee Ann Dominique",
+        "email": "leeann.dominique@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "06 Mar 2024"
+    },
+    {
       "id": "131432",
       "category": "Electrical Home Appliances",
       "name": "Baking oven",
@@ -7339,6 +7356,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "131439",
+      "name": "Canon G3010 All-in-One Printer",
+      "description": "Have a colour printer/scanner to donate. The black printout is not so good due to probably printhead old but colour printing okay. Scanning also okay.",
+      "location": null,
+      "validTill": "31 Mar 2024",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "131298",
