@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "131407",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Family of 5 has 3 school-going children who requires a washing machine. Their washing machine has broken down and needs help in replacing it as family is facing financial difficulties. Family prefers a 8kg top-loader machine.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Kreta Ayer",
+        "name": "Ernest Seoh",
+        "email": "ernest_seoh@msf.gov.sg",
+        "phone": [
+          "60138545",
+          "1800-222-0000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Mar 2024"
+    },
+    {
       "id": "131406",
       "category": "Electrical Home Appliances",
       "name": "Halal Refrigerator",
@@ -6724,17 +6742,6 @@
       "validTill": "02 Apr 2024",
       "ageInYears": 3,
       "dimensions": "202cm x 106cm x 35cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "131363",
-      "name": "Dining Set",
-      "description": "Clean, as new condition dining set. Table top extends from 120cm length to 160cm. \nMechanism working fine without problem. Fabric chairs are 51cm high from floor to bottom cushion - all clean. 5(+1) chairs are provided (- the +1 chair could not be assembled.)",
-      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-      "validTill": "04 Apr 2024",
-      "ageInYears": 1,
-      "dimensions": "120(160)x80x75",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
