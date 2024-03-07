@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "131446",
+      "category": "Electrical Home Appliances",
+      "name": "water heater",
+      "description": "Family has one infant and is expecting one more child. Family requires a water heater in their new flat as theirs recently broke down. Parents are currently unemployed due to medical issues, hence, does not have enough to purchase another water heater at the moment.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Marine Parade Family Service Centre",
+        "name": "Carissa",
+        "email": "carissa.lee@montfortcare.org.sg",
+        "phone": [
+          "64450100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Mar 2024"
+    },
+    {
+      "id": "131445",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Single father of one child is looking for a washing machine. Family is staying in a rental flat and has tight financial situation. The current washing machine (previously got it from donation) is not in good condition and need to be replace.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Ye Jiancheng",
+        "email": "jiancheng@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Mar 2024"
+    },
+    {
       "id": "131438",
       "category": "Electrical Home Appliances",
       "name": "Microwave",
@@ -1102,6 +1136,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "06 Feb 2024"
+    },
+    {
+      "id": "131447",
+      "category": "Infant and Children Items",
+      "name": "Diapers",
+      "description": "Single mother of 4 young children (1 with special needs). Mother is unable to work to meet the caregiving needs of her child with special needs, who is not toilet trained. Child uses Softess Baby Pants L size (for 9-14 kg) as it is the cheapest diapers - as such, any suitable size of diapers regardless of brand will be greatly appreciated!",
+      "specifications": null,
+      "contact": {
+        "org": "Rainbow Centre - Yishun Park School",
+        "name": "Lois Yeo",
+        "email": "loisyeo@rainbowcentre.org.sg",
+        "phone": [
+          "68177973",
+          "64822592"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Mar 2024"
     },
     {
       "id": "131425",
@@ -4973,6 +5025,24 @@
       "date": "05 Feb 2024"
     },
     {
+      "id": "131448",
+      "category": "Medical Aids",
+      "name": "Fresubin",
+      "description": "Family has no active household income. Husband has stage 4 lung cancer. He has poor appetite and needs milk supplement drinks and currently on Fresubin. (Ensure milk is fine too)",
+      "specifications": "Fresubin 2kcal drink, 1 carton",
+      "contact": {
+        "org": "AIN Society",
+        "name": "Nur'Ain Binte Mohamed Said",
+        "email": "nurain@ainsociety.org.sg",
+        "phone": [
+          "68485116",
+          "68485166"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Mar 2024"
+    },
+    {
       "id": "131410",
       "category": "Medical Aids",
       "name": "Adult diapers, absorbent underpads and body wipes",
@@ -5151,6 +5221,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "08 Feb 2024"
+    },
+    {
+      "id": "131444",
+      "category": "Mobility Aids",
+      "name": "Wheelchair",
+      "description": "Family of 4 (mother with 3 children) looking for a wheelchair for her elderly father. Family is under financial assistance and has tight finances. Elderly father has medical condition and requires a wheelchair when going out. The current wheelchair is not in good condition and need to replace.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Ye Jiancheng",
+        "email": "jiancheng@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Mar 2024"
     },
     {
       "id": "131411",
@@ -7164,17 +7251,6 @@
       "location": "Admiralty Drive, Sembawang, Yishun",
       "validTill": "05 Apr 2024",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
-      "id": "131418",
-      "name": "Shower commode aluminium",
-      "description": "For shower use sitting backrest wheels",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "05 Apr 2024",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
