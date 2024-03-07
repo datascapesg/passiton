@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "131465",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "A low-income family with 2 young children (one toddler and one 2 years old) requires a washing machine as their current washing machine is starting to be faulty.",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Rebecca Yeong",
+        "email": "rebecca.yeong@reach.org.sg",
+        "phone": [
+          "68010700",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Mar 2024"
+    },
+    {
       "id": "131464",
       "category": "Electrical Home Appliances",
       "name": "Kettle",
@@ -3871,6 +3889,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "08 Feb 2024"
+    },
+    {
+      "id": "131466",
+      "category": "Mobility Aids",
+      "name": "wheelchair",
+      "description": "Senior is living in a 1 room rental flat. He is in need of a new wheelchair as his current one is faulty. He is a stroke survivor and depends on his wheelchair to ambulate around his unit.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Cluster Support @ Geylang",
+        "name": "Sabrina Wong",
+        "email": "sabrina.wong@thkmc.org.sg",
+        "phone": [
+          "63371201",
+          "68461228"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Mar 2024"
     },
     {
       "id": "131444",
