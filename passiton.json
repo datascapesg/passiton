@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "131453",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "My client is a 76-year-old lady who had recently moved into a rental flat this year. She is requesting a washing machine as she is unable to wash her clothes by hand. Kindly email me at nurulizzah.mdlatip@ppis.sg if you would like to donate.",
+      "specifications": "Donor to specify",
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Nurul Izzah",
+        "email": "nurulizzah.mdlatip@ppis.sg",
+        "phone": [
+          "65613462ext520",
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Mar 2024"
+    },
+    {
+      "id": "131452",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "My client is a 76-year-old lady who had recently moved into a rental flat. She is requesting a small to medium-sized refrigerator to store her food. Kindly email me at nurulizzah.mdlatip@ppis.sg if you would like to donate.",
+      "specifications": "Donor to specify",
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Nurul Izzah",
+        "email": "nurulizzah.mdlatip@ppis.sg",
+        "phone": [
+          "65613462ext520",
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Mar 2024"
+    },
+    {
       "id": "131446",
       "category": "Electrical Home Appliances",
       "name": "water heater",
@@ -360,23 +396,6 @@
         "phone": [
           "68179411",
           "64752072"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Feb 2024"
-    },
-    {
-      "id": "131211",
-      "category": "Electrical Home Appliances",
-      "name": "TV",
-      "description": "Single mother with 2 young sons and unable to work because of health issues.",
-      "specifications": "30 to 40 inch",
-      "contact": {
-        "org": "TRANS Family Service Centre (Bedok)",
-        "name": "Muhammad Hamizan Danial",
-        "email": null,
-        "phone": [
-          "64490762"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1136,24 +1155,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "06 Feb 2024"
-    },
-    {
-      "id": "131447",
-      "category": "Infant and Children Items",
-      "name": "Diapers",
-      "description": "Single mother of 4 young children (1 with special needs). Mother is unable to work to meet the caregiving needs of her child with special needs, who is not toilet trained. Child uses Softess Baby Pants L size (for 9-14 kg) as it is the cheapest diapers - as such, any suitable size of diapers regardless of brand will be greatly appreciated!",
-      "specifications": null,
-      "contact": {
-        "org": "Rainbow Centre - Yishun Park School",
-        "name": "Lois Yeo",
-        "email": "loisyeo@rainbowcentre.org.sg",
-        "phone": [
-          "68177973",
-          "64822592"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Mar 2024"
     },
     {
       "id": "131425",
@@ -2566,24 +2567,6 @@
       "date": "05 Feb 2024"
     },
     {
-      "id": "131357",
-      "category": "Learning Aids",
-      "name": "Whiteboard",
-      "description": "Sunbeam Place @ Children's Society which is a residential home and gazetted place of safety for children who have been abused and neglected and are in need of protection, or whose parents are unable to provide proper care requires 1 Whiteboard for teaching.\nDelivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society Corporate Office",
-        "name": "Kartini",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "69787279",
-          "62732010"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Mar 2024"
-    },
-    {
       "id": "131185",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -3985,6 +3968,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "06 Feb 2024"
+    },
+    {
+      "id": "131451",
+      "category": "Others",
+      "name": "Trolley bag with wheels",
+      "description": "Single elderly woman in need of a trolley bag with wheels, as she has difficulties carrying her groceries to and fro home. Client has arthritis which causes pain in her joints and limbs. A provision of a trolley bag will assist client in her marketing.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Joanna Tay",
+        "email": "joannatay@fycs.org",
+        "phone": [
+          "66901029",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Mar 2024"
     },
     {
       "id": "131426",
@@ -6688,6 +6689,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "131454",
+      "name": "Dining Table + Chairs",
+      "description": "1.5m dining table with 6 pieces of chairs. In good condition.\nurgent to clear the item by latest 10 March 2024.",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "10 Mar 2024",
+      "ageInYears": 4,
+      "dimensions": "1.5m",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "131441",
       "name": "Dining Table",
       "description": "Solid dark red dining table. Chairs NOT included. Class top can be removed (protects table surface so there are no scratches).",
@@ -6793,6 +6805,28 @@
       "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
       "validTill": "31 Mar 2024",
       "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "131449",
+      "name": "Stackable bed frame only x 2 (without mattress)",
+      "description": "Height, 2 beds: 46 cm\n\nLength: 205 cm\n\nWidth: 83 cm\n\nHeight: 23 cm\n\nGood quality. In good condition",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "01 Apr 2024",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "131450",
+      "name": "Stackable bed frame only x 2 (without mattress)",
+      "description": "Height, 2 beds: 46 cm\n\nLength: 205 cm\n\nWidth: 83 cm\n\nHeight: 23 cm\n\nGood quality. In good condition",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "01 Apr 2024",
+      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
