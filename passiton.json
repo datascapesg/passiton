@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "131501",
+      "category": "Electrical Home Appliances",
+      "name": "Halal Fridge Needed!",
+      "description": "Family of 6 comprising of 4 school-going children, one of whom has special needs. Father is the sole breadwinner while mother is a homemaker and caregiver to children. Their current fridge is faulty and the family is in need of one.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Farahlina Tan",
+        "email": "farahlina_tan@awwa.org.sg",
+        "phone": [
+          "65119458",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Mar 2024"
+    },
+    {
+      "id": "131499",
+      "category": "Electrical Home Appliances",
+      "name": "Bladeless fan",
+      "description": "Low-income family of 3 (parents and 1 child with special needs) is looking for a bladeless fan to help reduce usage of air-conditioner for child's eczema and sensitive skin. \n\nFamily stays in rental unit and is trying to work towards financial stability. Any ad-hoc assistance for household appliances would be greatly appreciated.\n\nhttps://shopee.sg/Mistral-31-Tower-Fan-MFD310-i.13436301.1450120391?sp_atk=58b126c0-51b9-41ec-8a88-ad9b9cbbdc8d&xptdk=58b126c0-51b9-41ec-8a88-ad9b9cbbdc8d",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Augustine Choy",
+        "email": "augustine.choy@reach.org.sg",
+        "phone": [
+          "68673285",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Mar 2024"
+    },
+    {
       "id": "131496",
       "category": "Electrical Home Appliances",
       "name": "Standing Fan",
@@ -3857,24 +3893,6 @@
       "date": "08 Feb 2024"
     },
     {
-      "id": "131410",
-      "category": "Medical Aids",
-      "name": "Adult diapers, absorbent underpads and body wipes",
-      "description": "Client is an elderly with severe dementia and is mostly reliant on family for assistance with daily living. Son and daughter-in-law are unable to work due to health condition and being a full time caregiver respectively. As client experiences urinary and bowel incontinence, he needs to wear diapers on a daily basis. Caregiver also uses absorbent underpads to prevent leakage and body wipes to keep client clean.\n\nClient is currently using\n1. TENA brand adult diapers, VALUE range, size M\n2. 60cm x 90cm disposable absorbent underpads\n3. HOSPICARE 40R brand adult body wipes",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Community Services - Mental Health",
-        "name": "Clarissa Liew",
-        "email": "clarissaliew@fycs.org",
-        "phone": [
-          "60117650",
-          "64712022"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Mar 2024"
-    },
-    {
       "id": "131256",
       "category": "Medical Aids",
       "name": "Audelacare Adult Pants Diapers (XL size)",
@@ -5695,10 +5713,21 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "131500",
+      "name": "Baby Diaper Bag",
+      "description": "Brand new from maternity hospital. Already have one myself. This bag could help mums keep all the baby diapers and feeding bottle when going out.",
+      "location": null,
+      "validTill": "07 Apr 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
       "id": "131498",
       "name": "Baby bouncer bed (pink)",
       "description": "Used for only 2 months. Very new. Good for mum to place baby near to her during day time while under supervision so that baby doesnt need to lie on the floor.",
-      "location": null,
+      "location": "Ulu Pandan",
       "validTill": "07 Apr 2024",
       "ageInYears": 1,
       "dimensions": null,
