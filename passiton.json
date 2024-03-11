@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "131543",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Client is married with 4 sons and is currently working full-time. She has had her current refrigerator for several years. In early-March, she reported that there has been some instances where her refrigerator would be warmer than it should be, and emit a screeching sound. Client is requesting for a refrigerator to store the family’s groceries for home cooking.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Mar 2024"
+    },
+    {
       "id": "131539",
       "category": "Electrical Home Appliances",
       "name": "Oven",
@@ -2355,6 +2372,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "13 Feb 2024"
+    },
+    {
+      "id": "131544",
+      "category": "Others",
+      "name": "Mattress",
+      "description": "Elder is of low income background and resides in a 1 room rental flat. He is unable to work and has limited mobility at the moment due to a toe wound. Elder's mattress (single size), pillow, and bedsheets are no longer suitable for use and he would appreciate any donations of the above items. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "St Luke's Eldercare Ltd - HQ",
+        "name": "Ingle Liew",
+        "email": "ingleliew@slec.org.sg",
+        "phone": [
+          "87208970",
+          "63909368"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Mar 2024"
     },
     {
       "id": "131530",
@@ -4995,17 +5030,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "131456",
-      "name": "Plastic Drawer",
-      "description": "No keys. \nSuitable for keeping light weight items, eg : baby clothes & stuffs. \nGiving out as we are moving out.\n\nI am able to arrange logistic to deliver to the needy. (islandwide). I will pay for the delivery fee.",
-      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-      "validTill": "30 Mar 2024",
-      "ageInYears": 2,
-      "dimensions": "56cm x 37cm x 108cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "131441",
       "name": "Dining Table",
       "description": "Solid dark red dining table. Chairs NOT included. Class top can be removed (protects table surface so there are no scratches).",
@@ -5587,6 +5611,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "131542",
+      "name": "Pack bag",
+      "description": "Delivery on weekday evening and weekend.",
+      "location": null,
+      "validTill": "31 Mar 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "131541",
+      "name": "Sling bag",
+      "description": "Delivery on weekday evening and weekend.",
+      "location": null,
+      "validTill": "31 Mar 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "131540",
