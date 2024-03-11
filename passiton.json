@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "131560",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine (Front load)",
+      "description": "Client is married with 2 young children below the age of 2. The family has been facing financial strains due to health and employment issues. Client is staying at a rented room but had just gotten the keys to her new rental flat. The family has not been able to move in as they are still saving up for furnishing and home appliances. Client is requesting for a front load washing machine that can accommodate 8-9kg for her family of 5.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Mar 2024"
+    },
+    {
       "id": "131548",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -2758,24 +2775,6 @@
       "date": "01 Mar 2024"
     },
     {
-      "id": "131263",
-      "category": "Others",
-      "name": "Condensed Milk",
-      "description": "Our home need 50 cans of Condensed Milk for our 522 elderly residents. Thank you",
-      "specifications": null,
-      "contact": {
-        "org": "Ju Eng Home For Senior Citizens",
-        "name": "Lee Jun Hui",
-        "email": "junhui@jeh.org.sg",
-        "phone": [
-          "64846890ext127",
-          "64846890"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Mar 2024"
-    },
-    {
       "id": "127562",
       "category": "Others",
       "name": "Cooking Oil (Tin)",
@@ -4781,6 +4780,24 @@
       "date": "27 Feb 2024"
     },
     {
+      "id": "131561",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Ct is a mother of 2 young children who is currently undergoing divorce. She is hoping to get a working laptop to better facilitate her job search online.",
+      "specifications": null,
+      "contact": {
+        "org": "Whispering Hearts Family Service Centre",
+        "name": "Shirley Lee",
+        "email": "shirley_lee@viriya.org.sg",
+        "phone": [
+          "67451008",
+          "67951008"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Mar 2024"
+    },
+    {
       "id": "131487",
       "category": "Learning Aids",
       "name": "Sec 4 NT Topical Science Assessment Books",
@@ -5146,6 +5163,17 @@
       "dimensions": "20 x 22 x 21cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "131564",
+      "name": "Foldable Single Sofa Bed",
+      "description": "Seldom used, clean sofa bed",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "31 Mar 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "131558",
