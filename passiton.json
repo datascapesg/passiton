@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "131538",
+      "category": "Electrical Home Appliances",
+      "name": "Standing Fan",
+      "description": "Client is a 39yo male who is single. He is unemployed and assessed to be medically unfit for work due to the complexity of his medical conditions. He had recently moved to a new rental unit after years of staying with his parents whom he shares a conflictual relationship with. He has limited savings and is dependent on the financial assistance of the MSF Social Service Office for daily subsistence.  \n\nHe is hoping to receive a standing fan as the new unit does not have a fan and he has been having disrupted sleep due to the hot weather.",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Caroline Pan",
+        "email": "caroline.pan@reach.org.sg",
+        "phone": [
+          "68673289",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Mar 2024"
+    },
+    {
       "id": "124961",
       "category": "Electrical Home Appliances",
       "name": "Cordless Vacuum",
@@ -4928,28 +4946,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "131523",
-      "name": "Washer and Dryer",
-      "description": "Frigerair Washing Machine 7 kg\nkuche Dryer 6 kg\n\nitems well used\nnot for fussy recipients",
-      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-      "validTill": "15 Mar 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "131522",
-      "name": "Hitachi Fridge",
-      "description": "about 8 years old but in working condition \nrubber gasket recently replaced\nmust clear by 15 March",
-      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-      "validTill": "15 Mar 2024",
-      "ageInYears": 4,
-      "dimensions": "Width : 855 Height : 1835 Depth with Handle : 740",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "131316",
       "name": "Dish washer",
       "description": "Brand new",
@@ -5616,17 +5612,6 @@
       "location": "Admiralty Drive, Sembawang, Yishun",
       "validTill": "05 Apr 2024",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
-      "id": "131417",
-      "name": "Commode",
-      "description": "Commode aluminium with wheels",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "05 Apr 2024",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
