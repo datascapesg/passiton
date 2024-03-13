@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "131629",
-      "category": "Infant and Children Items",
-      "name": "Drypers or other brands (pants, XXL, 5 packs)",
-      "description": "Client is a single mother with two young daughters, and sole breadwinner who also supports her elderly mother. She is frugal and is in debt.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Low Kim Yong",
-        "email": "lowkimyong@thkmc.org.sg",
-        "phone": [
-          "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Mar 2024"
-    },
-    {
       "id": "130603",
       "category": "Infant and Children Items",
       "name": "Milk and Diapers",
@@ -5834,17 +5817,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "131615",
-      "name": "Sofa chair and 3 coffee table top",
-      "description": "Sofa chair is in good condition. The 3 table top comes in 3 sizes and versatile. (Small, Medium and large. )",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "15 Mar 2024",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "131565",
       "name": "Single Mattress (new)",
       "description": "New Single Mattress",
@@ -6371,6 +6343,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Learning Aids"
+    },
+    {
+      "id": "131640",
+      "name": "Manual hospital bed",
+      "description": "Manual operated hospital bed, 2 crank, head and foot, c/w guard rails and 4\" rubber mattress. Good working condition.",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "31 Mar 2024",
+      "ageInYears": 4,
+      "dimensions": "Approx 6x3x1.5 feet",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
     },
     {
       "id": "131590",
