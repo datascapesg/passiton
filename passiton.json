@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "131675",
-      "category": "Infant and Children Items",
-      "name": "Foldable table (Children)",
-      "description": "Family has 3 preschool-age children who are learning to eat by themselves and is hoping to get foldable tables/chairs for the children. \n\nFamily does not have suitable table for the children, plates are currently placed on the floor which makes it difficult for children to eat by themselves, and caregivers end up feeding the children. Having age appropriate furniture would help children to develop independent life skills in a conducive environment.",
-      "specifications": null,
-      "contact": {
-        "org": "KidSTART @ Allkin",
-        "name": "Benjamin See",
-        "email": "benjaminsee@allkin.org.sg",
-        "phone": [
-          "65920490"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Mar 2024"
-    },
-    {
       "id": "131649",
       "category": "Infant and Children Items",
       "name": "Baby Diapers Huggies XL",
@@ -2479,6 +2462,24 @@
       "date": "12 Feb 2024"
     },
     {
+      "id": "131690",
+      "category": "Medical Aids",
+      "name": "Diapers",
+      "description": "Client is the sole breadwinner and caring for her mother who was diagnosed with stroke in 2023. Mother requires to be on adult diapers due to her low mobility, affecting her toileting.",
+      "specifications": "Size XL",
+      "contact": {
+        "org": "AWWA Transitional Shelter",
+        "name": "Nur Atikah Binte Hamdan",
+        "email": "nur_atikah@awwa.org.sg",
+        "phone": [
+          "88860487",
+          "65117272"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Mar 2024"
+    },
+    {
       "id": "129518",
       "category": "Medical Aids",
       "name": "Size L Tena Adult Diapers",
@@ -4489,6 +4490,24 @@
       "date": "13 Feb 2024"
     },
     {
+      "id": "131689",
+      "category": "Home Furnishing",
+      "name": "3-Seater Sofa",
+      "description": "Couple with a young toddler requires a 3-seater sofa. Husband is currently unemployed due to health reasons and wife, who is a foreigner, has yet to obtain employment.",
+      "specifications": "3-seater sofa",
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Eliada Hng",
+        "email": "eliada.hng@reach.org.sg",
+        "phone": [
+          "64709775",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Mar 2024"
+    },
+    {
       "id": "131688",
       "category": "Home Furnishing",
       "name": "King size bed frame",
@@ -4944,24 +4963,6 @@
       "id": "131405",
       "category": "Home Furnishing",
       "name": "Kitchen Cabinet",
-      "description": "Client stays with her husband in a rental flat. Her husband is the solebreadwinner as client has medical and emotional issues which causes her to be unfit for work. However, client's husband's income is not sufficient for the family's needs as he would be absent from work due to his own medical issue that he has to handle. Please WhatsApp Calyssa at 8484 8596 or email to weiyin.wong@thkmc.org.sg to liaise.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Lynette Tan",
-        "email": "lynettetan@thkmc.org.sg",
-        "phone": [
-          "64961272",
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Mar 2024"
-    },
-    {
-      "id": "131404",
-      "category": "Home Furnishing",
-      "name": "Single mattress",
       "description": "Client stays with her husband in a rental flat. Her husband is the solebreadwinner as client has medical and emotional issues which causes her to be unfit for work. However, client's husband's income is not sufficient for the family's needs as he would be absent from work due to his own medical issue that he has to handle. Please WhatsApp Calyssa at 8484 8596 or email to weiyin.wong@thkmc.org.sg to liaise.",
       "specifications": null,
       "contact": {
@@ -6114,17 +6115,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "131655",
-      "name": "Ikea white display/book shelf",
-      "description": "White ikea cabinet, suitable as book shelf or storage. Used but still in decent condition.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "12 Apr 2024",
-      "ageInYears": 4,
-      "dimensions": "89x39x197cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "131654",
       "name": "Small ikea table",
       "description": "Small Ikea table. Do note the pink laminate have started to chip off from the table legs (see photo) but it is otherwise in a structurally good condition. If recipient is staying around commonwealth area I can deliver the table.  If not - appreciate if VWO can arrange for pick up from commonwealth",
@@ -6406,17 +6396,6 @@
       "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
       "validTill": "31 Mar 2024",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "131318",
-      "name": "Baby cot",
-      "description": "Baby cot well used",
-      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-      "validTill": "22 Mar 2024",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
@@ -6730,17 +6709,6 @@
       "category": "Mobility Aids"
     },
     {
-      "id": "131669",
-      "name": "Happy Wheels Wheelchair",
-      "description": "Features: \nFDA and CE certified\n\nNew 2-in-1 attendant hand brakes - No need to bend down to lock!\n\nFully detachable footrests & foldable backrest - Fits easily in car boot\n\nLightweight and portable\n\nNote: Will send to VMO unless time does not permit happy to arrange for delivery",
-      "location": "Farrer Park, Little India, Serangoon Road",
-      "validTill": "20 Mar 2024",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
       "id": "131419",
       "name": "Side bed handle",
       "description": "Side bed handle for one or two sides.",
@@ -6772,6 +6740,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "131691",
+      "name": "Ensure milk",
+      "description": "2 cartons of ensure milk. Preferred self collection. Have to tick 'I will send directly to VWO/needy' as there isn't other choice.",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "31 Mar 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "131568",
