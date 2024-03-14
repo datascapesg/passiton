@@ -1303,24 +1303,6 @@
       "date": "13 Feb 2024"
     },
     {
-      "id": "131668",
-      "category": "Others",
-      "name": "TENA Wet Wipes",
-      "description": "Female client, 89 yo, diagnosed with Breast Cancer. Due to her age, she has difficulties to walk after completing her treatment. Currently is wheelchair bound. She requires TENA Wet Wipes to help her clean her body and use it for changing her diapers. She has sensitive skin, therefore she only uses certain brands that suit her skin.",
-      "specifications": null,
-      "contact": {
-        "org": "AIN Society",
-        "name": "Nur'Ain Binte Mohamed Said",
-        "email": "nurain@ainsociety.org.sg",
-        "phone": [
-          "68485116",
-          "68485166"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Mar 2024"
-    },
-    {
       "id": "131667",
       "category": "Others",
       "name": "TENA DIAPER L (PANTS)",
@@ -1481,24 +1463,6 @@
       "date": "12 Mar 2024"
     },
     {
-      "id": "131612",
-      "category": "Others",
-      "name": "TENA PROskin Pants Normal Adult Diaper Adult Diaper Size M",
-      "description": "Male client, 70yo, diagnosed with stage 4 lung cancer that has metastasised to the brain. Recently underwent brain surgery and is ADL dependent. Ct unable to control bladder and uses diapers daily. Ct has no active income. He requires TENA Proskin pants (Normal), Size M (Unisex)",
-      "specifications": "one carton",
-      "contact": {
-        "org": "AIN Society",
-        "name": "Nur'Ain Binte Mohamed Said",
-        "email": "nurain@ainsociety.org.sg",
-        "phone": [
-          "68485116",
-          "68485166"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Mar 2024"
-    },
-    {
       "id": "131586",
       "category": "Others",
       "name": "Ensure Plus Vanilla",
@@ -1548,24 +1512,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": false,
-      "date": "11 Mar 2024"
-    },
-    {
-      "id": "131545",
-      "category": "Others",
-      "name": "Tena Pants Normal Unisex Adult Diapers - M",
-      "description": "This is a single-parent family consisting of a 16-year-old boy and his father, who is the sole breadwinner and the main caregiver. The child is diagnosed with a developmental disability, hence uses diapers for continence support. His father works as a deliveryman and earns a minimal income that is just sufficient for their basic living needs.",
-      "specifications": null,
-      "contact": {
-        "org": "Rainbow Centre - Magaret Drive School",
-        "name": "Daniel Chee",
-        "email": "danielchee@rainbowcentre.org.sg",
-        "phone": [
-          "68179433",
-          "64752072"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
       "date": "11 Mar 2024"
     },
     {
@@ -2641,23 +2587,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "15 Feb 2024"
-    },
-    {
-      "id": "131670",
-      "category": "Electrical Home Appliances",
-      "name": "Standing Fan (16 inches)",
-      "description": "Malay uncle 57 yrs old living in HDB rental flat needs a standing fan. His current fan has stopped working. Many Thanks.",
-      "specifications": null,
-      "contact": {
-        "org": "Moral Active Ageing Centre @ Kaki Bukit",
-        "name": "Gary Tan",
-        "email": "garytan@chkmps.org.sg",
-        "phone": [
-          "64486247"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Mar 2024"
     },
     {
       "id": "131652",
@@ -4123,23 +4052,6 @@
         "phone": [
           "65007721",
           "65007272"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Mar 2024"
-    },
-    {
-      "id": "131636",
-      "category": "Mobility Aids",
-      "name": "Commode",
-      "description": "Client (F/72) has an elderly mother (F/94) who has recently got discharged from hospital and requires support in her ADLs. Client is an elderly herself and not employed. She requires a commode for her mother to support in her bathing.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Low Kim Yong",
-        "email": "lowkimyong@thkmc.org.sg",
-        "phone": [
-          "64491440"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -6644,6 +6556,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "131676",
+      "name": "Commode",
+      "description": "Almost brand new, used less than 5x",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "25 Mar 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "131671",
