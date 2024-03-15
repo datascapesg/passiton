@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "131712",
+      "category": "Infant and Children Items",
+      "name": "Dumex Dugro Step 4 Milk Powder",
+      "description": "Family has 3 school going children, ages 17,6,and 5. Family is facing financial difficulty as client, single mother, is the sole-breadwinner for her family earning $1800/monthly. Client's two younger children have special needs. This donation can greatly help the family in defraying some of their grocery costs.",
+      "specifications": "Dumex Dugro Step 4 Milk Powder",
+      "contact": {
+        "org": "Pasir Ris Family Service Centre",
+        "name": "Sabrina Lee",
+        "email": "sabrinalee@goodnews.org.sg",
+        "phone": [
+          "65812159"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Mar 2024"
+    },
+    {
       "id": "131704",
       "category": "Infant and Children Items",
       "name": "Drypers Drypantz (Size L)",
@@ -2426,6 +2443,24 @@
       "date": "13 Feb 2024"
     },
     {
+      "id": "131710",
+      "category": "Medical Aids",
+      "name": "Blood Pressure Monitor",
+      "description": "Client is an elderly man living alone. He has no children and depends on his Public Assistance for his living expenses. He has high blood pressure, which is not well controlled, hence needs a blood pressure machine to monitor his blood pressure.",
+      "specifications": null,
+      "contact": {
+        "org": "SingHealth (CGH) – Community Care",
+        "name": "Marhamah Binte Mohamed Ali",
+        "email": "marhamah.mohamed.ali@singhealth.com.sg",
+        "phone": [
+          "64267519",
+          "64268053"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Mar 2024"
+    },
+    {
       "id": "131700",
       "category": "Medical Aids",
       "name": "L size tape diapers",
@@ -2568,6 +2603,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "15 Feb 2024"
+    },
+    {
+      "id": "131711",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "A family of 7 would require a washing machine in their rental flat as their current one has broke down. The family has 5 young children and 3 of them are going to school. Client therefore, faces challenges to wash and dry their clothes on time. Client's husband  has just started a job and hence would require some time to save money while client is the main caregiver for her younger children at home.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Siti Aminah",
+        "email": "sitiaminah@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Mar 2024"
     },
     {
       "id": "131699",
@@ -4421,6 +4473,23 @@
       "date": "13 Feb 2024"
     },
     {
+      "id": "131713",
+      "category": "Home Furnishing",
+      "name": "3 sets of 3 seater sofas",
+      "description": "We are a children's home serving children with trauma needs. We are looking to revamp the children's play, lounge and therapy rooms. Please kindly donate clean and in-good-condition sofas as they will be long-term furniture at the home. Thank you!",
+      "specifications": "Sofas length between 220cm to 240cm",
+      "contact": {
+        "org": "Epworth Community services - Home Sweet Home",
+        "name": "Tiong Poh Eng",
+        "email": "poheng@epworth.sg",
+        "phone": [
+          "67153418"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Mar 2024"
+    },
+    {
       "id": "131708",
       "category": "Home Furnishing",
       "name": "Blankets & Bedsheets",
@@ -6129,17 +6198,6 @@
       "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
       "validTill": "14 Apr 2024",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "131576",
-      "name": "Pink tote bag",
-      "description": "Pink tote bag no 2",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "10 Apr 2024",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
