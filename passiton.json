@@ -880,23 +880,6 @@
       "date": "21 Feb 2024"
     },
     {
-      "id": "131007",
-      "category": "Others",
-      "name": "Portable Aircon",
-      "description": "The family of three is experiencing significant financial difficulty as the sole breadwinner is unable to work due to health reasons. The client is looking for a portable aircon which will help their son who has special needs condition to sleep at night.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Sengkang 223D",
-        "name": "Syamirul Azim",
-        "email": "syamirulazim@allkin.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "21 Feb 2024"
-    },
-    {
       "id": "131001",
       "category": "Others",
       "name": "Grocery Support",
@@ -5465,6 +5448,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "131751",
+      "name": "Queen size wooden bed frame and mattress",
+      "description": "Queen-size wooden bed frame with mattress (very firm), seldom used (guest room)",
+      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+      "validTill": "31 Mar 2024",
+      "ageInYears": 4,
+      "dimensions": "158x202cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "131715",
