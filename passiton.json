@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "131783",
+      "category": "Others",
+      "name": "Scott's DHA Gummies Multi Flavor 60s",
+      "description": "Sunbeam Place @ Children's Society requires 60 bottles of Scott's DHA Gummies Multi Flavor 60s for their beneficiaries daily vitamin intakes.\nDelivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society Corporate Office",
+        "name": "Kartini",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "69787279",
+          "62732010"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Mar 2024"
+    },
+    {
       "id": "131739",
       "category": "Others",
       "name": "TENA Wet Wipes",
@@ -1163,6 +1181,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "18 Feb 2024"
+    },
+    {
+      "id": "131782",
+      "category": "Electrical Home Appliances",
+      "name": "Standing fan with metal blade",
+      "description": "Client is residing in a one-room rental flat. She is impacted with medical conditions and unable to seek employment and dependent on financial assistance to make ends meet.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+        "name": "Cassandra Chia",
+        "email": "cassandrachia@amkfsc.org.sg",
+        "phone": [
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Mar 2024"
     },
     {
       "id": "131764",
@@ -5252,17 +5287,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "131762",
-      "name": "two seater sofa",
-      "description": "Sofa",
-      "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-      "validTill": "31 Mar 2024",
-      "ageInYears": 2,
-      "dimensions": "2 m x 1 m",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "131760",
       "name": "Portable changing room",
       "description": "Frame only, wall plugs/screws and curtain cloth not included.\n\nDelivery on weekday evening and weekend.",
@@ -5721,17 +5745,6 @@
       "validTill": "31 Mar 2024",
       "ageInYears": 4,
       "dimensions": "Approx 6x3x1.5 feet",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
-      "id": "131578",
-      "name": "Hospital Chair with detachable table",
-      "description": "Hospital Chair and table",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "31 Mar 2024",
-      "ageInYears": 1,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
     },
