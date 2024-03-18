@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "131789",
+      "category": "Others",
+      "name": "Smartphone",
+      "description": "Family has special needs adult who require a functioning handphone to remain contactable when adult leaves house. \nCurrently, the phone adult is holding has battery issues where battery goes flat quickly.",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Ruth Lim",
+        "email": "ruth.lim@reach.org.sg",
+        "phone": [
+          "68010746",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Mar 2024"
+    },
+    {
       "id": "131786",
       "category": "Others",
       "name": "Mens and Womens Shaver",
@@ -1201,6 +1219,58 @@
       "date": "18 Feb 2024"
     },
     {
+      "id": "131792",
+      "category": "Electrical Home Appliances",
+      "name": "Standing fan with metal blade",
+      "description": "Client is residing in a one-room rental flat. She is impacted with medical conditions and unable to seek employment and dependent on financial assistance to make ends meet. Can whatsapp cassandra directly at 8022 9012 :) as stated email is an old email :)",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+        "name": "Cassandra Chia",
+        "email": "cassandrachia@amkfsc.org.sg",
+        "phone": [
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Mar 2024"
+    },
+    {
+      "id": "131791",
+      "category": "Electrical Home Appliances",
+      "name": "Fan",
+      "description": "Client recently started dialysis and is experiencing allergic reaction likely due to the dust on her current fan. Her current fan cannot be dismantled for properly cleaning and despite best efforts to clean, remains dusty.\n\nWishing for a working fan that can be dismantled and clean for her to use.",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Ruth Lim",
+        "email": "ruth.lim@reach.org.sg",
+        "phone": [
+          "68010746",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Mar 2024"
+    },
+    {
+      "id": "131790",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "Elderly client living in a rental flat with multiple chronic conditions. She is looking to be blessed with a second hand washing machine.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Cluster Support @ Bedok",
+        "name": "Qhairah Qhaliesah",
+        "email": "qhairahqhaliesah@thkmc.org.sg",
+        "phone": [
+          "62418171"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Mar 2024"
+    },
+    {
       "id": "131787",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -1249,23 +1319,6 @@
         "phone": [
           "80567276",
           "63059620"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Mar 2024"
-    },
-    {
-      "id": "131782",
-      "category": "Electrical Home Appliances",
-      "name": "Standing fan with metal blade",
-      "description": "Client is residing in a one-room rental flat. She is impacted with medical conditions and unable to seek employment and dependent on financial assistance to make ends meet.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-        "name": "Cassandra Chia",
-        "email": "cassandrachia@amkfsc.org.sg",
-        "phone": [
-          "64535349"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -5540,6 +5593,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "131793",
+      "name": "Pigeon Multi-Function Sterilizer",
+      "description": "Steam Sterilizer with multiple functions such as bottle warming / food warmer. Easy to use, fuss-free. Worked wonders for my baby when we needed to sterilize bottles quickly. Have since outgrown it. All items are in great condition and still in original packaging.",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "17 Apr 2024",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "131767",
