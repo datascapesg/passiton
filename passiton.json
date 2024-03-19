@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "131835",
+      "category": "Others",
+      "name": "Fresh food and groceries",
+      "description": "The family is looking for donors to donate fresh food and groceries for their family. The household resides 2 children, 1 infant and an elderly. The single-income family have been facing financial difficulties in making ends meet for the family of 6.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Patricia Poo",
+        "email": "patriciapoo@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Mar 2024"
+    },
+    {
       "id": "131808",
       "category": "Others",
       "name": "Hangers",
@@ -1181,6 +1198,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "18 Feb 2024"
+    },
+    {
+      "id": "131831",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "A family of 3 is looking for a working condition 8-10kg washing machine.",
+      "specifications": "8-10 kg",
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Chua Pei Ching",
+        "email": "peiching.chua@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Mar 2024"
     },
     {
       "id": "131820",
@@ -3001,6 +3035,58 @@
       "date": "19 Feb 2024"
     },
     {
+      "id": "131834",
+      "category": "Infant and Children Items",
+      "name": "Playmat",
+      "description": "Client is a single mother to 2 children below 2 and would appreciate a baby carrier for her 4.m.o child. The family does not have any income earner and is unable to afford a carrier.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Melissa Sim",
+        "email": "melissasim@fycs.org",
+        "phone": [
+          "66901002",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Mar 2024"
+    },
+    {
+      "id": "131833",
+      "category": "Infant and Children Items",
+      "name": "Any brand of Diapers x2 Size S",
+      "description": "The family is looking for donors to donate diapers for their infant. The household resides 2 children, 1 infant and an elderly. The single-income family have been facing financial difficulties in making ends meet for the family of 6.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Patricia Poo",
+        "email": "patriciapoo@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Mar 2024"
+    },
+    {
+      "id": "131832",
+      "category": "Infant and Children Items",
+      "name": "Baby gate",
+      "description": "A family of 3 is looking to have 2 x baby gates",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Chua Pei Ching",
+        "email": "peiching.chua@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Mar 2024"
+    },
+    {
       "id": "131802",
       "category": "Infant and Children Items",
       "name": "Diapers",
@@ -3850,6 +3936,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "19 Feb 2024"
+    },
+    {
+      "id": "131829",
+      "category": "Home Furnishing",
+      "name": "Wardrobe",
+      "description": "Low-income family requires 2 wardrobes as their current one is faulty. The main breadwinner is working part-time due to multiple health issues.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Cheng San 445",
+        "name": "Joyce Ng",
+        "email": "joyceng@allkin.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Mar 2024"
     },
     {
       "id": "131825",
@@ -5011,6 +5115,24 @@
       "date": "18 Feb 2024"
     },
     {
+      "id": "131830",
+      "category": "Kitchen Utility Items",
+      "name": "7 piece nonstick copper cookware",
+      "description": "Client is a 29-year-old stay-home mother with four children, aged 12, 9, 3, and 1 year respectively. \nTogether with her husband, the family stays in a 1-room rental flat in Yishun. She requires these equipment to cook meals for her family to help manage the rising cost of living and financially sustain themselves.",
+      "specifications": "7 piece nonstick copper cookware",
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "mwsfscy@mws.sg",
+        "phone": [
+          "83688612",
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Mar 2024"
+    },
+    {
       "id": "131821",
       "category": "Kitchen Utility Items",
       "name": "Fridge / Refrigerator",
@@ -5682,17 +5804,6 @@
       "validTill": "12 Apr 2024",
       "ageInYears": 4,
       "dimensions": "100x30x73cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "131707",
-      "name": "White TV console",
-      "description": "Low tv console with 3 drawers",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "12 Apr 2024",
-      "ageInYears": 4,
-      "dimensions": "180x40x36cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
