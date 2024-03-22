@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "131989",
+      "category": "Electrical Home Appliances",
+      "name": "Rice Cooker For A Family Of 4",
+      "description": "Client is a 26-year-old stay-home mother with 1 newborn son aged 1 and she is expecting a second child in July 2024. Together with her Malaysian husband, the family stays in their family flat. They are experiencing financial hardship as her husband is now unemployed and seeking employment as a cook in Singapore. She requires these equipment to care for her family to help manage the rising cost of living and financially sustain themselves.",
+      "specifications": "Rice Cooker For A Family Of 4",
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "mwsfscy@mws.sg",
+        "phone": [
+          "83688612",
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Mar 2024"
+    },
+    {
       "id": "131983",
       "category": "Electrical Home Appliances",
       "name": "Smart TV",
@@ -1716,6 +1734,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "19 Feb 2024"
+    },
+    {
+      "id": "131988",
+      "category": "Others",
+      "name": "Grocery Support",
+      "description": "Family of 5 children with Father being the sole breadwinner as Mother has health issues. Children also have various health problems, which contributes to the family's financial difficulties. Grocery support would help alleviate family's financial burden.\n\nPlease contact me @ 97522900, thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "HEART @ Fei Yue",
+        "name": "Oh Rui Yun",
+        "email": "ohruiyun@fycs.org",
+        "phone": [
+          "97522900",
+          "68199170"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Mar 2024"
     },
     {
       "id": "131976",
@@ -6636,17 +6672,6 @@
       "validTill": "12 Apr 2024",
       "ageInYears": 4,
       "dimensions": "100x30x73cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "131803",
-      "name": "White TV console",
-      "description": "Low tv console with 3 drawers",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "12 Apr 2024",
-      "ageInYears": 4,
-      "dimensions": "180x40x36cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
