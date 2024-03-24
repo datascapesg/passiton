@@ -1663,23 +1663,6 @@
       "date": "24 Feb 2024"
     },
     {
-      "id": "131064",
-      "category": "Electrical Home Appliances",
-      "name": "Television",
-      "description": "Hello there, an elderly who works ad-hoc is requesting a television because hers is broken. Thanks in advance.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Sengkang 223D",
-        "name": "Low Yiing Jia",
-        "email": "jialow@allkin.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Feb 2024"
-    },
-    {
       "id": "131935",
       "category": "Medical Aids",
       "name": "adult diapers",
@@ -6124,6 +6107,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "132038",
+      "name": "TV console",
+      "description": "Giving away this TV console as no longer in use.",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "26 Mar 2024",
+      "ageInYears": 4,
+      "dimensions": "150×36×54 (cm)",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "132033",
