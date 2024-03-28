@@ -3736,6 +3736,24 @@
       "date": "27 Feb 2024"
     },
     {
+      "id": "132170",
+      "category": "Home Furnishing",
+      "name": "Single-sized Mattress",
+      "description": "Senior needs a single-size mattress as his current mattress is old and dirty.",
+      "specifications": "Single",
+      "contact": {
+        "org": "Thye Hua Kwan Moral Charities",
+        "name": "Penelope Lim",
+        "email": "penelope.lim@thkmc.org.sg",
+        "phone": [
+          "68461228",
+          "63371201"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Mar 2024"
+    },
+    {
       "id": "132167",
       "category": "Home Furnishing",
       "name": "Sofa",
@@ -6568,17 +6586,6 @@
       "category": "Infant and Children Items"
     },
     {
-      "id": "131297",
-      "name": "toys",
-      "description": "VR Tech toy laptop for numbers, alphabets\nCaptain America \nSnorlet",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "31 Mar 2024",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
       "id": "132025",
       "name": "New thermal flask",
       "description": "New 500 ml thermal flask. Golden in colour. Can keep both hot and cold water.",
@@ -6742,6 +6749,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "132169",
+      "name": "Shower commode",
+      "description": "Shower commode used for 5 days only to give away",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "30 Mar 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "132149",
