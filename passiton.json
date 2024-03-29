@@ -800,24 +800,6 @@
       "date": "28 Mar 2024"
     },
     {
-      "id": "132158",
-      "category": "Electrical Home Appliances",
-      "name": "Fridge (Halal)",
-      "description": "Client is a 32-year-old single mother of one, aged 9. \nClient has recently switched jobs, to one with flexible working hours, so as to be more present for her child at home. However, she has seen a severe drop in her income as a result, and thus experiences greater financial constraints in getting a fridge for her new rental unit.",
-      "specifications": "Fridge (Halal)",
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "mwsfscy@mws.sg",
-        "phone": [
-          "83688612",
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Mar 2024"
-    },
-    {
       "id": "132150",
       "category": "Electrical Home Appliances",
       "name": "Wall Fan",
@@ -2745,6 +2727,24 @@
       "date": "28 Feb 2024"
     },
     {
+      "id": "132201",
+      "category": "Infant and Children Items",
+      "name": "Diaper (newborn)",
+      "description": "Client with two school aged children, has recently given birth to a baby boy. She, her children and husband reside in a 1 room rental flat. Client hopes to receive some newborn diapers. Your donation of diapers for the baby would greatly alleviate the financial burden on the family.  Please WhatsApp Fang Ling at 8588 6196 or email to fangling.koh@thkmc.org.sg to liaise.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Lynette Tan",
+        "email": "lynettetan@thkmc.org.sg",
+        "phone": [
+          "64961272",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Mar 2024"
+    },
+    {
       "id": "132175",
       "category": "Infant and Children Items",
       "name": "Diapers (Size: XL, M)",
@@ -3802,28 +3802,46 @@
       "date": "27 Feb 2024"
     },
     {
+      "id": "132202",
+      "category": "Home Furnishing",
+      "name": "Kitchen Cabinet (width: 120cm)",
+      "description": "Client is a single mother, with a 2-year old child. Family residing in a 1-room tental flat. As a sole breadwinner, Client faces financial difficulties. Client hopes to receive a donation of a kitchen cabinet that is 120cm in width, which will greatly alleviate her financial burden. Please WhatsApp Odelia at 8588 3163 or email to odelia.teo@thkmc.org.sg to liaise.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Lynette Tan",
+        "email": "lynettetan@thkmc.org.sg",
+        "phone": [
+          "64961272",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Mar 2024"
+    },
+    {
+      "id": "132200",
+      "category": "Home Furnishing",
+      "name": "Wardrobe",
+      "description": "single mother with 2 children reside in a HDB rental flat. The family is hoping to receive a donation of 3-door wardrobe to keep their clothes. The family hopes to receive before Hari Raya, if possible.  Please WhatsApp Fang Ling at 8588 6196 or email to fangling.koh@thkmc.org.sg to liaise.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Lynette Tan",
+        "email": "lynettetan@thkmc.org.sg",
+        "phone": [
+          "64961272",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Mar 2024"
+    },
+    {
       "id": "132194",
       "category": "Home Furnishing",
       "name": "Dining Table with Chairs",
       "description": "Client is a single mum with 2 young children and are facing financial constraints. Mum is unable to have stable employment due to her health conditions. Family will need a dining table with 3 chairs as they do not have any furniture in their rental flat.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Yew Tee",
-        "name": "Deborah Lee",
-        "email": "deborahlee@fycs.org",
-        "phone": [
-          "64162165",
-          "64162162"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Mar 2024"
-    },
-    {
-      "id": "132190",
-      "category": "Home Furnishing",
-      "name": "Study Table",
-      "description": "Client is a single mum with 2 young children and are facing financial constraints. Mum is unable to have stable employment due to her health conditions. Children will need a study table and study chairs to do their school homework. Family does not have any furniture in their rental home.",
       "specifications": null,
       "contact": {
         "org": "Fei Yue Family Service Centre @ Yew Tee",
@@ -6377,17 +6395,6 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "132196",
-      "name": "Samsung washer-dryer washing machine 8/6kg",
-      "description": "Have used machine since 2016.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "03 Apr 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "132139",
       "name": "Novita Humidifier",
       "description": "Working well. Use in aircon room to minimise dryness",
@@ -6595,6 +6602,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "132204",
+      "name": "Removable Child bed rail",
+      "description": "Prevent child from rolling off bed. Removable",
+      "location": null,
+      "validTill": "28 Apr 2024",
+      "ageInYears": 1,
+      "dimensions": "1.5m X 30cm X 20cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "132091",
@@ -7024,6 +7042,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "132203",
+      "name": "Old desktop with hard disk",
+      "description": "PC spes are\nAsus Desktop\nIntel core i7-6700\n8GB RAM\nWindows 10\nSamsung 24” monitor \n\nBought in 2017.  \nSelf collection at Pasir Ris cos bulky.\nThanks",
+      "location": null,
+      "validTill": "28 Apr 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "132151",
