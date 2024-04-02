@@ -520,7 +520,7 @@
     "id": "132205",
     "name": "hospital bed",
     "description": "one side of the railing is not working \n  need to be tided up \n  other functions are fine",
-    "location": "Pasir Ris, Simei, Tampines",
+    "location": "Tampines",
     "validTill": "28 Apr 2024",
     "ageInYears": 3,
     "dimensions": null,
@@ -542,7 +542,7 @@
     "id": "132149",
     "name": "Geriatic chair",
     "description": "geriatic chair",
-    "location": "Pasir Ris, Simei, Tampines",
+    "location": "Tampines",
     "validTill": "26 Apr 2024",
     "ageInYears": 2,
     "dimensions": null,
@@ -603,6 +603,39 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "132275",
+    "name": "Bedside Cabinet",
+    "description": "Good condition bedside cabinet",
+    "location": null,
+    "validTill": "15 Apr 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "132273",
+    "name": "Chair Massager",
+    "description": "Great condition Chair Massager",
+    "location": null,
+    "validTill": "15 Apr 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "132272",
+    "name": "Stroller",
+    "description": "Very good condition Stroller; good for newborn, can recline.",
+    "location": null,
+    "validTill": "15 Apr 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "132203",
