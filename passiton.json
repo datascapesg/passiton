@@ -1,6 +1,41 @@
 {
   "requests": [
     {
+      "id": "131165",
+      "category": "Electrical Home Appliances",
+      "name": "Television",
+      "description": "Senior requested for a TV as his previous one has been defective for some time. He lives in a one room rented flat by himself.\n\n(Post: Item has been sent to Senior's home and collected by Senior",
+      "specifications": "40 inch and above",
+      "contact": {
+        "org": "Agency for Integrated Care",
+        "name": "Raymond Goh",
+        "email": "raymond.goh@aic.sg",
+        "phone": [
+          "67213711",
+          "66036800"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Apr 2024"
+    },
+    {
+      "id": "132310",
+      "category": "Electrical Home Appliances",
+      "name": "6-Door Storage Cabinet & a Washing Machine",
+      "description": "A low income family of five lives together with the children's paternal grandfather in a HDB 2-room rental flat. Both parents are cleaners while paternal grandfather takes care of the household chores. They are looking for a 6-door storage cabinet to replace paternal grandfather's old one and a pre-loved automatic washing machine as theirs is broken.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Early Intervention Programme for Infants and Children - Bukit Batok",
+        "name": "Eileen Ng",
+        "email": "eileenng@fycs.org",
+        "phone": [
+          "62507104"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Apr 2024"
+    },
+    {
       "id": "132281",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -3539,23 +3574,6 @@
       "date": "02 Apr 2024"
     },
     {
-      "id": "132290",
-      "category": "Others",
-      "name": "Instant noodles (halal)",
-      "description": "PPIS FSC(West) would like to request for 20 packets of instant noodles (Halal) for our low-income beneficiaries. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Yang Yan Si",
-        "email": "yang.yansi@ppis.sg",
-        "phone": [
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Apr 2024"
-    },
-    {
       "id": "132289",
       "category": "Others",
       "name": "450g Breakfast Cereal (Halal)",
@@ -4494,23 +4512,6 @@
         "phone": [
           "68179433",
           "64752072"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Apr 2024"
-    },
-    {
-      "id": "132279",
-      "category": "Home Furnishing",
-      "name": "Queen Size Bed",
-      "description": "Family has 1 school-going daughter, a transnational family that's singlehandedly raising the daughter as Father is incarcerated. They are hoping to get a bed to replace the one in their current home. Mother is looking at gaining employment, however has difficulties due to short term validity of LTVP. Hoping to get a queen size bed to replace the current one.",
-      "specifications": null,
-      "contact": {
-        "org": "Lutheran Community Care Services",
-        "name": "Nigel Lee",
-        "email": "nigel.lee@lccs.org.sg",
-        "phone": [
-          "64413906"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -6232,6 +6233,23 @@
       "date": "18 Mar 2024"
     },
     {
+      "id": "132314",
+      "category": "Attires/Clothings",
+      "name": "Raya Clothing for Children",
+      "description": "client is currently encountering financial challenges and housing issues, preventing her from being with her children. However, despite not being able to celebrate the festival, she hopes to acquire a set of Raya clothes for her four children (aged M4, F13, F13, and M14).",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Karen Ong",
+        "email": "karenong@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Apr 2024"
+    },
+    {
       "id": "132241",
       "category": "Attires/Clothings",
       "name": "Hari raya black outfits for 5 yo girl & 4 yo boy",
@@ -6351,6 +6369,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "132311",
+      "name": "Queen bed",
+      "description": "Queen bed. Mattress has some stains but is firm and comfortable to lie on. Will provide 2 mattress protectors and 2 pcs bed sheets.",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "02 May 2024",
+      "ageInYears": 4,
+      "dimensions": "L190cm W152cm H59cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "132305",
@@ -6560,6 +6589,17 @@
       "dimensions": "79x39x79cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "132318",
+      "name": "MamyPoko Extra Dry (Size M)",
+      "description": "Individual pieces\n26 PIECES\nSIZE M (6~11kg)",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "02 May 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "132204",
@@ -6782,6 +6822,17 @@
       "category": "Learning Aids"
     },
     {
+      "id": "132316",
+      "name": "Comfycare Night Unisex Adult Diaper (Size L)",
+      "description": "Brand New in Bag\n7 PACKS SIZE L \n10 pcs/pack",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "02 May 2024",
+      "ageInYears": 1,
+      "dimensions": "Fits 115-150cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
+    },
+    {
       "id": "132268",
       "name": "Electronic Hospital Bed",
       "description": "Electric Hospital in v good condition. Used for less than 8 months.",
@@ -6857,6 +6908,50 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "132319",
+      "name": "Transfer Board",
+      "description": "Suitable for transfer between wheelchair and bed/other surface areas",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "02 May 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "132315",
+      "name": "DNR WHEELS air mattress with pump",
+      "description": "Lightly used air mattress. Comes with air pump.",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "02 May 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "132313",
+      "name": "TRANSPORT air mattress + pump",
+      "description": "Used air mattress. Comes with pump.",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "02 May 2024",
+      "ageInYears": 2,
+      "dimensions": "180cm x 90cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "132312",
+      "name": "Electrical Hydraulic Hospital Bed Frame",
+      "description": "Used hospital bed frame.",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "02 May 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "132276",
@@ -6956,6 +7051,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "132321",
+      "name": "Medical Disposables Cotton Balls Sterile (Various Brands)",
+      "description": "Brand New In Bag\n13 PACKETS (10pcs/pkt):\n• 1pkt (ASSURE)\n• 12pkt (HospiGuard)",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "02 May 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "132320",
+      "name": "ASSURE Medical Disposables Cotton Balls Sterile",
+      "description": "Brand New In Bag\n8 BOXES (10pcs/pkt, 20pkt/box)",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "02 May 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "132275",
