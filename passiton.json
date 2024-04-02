@@ -4501,6 +4501,23 @@
       "date": "05 Mar 2024"
     },
     {
+      "id": "132327",
+      "category": "Home Furnishing",
+      "name": "Single Mattress",
+      "description": "Client is a caregiver to her mother who is suspected to have mild intellectual disability and diagnosed with a mental health condition. Due to her caregiving duties, client is unable to attain stable income. Client is hoping to receive support for a single mattress. For further liaison etc, kindly contact me at 98598768, thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (East)",
+        "name": "Nur Afrina",
+        "email": "fsceast@ppis.sg",
+        "phone": [
+          "60156970"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Apr 2024"
+    },
+    {
       "id": "132303",
       "category": "Home Furnishing",
       "name": "Sliding Door Cupboard",
@@ -6076,23 +6093,6 @@
       "date": "15 Mar 2024"
     },
     {
-      "id": "131678",
-      "category": "Leisure and Healthy Lifestyle",
-      "name": "Bicycle (Kids)",
-      "description": "A single mother with a 10 years old son has been wiped out financially by an employment scam. Client's mental and physical health is suffering as she tries her best to recover from this trauma causing her to lose her job as she is unable to focus and concentrate. Due to her current financial situation, she is hoping to obtain a bicycle for her son to commute to and fro school, as his current bicycle is no longer in working condition. For further liaison, kindly contact me at 98598768, thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (East)",
-        "name": "Nur Afrina",
-        "email": "fsceast@ppis.sg",
-        "phone": [
-          "60156970"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Mar 2024"
-    },
-    {
       "id": "131557",
       "category": "Leisure and Healthy Lifestyle",
       "name": "Exercise Bike EB100 Essential",
@@ -6378,6 +6378,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "132324",
+      "name": "TV console/long bench table",
+      "description": "Long bench table can be used as tv console or coffee table",
+      "location": null,
+      "validTill": "12 Apr 2024",
+      "ageInYears": 2,
+      "dimensions": "120cmx40cmx40",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "132311",
       "name": "Queen bed",
       "description": "Queen bed. Mattress has some stains but is firm and comfortable to lie on. Will provide 2 mattress protectors and 2 pcs bed sheets.",
@@ -6396,17 +6407,6 @@
       "validTill": "07 Apr 2024",
       "ageInYears": 1,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "132302",
-      "name": "Super Single Mattress",
-      "description": "Brand new and unused mattress, just bought this year in March",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "02 May 2024",
-      "ageInYears": 1,
-      "dimensions": "190cm x 107cm x 25cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -6915,6 +6915,39 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "132326",
+      "name": "DNR Raised Toilet Seat with Handle",
+      "description": "Used a few times and has been washed",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "02 May 2024",
+      "ageInYears": 1,
+      "dimensions": "43 x 41 x 7.6",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "132325",
+      "name": "DNR Shower Chair",
+      "description": "Not used, back rest is removable",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "02 May 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "132323",
+      "name": "DNR Walker",
+      "description": "The walker has been used a few times, mostly at home and the height is adjustable.",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "02 May 2024",
+      "ageInYears": 1,
+      "dimensions": "39 x 53.3 x 94cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "132319",
