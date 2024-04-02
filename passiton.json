@@ -1,24 +1,6 @@
 {
   "requests": [
     {
-      "id": "131165",
-      "category": "Electrical Home Appliances",
-      "name": "Television",
-      "description": "Senior requested for a TV as his previous one has been defective for some time. He lives in a one room rented flat by himself.\n\n(Post: Item has been sent to Senior's home and collected by Senior",
-      "specifications": "40 inch and above",
-      "contact": {
-        "org": "Agency for Integrated Care",
-        "name": "Raymond Goh",
-        "email": "raymond.goh@aic.sg",
-        "phone": [
-          "67213711",
-          "66036800"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Apr 2024"
-    },
-    {
       "id": "132310",
       "category": "Electrical Home Appliances",
       "name": "6-Door Storage Cabinet & a Washing Machine",
@@ -7091,6 +7073,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "132329",
+      "name": "Lactulose Syrup",
+      "description": "9 brand new bottles",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "02 May 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "132328",
