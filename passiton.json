@@ -1,6 +1,59 @@
 {
   "requests": [
     {
+      "id": "132481",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client's household has 12 people and their washing machine broke down. Huge laundry load daily, strain on client's finances to maintain routines.\n\nIf you have a suitable washing machine for donation please contact me at 92960569 or email me at muhammadsuffian@mws.sg",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Muhammad Suffian Bin Bahrin",
+        "email": "muhammadsuffian@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Apr 2024"
+    },
+    {
+      "id": "132479",
+      "category": "Electrical Home Appliances",
+      "name": "Standing Fan",
+      "description": "Family of 5 (including one special needs daughter and two sons in secondary school) need a standing fan as their current one is faulty. With the mother taking care of the daughter, the father is the sole breadwinner in the family and is unable to purchase a fan with his salary.",
+      "specifications": "NA",
+      "contact": {
+        "org": "MSF Social Service Office @ Kreta Ayer",
+        "name": "Navarraj Navanitham",
+        "email": "navarraj_navanitham@msf.gov.sg",
+        "phone": [
+          "62319647",
+          "1800-222-0000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Apr 2024"
+    },
+    {
+      "id": "132478",
+      "category": "Electrical Home Appliances",
+      "name": "Floor Standing Fan",
+      "description": "Helping a senior who is suffering from stroke and is staying alone in a one-room rental flat to get a working floor standing fan. Thanks.",
+      "specifications": null,
+      "contact": {
+        "org": "Presbyterian Community Services",
+        "name": "Andy Toh",
+        "email": "andytoh@pcs.org.sg",
+        "phone": [
+          "67866826",
+          "63344445"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Apr 2024"
+    },
+    {
       "id": "132459",
       "category": "Electrical Home Appliances",
       "name": "Clothes dryer",
@@ -5825,17 +5878,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "132458",
-      "name": "Single Mattress With Wooden Bedframe",
-      "description": "Origin Hybrid Mattress - Single Size\nBed frame Single size: Length 195cm x Width 94cm",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "30 Apr 2024",
-      "ageInYears": 2,
-      "dimensions": "91 x 190 x 25.4cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "132457",
       "name": "Shelf",
       "description": "There’s doors to close per shelf. There’s rollers on the bottom of the shelf",
@@ -5975,17 +6017,6 @@
       "validTill": "11 Apr 2024",
       "ageInYears": 4,
       "dimensions": "180cm x 90cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "132311",
-      "name": "Queen bed",
-      "description": "Queen bed. Mattress has some stains but is firm and comfortable to lie on. Will provide 2 mattress protectors and 2 pcs bed sheets.",
-      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-      "validTill": "02 May 2024",
-      "ageInYears": 4,
-      "dimensions": "L190cm W152cm H59cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -6195,17 +6226,6 @@
       "validTill": "22 Apr 2024",
       "ageInYears": 1,
       "dimensions": "H 40CM x W 28CM x D 16CM",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "132010",
-      "name": "Table",
-      "description": "Kids play table",
-      "location": "Yishun st 42",
-      "validTill": "22 Apr 2024",
-      "ageInYears": 3,
-      "dimensions": "56×78 cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
     },
@@ -6450,6 +6470,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "132480",
+      "name": "Home bakes",
+      "description": "We are group of home bakers from FB SG Blessing Bakers. We would like to support charity for your mothers day celebrations. We have bakers at various locations and happy to support with cookies, muffins, brownies etc depending on baker. Charity to collect from Baker's home",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "30 Apr 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "132403",
