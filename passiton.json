@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "132582",
+      "category": "Electrical Home Appliances",
+      "name": "Kettle Electric Boiler",
+      "description": "Service user, a young mother experiencing a difficult situation.  She is a teenager and recently gave birth, unfortunately estranged from her family. While the baby's father is present and supportive, his modest income makes it challenging to fulfill all their basic needs.\n\nCurrently, their most pressing need is a kettle to boil water for essential tasks like preparing warm milk for their baby.",
+      "specifications": null,
+      "contact": {
+        "org": "Babes Pregnancy Crisis Support Ltd",
+        "name": "Nur Ixora Amyra",
+        "email": "ixora@babes.org.sg",
+        "phone": [
+          "62066641",
+          "66648591"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Apr 2024"
+    },
+    {
       "id": "132577",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -294,24 +312,6 @@
         "phone": [
           "62319647",
           "1800-222-0000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Apr 2024"
-    },
-    {
-      "id": "132478",
-      "category": "Electrical Home Appliances",
-      "name": "Floor Standing Fan",
-      "description": "Helping a senior who is suffering from stroke and is staying alone in a one-room rental flat to get a working floor standing fan. Thanks.",
-      "specifications": null,
-      "contact": {
-        "org": "Presbyterian Community Services",
-        "name": "Andy Toh",
-        "email": "andytoh@pcs.org.sg",
-        "phone": [
-          "67866826",
-          "63344445"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2084,24 +2084,6 @@
       "date": "25 Mar 2024"
     },
     {
-      "id": "132040",
-      "category": "Learning Aids",
-      "name": "Laptop for home-based learning",
-      "description": "Family Children Outreach @ Children's Society requires 1 laptop for learning for children ages 14, 11 and 10. \nLenovo, HP, Dell, anything which is in good working condition and has microsoft office. \nDelivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society Corporate Office",
-        "name": "Kartini",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "69787279",
-          "62732010"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Mar 2024"
-    },
-    {
       "id": "132002",
       "category": "Learning Aids",
       "name": "Macbook",
@@ -2152,6 +2134,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "18 Mar 2024"
+    },
+    {
+      "id": "132580",
+      "category": "Medical Aids",
+      "name": "Adult Diapers (Tena XL) + Incontinence Bed Pads",
+      "description": "Client is a single mother who is the only breadwinner and sole caregiver to her elderly mother and primary school aged so as husband is currently incarcerated.\n\nElderly mother has experienced a lot of falls in the last month due to some loss of strength in her legs. She requires help with toileting and showering and hence has started relying on adult diapers. \n\nClient requested for Tena Tape Adult Diapers in XL Size and incontinence bed pads.",
+      "specifications": "XL Size",
+      "contact": {
+        "org": "Montfort Care - Marine Parade Family Service Centre",
+        "name": "Khadijah Alsagoff",
+        "email": "khadijah.alsagoff@montfortcare.org.sg",
+        "phone": [
+          "64450100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Apr 2024"
     },
     {
       "id": "132441",
@@ -6299,6 +6298,17 @@
       "dimensions": "33cm x 45cm x 1cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
+    },
+    {
+      "id": "132581",
+      "name": "Frying pan (Brand new)",
+      "description": "Brand new. Donate to those with family not single person.",
+      "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+      "validTill": "11 May 2024",
+      "ageInYears": 1,
+      "dimensions": "H-7cm, L-30cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Kitchen Utility Items"
     },
     {
       "id": "131745",
