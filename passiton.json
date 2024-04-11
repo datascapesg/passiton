@@ -37,23 +37,6 @@
       "date": "11 Apr 2024"
     },
     {
-      "id": "132596",
-      "category": "Electrical Home Appliances",
-      "name": "Electric kettle",
-      "description": "Cancer-stricken senior needs a safe kettle to boil water, her current one short-circuits often which poses a huge risk to her.",
-      "specifications": "Any",
-      "contact": {
-        "org": "Allkin Singapore's Active Ageing Centre @ Ang Mo Kio 469",
-        "name": "Kei Ng",
-        "email": "ngkhuankungkei@allkin.org.sg",
-        "phone": [
-          "64510898"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "11 Apr 2024"
-    },
-    {
       "id": "132594",
       "category": "Electrical Home Appliances",
       "name": "Washing machine",
@@ -6540,6 +6523,17 @@
       "dimensions": "190 x 85 x 10cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "132605",
+      "name": "Turning Pillows",
+      "description": "Special-shaped pillows to assist caregivers of bed-bound patients.",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "11 May 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "132454",
