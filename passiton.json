@@ -1453,23 +1453,6 @@
       "date": "12 Mar 2024"
     },
     {
-      "id": "131593",
-      "category": "Electrical Home Appliances",
-      "name": "Television (TV)",
-      "description": "Client is living in a one-room rental flat with her daughter. Her current television at home has broken down. She is the main caregiver for her elderly father who has dementia and travels to and fro from his place to hers everyday.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Lee Ann Dominique",
-        "email": "leeann.dominique@montfortcare.org.sg",
-        "phone": [
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Mar 2024"
-    },
-    {
       "id": "129691",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine (Top Load) 12 kg",
@@ -3564,6 +3547,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "12 Mar 2024"
+    },
+    {
+      "id": "129927",
+      "category": "Others",
+      "name": "Food Ration",
+      "description": "single elder male residing alone need foo ration as he is unable to work due to medical conditions. Do contact me for food item as he need to be more cautious on his diet.",
+      "specifications": "NA",
+      "contact": {
+        "org": "Tsao Foundation - Hua Mei Clinic",
+        "name": "Ryan Sim",
+        "email": "ryansim@tsaofoundation.org",
+        "phone": [
+          "65939576",
+          "66619545"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Apr 2024"
     },
     {
       "id": "132579",
@@ -5787,6 +5788,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "132583",
+      "name": "Fridge",
+      "description": "It's a hitachi 5 door fridge with automatic ice maker, used by a Muslim family. Kindly arrange for own delivery.",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "15 Apr 2024",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "132567",
       "name": "Philips Iron",
       "description": "Second hand iron. In good working condition. Comes with box.",
@@ -5959,17 +5971,6 @@
       "validTill": "30 Apr 2024",
       "ageInYears": 3,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "132470",
-      "name": "Wooden TV console",
-      "description": "Tv Console available on 01 June",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "08 May 2024",
-      "ageInYears": 4,
-      "dimensions": "160 x 40 x 50",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
