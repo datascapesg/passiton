@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "132630",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Client is the sole breadwinner of a family of 5, with 3 children. \nOne of his children is with special needs and his wife has to stay home to take care of him full time. The other 2 children are studying full-time, unable to help with the family finances. \nRecently, client's washing machine and fridge spoiled and he is unable to afford to purchase new ones. \nIt has been difficult for the family, especially during this Hari Raya season when they are supposed to go visiting. Would be helpful for this family if anyone could donate a washing machine or fridge to them.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services SSO @ Taman Jurong",
+        "name": "Chan Yvonne",
+        "email": "yvonne-chan@fycs.org",
+        "phone": [
+          "69783516",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Apr 2024"
+    },
+    {
       "id": "132609",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -2034,6 +2052,42 @@
       "date": "18 Mar 2024"
     },
     {
+      "id": "132636",
+      "category": "Medical Aids",
+      "name": "Pull up pants diapers",
+      "description": "Family of 3 with mental health conditions and relying on financial assistance. Client has incontinence issues and needs diapers for her medical appointments.",
+      "specifications": "XL size",
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Telok Blangah",
+        "name": "Joyce Tan",
+        "email": "joyce.tan@montfortcare.org.sg",
+        "phone": [
+          "62746904",
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "12 Apr 2024"
+    },
+    {
+      "id": "132635",
+      "category": "Medical Aids",
+      "name": "Pull up pants diapers (XL)",
+      "description": "Family of 3, all with mental health conditions and relying on financial assistance for daily living. Client has incontinence issue and needs diapers to leave home for medical appointments.",
+      "specifications": "XL",
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Telok Blangah",
+        "name": "Joyce Tan",
+        "email": "joyce.tan@montfortcare.org.sg",
+        "phone": [
+          "62746904",
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "12 Apr 2024"
+    },
+    {
       "id": "132621",
       "category": "Medical Aids",
       "name": "Adult Diapers",
@@ -2349,6 +2403,57 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "14 Mar 2024"
+    },
+    {
+      "id": "132633",
+      "category": "Infant and Children Items",
+      "name": "Diapers",
+      "description": "Client has 2 young children who require milk powder and diapers support due to the family's limited financial resources. Parents are employed on a part time/adhoc basis but are looking for full time jobs. However, they have not been able to find any full time employment, likely due to their low education levels and hence require more support in this period.",
+      "specifications": "XL and XXL diapers (pull up)",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Cheng San 445",
+        "name": "Nur Farisha",
+        "email": "nurfarisha@allkin.org.sg",
+        "phone": [
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Apr 2024"
+    },
+    {
+      "id": "132632",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder",
+      "description": "Client has 2 young children who require milk powder and diapers support due to the family's limited financial resources. Parents are employed on a part time/adhoc basis but are looking for full time jobs. However, they have not been able to find any full time employment, likely due to their low education levels and hence require more support in this period.",
+      "specifications": "Dumex Dugro Stage 4",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Cheng San 445",
+        "name": "Nur Farisha",
+        "email": "nurfarisha@allkin.org.sg",
+        "phone": [
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Apr 2024"
+    },
+    {
+      "id": "132629",
+      "category": "Infant and Children Items",
+      "name": "Milk powder: Similac Stage 3 x 2 tins",
+      "description": "Client is a mother of 3 children (19yo, 10yo, 2yo). She is in need of milk powder for her 2yo son as she's facing financial difficulties with her household bills currently. Her 19yo child has just completed her ITE education however is unable to seek employment yet as she's holding onto a visitor pass currently.\nDespite having financial struggles and the need to look after her children, client still continue to work on part-time basis to gain some income for the family",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Patricia Poo",
+        "email": "patriciapoo@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Apr 2024"
     },
     {
       "id": "132623",
@@ -3085,7 +3190,6 @@
         "name": "Regine Yeo",
         "email": "regine.yeo@ppis.sg",
         "phone": [
-          "65613462ext519",
           "65613462"
         ]
       },
@@ -3103,7 +3207,6 @@
         "name": "Regine Yeo",
         "email": "regine.yeo@ppis.sg",
         "phone": [
-          "65613462ext519",
           "65613462"
         ]
       },
@@ -3399,7 +3502,6 @@
         "name": "Regine Yeo",
         "email": "regine.yeo@ppis.sg",
         "phone": [
-          "65613462ext519",
           "65613462"
         ]
       },
@@ -3417,7 +3519,6 @@
         "name": "Regine Yeo",
         "email": "regine.yeo@ppis.sg",
         "phone": [
-          "65613462ext519",
           "65613462"
         ]
       },
@@ -3650,6 +3751,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "12 Mar 2024"
+    },
+    {
+      "id": "132631",
+      "category": "Others",
+      "name": "Food Rations For Clients",
+      "description": "Requesting halal food rations for needy families who may not have money to buy food Items due to financial issues \nItems needed such as - \n20x packets of Rice (2.5KG\n30X packets of Maggie (Vegetarian/Non-Vegetarian)\n30x Halal Can Food [Meat -Sardine/Chicken etc] / [Vegetarian – Corn/Mushroom etc] \n10x Packets of Beehoon (Chilli Brand)\n20x Packets of Assorted Biscuits (example: Khong guan biscuits / Jacob)\n20x Packets of 3-in-1 Beverages (Milo/Coffee/Cereal Etc)\n10x Packets of Salt\n10x Packets of Sugar\n10 bottles of 1L cooking oil\n10 bottles of light/dark soya sauce\n\nAny amount is appreciated! Please call / email me before making any purchase as we have space constraint issues. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Patricia Poo",
+        "email": "patriciapoo@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Apr 2024"
     },
     {
       "id": "132595",
@@ -4490,6 +4608,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "12 Mar 2024"
+    },
+    {
+      "id": "132634",
+      "category": "Home Furnishing",
+      "name": "Wooden Sofa",
+      "description": "Family of 3 living in a rental unit needs a wooden sofa as they are unable to afford buy a new one.",
+      "specifications": "2 Seater - Wooden Sofa",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Cheng San 445",
+        "name": "Nur Farisha",
+        "email": "nurfarisha@allkin.org.sg",
+        "phone": [
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Apr 2024"
     },
     {
       "id": "132628",
@@ -6090,17 +6225,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "132465",
-      "name": "Rocking Chair",
-      "description": "Still in very good condition",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "20 Apr 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "132462",
       "name": "LOFT BED WITH STORAGE",
       "description": "IKEA loft bed frames with storage (2 sets).\nNeeds to be dismantled.",
@@ -6140,17 +6264,6 @@
       "location": "Braddell , Macpherson, Potong Pasir",
       "validTill": "25 Apr 2024",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "132417",
-      "name": "Super Single Mattress Only",
-      "description": "Super Single",
-      "location": "Braddell , Macpherson, Potong Pasir",
-      "validTill": "25 Apr 2024",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
