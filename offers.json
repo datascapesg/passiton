@@ -726,6 +726,28 @@
     "category": "Medical Aids"
   },
   {
+    "id": "132681",
+    "name": "Commode",
+    "description": "Commode",
+    "location": null,
+    "validTill": "15 May 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "132680",
+    "name": "Hospital bed",
+    "description": "Hospital bed with mattress and air pump",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "15 May 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "132454",
     "name": "Adjustable Walking Cane (1 leg)",
     "description": "Has scruffs on handle as per photos.\nExcellent condition.",
