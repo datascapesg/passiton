@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "132708",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client (M, 49) lives in a 2R rental flat with his wife and currently only is able to wash his clothes at laundromats in the neighbourhood. He hopes for a washing machine so that he can wash his clothes at home and save money on laundry.\n\nHe has financial and employment issues as he cannot walk properly due to a stroke a decade ago. Therefore, he hopes for support to fund a washing machine for him and his wife. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Joshua Tan",
+        "email": "joshua.tan@reach.org.sg",
+        "phone": [
+          "68673286",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Apr 2024"
+    },
+    {
       "id": "132694",
       "category": "Electrical Home Appliances",
       "name": "Dryer",
@@ -1244,6 +1262,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "16 Mar 2024"
+    },
+    {
+      "id": "132706",
+      "category": "Mobility Aids",
+      "name": "Rollator with Seat",
+      "description": "Senior is weak and fragile and has mobility issues. In need of a Rollator with Seat to help to move around",
+      "specifications": null,
+      "contact": {
+        "org": "NTUC Health Cluster Support - Taman Jurong",
+        "name": "Aaron Cai",
+        "email": "yuxiang.c@ntuchealth.sg",
+        "phone": [
+          "94552302",
+          "62674197"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Apr 2024"
     },
     {
       "id": "132691",
@@ -2947,6 +2983,23 @@
       "date": "18 Mar 2024"
     },
     {
+      "id": "132705",
+      "category": "Others",
+      "name": "Food Rations (Groceries)",
+      "description": "This is a low-income family of 6, of which 1 child is diagnosed with special needs. Father is the sole breadwinner of the family and mother is the main caregiver to the children. The family is currently pending for financial assistance and is lacking food rations at home to meet the family's needs. Donations of food rations will be greatly beneficial to tide the family over this period of time. I have a list of items requested from the family, do contact me via email at estherlynng@fycs.org if you are keen to donate. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Early Intervention Programme for Infants and Children - Wellington Circle",
+        "name": "Estherlyn Ng",
+        "email": "estherlynng@fycs.org",
+        "phone": [
+          "64310400"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Apr 2024"
+    },
+    {
       "id": "132688",
       "category": "Others",
       "name": "DSLR Camera",
@@ -3557,6 +3610,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "16 Mar 2024"
+    },
+    {
+      "id": "132707",
+      "category": "Home Furnishing",
+      "name": "Single Bed and Mattress",
+      "description": "Client (Male, aged 49) lives in a 2R rental flat and is currently sleeping in the living room on the floor. He requires a single-sized bed and mattress so that he can rest comfortably.\n\nHe has financial and employment issues as he cannot walk properly due to a stroke a decade ago. Therefore, he requires support to fund a single bed and mattress for him. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Joshua Tan",
+        "email": "joshua.tan@reach.org.sg",
+        "phone": [
+          "68673286",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Apr 2024"
     },
     {
       "id": "132704",
@@ -5089,39 +5160,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "132697",
-      "name": "4 door Wardrobe",
-      "description": "Wardrobe in good working condition for donation.",
-      "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-      "validTill": "15 May 2024",
-      "ageInYears": 4,
-      "dimensions": "52x124x180.5cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "132696",
-      "name": "Queen Storage Bed without mattress",
-      "description": "Queen Storage bed without mattress. Hydraulics is working well. Fabric in good condition.",
-      "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-      "validTill": "15 May 2024",
-      "ageInYears": 4,
-      "dimensions": "200x155x110cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "132682",
-      "name": "Toddler Bed - NEW",
-      "description": "Brand New toddler bed with mattress. All sides covered to prevent falling and comes with a step ladder.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "30 Apr 2024",
-      "ageInYears": 1,
-      "dimensions": "200 x 80 x 40 cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "132672",
       "name": "Bed",
       "description": "Ibenma bed frame made of 100% solid wood. Can unstack them to make into 2 single bed frames.",
@@ -5573,83 +5611,6 @@
       "category": "Medical Aids"
     },
     {
-      "id": "132523",
-      "name": "Stomahesive Seal",
-      "description": "Stomahesive Seal x 2 boxes\nNew",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "08 May 2024",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
-      "id": "132522",
-      "name": "Elastic Tape for Ostomy",
-      "description": "Elastic Tape for Ostomy x 1 box",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "08 May 2024",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
-      "id": "132521",
-      "name": "Ostomy Bag",
-      "description": "Ostomy Bag x 2 boxes \n1 box contains 10 pcs\nNew",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "08 May 2024",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
-      "id": "132520",
-      "name": "Biatain Alginate Ag",
-      "description": "Biatain Alginate Ag x 4 pcs",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "08 May 2024",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
-      "id": "132519",
-      "name": "Sodium Chloride",
-      "description": "0.9% Sodium Chloride x 2 boxes\n1 box contains 20 x 20 ml",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "08 May 2024",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
-      "id": "132516",
-      "name": "Gauze Swab",
-      "description": "Yukare Gauze swab x 1 packet\nNew, sealed, unopened",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "08 May 2024",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
-      "id": "132515",
-      "name": "Nonwoven swabs",
-      "description": "Nonwoven swabs\n2 packets x 30 pieces\n1 packet x 28 pieces\nIndividually sealed",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "08 May 2024",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
       "id": "132268",
       "name": "Electronic Hospital Bed",
       "description": "Electric Hospital in v good condition. Used for less than 8 months.",
@@ -5689,17 +5650,6 @@
       "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
       "validTill": "15 May 2024",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
-      "id": "132700",
-      "name": "Used walker with wheels and seat",
-      "description": "Used walker (with wheels and seat) in good/working condition.",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "15 May 2024",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
