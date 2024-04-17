@@ -1,6 +1,57 @@
 {
   "requests": [
     {
+      "id": "132744",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Elderly brothers in their late 60s who was previously homeless recently got their rental flat from HDB. They experience financial difficulties and is unable to afford home appliances.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Yvette Yee",
+        "email": "yyee@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Apr 2024"
+    },
+    {
+      "id": "132743",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Elderly brothers in their late 60s who was previously homeless recently got their rental flat from HDB. They experience financial difficulties and is unable to afford home appliances.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Yvette Yee",
+        "email": "yyee@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Apr 2024"
+    },
+    {
+      "id": "132740",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "A family of 3 with a 2 years old require a working condition washing machine, at least 8kg",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Chua Pei Ching",
+        "email": "peiching.chua@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Apr 2024"
+    },
+    {
       "id": "132733",
       "category": "Electrical Home Appliances",
       "name": "Washing machine",
@@ -1704,6 +1755,24 @@
       "date": "18 Mar 2024"
     },
     {
+      "id": "132739",
+      "category": "Infant and Children Items",
+      "name": "Tena Pants Normal Unisex Adult Diapers - M",
+      "description": "This is a single-parent family consisting of a 16-year-old boy and his father, who is the sole breadwinner and the main caregiver. The child is diagnosed with a developmental disability, hence uses diapers for continence support; he uses about 2 packs/week. His father works as a deliveryman and earns a minimal income that is just sufficient for their basic living needs. We would greatly appreciate it if the donor is able to donate more than 1 pack, as this would significantly alleviate the father's stress. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "Rainbow Centre - Magaret Drive School",
+        "name": "Daniel Chee",
+        "email": "danielchee@rainbowcentre.org.sg",
+        "phone": [
+          "68179433",
+          "64752072"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Apr 2024"
+    },
+    {
       "id": "132734",
       "category": "Infant and Children Items",
       "name": "[URGENT] Nan milk & XL. diapers for 1 year old infant",
@@ -2963,6 +3032,41 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "18 Mar 2024"
+    },
+    {
+      "id": "131426",
+      "category": "Others",
+      "name": "Groceries",
+      "description": "Family has 5 school going children and is dependent only on client's sole income. Family would benefit from groceries in view of the growing appetite of children and significant expenses on monthly milk powder and diapers. \n\nI'm contactable at 6549 0556 (whatsapp possible)/ongjiangshan@allkin.org.sg if you would be able to render your kind support to the family. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Ong Jiang Shan",
+        "email": "ongjiangshan@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "17 Apr 2024"
+    },
+    {
+      "id": "132738",
+      "category": "Others",
+      "name": "Biscuit",
+      "description": "Our home need 100 packets of Biscuit (Any Brand) for our 522 elderly residents. Thank you",
+      "specifications": null,
+      "contact": {
+        "org": "Ju Eng Home For Senior Citizens",
+        "name": "Lee Jun Hui",
+        "email": "junhui@jeh.org.sg",
+        "phone": [
+          "64846890ext127",
+          "64846890"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Apr 2024"
     },
     {
       "id": "132726",
@@ -4990,6 +5094,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "132741",
+      "name": "Electric Fan",
+      "description": "Good condition Table Fan to bless",
+      "location": null,
+      "validTill": "20 Apr 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "132736",
       "name": "Microwave",
       "description": "LIKE BRAND NEW CONDITION",
@@ -5205,17 +5320,6 @@
       "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
       "validTill": "30 Apr 2024",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "132722",
-      "name": "Seahorse Super Single Bed Mattress",
-      "description": "Still wrapped in plastic",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "30 Apr 2024",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
@@ -5496,6 +5600,17 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "132742",
+      "name": "Baby Items",
+      "description": "- Baby Bathtub\n- Brand new Baby Blanket\n- Assorted Baby toys",
+      "location": null,
+      "validTill": "20 Apr 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
       "id": "132711",
       "name": "Board games",
       "description": "Well used but excellent condition children’s board games.  Total six games, namely Pictionary, Junior Monopoly, Piranha panic, Who’s the Richest, Othello and Creationary. Suitable for older kids ages 7+.",
@@ -5657,17 +5772,6 @@
       "validTill": "15 May 2024",
       "ageInYears": 2,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
-      "id": "132604",
-      "name": "Electric Hospital Bed",
-      "description": "3 Crank Electrical Hospital Bed (Brand : Rainbow Care)\nSplit side panels, Remote control Back and Leg Raise, Bed Height Adjustment. With original 4\" waterproof mattress (Hardly used). IV Drip stand.",
-      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-      "validTill": "11 May 2024",
-      "ageInYears": 2,
-      "dimensions": "211cm(L) x 109cm (W) x 41-69cm (H)",
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
     },
