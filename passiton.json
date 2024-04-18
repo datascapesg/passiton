@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "132794",
+      "category": "Electrical Home Appliances",
+      "name": "Fan",
+      "description": "The family of 6 consists of parents, elderly grandmother and 3 young children aged 1,2 and 7 years old. They are facing significant financial difficulties as they only rely on father's limited income.\nThey are requesting for a standing fan.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Celeste Teo",
+        "email": "celesteteo@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Apr 2024"
+    },
+    {
       "id": "132790",
       "category": "Electrical Home Appliances",
       "name": "Televison",
@@ -5671,6 +5688,17 @@
       "dimensions": "H 40CM x W 28CM x D 16CM",
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
+    },
+    {
+      "id": "132795",
+      "name": "Neck and back massager",
+      "description": "WhatsApp me if keen. Will deliver",
+      "location": null,
+      "validTill": "06 May 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Leisure and Healthy Lifestyle"
     },
     {
       "id": "132304",
