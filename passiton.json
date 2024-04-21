@@ -3579,24 +3579,6 @@
       "date": "08 Apr 2024"
     },
     {
-      "id": "132434",
-      "category": "Home Furnishing",
-      "name": "Queen Size Bed Frame (Brand New)",
-      "description": "Family with young children requiring a Queen Size Bedframe as their previous Bed Frame was infested with termites thus in need to replace with a new one. However, they could not afford to buy one as both parents are unemployed and one of them recently lost job. Preferred to have donor to cover delivery cost and send directly to family.",
-      "specifications": "160cm x 200cm",
-      "contact": {
-        "org": "MSF Social Service Office @ Toa Payoh",
-        "name": "Nur Rifqah Samat",
-        "email": "rifqah_samat@msf.gov.sg",
-        "phone": [
-          "62287183",
-          "67157503"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Apr 2024"
-    },
-    {
       "id": "132395",
       "category": "Home Furnishing",
       "name": "Tv console",
@@ -3665,23 +3647,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "04 Apr 2024"
-    },
-    {
-      "id": "132350",
-      "category": "Home Furnishing",
-      "name": "Queen Size Mattress and Bed frame",
-      "description": "The family has six children, ranging in age from 1 to 10, and is facing significant financial difficulty. The family will require a queen size mattress and bedframe as their current queen size mattress and bedframe is no longer functioning and it will pose safety concerns if they continue to sleep in it.",
-      "specifications": "NIL",
-      "contact": {
-        "org": "Allkin Family Service Centre @ Sengkang 223D",
-        "name": "Syamirul Azim",
-        "email": "syamirulazim@allkin.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "03 Apr 2024"
     },
     {
       "id": "132339",
@@ -4396,6 +4361,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
+    },
+    {
+      "id": "132861",
+      "name": "Toaster",
+      "description": "Small toaster. Good for toasting slices of bread. China plug.",
+      "location": null,
+      "validTill": "02 May 2024",
+      "ageInYears": 3,
+      "dimensions": "35cm x 22cm x 20cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
     },
     {
       "id": "132836",
