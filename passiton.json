@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "132918",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Person is a single mother to 5 children. Family is struggling financially and is dependent on financial assistance. Client has been in search of employment however her attempts have been unsuccessful thus far. As their current washing machine is not in a working condition, family hopes to receive a top load (8 to 10kg) washing machine for their usage. For further liaison, kindly contact me at 98598768, thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (East)",
+        "name": "Nur Afrina",
+        "email": "fsceast@ppis.sg",
+        "phone": [
+          "60156970"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Apr 2024"
+    },
+    {
       "id": "132910",
       "category": "Electrical Home Appliances",
       "name": "Induction cooker",
@@ -4431,17 +4448,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "132915",
-      "name": "3 door wardrobe",
-      "description": "3 door wardrobe. 1 door with 5 shelves and 2 baskets. 2 door with 2 levels for hanging clothes",
-      "location": "Boon Lay, Jurong, Tuas",
-      "validTill": "25 Apr 2024",
-      "ageInYears": 3,
-      "dimensions": "H200/W150/D60 (CM)",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "132892",
       "name": "Single seat sofa",
       "description": "Single seat sofa",
@@ -5122,6 +5128,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "132919",
+      "name": "Sandals",
+      "description": "A pair of ladies’ sandals. worn a few times. Size:37. Condition and colour per photos attached.",
+      "location": "Balestier, Toa Payoh",
+      "validTill": "02 May 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "132917",
+      "name": "Shoes",
+      "description": "Pair of black shoes. Unisex. UK size:4.5. USA M:5. USA W:6.5. EUR:37.5. MM:230(2.0). \nCondition per photos attached.",
+      "location": "Balestier, Toa Payoh",
+      "validTill": "02 May 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "132883",
