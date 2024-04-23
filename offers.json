@@ -132,17 +132,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "132928",
-    "name": "Office desk/Study desk",
-    "description": "Giving away Office/Study desk bought from Ikea 3 yrs ago. Is in very good condition. Just has some minor marker stains on it",
-    "location": null,
-    "validTill": "23 May 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "132892",
     "name": "Single seat sofa",
     "description": "Single seat sofa",
@@ -205,6 +194,17 @@
     "validTill": "27 Apr 2024",
     "ageInYears": 4,
     "dimensions": "110cm(L) x 100cm(B) x 97cm (H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "132949",
+    "name": "Bean bag",
+    "description": "Bean bag is big enough to sit an adult.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "17 May 2024",
+    "ageInYears": 1,
+    "dimensions": "90(L) X 70(H)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -689,17 +689,6 @@
     "validTill": "20 May 2024",
     "ageInYears": 1,
     "dimensions": "W:51 cm D:53",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "132888",
-    "name": "Walking Frame",
-    "description": "Foldable Walking frame - suitable for tall people. Brand new.",
-    "location": "Changi, Flora, Loyang",
-    "validTill": "20 May 2024",
-    "ageInYears": 1,
-    "dimensions": "H: Min 32”, Max 39”, W:24.5”",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
