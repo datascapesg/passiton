@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "132945",
+      "category": "Electrical Home Appliances",
+      "name": "2 Door refrigerator",
+      "description": "A family of 3 children requires a donated 2-door refrigerator as their current refrigerator handle and door are faulty. As they require it to store their ration and both parents are working wage jobs, a donated refrigerator would benefit the family as this would help them to alleviate their financial burden.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Tommy Chan",
+        "email": "tchan@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Apr 2024"
+    },
+    {
       "id": "132918",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -1317,6 +1334,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "25 Mar 2024"
+    },
+    {
+      "id": "132944",
+      "category": "Infant and Children Items",
+      "name": "Milk",
+      "description": "Client is 22 year old, not working and boyfriend is in NS. They would require milk support. Thank you.",
+      "specifications": "abbott grow , infant milk (stage 1)",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Thiviya D/O Athimoolam",
+        "email": "thiviya@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "23 Apr 2024"
+    },
+    {
+      "id": "132943",
+      "category": "Infant and Children Items",
+      "name": "Diapers",
+      "description": "Client, 22 year old not working and boyfriend is in NS. They would require diapers support. Thank you",
+      "specifications": "huggies size S",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Thiviya D/O Athimoolam",
+        "email": "thiviya@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "23 Apr 2024"
     },
     {
       "id": "132939",
@@ -4191,17 +4242,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "132826",
-      "name": "Tefal Cake mixer -Brand new",
-      "description": "Brand new. Unable to bear delivery cost as item quite heavy. Giving to someone who is in baking & running small biz.",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "11 May 2024",
-      "ageInYears": 1,
-      "dimensions": "4L",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "132566",
       "name": "Iron board",
       "description": "Well used.",
@@ -4319,6 +4359,28 @@
       "validTill": "16 May 2024",
       "ageInYears": 4,
       "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "132941",
+      "name": "Toddler Bed - NEW",
+      "description": "Brand New toddler bed with mattress. All sides covered to prevent falling and comes with a step ladder.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "30 Apr 2024",
+      "ageInYears": 1,
+      "dimensions": "200 x 80 x 40 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "132942",
+      "name": "Toddler Bed - NEW",
+      "description": "Brand New toddler bed with mattress. All sides covered to prevent falling and comes with a step ladder.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "30 Apr 2024",
+      "ageInYears": 1,
+      "dimensions": "200 x 80 x 40 cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
