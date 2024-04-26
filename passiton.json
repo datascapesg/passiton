@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "133057",
+      "category": "Electrical Home Appliances",
+      "name": "Stand Fan",
+      "description": "Client is a mother of multiple children, and there was recently an addition of a newborn to the family. The family of 8 stay in a one room rental flat, require more ventilation and have thus requested for a stand fan. Interested donors kindly contact. Interested donors kindly contact Claudine at 63658751",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Admiralty",
+        "name": "Lei Hui Yun",
+        "email": "leihuiyun@carecorner.org.sg",
+        "phone": [
+          "63658751"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Apr 2024"
+    },
+    {
       "id": "133053",
       "category": "Electrical Home Appliances",
       "name": "Induction cooker",
@@ -3145,6 +3162,24 @@
       "date": "26 Mar 2024"
     },
     {
+      "id": "133054",
+      "category": "Home Furnishing",
+      "name": "Single bed mattress & bed frame",
+      "description": "Client is divorced with no children. She resides alone in a rental flat and is solely depending on SSO’s Long Term Financial Assistance. She has no bed and has been sleeping on a small sofa all along. Due to the limited space in her rental apartment, she is only able to fit a single bed. She is unable to afford a new bed by herself due to her financial difficulty.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Ang Mo Kio",
+        "name": "Siti Khairiyah Bte Affandi",
+        "email": "siti_khairiyah_affandi@msf.gov.sg",
+        "phone": [
+          "65547917",
+          "18002220000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Apr 2024"
+    },
+    {
       "id": "133048",
       "category": "Home Furnishing",
       "name": "3-tier drawer to store medications",
@@ -4421,6 +4456,28 @@
       "dimensions": "120cmW x 20cmH",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "133056",
+      "name": "Single Pull Out Bed Frame",
+      "description": "Single sized Pull Out Bed Frame without mattress",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "10 May 2024",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "133055",
+      "name": "Queen Size Bed Frame with Storage",
+      "description": "This is a queen size bed frame with storage. (excluding mattress)",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "10 May 2024",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "133011",
