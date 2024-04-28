@@ -693,6 +693,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "133079",
+    "name": "White (walking) stick",
+    "description": "Standard white collapsible stick\n\nIf location at woodland or  Bedok, will send to needy.",
+    "location": null,
+    "validTill": "05 May 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "133073",
     "name": "Hospital Bed with Mattress",
     "description": "Hospital Bed with Mattress in good working condition",
@@ -898,17 +909,6 @@
     "validTill": "02 May 2024",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "132313",
-    "name": "TRANSPORT air mattress + pump",
-    "description": "Used air mattress. Comes with pump.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "02 May 2024",
-    "ageInYears": 2,
-    "dimensions": "180cm x 90cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
