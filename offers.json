@@ -22,28 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "133112",
-    "name": "Air Fryer",
-    "description": "Fully funtional",
-    "location": null,
-    "validTill": "02 May 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "133111",
-    "name": "2 door fridge",
-    "description": "Full size Hitachi fridge. Suitable for small families. Fully functional",
-    "location": null,
-    "validTill": "02 May 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "133043",
     "name": "Slow Cooker",
     "description": "1.1L capacity, almost new",
@@ -62,17 +40,6 @@
     "validTill": "24 May 2024",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "132882",
-    "name": "Ventilation fan",
-    "description": "KDK ventilation fans - 4 nos.\n\nDelivery on weekday evening and weekend.",
-    "location": null,
-    "validTill": "22 May 2024",
-    "ageInYears": 1,
-    "dimensions": "30cmWx30cmH",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -141,6 +108,17 @@
     "dimensions": "120cmW x 20cmH",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "133149",
+    "name": "Sofa",
+    "description": "Sofa bought secondhand a year ago but still in good condition. Can easily seat 4 people or more.",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "14 May 2024",
+    "ageInYears": 4,
+    "dimensions": "180x260cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "133131",
@@ -895,17 +873,6 @@
     "name": "Swatch Watch",
     "description": "Swatch Pink watch in working condition",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "29 May 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "133134",
-    "name": "Casio Baby G Watch",
-    "description": "Baby G white watch with manual/box",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
     "validTill": "29 May 2024",
     "ageInYears": 4,
     "dimensions": null,
