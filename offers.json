@@ -22,6 +22,28 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "133112",
+    "name": "Air Fryer",
+    "description": "Fully funtional",
+    "location": null,
+    "validTill": "02 May 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "133111",
+    "name": "2 door fridge",
+    "description": "Full size Hitachi fridge. Suitable for small families. Fully functional",
+    "location": null,
+    "validTill": "02 May 2024",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "133043",
     "name": "Slow Cooker",
     "description": "1.1L capacity, almost new",
@@ -119,6 +141,17 @@
     "dimensions": "120cmW x 20cmH",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "133113",
+    "name": "Coffee Table (Tempered Glass)",
+    "description": "Glass Coffee Table with middle glass table to place books, magazines, display items. \nFrom Forr to middle glass panel: 17.5cm",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "29 May 2024",
+    "ageInYears": 4,
+    "dimensions": "104cm(L) x 55.5cm(B)x 43.5cm (Ht)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "133085",
