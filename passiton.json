@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "133133",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Family of 6 with children ages 5-12 years old requires a washing machine as their is spoil, upon checking it is costly for family to repair it and they are currently having financial constraints. Your assistance will be greatly appreciated.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Kelly Gan",
+        "email": "kelly.gan@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Apr 2024"
+    },
+    {
       "id": "133123",
       "category": "Electrical Home Appliances",
       "name": "Washing machine (10kg, topload)",
@@ -2435,42 +2452,6 @@
       "date": "19 Apr 2024"
     },
     {
-      "id": "132764",
-      "category": "Infant and Children Items",
-      "name": "Baby Diapers Size L (Pull-up Pants)",
-      "description": "Low-income family with 14month old baby needs help with diapers (size L, pants) donation. Father has just returned back to delivery work after 3 months medical leave and would appreciate the help. If you are able to help, please contact Jessie at 9125 0028 or email jessielim@fycs.org. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Jessie Lim",
-        "email": "jessielim@fycs.org",
-        "phone": [
-          "91250028",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Apr 2024"
-    },
-    {
-      "id": "132763",
-      "category": "Infant and Children Items",
-      "name": "Enfagrow Pro A+ Stage 3 Milk Powder",
-      "description": "Low-income family with 14month old baby needs help with milk powder (Enfagrow Pro A+ Stage 3) donation. Father has just returned back to delivery work after 3 months medical leave and would appreciate the help. If you are able to help, please contact Jessie at 9125 0028 or email jessielim@fycs.org. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "HEART @ Fei Yue",
-        "name": "Jessie Lim",
-        "email": "jessielim@fycs.org",
-        "phone": [
-          "91250028",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Apr 2024"
-    },
-    {
       "id": "132757",
       "category": "Infant and Children Items",
       "name": "Milk and Diapers",
@@ -4359,12 +4340,23 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "133132",
+      "name": "2 in 1 Multi Functional Electric Grill with Hot Pot",
+      "description": "Non-stick coating for grill plate\nHeat Resistant Handles",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "29 Jun 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "133130",
-      "name": "Hitachi Rice Cokker",
+      "name": "New Hitachi Rice Cooker",
       "description": "1.0 Litre Super Rapid Cooking\nDedicated Cooking System For Long-Grain Rice Cooking\nConvection Rice Cooking\nEasy Cleaning\nHeating Plate\nClear Indication\nNon-Stick Poly Flon Coating\n12.5 Hour Timer",
       "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "06 May 2024",
-      "ageInYears": 3,
+      "validTill": "29 Jun 2024",
+      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
@@ -5237,6 +5229,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "133135",
+      "name": "Swatch Watch",
+      "description": "Swatch Pink watch in working condition",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "29 May 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "133134",
+      "name": "Casio Baby G Watch",
+      "description": "Baby G white watch with manual/box",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "29 May 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "133069",
