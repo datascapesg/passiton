@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "133176",
+      "category": "Electrical Home Appliances",
+      "name": "Electric razor",
+      "description": "Elderly client has dementia and mobility issues, requesting for an electric razor for personal upkeep of hygiene. \n\nSuggested product to purchase ($18.90): https://www.fairprice.com.sg/product/powerpac-electric-rechargeable-shaver-pps1155",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Community Services - Mental Health",
+        "name": "Josef Woon",
+        "email": "josefwoon@fycs.org",
+        "phone": [
+          "60117651",
+          "64712022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Apr 2024"
+    },
+    {
       "id": "132043",
       "category": "Electrical Home Appliances",
       "name": "Vacuum cleaner",
@@ -2119,6 +2137,74 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "01 Apr 2024"
+    },
+    {
+      "id": "133175",
+      "category": "Infant and Children Items",
+      "name": "Diapers",
+      "description": "Clients are a single income family barely able to make ends meet with 2 young children. It would be helpful if some of their expenses can be reduced with support in this area.\n\nClients would like the items delivered to them if possible.",
+      "specifications": "Drypers Drypantz XXL",
+      "contact": {
+        "org": "Whampoa Family Service Centre",
+        "name": "Elijah Koh",
+        "email": "elijahkoh@kkcs.org.sg",
+        "phone": [
+          "63260300"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Apr 2024"
+    },
+    {
+      "id": "133174",
+      "category": "Infant and Children Items",
+      "name": "Diapers",
+      "description": "Clients are a single income family barely able to make ends meet with 2 young children. It would be helpful if some of their expenses can be reduced with support in this area.\n\nClients would like the items delivered to them if possible.",
+      "specifications": "Drypers Wee Wee Dry S",
+      "contact": {
+        "org": "Whampoa Family Service Centre",
+        "name": "Elijah Koh",
+        "email": "elijahkoh@kkcs.org.sg",
+        "phone": [
+          "63260300"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Apr 2024"
+    },
+    {
+      "id": "133173",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder",
+      "description": "Clients are a single income family barely able to make ends meet with 2 young children. It would be helpful if some of their expenses can be reduced with support in this area.\n\nClients would like the items delivered to them if possible.",
+      "specifications": "Dugro Dumex Stage 2",
+      "contact": {
+        "org": "Whampoa Family Service Centre",
+        "name": "Elijah Koh",
+        "email": "elijahkoh@kkcs.org.sg",
+        "phone": [
+          "63260300"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Apr 2024"
+    },
+    {
+      "id": "133172",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder",
+      "description": "Clients are a single income family barely able to make ends meet with 2 young children. It would be helpful if some of their expenses can be reduced with support in this area.\n\nClients would like the items delivered to them if possible.",
+      "specifications": "Dugro Dumex Step 1",
+      "contact": {
+        "org": "Whampoa Family Service Centre",
+        "name": "Elijah Koh",
+        "email": "elijahkoh@kkcs.org.sg",
+        "phone": [
+          "63260300"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Apr 2024"
     },
     {
       "id": "133162",
@@ -4553,6 +4639,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "133171",
+      "name": "Front Load Washing Machine",
+      "description": "Item in good working condition. Pls note that I only have the capacity to pay 50% of the Lalamove delivery charges.",
+      "location": null,
+      "validTill": "05 May 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "133167",
       "name": "Ventilation fan",
       "description": "I have 2 KDK ventilation fans left to donate.\n\nDelivery on weekday evening and weekend.",
@@ -4560,17 +4657,6 @@
       "validTill": "30 May 2024",
       "ageInYears": 1,
       "dimensions": "30cmWx30cmH",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "133156",
-      "name": "Garment steamer",
-      "description": "An elderly couple is having this brand new item, and they are unable to pay for delivery, need to collect from their residence",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "10 May 2024",
-      "ageInYears": 1,
-      "dimensions": "Brand new Garment steamer",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
     },
