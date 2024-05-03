@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "133268",
+      "category": "Home Furnishing",
+      "name": "Queen Size/Bunk Bed with Mattress",
+      "description": "Single mother and breadwinner of 4 school going children. \n2 of her children have been sleeping on sleeping bag for more than a week as their current bed broke.  \nMother's monthly salary is insufficient to purchase new household items. She hopes to get a bed (queen size/bunk bed) to replace her children's broken bed.",
+      "specifications": "Queen Size/Bunk Bed with Mattress",
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "mwsfscy@mws.sg",
+        "phone": [
+          "83688612",
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 May 2024"
+    },
+    {
+      "id": "133266",
+      "category": "Home Furnishing",
+      "name": "Sliding Cabinet",
+      "description": "Family of 5 stays in a 2-room rental flat. \nHusband is the only breadwinner earning daily cash pay, while wife is caregiver of their 3 children aged 3,2,and 1. The family recently transition to a new rental flat and is facing financial constraint in furnishing their home.  \nFamily hopes with a sliding door cabinet would help organized the items at home as they are currently using luggage and plastic drawers to store their items.",
+      "specifications": "Sliding Cabinet",
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "mwsfscy@mws.sg",
+        "phone": [
+          "83688612",
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 May 2024"
+    },
+    {
       "id": "112714",
       "category": "Home Furnishing",
       "name": "Clothes wardrobe",
@@ -881,6 +917,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "04 Apr 2024"
+    },
+    {
+      "id": "133265",
+      "category": "Others",
+      "name": "ASSURE Disposable Adult Bibs",
+      "description": "We would like to request for 10 packets of Assure Disposable Adult Bibs, 40cm x 60cm with 15cm pocket (100Pcs/Pkt) for our daycare centre. Kindly email for details / arrangements. Thank you.",
+      "specifications": "40cm x 60cm (100Pcs/Pkt)",
+      "contact": {
+        "org": "Dementia Singapore",
+        "name": "Michelle Loh",
+        "email": "giving@dementia.org.sg",
+        "phone": [
+          "68564623",
+          "63895103"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 May 2024"
     },
     {
       "id": "133258",
@@ -2852,6 +2906,41 @@
       "date": "02 Apr 2024"
     },
     {
+      "id": "133269",
+      "category": "Electrical Home Appliances",
+      "name": "TV",
+      "description": "Client is a 60 year old male living alone with schizophrenia. He is certified unfit to work due to his condition, and is receiving long-term financial assistance from the SSO. Due to his anxiety and delusions, he does not want to leave his house as he believes that people will go into his house and damage his things when he's not around, despite already have 4-5 locks on his gate.\n\nThe TV he has at home currently has been spoilt for some time, so any help will be much appreciated!\n\nThank you!",
+      "specifications": null,
+      "contact": {
+        "org": "NTUC Health Cluster Support - Taman Jurong",
+        "name": "Teh Jin Yu",
+        "email": "jinyu.teh@ntuchealth.sg",
+        "phone": [
+          "86128301",
+          "62674197"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 May 2024"
+    },
+    {
+      "id": "133267",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Family of 5 recently moved into their rental unit at Clementi. Aging father is sole breadwinner for the family and mum (with health concerns) is caregiver to son with special needs. Their two older daughters are schooling. Family is slowly re-purchasing needed household items, but is currently unable to afford replacing their current fridge, which is starting to spoil (works on/off).",
+      "specifications": "2 or 3 door is ok",
+      "contact": {
+        "org": "SHINE Children and Youth Services - Hougang",
+        "name": "Ang Hua Jun",
+        "email": "ang_huajun@shine.org.sg",
+        "phone": [
+          "62869905"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 May 2024"
+    },
+    {
       "id": "133262",
       "category": "Electrical Home Appliances",
       "name": "Food Blender",
@@ -4768,6 +4857,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "133263",
+      "name": "Children study table",
+      "description": "Photos as shown.\nOk to send if nearby my place",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "02 Jun 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "133222",
       "name": "Bed with mattress and study table",
       "description": "Bed with mattress and study table.  Still in very good condition",
@@ -5327,6 +5427,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "133264",
+      "name": "Luggage",
+      "description": "21 inch\nNumber lock not working. Will send if nearby my place",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "02 Jun 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "133233",
