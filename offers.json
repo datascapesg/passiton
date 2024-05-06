@@ -55,6 +55,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "133330",
+    "name": "Washing Machine",
+    "description": "12.5kg still in good condition",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "25 May 2024",
+    "ageInYears": 4,
+    "dimensions": "63cmx92cmx63cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "133323",
     "name": "Refrigerator",
     "description": "Refrigerator in good condition",
@@ -108,6 +119,28 @@
     "dimensions": "1.3L",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "133327",
+    "name": "King size bed",
+    "description": "King Bed. good condition. moving house",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "24 May 2024",
+    "ageInYears": 4,
+    "dimensions": "190cmx210cmx45cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "133326",
+    "name": "bed",
+    "description": "Queen size bed, still new. moving house",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "25 May 2024",
+    "ageInYears": 4,
+    "dimensions": "190cmx152cmx45cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "133321",
@@ -438,6 +471,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
+  },
+  {
+    "id": "133329",
+    "name": "Fridge",
+    "description": "Fridge still in good condition. Moving house",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "25 May 2024",
+    "ageInYears": 4,
+    "dimensions": "60cmx168cmx62cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "133328",
+    "name": "1.5L Mini Cooker",
+    "description": "Brand new with box (opened but not used)",
+    "location": null,
+    "validTill": "15 May 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
   },
   {
     "id": "133211",
