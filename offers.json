@@ -77,17 +77,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "133330",
-    "name": "Washing Machine",
-    "description": "12.5kg still in good condition",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "25 May 2024",
-    "ageInYears": 4,
-    "dimensions": "63cmx92cmx63cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "133323",
     "name": "Refrigerator",
     "description": "Refrigerator in good condition",
@@ -242,17 +231,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "133208",
-    "name": "Bamboo storage cabinets 2 pieces",
-    "description": "Due moving out, want to give away. In very good condition though is iused. For needy, we can deliver but those whom are affordable, please arrange yr own pickup.",
-    "location": null,
-    "validTill": "15 May 2024",
-    "ageInYears": 4,
-    "dimensions": "L48cmW27cmH125cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "133207",
     "name": "Used Coffee table",
     "description": "Used Coffee table to give away.",
@@ -359,6 +337,17 @@
     "validTill": "13 May 2024",
     "ageInYears": 4,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "132559",
+    "name": "Stainless steel sink",
+    "description": "Delivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "10 May 2024",
+    "ageInYears": 1,
+    "dimensions": "80cmLx60cmWx66cmH",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
