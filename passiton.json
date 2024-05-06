@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "133353",
+      "category": "Home Furnishing",
+      "name": "Sliding Wardrobe",
+      "description": "Family of 5 stays in a 2-room rental flat. Husband is the only breadwinner earning daily cash pay, while wife is caregiver of their 3 children aged 3,2,and 1. \nThe family recently transition to a new rental flat and is facing financial constraint in furnishing their home.  \nFamily hopes with a sliding door cabinet would help organized the items at home as they are currently using luggage and plastic drawers to store their items. \"",
+      "specifications": "Sliding Wardrobe",
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "mwsfscy@mws.sg",
+        "phone": [
+          "83688612",
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 May 2024"
+    },
+    {
       "id": "133343",
       "category": "Home Furnishing",
       "name": "Foldable Mattress and Pillows",
@@ -2340,6 +2358,24 @@
       "date": "05 Apr 2024"
     },
     {
+      "id": "133352",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave",
+      "description": "The family of 3 requires a microwave as their existing has recently broke down. They are mainly reliant on the microwave to reheat food conveniently. Ct is a single mother with 2 school-going children.",
+      "specifications": null,
+      "contact": {
+        "org": "FRCS Family Service Centre",
+        "name": "Hillary Heng",
+        "email": "hillary@frcsfsc.sg",
+        "phone": [
+          "67799488ext54",
+          "67799488"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 May 2024"
+    },
+    {
       "id": "133351",
       "category": "Electrical Home Appliances",
       "name": "Vacuum Cleaner",
@@ -3851,24 +3887,6 @@
       "date": "05 Apr 2024"
     },
     {
-      "id": "133348",
-      "category": "Medical Aids",
-      "name": "Blood Pressure Monitor",
-      "description": "My Client is 62 years old staying in a studio apartment in Serangoon. She requires a blood pressure machine to monitor her blood pressure readings but cannot afford to purchase one. Thank you in advance for your kindness.",
-      "specifications": "NA",
-      "contact": {
-        "org": "Fei Yue Cluster Support (CCK/ Bukit Panjang)",
-        "name": "Lau Lee Pai",
-        "email": "lauleepai@fycs.org",
-        "phone": [
-          "62024699",
-          "68936606"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 May 2024"
-    },
-    {
       "id": "133344",
       "category": "Medical Aids",
       "name": "Tena Diapers L size",
@@ -4373,34 +4391,12 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "133323",
-      "name": "Refrigerator",
-      "description": "Refrigerator in good condition",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "31 May 2024",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "133322",
       "name": "Tecno Mini Fridge",
       "description": "I received this mini fridge as a donation when my home burnt down and now want to pass it on to the next person. It's still very cold and with a bit of cleaning can be very functional.\n\nI won't be able to do the delivery, so please make your own arrangements if possible. Thank you.",
       "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
       "validTill": "10 May 2024",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "132770",
-      "name": "Home Appliances",
-      "description": "To give away 2 rice cooker and 1 water heater. collect at block near Mayflower MRT.",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "17 May 2024",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
@@ -4457,17 +4453,6 @@
       "validTill": "03 Jun 2024",
       "ageInYears": 4,
       "dimensions": "45cm (L) x 60cm (w) x 90cm (h)",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "133318",
-      "name": "Somnuz Queen Mattress",
-      "description": "Mattress still very new as used with Mattress protector and mattress pad.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "03 Jun 2024",
-      "ageInYears": 1,
-      "dimensions": "Queen - 158cm x 28cm x 28cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
