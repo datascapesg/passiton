@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "133374",
+      "category": "Home Furnishing",
+      "name": "2-door wardrobe",
+      "description": "Low-income family staying in a rental flat, with 3 school going children, 1 in pre-school and 1 in infant care. Mother is working as a cleaner while father is the main caregiver of their children, and they are struggling financially to adequately meet their children's needs and to pay their medical bills. Their current wardrobe has spoiled due to termites infestation. The family is requesting a wardrobe that will be beneficial for them to keep their clothes neat and clean.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Shree Ganga D/O Rajasagran",
+        "email": "ShreeGanga@thkmc.org.sg",
+        "phone": [
+          "88333080",
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 May 2024"
+    },
+    {
       "id": "133356",
       "category": "Home Furnishing",
       "name": "Single-sized mattress",
@@ -2412,6 +2430,24 @@
       "date": "08 Apr 2024"
     },
     {
+      "id": "133373",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Client (F/33) is a single parent to her 4 primary school going children. Due to her caregiving responsibilities, it is a challenge to seek employment as her children continue to need Client's supervision and support. Client's current fridge is minimally functioning and soon to be spoiled. As client and her family are currently meeting their basic needs with the aid of financial assistance, any added essential but big ticket item is beyond their means. Hence we are seeking a fridge to support their daily functioning and basic food needs.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Shree Ganga D/O Rajasagran",
+        "email": "ShreeGanga@thkmc.org.sg",
+        "phone": [
+          "88333080",
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 May 2024"
+    },
+    {
       "id": "133360",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -4046,6 +4082,24 @@
       "date": "09 Apr 2024"
     },
     {
+      "id": "133370",
+      "category": "Medical Aids",
+      "name": "Blood Glucose Meter",
+      "description": "Client and husband are both elderly living alone. Both have several health issues. Recently her blood glucose machine has spoilt and she is requesting for a donation of a new one. As they are both unemployed, they struggle financially.",
+      "specifications": null,
+      "contact": {
+        "org": "FRCS Family Service Centre",
+        "name": "Asimah Beevi d/o Abdul",
+        "email": "asimah@frcsfsc.sg",
+        "phone": [
+          "67799488ext13",
+          "67799488"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 May 2024"
+    },
+    {
       "id": "133344",
       "category": "Medical Aids",
       "name": "Tena Diapers L size",
@@ -4821,6 +4875,28 @@
       "category": "Infant and Children Items"
     },
     {
+      "id": "133372",
+      "name": "Like new oven + hood and cooker",
+      "description": "Oven: 60cm length x 54cm depth x 58cm height\n- condition: 10/10 never used. no defects as far as I can see.\n\nHood: 90cm length x 49cm depth x 14cm height (tcm for hood function)\n- condition: 9/10 need to change steel filter for hygiene purposes. minimal scratches, buttons are all functional . \n\nCooker: 77cm length x 51cm depth x 2cm height\n- condition: 8/10 in need of a good clean but no food stuck/no cracks at all \n\nVwo pls arrange courier as I'm tight with finances too.",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "15 May 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Kitchen Utility Items"
+    },
+    {
+      "id": "133371",
+      "name": "Like new oven + hood and cooker",
+      "description": "Oven: 60cm length x 54cm depth x 58cm height\n- condition: 10/10 never used. no defects as far as I can see.\n\nHood: 90cm length x 49cm depth x 14cm height (tcm for hood function)\n- condition: 9/10 need to change steel filter for hygiene purposes. minimal scratches, buttons are all functional . \n\nCooker: 77cm length x 51cm depth x 2cm height\n- condition: 8/10 in need of a good clean but no food stuck/no cracks at all \n\nVwo pls arrange courier as I'm tight with finances too.",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "15 May 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Kitchen Utility Items"
+    },
+    {
       "id": "133211",
       "name": "Crockery",
       "description": "Bowls n plates",
@@ -4960,17 +5036,6 @@
       "validTill": "20 May 2024",
       "ageInYears": 1,
       "dimensions": "W:51 cm D:53",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
-      "id": "132761",
-      "name": "Toilet commode",
-      "description": "Plastic toilet commode on wheels",
-      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-      "validTill": "10 May 2024",
-      "ageInYears": 1,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
     },
