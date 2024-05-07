@@ -99,6 +99,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "133379",
+    "name": "Single sofa",
+    "description": "Single sofa.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "06 Jun 2024",
+    "ageInYears": 4,
+    "dimensions": "76x76x85cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "133368",
     "name": "Kid table",
     "description": "2 pieces.\n\nDelivery on weekday evening and weekend.",
@@ -199,6 +210,28 @@
   },
   {
     "id": "133222",
+    "name": "Bed with mattress and study table",
+    "description": "Bed with mattress and study table.  Still in very good condition",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "15 May 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "133380",
+    "name": "Bed with mattress and study table",
+    "description": "Bed with mattress and study table.  Still in very good condition",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "15 May 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "133381",
     "name": "Bed with mattress and study table",
     "description": "Bed with mattress and study table.  Still in very good condition",
     "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
@@ -645,17 +678,6 @@
     "validTill": "11 May 2024",
     "ageInYears": 4,
     "dimensions": "L107 * W44 * H210",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "133135",
-    "name": "Swatch Watch",
-    "description": "Swatch Pink watch in working condition",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "29 May 2024",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
