@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "133421",
+      "category": "Home Furnishing",
+      "name": "Mattress",
+      "description": "Low income family requires a queen size mattress without Bedframe. Please include delivery charges because family is not able to pay for it. Thank you",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Roger Khoo",
+        "email": "roger@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 May 2024"
+    },
+    {
       "id": "133382",
       "category": "Home Furnishing",
       "name": "Queen Sized Bed with Storage",
@@ -808,6 +825,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "08 Apr 2024"
+    },
+    {
+      "id": "133423",
+      "category": "Others",
+      "name": "DAILY BASIC NEEDS",
+      "description": "HALAL DIGESTIVE BISCUITS\n\nThis item will be disbursed to needy clients as part of our non-cash assistance to help reduce their expenses on their basic needs. Clients in need are identified by their respective caseworkers.\nWith the coming school holiday, this ready to eat food item would allow children of our needy clients to get much-nutritious food when their parents are at work.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Rokiah Bte Samsudin",
+        "email": "rokiah.samsudin@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 May 2024"
     },
     {
       "id": "133418",
@@ -1736,12 +1770,12 @@
       "description": "Mother to 4year old, single caregiver to her child with limited family support. She has limited income to support their needs. Currently has half a tin of milk powder left. \n\nLooking for 1 to 2 tins of milk powder to supplement in the short term as child is yet to transit fully to solid food diet. \n\nCurrently using Lactogen 3, but is open to receive others such as Dumex Dugro 4.",
       "specifications": null,
       "contact": {
-        "org": "MSF Social Service Office @ Toa Payoh",
+        "org": "Montfort Care - Kreta Ayer Family Services",
         "name": "Justin Weng",
         "email": "justin.weng@montfortcare.org.sg",
         "phone": [
-          "62319390",
-          "67157503"
+          "97245646",
+          "63254753"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2711,12 +2745,12 @@
       "description": "Single mother with one daughter, full time caregiver to her 90yo father who is bedridden with dementia. \n\nCurrent fridge is faulty, looking for a new one as she cooks her meals very regularly and needs a fridge to support her caregiving duties.",
       "specifications": null,
       "contact": {
-        "org": "MSF Social Service Office @ Toa Payoh",
+        "org": "Montfort Care - Kreta Ayer Family Services",
         "name": "Justin Weng",
         "email": "justin.weng@montfortcare.org.sg",
         "phone": [
-          "62319390",
-          "67157503"
+          "97245646",
+          "63254753"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2729,12 +2763,12 @@
       "description": "Single mother of one daughter with no income, caregiving for 90yo father who is bed-ridden, at home most of the time. Old television has spoilt, hope to have a new one.",
       "specifications": null,
       "contact": {
-        "org": "MSF Social Service Office @ Toa Payoh",
+        "org": "Montfort Care - Kreta Ayer Family Services",
         "name": "Justin Weng",
         "email": "justin.weng@montfortcare.org.sg",
         "phone": [
-          "62319390",
-          "67157503"
+          "97245646",
+          "63254753"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -4355,6 +4389,24 @@
       "date": "09 Apr 2024"
     },
     {
+      "id": "133422",
+      "category": "Medical Aids",
+      "name": "Blood Glucose Meter and Test Strips",
+      "description": "Client is a 40-year-old mother of two, aged 13 and 10 respectively. \nTogether with her children, client is currently living in a 2-room rental unit. Due to her husband's passing, client has taken on the role as the sole provider for her family, wherein she experiences financial constraints in purchasing a blood glucose meter and test strips to monitor her health condition.",
+      "specifications": "Blood Glucose Meter and Test Strips",
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "mwsfscy@mws.sg",
+        "phone": [
+          "83688612",
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 May 2024"
+    },
+    {
       "id": "133392",
       "category": "Medical Aids",
       "name": "Blood pressure machine",
@@ -4844,6 +4896,28 @@
       "dimensions": "1.3L",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "133420",
+      "name": "2 seater sofa with pillows",
+      "description": "Comfortable sofa with many pillows.",
+      "location": null,
+      "validTill": "10 May 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "133419",
+      "name": "Dining table with 4 chairs",
+      "description": "Small glass dining table with 4 solid wood seats. Newly varnished. Strong and sturdy table and chairs",
+      "location": null,
+      "validTill": "11 May 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "133415",
