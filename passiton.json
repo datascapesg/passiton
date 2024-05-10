@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "133522",
+      "category": "Home Furnishing",
+      "name": "TV console",
+      "description": "family of a single mother caring for her 2 children and one grandchild in need of a TV console as they are unable to afford one.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Grace Ang",
+        "email": "grace@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 May 2024"
+    },
+    {
       "id": "133520",
       "category": "Home Furnishing",
       "name": "three-door wardrobe",
@@ -1742,6 +1759,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "12 Apr 2024"
+    },
+    {
+      "id": "133523",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Client is staying in rental flat. He is in need of a fridge for daily basic use. He does not have family support and past savings. Client has started working as a delivery driver but he has yet to receive his pay. No brand required.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore After Care Association",
+        "name": "Lin Mingjie",
+        "email": "mingjie@saca.org.sg",
+        "phone": [
+          "62942350"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 May 2024"
     },
     {
       "id": "133517",
@@ -5448,6 +5482,17 @@
       "dimensions": "53cmWx95cmH",
       "deliveryCostsCoveredByDonor": true,
       "category": "Learning Aids"
+    },
+    {
+      "id": "133524",
+      "name": "Silvercel Non-Adherent Dressing",
+      "description": "Hydro-Aliginate Antimicrobial Dressing with Silver with EasyLIFt Precision Film. 10 pieces per box. There are 4 boxes. Each piece 11cm x 11cm.",
+      "location": "Beach Road (part), City Hall, High Street, North Bridge Road",
+      "validTill": "09 Jun 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
     },
     {
       "id": "133490",
