@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "133559",
+      "category": "Home Furnishing",
+      "name": "Sofa Bed",
+      "description": "Single father staying with 2 young daughters requires a sofa bed to replace the current faulty one. A sofa bed is suitable for the family due to space constraint. Father is working part-time due to health conditions and unable to afford a replacement.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Ye Jiancheng",
+        "email": "jiancheng@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 May 2024"
+    },
+    {
       "id": "133544",
       "category": "Home Furnishing",
       "name": "Leather Sofa",
@@ -806,6 +823,24 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "16 Apr 2024"
+    },
+    {
+      "id": "133560",
+      "category": "Others",
+      "name": "Glucolin Glucose",
+      "description": "Mother is a single-mother, caring for 2 young children. She had recently loss her employment and is medically unwell to secure full-time job. Her daughter is taking glucose powder for her everyday nutrition. This has helped her with her health. As she have no more income, she is facing financial constraints to purchase this item for her daughter's well-being.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Transitional Shelter",
+        "name": "Nur Hazleena Binte Roslee",
+        "email": "nur_hazleena@awwa.org.sg",
+        "phone": [
+          "65511676",
+          "65117272"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 May 2024"
     },
     {
       "id": "133555",
@@ -3233,6 +3268,24 @@
       "date": "12 Apr 2024"
     },
     {
+      "id": "133558",
+      "category": "Infant and Children Items",
+      "name": "Formula Milk - Lactogen 3",
+      "description": "Mother is a single-mother, caring for 2 young children. She had recently loss her employment and is medically unwell to secure full-time job. Therefore, she is facing financial constraints to purchase milk powder and diapers for children.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Transitional Shelter",
+        "name": "Nur Hazleena Binte Roslee",
+        "email": "nur_hazleena@awwa.org.sg",
+        "phone": [
+          "65511676",
+          "65117272"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 May 2024"
+    },
+    {
       "id": "133557",
       "category": "Infant and Children Items",
       "name": "Formula Milk - Dugro stage 4",
@@ -4838,17 +4891,6 @@
       "dimensions": "1.3L",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "133548",
-      "name": "Queen Size Bed",
-      "description": "Queen Size Mattress",
-      "location": "Changi, Flora, Loyang",
-      "validTill": "12 Jun 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
     },
     {
       "id": "133547",
