@@ -1,6 +1,57 @@
 {
   "requests": [
     {
+      "id": "133639",
+      "category": "Home Furnishing",
+      "name": "Single mattress",
+      "description": "Family of 10 in a rental flat in need of mattress as their waterpipe burst causing a flood in the unit resulting in destroying all their mattress.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Nurhidayah Binte Sazali",
+        "email": "hidayah@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 May 2024"
+    },
+    {
+      "id": "133638",
+      "category": "Home Furnishing",
+      "name": "Queen size Mattress",
+      "description": "Family of 10 in a rental flat in need of mattress as their waterpipe burst causing a flood in the unit resulting in destroying all their mattress.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Nurhidayah Binte Sazali",
+        "email": "hidayah@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 May 2024"
+    },
+    {
+      "id": "133637",
+      "category": "Home Furnishing",
+      "name": "TV",
+      "description": "Recipient is a 2 person household consisting of a Single mother and her 16year old son. The mother is the main income earner for the household. Their TV has since broken down and they lack necessary funds to replace the item. Provision of a TV would assist greatly for the mother and son.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Nurhidayah Binte Sazali",
+        "email": "hidayah@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 May 2024"
+    },
+    {
       "id": "133631",
       "category": "Home Furnishing",
       "name": "Dining table and chairs",
@@ -951,6 +1002,23 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "16 Apr 2024"
+    },
+    {
+      "id": "133640",
+      "category": "Others",
+      "name": "Mobile phone",
+      "description": "Family of 10 in a rental flat in need of mattress as their waterpipe burst causing a flood in the unit resulting in destroying their sons current mobile device used for school and communication",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Nurhidayah Binte Sazali",
+        "email": "hidayah@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 May 2024"
     },
     {
       "id": "133633",
@@ -2163,24 +2231,6 @@
         "email": "kelly.lim@montfortcare.org.sg",
         "phone": [
           "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 May 2024"
-    },
-    {
-      "id": "133607",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine (Top load)",
-      "description": "Family residing at Telok Blangah has 4 school-going children and 1 infant. They are looking for a top load 7.5kg washing machine as their current one broke down. Washing machine is necessary to keep up with the children's school uniforms. Delivery assistance is required as the family is unable to afford the delivery fees.",
-      "specifications": "7.5kg (Top load)",
-      "contact": {
-        "org": "MSF Social Service Office @ Kreta Ayer",
-        "name": "Joyce Cheong",
-        "email": "joyce_cheong@msf.gov.sg",
-        "phone": [
-          "63733981",
-          "1800-222-0000"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -4935,6 +4985,40 @@
       "date": "17 Apr 2024"
     },
     {
+      "id": "133636",
+      "category": "Mobility Aids",
+      "name": "PMD repair",
+      "description": "Recipient is a Father who is the main income earner in supporting his wife and 3 children with special needs. The father utilizes a PMD in his employment as a GrabFood delivery person. As there are some issues with the battery, he is unable to continue in the employment which affords him flexibility to meet to his home needs as well.  We are not looking for a new battery but rather someone who can assist in a potential diagnosis and repair as needed.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Nurhidayah Binte Sazali",
+        "email": "hidayah@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 May 2024"
+    },
+    {
+      "id": "133635",
+      "category": "Mobility Aids",
+      "name": "Hospital bed",
+      "description": "Elderly female 85y/o has a fear of sleeping on the bed due to previous fall which scared her as injuries were sustained from it. Having a hospital bed will allow her to sleep on the bed rather than the floor.",
+      "specifications": null,
+      "contact": {
+        "org": "FRCS Family Service Centre",
+        "name": "Angel Lone",
+        "email": "angel@frcsfsc.sg",
+        "phone": [
+          "67799488"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 May 2024"
+    },
+    {
       "id": "133632",
       "category": "Mobility Aids",
       "name": "Motorised wheelchair (120kg)",
@@ -5545,28 +5629,6 @@
       "validTill": "21 May 2024",
       "ageInYears": 4,
       "dimensions": "51x60x127",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "133629",
-      "name": "Ikea stuva large drawer",
-      "description": "Large drawer from IKEA. Large capacity. Some cosmetic damage (scratches, paint loss) on top of drawer, as seen in photo. Does not include contents of drawer. \nPlease contact by text (NO WhatsApp) or email.",
-      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-      "validTill": "21 May 2024",
-      "ageInYears": 4,
-      "dimensions": "51x90x48",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "133627",
-      "name": "Ikea stuva large drawer",
-      "description": "Large drawer from IKEA. Large capacity. Some minor scratches/paint loss in less visible areas. Does not include bedding. \nPlease contact by text (NO WhatsApp) or email.",
-      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-      "validTill": "21 May 2024",
-      "ageInYears": 4,
-      "dimensions": "51x90x48",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
