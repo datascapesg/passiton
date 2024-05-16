@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "133726",
+      "category": "Home Furnishing",
+      "name": "Window Grilles",
+      "description": "Client (survivor of domestic violence) is seeking help to replace the window grilles in her rental flat. For her current window grilles, the horizontal poles can be removed and there were 2 occasions where she found that her window poles came loose. This has impacted her psychological safety which limits her going out. She is seeking square window grilles (supply and install) to increase her sense of safety in her home.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
+        "name": "Eunice Lim",
+        "email": "eunicelim@fycs.org",
+        "phone": [
+          "67719521",
+          "67625215"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 May 2024"
+    },
+    {
       "id": "133717",
       "category": "Home Furnishing",
       "name": "King Sized Bed with bedframe",
@@ -41,24 +59,6 @@
       "name": "wardrobe",
       "description": "Single mother with three young children requesting for wardrobe to keep their clothings in. Their old wardrobe is rundown and the door has come off. Mother is currently working as a cleaner to support family.",
       "specifications": null,
-      "contact": {
-        "org": "Montfort Care - @27 Family Service Centre",
-        "name": "Muhammad Shahideen",
-        "email": "shahideen.m@montfortcare.org.sg",
-        "phone": [
-          "96585479",
-          "62708327"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 May 2024"
-    },
-    {
-      "id": "133672",
-      "category": "Home Furnishing",
-      "name": "Mattress",
-      "description": "Single mother with three young children requesting for a queen sized bed. Their current bed has already worn down and has springs coming out of it. Mother is currently working as a cleaner to support family.",
-      "specifications": "Queen size",
       "contact": {
         "org": "Montfort Care - @27 Family Service Centre",
         "name": "Muhammad Shahideen",
@@ -4144,6 +4144,78 @@
       "date": "15 Apr 2024"
     },
     {
+      "id": "133725",
+      "category": "Infant and Children Items",
+      "name": "Pampers pants (Brand: Huggies Size: L)",
+      "description": "Client (M/21) and spouse (F/21), are young parents for their 10 month old daughter. Client is awaiting enlistment and doing odd jobs while his wife is a full-time caregiver for their daughter. The family is staying in a two-room rental unit in Bedok.(A)",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Bedok North",
+        "name": "Low Kim Yong",
+        "email": "lowkimyong@thkmc.org.sg",
+        "phone": [
+          "81883314",
+          "64491440"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 May 2024"
+    },
+    {
+      "id": "133724",
+      "category": "Infant and Children Items",
+      "name": "Baby Milk (Brand: Grow stage 1)",
+      "description": "Client (M/21) and spouse (F/21), are young parents for their 10 month old daughter. Client is awaiting enlistment and doing odd jobs while his wife is a full-time caregiver for their daughter. The family is staying in a two-room rental unit in Bedok.(A)",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Bedok North",
+        "name": "Low Kim Yong",
+        "email": "lowkimyong@thkmc.org.sg",
+        "phone": [
+          "81883314",
+          "64491440"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 May 2024"
+    },
+    {
+      "id": "133723",
+      "category": "Infant and Children Items",
+      "name": "Milk Formula: Gain IQ (Similac)",
+      "description": "Client is a 45 year old widow and mother to four children (22M, 20M, 19F, and 4M). Her husband had passed from cancer some time in March. Client had been a homemaker since marriage and is currently not employed. Her two sons are undergoing NS while her second daughter is in ITE. The youngest son is yet to be enrolled in childcare/kindergarten. (A)",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Bedok North",
+        "name": "Low Kim Yong",
+        "email": "lowkimyong@thkmc.org.sg",
+        "phone": [
+          "81883314",
+          "64491440"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 May 2024"
+    },
+    {
+      "id": "133722",
+      "category": "Infant and Children Items",
+      "name": "4 Packets Huggies Pull-Up pants (XL)",
+      "description": "Client is a 45 year old widow and mother to four children (22M, 20M, 19F, and 4M). Her husband had passed from cancer some time in March. Client had been a homemaker since marriage and is currently not employed. Her two sons are undergoing NS while her second daughter is in ITE. The youngest son is yet to be enrolled in childcare/kindergarten. (A)",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Bedok North",
+        "name": "Low Kim Yong",
+        "email": "lowkimyong@thkmc.org.sg",
+        "phone": [
+          "81883314",
+          "64491440"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 May 2024"
+    },
+    {
       "id": "133710",
       "category": "Infant and Children Items",
       "name": "Baby safety gate and babyproofing items such as corner table bumper, door bumper, cabinet lock",
@@ -6238,6 +6310,28 @@
       "dimensions": "120cmLx50cmWx100cmH",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "133721",
+      "name": "Toys for 3 to 6 years old (girl)",
+      "description": "Toys for girls 3 - 6 years old\n\nAll items are cleaned before sending over.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "15 Jun 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "133720",
+      "name": "Clothes for girls 5-6 years",
+      "description": "Clothes for girls 5-6 years old\n\nAll items will be washed before sending over.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "15 Jun 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "133719",
