@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "133717",
+      "category": "Home Furnishing",
+      "name": "King Sized Bed with bedframe",
+      "description": "Family consists of mother and 4 children ranging from 6 to 20 years old, living in a 2-room rental flat. Together, they sleep on a well-used Queen-sized and single-sized bed, and sometimes sleep on the sofa as well. Mother is not working as she is on long-term MC due to her medical condition. Family hopes to have a king-sized bed to have a bigger space for sleep and rest.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Quak Mei Qing",
+        "email": "meiqing@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 May 2024"
+    },
+    {
       "id": "133696",
       "category": "Home Furnishing",
       "name": "Shoe cabinet",
@@ -6221,6 +6238,28 @@
       "dimensions": "120cmLx50cmWx100cmH",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "133719",
+      "name": "Clothes for girls 1.5 to 2 years old",
+      "description": "Clothes for girls 1.5 to 2 years old.\n\nAll items will be washed before sending over.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "15 Jun 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "133718",
+      "name": "Clothes for girls 1-2 years",
+      "description": "Clothes for girls 1-2 years old\n\nAll items will be washed before sending over.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "15 Jun 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "133716",
