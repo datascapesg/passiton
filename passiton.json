@@ -898,23 +898,6 @@
       "date": "19 Apr 2024"
     },
     {
-      "id": "132784",
-      "category": "Home Furnishing",
-      "name": "Double decker bed",
-      "description": "Elderly brothers in their late 60s who was previously homeless recently got their rental flat from HDB. They experience financial difficulties and is unable to afford home appliances.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Yvette Yee",
-        "email": "yyee@childrensociety.org.sg",
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Apr 2024"
-    },
-    {
       "id": "133770",
       "category": "Others",
       "name": "Handphone",
@@ -2077,42 +2060,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "19 Apr 2024"
-    },
-    {
-      "id": "132802",
-      "category": "Others",
-      "name": "Washing Machine",
-      "description": "Client is a terminally ill patient with dementia and cancer. He requires a washing machine for his hygiene needs urgently. Family has financial difficulties and are unable to afford a washing machine for him. Family will need support with transport of the washing machine (preferably with installation if possible, otherwise, transport and a washing machine in good condition is also okay). Kindly contact Amanda social worker at my work mobile number at 84282545.",
-      "specifications": "Washing machine 7kg top load",
-      "contact": {
-        "org": "Singapore Cancer Society",
-        "name": "Amanda Tay",
-        "email": "amanda_tay@singaporecancersociety.org.sg",
-        "phone": [
-          "64215886",
-          "62219578"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Apr 2024"
-    },
-    {
-      "id": "132788",
-      "category": "Others",
-      "name": "Adult diapers (size XXL)",
-      "description": "Client is a single mother and sole breadwinner. Her elderly parents have multiple health conditions and unable to work.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Cheng San 445",
-        "name": "Joyce Ng",
-        "email": "joyceng@allkin.org.sg",
-        "phone": [
-          "64546678",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Apr 2024"
     },
     {
       "id": "133799",
@@ -3913,42 +3860,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "21 Apr 2024"
-    },
-    {
-      "id": "132807",
-      "category": "Electrical Home Appliances",
-      "name": "Upright Vacuum Cleaner Fan (20-inch)",
-      "description": "Client is a 51 year old divorcee who just got allocated her rental flat. Due to her health conditions, Client has difficulties sustaining employment and is unable to purchase an Upright Vacuum Cleaner Fan (20-inch).Please WhatsApp Rina at 8666 1352 or email to rinaprasad@thkmc.org.sg to liaise.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Lynette Tan",
-        "email": "lynettetan@thkmc.org.sg",
-        "phone": [
-          "64961272",
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Apr 2024"
-    },
-    {
-      "id": "132806",
-      "category": "Electrical Home Appliances",
-      "name": "Standing Vacuum Cleaner",
-      "description": "Client is a 51 year old divorcee who just got allocated her rental flat. Due to her health conditions, Client has difficulties sustaining employment and is unable to purchase a Standing Vacuum Cleaner. Please WhatsApp Rina at 8666 1352 or email to rinaprasad@thkmc.org.sg to liaise.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Lynette Tan",
-        "email": "lynettetan@thkmc.org.sg",
-        "phone": [
-          "64961272",
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Apr 2024"
     },
     {
       "id": "133778",
@@ -6116,6 +6027,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "133806",
+      "name": "Digital TV Set-top box",
+      "description": "2 sets of Digital set-top box for TV watching TV would like to give away plus installation.",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "15 Jun 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "133802",
       "name": "Smart TV 51 inch",
       "description": "Smart Tv with diagonal measurement 130cm/51 inches. No defects on the screen image. Cannot connect to wifi network, must be connected to internet box directly with Ethernet cable (provided), also no battery compartment lid for remote. \nPlease contact by text (NO WhatsApp) or email.",
@@ -6699,6 +6621,17 @@
       "category": "Kitchen Utility Items"
     },
     {
+      "id": "133808",
+      "name": "Soft travel neck pillow",
+      "description": "8 nos of new soft travel neck pillows would like to give away",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "15 Jun 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Leisure and Healthy Lifestyle"
+    },
+    {
       "id": "133803",
       "name": "Collapsable bathtub",
       "description": "Bathtub that folds for storage. Comes with tube for draining and lid. Depth of bath 51cm and 18cm when folded.\nPlease contact by text (NO WhatsApp) or by email.",
@@ -6873,6 +6806,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "133807",
+      "name": "A4 size File Binder",
+      "description": "4 nos of A4 size file binder would like to recycle.",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "15 Jun 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "133643",
