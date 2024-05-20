@@ -1,6 +1,41 @@
 {
   "requests": [
     {
+      "id": "133844",
+      "category": "Home Furnishing",
+      "name": "Super Single Mattress",
+      "description": "Family is a single-income household and the client's mattress was damaged due to water condensation from unit below. The client is unable to afford a new mattress due to low income.",
+      "specifications": "Super Single",
+      "contact": {
+        "org": "Lakeside Family Centre - Jurong West",
+        "name": "Felicia Wong",
+        "email": "felicia-wong@lakeside.org.sg",
+        "phone": [
+          "65671908"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 May 2024"
+    },
+    {
+      "id": "133843",
+      "category": "Home Furnishing",
+      "name": "Mattress",
+      "description": "Hi, an elderly man who has only left a month to live has requested for an extra mattress as his current mattress is too thin and hurting his bones. Client is very skinny now. Appreciate a single size mattress urgently. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "New Hope Community Services",
+        "name": "Lee Hui Xian",
+        "email": "huixian@newhopecs.org.sg",
+        "phone": [
+          "80488854",
+          "63059620"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 May 2024"
+    },
+    {
       "id": "133798",
       "category": "Home Furnishing",
       "name": "2 door cupboard",
@@ -6810,6 +6845,17 @@
       "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
       "validTill": "08 Jun 2024",
       "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
+    },
+    {
+      "id": "133845",
+      "name": "Hospital Bed & AirMattress",
+      "description": "Electronic Hospital bed to give away. Have air mattress and pump too.\n\nKindly contact me",
+      "location": null,
+      "validTill": "08 Jun 2024",
+      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
