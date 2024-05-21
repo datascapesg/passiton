@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "133875",
+      "category": "Home Furnishing",
+      "name": "Kitchen Shelf Rack",
+      "description": "Client is a single mother of a 1-year-old and is currently unemployed. She is moving into her new rental flat and needs a kitchen shelf rack to place her appliances (e.g., microwave) and other items.",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Sarah Bethany Rozario",
+        "email": "sarah.rozario@reach.org.sg",
+        "phone": [
+          "68010729",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 May 2024"
+    },
+    {
+      "id": "133873",
+      "category": "Home Furnishing",
+      "name": "Foldable Mattress & Wardrobe Needed!",
+      "description": "Single parent of a school-going child is seeking a foldable mattress and a wardrobe for the household as their current ones are in poor condition.",
+      "specifications": "Foldable Mattress and Wardrobe",
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Farahlina Tan",
+        "email": "farahlina_tan@awwa.org.sg",
+        "phone": [
+          "65119458",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 May 2024"
+    },
+    {
       "id": "133851",
       "category": "Home Furnishing",
       "name": "3 door wardrobe with mirror",
@@ -2130,6 +2166,24 @@
       "date": "22 Apr 2024"
     },
     {
+      "id": "133876",
+      "category": "Medical Aids",
+      "name": "Adult diapers",
+      "description": "Client is a student at a special education school and is diagnosed with intellectual disability. Father is the sole breadwinner and has multiple dependents in the household.  Mother is suspected to have mental health illnesss.  Family is as such financially disadvantaged and father has expressed some difficulties affording the cost of diapers for client since she will likely require it for long (client cannot be toilet trained due to her cognitive level).  We would like to request for adult M size diapers as the child is quite overweight.",
+      "specifications": "waist 85cm (33\") Pull Up diapers",
+      "contact": {
+        "org": "MINDSville @ Napiri",
+        "name": "Annabelle Lee",
+        "email": "annabelle.lee@minds.org.sg",
+        "phone": [
+          "63877662ext29371",
+          "63877662"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 May 2024"
+    },
+    {
       "id": "133833",
       "category": "Medical Aids",
       "name": "diapers",
@@ -4039,6 +4093,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "23 Apr 2024"
+    },
+    {
+      "id": "133874",
+      "category": "Electrical Home Appliances",
+      "name": "Request for a Television for a Family!",
+      "description": "Single parent family with 3 school-going children are seeking a television for their home as their current one is faulty.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Farahlina Tan",
+        "email": "farahlina_tan@awwa.org.sg",
+        "phone": [
+          "65119458",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 May 2024"
     },
     {
       "id": "133865",
@@ -6820,17 +6892,6 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
-    },
-    {
-      "id": "133794",
-      "name": "Geratric Chair",
-      "description": "Geriatric Chair for donation along with attached table. In good condition although has been in use and has normal wear.",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "18 Jun 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
     },
     {
       "id": "133793",
