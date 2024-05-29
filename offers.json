@@ -55,6 +55,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "134085",
+    "name": "Sliding Door Cupboard",
+    "description": "Working condition sliding door cupboard",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "31 May 2024",
+    "ageInYears": 4,
+    "dimensions": "H198, D60, W120",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "134083",
     "name": "Desk",
     "description": "Desk with drawers",
@@ -77,18 +88,7 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "134076",
-    "name": "Queen bed frame with spring mattress",
-    "description": "Solid wood queen sized bed frame with spring mattress. In very good condition, very gently used in a guest room. Spring mattress used with a protector at all times, no stains at all.",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "10 Jun 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "134075",
+    "id": "134087",
     "name": "Single bed frame and spring mattress",
     "description": "Single size solid wood bed frame and spring mattress.  In very good condition, mattress always used with a protector and has no stains.",
     "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
@@ -680,6 +680,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "134086",
+    "name": "Super Single Mattresses",
+    "description": "2 super single mattresses, very good condition",
+    "location": null,
+    "validTill": "31 May 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "133988",
