@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "134182",
+      "category": "Others",
+      "name": "Smart Handphone",
+      "description": "Client (F/15) comes from a single parent background is experiencing neglect and financial difficulties. She will require a handphone so that she is contactable and her whereabouts is known.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Syamirul Azim",
+        "email": "syamirulazim@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "31 May 2024"
+    },
+    {
       "id": "134179",
       "category": "Others",
       "name": "Digital Weighing Scale Machine",
@@ -6988,17 +7005,6 @@
       "location": null,
       "validTill": "03 Jun 2024",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "134107",
-      "name": "Ikea double bed frame and mattress",
-      "description": "Ikea double bed frame and mattress",
-      "location": null,
-      "validTill": "07 Jun 2024",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
