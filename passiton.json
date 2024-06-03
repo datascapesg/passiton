@@ -4751,6 +4751,23 @@
       "date": "03 May 2024"
     },
     {
+      "id": "134264",
+      "category": "Electrical Home Appliances",
+      "name": "Fan",
+      "description": "Member is unemployed due to his illness and has difficulty getting by financially. He recently got a one-room flat but is unable to afford a fan. In Singapore's sweltering heat, he hopes to get a fan to cool himself down.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Amanda Chan",
+        "email": "amanda@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Jun 2024"
+    },
+    {
       "id": "134263",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -6634,6 +6651,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "134265",
+      "name": "wood study table with wood chair",
+      "description": "good condition",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "30 Jun 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "134261",
       "name": "Washing Machine Rack/Shelfing",
       "description": "Washing Machine Rack Toilet Rack Bathroom Shelving Bathroom Shelf Rack Bathroom Accessories Toilet Accessories",
@@ -6822,17 +6850,6 @@
     },
     {
       "id": "134213",
-      "name": "Grey Sofa",
-      "description": "IKEA 3-seater sofa that can be converted to a bed",
-      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-      "validTill": "10 Jun 2024",
-      "ageInYears": 3,
-      "dimensions": "250cmW x92cmD x 65cmH",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "134220",
       "name": "Grey Sofa",
       "description": "IKEA 3-seater sofa that can be converted to a bed",
       "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
