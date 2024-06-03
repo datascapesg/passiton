@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "134271",
+      "category": "Others",
+      "name": "Sunglasses",
+      "description": "Client, a 76 year old Chinese widow, lodging at his friend's place and also rough sleeping around AMK and Hougang. Client suffers from kidney and heart issues. He is estranged from his family. Client will be undergoing eye operation soon and would like a pair of sunglasses that would aid in his recovery.",
+      "specifications": null,
+      "contact": {
+        "org": "THK CCMS @ AMK",
+        "name": "Toh Yen Lin",
+        "email": "toh.yenlin@thkmc.org.sg",
+        "phone": [
+          "65564833"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Jun 2024"
+    },
+    {
       "id": "134267",
       "category": "Others",
       "name": "Proskin Normal Pull Up Pants XL",
@@ -3717,6 +3734,23 @@
       "date": "03 May 2024"
     },
     {
+      "id": "134269",
+      "category": "Home Furnishing",
+      "name": "Single-size Steel Bed frame (with mattress, if possible)",
+      "description": "Client, a 66-year-old divorced Chinese male, staying alone in a 1-room rental HDB flat. He suffers from end-stage kidney failure, hence, undergoing dialysis. He also suffers from diabetes, coronary heart disease, and other chronic conditions. He is unemployed and has no active caregiver. Currently, he sleeps with two mattresses stacked on top of one another. If he can get a donated steel bed frame with mattress, it will improve his quality of life and reduce his fall risk while getting up from his bed after resting.",
+      "specifications": null,
+      "contact": {
+        "org": "THK CCMS @ AMK",
+        "name": "Toh Yen Lin",
+        "email": "toh.yenlin@thkmc.org.sg",
+        "phone": [
+          "65564833"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Jun 2024"
+    },
+    {
       "id": "134266",
       "category": "Home Furnishing",
       "name": "Big Wardrobe",
@@ -6667,6 +6701,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "134270",
+      "name": "matress",
+      "description": "queen size",
+      "location": null,
+      "validTill": "03 Jul 2024",
+      "ageInYears": 3,
+      "dimensions": "152X190 X1",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "134268",
       "name": "Chairs",
       "description": "4 X Chairs (Dining)",
@@ -6751,17 +6796,6 @@
       "validTill": "29 Jun 2024",
       "ageInYears": 4,
       "dimensions": "226 X 216 X 60 cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "134195",
-      "name": "IKEA loft bed",
-      "description": "Ilea loft bed, used. Not perfect condition but could be touched up with a little paint. No mattress. Unit includes bed (top), drawers, study desk, wardrobe.",
-      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-      "validTill": "10 Jun 2024",
-      "ageInYears": 4,
-      "dimensions": "210x190x16",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
