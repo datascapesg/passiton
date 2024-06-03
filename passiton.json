@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "134236",
+      "category": "Others",
+      "name": "TENA PROskin Plus Pants Normal Adult Diaper Adult Diaper Size XL",
+      "description": "Client is 58 year old female who was diagnosed with stomach cancer. She is wheelchair bound and recently underwent spine surgery. She is unemployed and sister is the sole breadwinner. Caregiver is struggling to cope with expenses of consumables. Client requires XL Adult Diapers.",
+      "specifications": "2 boxes",
+      "contact": {
+        "org": "AIN Society",
+        "name": "Nur'Ain Binte Mohamed Said",
+        "email": "nurain@ainsociety.org.sg",
+        "phone": [
+          "68485116",
+          "68485166"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Jun 2024"
+    },
+    {
       "id": "134221",
       "category": "Others",
       "name": "Instant Oat (900g)",
@@ -121,24 +139,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": false,
-      "date": "31 May 2024"
-    },
-    {
-      "id": "134179",
-      "category": "Others",
-      "name": "Digital Weighing Scale Machine",
-      "description": "An elderly who is single and she is living alone. Client is visiting a dietitian at the hospital in view of her medical condition. Her dietitian recommended the senior to have a weighing scale in monitoring her body weight.",
-      "specifications": "Nil",
-      "contact": {
-        "org": "Lions Befrienders Service Association (Singapore)",
-        "name": "Chow Ching Hua",
-        "email": "chinghua.chow@lb.org.sg",
-        "phone": [
-          "66814941",
-          "63758600"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
       "date": "31 May 2024"
     },
     {
@@ -1587,6 +1587,23 @@
       "date": "03 May 2024"
     },
     {
+      "id": "134235",
+      "category": "Infant and Children Items",
+      "name": "Diapers (size L drypers wee wee dry tapes)",
+      "description": "Family consist of a single mother and 4 children (10,6,4 and 3). Mother has just started working full-time and is currently unable to purchase milk and diapers to prioritize other basic needs. Children requires diapers size L (drypers wee wee dry tapes). The donation would support the family during these difficult period.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Punggol 616",
+        "name": "Nur Fatin Athirah Binte Mohamad Husaini",
+        "email": "fatinathirah@allkin.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Jun 2024"
+    },
+    {
       "id": "134233",
       "category": "Infant and Children Items",
       "name": "Stroller",
@@ -1649,7 +1666,7 @@
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
         "name": "Cassandra Chia",
-        "email": "cassandrachia@amkfsc.org.sg",
+        "email": "cassandrachia@allkin.org.sg",
         "phone": [
           "64535349"
         ]
@@ -1896,7 +1913,7 @@
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
         "name": "Tasya Puspita Maulany",
-        "email": "tasya@amkfsc.org.sg",
+        "email": "tasya@allkin.org.sg",
         "phone": [
           "64535349"
         ]
@@ -1913,7 +1930,7 @@
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
         "name": "Cassandra Chia",
-        "email": "cassandrachia@amkfsc.org.sg",
+        "email": "cassandrachia@allkin.org.sg",
         "phone": [
           "64535349"
         ]
@@ -2072,7 +2089,7 @@
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
         "name": "Cassandra Chia",
-        "email": "cassandrachia@amkfsc.org.sg",
+        "email": "cassandrachia@allkin.org.sg",
         "phone": [
           "64535349"
         ]
@@ -3145,7 +3162,7 @@
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
         "name": "Cassandra Chia",
-        "email": "cassandrachia@amkfsc.org.sg",
+        "email": "cassandrachia@allkin.org.sg",
         "phone": [
           "64535349"
         ]
@@ -3300,7 +3317,7 @@
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
         "name": "Tasya Puspita Maulany",
-        "email": "tasya@amkfsc.org.sg",
+        "email": "tasya@allkin.org.sg",
         "phone": [
           "64535349"
         ]
@@ -3692,7 +3709,7 @@
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
         "name": "Cassandra Chia",
-        "email": "cassandrachia@amkfsc.org.sg",
+        "email": "cassandrachia@allkin.org.sg",
         "phone": [
           "64535349"
         ]
@@ -3709,7 +3726,7 @@
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
         "name": "Cassandra Chia",
-        "email": "cassandrachia@amkfsc.org.sg",
+        "email": "cassandrachia@allkin.org.sg",
         "phone": [
           "64535349"
         ]
@@ -4062,7 +4079,7 @@
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
         "name": "Cassandra Chia",
-        "email": "cassandrachia@amkfsc.org.sg",
+        "email": "cassandrachia@allkin.org.sg",
         "phone": [
           "64535349"
         ]
@@ -4079,7 +4096,7 @@
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
         "name": "Cassandra Chia",
-        "email": "cassandrachia@amkfsc.org.sg",
+        "email": "cassandrachia@allkin.org.sg",
         "phone": [
           "64535349"
         ]
@@ -4166,7 +4183,7 @@
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
         "name": "Cassandra Chia",
-        "email": "cassandrachia@amkfsc.org.sg",
+        "email": "cassandrachia@allkin.org.sg",
         "phone": [
           "64535349"
         ]
@@ -4183,7 +4200,7 @@
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
         "name": "Cassandra Chia",
-        "email": "cassandrachia@amkfsc.org.sg",
+        "email": "cassandrachia@allkin.org.sg",
         "phone": [
           "64535349"
         ]
@@ -4218,7 +4235,7 @@
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
         "name": "Cassandra Chia",
-        "email": "cassandrachia@amkfsc.org.sg",
+        "email": "cassandrachia@allkin.org.sg",
         "phone": [
           "64535349"
         ]
@@ -4306,7 +4323,7 @@
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
         "name": "Cassandra Chia",
-        "email": "cassandrachia@amkfsc.org.sg",
+        "email": "cassandrachia@allkin.org.sg",
         "phone": [
           "64535349"
         ]
@@ -4323,7 +4340,7 @@
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
         "name": "Cassandra Chia",
-        "email": "cassandrachia@amkfsc.org.sg",
+        "email": "cassandrachia@allkin.org.sg",
         "phone": [
           "64535349"
         ]
@@ -4464,7 +4481,7 @@
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
         "name": "Cassandra Chia",
-        "email": "cassandrachia@amkfsc.org.sg",
+        "email": "cassandrachia@allkin.org.sg",
         "phone": [
           "64535349"
         ]
@@ -4721,23 +4738,6 @@
       "date": "31 May 2024"
     },
     {
-      "id": "134146",
-      "category": "Electrical Home Appliances",
-      "name": "Blender",
-      "description": "Family of 10 is in need of a blender as the one the currently have is unable to start anymore. They are currently unable to purchase a new one due to some financial issues.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Nurhidayah Binte Sazali",
-        "email": "hidayah@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 May 2024"
-    },
-    {
       "id": "134144",
       "category": "Electrical Home Appliances",
       "name": "Washing machine",
@@ -4832,7 +4832,7 @@
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
         "name": "Muhammad Danial Bin Mazlan",
-        "email": "danialmazlan@amkfsc.org.sg",
+        "email": "danialmazlan@allkin.org.sg",
         "phone": [
           "65536643",
           "64535349"
@@ -4850,7 +4850,7 @@
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
         "name": "Muhammad Danial Bin Mazlan",
-        "email": "danialmazlan@amkfsc.org.sg",
+        "email": "danialmazlan@allkin.org.sg",
         "phone": [
           "65536643",
           "64535349"
@@ -5061,7 +5061,7 @@
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
         "name": "Cassandra Chia",
-        "email": "cassandrachia@amkfsc.org.sg",
+        "email": "cassandrachia@allkin.org.sg",
         "phone": [
           "64535349"
         ]
@@ -5235,7 +5235,7 @@
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
         "name": "Cassandra Chia",
-        "email": "cassandrachia@amkfsc.org.sg",
+        "email": "cassandrachia@allkin.org.sg",
         "phone": [
           "64535349"
         ]
@@ -5286,7 +5286,7 @@
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
         "name": "Cassandra Chia",
-        "email": "cassandrachia@amkfsc.org.sg",
+        "email": "cassandrachia@allkin.org.sg",
         "phone": [
           "64535349"
         ]
@@ -5444,7 +5444,7 @@
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
         "name": "Nur Hazirah Bte Salehudin",
-        "email": "nurhazirah@amkfsc.org.sg",
+        "email": "nurhazirah@allkin.org.sg",
         "phone": [
           "64511252",
           "64535349"
@@ -6235,7 +6235,7 @@
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
         "name": "Nur Hazirah Bte Salehudin",
-        "email": "nurhazirah@amkfsc.org.sg",
+        "email": "nurhazirah@allkin.org.sg",
         "phone": [
           "64511252",
           "64535349"
@@ -6354,17 +6354,6 @@
   ],
   "offers": [
     {
-      "id": "134208",
-      "name": "Baby rompers",
-      "description": "15 pieces of baby rompers.\n14 x 9m\n1 x 12m\nUsed condition.",
-      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-      "validTill": "02 Jul 2024",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Attires/Clothings"
-    },
-    {
       "id": "133989",
       "name": "skechers shoes",
       "description": "good as new skechers shoes",
@@ -6418,6 +6407,17 @@
       "dimensions": "14cm diameter, 22cm height",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "134237",
+      "name": "Bed Queen size",
+      "description": "Queen size bed with mattress and headboard. Good condition, always used a mattress protector.",
+      "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+      "validTill": "16 Jun 2024",
+      "ageInYears": 4,
+      "dimensions": "189 x 152 x 107",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "134207",
