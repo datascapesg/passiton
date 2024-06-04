@@ -1,16 +1,5 @@
 [
   {
-    "id": "133989",
-    "name": "skechers shoes",
-    "description": "good as new skechers shoes",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "24 Jun 2024",
-    "ageInYears": 1,
-    "dimensions": "size 8",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "134210",
     "name": "Refridgerator",
     "description": "4 ticks energy saving, 2 door fridge.",
@@ -53,6 +42,17 @@
     "dimensions": "14cm diameter, 22cm height",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "134290",
+    "name": "Storage boxes",
+    "description": "Muji storage boxes 2. Can stack\nWhatsApp if keen",
+    "location": null,
+    "validTill": "04 Jul 2024",
+    "ageInYears": 1,
+    "dimensions": "65x40x23",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "134270",
@@ -106,17 +106,6 @@
     "validTill": "17 Jun 2024",
     "ageInYears": 4,
     "dimensions": "180cm x 190cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "134274",
-    "name": "Study desk",
-    "description": "wooden study desk with attached shelves",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "03 Jul 2024",
-    "ageInYears": 2,
-    "dimensions": "W120cm x D70cm x H143cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -473,17 +462,6 @@
     "category": "Kitchen Utility Items"
   },
   {
-    "id": "133693",
-    "name": "Cups and glasses",
-    "description": "Extra cups and glasses, some brand new. In good condition.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "14 Jun 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Kitchen Utility Items"
-  },
-  {
     "id": "134121",
     "name": "Stand up piano",
     "description": "Second hand piano",
@@ -658,28 +636,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
-  },
-  {
-    "id": "133969",
-    "name": "Boy sports shoe",
-    "description": "Size 39\nAble to meet at common venue",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "23 Jun 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "133967",
-    "name": "Girl sports shoes",
-    "description": "US6\nIn good condition.\nAble to meet at common convenient place",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "23 Jun 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
   },
   {
     "id": "133946",
