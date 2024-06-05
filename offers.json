@@ -33,6 +33,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "134325",
+    "name": "standing fan",
+    "description": "fan",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "09 Jun 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "134310",
     "name": "cabinet",
     "description": "cabinet",
@@ -60,17 +71,6 @@
     "description": "Dark brown corner table unit comprising corner table and separate 4-drawer unit on wheels \n\nIn good condition, minor scuff marks along table edge",
     "location": null,
     "validTill": "30 Jun 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "134295",
-    "name": "Queen-size Bed with Mattress",
-    "description": "This bed will only be available for collection from 2nd August-5th August. \nQueen-size from FortyTwo. \nThere is some staining on the mattress due to age.",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "03 Aug 2024",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -194,17 +194,6 @@
     "validTill": "15 Jun 2024",
     "ageInYears": 4,
     "dimensions": "1.4M x 0.8M (wide)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "134213",
-    "name": "Grey Sofa",
-    "description": "IKEA 3-seater sofa that can be converted to a bed",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "10 Jun 2024",
-    "ageInYears": 3,
-    "dimensions": "250cmW x92cmD x 65cmH",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -614,6 +603,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "134326",
+    "name": "drawers",
+    "description": "drawers",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "09 Jun 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "133946",
