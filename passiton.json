@@ -4047,23 +4047,6 @@
       "date": "04 Jun 2024"
     },
     {
-      "id": "134299",
-      "category": "Home Furnishing",
-      "name": "Clothes Hangers",
-      "description": "Client is low income mother with intellectual disability who is caring for her 3 children. She requires some clothes hangers to be able to hang up her clothes for ease of keeping her home neat and tidy.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Family Service Centre - Tampines",
-        "name": "Han Wen Ting",
-        "email": "hanwenting@mws.sg",
-        "phone": [
-          "67872001"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Jun 2024"
-    },
-    {
       "id": "131855",
       "category": "Home Furnishing",
       "name": "Standing kitchen cabinet",
@@ -4955,6 +4938,24 @@
       "date": "06 May 2024"
     },
     {
+      "id": "134342",
+      "category": "Electrical Home Appliances",
+      "name": "15kg and Above Top Load Washing Machine",
+      "description": "Epworth HomeSweetHome is an all-boys therapeutic group home. We would like to request a 15kg and above top load washing machine for our boys' laundry.\n\nIt can be new or used so long as it is in good, clean and hygienic condition.",
+      "specifications": "15kg and above top load washing machine",
+      "contact": {
+        "org": "Epworth Community services - Home Sweet Home",
+        "name": "Tiong Poh Eng",
+        "email": "poheng@epworth.sg",
+        "phone": [
+          "65622211",
+          "67153418"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Jun 2024"
+    },
+    {
       "id": "134327",
       "category": "Electrical Home Appliances",
       "name": "TV",
@@ -5124,23 +5125,6 @@
         "email": "jiancheng@sccfsc.org.sg",
         "phone": [
           "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Jun 2024"
-    },
-    {
-      "id": "134256",
-      "category": "Electrical Home Appliances",
-      "name": "Home Phone Set",
-      "description": "Client has been given subsidized landline at home but does not have a home phone to link it to. It would be convenient for elderly client to reach his wife at home when he's out to work.",
-      "specifications": null,
-      "contact": {
-        "org": "FRCS Family Service Centre",
-        "name": "Angel Lone",
-        "email": "angel@frcsfsc.sg",
-        "phone": [
-          "67799488"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -6890,6 +6874,17 @@
   ],
   "offers": [
     {
+      "id": "134341",
+      "name": "Panasonic cubie oven",
+      "description": "Panasonic NU-SC180BYPQ\nCan steam and bake. There is some problem with the steam function. But baking cakes and bread is perfectly OK.",
+      "location": "Boon Lay, Jurong, Tuas",
+      "validTill": "05 Jul 2024",
+      "ageInYears": 2,
+      "dimensions": "40.4 cm x 40.4 cm x 37.6 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "134153",
       "name": "Sterra Water Dispenser",
       "description": "Sterra Water Dispenser \nRetail :$1.6k \nCold / warm / normal temp all working\nHot water not working \nUsed for 2 years\nTankless , need to do piping\n\nI wont send to VWO/ needy nor pay for any delivery fee. Collection at Canberra Plaza",
@@ -6921,6 +6916,17 @@
       "dimensions": "14cm diameter, 22cm height",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "134343",
+      "name": "Bed frame with mattress",
+      "description": "Comes with bed protector sheet \nBed condition is relatively new as it is well taken care of",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "18 Jun 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "134329",
@@ -7163,6 +7169,39 @@
       "dimensions": "76x76x85cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "134340",
+      "name": "Large football table",
+      "description": "Large football table. Lots of fun for both children  and adults. Dimensions: 146cm (length) x 110cm (width) x 88cm (height)",
+      "location": null,
+      "validTill": "05 Jul 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "134339",
+      "name": "Dinosaur figurines",
+      "description": "Various dinosaur figurines in various sizes (from Schleich and other brands)",
+      "location": null,
+      "validTill": "05 Jul 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "134338",
+      "name": "Animal figurines",
+      "description": "Various animal figurines (from Schleich and other brands)",
+      "location": null,
+      "validTill": "05 Jul 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "134337",
