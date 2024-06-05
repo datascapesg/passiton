@@ -1,5 +1,16 @@
 [
   {
+    "id": "134347",
+    "name": "Air Cooler",
+    "description": "Air Cooler that operates with water tank.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "14 Jun 2024",
+    "ageInYears": 4,
+    "dimensions": "65cm x 26cm x 36cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "134341",
     "name": "Panasonic cubie oven",
     "description": "Panasonic NU-SC180BYPQ\nCan steam and bake. There is some problem with the steam function. But baking cakes and bread is perfectly OK.",
@@ -264,28 +275,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "133943",
-    "name": "Coffee Table with Glass Top (1.1m by 0.56m)",
-    "description": "Beige color Coffee Table with glass top. Arrange date and Time to deliver to destination",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "22 Jun 2024",
-    "ageInYears": 4,
-    "dimensions": "110cm by 56cm by 45cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "133942",
-    "name": "Marble Dining Table (1.6m by 0.9m) with 4 round-backed chairs",
-    "description": "Marble Dining Table with 4 round-backed chairs. Very heavy. In good condition. To collect from 29 June onwards, Sat only",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "22 Jun 2024",
-    "ageInYears": 4,
-    "dimensions": "160cm by 90cm by 75cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "133804",
     "name": "Bookshelf",
     "description": "Well used but still good condition (books and stuff not included). Available in June.",
@@ -352,39 +341,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "134337",
-    "name": "Diary of a Wimpy Kid book set",
-    "description": "A set of books from the Diary of a Wimpy Kid series",
-    "location": null,
-    "validTill": "05 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "134336",
-    "name": "Big Nate book set",
-    "description": "A set of books from the Big Nate series",
-    "location": null,
-    "validTill": "05 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "134335",
-    "name": "Bad Guys book series",
-    "description": "Set of Bad Guys book series",
-    "location": null,
-    "validTill": "05 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "134334",
     "name": "Wooden marble track + marbles",
     "description": "Wooden marble track for children to build. Can create all kinds of designs for marbles to run down and it’s lots of fun. Note that the marbles are small so not for children that are too young",
@@ -399,28 +355,6 @@
     "id": "134333",
     "name": "Plastic marble track + marbles",
     "description": "Plastic marble track for children to build. Can create all kinds of designs for marbles to run down and it’s lots of fun. Note that the marbles are small so not for children that are too young",
-    "location": null,
-    "validTill": "05 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "134332",
-    "name": "Duplo Lego",
-    "description": "Big box of Duplo Lego (for younger children, 3-5 yrs onwards)",
-    "location": null,
-    "validTill": "05 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "134331",
-    "name": "Lego",
-    "description": "Two big boxes of Lego (for older children, 8+)",
     "location": null,
     "validTill": "05 Jul 2024",
     "ageInYears": 4,
