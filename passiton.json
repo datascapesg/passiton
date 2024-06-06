@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "134413",
+      "category": "Others",
+      "name": "Laptop",
+      "description": "Client requires a working laptop for her job. Client is undergoing divorce and faces financial instability at present as she just gained employment not long ago. Given the need to support herself and 4 young children, she is unable to afford to purchase a laptop.",
+      "specifications": null,
+      "contact": {
+        "org": "FRCS Family Service Centre",
+        "name": "Eunice Koh",
+        "email": "eunice@frcsfsc.sg",
+        "phone": [
+          "67799488ext17",
+          "67799488"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "06 Jun 2024"
+    },
+    {
       "id": "134405",
       "category": "Others",
       "name": "Food rations for clients",
@@ -7363,17 +7381,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "134363",
-      "name": "Washing machine",
-      "description": "Used washing machine but still in workable condition",
-      "location": null,
-      "validTill": "05 Jul 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "134341",
       "name": "Panasonic cubie oven",
       "description": "Panasonic NU-SC180BYPQ\nCan steam and bake. There is some problem with the steam function. But baking cakes and bread is perfectly OK.",
@@ -7436,17 +7443,6 @@
       "validTill": "06 Jul 2024",
       "ageInYears": 3,
       "dimensions": "56x57x54",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "134402",
-      "name": "2-door wardrobe",
-      "description": "bottom right of the door slight torn off but doesn't affect functionality of wardrobe.\nitem can be collected from 15 June. prefer taker who can take my other items together, including book shelf, bed frame, chair and display rack.",
-      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-      "validTill": "06 Jul 2024",
-      "ageInYears": 4,
-      "dimensions": "100x60x200",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
