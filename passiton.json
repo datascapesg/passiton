@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "134437",
+      "category": "Others",
+      "name": "Groceries",
+      "description": "Single mother with two children and an elderly mother. Single mother's income is not sufficient for her children because it is a low-paying job.",
+      "specifications": "Groceries (5KG rice, 2KG Oil and Milo Tin)",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 206B",
+        "name": "Nurhanisah Binte Abdul Rahman",
+        "email": "nurhanisah@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Jun 2024"
+    },
+    {
       "id": "134435",
       "category": "Others",
       "name": "Handphone",
