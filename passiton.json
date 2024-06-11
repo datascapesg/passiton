@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "134526",
+      "category": "Others",
+      "name": "Food Rations (Items need to be halal)",
+      "description": "Quantity (must be halal):\n4 packets of rice\n8 packets of instant noodles\nMilo Packets (any amount)\nCoffee Packets (any amount)\nCooking Oil\n20 x Canned food (or any amount is fine as well)\nEggs\nFrozen Food (e.g. nuggets, chicken)\n\nAny other items that can be stored are welcomed too (:\n\nClient is a single mother of 4 children, aged 17, 16, 13 and 11. Client has not been receiving maintenance fees from her ex-husband and has been having financial difficulties supporting her 4 children. The family would like to request for some food rations to alleviate some of their tight finances.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Covenant Family Service Centre - Hougang",
+        "name": "Chan Jun Ren",
+        "email": "chanjunren@mws.sg",
+        "phone": [
+          "62828558"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Jun 2024"
+    },
+    {
       "id": "134489",
       "category": "Others",
       "name": "Handphone",
@@ -5291,6 +5308,23 @@
       "date": "14 May 2024"
     },
     {
+      "id": "134527",
+      "category": "Home Furnishing",
+      "name": "Geriatric Chair",
+      "description": "Clt, 64F and her son 34M are both permanently unfit for work due to their multiple chronic conditions.\n\nClt needs a chair that she can use to sit at her corridor, so she does not remain inside the house the whole day.\n\nThe chair needs to be heavy and able to withstand rain or shine.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner CREST @ Toa Payoh",
+        "name": "Lim Jia Min",
+        "email": "tp.crest@carecorner.org.sg",
+        "phone": [
+          "62586601"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Jun 2024"
+    },
+    {
       "id": "134515",
       "category": "Home Furnishing",
       "name": "Mattress",
@@ -6686,6 +6720,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "134529",
+      "name": "Washing Machine",
+      "description": "Top Load Samsung Washing Machine",
+      "location": "Cairnhill, Killiney, Orchard, River Valley",
+      "validTill": "11 Jul 2024",
+      "ageInYears": 4,
+      "dimensions": "50cm x85cm x 60cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "134341",
       "name": "Panasonic cubie oven",
       "description": "Panasonic NU-SC180BYPQ\nCan steam and bake. There is some problem with the steam function. But baking cakes and bread is perfectly OK.",
@@ -6717,6 +6762,28 @@
       "dimensions": "14cm diameter, 22cm height",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "134530",
+      "name": "Sofa",
+      "description": "Italian leather 3 seater sofa with retractable leg rest but has been in used for more than 10 years.",
+      "location": "Cairnhill, Killiney, Orchard, River Valley",
+      "validTill": "11 Jul 2024",
+      "ageInYears": 4,
+      "dimensions": "200cm x 100cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "134528",
+      "name": "Dining Table and Chairs",
+      "description": "Can be extended to sit 10 persons.",
+      "location": "Cairnhill, Killiney, Orchard, River Valley",
+      "validTill": "11 Jul 2024",
+      "ageInYears": 4,
+      "dimensions": "L112cm x W84 cm x HT 79cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "134521",
@@ -7322,6 +7389,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "134525",
+      "name": "Hospital Bed (Automatic)",
+      "description": "Unity 13126180-1-Automatic Crank Hospital Bed.  Purchased from NTUC PairPrice Co-op Ltd around Oct 2024.  Item still under one-year warranty.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "11 Jul 2024",
+      "ageInYears": 1,
+      "dimensions": "Length 204cm x Width 100cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "134469",
