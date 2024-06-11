@@ -319,17 +319,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "134384",
-    "name": "Half leather sofa",
-    "description": "Half leather sofa",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "12 Jun 2024",
-    "ageInYears": 4,
-    "dimensions": "2.1m x 1m",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "134361",
     "name": "Black wooden table",
     "description": "Black colour wooden table.",
@@ -669,6 +658,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
+  },
+  {
+    "id": "134562",
+    "name": "Sushi rolling bamboo",
+    "description": "Delivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "12 Jul 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
   },
   {
     "id": "134557",
