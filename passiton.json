@@ -1336,6 +1336,23 @@
       "date": "20 May 2024"
     },
     {
+      "id": "134723",
+      "category": "Electrical Home Appliances",
+      "name": "Television",
+      "description": "Family of six lives in a 2-room rental flat. Their TV is in poor condition and is about to spoil. They hope to have a TV in good working condition to replace their current TV.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Quak Mei Qing",
+        "email": "meiqing@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Jun 2024"
+    },
+    {
       "id": "134713",
       "category": "Electrical Home Appliances",
       "name": "Standing fan",
@@ -2649,6 +2666,41 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "19 May 2024"
+    },
+    {
+      "id": "134725",
+      "category": "Infant and Children Items",
+      "name": "Tena Adult Diapers Size M Tape",
+      "description": "Family of 5 consists of 3 children, of which 2 are diagnosed with special needs and require round the clock adult supervision by parents. Father has been trying to take on ad-hoc jobs while the children are at school but are still struggling to afford the family's daily expenses. Family will greatly appreciate any assistance for their diapers as well. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "KK Women's &amp; Children's Hospital - Medical Social",
+        "name": "Seah En Qi",
+        "email": "seah.en.qi@kkh.com.sg",
+        "phone": [
+          "63942402",
+          "62255554"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Jun 2024"
+    },
+    {
+      "id": "134724",
+      "category": "Infant and Children Items",
+      "name": "Milk",
+      "description": "A family with 5 children living in a rental flat and father recently left the job due to health issues. They are in need of milk and diapers for their youngest child. For further liaison, kindly contact me at 81383741, thank you!",
+      "specifications": "Dumex Dugro Milk Stage 3",
+      "contact": {
+        "org": "PPIS Family Service Centre (East)",
+        "name": "Nur Afrina",
+        "email": "fsceast@ppis.sg",
+        "phone": [
+          "60156970"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Jun 2024"
     },
     {
       "id": "134716",
@@ -5975,6 +6027,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "134726",
+      "name": "Book shelf - shelve",
+      "description": "White bookshelf",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "01 Jul 2024",
+      "ageInYears": 4,
+      "dimensions": "81cm x 30cm x 212cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "134697",
       "name": "2 panels of almost new purple curtains",
       "description": "The curtains are good quality material that was custom made and cost about $400.00. They are dark purple with silver stripes. Each panel is 54cm and 2 panels are 108 cm that will cover a 3 glass panel window of a 4 room flat.",
@@ -6349,94 +6412,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "134695",
-      "name": "Toys and books",
-      "description": "Educational toys",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "17 Jul 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "134694",
-      "name": "Toys",
-      "description": "Toys",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "17 Jul 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "134693",
-      "name": "Toys",
-      "description": "Toys",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "17 Jul 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "134692",
-      "name": "Toys",
-      "description": "Toys",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "17 Jul 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "134691",
-      "name": "Toys",
-      "description": "Toys",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "17 Jul 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "134690",
-      "name": "Toys",
-      "description": "Chess sets",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "17 Jul 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "134689",
-      "name": "Toys and books",
-      "description": "Toys and books",
-      "location": null,
-      "validTill": "17 Jul 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "134688",
-      "name": "Toys and books",
-      "description": "Toys and books",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "17 Jul 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
       "id": "134683",
       "name": "Preloved baby clothes",
       "description": "Blessing preloved baby clothes for 1-3months old.\nThe white tops have some very light yellowish stains. Otherwise they are in good condition. I can discard those if beneficiary does not want them.",
@@ -6602,17 +6577,6 @@
       "category": "Kitchen Utility Items"
     },
     {
-      "id": "134696",
-      "name": "Gym roller",
-      "description": "Gym roller",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "17 Jul 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Leisure and Healthy Lifestyle"
-    },
-    {
       "id": "134628",
       "name": "Linden Piano with Bench",
       "description": "Linden Piano with Bench",
@@ -6774,6 +6738,17 @@
       "validTill": "11 Jul 2024",
       "ageInYears": 1,
       "dimensions": "Length 204cm x Width 100cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "134722",
+      "name": "Electri8c bed with air mattress &  wheelchair",
+      "description": "Electric hospital bed with air mattress in  good condition, wheelchair rarely used.",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "30 Jun 2024",
+      "ageInYears": 4,
+      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
     },
