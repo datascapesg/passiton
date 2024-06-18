@@ -77,17 +77,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "134681",
-    "name": "3-seater Blue-ribbed sofa",
-    "description": "This is a 3-seater blue-ribbed sofa in excellent working condition. It is firm and long enough for laying down",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "21 Jun 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "134679",
     "name": "Sofa",
     "description": "3 seater sofa + ottomen\nSofa 2.4m x 90cm\nOttomen 90 x 90cm\n\nCleaned but do note some stains that cant be removed",
@@ -337,6 +326,17 @@
     "validTill": "06 Jul 2024",
     "ageInYears": 4,
     "dimensions": "200x120x50",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "134717",
+    "name": "Display/ book cabinet",
+    "description": "Self collect please",
+    "location": null,
+    "validTill": "22 Jun 2024",
+    "ageInYears": 4,
+    "dimensions": "105w,183h,30d. 240h,90w,40d",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -909,6 +909,50 @@
     "validTill": "06 Jul 2024",
     "ageInYears": 2,
     "dimensions": "20-35L",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "134718",
+    "name": "Boy sports shoe",
+    "description": "Size 39\nAble to meet at common venue",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "23 Jun 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "134720",
+    "name": "Boy sports shoe",
+    "description": "Size 39\nAble to meet at common venue",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "23 Jun 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "134719",
+    "name": "Girl sports shoes",
+    "description": "US6\nIn good condition.\nAble to meet at common convenient place",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "23 Jun 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "134721",
+    "name": "Girl sports shoes",
+    "description": "US6\nIn good condition.\nAble to meet at common convenient place",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "23 Jun 2024",
+    "ageInYears": 1,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   }
