@@ -4563,6 +4563,24 @@
       "date": "20 May 2024"
     },
     {
+      "id": "134784",
+      "category": "Medical Aids",
+      "name": "Pressure relief cushion",
+      "description": "Elder has developed pressure wounds due to bony prominences and long hours spent sitting on wheelchair.",
+      "specifications": null,
+      "contact": {
+        "org": "St Luke's ElderCare Residence @ Ang Mo Kio",
+        "name": "Therese Marie Tay",
+        "email": "theresetay@slec.org.sg",
+        "phone": [
+          "62492524",
+          "62492525"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "19 Jun 2024"
+    },
+    {
       "id": "134758",
       "category": "Medical Aids",
       "name": "Adult diapers",
@@ -6468,6 +6486,23 @@
       "date": "29 May 2024"
     },
     {
+      "id": "134789",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Client needs a laptop for his work, but it is not being provided for by his workplace. He does not have sufficient savings to purchase a new laptop.\n\nBasic laptop needed for preparation of documents / presentations. No brand required.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore After Care Association",
+        "name": "Lin Mingjie",
+        "email": "mingjie@saca.org.sg",
+        "phone": [
+          "62942350"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jun 2024"
+    },
+    {
       "id": "134409",
       "category": "Learning Aids",
       "name": "1 Secondhand Handphone",
@@ -6558,6 +6593,39 @@
       "dimensions": "14cm diameter, 22cm height",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "134788",
+      "name": "Double decker bed",
+      "description": "Double-decker bed, without mattresses",
+      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+      "validTill": "22 Jun 2024",
+      "ageInYears": 3,
+      "dimensions": "200 x 90 x 180cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "134787",
+      "name": "Sofa",
+      "description": "3 seats sofa\nAVAILABLE ONLY ON 22-23 JULY",
+      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+      "validTill": "19 Jul 2024",
+      "ageInYears": 4,
+      "dimensions": "214x85x65",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "134786",
+      "name": "Sofa",
+      "description": "L shaped sofa\nONLY AVAILABLE ON 23-24 JULY",
+      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+      "validTill": "19 Jul 2024",
+      "ageInYears": 4,
+      "dimensions": "277x60x90",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "134781",
