@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "134795",
+    "name": "32\" TV",
+    "description": "32\" TV",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "30 Jun 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "134561",
     "name": "Air curtain",
     "description": "Delivery on weekday evening and weekend.",
@@ -73,17 +84,6 @@
     "validTill": "28 Jun 2024",
     "ageInYears": 4,
     "dimensions": "225 X 215 X 99 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "134788",
-    "name": "Double decker bed",
-    "description": "Double-decker bed, without mattresses",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "22 Jun 2024",
-    "ageInYears": 3,
-    "dimensions": "200 x 90 x 180cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -220,17 +220,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "134530",
-    "name": "Sofa",
-    "description": "Italian leather 3 seater sofa with retractable leg rest but has been in used for more than 10 years.",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "11 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": "200cm x 100cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "134528",
     "name": "Dining Table and Chairs",
     "description": "Can be extended to sit 10 persons.",
@@ -249,17 +238,6 @@
     "validTill": "11 Jul 2024",
     "ageInYears": 1,
     "dimensions": "192 x 122 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "134470",
-    "name": "Chair",
-    "description": "Used study child",
-    "location": null,
-    "validTill": "09 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
