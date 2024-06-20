@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "134794",
+      "category": "Others",
+      "name": "Handphone",
+      "description": "Client has recently been released from prison, and has applied to further her studies under Yellow Ribbon. She hopes to receives donation of handphone while she tries to reintegrate herself back to the community as her current one has limited phone capacity to suit her need to install various applications for employment/educational needs. Thank you",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Lynette Tan",
+        "email": "lynettetan@thkmc.org.sg",
+        "phone": [
+          "64961272",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Jun 2024"
+    },
+    {
+      "id": "134793",
+      "category": "Others",
+      "name": "Bicycle or PMD",
+      "description": "Client has recently been released from prison, and has applied to further her studies under Yellow Ribbon. She hopes to receives donation of bicycle / PMD while she tries to reintegrate herself back to the community, to enable her to seek delivery-type of employment as she has been unsuccessful in her many attempts to search for job. Thank you",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Lynette Tan",
+        "email": "lynettetan@thkmc.org.sg",
+        "phone": [
+          "64961272",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Jun 2024"
+    },
+    {
       "id": "134782",
       "category": "Others",
       "name": "Food Rations for clients",
@@ -1371,6 +1407,24 @@
       "date": "20 May 2024"
     },
     {
+      "id": "134792",
+      "category": "Electrical Home Appliances",
+      "name": "SMART TV",
+      "description": "Client is a single mother who has reintegrated with eldest daughter in her teens and is pregnant with child. Client would like to request for donation of smart tv as the one at home is faulty. Thank you",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Lynette Tan",
+        "email": "lynettetan@thkmc.org.sg",
+        "phone": [
+          "64961272",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Jun 2024"
+    },
+    {
       "id": "134780",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -1800,23 +1854,6 @@
         "phone": [
           "65119438",
           "65119456"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Jun 2024"
-    },
-    {
-      "id": "134601",
-      "category": "Electrical Home Appliances",
-      "name": "Wall Mount for 55",
-      "description": "Client is a 73 year old low income elderly with limited social support. He is moving in to a rental flat and is hoping to get a TV through donations to save financial costs. He is also scheduled to go for an eye surgery soon which might result in him being on a long term MC which might affect his income. We have managed to get a TV for him from a donor, but would require a wall mount as the donor is unable to provide a TV stand / Wall mount for the client. Should you have a suitable item, please reach out to me at 9828 7307. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Family Service Centre - Tampines",
-        "name": "Han Wen Ting",
-        "email": "hanwenting@mws.sg",
-        "phone": [
-          "67872001"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -4494,6 +4531,24 @@
       "date": "20 May 2024"
     },
     {
+      "id": "132360",
+      "category": "Medical Aids",
+      "name": "Antibacterial wipes needed",
+      "description": "Seeking a donation of antibacterial wipes for a Client who had previously suffered a multi-organ infection. She  utilizes the antibacterial wipes daily for her personal needs. Donation of the wipes will help to ease their financial expenses and strains.",
+      "specifications": "HospiCare Adult Body Wipes",
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Farahlina Tan",
+        "email": "farahlina_tan@awwa.org.sg",
+        "phone": [
+          "65119458",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Jun 2024"
+    },
+    {
       "id": "134784",
       "category": "Medical Aids",
       "name": "Pressure relief cushion",
@@ -6490,6 +6545,17 @@
       "dimensions": "14cm diameter, 22cm height",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "134791",
+      "name": "Mattress and Bed-frame (Queen size)",
+      "description": "Batten w French Seam Headboard + Divan w\nLegs - Standard Queen\n- Headboard: W154 x H130 x D7.5 cm\n- Divan w Legs: W154 x H27 x L203.5cm\n- Upholstery: Jay Ideal Astino J8647-1\n- Legs: 6\" Pencil legs, Pine stain",
+      "location": "Balestier, Toa Payoh",
+      "validTill": "10 Jul 2024",
+      "ageInYears": 4,
+      "dimensions": "203.5cm (L) x 154cm (W) x 130cm (H)",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "134790",
