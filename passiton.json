@@ -1,6 +1,57 @@
 {
   "requests": [
     {
+      "id": "134864",
+      "category": "Others",
+      "name": "Food Rations For Clients",
+      "description": "Urgent! Requesting halal food rations for needy families who may not have money to buy food Items due to financial issues \nItems needed such as - \n20x packets of Rice (2/5KG\n30X packets of Maggie (Vegetarian/Non-Vegetarian)\n30x Halal Can Food [Meat -Sardine/Chicken etc] / [Vegetarian – Corn/Mushroom etc] \n10x Packets of Beehoon (Chilli Brand)\n30x Packets of Assorted Biscuits (example: Khong guan biscuits / Jacob)\n30x Packets of 3-in-1 Beverages (Milo/Coffee/Cereal Etc)\n10 bottles of 1L cooking oil\n10 bottles of light/dark soya sauce\n\nAny amount is appreciated! Please call / email me before making any purchase as we have space constraint issues. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Patricia Poo",
+        "email": "patriciapoo@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Jun 2024"
+    },
+    {
+      "id": "134863",
+      "category": "Others",
+      "name": "Fresh Food Items",
+      "description": "Client is an elderly women who is medically unfit for work. She has also experienced neglect, emotional and financial abuse by her son in the past which caused her to be under depression as well. However, her son has left the house and not been contributing to her basic needs. Currently she is alone and hope to get some fresh food rations which will benefit her. Please drop me an email to enquire the list of items if you wish to bless her. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Patricia Poo",
+        "email": "patriciapoo@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Jun 2024"
+    },
+    {
+      "id": "134861",
+      "category": "Others",
+      "name": "Fresh Food & Household Items",
+      "description": "Client is a single parent and has 2 young school going children who has mental health concerns. Client has been struggling to sustain with the basic needs which might not be sufficient for her family. Hence, the requested food rations and household items will be beneficial for family for this period of time. Please drop me an email to enquire the list of items if you wish to bless this family. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Patricia Poo",
+        "email": "patriciapoo@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Jun 2024"
+    },
+    {
       "id": "134843",
       "category": "Others",
       "name": "Strawberry Ensure Liquid",
@@ -1532,6 +1583,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "21 May 2024"
+    },
+    {
+      "id": "134866",
+      "category": "Electrical Home Appliances",
+      "name": "Small Refrigerator (e.g. half the size of a regular fridge)",
+      "description": "Client is widowed with no children and stays alone in a 1Rm Rental Flat.\nShe is not able to work and is dependent on Gov + Retirement Monies for her subsistence. \nHer fridge's lights are faulty and thus she has requested for a replacement and is contented with a smaller fridge (her current one is of a regular size).",
+      "specifications": "Not available",
+      "contact": {
+        "org": "National Kidney Foundation (NKF)",
+        "name": "Chris Chew",
+        "email": "chris.chew@nkfs.org",
+        "phone": [
+          "93803917",
+          "65062244"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Jun 2024"
     },
     {
       "id": "134857",
@@ -6251,24 +6320,6 @@
       "date": "19 Jun 2024"
     },
     {
-      "id": "134747",
-      "category": "Mobility Aids",
-      "name": "Commode chair",
-      "description": "The senior current commode chair is broken and she would like to look into another commode chair without a pot, foldable seat cover and adjustable height. As the current commode chair is adjusted to be on top of the toilet's bowl. \n\nThe senior has been experiencing near falls due to the faulty commode chair, and has to wait for her children to help her shower due to this. \n\nThe senior's family is financially tight as well and trying to save more money to assist on the senior's long-term care plans. \n\nYou can always call me at 8126 2493.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Community Services",
-        "name": "Julia Soh Ying Li",
-        "email": "juliasoh@fycs.org",
-        "phone": [
-          "63809155",
-          "63809169"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Jun 2024"
-    },
-    {
       "id": "133636",
       "category": "Mobility Aids",
       "name": "PMD repair",
@@ -6633,6 +6684,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "134865",
+      "name": "Bosch Washing Machine",
+      "description": "Good condition washing machine.",
+      "location": null,
+      "validTill": "27 Jun 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "134561",
       "name": "Air curtain",
       "description": "Delivery on weekday evening and weekend.",
@@ -6653,6 +6715,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "134862",
+      "name": "Solid single bed frame with bottom pull-out bed",
+      "description": "Solid wooden frame to fit single mattress. Comes with bottom pull out bed for 2nd person.",
+      "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+      "validTill": "15 Jul 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "134848",
