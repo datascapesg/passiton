@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "134982",
+      "category": "Electrical Home Appliances",
+      "name": "Television",
+      "description": "Beneficiary requires a TV for the elderly at home as their TV is faulty. Beneficiary does not have much savings to purchase a new TV.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore After Care Association",
+        "name": "Lin Mingjie",
+        "email": "mingjie@saca.org.sg",
+        "phone": [
+          "62942350"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Jun 2024"
+    },
+    {
       "id": "134979",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine (Top Load)",
@@ -5885,17 +5902,6 @@
       "validTill": "06 Jul 2024",
       "ageInYears": 2,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "134961",
-      "name": "L shaped couch",
-      "description": "L shaped sofa\n2 parts:\n1x lounge chair: 2m x 1m x1m\n1x sofa: 2m x 1m x1m",
-      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-      "validTill": "24 Jul 2024",
-      "ageInYears": 3,
-      "dimensions": "3m X 1m X 1m",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
