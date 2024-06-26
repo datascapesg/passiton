@@ -33,17 +33,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "135010",
-    "name": "Single bed with frame",
-    "description": "Single bed with frame to donate. It's been unused for awhile since my sibling moved out. The mattress was deep cleaned last year.",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "26 Jul 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "135006",
     "name": "Loft Bed with integrated study desk",
     "description": "Transform your child’s room or your study space with this multifunctional loft bed with an integrated desk and storage solutions.\n\nFeatures:\n\n •Space-Saving Design: Combines a comfortable bed, functional desk, and ample storage in one unit.\n •Comfortable Bed, with mattress included \n •Functional Desk: Spacious desk area perfect for studying or working from home.\n •Storage Solutions: Includes drawers and shelves to keep essentials organized.",
@@ -429,6 +418,17 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
+    "id": "135013",
+    "name": "Small fish tank",
+    "description": "Includes small pump.\n\nDelivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "11 Jul 2024",
+    "ageInYears": 2,
+    "dimensions": "40cmLx20cmWx30cmH",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
     "id": "134546",
     "name": "Children bicycle helmet",
     "description": "2 pieces.\n\nDelivery on weekday evening and weekend.",
@@ -523,17 +523,6 @@
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "23 Jul 2024",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "134906",
-    "name": "Shower chair with wheels",
-    "description": "Brand new",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "04 Jul 2024",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
