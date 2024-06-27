@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "135035",
-      "category": "Electrical Home Appliances",
-      "name": "Electric Water Kettle",
-      "description": "Family is a grandparent headed household with no income earner due to old age and chronic illness. They have 1 school-going child. Family's current electric kettle is faulty and hazardous for use. Due to dependence on grandparent saving, family has difficulty affording new electrical appliances.",
-      "specifications": null,
-      "contact": {
-        "org": "Lakeside Family Centre - Jurong West",
-        "name": "Felicia Wong",
-        "email": "felicia-wong@lakeside.org.sg",
-        "phone": [
-          "65671908"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Jun 2024"
-    },
-    {
       "id": "135030",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -1710,23 +1693,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "25 Jun 2024"
-    },
-    {
-      "id": "134946",
-      "category": "Others",
-      "name": "Groceries",
-      "description": "Family of 5 consisting of client, her husband, and their 3 children. Her husband is the sole breadwinner because client has to take care of the eldest child since there is no student care placement for her yet. Currently, husband's income is not sufficient for the family's monthly groceries consumption because all 3 children are picky eaters and only prefers fresh food.",
-      "specifications": "Groceries (Detergent, baby detergent, hand soap, toothpaste, rice, oil, frozen meat such as chicken, snacks for children)",
-      "contact": {
-        "org": "Allkin Family Service Centre @ Sengkang 206B",
-        "name": "Nurhanisah Binte Abdul Rahman",
-        "email": "nurhanisah@allkin.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Jun 2024"
     },
     {
       "id": "134915",
@@ -6184,6 +6150,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "135036",
+      "name": "Super Single Bed",
+      "description": "Hardly use the bed. Only use the pull out bed. \nNo mattress for pull out bed.",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "15 Jul 2024",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "135032",
       "name": "Study Desk",
       "description": "Study desk with keyboard holder",
@@ -6323,17 +6300,6 @@
       "validTill": "17 Jul 2024",
       "ageInYears": 2,
       "dimensions": "Width - 54cm  height 140cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "135026",
-      "name": "Coffee Table",
-      "description": "A marble coffee table still in good condition",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "30 Jun 2024",
-      "ageInYears": 3,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
