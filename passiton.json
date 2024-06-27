@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "135030",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is a single mother of 2 children who recently moved into her rental flat. She is currently medically unfit to work and does not have the expenses to purchase a washing machine.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Woodlands",
+        "name": "Umairah Mahmud",
+        "email": "umairah_mahmud@msf.gov.sg",
+        "phone": [
+          "67367607",
+          "67660097"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Jun 2024"
+    },
+    {
       "id": "135025",
       "category": "Electrical Home Appliances",
       "name": "Hot Water Dispenser",
@@ -1483,24 +1501,6 @@
         "email": "joyouschai@allkin.org.sg",
         "phone": [
           "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 May 2024"
-    },
-    {
-      "id": "134067",
-      "category": "Electrical Home Appliances",
-      "name": "Top Load Washing Machine",
-      "description": "Beneficiary is 60 plus years old unemployed blind man living alone in Serangoon. His existing washing machine is spoiled and need to replace with one so that he and his tenant can use.",
-      "specifications": "8kg or more",
-      "contact": {
-        "org": "Prison Fellowship Singapore Ltd",
-        "name": "Lee Oi Wei",
-        "email": "oiweilee@pfs.org.sg",
-        "phone": [
-          "63842338ext210",
-          "63842338"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3039,24 +3039,6 @@
       "id": "135008",
       "category": "Home Furnishing",
       "name": "Single bed set",
-      "description": "Family of 8 is requesting for a queen size bed together with frame and a single bed with frame for her and oldest son (15yo). Previous bed had bed bug infestation and had to be thrown away. Family is financially tight and have difficulties replacing the beds.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Services SSO @ Taman Jurong",
-        "name": "Chan Yvonne",
-        "email": "yvonne-chan@fycs.org",
-        "phone": [
-          "69783516",
-          "62672900"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Jun 2024"
-    },
-    {
-      "id": "135007",
-      "category": "Home Furnishing",
-      "name": "Queensize mattress and frame",
       "description": "Family of 8 is requesting for a queen size bed together with frame and a single bed with frame for her and oldest son (15yo). Previous bed had bed bug infestation and had to be thrown away. Family is financially tight and have difficulties replacing the beds.",
       "specifications": null,
       "contact": {
