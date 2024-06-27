@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "135038",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Elderly lady staying in rented flat would like to have a fridge to store her fruits and food. Currently, her fridge is very small (those hotel room sized) and she find it insufficient for her. It is also placed on the floor and client have difficultly bending down as she has just had an operation.",
+      "specifications": null,
+      "contact": {
+        "org": "New Hope Community Services",
+        "name": "Lee Hui Xian",
+        "email": "huixian@newhopecs.org.sg",
+        "phone": [
+          "80488854",
+          "63059620"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Jun 2024"
+    },
+    {
       "id": "135030",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -2946,6 +2964,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "27 May 2024"
+    },
+    {
+      "id": "135037",
+      "category": "Home Furnishing",
+      "name": "Foldable mattress",
+      "description": "Family has 5 children and live in a 2-room rental flat. Mother is the sole breadwinner and main caregiver as father has mental health issues. Mother is only able to work part time as she needs to care for the younger children when they're sick. The younger children previously peed on their mattress and they need a new one to sleep on.",
+      "specifications": "L1900 x W910 x H100mm",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Punggol 616",
+        "name": "Noor Syazana",
+        "email": "noorsyazana@allkin.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Jun 2024"
     },
     {
       "id": "135027",
@@ -6362,17 +6397,6 @@
       "id": "134459",
       "name": "Toddler bed frame",
       "description": "This is the bottom layer of a double decker bed that serves as a toddler bed. In good condition. Scratches and marks with use and age.",
-      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-      "validTill": "28 Jun 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "134458",
-      "name": "King size bed and mattress",
-      "description": "King size bed with mattress. In good condition. Cloth covering the underside of the bed frame is torn. Mattress has some stains from normal use and age (no damage)",
       "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
       "validTill": "28 Jun 2024",
       "ageInYears": 4,
