@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "135081",
+      "category": "Electrical Home Appliances",
+      "name": "Single door fridge",
+      "description": "Client is a young mom (F/26) to 2 young  children (F/5, M/2). Client's husband (M/23) is the sole breadwinner for the family. They are staying at 2-room rental flat and depend on financial assistance from SSO to meet their basic needs.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Regine Yeo",
+        "email": "regine.yeo@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Jun 2024"
+    },
+    {
       "id": "135074",
       "category": "Electrical Home Appliances",
       "name": "Television set",
@@ -2968,24 +2985,6 @@
       "date": "28 May 2024"
     },
     {
-      "id": "135062",
-      "category": "Home Furnishing",
-      "name": "Bunkbed Bedframe and Mattress",
-      "description": "Client is a single mother with a school-going child. Client resides with her family and the single bed that they currently have is insufficient for their use. The provision of the bunkbed will allow clt and child to have their own beds and not need to sleep on a single bed together.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Champions Way",
-        "name": "Melissa Sim",
-        "email": "melissasim@fycs.org",
-        "phone": [
-          "66901002",
-          "66901000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Jun 2024"
-    },
-    {
       "id": "135055",
       "category": "Home Furnishing",
       "name": "Queen Bed",
@@ -4168,6 +4167,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "28 May 2024"
+    },
+    {
+      "id": "135083",
+      "category": "Infant and Children Items",
+      "name": "Drypers Drypants XXL",
+      "description": "Client is a young mom (F/26) to 2 young children (F/5, M/2). Client's husband (M/23) is the sole breadwinner for the family. They are staying at 2-room rental flat and depend on financial assistance from SSO to meet their basic needs.",
+      "specifications": "2 packs",
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Regine Yeo",
+        "email": "regine.yeo@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Jun 2024"
+    },
+    {
+      "id": "135082",
+      "category": "Infant and Children Items",
+      "name": "Lactogen Probiotic Stage 3 Milk Formula",
+      "description": "Client is a young mom (F/26) to 2 young children (F/5, M/2). Client's husband (M/23) is the sole breadwinner for the family. They are staying at 2-room rental flat and depend on financial assistance from SSO to meet their basic needs.",
+      "specifications": "2 tins",
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Regine Yeo",
+        "email": "regine.yeo@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Jun 2024"
     },
     {
       "id": "135064",
@@ -5396,6 +5429,24 @@
       "date": "28 May 2024"
     },
     {
+      "id": "135078",
+      "category": "Medical Aids",
+      "name": "Medical consumables",
+      "description": "Clients (F/84, M/88), stays with their adult children (2 sons and 1 daughter). This family is facing financial difficulties; hence, they have insufficient funds to buy medical consumables such as thickener (Thicken Up), diapers (L size pants), incontinence sheets for the seniors. With the support of medical consumables, it would help the seniors and their family to cope with their financial difficulties.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Community Services",
+        "name": "Christine Ang",
+        "email": "angliyan@fycs.org",
+        "phone": [
+          "63809163",
+          "63809169"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Jun 2024"
+    },
+    {
       "id": "135058",
       "category": "Medical Aids",
       "name": "Adult diapers",
@@ -6482,6 +6533,28 @@
       "dimensions": "97 x 48",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "135079",
+      "name": "Mamy Poko Extra Dry Newborn",
+      "description": "3 packs of unopened diapers. Already packed in carton box",
+      "location": "Boon Lay, Jurong, Tuas",
+      "validTill": "28 Jul 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "135077",
+      "name": "Ikea Baby Changing Station with Mat",
+      "description": "9/10 condition Ikea Changing Table with White Mat to bless",
+      "location": null,
+      "validTill": "03 Jul 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "135075",
