@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "135170",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is a single mother with three children under her care. Due to her chronic health issues, client is medically unfit for work at present, and the family is reliant on financial assistance. Client is requesting for a washing machine urgently as hers broke.",
+      "specifications": "8kg Top Loader",
+      "contact": {
+        "org": "Care Corner Family Service Centre - Toa Payoh",
+        "name": "Joanna Tan",
+        "email": "joannatan@carecorner.org.sg",
+        "phone": [
+          "67984211",
+          "63561622"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Jul 2024"
+    },
+    {
       "id": "135167",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine (Top load)",
@@ -71,23 +89,6 @@
       "date": "02 Jul 2024"
     },
     {
-      "id": "135126",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Client is a 56 year old woman living alone in a rental flat. She was recently diagnosed with cancer and is currently recovering after seeking treatment. Client requires a new or secondhand refrigerator as her current one has broken down.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Covenant Family Service Centre - Hougang",
-        "name": "Chan Jun Ren",
-        "email": "chanjunren@mws.sg",
-        "phone": [
-          "62828558"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Jul 2024"
-    },
-    {
       "id": "135125",
       "category": "Electrical Home Appliances",
       "name": "oven",
@@ -100,57 +101,6 @@
         "phone": [
           "64546678",
           "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Jul 2024"
-    },
-    {
-      "id": "135124",
-      "category": "Electrical Home Appliances",
-      "name": "Standing Fan",
-      "description": "An elderly man living alone in a rented flat would require a standing fan for himself. He has mobility issues and has difficulties finding a suitable job currently.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Marine Parade Family Service Centre",
-        "name": "Wei Shimin",
-        "email": "shimin.wei@montfortcare.org.sg",
-        "phone": [
-          "64450100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Jul 2024"
-    },
-    {
-      "id": "135118",
-      "category": "Electrical Home Appliances",
-      "name": "Boil Water Dispenser",
-      "description": "Client's husband is the sole breadwinner for their family with 1 child, and client is currently pregnant. Family will benefit from essential items for their home.\n\nClient is accepting of second hand items, but it will need to be in good condition and halal only",
-      "specifications": "5L Electric Water Dispenser",
-      "contact": {
-        "org": "Allkin Family Service Centre @ Sengkang 223D",
-        "name": "Thiviya D/O Athimoolam",
-        "email": "thiviya@allkin.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Jul 2024"
-    },
-    {
-      "id": "135117",
-      "category": "Electrical Home Appliances",
-      "name": "Rice Cooker",
-      "description": "Client's husband is the sole breadwinner for their family with 1 child, and client is currently pregnant. Family will benefit from essential items for their home.\n\nClient is accepting of second hand items, but it will need to be in good condition and halal only.",
-      "specifications": "2.8L Rice cooker with Aluminium Inner Pot",
-      "contact": {
-        "org": "Allkin Family Service Centre @ Sengkang 223D",
-        "name": "Thiviya D/O Athimoolam",
-        "email": "thiviya@allkin.org.sg",
-        "phone": [
-          "63128100"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -805,23 +755,6 @@
       "date": "18 Jun 2024"
     },
     {
-      "id": "134723",
-      "category": "Electrical Home Appliances",
-      "name": "Television",
-      "description": "Family of six lives in a 2-room rental flat. Their TV is in poor condition and is about to spoil. They hope to have a TV in good working condition to replace their current TV.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Quak Mei Qing",
-        "email": "meiqing@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Jun 2024"
-    },
-    {
       "id": "134701",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -907,23 +840,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "14 Jun 2024"
-    },
-    {
-      "id": "134624",
-      "category": "Electrical Home Appliances",
-      "name": "Television",
-      "description": "Client is married with 2 young children below the age of 2. The family has been facing financial strains due to health and employment issues. Client is staying at a rented room but had just gotten the keys to her new rental flat. The family has not been able to move in as they are still saving up for furnishing and home appliances. Client is requesting for a television as part of her house furnishing.",
-      "specifications": null,
-      "contact": {
-        "org": "Sembawang Family Service Centre",
-        "name": "Po Woei Yee",
-        "email": "powoeiyee@sfsc.org.sg",
-        "phone": [
-          "67547050"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Jun 2024"
     },
     {
       "id": "134611",
@@ -1537,24 +1453,6 @@
         "phone": [
           "66977519",
           "65632281"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Jul 2024"
-    },
-    {
-      "id": "135160",
-      "category": "Others",
-      "name": "Printer",
-      "description": "Client is a 33-year-old single mother, living with her 6-year-old son. Client has been unemployed since late-April 2023, due to mental health concerns, and is looking to join back the workforce. Client requires a printer to support her in trainings and upskilling as she prepares to re-enter the workforce.",
-      "specifications": "Printer",
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "mwsfscy@mws.sg",
-        "phone": [
-          "83688612",
-          "67564995"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -5448,13 +5346,24 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "135164",
-      "name": "2 seater sofa",
-      "description": "Well maintain 2 seater sofa to bless",
-      "location": "Braddell , Macpherson, Potong Pasir",
+      "id": "135174",
+      "name": "Study Table And Chair",
+      "description": "Ergo works study table with chair. \nHeight can be adjusted. Lightly used and in good working condition.",
+      "location": "Springleaf, Tagore, Upper Thomson",
       "validTill": "01 Aug 2024",
-      "ageInYears": 2,
-      "dimensions": null,
+      "ageInYears": 4,
+      "dimensions": "100cm by 60cm.",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "135172",
+      "name": "Shoe Rack",
+      "description": "Well-used shoe rack",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "10 Jul 2024",
+      "ageInYears": 1,
+      "dimensions": "1m x 51cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -5532,6 +5441,17 @@
       "validTill": "26 Jul 2024",
       "ageInYears": 1,
       "dimensions": "1970*1430*1060 mm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "135171",
+      "name": "Queen Size Matress",
+      "description": "queen size matress",
+      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+      "validTill": "24 Jul 2024",
+      "ageInYears": 3,
+      "dimensions": "queen size",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -5633,6 +5553,50 @@
       "dimensions": "60cm x 60cm x 75cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "135177",
+      "name": "Playpen",
+      "description": "Very good condition",
+      "location": null,
+      "validTill": "10 Jul 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "135176",
+      "name": "AVENT Bottle Warmer",
+      "description": "Very good condition",
+      "location": null,
+      "validTill": "10 Jul 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "135175",
+      "name": "Tommee Tippee Baby Food Maker",
+      "description": "Very good condition",
+      "location": null,
+      "validTill": "10 Jul 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "135173",
+      "name": "Children utensils",
+      "description": "2 plates, 2 pairs of fork/spoon, 1 cup",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "01 Aug 2024",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "135168",

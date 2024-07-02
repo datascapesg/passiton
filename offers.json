@@ -66,13 +66,24 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "135164",
-    "name": "2 seater sofa",
-    "description": "Well maintain 2 seater sofa to bless",
-    "location": "Braddell , Macpherson, Potong Pasir",
+    "id": "135174",
+    "name": "Study Table And Chair",
+    "description": "Ergo works study table with chair. \nHeight can be adjusted. Lightly used and in good working condition.",
+    "location": "Springleaf, Tagore, Upper Thomson",
     "validTill": "01 Aug 2024",
-    "ageInYears": 2,
-    "dimensions": null,
+    "ageInYears": 4,
+    "dimensions": "100cm by 60cm.",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135172",
+    "name": "Shoe Rack",
+    "description": "Well-used shoe rack",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "10 Jul 2024",
+    "ageInYears": 1,
+    "dimensions": "1m x 51cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -150,6 +161,17 @@
     "validTill": "26 Jul 2024",
     "ageInYears": 1,
     "dimensions": "1970*1430*1060 mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "135171",
+    "name": "Queen Size Matress",
+    "description": "queen size matress",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "24 Jul 2024",
+    "ageInYears": 3,
+    "dimensions": "queen size",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -251,6 +273,50 @@
     "dimensions": "60cm x 60cm x 75cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "135177",
+    "name": "Playpen",
+    "description": "Very good condition",
+    "location": null,
+    "validTill": "10 Jul 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "135176",
+    "name": "AVENT Bottle Warmer",
+    "description": "Very good condition",
+    "location": null,
+    "validTill": "10 Jul 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "135175",
+    "name": "Tommee Tippee Baby Food Maker",
+    "description": "Very good condition",
+    "location": null,
+    "validTill": "10 Jul 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "135173",
+    "name": "Children utensils",
+    "description": "2 plates, 2 pairs of fork/spoon, 1 cup",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "01 Aug 2024",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "135168",
