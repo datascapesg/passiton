@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "135236",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave",
+      "description": "The item is for a single mother with 6yo and 12-weeks old children. They are moving into their 2-room rental flat.",
+      "specifications": null,
+      "contact": {
+        "org": "Marymount Centre - Good Shepherd Centre",
+        "name": "Ruby Gan",
+        "email": "ruby_gan@marymountctr.org.sg",
+        "phone": [
+          "67556496"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Jul 2024"
+    },
+    {
       "id": "135230",
       "category": "Electrical Home Appliances",
       "name": "SMART TV",
@@ -5577,6 +5594,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "135235",
+      "name": "Super Single-sized bedframe",
+      "description": "Super Single-sized bedframe (w/o mattress)\nGently used, in good condition (Bought in August 2023)\nItem age: 1 year or less\nDimension: 1961 x 1095 x 842mm\n\nPls contact me if any additional info. needed: 88121130",
+      "location": "Boon Lay, Jurong, Tuas",
+      "validTill": "07 Jul 2024",
+      "ageInYears": 1,
+      "dimensions": "1961 x 1095 x 842mm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "135224",
       "name": "Single size mattress",
       "description": "Single size mattress to be blessed out",
@@ -6070,6 +6098,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "135234",
+      "name": "Hospital bed",
+      "description": "hospital bed less than one year old for donation",
+      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+      "validTill": "02 Aug 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "135200",
