@@ -1,6 +1,41 @@
 {
   "requests": [
     {
+      "id": "135409",
+      "category": "Others",
+      "name": "WeCare Adult Pants Diapers L16",
+      "description": "Low-income family with 2 elderly and 2 adult children. Elderly suffering with chronic health issues and require adult diaper support due to limited mobility. Both adult children are working but are unable to meet the financial needs of the family adequately.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "C Kartikeya",
+        "email": "kartikeya@fycs.org",
+        "phone": [
+          "69783011",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Jul 2024"
+    },
+    {
+      "id": "135408",
+      "category": "Others",
+      "name": "Food Rations",
+      "description": "Client is married with 5 young children. Client is employed, however, his income is insufficient to manage the expenses of the family, especially so when there's an increase of expenses during the June holidays for the children. Client is keen to upgrade and find better employment opportunities. Family would benefit from groceries support in the meantime.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Muhammad Yusoff s/o Abdul Latiff",
+        "email": "muhammadyusoff@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Jul 2024"
+    },
+    {
       "id": "132258",
       "category": "Others",
       "name": "Cooking Oil (Tin)",
@@ -1492,24 +1527,6 @@
       "date": "21 Jun 2024"
     },
     {
-      "id": "134858",
-      "category": "Home Furnishing",
-      "name": "Cupboard",
-      "description": "After years of being in an strenuous marriage, Client finally obtained a divorce and secured a HDB rental flat unit where she will live with her two teenage daughters. As a single mother and sole breadwinner on a part-time salary, client has difficulties furnishing her new home. Client and her daughters are unable to move out of current living arrangement until their home is ready. Please WhatsApp Venus at 8718 8454 or email to venustangxiaofeng@thkmc.org.sg to liaise.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Lynette Tan",
-        "email": "lynettetan@thkmc.org.sg",
-        "phone": [
-          "64961272",
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Jun 2024"
-    },
-    {
       "id": "134834",
       "category": "Home Furnishing",
       "name": "Cupboard",
@@ -1806,6 +1823,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "07 Jun 2024"
+    },
+    {
+      "id": "135410",
+      "category": "Infant and Children Items",
+      "name": "Milk and Diapers",
+      "description": "Client is currently unemployed since 2023 due to retrenchment. She has a 8-month infant that requires milk and diaper support due to her limited finances. Baby is only able to drink this milk brand due to allergies.\n- Enfamil Stage 2 and Mamy Poko M size",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "C Kartikeya",
+        "email": "kartikeya@fycs.org",
+        "phone": [
+          "69783011",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Jul 2024"
+    },
+    {
+      "id": "135407",
+      "category": "Infant and Children Items",
+      "name": "Milk and diapers",
+      "description": "Client is currently homeless with 3 year old child, living in living room of rental unit. She hopes to receive milk and diapers assistance - lactogrow stage 3 and huggies size L",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Wong Wing Sang",
+        "email": "wongwingsang@fycs.org",
+        "phone": [
+          "69784261",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Jul 2024"
     },
     {
       "id": "135399",
@@ -4771,6 +4824,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "135411",
+      "name": "Cordless Vacuum Cleaner - Philips",
+      "description": "Cordless Philips Vacuum cleaner, with all accessories and mounting bracket. Works well and useful. Has usual wear and tear, no issues with cleaning however.",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "30 Jul 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "135405",
       "name": "Ivory Fridge",
       "description": "https://powerpac.com.sg/products/2-door-fridge-114l-retro-fridge-mini-fridge-ppf118-ivory\n\nPPF118 Ivory\n\n2-Door Fridge 114L Retro Fridge, Mini Fridge (PPF118) Ivory\n\nModel : PPF118\nVoltage : 220 - 240 V \nFrequency : 50 Hz\nPower : 75 W\nRefrigerant : R600a (41 g)\nFreezer section : 27 L\nRefrigerator section : 87 L\nTotal Volume : 114 L\nDimensions : 500 (W) x 480 (D) x 1230 (H)  mm\nWeight : 31 kg",
@@ -4811,17 +4875,6 @@
       "validTill": "01 Aug 2024",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "135346",
-      "name": "16\" standing fan",
-      "description": "Fan oscillator not functioning but fan speed is very much working.",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "01 Aug 2024",
-      "ageInYears": 1,
-      "dimensions": "45x45x145",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
     },
