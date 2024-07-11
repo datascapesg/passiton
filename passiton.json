@@ -1,6 +1,59 @@
 {
   "requests": [
     {
+      "id": "135519",
+      "category": "Others",
+      "name": "Adult Diaper",
+      "description": "L-sized taped diaper is required for elderly with urine incontinence issue. Donation of few packets is appreciated.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner - Community Case Management Service Central",
+        "name": "Josherine Toh",
+        "email": "josherinetoh@carecorner.org.sg",
+        "phone": [
+          "62586601"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Jul 2024"
+    },
+    {
+      "id": "135517",
+      "category": "Others",
+      "name": "Child spectacles",
+      "description": "Client is a single mother caring for her mother. They have just moved into their rental flat. Child's spectacles is spoilt and client has financial difficulty buying a new one. A replacement will help child to read and learn in school.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Shannon Ong",
+        "email": "shannonong@fycs.org",
+        "phone": [
+          "69783488",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Jul 2024"
+    },
+    {
+      "id": "135513",
+      "category": "Others",
+      "name": "Tena diapers - Size XL Tape",
+      "description": "CT is diagnosed with cancer and requires diapers due to incontinence. She is from low income family hence require help to purchase the diapers.",
+      "specifications": "Tena brand - Size XL tape",
+      "contact": {
+        "org": "AIN Society",
+        "name": "Nur'Ain Binte Mohamed Said",
+        "email": "nurain@ainsociety.org.sg",
+        "phone": [
+          "68485116",
+          "68485166"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Jul 2024"
+    },
+    {
       "id": "135501",
       "category": "Others",
       "name": "Food rations",
@@ -1055,22 +1108,58 @@
       "date": "11 Jun 2024"
     },
     {
-      "id": "124123",
+      "id": "135509",
       "category": "Home Furnishing",
-      "name": "Single sized bed",
-      "description": "Client is 76 years old. He is living in a 1 room rental flat and has been sleeping on a soiled mattress that has not been changed. \n\nHe is frail and does not have the capacity to work. \n\nYour donation will greatly help him in a more comfortable and sanitary living condition.",
-      "specifications": "91 cm x 190 cm",
+      "name": "Chest of drawers",
+      "description": "Family with a 7-year-old child faces strained finances. Wife is working and husband is looking for employment. They are looking for a second-hand chest of drawers to place folded clothes.",
+      "specifications": null,
       "contact": {
-        "org": "THK Cluster Support @ Geylang",
-        "name": "Sabrina Wong",
-        "email": "sabrina.wong@thkmc.org.sg",
+        "org": "Montfort Care - @27 Family Service Centre",
+        "name": "Cheryl Chew",
+        "email": "cheryl.chew@montfortcare.org.sg",
         "phone": [
-          "63371201",
-          "68461228"
+          "97329677",
+          "62708327"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "10 Jul 2024"
+      "date": "11 Jul 2024"
+    },
+    {
+      "id": "135508",
+      "category": "Home Furnishing",
+      "name": "Make Up Table",
+      "description": "Family with a 7-year-old child faces strained finances. Wife is working and husband is looking for employment. They are looking for a second-hand make up table.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - @27 Family Service Centre",
+        "name": "Cheryl Chew",
+        "email": "cheryl.chew@montfortcare.org.sg",
+        "phone": [
+          "97329677",
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Jul 2024"
+    },
+    {
+      "id": "135506",
+      "category": "Home Furnishing",
+      "name": "Shoe Cabinet",
+      "description": "Family with a 7-year-old child faces strained finances. Wife is working and husband is looking for employment. They are looking for a second-hand shoe cabinet",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - @27 Family Service Centre",
+        "name": "Cheryl Chew",
+        "email": "cheryl.chew@montfortcare.org.sg",
+        "phone": [
+          "97329677",
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Jul 2024"
     },
     {
       "id": "135491",
@@ -1153,24 +1242,6 @@
         "email": "hidayah@sccfsc.org.sg",
         "phone": [
           "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Jul 2024"
-    },
-    {
-      "id": "135436",
-      "category": "Home Furnishing",
-      "name": "Single size bed and mattress",
-      "description": "Single elderly man, unable to work permanently due to a neurocondition. \n\nCurrently sleeping on a 5 y.o wired bed frame and mattress; bed frame is starting to rust",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - GoodLife! @ Telok Blangah",
-        "name": "Chen Jie Mei",
-        "email": "jiemei.chen@montfortcare.org.sg",
-        "phone": [
-          "62746904",
-          "62708327"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1945,17 +2016,17 @@
       "date": "10 Jun 2024"
     },
     {
-      "id": "135500",
+      "id": "135518",
       "category": "Infant and Children Items",
-      "name": "Playpen",
-      "description": "Low income couple with a 9mth old daughter. They live in HDB rental housing. Needs a playpen to provide daughther a safe place to play n sleep in",
-      "specifications": null,
+      "name": "Pedia Sure GOLD Milk (Original flavour)",
+      "description": "Client is the sole breadwinner of the family with three young children, one being a newborn. The family is of low income and staying in a rental flat. They are dependent on financial assistance from SSO to meet their basic needs. As such, the family will greatly benefit from this support to alleviate their monthly financial costs.",
+      "specifications": "Standard Size",
       "contact": {
-        "org": "TRANS Family Service Centre (Bedok)",
-        "name": "Muhammad Hamizan Danial",
-        "email": null,
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Muhammamd Farhan Bin Abdul Rahman",
+        "email": "muhdfarhan.abdrahman@ppis.sg",
         "phone": [
-          "64490762"
+          "65613462"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3009,6 +3080,42 @@
       "date": "10 Jun 2024"
     },
     {
+      "id": "135515",
+      "category": "Medical Aids",
+      "name": "Glucometer",
+      "description": "Family of 7. Main caregiver has been diagnosed with diabetes and would require a glucometer to measure her blood sugar. Her health condition would greatly impact her caregiving of her children. As such, it would be important for her to care for her health in order to continue caring for her children. The family is faced with financial constraints as father is the sole breadwinner supporting the family of 7.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Joanna Tay",
+        "email": "joannatay@fycs.org",
+        "phone": [
+          "66901029",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Jul 2024"
+    },
+    {
+      "id": "135510",
+      "category": "Medical Aids",
+      "name": "Tena pants diapers",
+      "description": "We are requesting for donations for diapers for our clients. \n- Elderly couple - both requires diapers due to various physical health conditions. They're receiving ComCare assistance and depend on the good will of organizations to provide diapers. \n- Elderly man with chronic incontinence, tends to wear his soiled diapers throughout the day to minimize wastage. Estranged relationship from his children, so he have limited financial resources. \n- Elderly lady, wheelchair bound throughout the day. Husband is her primary caregiver and due to his frailty, client needs to wear diapers throughout the day. Couple do not have children of their own, and have been trying to cope with the increased cost of living in their own ways.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Telok Blangah",
+        "name": "Chen Jie Mei",
+        "email": "jiemei.chen@montfortcare.org.sg",
+        "phone": [
+          "62746904",
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Jul 2024"
+    },
+    {
       "id": "135480",
       "category": "Medical Aids",
       "name": "Blood pressure monitor",
@@ -3304,6 +3411,78 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "11 Jun 2024"
+    },
+    {
+      "id": "135516",
+      "category": "Electrical Home Appliances",
+      "name": "Induction cooker",
+      "description": "Family has 4 young children and staying in a rental flat. Due to recent gas leak, they had to discard an existing stove set. They require donation of induction cooker to continue cooking healthier meals for the children.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Jessica Ho",
+        "email": "jessica.ho@montfortcare.org.sg",
+        "phone": [
+          "91780052",
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Jul 2024"
+    },
+    {
+      "id": "135514",
+      "category": "Electrical Home Appliances",
+      "name": "TV",
+      "description": "A 73year old gentleman, after spending some time in the transitional shelter, finally managed to get a public housing rental flat. Even though of age, he is still working. To ease his financial burden, he like to request for a TV for his new 1 room flat,which he sharing with another senior, so that they can get suitable entertainment during their free time.   Appreciate if donor can deliver the item to their unit too.\n\nIf this speaks to you, please email their social worker (anntat@newhopecs.org.sg) or whatsapp him at 87952925\n\nThank you for your kindness.",
+      "specifications": null,
+      "contact": {
+        "org": "New Hope Community Services",
+        "name": "Goh Ann Tat",
+        "email": "anntat@newhopecs.org.sg",
+        "phone": [
+          "87952925",
+          "63059620"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Jul 2024"
+    },
+    {
+      "id": "135507",
+      "category": "Electrical Home Appliances",
+      "name": "Front Load Washing machine",
+      "description": "Family is a single mother with 2 young children in pre-school, they have just moved into their rental flat a few months ago. The single mother is temporarily unfit for work due to medical condition, however hopes to seek employment again once her health is stable. Family's donated washing machine broke down, and is seeking donation of a replacement.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Transitional Shelter",
+        "name": "Nur Hazleena Binte Roslee",
+        "email": "nur_hazleena@awwa.org.sg",
+        "phone": [
+          "65511676",
+          "65117272"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Jul 2024"
+    },
+    {
+      "id": "135505",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Family with a 7-year-old child faces strained finances. Wife is working and husband is looking for employment. They are looking for a second-hand refrigerator.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - @27 Family Service Centre",
+        "name": "Cheryl Chew",
+        "email": "cheryl.chew@montfortcare.org.sg",
+        "phone": [
+          "97329677",
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Jul 2024"
     },
     {
       "id": "135502",
@@ -4708,23 +4887,6 @@
       "date": "09 Jul 2024"
     },
     {
-      "id": "135441",
-      "category": "Mobility Aids",
-      "name": "Walking Frame (3 sets)",
-      "description": "We would like to request for 3 sets of walking frame (without wheels) for our daycare centre. Kindly email for details / arrangements. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "Dementia Singapore",
-        "name": "Nur Aishah",
-        "email": "nur.aishah@dementia.org.sg",
-        "phone": [
-          "63895133"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Jul 2024"
-    },
-    {
       "id": "135429",
       "category": "Mobility Aids",
       "name": "Wheelchair",
@@ -5168,23 +5330,12 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "135486",
-      "name": "Ikea Trofast Set (Black)",
-      "description": "Black ikea trofast combination shelf with storage boxes. 2 sets available.",
-      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-      "validTill": "18 Jul 2024",
+      "id": "135511",
+      "name": "Not covering delivery charges, please arrange for collection!",
+      "description": "Items are in good condition.\n\nN.B. Not covering delivery charges, please arrange for collection!",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "10 Aug 2024",
       "ageInYears": 4,
-      "dimensions": "99cm x 44cm x 95cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "135465",
-      "name": "Super single bed frame",
-      "description": "Used for a roughly a year while staying in the hall. The bed frame is in a good condition.",
-      "location": null,
-      "validTill": "14 Jul 2024",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
