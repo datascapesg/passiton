@@ -1056,21 +1056,22 @@
       "date": "13 Jun 2024"
     },
     {
-      "id": "135588",
+      "id": "135591",
       "category": "Home Furnishing",
-      "name": "Mattress and bedframe",
-      "description": "Family is a single parent household with two teenage daughters. Father is wheelchair bound and medically unfit for work as he is going through dialysis. Family is currently sleeping on an old mattress placed on the floor which makes it difficult for client to get up. Hence, family hopes to receive a new or donated mattress and bed frame so that his daughters will not have such a difficult time helping and supporting him up from the mattress to his wheelchair",
-      "specifications": null,
+      "name": "Cupboard x 2",
+      "description": "Caregiver will require 2 cupboards to help improve the tidiness, personal hygiene and living environment of the 4 sisters with intellectual disability at home. Caregiver's sole income has to manage elderly father's nursing home fee too hence unable to afford new furniture. Kindly assist, thank you!",
+      "specifications": "est 75cm (L) x 60cm (B) x 1.7 (H)",
       "contact": {
-        "org": "Allkin Family Service Centre @ Punggol 616",
-        "name": "Esther Quek",
-        "email": "estherquek@allkin.org.sg",
+        "org": "Filos Community Services Ltd",
+        "name": "Bobo Lee",
+        "email": "bobo@filos.sg",
         "phone": [
-          "64355323"
+          "62411503",
+          "62425978"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "13 Jul 2024"
+      "date": "14 Jul 2024"
     },
     {
       "id": "135557",
@@ -1160,24 +1161,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "12 Jul 2024"
-    },
-    {
-      "id": "135531",
-      "category": "Home Furnishing",
-      "name": "Super single bed frame",
-      "description": "Family of 7 is requesting for a bed frame (super single size). Previous frame broke shortly after purchase and family has difficulties purchasing another one as there are only 2 working adults for the whole family.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Services SSO @ Taman Jurong",
-        "name": "Chan Yvonne",
-        "email": "yvonne-chan@fycs.org",
-        "phone": [
-          "69783516",
-          "62672900"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "11 Jul 2024"
     },
     {
       "id": "135524",
@@ -2075,7 +2058,7 @@
       "id": "135562",
       "category": "Medical Aids",
       "name": "Adult Diapers (Brand: Tena, Size: L 114cm-147cm)",
-      "description": "Client (M33) is a single-dad to an 1-year old son. His wife is currently incarcerated in the Philipines for drug offence and client is living with his parents becoming the sole breadwinner to the household of six with his monthly income of $1300 working as a marine assistant. Client also continues to pay maintenance for her two daughters from previous marriage. (Siti)",
+      "description": "Client (F47) is the sole caregiver for her husband (M50) who had survived a stroke in March 2020,  which has led him to struggle in his speech, ambulation and ADL. (Siti)",
       "specifications": "Brand: Tena, Size: L 114cm-147cm)",
       "contact": {
         "org": "THK Family Service Centre @ Bedok North",
@@ -5210,6 +5193,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "26 Jun 2024"
+    },
+    {
+      "id": "135590",
+      "category": "Attires/Clothings",
+      "name": "Men's t-shirts/polo shirts",
+      "description": "Senior who is living alone only has 5 shirts at home to change in. He does not know how to use the washing machine so he hand washes them, but due to the limited amount of shirt he has to change into, he does not change regularly leading to poor personal hygiene.",
+      "specifications": "L size",
+      "contact": {
+        "org": "Allkin Singapore's Active Ageing Centre @ Ang Mo Kio 469",
+        "name": "Kei Ng",
+        "email": "ngkhuankungkei@allkin.org.sg",
+        "phone": [
+          "64510898"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Jul 2024"
     }
   ],
   "offers": [
@@ -5311,6 +5311,28 @@
       "dimensions": "W153 D79 H111 cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "135593",
+      "name": "IKEA dining solid wood table 1.2m",
+      "description": "4 dining chairs included with cloth covers, PU covers underneath is peeling and faded. Please indicate if prefer no chairs. \nTable top has some scratches.\nCollection from lift landing unit.  Appreciate if mover can quote cheaper or volunteer the move.",
+      "location": "Balestier, Toa Payoh",
+      "validTill": "13 Aug 2024",
+      "ageInYears": 4,
+      "dimensions": "Please refer to photo",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "135592",
+      "name": "Queen size bed frame",
+      "description": "This durable queen-size bed frame is light-weight, and can be easily stowed away/transported. It is also possible to put storage boxes under the bed.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "31 Jul 2024",
+      "ageInYears": 4,
+      "dimensions": "190 X 152 x 25.5",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "135580",
@@ -5454,6 +5476,17 @@
       "dimensions": "Width - 54cm  height 140cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "135594",
+      "name": "Breast pump, baby bottles and other related items",
+      "description": "Brand of pump is Mendela",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "13 Aug 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "135438",
