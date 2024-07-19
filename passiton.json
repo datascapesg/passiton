@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "135800",
+      "category": "Others",
+      "name": "Pasar Rock Sugar (500g)",
+      "description": "PPIS FSCW RELIGHT would like to request for 25 packets of Pasar Rock Sugar (500g) for its beneficiaries. Thank you! \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
+      "specifications": "500g",
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Sim Yan Ling",
+        "email": "yanling.sim@ppis.sg",
+        "phone": [
+          "65613462ext503",
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jul 2024"
+    },
+    {
+      "id": "135799",
+      "category": "Others",
+      "name": "Pasar Luo Han Guo (30g)",
+      "description": "PPIS FSCW RELIGHT would like to request for 25 packets of Pasar Luo Han Guo (30g) for its beneficiaries. Thank you! \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
+      "specifications": "30g",
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Sim Yan Ling",
+        "email": "yanling.sim@ppis.sg",
+        "phone": [
+          "65613462ext503",
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jul 2024"
+    },
+    {
       "id": "135749",
       "category": "Others",
       "name": "Pediasure Vanilla 1.6KG",
@@ -1038,6 +1074,42 @@
       "date": "18 Jun 2024"
     },
     {
+      "id": "135802",
+      "category": "Home Furnishing",
+      "name": "Children's Queen Size",
+      "description": "Family of 9 is requesting for mattress for 6 young children between 6 years old to 12 year old. Their current mattress has been spoiled to a state whereby it needs replacement. Father was the sole breadwinner of the family but was unemployed due to a fall, while mother is the main caregiver of their 7 children. During this period, the family is relying on formal financial support to make ends meet.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Nurul Khairiah, Khai",
+        "email": "nurul_khairiah@awwa.org.sg",
+        "phone": [
+          "65119471",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jul 2024"
+    },
+    {
+      "id": "135801",
+      "category": "Home Furnishing",
+      "name": "Donation of bedframe and mattress",
+      "description": "The client is a 74-year-old single individual living alone in a rental flat. He has no family support and relies on government payouts for his daily living expenses. Due to a bedbug infestation, his current bedframe and mattress need to be thrown away and replaced. He does not have the means to purchase new ones and is seeking preloved items to replace them.",
+      "specifications": null,
+      "contact": {
+        "org": "NTUC Health Cluster Support @ Bukit Merah",
+        "name": "Karen Chay",
+        "email": "karen.c@ntuchealth.sg",
+        "phone": [
+          "91461875",
+          "62741602"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jul 2024"
+    },
+    {
       "id": "135794",
       "category": "Home Furnishing",
       "name": "Single-size High Density Foam Mattress",
@@ -1282,24 +1354,6 @@
       "date": "16 Jul 2024"
     },
     {
-      "id": "135677",
-      "category": "Home Furnishing",
-      "name": "Single Bed Frame",
-      "description": "86y/o male retiree currently living in a 1 room rental flat with his elderly son has been sleeping on a mattress on the floor due to lack of bed frame. Having a bed frame would help him to get up from bed more easily in view of his old age. Client would prefer a metal bed frame compared to a wooden one. He has an existing mattress that is still usable but new mattress is welcomed.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - GoodLife! @ Telok Blangah",
-        "name": "Liaw Wan Qing",
-        "email": "wanqing.liaw@montfortcare.org.sg",
-        "phone": [
-          "62746904",
-          "62708327"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Jul 2024"
-    },
-    {
       "id": "135674",
       "category": "Home Furnishing",
       "name": "Queen Size Bed with Bed Frame",
@@ -1316,24 +1370,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "16 Jul 2024"
-    },
-    {
-      "id": "135619",
-      "category": "Home Furnishing",
-      "name": "Foldable Mattress X3",
-      "description": "Client has multiple young school-going children. She is the main caregiver of the children. Youngest child is 10 months old and husband has recently fallen sick. Family is struggling financially and requires support. (K)",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Low Kim Yong",
-        "email": "lowkimyong@thkmc.org.sg",
-        "phone": [
-          "81883314",
-          "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Jul 2024"
     },
     {
       "id": "135616",
@@ -2542,6 +2578,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "19 Jun 2024"
+    },
+    {
+      "id": "135797",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder for 4-year-old",
+      "description": "Child lives in a two-room rental flat with his grandmother, aunts and uncles. Household does not have income to afford milk powder for him.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Quak Mei Qing",
+        "email": "meiqing@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jul 2024"
     },
     {
       "id": "135783",
@@ -4012,6 +4065,24 @@
       "date": "18 Jun 2024"
     },
     {
+      "id": "135798",
+      "category": "Electrical Home Appliances",
+      "name": "TV",
+      "description": "69 year old elderly man living alone in a rental flat at Toa Payoh Lor 7, requires a TV so he can keep up to date with the news and also to keep him occupied as he lives alone and has lost contact with his family. He requires a TV with the appropriate wires and fittings to be able to work upon delivery as he would not be able to afford to pay for the appropriate wires as he is on government financial support. You may contact me at my email: michaelbinny@catholicwelfare.org.sg, or on my work mobile: 84840008. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "Catholic Welfare Services",
+        "name": "Ian Michael Binny",
+        "email": "mbinny@catholicwelfare.org.sg",
+        "phone": [
+          "68017489",
+          "63394711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jul 2024"
+    },
+    {
       "id": "135793",
       "category": "Electrical Home Appliances",
       "name": "2-door fridge",
@@ -4360,24 +4431,6 @@
         "phone": [
           "66901029",
           "66901000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Jul 2024"
-    },
-    {
-      "id": "135676",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Single, retired senior who is a cancer survivor and currently living in a rental flat has been washing his clothes by hand after his previous washer broke down. Climate voucher is not enough to cover the cost of purchasing a new washing machine that is within his budget due to limited financial resources. In view of his poor health, having a new washing machine to help him with his laundry would be greatly beneficial. Wash load of 7-8kg should be sufficient and client hopes to have a machine that is not too bulky so that it can fit nicely in his 1-room rental unit. Assistance with delivery and installation required as client is also hard of hearing, has difficulty communicating with others.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - GoodLife! @ Telok Blangah",
-        "name": "Liaw Wan Qing",
-        "email": "wanqing.liaw@montfortcare.org.sg",
-        "phone": [
-          "62746904",
-          "62708327"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -5808,6 +5861,23 @@
       "date": "18 Jun 2024"
     },
     {
+      "id": "135796",
+      "category": "Mobility Aids",
+      "name": "Wheelchair",
+      "description": "Mr. Sng requires a functional wheelchair to help him attend his appointments more easily. He experienced a severe fall in December 2023, which has rendered him unable to continue working as a security guard. Currently, he receives a monthly CPF payout of $400 and is using a walking frame. A wheelchair would significantly improve his mobility and overall well-being.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Cluster Support @ Geylang",
+        "name": "Nur Sabrina Binte Sanizal",
+        "email": "nur.sabrina@thkmc.org.sg",
+        "phone": [
+          "68461228"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jul 2024"
+    },
+    {
       "id": "135789",
       "category": "Mobility Aids",
       "name": "Commode",
@@ -6475,17 +6545,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "135337",
-      "name": "Fabric sofa with extra cover",
-      "description": "Ikea 3 seater fabric sofa with extra cover.   Good condition.",
-      "location": "Changi, Flora, Loyang",
-      "validTill": "04 Aug 2024",
-      "ageInYears": 2,
-      "dimensions": "88 x 218 x 45 cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "135103",
       "name": "desk",
       "description": "3 desks available",
@@ -6517,17 +6576,6 @@
       "dimensions": "queen size",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
-    },
-    {
-      "id": "135791",
-      "name": "Nestle Nan Stage 3 Milk Powder (850g + 400g)",
-      "description": "Nestle Nan Stage 3 milk powder. For children 1 year old onwards. One full size tin (850g, expiry in 2026) and one sample size tin (400g, expiry in 2025). New and unopened. NOTE: I have an earlier post (ID 135790) stating the same item; but I have made an error and am unable to edit my item, so I am creating a new post.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "12 Aug 2024",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
     },
     {
       "id": "135790",
