@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "135787",
-      "category": "Others",
-      "name": "Non- Smart Phone",
-      "description": "Family of 5 in a household, consists of 2 school going children, with one with special needs. Father is working as a security officer with long working hours, with spouse also taking up courses as a security officer. They are also temporary housing paternal uncle and supporting with his needs. The family lacks finances to purchase a non smart phone, which will be useful for both children to contact the parents for emergency needs when they are out for work.",
-      "specifications": "3G/4G Non Smart phone",
-      "contact": {
-        "org": "Allkin Family Service Centre @ Cheng San 445",
-        "name": "Nur Farisha",
-        "email": "nurfarisha@allkin.org.sg",
-        "phone": [
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Jul 2024"
-    },
-    {
       "id": "135749",
       "category": "Others",
       "name": "Pediasure Vanilla 1.6KG",
@@ -1053,6 +1036,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "18 Jun 2024"
+    },
+    {
+      "id": "135794",
+      "category": "Home Furnishing",
+      "name": "Single-size High Density Foam Mattress",
+      "description": "Elderly uncle 71 yrs living in 1-room HDB rental flat needs to replace his existing mattress which is badly stained and torn. As item will be used for sleeping, please do not donate item that are badly stained or too old. Many Thanks.",
+      "specifications": null,
+      "contact": {
+        "org": "Moral Active Ageing Centre @ Kaki Bukit",
+        "name": "Gary Tan",
+        "email": "garytan@chkmps.org.sg",
+        "phone": [
+          "64486247"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jul 2024"
     },
     {
       "id": "135765",
@@ -4012,6 +4012,41 @@
       "date": "18 Jun 2024"
     },
     {
+      "id": "135793",
+      "category": "Electrical Home Appliances",
+      "name": "2-door fridge",
+      "description": "Elderly aunty above 85 yrs old living in 1-room HDB rental flat needs mid-size (i.e., 200 to 300L or approx 600x1650mm) 2-door fridge. The thermostat of her current fridge is faulty. Many Thanks.",
+      "specifications": null,
+      "contact": {
+        "org": "Moral Active Ageing Centre @ Kaki Bukit",
+        "name": "Gary Tan",
+        "email": "garytan@chkmps.org.sg",
+        "phone": [
+          "64486247"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jul 2024"
+    },
+    {
+      "id": "135792",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave",
+      "description": "A low-income family with three children is in need of a microwave oven.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Cheng San 445",
+        "name": "Joyce Ng",
+        "email": "joyceng@allkin.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jul 2024"
+    },
+    {
       "id": "135788",
       "category": "Electrical Home Appliances",
       "name": "Donation of TV",
@@ -6092,24 +6127,6 @@
       "date": "21 Jun 2024"
     },
     {
-      "id": "135785",
-      "category": "Leisure and Healthy Lifestyle",
-      "name": "Mobile phone",
-      "description": "Single elderly staying alone in a rental flat needs a basic smartphone as his current phone is broken and has no other revenue to call for assistance.",
-      "specifications": null,
-      "contact": {
-        "org": "Dover Park Hospice",
-        "name": "Celestine Tay",
-        "email": "celestine_tay@doverpark.sg",
-        "phone": [
-          "65000641",
-          "65007272"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Jul 2024"
-    },
-    {
       "id": "135755",
       "category": "Leisure and Healthy Lifestyle",
       "name": "Vitamin C tablets",
@@ -6280,6 +6297,17 @@
       "dimensions": "W153 D79 H111 cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "135795",
+      "name": "Single Size Mattress",
+      "description": "Single Size Mattress\nonly used for 6 months\n11 inch thick",
+      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+      "validTill": "18 Aug 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "135767",
@@ -6524,17 +6552,6 @@
       "category": "Infant and Children Items"
     },
     {
-      "id": "135724",
-      "name": "Kids Standing Whiteboard",
-      "description": "Used condition but well maintained.",
-      "location": "Changi, Flora, Loyang",
-      "validTill": "25 Jul 2024",
-      "ageInYears": 4,
-      "dimensions": "60cm x 39cm x 118cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
       "id": "135712",
       "name": "Kids Table With Chair",
       "description": "Used condition but well maintained. Standard wear and tear.",
@@ -6652,17 +6669,6 @@
       "validTill": "16 Aug 2024",
       "ageInYears": 1,
       "dimensions": "small",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
-      "id": "135643",
-      "name": "Oxygen Therapy set (x1 Bag, x3 oxygen concentrator, x1 regulator)",
-      "description": "Comes with 1 regulator, 1 oxygen cylinder bag, and 3 oxygen cylinders.\nA refill may be needed as it has been ~6 months since the last use. It can be done at lifeline.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "14 Aug 2024",
-      "ageInYears": 1,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
     },
