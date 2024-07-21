@@ -90,24 +90,6 @@
       "date": "18 Jul 2024"
     },
     {
-      "id": "135705",
-      "category": "Others",
-      "name": "TENA Wet wipes",
-      "description": "Client is a 21 year old with Cancer stage 4 & a low prognosis.He isbed bound. Client lives with his parents. Currently, mother is the caregiver and step-father is the sole income earner.",
-      "specifications": "Any",
-      "contact": {
-        "org": "AIN Society",
-        "name": "Norhashimah Binti Kamarudin",
-        "email": "shimah@ainsociety.org.sg",
-        "phone": [
-          "68485163",
-          "68485166"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Jul 2024"
-    },
-    {
       "id": "135671",
       "category": "Others",
       "name": "Meiji Milk Multivitamin",
@@ -531,24 +513,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "05 Jul 2024"
-    },
-    {
-      "id": "135257",
-      "category": "Others",
-      "name": "Milo Powder (Refill)",
-      "description": "Our home need 40 packets of (900g) Milo powder (Refill) for our 522 elderly residents. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "Ju Eng Home For Senior Citizens",
-        "name": "Lee Jun Hui",
-        "email": "junhui@jeh.org.sg",
-        "phone": [
-          "64846890ext127",
-          "64846890"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Jul 2024"
     },
     {
       "id": "135242",
@@ -3093,24 +3057,6 @@
       "date": "09 Jul 2024"
     },
     {
-      "id": "135444",
-      "category": "Infant and Children Items",
-      "name": "Baby Cot",
-      "description": "Client is a single father to 8 young children living in the household, his partner just gave birth to a newborn girl in June 2024 and requires a baby cot. (Dy\nl)",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Low Kim Yong",
-        "email": "lowkimyong@thkmc.org.sg",
-        "phone": [
-          "81883314",
-          "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Jul 2024"
-    },
-    {
       "id": "135437",
       "category": "Infant and Children Items",
       "name": "Diapers",
@@ -3254,23 +3200,6 @@
       "name": "Pull-up diapers (XL size)",
       "description": "Low income family with 6 children residing in a 2-room rental flat. Family is in need of a replacement of their washing machine which has broken down. Client and wife are working but income is insufficient to purchase a new set.",
       "specifications": "4 pkts Any Brand",
-      "contact": {
-        "org": "Allkin Family Service Centre @ Cheng San 445",
-        "name": "Nur Farisha",
-        "email": "nurfarisha@allkin.org.sg",
-        "phone": [
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Jul 2024"
-    },
-    {
-      "id": "135380",
-      "category": "Infant and Children Items",
-      "name": "Baby Crib",
-      "description": "Client has given birth recently to her 6th child. She has 5 other young children, and her husband is working dual jobs to supplement the family's income. The couple does not have the financial capacity to afford a baby crib for their newborn.",
-      "specifications": null,
       "contact": {
         "org": "Allkin Family Service Centre @ Cheng San 445",
         "name": "Nur Farisha",
@@ -5944,15 +5873,59 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "135260",
-      "name": "Massage Chair",
-      "description": "This is an Osim Massage Chair that is almost 12 years. Still functioning and very under use. Would like to donate to any beneficiary who will have more need than we do.",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "30 Jul 2024",
+      "id": "135829",
+      "name": "Rattan chair",
+      "description": "Good",
+      "location": null,
+      "validTill": "20 Aug 2024",
       "ageInYears": 4,
-      "dimensions": "W153 D79 H111 cm",
+      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "135828",
+      "name": "Single bed frame with mattress",
+      "description": "Pls arrange for self collection.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "24 Jul 2024",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "135827",
+      "name": "Office chair",
+      "description": "Office chair that is adjustable and on wheels. Fabric is stained due to age. It’s more than 5 years old. Transport and delivery will not be provided, only by self collection please. Thank you.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "23 Jul 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "135826",
+      "name": "2 mattress",
+      "description": "Standard Single  bed frame and 1 13 inch kingcoil mattress and topper and 1more normal single size mattress.\nAll dry clean before donating.",
+      "location": "Braddell , Macpherson, Potong Pasir",
+      "validTill": "20 Aug 2024",
+      "ageInYears": 1,
+      "dimensions": "Standard Single bed size",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "135825",
+      "name": "IKEA malm (side board)",
+      "description": "Giving away chest cupboard. All drawers working well.",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "20 Aug 2024",
+      "ageInYears": 4,
+      "dimensions": "160 * 50 * 78",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "135823",
