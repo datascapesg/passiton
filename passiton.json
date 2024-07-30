@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "136101",
+      "category": "Home Furnishing",
+      "name": "Sofa",
+      "description": "Client's sofa is worn-out. She is unable to afford to purchase a set of sofa as it would be financially taxing for her. Client is a single-mother of two daughters with ID. There is no source of income in the family.",
+      "specifications": "70 x 30 inch",
+      "contact": {
+        "org": "FRCS Family Service Centre",
+        "name": "Eunice Koh",
+        "email": "eunice@frcsfsc.sg",
+        "phone": [
+          "67799488ext17",
+          "67799488"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "30 Jul 2024"
+    },
+    {
       "id": "117728",
       "category": "Home Furnishing",
       "name": "Medium Sized Wardrobe",
@@ -22,24 +40,6 @@
       "category": "Home Furnishing",
       "name": "Foldable Mattress and Pillows",
       "description": "Low income family requires foldable mattress & pillows to improve the sleep comfort of their young children having secured a new public rental flat. They require support due to financial constraints and require the item urgently due to short move in period. Please WhatsApp Ignatius at 8718 8452 or email to Ignatius.Pereira@thkmc.org.sg to liaise.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Lynette Tan",
-        "email": "lynettetan@thkmc.org.sg",
-        "phone": [
-          "64961272",
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Jul 2024"
-    },
-    {
-      "id": "136086",
-      "category": "Home Furnishing",
-      "name": "Small computer table",
-      "description": "Client is a single mother with 4 children. The family is residing in a 2-room HDB rental flat. Client hopes to have a small computer table for her children to do their homework. Please WhatsApp Fang Ling at 8588 6196 or email to fangling.koh@thkmc.org.sg to liaise.",
       "specifications": null,
       "contact": {
         "org": "THK Family Service Centre @ Tanjong Pagar",
@@ -1023,6 +1023,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "30 Jun 2024"
+    },
+    {
+      "id": "136099",
+      "category": "Others",
+      "name": "Underpads for Bed",
+      "description": "Client is a 21 year old with Cancer stage 4 & a low prognosis.He is currently bed-bound and needs bed underpads.Client lives with his parents. Currently, mother is the caregiver and step-father is the sole income earner.",
+      "specifications": "Large",
+      "contact": {
+        "org": "AIN Society",
+        "name": "Norhashimah Binti Kamarudin",
+        "email": "shimah@ainsociety.org.sg",
+        "phone": [
+          "68485163",
+          "68485166"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Jul 2024"
     },
     {
       "id": "125623",
@@ -2010,6 +2028,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "01 Jul 2024"
+    },
+    {
+      "id": "136102",
+      "category": "Infant and Children Items",
+      "name": "Durgo Stage 4",
+      "description": "Yishun Family Service @ Children's Society requires 6 tins of Durgo Stage 4 for client's child daily intake. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society Corporate Office",
+        "name": "Kartini",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "69787279",
+          "62732010"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Jul 2024"
     },
     {
       "id": "136096",
@@ -5271,24 +5307,6 @@
       "date": "11 Jul 2024"
     },
     {
-      "id": "135505",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Family with a 7-year-old child faces strained finances. Wife is working and husband is looking for employment. They are looking for a second-hand refrigerator.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - @27 Family Service Centre",
-        "name": "Cheryl Chew",
-        "email": "cheryl.chew@montfortcare.org.sg",
-        "phone": [
-          "97329677",
-          "62708327"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "11 Jul 2024"
-    },
-    {
       "id": "135502",
       "category": "Electrical Home Appliances",
       "name": "Fridge",
@@ -5780,6 +5798,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "29 Jun 2024"
+    },
+    {
+      "id": "136098",
+      "category": "Mobility Aids",
+      "name": "Personal Mobility Device (PMD)",
+      "description": "Client is in his 60s, has asthma and knee problems hence face mobility difficulties. Limited social support. Requesting PMD for him to get around safely and attend his medical appointments more easily.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
+        "name": "Grace Lam",
+        "email": "gracelam@fycs.org",
+        "phone": [
+          "69782972",
+          "67625215"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Jul 2024"
     },
     {
       "id": "136079",
