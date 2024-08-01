@@ -1042,6 +1042,24 @@
       "date": "02 Jul 2024"
     },
     {
+      "id": "136187",
+      "category": "Others",
+      "name": "TENA Wet wipes",
+      "description": "Client is a 21 year old with Cancer stage 4 & a low prognosis.He is under palliative home care.He is currently bed-bound and needs wet wipes.Client lives with his parents. Currently, mother is the caregiver and step-father is the sole income earner.",
+      "specifications": "Any",
+      "contact": {
+        "org": "AIN Society",
+        "name": "Norhashimah Binti Kamarudin",
+        "email": "shimah@ainsociety.org.sg",
+        "phone": [
+          "68485163",
+          "68485166"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Aug 2024"
+    },
+    {
       "id": "136180",
       "category": "Others",
       "name": "Food Ration",
@@ -6428,6 +6446,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "136185",
+      "name": "Vacuum cleaner",
+      "description": "Vacuum cleaner. Will deliver only to areas near Senkang including Punggol, AMK, Serangoon etc",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "31 Aug 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "136159",
       "name": "Takahi Slow Cooker (4.7l) & Tefal Rice cooker",
       "description": "Giving away lightly used Takahi 4.7L slow cooker and used Tefal 10 cups rice cooker.",
@@ -6435,17 +6464,6 @@
       "validTill": "30 Aug 2024",
       "ageInYears": 3,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "136157",
-      "name": "Midea 6 kg dryer",
-      "description": "Used Midea dryer in working condition. \nUsed Thomson (Brandt) washer in excellent working condition",
-      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-      "validTill": "20 Aug 2024",
-      "ageInYears": 4,
-      "dimensions": "645 x 580 x 890",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
     },
@@ -6470,6 +6488,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "136186",
+      "name": "Super Single Thick Spring Mattress with bedsheet",
+      "description": "8-10 inch thick spring mattress.\nVery good condition as it was seldom used as it was a spare with topper.\nIdeal if charity organization has own vehicle.",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "31 Aug 2024",
+      "ageInYears": 3,
+      "dimensions": "100cmx190cmx8inch thick",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "136160",
@@ -6602,6 +6631,28 @@
       "dimensions": "Width 172cm x depth 113cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "136184",
+      "name": "Cloth diapers",
+      "description": "2 Newborn nappies (Ocean Meadow and Delivery Storker), 6 Prefold unbleached organic cotton\nhttps://littlelalang.com/collections/newborn",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "31 Aug 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "136183",
+      "name": "Breathable mesh cot liner",
+      "description": "4 sided wrap includes 1 x long panel 292 cm and 1 x short panel 226 cm. Unopened and unused.",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "31 Aug 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "136064",
@@ -6899,6 +6950,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "136182",
+      "name": "Absorbent cold pad with adhesive strip",
+      "description": "For maternity / postpartum care",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "31 Aug 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "136135",
