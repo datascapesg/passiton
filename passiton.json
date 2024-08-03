@@ -814,24 +814,6 @@
       "date": "16 Jul 2024"
     },
     {
-      "id": "135689",
-      "category": "Home Furnishing",
-      "name": "Single mattress",
-      "description": "Single elderly lady 90years old looking for a new single size mattress. Current mattress is very worn and deformed. \nBest if comes with a bedsheet and not too soft for her age.",
-      "specifications": "around 90cm x 190cm (thickness about 10cm))",
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Justin Weng",
-        "email": "justin.weng@montfortcare.org.sg",
-        "phone": [
-          "97245646",
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Jul 2024"
-    },
-    {
       "id": "135612",
       "category": "Home Furnishing",
       "name": "Mattress",
@@ -6420,6 +6402,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "136239",
+      "name": "Super Single Mattress only",
+      "description": "standard Super Single size",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "31 Aug 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "136238",
