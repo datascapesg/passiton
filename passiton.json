@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "136306",
+      "category": "Home Furnishing",
+      "name": "Single Mattress",
+      "description": "The senior's mattress is spoilt and sunken, affecting her posture and discomfort during sleep. \nThe senior has multiple health issues, and is financially destitute, leading to the senior continuing the mattress even though it is not good for her back.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Community Services",
+        "name": "Julia Soh Ying Li",
+        "email": "juliasoh@fycs.org",
+        "phone": [
+          "63809155",
+          "63809169"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Aug 2024"
+    },
+    {
       "id": "136302",
       "category": "Home Furnishing",
       "name": "Kitchen Cabinet",
@@ -3662,6 +3680,42 @@
       "date": "05 Jul 2024"
     },
     {
+      "id": "136305",
+      "category": "Electrical Home Appliances",
+      "name": "portable aircon/standing fan",
+      "description": "Client and her husband live with their five teenage/young adult children, all of whom have low incomes. The youngest is still in school. Client and two of her children suffer from asthma, have outstanding medical bills, and struggle to sleep in their stuffy room. One of the rooms has a non-functioning air conditioner, and they cannot afford a replacement. The family would greatly benefit a portable aircon or floor-standing fan to improve their situation.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
+        "name": "Joanne Wong",
+        "email": "joannewongsm@fycs.org",
+        "phone": [
+          "67719557",
+          "67625215"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Aug 2024"
+    },
+    {
+      "id": "136304",
+      "category": "Electrical Home Appliances",
+      "name": "Vacuum cleaner (Wireless)",
+      "description": "Client is an elderly lady living alone while moderate social support systems. She has multiple health concerns, that also affects her mobility and weak arm strength. Despite her challenges, she still has a strong sense of independence and would like to still do household chores on her own. Hence we are requesting a wireless vacuum to aid her in her household chores.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services SSO @ Taman Jurong",
+        "name": "Chan Yvonne",
+        "email": "yvonne-chan@fycs.org",
+        "phone": [
+          "69783516",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Aug 2024"
+    },
+    {
       "id": "136271",
       "category": "Electrical Home Appliances",
       "name": "Vacuum cleaner",
@@ -6270,17 +6324,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "136300",
-      "name": "Bed",
-      "description": "Item age is more than 10 years. (10-15) However, it is still in good working condition. It is a double-decker bed with a bottom pull-out mattress. Both mattresses are super single. Dimensions are measured according to the size of the entire double-decker bed shown in the pictures.",
-      "location": "Braddell , Macpherson, Potong Pasir",
-      "validTill": "20 Aug 2024",
-      "ageInYears": 4,
-      "dimensions": "190x 105x 55",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "136299",
       "name": "Dining table",
       "description": "Item age more than 10 years. However, it is in good working condition besides some of the paint at the ends coming off.",
@@ -6354,17 +6397,6 @@
       "validTill": "20 Aug 2024",
       "ageInYears": 2,
       "dimensions": "about L120 x W62 x H4",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "136186",
-      "name": "Super Single Thick Spring Mattress with bedsheet",
-      "description": "8-10 inch thick spring mattress.\nVery good condition as it was seldom used as it was a spare with topper.\nIdeal if charity organization has own vehicle.",
-      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-      "validTill": "31 Aug 2024",
-      "ageInYears": 3,
-      "dimensions": "100cmx190cmx8inch thick",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -6457,22 +6489,22 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "136276",
-      "name": "Baby clothes",
-      "description": "baby clothes which are in good condition",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "12 Aug 2024",
+      "id": "136307",
+      "name": "Toys",
+      "description": "Toys for infants",
+      "location": "Farrer Park, Little India, Serangoon Road",
+      "validTill": "04 Sep 2024",
       "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
     },
     {
-      "id": "136253",
-      "name": "Baby girl clothes 1 to 3 year old",
-      "description": "Clothes for ages from 1- to 3-year-olds",
-      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-      "validTill": "03 Sep 2024",
+      "id": "136276",
+      "name": "Baby clothes",
+      "description": "baby clothes which are in good condition",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "12 Aug 2024",
       "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
