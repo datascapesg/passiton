@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "136410",
+      "category": "Home Furnishing",
+      "name": "1-seater sofa",
+      "description": "Client has 8 children living together with her. They are financially stretched as husband is the sole income earner for the large household. Family would like to seek a donation of 1-seater sofa to fit in their 2-room HDB rental unit. Understand that she has no means to afford for it but would gladly accept a pre-loved/new item if have.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Ang Mo Kio",
+        "name": "Siti Khairiyah Bte Affandi",
+        "email": "siti_khairiyah_affandi@msf.gov.sg",
+        "phone": [
+          "65547917",
+          "18002220000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Aug 2024"
+    },
+    {
       "id": "136407",
       "category": "Home Furnishing",
       "name": "Double decker bed (with queen size at bottom and single size on top) NO mattress required.",
@@ -1909,6 +1927,23 @@
       "date": "08 Jul 2024"
     },
     {
+      "id": "136414",
+      "category": "Infant and Children Items",
+      "name": "Friso Milk Powder Stage 3",
+      "description": "Single father with 3 precshool-aged children living in a rental flat, who will benefit from milk powder donation.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Geraldine Ngu",
+        "email": "geraldinengu@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Aug 2024"
+    },
+    {
       "id": "136406",
       "category": "Infant and Children Items",
       "name": "Formula Milk (Dumex Dugro Stage 4)",
@@ -1921,23 +1956,6 @@
         "phone": [
           "88333080",
           "67169466"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Aug 2024"
-    },
-    {
-      "id": "136402",
-      "category": "Infant and Children Items",
-      "name": "Playmat",
-      "description": "Low income family with 3 children. Parents are hoping to obtain a playmat for their 6months old infant daughter to have a safe playmat for child to practice her gross motor skills (e.g., crawling)",
-      "specifications": null,
-      "contact": {
-        "org": "KidSTART @ Allkin",
-        "name": "Benjamin See",
-        "email": "benjaminsee@allkin.org.sg",
-        "phone": [
-          "65920490"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2254,23 +2272,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "02 Aug 2024"
-    },
-    {
-      "id": "136152",
-      "category": "Infant and Children Items",
-      "name": "Bottle Steriliser and Bottle Warmer",
-      "description": "Family of 5 is expecting a new born in December 2024 and requires help with obtaining bottle steriliser and bottle warmer. \nDue to caregiving needs in the family, father is the sole-breadwinner of the family while mother takes care of 3 school-going aged children. Father's income is limited with the expected increase in family's expenditure in the coming months.",
-      "specifications": null,
-      "contact": {
-        "org": "KidSTART @ Allkin",
-        "name": "Benjamin See",
-        "email": "benjaminsee@allkin.org.sg",
-        "phone": [
-          "65920490"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "31 Jul 2024"
     },
     {
       "id": "136139",
@@ -3547,6 +3548,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "08 Jul 2024"
+    },
+    {
+      "id": "136412",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine & Refridgerator",
+      "description": "Family of 5 with 3 young children still in preschool and parent just started work and finding better paying job. They have just been granted a 2-room rental flat in Wellington Circle, Sembawang and would require all the assistance for a more conducive living environment for the family with very young children.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Kreta Ayer",
+        "name": "Desmond Lee",
+        "email": "desmond_kh_lee@msf.gov.sg",
+        "phone": [
+          "60138544",
+          "1800-222-0000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Aug 2024"
+    },
+    {
+      "id": "136411",
+      "category": "Electrical Home Appliances",
+      "name": "Portable Aircon",
+      "description": "Family of 6 with 4 school going children and both parents have medical conditions. Sole breadwinner is on dialysis and has diabetic as well while 3 of the 4 children have Eczema where cooler temperature in the home is critical.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Kreta Ayer",
+        "name": "Desmond Lee",
+        "email": "desmond_kh_lee@msf.gov.sg",
+        "phone": [
+          "60138544",
+          "1800-222-0000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Aug 2024"
     },
     {
       "id": "136405",
@@ -6338,61 +6375,6 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "136409",
-      "name": "Washin Machine",
-      "description": "Good working condition. Family moved to new unit",
-      "location": null,
-      "validTill": "31 Aug 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "136408",
-      "name": "Fridge",
-      "description": "Working condition. Family moved to new unit.",
-      "location": null,
-      "validTill": "31 Aug 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "136404",
-      "name": "TV",
-      "description": "self collect only",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "05 Sep 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "136403",
-      "name": "Bar Fridge",
-      "description": "self collect only",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "05 Sep 2024",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "136399",
-      "name": "Fridge",
-      "description": "self collect only",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "05 Sep 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "136397",
       "name": "wall fan",
       "description": "self collect only",
@@ -6514,6 +6496,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "136413",
+      "name": "Brand New Carpets",
+      "description": "Brand new carpets with 3cm-6cm long furts, bottom antislip, round and rectangular with various sizes. those who wants can collect from me. No delivery covered. Self collection only.",
+      "location": "Woodlands",
+      "validTill": "07 Sep 2024",
+      "ageInYears": 1,
+      "dimensions": "variety sizes",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "136398",
       "name": "Shoe Cabinet",
       "description": "self collection",
@@ -6574,28 +6567,6 @@
       "description": "I have the above items - queen size bed with mattress, dresser and tv console. All made of pine wood. Sturdy and in good working order but a few scratches. Items available separately too.",
       "location": null,
       "validTill": "20 Aug 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "136375",
-      "name": "Brown reclinable two-seater sofa",
-      "description": "Very comfortable two- seater couch. Can recline. Easy maintenance - made of PVC leather",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "20 Aug 2024",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "136371",
-      "name": "Single & Twin Bunk bed",
-      "description": "Single mattress : L190xW90cm\nTwin mattress : L190xW120cm\nBed Frame : L198xW126cm",
-      "location": null,
-      "validTill": "16 Aug 2024",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
