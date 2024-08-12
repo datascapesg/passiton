@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "136506",
+      "category": "Home Furnishing",
+      "name": "Queen Size Mattress",
+      "description": "Family has 4 young children, including a newborn daughter, and currently facing financial difficulties. Husband is struggling to secure full-time employment and he is working as a food delivery rider, but the income is unstable. The family has recently moved to a new rental flat to be closer to their extended family and in urgent need of a queen size mattress for the children.",
+      "specifications": "Queen Size",
+      "contact": {
+        "org": "Kampong Kapor Community Services",
+        "name": "Siti Nur Raudhah",
+        "email": "raudhahzakariah@kkcs.org.sg",
+        "phone": [
+          "64224554",
+          "62997662"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Aug 2024"
+    },
+    {
       "id": "136491",
       "category": "Home Furnishing",
       "name": "Queen-size Mattress (New)",
@@ -704,6 +722,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "12 Jul 2024"
+    },
+    {
+      "id": "134866",
+      "category": "Electrical Home Appliances",
+      "name": "Small Refrigerator (e.g. half the size of a regular fridge)",
+      "description": "Client is widowed with no children and stays alone in a 1Rm Rental Flat.\nShe is not able to work and is dependent on Gov + Retirement Monies for her subsistence. \nHer fridge's lights are faulty and thus she has requested for a replacement and is contented with a smaller fridge (her current one is of a regular size).",
+      "specifications": "Not available",
+      "contact": {
+        "org": "National Kidney Foundation (NKF)",
+        "name": "Chris Chew",
+        "email": "chris.chew@nkfs.org",
+        "phone": [
+          "93803917",
+          "65062244"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Aug 2024"
     },
     {
       "id": "128398",
@@ -4452,6 +4488,24 @@
       "date": "12 Jul 2024"
     },
     {
+      "id": "136507",
+      "category": "Medical Aids",
+      "name": "Blood Pressure Monitor",
+      "description": "My client is from a low-income family with multiple dependents. She is unable to afford a blood pressure monitor machine. However, she has a history of high blood readings.\n\nShe avoids taking blood pressure now as she does not have a machine.\n\nA donation for this will be very helpful for her. As her social worker, I thank you on behalf of this donation :)",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Timothy Tan",
+        "email": "timothytan@fycs.org",
+        "phone": [
+          "66901007",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Aug 2024"
+    },
+    {
       "id": "136143",
       "category": "Medical Aids",
       "name": "TENA PROskin Pants Normal Adult Diaper Adult Diaper Size M",
@@ -5133,17 +5187,6 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "136504",
-      "name": "42 inch Smart TV",
-      "description": "42\" Smart TV in excellent condition, lightly used. can connect to WiFi, comes with TV stands and wall mount. Free to take both stand and wall mounts.\n\nCollect between 1 - 11 Sep.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "11 Sep 2024",
-      "ageInYears": 3,
-      "dimensions": "1000x150x650mm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "136447",
       "name": "Wifi Router",
       "description": "ASUS wifi router is still in working condition. No warranty, but comes in box with manual included. \n\nSelf-collection at home address",
@@ -5232,13 +5275,13 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "136493",
-      "name": "Ikea Chest of Drawers (4 levels) - Brown Black",
-      "description": "Ikea Chest of Drawers (4 levels) - Brown Black",
-      "location": null,
-      "validTill": "11 Sep 2024",
-      "ageInYears": 2,
-      "dimensions": null,
+      "id": "136505",
+      "name": "Study chair",
+      "description": "Study chair for up to 16 years old.  Adjustable seat and height",
+      "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+      "validTill": "28 Aug 2024",
+      "ageInYears": 4,
+      "dimensions": "50cm x 50cm x 120cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -5250,17 +5293,6 @@
       "validTill": "09 Sep 2024",
       "ageInYears": 2,
       "dimensions": "15 cm x 15cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "136496",
-      "name": "Queen size beds",
-      "description": "Pls arrange own transport\nQueen bed frame, with and without mattress",
-      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-      "validTill": "08 Sep 2024",
-      "ageInYears": 2,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -5943,17 +5975,6 @@
       "validTill": "09 Sep 2024",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Others"
-    },
-    {
-      "id": "136445",
-      "name": "Diaper pants",
-      "description": "One packet with 10 pieces unopened. \nAlso have 2 clean used pieces",
-      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-      "validTill": "09 Sep 2024",
-      "ageInYears": 1,
-      "dimensions": "XL9",
       "deliveryCostsCoveredByDonor": true,
       "category": "Others"
     },
