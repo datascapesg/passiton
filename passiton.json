@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "135508",
+      "category": "Home Furnishing",
+      "name": "Make Up Table",
+      "description": "Family with a 7-year-old child faces strained finances. Wife is working and husband is looking for employment. They are looking for a second-hand make up table.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - @27 Family Service Centre",
+        "name": "Cheryl Chew",
+        "email": "cheryl.chew@montfortcare.org.sg",
+        "phone": [
+          "97329677",
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Aug 2024"
+    },
+    {
+      "id": "136464",
+      "category": "Home Furnishing",
+      "name": "Queen Size Storage Bed Frame",
+      "description": "Family of 5 with 3 young children still in preschool and parent just started work and finding better paying job. They have just been granted a 2-room rental flat in Wellington Circle, Sembawang and would require all the assistance for a more conducive living environment for the family with very young children.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Kreta Ayer",
+        "name": "Desmond Lee",
+        "email": "desmond_kh_lee@msf.gov.sg",
+        "phone": [
+          "60138544",
+          "1800-222-0000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Aug 2024"
+    },
+    {
       "id": "136423",
       "category": "Home Furnishing",
       "name": "King-sized Storage bedframe only",
@@ -1504,6 +1540,23 @@
       "date": "16 Jul 2024"
     },
     {
+      "id": "136465",
+      "category": "Infant and Children Items",
+      "name": "Diapers Size XXXL",
+      "description": "Low-income family with 3 children - the youngest (5yo) has Autism and is non-verbal. He is still reliant on diapers due to his special needs. Family's usual monthly donation was disrupted and they hope to receive some diaper donations to last them until the end of the month.",
+      "specifications": "Size XXXL",
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Fitrah Nabilah",
+        "email": "fitrahnabilah@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Aug 2024"
+    },
+    {
       "id": "136386",
       "category": "Infant and Children Items",
       "name": "Milk Powder",
@@ -1722,23 +1775,6 @@
         "email": "muhdfarhan.abdrahman@ppis.sg",
         "phone": [
           "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Aug 2024"
-    },
-    {
-      "id": "136203",
-      "category": "Infant and Children Items",
-      "name": "Diapers and milk powder",
-      "description": "Family has 3 young children below 7y/o. Mother recently gave birth to the third child two months ago. Both parents work but family has a low per capita income. Family is also supporting paternal grandmother who was recently diagnosed with cancer and maternal grandfather who is a post-polio patient. The family would like to request for diapers (Huggies Airsoft pants XL size) and milk powder (S26 Gold pro stage 1 and Similac Gain Stage 3) for their 2 younger children. Please contact social worker Qi Min at 9791 1423 for further liaison.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Early Intervention Programme for Infants and Children - Jurong East",
-        "name": "Tan Qi Min",
-        "email": "tanqimin@fycs.org",
-        "phone": [
-          "65656260"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2870,24 +2906,6 @@
         "phone": [
           "62774171",
           "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Aug 2024"
-    },
-    {
-      "id": "136317",
-      "category": "Electrical Home Appliances",
-      "name": "Microwave",
-      "description": "Elderly living alone in a 1 room rental flat requires a microwave to heat up her food as she normally portion her food. She does not have a workable stove or pots and pans so microwave will be a convenient and safe option for her to have hot food.",
-      "specifications": null,
-      "contact": {
-        "org": "Dover Park Hospice",
-        "name": "Celestine Tay",
-        "email": "celestine_tay@doverpark.sg",
-        "phone": [
-          "65000641",
-          "65007272"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -4866,17 +4884,6 @@
   ],
   "offers": [
     {
-      "id": "136460",
-      "name": "Young Ladies Clothing",
-      "description": "Mixed new and worn clothing suitable for young ladies of SM size. 2mini skirts (hip not bigger 34\" circumference), spaghetti top dress suitable for chest 34B, the rest all M size new. Pick all together or will donate to recycle textile. I can meet at Sembawang MRT or Tiong Bahru by Appointment",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "31 Aug 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Attires/Clothings"
-    },
-    {
       "id": "136293",
       "name": "Womens shirt",
       "description": "G2000 Womens black shirt in size 7/38 in good condition",
@@ -4985,28 +4992,6 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
-    },
-    {
-      "id": "136457",
-      "name": "Clothes steamer",
-      "description": "Clothes steamer tefal brand. Used 1-2x. Still new.",
-      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-      "validTill": "10 Sep 2024",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "136456",
-      "name": "Dryer",
-      "description": "Second hand dryer in good working condition.",
-      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-      "validTill": "10 Sep 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
     },
     {
       "id": "136455",
@@ -5119,28 +5104,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "136461",
-      "name": "2 Super single storage bed",
-      "description": "Firm foam mattresses in good condition, one of the headboards is broken, the storage mechanism still working well.\nP.s. Pillows and bolster not included",
-      "location": null,
-      "validTill": "10 Sep 2024",
-      "ageInYears": 4,
-      "dimensions": "Super single bed",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "136458",
-      "name": "Single bed Mattress",
-      "description": "My mother wanted a harder mattress to support her back.",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "10 Sep 2024",
-      "ageInYears": 3,
-      "dimensions": "107cm by 190cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "136451",
       "name": "15cm x 15cm silicone HDB drain cover",
       "description": "1 pc of silicone HDB drain cover.\n\nSelf-collection at home address",
@@ -5152,17 +5115,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "136446",
-      "name": "Shelf",
-      "description": "Ikea shelf",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "09 Sep 2024",
-      "ageInYears": 4,
-      "dimensions": "134cm width by 50cm depth by 226cm height",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "136442",
       "name": "TV counsel",
       "description": "in good condition TV counsel.",
@@ -5170,39 +5122,6 @@
       "validTill": "17 Aug 2024",
       "ageInYears": 3,
       "dimensions": "180/40/40",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "136440",
-      "name": "Quuen size mattress",
-      "description": "Queen size mattress for donation",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "14 Aug 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "136437",
-      "name": "Queen size beds",
-      "description": "Pls arrange own transport\nQueen bed frame, with and without mattress",
-      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-      "validTill": "08 Sep 2024",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "136436",
-      "name": "Sofa",
-      "description": "Pls arrange own transport\nSofa bed",
-      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-      "validTill": "08 Sep 2024",
-      "ageInYears": 2,
-      "dimensions": "1.98*0.96*0.7",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -5323,6 +5242,28 @@
       "location": null,
       "validTill": "20 Aug 2024",
       "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "136466",
+      "name": "Brown reclinable two-seater sofa",
+      "description": "Very comfortable two- seater couch. Can recline. Easy maintenance - made of PVC leather",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "20 Aug 2024",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "136467",
+      "name": "Brown reclinable two-seater sofa",
+      "description": "Very comfortable two- seater couch. Can recline. Easy maintenance - made of PVC leather",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "20 Aug 2024",
+      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
@@ -5852,17 +5793,6 @@
       "validTill": "11 Sep 2024",
       "ageInYears": 2,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Others"
-    },
-    {
-      "id": "136459",
-      "name": "Pad lock for main gate",
-      "description": "there are 3 pad locks available for donation. \n\nphoto 1) new pad lock without additional chain which user may need to add on further to chain to the gate to prevent dropping\n\nphoto 2 & 3) used pad lock which comes with additional stainless steel chain to chain the lock to the gate, so that lock will not drop",
-      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-      "validTill": "10 Sep 2024",
-      "ageInYears": 4,
-      "dimensions": "8 cm x 2 cm x 6.5 cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Others"
     },
