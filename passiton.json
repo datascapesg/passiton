@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "136468",
+      "category": "Home Furnishing",
+      "name": "Drawers",
+      "description": "Family of 6 has 4 school-going children. They require a chest of drawers to better keep their clothes as the current one is breaking down. Due to the needs of the children, only the husband is able to work, limiting the family's income to purchase a drawer.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Ong Jing Yi",
+        "email": "jingyi.ong@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Aug 2024"
+    },
+    {
       "id": "135508",
       "category": "Home Furnishing",
       "name": "Make Up Table",
@@ -1540,17 +1557,18 @@
       "date": "16 Jul 2024"
     },
     {
-      "id": "136465",
+      "id": "136469",
       "category": "Infant and Children Items",
-      "name": "Diapers Size XXXL",
-      "description": "Low-income family with 3 children - the youngest (5yo) has Autism and is non-verbal. He is still reliant on diapers due to his special needs. Family's usual monthly donation was disrupted and they hope to receive some diaper donations to last them until the end of the month.",
-      "specifications": "Size XXXL",
+      "name": "Baby stroller",
+      "description": "This is a family with 3 children aged 4, 9 and 16 staying in a 2-room rental flat. Father is the sole breadwinner with variable monthly income as a grab food delivery rider. Mother is unable to work as 4-year-old child has autism and ADHD and requires full-time caregiving. The family is surviving on father's income while paying off multiple monthly loans. The 4-year-old child with autism's pram has broke down recently and client needs it to transport him around due to his autistic behaviour. Client prefers a stroller that is light and easy to bring up and down the bus, and able to withstand more than 20kg.",
+      "specifications": null,
       "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Fitrah Nabilah",
-        "email": "fitrahnabilah@carecorner.org.sg",
+        "org": "Fei Yue Family Services SSO @ Taman Jurong",
+        "name": "Chan Yvonne",
+        "email": "yvonne-chan@fycs.org",
         "phone": [
-          "64761481"
+          "69783516",
+          "62672900"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2924,24 +2942,6 @@
         "phone": [
           "67719557",
           "67625215"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Aug 2024"
-    },
-    {
-      "id": "136304",
-      "category": "Electrical Home Appliances",
-      "name": "Vacuum cleaner (Wireless)",
-      "description": "Client is an elderly lady living alone while moderate social support systems. She has multiple health concerns, that also affects her mobility and weak arm strength. Despite her challenges, she still has a strong sense of independence and would like to still do household chores on her own. Hence we are requesting a wireless vacuum to aid her in her household chores.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Services SSO @ Taman Jurong",
-        "name": "Chan Yvonne",
-        "email": "yvonne-chan@fycs.org",
-        "phone": [
-          "69783516",
-          "62672900"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -4994,17 +4994,6 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "136455",
-      "name": "Tefal Rice Cooker",
-      "description": "New rice cooker that was used once. Good for cooking in bulk.",
-      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-      "validTill": "10 Sep 2024",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "136447",
       "name": "Wifi Router",
       "description": "ASUS wifi router is still in working condition. No warranty, but comes in box with manual included. \n\nSelf-collection at home address",
@@ -5111,28 +5100,6 @@
       "validTill": "09 Sep 2024",
       "ageInYears": 2,
       "dimensions": "15 cm x 15cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "136442",
-      "name": "TV counsel",
-      "description": "in good condition TV counsel.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "17 Aug 2024",
-      "ageInYears": 3,
-      "dimensions": "180/40/40",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "136435",
-      "name": "Sofa",
-      "description": "Sofa 3 seater",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "30 Aug 2024",
-      "ageInYears": 2,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
