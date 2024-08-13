@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "136557",
+      "category": "Home Furnishing",
+      "name": "Foldable Single Sized Mattress",
+      "description": "Client is a father of 6 children, 4 with special needs, aged 2 to 10. Client is facing financial difficulties and requested for a foldable single-sized mattress.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Syamirul Azim",
+        "email": "syamirulazim@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "13 Aug 2024"
+    },
+    {
       "id": "136548",
       "category": "Home Furnishing",
       "name": "Two-door wardrobe",
@@ -775,6 +792,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "15 Jul 2024"
+    },
+    {
+      "id": "136556",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is an elderly amputee who lives alone at rental flat. His current washing machine is spoilt and he needs a working one.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Community Services - Mental Health",
+        "name": "Josef Woon",
+        "email": "josefwoon@fycs.org",
+        "phone": [
+          "60117651",
+          "64712022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Aug 2024"
+    },
+    {
+      "id": "136554",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine Needed!",
+      "description": "Client is a single parent of a 5-year old child. The family has just acquired a rental flat. Family is presently in need of a washing machine.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Farahlina Tan",
+        "email": "farahlina_tan@awwa.org.sg",
+        "phone": [
+          "65119458",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Aug 2024"
     },
     {
       "id": "136547",
@@ -3486,23 +3539,6 @@
       "date": "16 Jul 2024"
     },
     {
-      "id": "136545",
-      "category": "Infant and Children Items",
-      "name": "Drypers pants request for Special Needs child",
-      "description": "Client is a fulltime caregiver to 3 special needs children who are attending SPED school. She is a breast cancer survivor and requested for some assistance in the area of dryper pants for one of her child. Household is dependent on husband who is the sole breadwinner but they are experiencing some challenges in having some of their daily necessities met.",
-      "specifications": "XXL",
-      "contact": {
-        "org": "Viriya Community Services - Whispering Hearts Family Service Centre",
-        "name": "Justin Waung",
-        "email": "justin@viriya.org.sg",
-        "phone": [
-          "67951008"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Aug 2024"
-    },
-    {
       "id": "136542",
       "category": "Infant and Children Items",
       "name": "Baby Bassinet",
@@ -4695,6 +4731,24 @@
       "date": "15 Jul 2024"
     },
     {
+      "id": "136555",
+      "category": "Mobility Aids",
+      "name": "Walking Stick",
+      "description": "Senior has weak legs and difficulties moving around, hence need a walking stick",
+      "specifications": null,
+      "contact": {
+        "org": "NTUC Health Cluster Support - Taman Jurong",
+        "name": "Aaron Cai",
+        "email": "yuxiang.c@ntuchealth.sg",
+        "phone": [
+          "94552302",
+          "62674197"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Aug 2024"
+    },
+    {
       "id": "136327",
       "category": "Mobility Aids",
       "name": "Wheelchair",
@@ -5103,23 +5157,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "05 Aug 2024"
-    },
-    {
-      "id": "136553",
-      "category": "Learning Aids",
-      "name": "Laptop",
-      "description": "A tertiary student who requires a laptop to complete his school project and assignment.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore After Care Association",
-        "name": "Lin Mingjie",
-        "email": "mingjie@saca.org.sg",
-        "phone": [
-          "62942350"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Aug 2024"
     }
   ],
   "offers": [
