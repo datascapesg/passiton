@@ -883,23 +883,6 @@
       "date": "13 Aug 2024"
     },
     {
-      "id": "136547",
-      "category": "Electrical Home Appliances",
-      "name": "Rice cooker",
-      "description": "Rice cooker for 1 pax needed for a senior coping with financial troubles and relying on SSO funding. He would save more money if he cooks at home",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Singapore's Active Ageing Centre @ Ang Mo Kio 469",
-        "name": "Kei Ng",
-        "email": "ngkhuankungkei@allkin.org.sg",
-        "phone": [
-          "64510898"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Aug 2024"
-    },
-    {
       "id": "136544",
       "category": "Electrical Home Appliances",
       "name": "Standing fan",
@@ -5428,6 +5411,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "136569",
+      "name": "Dining table",
+      "description": "140cm long, 90cm wide, 75cm tall extendable oak table",
+      "location": null,
+      "validTill": "31 Aug 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "136567",
       "name": "Sancal 3 seater sofa",
       "description": "Preloved 3 seater sofa from Sancal.\nseat cushion on one side is damage at the bottom by cats. But still very comfortable .",
@@ -5476,7 +5470,7 @@
       "name": "Pillow",
       "description": "Long pillow",
       "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "14 Aug 2024",
+      "validTill": "31 Dec 2024",
       "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
@@ -6163,6 +6157,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "136568",
+      "name": "Wheelchair and hospital bed",
+      "description": "Wheelchair and hospital bed",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "18 Aug 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "136463",
