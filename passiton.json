@@ -477,24 +477,6 @@
       "date": "29 Jul 2024"
     },
     {
-      "id": "135959",
-      "category": "Home Furnishing",
-      "name": "Cupboard",
-      "description": "Recipient is bedridden. She has 2 teenagers and 1 child who has special needs and is unable to walk. Due to her medical condition, the client is unable to work. The family is now shifting to a 2 room flat to better accommodate her hospital bed etc, and would require assistance in receiving some furniture",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bukit Panjang",
-        "name": "Muhammad Idris Bin Mohd Margono",
-        "email": "idris.margono@thkmc.org.sg",
-        "phone": [
-          "87145182",
-          "67671740"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Jul 2024"
-    },
-    {
       "id": "135943",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -828,6 +810,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "15 Jul 2024"
+    },
+    {
+      "id": "136590",
+      "category": "Electrical Home Appliances",
+      "name": "Smart TV (with installation)",
+      "description": "Client is a widow and is struggling with medical issues declining mental health, and is socially isolated. Client is looking for a TV ass it provides a distraction from ruminating negative thoughts, particularly since she lack social support. Client's TV is spoilt and does not have the financial capability to purchase one as she has a low paying job and still has to pay the debts that her late husband left her.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Annabel Dass",
+        "email": "annabeldass@fycs.org",
+        "phone": [
+          "69783483",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Aug 2024"
+    },
+    {
+      "id": "136589",
+      "category": "Electrical Home Appliances",
+      "name": "Halal rice cooker",
+      "description": "Client is a single mother with a 2 year old son and does not have any support from her family of origin, nor the finances as she is unemployed due to caregiving responsibilities and is currently looking for a full time job. Client is in need of a rice cooker so that she can prepare easy nutritious meals for herself and son.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Annabel Dass",
+        "email": "annabeldass@fycs.org",
+        "phone": [
+          "69783483",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Aug 2024"
     },
     {
       "id": "136563",
@@ -2655,6 +2673,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "15 Jul 2024"
+    },
+    {
+      "id": "136593",
+      "category": "Others",
+      "name": "Groceries",
+      "description": "Family has two special needs children, one of which has high caregiving needs, causing the single mother to have to stay at home to take care of him.",
+      "specifications": "XXL Diapers, 2 tubs of wet tissue, 6x canned food (corned beef, chicken curry tin)",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 206B",
+        "name": "Nurhanisah Binte Abdul Rahman",
+        "email": "nurhanisah@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Aug 2024"
     },
     {
       "id": "136579",
@@ -5946,6 +5981,28 @@
       "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
       "validTill": "25 Aug 2024",
       "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "136591",
+      "name": "Sofa bed",
+      "description": "Perfect condition sofa bed",
+      "location": "Springleaf, Tagore, Upper Thomson",
+      "validTill": "15 Aug 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "136592",
+      "name": "Sofa bed",
+      "description": "Perfect condition sofa bed",
+      "location": "Springleaf, Tagore, Upper Thomson",
+      "validTill": "15 Aug 2024",
+      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
