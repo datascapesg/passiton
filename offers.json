@@ -110,34 +110,12 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "136613",
-    "name": "Washing machine",
-    "description": "As shown pictures. \nSelf collection.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "13 Sep 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "136582",
     "name": "Multi Cooker 1.5L (New)",
     "description": "Tested the cooker with water, in good working condition. \nGood for 1 to 2 pax.",
     "location": "Admiralty Drive, Sembawang, Yishun",
     "validTill": "13 Sep 2024",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "136570",
-    "name": "Phillips juicer",
-    "description": "Please WhatsApp if keen. Will deliver",
-    "location": null,
-    "validTill": "10 Sep 2024",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -176,17 +154,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "136248",
-    "name": "Refrigerator",
-    "description": "Giving away the refrigerator to whoever need it. Pls arrange own transport. Only defect is that the rubber for the bottom door will be abit hard to close as is abit loose if u left it open for too long..",
-    "location": null,
-    "validTill": "31 Aug 2024",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "135845",
     "name": "WALL FAN",
     "description": "GOOD CONDITION WALL FAN EXCEPT THE OSCILLATION IS SPOILT AND NEED TO MANUALLY TURN THE SPEED KNOB\n\nFRONT COVER OF THE FAN IS MISSING\n\nOVERALL STILL WORKABLE",
@@ -196,6 +163,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "136622",
+    "name": "Office Desk",
+    "description": "Length: 120cm\nDepth: 80cm\nHeight: 74cm\n\nStill in very good condition",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "31 Aug 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "136618",
@@ -407,6 +385,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "136621",
+    "name": "Sofa",
+    "description": "Pls arrange own transport\nSofa bed",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "08 Sep 2024",
+    "ageInYears": 2,
+    "dimensions": "1.98*0.96*0.7",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "136432",
     "name": "Foldable Table",
     "description": "Foldable table \n- Foldable and easy to carry around\n\n- Perfect for eating, reading, working, gaming, and studying",
@@ -546,17 +535,6 @@
     "validTill": "20 Aug 2024",
     "ageInYears": 4,
     "dimensions": "130 by 60 by 34 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "136296",
-    "name": "Dark walnut study/office desk with tempered glass",
-    "description": "Me i’cha dark walnut study/office desk with tempered glass \n\nLength: 90cm\nHeight: 75cm\nDepth: 60cm",
-    "location": null,
-    "validTill": "30 Aug 2024",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -847,6 +825,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "134993",
+    "name": "Geriatric Chair",
+    "description": "Geriatric chair comes with tray and in good condition.",
+    "location": null,
+    "validTill": "30 Sep 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "136521",
     "name": "Lightweight Quad Cane",
     "description": "Lightweight Quad Cane\nNew not used as elderly don't want to use.\npreference someone stayed near bukit panjang choa chua kang so I can delivery myself",
@@ -939,7 +928,7 @@
     "name": "Air mattress for hospital bed",
     "description": "Inflated air mattress with motor",
     "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "25 Aug 2024",
+    "validTill": "30 Sep 2024",
     "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -964,6 +953,17 @@
     "validTill": "16 Aug 2024",
     "ageInYears": 2,
     "dimensions": "183x80x60 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "134474",
+    "name": "commode chair",
+    "description": "The silicone pad has recently started to crack (first pix). Refer to second pix without chair pad. \n\nCommode comes with bin and lid with locking wheels and may be placed in bathroom or bedroom.",
+    "location": null,
+    "validTill": "30 Sep 2024",
+    "ageInYears": 3,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
