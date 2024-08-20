@@ -308,6 +308,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "136799",
+    "name": "Sofa",
+    "description": "Please self-collect from location or arrange for own transportation. No delivery available as donor is low-income.",
+    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+    "validTill": "18 Sep 2024",
+    "ageInYears": 4,
+    "dimensions": "180 x 76 x 51 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "136770",
     "name": "Table",
     "description": "Please self-collect from location or arrange for own transportation. No delivery available as donor is low-income.",
@@ -425,17 +436,6 @@
     "validTill": "16 Sep 2024",
     "ageInYears": 2,
     "dimensions": "54cm x 37 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "136725",
-    "name": "Shoe rack",
-    "description": "Fits 14 shoes and more.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "16 Sep 2024",
-    "ageInYears": 1,
-    "dimensions": "110cm x 45cm x 24 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -902,17 +902,6 @@
     "category": "Kitchen Utility Items"
   },
   {
-    "id": "136797",
-    "name": "Foldable Bicycle",
-    "description": "Foldable bicycle in working condition.",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "19 Sep 2024",
-    "ageInYears": 2,
-    "dimensions": "135cm x 60cm x 100cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Leisure and Healthy Lifestyle"
-  },
-  {
     "id": "136703",
     "name": "Casio Fx-85ES Plus / Fx991MS",
     "description": "Calculators",
@@ -1129,6 +1118,17 @@
     "validTill": "17 Sep 2024",
     "ageInYears": 2,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "136800",
+    "name": "Minimalist painting",
+    "description": "Minimalist and lightweight acrylic painting",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "16 Sep 2024",
+    "ageInYears": 4,
+    "dimensions": "25cm x 35cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },

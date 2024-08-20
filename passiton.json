@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "136802",
+      "category": "Home Furnishing",
+      "name": "Wardrobe for family of 5",
+      "description": "Family of 5 with 3 young children still in preschool and parent just started work and finding better paying job. They have just been granted a 2-room rental flat in Wellington Circle, Sembawang and would require all the assistance for a more conducive living environment for the family with very young children.",
+      "specifications": "W125cm by H212cm",
+      "contact": {
+        "org": "MSF Social Service Office @ Kreta Ayer",
+        "name": "Desmond Lee",
+        "email": "desmond_kh_lee@msf.gov.sg",
+        "phone": [
+          "60138544",
+          "1800-222-0000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Aug 2024"
+    },
+    {
+      "id": "136801",
+      "category": "Home Furnishing",
+      "name": "Clothes Drying Rack",
+      "description": "An elderly man with slipped disc and broken ankle requires a standing clothes rack to dry his clothes properly, as he is no longer able to hang up clothes on the tall ceiling rack. He does not have savings and is unable to work due to his disability.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Victoria Chong",
+        "email": "victoriachong@fycs.org",
+        "phone": [
+          "69783482",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Aug 2024"
+    },
+    {
       "id": "136791",
       "category": "Home Furnishing",
       "name": "Queen size mattress",
@@ -937,6 +973,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "22 Jul 2024"
+    },
+    {
+      "id": "136798",
+      "category": "Electrical Home Appliances",
+      "name": "Vacuum Cleaner",
+      "description": "Single mother staying with 3 school-going children in a HDB rental flat requires a vacuum cleaner to replace current faulty one. Mother has medical condition and the vacuum cleaner will help her to do clean up the house easier. Family is under financial assistance and unable to afford to buy a replacement.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Ye Jiancheng",
+        "email": "jiancheng@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Aug 2024"
     },
     {
       "id": "136792",
@@ -3693,6 +3746,24 @@
       "date": "22 Jul 2024"
     },
     {
+      "id": "136803",
+      "category": "Infant and Children Items",
+      "name": "Drypers Drypants XXXL",
+      "description": "Single mum with 3 young children (aged between 0-6 years old). 2 of her children are diagnosed with special needs. Finances are tight for the family due to caregiving arrangements, and mum is not able to work.",
+      "specifications": "Drypers Drypants XXXL",
+      "contact": {
+        "org": "Rainbow Centre - Magaret Drive School",
+        "name": "Jasmine Ng",
+        "email": "jasmineng@rainbowcentre.org.sg",
+        "phone": [
+          "68179433",
+          "64752072"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Aug 2024"
+    },
+    {
       "id": "136796",
       "category": "Infant and Children Items",
       "name": "Mamypoko XXXXL",
@@ -5131,24 +5202,6 @@
       "date": "26 Jul 2024"
     },
     {
-      "id": "136712",
-      "category": "Medical Aids",
-      "name": "Tena Value Diapers L Size Plus",
-      "description": "74 y/o dialysis patient and his 73 y/o wife are caring for their 30y/o daughter with special needs.\nBoth elderly have medical/caregiving duties and are unable to work to support their needs. They have financial difficulties and high medical consumables expenses such as the diapers.\nDaughter is fully dependent on them for her basic functioning such as bathing, walking, etc.\nShe requires to put on diapers and the cost of the diapers is high. Any assistance with providing diapers would be immensely helpful and greatly appreciated.",
-      "specifications": "(45” – 58”)",
-      "contact": {
-        "org": "National Kidney Foundation (NKF)",
-        "name": "Margaret Ng",
-        "email": "margaret.ng@nkfs.org",
-        "phone": [
-          "63593643",
-          "65062244"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Aug 2024"
-    },
-    {
       "id": "136711",
       "category": "Medical Aids",
       "name": "Fairprice Adult Diapers Pants L size",
@@ -5763,6 +5816,17 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "136799",
+      "name": "Sofa",
+      "description": "Please self-collect from location or arrange for own transportation. No delivery available as donor is low-income.",
+      "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+      "validTill": "18 Sep 2024",
+      "ageInYears": 4,
+      "dimensions": "180 x 76 x 51 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "136770",
       "name": "Table",
       "description": "Please self-collect from location or arrange for own transportation. No delivery available as donor is low-income.",
@@ -5880,17 +5944,6 @@
       "validTill": "16 Sep 2024",
       "ageInYears": 2,
       "dimensions": "54cm x 37 cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "136725",
-      "name": "Shoe rack",
-      "description": "Fits 14 shoes and more.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "16 Sep 2024",
-      "ageInYears": 1,
-      "dimensions": "110cm x 45cm x 24 cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -6357,17 +6410,6 @@
       "category": "Kitchen Utility Items"
     },
     {
-      "id": "136797",
-      "name": "Foldable Bicycle",
-      "description": "Foldable bicycle in working condition.",
-      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-      "validTill": "19 Sep 2024",
-      "ageInYears": 2,
-      "dimensions": "135cm x 60cm x 100cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Leisure and Healthy Lifestyle"
-    },
-    {
       "id": "136703",
       "name": "Casio Fx-85ES Plus / Fx991MS",
       "description": "Calculators",
@@ -6584,6 +6626,17 @@
       "validTill": "17 Sep 2024",
       "ageInYears": 2,
       "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "136800",
+      "name": "Minimalist painting",
+      "description": "Minimalist and lightweight acrylic painting",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "16 Sep 2024",
+      "ageInYears": 4,
+      "dimensions": "25cm x 35cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Others"
     },
