@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "136887",
+      "category": "Home Furnishing",
+      "name": "Foldable table",
+      "description": "The family is a low-income single parent household with 5 young dependents. Client is the sole breadwinner of the family working as a security guard and faces chronic financial difficulties. They require a foldable table for the children to eat and study at as the house lacks space for a permanent dining/study table.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Punggol 616",
+        "name": "Vivien Kwok",
+        "email": "vivienkwok@allkin.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Aug 2024"
+    },
+    {
+      "id": "136886",
+      "category": "Home Furnishing",
+      "name": "Mattress",
+      "description": "The family is a low-income single parent household with 5 young dependents. Client is the sole breadwinner of the family working as a security guard and faces chronic financial difficulties. They require 2 single mattresses for the children to sleep on as the current ones at home have spoilt.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Punggol 616",
+        "name": "Vivien Kwok",
+        "email": "vivienkwok@allkin.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Aug 2024"
+    },
+    {
       "id": "136877",
       "category": "Home Furnishing",
       "name": "Chest of drawers",
@@ -373,23 +407,6 @@
       "date": "16 Aug 2024"
     },
     {
-      "id": "136676",
-      "category": "Home Furnishing",
-      "name": "Study table",
-      "description": "Client is looking for a study table as she requires one to help with her school work. She is currently in ITE. She works odd jobs as she lives with her single father with medical issues.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Isabelle Chua",
-        "email": "isabellechua@carecorner.org.sg",
-        "phone": [
-          "64761481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Aug 2024"
-    },
-    {
       "id": "136672",
       "category": "Home Furnishing",
       "name": "1 door wooden cupboard",
@@ -543,24 +560,6 @@
         "phone": [
           "64961272",
           "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Aug 2024"
-    },
-    {
-      "id": "136535",
-      "category": "Home Furnishing",
-      "name": "Table / Kitchen Cabinet",
-      "description": "Our client is a single mother with a school-going child. She was recently released from prison, is currently jobless, and was allocated an HDB rental unit a few weeks ago. She has no money to buy the basic necessities to move into the flat, but she is open to secondhand items.",
-      "specifications": "Table / Kitchen Cabinet",
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "mwsfscy@mws.sg",
-        "phone": [
-          "83688612",
-          "67564995"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1060,6 +1059,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "22 Jul 2024"
+    },
+    {
+      "id": "136885",
+      "category": "Electrical Home Appliances",
+      "name": "Standing fan",
+      "description": "The family is a low-income single parent household with 5 young dependents. Client is the sole breadwinner of the family working as a security guard and faces chronic financial difficulties.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Punggol 616",
+        "name": "Vivien Kwok",
+        "email": "vivienkwok@allkin.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Aug 2024"
     },
     {
       "id": "136882",
@@ -5874,6 +5890,24 @@
       "date": "26 Jul 2024"
     },
     {
+      "id": "136883",
+      "category": "Medical Aids",
+      "name": "Mepilex Border Flex Dressing 10x10cm",
+      "description": "Client is in her 70s, currently living alone and diagnosed with advanced breast cancer. She is under palliative care and requires to change her wound dressing regularly. Her wound has increased in size and she has lost most of her arm mobility. she is struggling to cope with the high expenses of consumables due to lack of family support.",
+      "specifications": "10x10cm",
+      "contact": {
+        "org": "AIN Society",
+        "name": "Nur'Ain Binte Mohamed Said",
+        "email": "nurain@ainsociety.org.sg",
+        "phone": [
+          "68485116",
+          "68485166"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Aug 2024"
+    },
+    {
       "id": "136854",
       "category": "Medical Aids",
       "name": "Absorbent Underpad & Adult Slim Pants diapers",
@@ -6604,17 +6638,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "136723",
-      "name": "Single bed frame & mattress",
-      "description": "Wooden bed frame and single mattress.  Sturdy. Easy to assemble.",
-      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-      "validTill": "24 Aug 2024",
-      "ageInYears": 4,
-      "dimensions": "90cmx190cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "136666",
       "name": "Italian Leather Sofa",
       "description": "Italian brown leather sofa in great condition on the seats. Some leather damage to the sides. Cleaned and conditioned weekly to maintain. Comes with 2 free pouff (not pillows). Worth over 8K.",
@@ -7132,17 +7155,6 @@
       "category": "Medical Aids"
     },
     {
-      "id": "136046",
-      "name": "Medicial items - pls see pictures",
-      "description": "Pls let me know what you need",
-      "location": null,
-      "validTill": "26 Aug 2024",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
       "id": "136045",
       "name": "Medicial items, pls see pictures",
       "description": "Let me know which item u need",
@@ -7253,10 +7265,10 @@
       "category": "Mobility Aids"
     },
     {
-      "id": "136862",
-      "name": "Portable fan",
-      "description": "4 nos. of fans including batteries.\n\nDelivery on weekday evening and weekend.",
-      "location": null,
+      "id": "136884",
+      "name": "TP Link Wifi Routers",
+      "description": "9 units of TP Link TL-MR6400 WiFi routers. Used once for a corporate event in Jan 2024, still under warranty until Jan 2025. Suitable for homes, offices, classrooms, outdoor events.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
       "validTill": "20 Sep 2024",
       "ageInYears": 1,
       "dimensions": null,
@@ -7264,11 +7276,11 @@
       "category": "Others"
     },
     {
-      "id": "136860",
-      "name": "TENA ProSkin Pants (M)",
-      "description": "Hi, i have 9 Packets of TENA ProSkin Pants, Size M.",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "19 Sep 2024",
+      "id": "136862",
+      "name": "Portable fan",
+      "description": "4 nos. of fans including batteries.\n\nDelivery on weekday evening and weekend.",
+      "location": null,
+      "validTill": "20 Sep 2024",
       "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
