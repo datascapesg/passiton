@@ -330,17 +330,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "136799",
-    "name": "Sofa",
-    "description": "Please self-collect from location or arrange for own transportation. No delivery available as donor is low-income.",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "18 Sep 2024",
-    "ageInYears": 4,
-    "dimensions": "180 x 76 x 51 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "136770",
     "name": "Table",
     "description": "Please self-collect from location or arrange for own transportation. No delivery available as donor is low-income.",
@@ -840,6 +829,17 @@
     "name": "Medicial items pls see pictures",
     "description": "Pls let me know which item u need",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "26 Aug 2024",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "136985",
+    "name": "Medicial items - pls see pictures",
+    "description": "Pls let me know what you need",
+    "location": null,
     "validTill": "26 Aug 2024",
     "ageInYears": 1,
     "dimensions": null,
