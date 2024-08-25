@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "137026",
+      "category": "Home Furnishing",
+      "name": "3 Chairs for dining table",
+      "description": "Mother with 2 children who will move out to a new flat. Mother has limited income to provide for the family.",
+      "specifications": "77cm height x 34cm width",
+      "contact": {
+        "org": "Marymount Centre - Good Shepherd Centre",
+        "name": "Aguila Alona Fajardo",
+        "email": "gsc_sw@marymountctr.org.sg",
+        "phone": [
+          "67556496"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Aug 2024"
+    },
+    {
       "id": "134250",
       "category": "Home Furnishing",
       "name": "Clothes Wardrobe",
@@ -941,6 +958,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "29 Jul 2024"
+    },
+    {
+      "id": "137024",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "Mother with 2 children who will move out to a new flat. Mother has limited income to provide for the family.",
+      "specifications": "7-8 Kg",
+      "contact": {
+        "org": "Marymount Centre - Good Shepherd Centre",
+        "name": "Aguila Alona Fajardo",
+        "email": "gsc_sw@marymountctr.org.sg",
+        "phone": [
+          "67556496"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Aug 2024"
     },
     {
       "id": "136980",
@@ -6011,6 +6045,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "137025",
+      "name": "Queen storage Bed and mattress",
+      "description": "bed frame: \n1. Bed and Basics (bought in May’22)\n2. height: 43 cm, Material: water resistant fabric, open base, hydraulic lift\n3. Original price: sgd 448 (invoice available), present price for new is 599\n4. https://www.bedandbasics.sg/traken-storage-bedframe-stain-resistant-fabric.html\n\nmattress\n1. Origin Hybrid mattress:\n bought in May’22\n2. https://originmattress.com.sg/shop/mattress/origin-hybrid-mattress/\n3. thickness: 24.5 cm\n4. original price: sgd 649\n\nSELF PICKUP ON 28th August’24 between 9am-12:30pm",
+      "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+      "validTill": "27 Aug 2024",
+      "ageInYears": 2,
+      "dimensions": "152cm*190cm*43cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "137023",
