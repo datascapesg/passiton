@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "137047",
+      "category": "Home Furnishing",
+      "name": "Sofa Bed",
+      "description": "Post-surgery elderly living with spouse in a 2-room HDB. Sofa bed is easier to get in and out of than a traditional bed, which is important given client's current mobility challenges. Requesting for sofa bed instead of hospital bed due to limited space.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Cluster Support @ Bedok",
+        "name": "Lee Wei Kit",
+        "email": "lee.weikit@thkmc.org.sg",
+        "phone": [
+          "62418171"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Aug 2024"
+    },
+    {
       "id": "135506",
       "category": "Home Furnishing",
       "name": "Shoe Cabinet",
@@ -5127,6 +5144,23 @@
       "date": "26 Jul 2024"
     },
     {
+      "id": "137049",
+      "category": "Mobility Aids",
+      "name": "Wheelchair",
+      "description": "Client is pending paellative care and needs a wheelchair as he is losing strength to walk",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Singapore's Active Ageing Centre @ Ang Mo Kio 469",
+        "name": "Kei Ng",
+        "email": "ngkhuankungkei@allkin.org.sg",
+        "phone": [
+          "64510898"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Aug 2024"
+    },
+    {
       "id": "137046",
       "category": "Mobility Aids",
       "name": "Walking Frame",
@@ -5860,6 +5894,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
+    },
+    {
+      "id": "137048",
+      "name": "Panasonic Viera",
+      "description": "Not a smart TV. \nPls arrange own transport",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "25 Sep 2024",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
     },
     {
       "id": "137033",
