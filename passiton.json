@@ -36,23 +36,6 @@
       "date": "26 Aug 2024"
     },
     {
-      "id": "137026",
-      "category": "Home Furnishing",
-      "name": "3 Chairs for dining table",
-      "description": "Mother with 2 children who will move out to a new flat. Mother has limited income to provide for the family.",
-      "specifications": "77cm height x 34cm width",
-      "contact": {
-        "org": "Marymount Centre - Good Shepherd Centre",
-        "name": "Aguila Alona Fajardo",
-        "email": "gsc_sw@marymountctr.org.sg",
-        "phone": [
-          "67556496"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Aug 2024"
-    },
-    {
       "id": "134250",
       "category": "Home Furnishing",
       "name": "Clothes Wardrobe",
@@ -479,24 +462,6 @@
       "date": "20 Aug 2024"
     },
     {
-      "id": "136781",
-      "category": "Home Furnishing",
-      "name": "Foldable metal bed frame (single)",
-      "description": "Patient lives in a HDB rental flat. He currently sleeps on floor. He has swollen legs, and this makes it difficult to get up. He'll like to request for the following:\n1. Foldable metal bed frame (single).\n2. Mattress.\n3. Pillow.\n4. Big bolster.",
-      "specifications": null,
-      "contact": {
-        "org": "Tan Tock Seng Hospital - Care &amp; Counselling Dept",
-        "name": "Wong Yew Yan",
-        "email": "yew_yan_wong@ttsh.com.sg",
-        "phone": [
-          "63596627",
-          "63578222"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "19 Aug 2024"
-    },
-    {
       "id": "136778",
       "category": "Home Furnishing",
       "name": "Sofa Bed (Double)",
@@ -905,24 +870,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "29 Jul 2024"
-    },
-    {
-      "id": "137050",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Client is an elderly grandmother who is proving support and caregiving for 5 school-going grandchildren. Due to her age and medical condition, client experiences financial hardship. Family's current washing machine had broke down and client hopes that she could be blessed with a working washing machine.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-        "name": "Muhammad Danial Bin Mazlan",
-        "email": "danialmazlan@allkin.org.sg",
-        "phone": [
-          "65536643",
-          "64535349"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "26 Aug 2024"
     },
     {
       "id": "137024",
@@ -5371,23 +5318,6 @@
       "date": "26 Jul 2024"
     },
     {
-      "id": "136913",
-      "category": "Medical Aids",
-      "name": "Disposable Underpads",
-      "description": "Client is a caregiver and sole breadwinner to her ill spouse and three school going children. Client is hoping to source for disposable underpads for spouse's usage as he is unable to control his bowel movements as his health had deteriorated. Client could not afford the purchase of more disposable underpads due to family's financial struggles and commitments. For further liaison, kindly contact me at 98598768, thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (East)",
-        "name": "Nur Afrina",
-        "email": "fsceast@ppis.sg",
-        "phone": [
-          "60156970"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Aug 2024"
-    },
-    {
       "id": "136883",
       "category": "Medical Aids",
       "name": "Mepilex Border Flex Dressing 10x10cm",
@@ -5948,6 +5878,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "137053",
+      "name": "Washing machine",
+      "description": "No covering delivery, self collection only",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "16 Sep 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "136699",
       "name": "Toyomi 1.2L slow cooker",
       "description": "Vegetarian home cooking.\nStill in good working condition.\nPls text or WhatsApp if keen.",
@@ -5968,6 +5909,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "137052",
+      "name": "Dinning chairs with rattan back and vinyl seating upholstery",
+      "description": "Dinning chairs with rattan back and vinyl upholstery seating in tan colour",
+      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+      "validTill": "25 Sep 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "137051",
