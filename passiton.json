@@ -583,23 +583,6 @@
       "date": "21 Aug 2024"
     },
     {
-      "id": "136820",
-      "category": "Home Furnishing",
-      "name": "3 seater sofa",
-      "description": "Client is a single father living with 2 sons in a 2-room flat.  He ekes out a living as a private hire, working long hours to make ends meet.  He recently found that his furniture was infested with bugs.  He threw them out and is now sleeping on a mattress on the floor.  His flat is now scarce with only a few plastic chairs in the living room.  He hopes to be able to get a 3-seater sofa to replace the one he had thrown out.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Covenant Family Service Centre - Hougang",
-        "name": "Reina Chantelle Reyes",
-        "email": "reinachantelle@mws.sg",
-        "phone": [
-          "62828558"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Aug 2024"
-    },
-    {
       "id": "136805",
       "category": "Home Furnishing",
       "name": "Clothes Wardrobe (4-door)",
@@ -5789,6 +5772,24 @@
       "date": "29 Jul 2024"
     },
     {
+      "id": "137171",
+      "category": "Medical Aids",
+      "name": "PleurX Drainage Kit 1000ml (50-7510)",
+      "description": "Patient has advanced cancer and needs PleurX Drainage Kit 1000ml (50-7510) for symptomatic ascites drainage on regular basis.  Each drainage kit costs about $70-$80 and patient needs about 10pcs per month which costs about $700/mth-$800/mth.  This is a heavy burden on patient and her family.",
+      "specifications": "Pack of 4s/10s",
+      "contact": {
+        "org": "Singapore Cancer Society",
+        "name": "Tok Shou Hsien",
+        "email": "tok_shouhsien@singaporecancersociety.org.sg",
+        "phone": [
+          "64215835",
+          "62219578"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Aug 2024"
+    },
+    {
       "id": "137100",
       "category": "Medical Aids",
       "name": "Oximeter",
@@ -7229,12 +7230,34 @@
       "category": "Medical Aids"
     },
     {
+      "id": "134993",
+      "name": "Geriatric Chair",
+      "description": "Geriatric chair comes with tray and in good condition.",
+      "location": null,
+      "validTill": "30 Sep 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
+    },
+    {
       "id": "136984",
       "name": "air mattress",
       "description": "air mattress to prevent bed sores. you will need a normal mattress to put beneath the air mattress. Item is just the air mattress",
       "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
       "validTill": "22 Sep 2024",
       "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "134474",
+      "name": "commode chair",
+      "description": "The silicone pad has recently started to crack (first pix). Refer to second pix without chair pad. \n\nCommode comes with bin and lid with locking wheels and may be placed in bathroom or bedroom.",
+      "location": null,
+      "validTill": "30 Sep 2024",
+      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
