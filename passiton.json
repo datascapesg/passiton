@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "137200",
+      "category": "Home Furnishing",
+      "name": "bed",
+      "description": "client requires new mattress",
+      "specifications": "Single",
+      "contact": {
+        "org": "Thye Hua Kwan Moral Charities",
+        "name": "Penelope Lim",
+        "email": "penelope.lim@thkmc.org.sg",
+        "phone": [
+          "68461228",
+          "63371201"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Aug 2024"
+    },
+    {
       "id": "137193",
       "category": "Home Furnishing",
       "name": "Bookshelves",
@@ -1170,24 +1188,6 @@
       "date": "30 Aug 2024"
     },
     {
-      "id": "137191",
-      "category": "Electrical Home Appliances",
-      "name": "1 litre electric kettle",
-      "description": "Client, 62, visually impaired needs a 1 litre kettle to replace his faulty kettle.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Association of the Visually Handicapped",
-        "name": "Steven Yew Kwok Wai",
-        "email": "steven@savh.org.sg",
-        "phone": [
-          "62514331ext507",
-          "62514331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 Aug 2024"
-    },
-    {
       "id": "137190",
       "category": "Electrical Home Appliances",
       "name": "Radio",
@@ -1239,41 +1239,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "29 Aug 2024"
-    },
-    {
-      "id": "137139",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Client is on long-term MC till 2025, dependent on financial assistance while husband is incarcerated. Client also has two school going children. Their washing machine is currently faulty and leaking.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Amanda Soo",
-        "email": "amandasoo@carecorner.org.sg",
-        "phone": [
-          "69784084",
-          "64761481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Aug 2024"
-    },
-    {
-      "id": "137131",
-      "category": "Electrical Home Appliances",
-      "name": "induction cooker",
-      "description": "Client has mobility issues, and diabetes. She has difficulties packing and doing her house chores due to limited mobility. She will benefit from having the induction cooker to help her with her daily cooking as due to her mobility issues it will be more challenging to clean the stove that she currently has.",
-      "specifications": "NIL",
-      "contact": {
-        "org": "Allkin Family Service Centre @ Sengkang 223D",
-        "name": "Syamirul Azim",
-        "email": "syamirulazim@allkin.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "28 Aug 2024"
     },
     {
       "id": "137118",
@@ -1349,24 +1314,6 @@
       "id": "137067",
       "category": "Electrical Home Appliances",
       "name": "Ceiling fan with light",
-      "description": "The client, a single mother with two young children, is moving into a new rental flat after her previous rental flat became heavily infested with bed bugs. Unfortunately, she couldn't bring any of her furniture or electrical appliances to the new flat as they were all infested. The client has also developed undiagnosed Obsessive-Compulsive Disorder (OCD) in addition to her diagnosed mental health conditions. Due to her OCD, she is hoping for donations of new furniture and electrical appliances for her new home. If you require further information, please feel free to discuss it with her social worker, Ms. Seelvi. If you are willing to assist, please contact Ms. Seelvi at 86993152. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Lynette Tan",
-        "email": "lynettetan@thkmc.org.sg",
-        "phone": [
-          "64961272",
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Aug 2024"
-    },
-    {
-      "id": "137065",
-      "category": "Electrical Home Appliances",
-      "name": "Induction Cooker",
       "description": "The client, a single mother with two young children, is moving into a new rental flat after her previous rental flat became heavily infested with bed bugs. Unfortunately, she couldn't bring any of her furniture or electrical appliances to the new flat as they were all infested. The client has also developed undiagnosed Obsessive-Compulsive Disorder (OCD) in addition to her diagnosed mental health conditions. Due to her OCD, she is hoping for donations of new furniture and electrical appliances for her new home. If you require further information, please feel free to discuss it with her social worker, Ms. Seelvi. If you are willing to assist, please contact Ms. Seelvi at 86993152. Thank you.",
       "specifications": null,
       "contact": {
@@ -2757,24 +2704,6 @@
       "date": "30 Jul 2024"
     },
     {
-      "id": "137192",
-      "category": "Others",
-      "name": "Smartphone 4G Phone",
-      "description": "Client, 74, visually impaired, knows how to use smartphone but his current phone is out dated and not functioning well. He can’t afford a new smartphone; thus, he is seeking request from SAVH through Pass It On. He is fine will android base smartphone.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Association of the Visually Handicapped",
-        "name": "Steven Yew Kwok Wai",
-        "email": "steven@savh.org.sg",
-        "phone": [
-          "62514331ext507",
-          "62514331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 Aug 2024"
-    },
-    {
       "id": "137181",
       "category": "Others",
       "name": "Acoustic Guitar",
@@ -3947,6 +3876,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "31 Jul 2024"
+    },
+    {
+      "id": "137201",
+      "category": "Infant and Children Items",
+      "name": "Milk Powders",
+      "description": "Reaching out to request urgent assistance for a single mother in need. \n\nShe recently left spouse due to safety concerns and is now the full-time caregiver for her three young children, aged 6, 4 and 3. Without childcare placement, she is unable to work and is facing severe financial strain. \n\nThe family is in need of Enfagrow Pro A+ Stage milk powder for the children.",
+      "specifications": null,
+      "contact": {
+        "org": "Viriya Community Services - Whispering Hearts Family Service Centre",
+        "name": "Nur Hernani Binte Razni",
+        "email": "hernani@viriya.org.sg",
+        "phone": [
+          "67951008"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Aug 2024"
     },
     {
       "id": "137199",
