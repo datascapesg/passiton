@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "137233",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Family of 6 children is looking for a washing machine as their current one has broke down. Mother is currently pregnant and Father is the sole breadwinner. Family is looking for a large load 15kg washing machine as the large family regularly has lots of laundry to wash.",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Priscilla Loo",
+        "email": "priscilla.loo@reach.org.sg",
+        "phone": [
+          "64709776",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Sep 2024"
+    },
+    {
       "id": "137195",
       "category": "Electrical Home Appliances",
       "name": "Air Purifier",
@@ -1324,6 +1342,23 @@
       "date": "02 Aug 2024"
     },
     {
+      "id": "137234",
+      "category": "Others",
+      "name": "Foldable Room Divider",
+      "description": "The client is a 73-year-old grandmother living in a one-room rental flat with her 23-year-old grandson, who has mental health concerns and is currently unemployed. They have a conflictual relationship, and their conflicts may mutually trigger suicidal ideations. The client has requested a foldable room divider/ screen partition to increase her privacy, which may also help reduce the likelihood of conflicts",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Syamirul Azim",
+        "email": "syamirulazim@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "02 Sep 2024"
+    },
+    {
       "id": "137204",
       "category": "Others",
       "name": "Halal Food Rations For Clients (URGENT)",
@@ -2371,6 +2406,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "02 Aug 2024"
+    },
+    {
+      "id": "137235",
+      "category": "Home Furnishing",
+      "name": "Two seater sofa",
+      "description": "Client is a single mother, her son left the house during the end of last year 2023, and since then, client has been staying by herself. Client is diagnosed to be medically certified unfit to work due to multiple health conditions on her legs and back. Therefore, client is fully dependent on SSO financial assistance and Blossom Seeds for sustenance. Client’s current sofa has sunk in, and she requires a firm cushioned chair of better condition due to her back condition as she will face difficulty getting up and down the sofa. \nHence, in view of client’s medical condition and health requirement, it will be beneficial if client has a proper two-seater sofa in the living room.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Sep 2024"
     },
     {
       "id": "137228",
@@ -4999,6 +5051,24 @@
       "date": "06 Aug 2024"
     },
     {
+      "id": "137236",
+      "category": "Mobility Aids",
+      "name": "Commode chair without pot",
+      "description": "The senior is prone to falls, especially around the toilet area. The commode chair will be placed on her toilet bowl to save space and sit while showering. \n\nThe senior stays with her son, who is jobless and has a conflictual relationship with her. Therefore is not reliant on her care needs. \n\nThe dimensions for her current toilet bowl. \nheight floor to seat height 41 cm \nwidth 38cm \ndepth 44cm \npls whatsapp me at 8126 2493 for further details thanks",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Community Services",
+        "name": "Julia Soh Ying Li",
+        "email": "juliasoh@fycs.org",
+        "phone": [
+          "63809155",
+          "63809169"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Sep 2024"
+    },
+    {
       "id": "137123",
       "category": "Mobility Aids",
       "name": "Shower chair with flip up armrest",
@@ -5241,6 +5311,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "13 Aug 2024"
+    },
+    {
+      "id": "137231",
+      "category": "Kitchen Utility Items",
+      "name": "Blender Machine",
+      "description": "For elderly staying in 1 room rental unit",
+      "specifications": "NA",
+      "contact": {
+        "org": "THK CREST @ Tanjong Pagar-Tiong Bahru",
+        "name": "Guet Jie Han",
+        "email": "jiehan.guet@thkmc.org.sg",
+        "phone": [
+          "69242951"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Sep 2024"
     },
     {
       "id": "137164",
@@ -6130,6 +6217,28 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "137230",
+      "name": "Playgym and Swimming Costume",
+      "description": "Very good condition play gym with sensory book and  yellow swimming costume (0-6mos)",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "07 Sep 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "137229",
+      "name": "Fisher Price Rocker",
+      "description": "Condition 9/10. Rarely used and very clean Fisher Price Rocker",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "07 Sep 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
       "id": "137225",
       "name": "Play Pen",
       "description": "Play Pen for donation",
@@ -6337,17 +6446,6 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Learning Aids"
-    },
-    {
-      "id": "137224",
-      "name": "1 Carton M-size Adult Diaper",
-      "description": "1 Carton plus a few more packs. Will arrange delivery.",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "07 Sep 2024",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
     },
     {
       "id": "137094",
