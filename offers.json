@@ -11,17 +11,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "137380",
-    "name": "Karcher Vacuum Cleaner",
-    "description": "In good working condition.\nComes with full set not in picture.",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "04 Oct 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "137353",
     "name": "Toshiba dryer",
     "description": "Bought in sep 2023\n9kg.",
@@ -315,6 +304,17 @@
     "validTill": "15 Sep 2024",
     "ageInYears": 4,
     "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "137008",
+    "name": "Open cabinet",
+    "description": "Open cabinet \nH39.5 D39.5 W40",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "08 Sep 2024",
+    "ageInYears": 4,
+    "dimensions": "H39.5 D39.5 W40",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
