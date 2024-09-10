@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "137547",
+      "category": "Electrical Home Appliances",
+      "name": "Standing fan",
+      "description": "Single parent of 5 school-going children, requiring a standing fan as the current on has malfunctioned. Client is the sole breadwinner of the household as is limited by her financial constraints.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Joanna Tay",
+        "email": "joannatay@fycs.org",
+        "phone": [
+          "66901029",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Sep 2024"
+    },
+    {
       "id": "137539",
       "category": "Electrical Home Appliances",
       "name": "Standing Fan (2sets)",
@@ -1377,6 +1395,24 @@
       "date": "12 Aug 2024"
     },
     {
+      "id": "137545",
+      "category": "Others",
+      "name": "Guardian alcohol swabs and plasters",
+      "description": "Client has child with special needs and widespread eczema on her body. She hopes to receive assistance for swabs and plasters to manage her condition.",
+      "specifications": "10 packets",
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Wong Wing Sang",
+        "email": "wongwingsang@fycs.org",
+        "phone": [
+          "69784261",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Sep 2024"
+    },
+    {
       "id": "137529",
       "category": "Others",
       "name": "food ration",
@@ -2637,6 +2673,24 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "13 Aug 2024"
+    },
+    {
+      "id": "137546",
+      "category": "Home Furnishing",
+      "name": "Queen size bed frame & mattress",
+      "description": "Single parent of 5 school-going children, requiring a queen size bed frame and mattress as their current bed frame has been damaged. Client is the sole breadwinner of the household as is limited by her financial constraints.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Joanna Tay",
+        "email": "joannatay@fycs.org",
+        "phone": [
+          "66901029",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Sep 2024"
     },
     {
       "id": "137525",
@@ -6020,6 +6074,23 @@
       "date": "12 Aug 2024"
     },
     {
+      "id": "137552",
+      "category": "Medical Aids",
+      "name": "Blood pressure monitoring machine",
+      "description": "A 73 year old female, staying in 2 room flat alone. She was recently diagnosed with cancer and Low BP. She hopes to receive a donated BP machine to better manage her BP in view that she stays alone.",
+      "specifications": "Blood Pressure monitoring machine with bigger cuff",
+      "contact": {
+        "org": "SingHealth (CGH) – Community Care",
+        "name": "Yick Lai Cheng",
+        "email": "yick.lai.cheng@singhealth.com.sg",
+        "phone": [
+          "64268053"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Sep 2024"
+    },
+    {
       "id": "137531",
       "category": "Medical Aids",
       "name": "PULL UP DIAPERS",
@@ -6909,17 +6980,6 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "137542",
-      "name": "Top load washing machine",
-      "description": "Used top load washing machine, still working in good condition. Turbo Drum 10kg\n\nWill need to co-pay delivery fee with the centre",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "15 Sep 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "137543",
       "name": "Top load washing machine",
       "description": "Used top load washing machine, still working in good condition. Turbo Drum 10kg\n\nWill need to co-pay delivery fee with the centre",
@@ -7017,6 +7077,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "137549",
+      "name": "Round table",
+      "description": "Round table with 3cm small crack on the top",
+      "location": null,
+      "validTill": "20 Sep 2024",
+      "ageInYears": 4,
+      "dimensions": "Height 76cm. Length 78cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "137548",
+      "name": "Dining table and chairs",
+      "description": "Glass top dining table and 4 chairs. Not suitable for families with young children due to glass top and sharp corners",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "20 Sep 2024",
+      "ageInYears": 4,
+      "dimensions": "90cm by 160cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "137495",
@@ -7305,6 +7387,28 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "137553",
+      "name": "Joie Illusion Travel Cot - Nickel",
+      "description": "Joie Illusion Travel Cot - Nickel",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "10 Oct 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "137554",
+      "name": "Baby stroller",
+      "description": "Combi foldable stroller",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "20 Sep 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
       "id": "137541",
       "name": "Breast milk pump",
       "description": "Almost new pump, used once for 10-15min.\nOne out of 2 milk bottles missing. Does not affect usage as client can use her own bottles. \nHave a few brand new boxes of Pigeon brand milk storage bags and breast pads and wipes. \n\nCenter to co-pay delivery to client or client can self collect",
@@ -7349,7 +7453,7 @@
       "category": "Infant and Children Items"
     },
     {
-      "id": "137528",
+      "id": "137551",
       "name": "School Bags Brand New",
       "description": "School bags brand new (11 nos)\nSuitable for primary and secondary school",
       "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
@@ -7732,6 +7836,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "137555",
+      "name": "Yamaha U1 Upright Silent Piano",
+      "description": "Extremely well maintained, tuned every 6 months since purchase \nPiano was purchased in 2004\n\nComes with:\n- Power adaptor\n- Metronome\n- Piano seat \n- Owner's manual\n- Key to open piano \n\nHeadphones (6.1mm) are NOT included",
+      "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+      "validTill": "10 Oct 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "137496",
