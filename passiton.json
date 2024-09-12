@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "129637",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Client is living in a 1 room rental flat with her 12 year old son. Due to health concerns, she has to take a break from employment and is unable to have enough finances to replace her faulty refrigerator.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
+        "name": "Inez Hong",
+        "email": "inezhong@fycs.org",
+        "phone": [
+          "69783104",
+          "67625215"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Sep 2024"
+    },
+    {
       "id": "137620",
       "category": "Electrical Home Appliances",
       "name": "washing machine",
@@ -7288,6 +7306,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "137622",
+      "name": "Coffee Table",
+      "description": "Good condition",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "20 Sep 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "137599",
       "name": "4 Seater L shape sofa",
       "description": "Sturdy structure sofa, firm cushioning, easy to care genuine leather",
@@ -7493,17 +7522,6 @@
       "validTill": "18 Sep 2024",
       "ageInYears": 4,
       "dimensions": "73cm x 50cm x 75cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "136772",
-      "name": "Partition",
-      "description": "5-panelled foldable partition. Please self-collect from location or arrange for own transportation. No delivery available as donor is low-income.",
-      "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-      "validTill": "18 Sep 2024",
-      "ageInYears": 1,
-      "dimensions": "L97 x H174 cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
