@@ -4297,23 +4297,6 @@
       "date": "03 Sep 2024"
     },
     {
-      "id": "137330",
-      "category": "Infant and Children Items",
-      "name": "baby playpen",
-      "description": "Client is staying in a HDB rental flat and will need a playpen for her upcoming infant. She is due soon.",
-      "specifications": null,
-      "contact": {
-        "org": "Serangoon Moral Family Service Centre",
-        "name": "Muhammad Amin",
-        "email": "muhdamin@smfsc.org.sg",
-        "phone": [
-          "62847123"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "03 Sep 2024"
-    },
-    {
       "id": "137329",
       "category": "Infant and Children Items",
       "name": "Baby rocker / moving seat",
@@ -6568,6 +6551,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "137683",
+      "name": "Refrigerator",
+      "description": "Measures 167x70x70cm",
+      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+      "validTill": "30 Sep 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "137675",
       "name": "Philips Electric Kettle",
       "description": "1.2 litre electric kettle with auto-off function",
@@ -6676,6 +6670,28 @@
       "dimensions": "12\" x 8\" x8\"",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "137685",
+      "name": "Dining Table",
+      "description": "140x78cm",
+      "location": null,
+      "validTill": "30 Sep 2024",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "137684",
+      "name": "TV Console",
+      "description": "Relocating",
+      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+      "validTill": "30 Sep 2024",
+      "ageInYears": 3,
+      "dimensions": "180x40x48cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "137681",
