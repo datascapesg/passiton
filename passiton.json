@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "137727",
+      "category": "Electrical Home Appliances",
+      "name": "Clothes Iron",
+      "description": "Beneficiary is male elderly, 61, living alone. He has multiple health conditions and certified permanently unfit for work. Client has financial constraints and requires a clothes iron.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Senior Activity Centre @ Bukit Batok",
+        "name": "Franklin Richard",
+        "email": "franklinrichard@fycs.org",
+        "phone": [
+          "69782978",
+          "65633662"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Sep 2024"
+    },
+    {
       "id": "137724",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -7092,17 +7110,6 @@
       "id": "137503",
       "name": "Tea Pots and assorted stuff",
       "description": "Tea pots are brand new. Other things seldom used. All in good condition.",
-      "location": "Seletar, Yio Chu Kang",
-      "validTill": "01 Oct 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Kitchen Utility Items"
-    },
-    {
-      "id": "137521",
-      "name": "Air fryer used",
-      "description": "Seldom used. Outside has yellowed but still in working condition.",
       "location": "Seletar, Yio Chu Kang",
       "validTill": "01 Oct 2024",
       "ageInYears": 4,
