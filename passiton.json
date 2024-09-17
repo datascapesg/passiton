@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "137768",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Family of 3 with single working mom, has 2 school going children and are staying in a rental flat with bare minumum furniture. They are lacking a washing machine currently and require one for their daily washing machine.",
+      "specifications": "Nil",
+      "contact": {
+        "org": "MSF Social Service Office @ Tampines",
+        "name": "Bryan Chua",
+        "email": "bryan_chua@msf.gov.sg",
+        "phone": [
+          "67025741",
+          "64244017"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Sep 2024"
+    },
+    {
       "id": "137758",
       "category": "Electrical Home Appliances",
       "name": "fan",
@@ -1124,6 +1142,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "19 Aug 2024"
+    },
+    {
+      "id": "137765",
+      "category": "Others",
+      "name": "2nd hand laptop",
+      "description": "My client has an only son who is diagnosed with OCD. She is currently living with her husband and son in their 2 room rental flat. Her son is 32 years old and he finds it difficult to communicate with others, however, he is trying to push himself to find a simple job. A laptop will greatly help him with finding and applying for jobs. My client is a domestic violence survivor which possibly led to her son's diagnosis of OCD as he witnessed the abuse of his father towards his mother (my client) over a period of time when he was younger. However, I am trying to assist to get him out of his comfort zone and try to take simple steps such as going out of the home more often to buy food to hopefully improve his OCD incrementally. A laptop will assist with him being able to expand his horizon and learn more about the outside world as he navigates through his diagnosis as well.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Cluster Support @ Geylang",
+        "name": "Hajra Bee Binte Kamaludin",
+        "email": "Hajra.Kamaludin@thkmc.org.sg",
+        "phone": [
+          "68461228"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Sep 2024"
     },
     {
       "id": "137742",
@@ -4233,6 +4268,24 @@
       "date": "19 Aug 2024"
     },
     {
+      "id": "137767",
+      "category": "Medical Aids",
+      "name": "Adult diapers",
+      "description": "The client is a single woman in her 40s and a bilateral amputee with multiple health issues. Her family relies on public assistance for support. She is requesting adult diapers (Tena Maxi, size L), wet wipes, and gloves (size L). Thank you",
+      "specifications": null,
+      "contact": {
+        "org": "FRCS Family Service Centre",
+        "name": "Nur Farhana Binte Harun",
+        "email": "nurfarhana@frcsfsc.sg",
+        "phone": [
+          "67799488ext31",
+          "67799488"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Sep 2024"
+    },
+    {
       "id": "137740",
       "category": "Medical Aids",
       "name": "Anlene Milk (powder)",
@@ -4456,7 +4509,7 @@
         "name": "Tok Shou Hsien",
         "email": "tok_shouhsien@singaporecancersociety.org.sg",
         "phone": [
-          "64215835",
+          "80282098",
           "62219578"
         ]
       },
@@ -5903,23 +5956,6 @@
       "date": "16 Sep 2024"
     },
     {
-      "id": "137700",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "Standard wheelchair needed for the AAC to lend wheelchairs to seniors in the community who may need one.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Charis ACE Active Ageing Centre - Geylang East",
-        "name": "Sarah Seetow",
-        "email": "sarahseetow@mws.sg",
-        "phone": [
-          "68420497"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Sep 2024"
-    },
-    {
       "id": "137645",
       "category": "Mobility Aids",
       "name": "Wheelchair",
@@ -6893,6 +6929,28 @@
       "dimensions": "227 grams",
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "137766",
+      "name": "hospital bed",
+      "description": "single-sized hospital bed with standard functions. in perfect working condition",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "17 Oct 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "137764",
+      "name": "basic wheelchair",
+      "description": "clean and in great condition",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "17 Oct 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "137763",
