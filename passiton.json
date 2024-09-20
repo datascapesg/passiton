@@ -6722,6 +6722,23 @@
       "date": "20 Aug 2024"
     },
     {
+      "id": "137908",
+      "category": "Leisure and Healthy Lifestyle",
+      "name": "Smart phone",
+      "description": "Low income family requires a mobile phone to communicate with hospital and workers for the management of the sole breadwinner's poor health. A working smart phone is preferred. Pickup can be arranged.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner - Community Case Management Service Central",
+        "name": "Josherine Toh",
+        "email": "josherinetoh@carecorner.org.sg",
+        "phone": [
+          "62586601"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Sep 2024"
+    },
+    {
       "id": "137152",
       "category": "Leisure and Healthy Lifestyle",
       "name": "Hand and Foot Pedal Exercise Bike With Display Meter (URGENT!)",
@@ -7337,13 +7354,24 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "137791",
-      "name": "Coffee Table and TV Console",
-      "description": "Coffee table and TV console, thick tempered glass top and metal construction.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "17 Oct 2024",
-      "ageInYears": 4,
-      "dimensions": null,
+      "id": "137910",
+      "name": "Wooden Table",
+      "description": "Wooden Table for 4 persons. Functional and pretty. Comes with 4 plastic stools",
+      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+      "validTill": "16 Oct 2024",
+      "ageInYears": 3,
+      "dimensions": "58cm x 45cm x 76cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "137911",
+      "name": "Wooden Table",
+      "description": "Wooden Table for 4 persons. Functional and pretty. Comes with 4 plastic stools",
+      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+      "validTill": "16 Oct 2024",
+      "ageInYears": 3,
+      "dimensions": "58cm x 45cm x 76cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -7698,6 +7726,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Learning Aids"
+    },
+    {
+      "id": "137909",
+      "name": "Crutches",
+      "description": "Only used for 10 days less than 1 year ago. Fully functional.",
+      "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+      "validTill": "05 Oct 2024",
+      "ageInYears": 1,
+      "dimensions": "120cm (adjustable) x 20cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
     },
     {
       "id": "137843",
