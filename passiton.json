@@ -1,6 +1,41 @@
 {
   "requests": [
     {
+      "id": "138050",
+      "category": "Electrical Home Appliances",
+      "name": "Television",
+      "description": "Client is a pregnant lady who was laid off earlier this year from her job. Due to her pregnancy, she has been struggling to find suitable full-time employment. Client lives in a one-room rental flat with her husband and two children, aged 6 months and 8 years old. Client's second-hand television recently broke down and have no means to purchase a new set. Thus, client hopes to have a new television. Please feel free to contact Claudine at 6365 8751 to liaise with regards to this request.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Admiralty",
+        "name": "Lei Hui Yun",
+        "email": "leihuiyun@carecorner.org.sg",
+        "phone": [
+          "63658751"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Sep 2024"
+    },
+    {
+      "id": "138048",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "Single father recently moved to a new 2-room flat with his 3 special needs children. He requires a larger washing machine (at least 10l in capacity) to cope with the washing load. Thank you in advance.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Jessica Ho",
+        "email": "jessica.ho@montfortcare.org.sg",
+        "phone": [
+          "91780052",
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Sep 2024"
+    },
+    {
       "id": "138041",
       "category": "Electrical Home Appliances",
       "name": "Small Refrigerator",
@@ -1956,6 +1991,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "26 Aug 2024"
+    },
+    {
+      "id": "138049",
+      "category": "Home Furnishing",
+      "name": "Wardrobe",
+      "description": "Single father recently moved into a 2 room flat with his 3 special needs children. They require a wardrobe as part of their flat furnishings. Your generosity will be much appreciated. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Jessica Ho",
+        "email": "jessica.ho@montfortcare.org.sg",
+        "phone": [
+          "91780052",
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Sep 2024"
     },
     {
       "id": "138037",
@@ -5309,6 +5362,23 @@
       "date": "26 Aug 2024"
     },
     {
+      "id": "138051",
+      "category": "Leisure and Healthy Lifestyle",
+      "name": "Handphone (Android)",
+      "description": "Client is a single mother, her son left the house during the end of last year 2023, and since then, client has been staying by herself. Client is diagnosed to be medically certified unfit to work due to multiple health conditions on her legs and back. Therefore, client is fully dependent on SSO financial assistance and Blossom Seeds for sustenance. Client mentioned that her table was in a bad condition and had to throw away. Client is currently using a rocky table and she will often drop things on the phone as there are no proper space on the table.\nAdditionally, client shared that her phone condition has deteriorated, and it has become faulty and laggy. Therefore, she is also unable to use the important apps to pay her bills and communicate with her friends.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Sep 2024"
+    },
+    {
       "id": "138040",
       "category": "Leisure and Healthy Lifestyle",
       "name": "Andriod Smart Phone",
@@ -5914,17 +5984,6 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "138038",
-      "name": "Sofa + Coffee Table",
-      "description": "Seldom use in office.",
-      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-      "validTill": "04 Oct 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
     },
     {
       "id": "138035",
