@@ -1,6 +1,41 @@
 {
   "requests": [
     {
+      "id": "138053",
+      "category": "Electrical Home Appliances",
+      "name": "Juicer",
+      "description": "My client is 85 years old and resides in a three-room flat in Serangoon. He requires a juicer but cannot afford to purchase one. Thank you in advance for your kindness.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Cluster Support (CCK/ Bukit Panjang)",
+        "name": "Lau Lee Pai",
+        "email": "lauleepai@fycs.org",
+        "phone": [
+          "62024699",
+          "68936606"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Sep 2024"
+    },
+    {
+      "id": "138052",
+      "category": "Electrical Home Appliances",
+      "name": "Electric cooker or rice cooker",
+      "description": "An single elderly person, around 70 years old and living alone in a Joint Singles Scheme rental flat, has been unable to work for several months due to severe knee pain. He is currently surviving on a small CPF retirement payout. He is humbly requesting the donation of any electric cooker or rice cooker, which would allow them to easily prepare meals in his rented flat, using the rice and noodles donated by charitable organizations. Please WhatsApp messages Hsin Yu at 8911 8058 or email to hsinyu_lee@viriya.org.sg beforehand. Would appreciate if donor can cover transport costs.",
+      "specifications": null,
+      "contact": {
+        "org": "Viriya Family Service Centre",
+        "name": "Lee Hsin-Yu",
+        "email": "hsinyu_lee@viriya.org.sg",
+        "phone": [
+          "62858033"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Sep 2024"
+    },
+    {
       "id": "138050",
       "category": "Electrical Home Appliances",
       "name": "Television",
@@ -1429,24 +1464,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "11 Sep 2024"
-    },
-    {
-      "id": "137524",
-      "category": "Others",
-      "name": "Metal grocery trolley",
-      "description": "Patient has mobility issues and is not able to carry heavy things. She relies on a trolley for grocery shopping and balancing as she walks. Her current trolley wheels are broken hence requesting for a new one. Patient is on financial assistance and is financially strained.",
-      "specifications": null,
-      "contact": {
-        "org": "National Kidney Foundation (NKF)",
-        "name": "Johanna Lim",
-        "email": "johanna.lim@nkfs.org",
-        "phone": [
-          "62990200",
-          "65062244"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Sep 2024"
     },
     {
       "id": "137492",
@@ -5039,6 +5056,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "26 Aug 2024"
+    },
+    {
+      "id": "138054",
+      "category": "Medical Aids",
+      "name": "Tena adult diapers (pants, size L)",
+      "description": "Single mother staying in Woodlands rental flat with multiple health conditions (kidney disease stage 5, diabetes, high BP, high cholesterol) is in need of Tena adult diapers (pants, size L). She is on diaper pants fully as she is unable to control her bowels. She has kidney dialysis 3x/week. There is no breadwinner in her family.",
+      "specifications": "Tena adult diapers (pants, size L)",
+      "contact": {
+        "org": "MSF Social Service Office @ Woodlands",
+        "name": "Nur Farizan Hashim",
+        "email": "nur_farizan_hashim@msf.gov.sg",
+        "phone": [
+          "60138532",
+          "67660097"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Sep 2024"
     },
     {
       "id": "138025",
