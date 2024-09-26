@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "138041",
+      "category": "Electrical Home Appliances",
+      "name": "Small Refrigerator",
+      "description": "Client who recently moved into an HDB rental unit is currently saving up to furnish his house with household items. He needs a refrigerator to store his food. Keen on a new or secondhand a small refrigerator.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Sally Ho",
+        "email": "sally.ho@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Sep 2024"
+    },
+    {
       "id": "138007",
       "category": "Electrical Home Appliances",
       "name": "Fridge",
@@ -1939,6 +1956,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "26 Aug 2024"
+    },
+    {
+      "id": "138037",
+      "category": "Home Furnishing",
+      "name": "Study Table",
+      "description": "Recommended dimensions of study table: 45-50cm (length), good with any (breadth) – However, client is good with any dimensions as long as it would be suitable for primary 5 to 6 child. Mother of two young children, ages 4 and 9 years old, is requesting for a donor to donate a study table with shelf or storage and a study chair (if possible) for her 9-year-old son as their current study table at home is about to break. Mother is the sole breadwinner of the family due to the incarceration of her husband and is reliant on financial assistance and her limited income from her part-time job to support the family.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
+        "name": "Sabrina Than",
+        "email": "sabrinathan@mws.sg",
+        "phone": [
+          "62828558"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Sep 2024"
     },
     {
       "id": "138030",
@@ -5274,6 +5308,24 @@
       "date": "26 Aug 2024"
     },
     {
+      "id": "138040",
+      "category": "Leisure and Healthy Lifestyle",
+      "name": "Andriod Smart Phone",
+      "description": "Ct is a caregiver for her hsb with colon cancer who is currently using a stoma bag. Ct's current phone is old and the battery is draining out very quickly. Ct hopes to have a new andriod smart phone for her own usage (to destress after a long day of caregiving).",
+      "specifications": "Brand New Andriod smart phone",
+      "contact": {
+        "org": "Viriya Community Services - Whispering Hearts Family Service Centre",
+        "name": "Shirley Lee",
+        "email": "shirley_lee@viriya.org.sg",
+        "phone": [
+          "67451008",
+          "67951008"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Sep 2024"
+    },
+    {
       "id": "137908",
       "category": "Leisure and Healthy Lifestyle",
       "name": "Smart phone",
@@ -5859,6 +5911,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "138038",
+      "name": "Sofa + Coffee Table",
+      "description": "Seldom use in office.",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "04 Oct 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "138035",
       "name": "King size mattress",
       "description": "King size mattress",
@@ -6286,6 +6349,17 @@
       "dimensions": "227 grams",
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "138039",
+      "name": "Wheelchair",
+      "description": "Used for 1 year only.",
+      "location": null,
+      "validTill": "26 Oct 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "138036",
