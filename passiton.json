@@ -36,23 +36,6 @@
       "date": "27 Sep 2024"
     },
     {
-      "id": "138080",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Student with special needs is cared for by his grandparents. The family live in a 1-room rental flat. Grandfather is working part time. Grandmother has mobility issues & unable to work. Their washing machine is spoilt and grandfather has to wash clothes by hand.",
-      "specifications": null,
-      "contact": {
-        "org": "MINDS - Lee Kong Chian Gardens School",
-        "name": "Jane Antony",
-        "email": "jane.antony@minds.org.sg",
-        "phone": [
-          "64738332"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Sep 2024"
-    },
-    {
       "id": "138079",
       "category": "Electrical Home Appliances",
       "name": "Rice Cooker",
@@ -6310,6 +6293,17 @@
       "category": "Infant and Children Items"
     },
     {
+      "id": "138086",
+      "name": "Electric jar lid opener",
+      "description": "Not effective on tight lid.\n\nDelivery on weekday evening and weekend.",
+      "location": null,
+      "validTill": "27 Oct 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Kitchen Utility Items"
+    },
+    {
       "id": "137522",
       "name": "Air fryer used",
       "description": "Seldom used. Outside has yellowed but still in working condition.",
@@ -6352,6 +6346,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Kitchen Utility Items"
+    },
+    {
+      "id": "138088",
+      "name": "Children bicycle helmet",
+      "description": "Delivery on weekday evening and weekend.",
+      "location": null,
+      "validTill": "27 Oct 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Leisure and Healthy Lifestyle"
+    },
+    {
+      "id": "138087",
+      "name": "Small fish tank",
+      "description": "Dimensions are estimated, pump included.\n\nDelivery on weekday evening and weekend.",
+      "location": null,
+      "validTill": "27 Oct 2024",
+      "ageInYears": 2,
+      "dimensions": "30cmLx20cmWx25cmH",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Leisure and Healthy Lifestyle"
     },
     {
       "id": "137571",
@@ -6583,6 +6599,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "138089",
+      "name": "Cable",
+      "description": "UK plug-IEC C13: 5 pieces.\nUK plug-IEC C15: 1 piece.\n\nDear on weekday evening and weekend.",
+      "location": null,
+      "validTill": "27 Oct 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "138000",
