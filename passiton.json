@@ -1,6 +1,57 @@
 {
   "requests": [
     {
+      "id": "138081",
+      "category": "Electrical Home Appliances",
+      "name": "Television",
+      "description": "Student with special needs is cared for by his grandparents. The family live in a 1-room rental flat. Grandfather is working part time. Grandmother has mobility issues & unable to work. They do not have a TV and would like to have a small TV.",
+      "specifications": null,
+      "contact": {
+        "org": "MINDS - Lee Kong Chian Gardens School",
+        "name": "Jane Antony",
+        "email": "jane.antony@minds.org.sg",
+        "phone": [
+          "64738332"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Sep 2024"
+    },
+    {
+      "id": "138080",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Student with special needs is cared for by his grandparents. The family live in a 1-room rental flat. Grandfather is working part time. Grandmother has mobility issues & unable to work. Their washing machine is spoilt and grandfather has to wash clothes by hand.",
+      "specifications": null,
+      "contact": {
+        "org": "MINDS - Lee Kong Chian Gardens School",
+        "name": "Jane Antony",
+        "email": "jane.antony@minds.org.sg",
+        "phone": [
+          "64738332"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Sep 2024"
+    },
+    {
+      "id": "138079",
+      "category": "Electrical Home Appliances",
+      "name": "Rice Cooker",
+      "description": "Student with special needs is cared for by his grandparents. The family live in a 1-room rental flat. Grandfather is working part time. Grandmother has mobility issues & unable to work. Their rice cooker is spoilt and they have to cook rice over the stove.",
+      "specifications": null,
+      "contact": {
+        "org": "MINDS - Lee Kong Chian Gardens School",
+        "name": "Jane Antony",
+        "email": "jane.antony@minds.org.sg",
+        "phone": [
+          "64738332"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Sep 2024"
+    },
+    {
       "id": "138071",
       "category": "Electrical Home Appliances",
       "name": "Fan",
@@ -2010,6 +2061,23 @@
       "date": "27 Aug 2024"
     },
     {
+      "id": "138078",
+      "category": "Home Furnishing",
+      "name": "Cupboard",
+      "description": "A low income elderly requires a 3-door wardrobe with drawers to store and organize her clothes. Her clothes are currently placed in high stacks and occupying significant space in the bedroom.\nSponsorship of the delivery fee is appreciate as well!",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner - Community Case Management Service Central",
+        "name": "Josherine Toh",
+        "email": "josherinetoh@carecorner.org.sg",
+        "phone": [
+          "62586601"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Sep 2024"
+    },
+    {
       "id": "138062",
       "category": "Home Furnishing",
       "name": "Dining table with 4 chairs",
@@ -3058,6 +3126,60 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "28 Aug 2024"
+    },
+    {
+      "id": "138077",
+      "category": "Infant and Children Items",
+      "name": "Huggies Nature Diapers (XL  Size)",
+      "description": "Community Services & Programmes @ Children's Society requires 8 packets of Huggies Nature Diapers in XL Size for our clients with sensitive skin and eczema. Using of Huggies nature diapers will lessen rashes. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society Corporate Office",
+        "name": "Kartini",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "69787279",
+          "62732010"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Sep 2024"
+    },
+    {
+      "id": "138076",
+      "category": "Infant and Children Items",
+      "name": "Huggies Nature Diapers (Medium Size)",
+      "description": "Community Services & Programmes @ Children's Society requires 4 packets of Huggies Nature Diapers in Medium Size for our clients with sensitive skin and eczema. Using of Huggies nature diapers will lessen rashes. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society Corporate Office",
+        "name": "Kartini",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "69787279",
+          "62732010"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Sep 2024"
+    },
+    {
+      "id": "138075",
+      "category": "Infant and Children Items",
+      "name": "Huggies Nature Diapers",
+      "description": "Community Services & Programmes @ Children's Society requires 8 packets of Huggies Nature Diapers in Small Size for our clients with sensitive skin and eczema. Using of Huggies nature diapers will lessen rashes. \nDelivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society Corporate Office",
+        "name": "Kartini",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "69787279",
+          "62732010"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Sep 2024"
     },
     {
       "id": "138074",
@@ -5909,17 +6031,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "138045",
-      "name": "Metal Floor standing fan",
-      "description": "16 inch Mistral metal floor standing fan\nsigns of rust on the fan covers\nFan can turn, has 3 speeds",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "26 Oct 2024",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "138003",
       "name": "Hot pot grill combo",
       "description": "Combo hotpot and grill",
@@ -5951,17 +6062,6 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "138065",
-      "name": "Queen size mattress",
-      "description": "Queen size mattress. Very clean. Maintained regularly with a dust mite vacuum.",
-      "location": "Balestier, Toa Payoh",
-      "validTill": "11 Oct 2024",
-      "ageInYears": 4,
-      "dimensions": "Singapore queen 23cm height",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
     },
     {
       "id": "138064",
@@ -6385,17 +6485,6 @@
       "id": "138028",
       "name": "Wheeled & Decling Commode Chair",
       "description": "Commonde chair can be declining with wheel.",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "25 Oct 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
-      "id": "138027",
-      "name": "Reclining Wheelchair",
-      "description": "Wheelchair 18\", can be foldable",
       "location": "Pasir Ris, Simei, Tampines",
       "validTill": "25 Oct 2024",
       "ageInYears": 4,
