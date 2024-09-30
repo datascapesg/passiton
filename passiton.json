@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "138141",
+      "category": "Infant and Children Items",
+      "name": "Diapers",
+      "description": "Client (26 y/o) is a full-time caregiver to her two children aged 2 years old and 2 months old. The family is living in a rental flat, with the husband being the sole breadwinner. Client will require assistance in getting diapers (Size S and XL - 4 packets of each size).",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Lee Jia Hui",
+        "email": "jiahui.lee@reach.org.sg",
+        "phone": [
+          "60271219",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Sep 2024"
+    },
+    {
       "id": "127751",
       "category": "Infant and Children Items",
       "name": "Enfalac A+ Stage 2 Milk Powder",
@@ -5436,17 +5454,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "138116",
-      "name": "2-seater Beige fabric sofa Ikea Kivik",
-      "description": "2-seater fabric sofa, beige color. No defects.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "06 Oct 2024",
-      "ageInYears": 4,
-      "dimensions": "190x95x83 cm LWH",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "138115",
       "name": "Kitchen Cabinet",
       "description": "Grey Kitchen Cabinet",
@@ -5487,17 +5494,6 @@
       "validTill": "28 Oct 2024",
       "ageInYears": 1,
       "dimensions": "25 cm x 25 cm x 25 cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "138107",
-      "name": "Double bed and mattress",
-      "description": "Double bed and mattress, high quality, mattress used less than 2 years",
-      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-      "validTill": "10 Oct 2024",
-      "ageInYears": 2,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
