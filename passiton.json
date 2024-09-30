@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "138145",
+      "category": "Infant and Children Items",
+      "name": "Family with special needs child requesting for milk and diaper assistance",
+      "description": "A young family of 5 are requesting for help with milk and diapers for their pair of twins and child. \n\nThey're in the midst of taking care of their twins and young child with special needs but it's still a work in progress. \n\nDespite family's financial challenges, they continue to strive their best to provide for the children and in-laws in their family by providing them with their basic necessities to the best of their abilities. The family has requested for the following items that can help defray some household costs. \n\nThey are grateful for any form of assistance that the community can provide: \n1) Nestlé LACTOGEN Growing Up Milk Formula - Stage 3 (3 packs/month)\n2) Nestlé LACTOGEN Milk Formula - Stage 2 (8 packs/month)\n3) Merries Size L - Tape type diapers (8 packs/month)\n4) Merries Size XXL - Pants type diapers (4 packs/month)\n\nKindly contact Ms Srieena through WhatsApp or phone call at +65 6511 5636 if you'd like to support. Any amount of support would be much appreciated. \n\nThank you.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Early Intervention Centre @Fernvale Link",
+        "name": "Khor Meng Li Callie",
+        "email": "mengli_khor@awwa.org.sg",
+        "phone": [
+          "65115623",
+          "65115621"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Sep 2024"
+    },
+    {
       "id": "138141",
       "category": "Infant and Children Items",
       "name": "Diapers",
@@ -3898,6 +3916,23 @@
       "date": "02 Sep 2024"
     },
     {
+      "id": "138144",
+      "category": "Others",
+      "name": "Dumex Dulac Infant Milk Formula - Step 2",
+      "description": "Dumex Dulac Infant Milk Formula - Step 2. Client is a mother of three children aged 9, 4 and 2. Her 4-year-old child has developmental delay while her 2-year-old is facing potential developmental delays and health concerns, having been hospitalised twice in recent months due to kidney and calcium issues. On top of her children's needs, she is also struggling with finances due to unstable income as food stall helper. She is also a victim of spousal violence in the past, and currently navigating divorce process.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
+        "name": "Sabrina Than",
+        "email": "sabrinathan@mws.sg",
+        "phone": [
+          "62828558"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Sep 2024"
+    },
+    {
       "id": "136646",
       "category": "Others",
       "name": "Abbott Glucerna Triple Care Milk Formula - Wheat (800g)",
@@ -3948,23 +3983,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": false,
-      "date": "25 Sep 2024"
-    },
-    {
-      "id": "138031",
-      "category": "Others",
-      "name": "Food ration",
-      "description": "Low-income couple with two young children recently became unemployed. They hope to receive some food rations (canned sardine, canned chicken, and instant noodles) to tide them during this period while they look for stable jobs.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Fitrah Nabilah",
-        "email": "fitrahnabilah@carecorner.org.sg",
-        "phone": [
-          "64761481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
       "date": "25 Sep 2024"
     },
     {
@@ -5278,6 +5296,17 @@
     }
   ],
   "offers": [
+    {
+      "id": "138146",
+      "name": "Oven",
+      "description": "Baby belling oven in excellent working condition.",
+      "location": null,
+      "validTill": "30 Oct 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
     {
       "id": "138114",
       "name": "E14 LED light",
