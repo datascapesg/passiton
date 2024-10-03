@@ -1,24 +1,6 @@
 {
   "requests": [
     {
-      "id": "138304",
-      "category": "Infant and Children Items",
-      "name": "Baby Carrier",
-      "description": "Client is a 27yo young mother with 2 newborns of 18 months and 3 months. Her husband, a Malaysian, is facing difficulty finding employment and work permit in Singapore. He is currently mending a food stall in Malaysia and client is currently unemployed due to child caregiving. The family is struggling financially and is requesting for a baby carrier to help with transport for her infants.",
-      "specifications": "Baby Carrier",
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "mwsfscy@mws.sg",
-        "phone": [
-          "83688612",
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Oct 2024"
-    },
-    {
       "id": "138302",
       "category": "Infant and Children Items",
       "name": "Double Pram",
@@ -2468,6 +2450,42 @@
       "date": "02 Sep 2024"
     },
     {
+      "id": "138313",
+      "category": "Electrical Home Appliances",
+      "name": "Television",
+      "description": "Client, who is 80 years old + unemployed and stay alone elderly woman residing in a rental flat, required a TV. Current TV has sound but no picture.  \n\nWill appreciate if donor could cover delivery fees.\n\nPlease WhatsApp Jeff at 96447310 to liaise.\n\nDonor to discuss with Jeff on the dimension of TV.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Telok Blangah",
+        "name": "Siti Syaziah Binte Mohd Sufi",
+        "email": "syaziah.sufi@montfortcare.org.sg",
+        "phone": [
+          "62746904",
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Oct 2024"
+    },
+    {
+      "id": "138311",
+      "category": "Electrical Home Appliances",
+      "name": "washing machine",
+      "description": "Client is a dialysis patient and has mobility issues. Family is experiencing financial difficulties as spouse is no longer working.",
+      "specifications": "7 kg",
+      "contact": {
+        "org": "Lions Befrienders Service Association (Singapore)",
+        "name": "Chow Ching Hua",
+        "email": "chinghua.chow@lb.org.sg",
+        "phone": [
+          "66814941",
+          "63758600"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Oct 2024"
+    },
+    {
       "id": "138309",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -3469,6 +3487,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "02 Sep 2024"
+    },
+    {
+      "id": "138314",
+      "category": "Home Furnishing",
+      "name": "1x Single Mattress + 1x Single Bedframe",
+      "description": "Client is an adult with some challenges in cognitive functioning and has only recently started full-time work. He sleeps on the floor of a 1-Rm public rental flat, and needs a bed and frame for back support. He is open for second-hand items that are in good condition. Please WhatsApp Benjamin @ 8718-8440 or email benjamin.ho@thkmc.org.sg for more information.",
+      "specifications": "Single",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Lynette Tan",
+        "email": "lynettetan@thkmc.org.sg",
+        "phone": [
+          "64961272",
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Oct 2024"
+    },
+    {
+      "id": "138312",
+      "category": "Home Furnishing",
+      "name": "Bed mattress",
+      "description": "Senior stays alone in a 3 room HDB after her mother passed away. She is hard of hearing, and is hunchback due to spinal injury in the past. House is badly maintained due to her old age and physical disability. Current mattress has been in use for many years, the centre part has already sunk in. Seeking a firm mattress to provide good support to senior and improve her sleep at night.",
+      "specifications": "Single-sized",
+      "contact": {
+        "org": "Lions Befrienders Service Association (Singapore)",
+        "name": "Chow Ching Hua",
+        "email": "chinghua.chow@lb.org.sg",
+        "phone": [
+          "66814941",
+          "63758600"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Oct 2024"
     },
     {
       "id": "138305",
@@ -6842,6 +6896,39 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "138318",
+      "name": "Brown Leather Armchair",
+      "description": "Brown Leather Armchair.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "02 Nov 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "138317",
+      "name": "Queen-Sized Sealy Bed Frame + Mattress",
+      "description": "Well Maintained Queen-Sized Sealy Bed Frame and Mattress.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "02 Nov 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "138315",
+      "name": "15 mth old queen size kingcoil firm mattress",
+      "description": "Very new. Used by my late father, no illness or disease.  He did not pass away on it though.",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "02 Nov 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "138306",
       "name": "Cupboard",
       "description": "2 Door Cupboard",
@@ -7258,6 +7345,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "138316",
+      "name": "Brand new Bed ridden aids, wheel chair, commode",
+      "description": "As picture. To take all items. A few more not in pictures to help with bed ridden .",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "02 Nov 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "138282",
