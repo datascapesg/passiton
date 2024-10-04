@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "138365",
+      "category": "Infant and Children Items",
+      "name": "Diapers (Huggies Pull Up Pants, XL, 2-3 packets)",
+      "description": "Family has a young daughter and a 3 year old son and elderly mother to take care of. The sole breadwinner of the family is having difficulties working as he has a pre-existing medical conditions and met with an accident 3 years ago. Their elder mother is diagnosed with multiple medical conditions and has to be on adult diapers. The family is having difficulties coping with the monthly expenses in the family. They require assistance with the adult diapers for their elder mother.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Cheng San 445",
+        "name": "Nur Ain Afini Binte Hamdan",
+        "email": "nurainafini@allkin.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Oct 2024"
+    },
+    {
       "id": "138337",
       "category": "Infant and Children Items",
       "name": "Donation of Dipaer",
@@ -4074,23 +4092,6 @@
       "date": "27 Sep 2024"
     },
     {
-      "id": "138059",
-      "category": "Home Furnishing",
-      "name": "2-Door Wardrobe",
-      "description": "Client is single mother with 2 children. They will be moving into a HDB one-room rental unit. As client is currently unemployed and requires medical assistance, she is unable to afford home furnishings. Thus, this would help alleviate some of her stressors. Please feel free to liaise with Jenny at 6365 8751 with regards to this request.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Admiralty",
-        "name": "Lei Hui Yun",
-        "email": "leihuiyun@carecorner.org.sg",
-        "phone": [
-          "63658751"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Sep 2024"
-    },
-    {
       "id": "138049",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -7001,6 +7002,50 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "138366",
+      "name": "Ariston 5 burner rangę cooker",
+      "description": "Ariston 5 burner rangę cooker, about 10 years old. Uses LPG gas.",
+      "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+      "validTill": "30 Oct 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "138364",
+      "name": "Midea Dryer",
+      "description": "Midea dryer, about 6 years old but still in good working order",
+      "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+      "validTill": "30 Oct 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "138363",
+      "name": "Sharp Washing Machine",
+      "description": "Sharp washing machine, about 2 years old but probably used less than 3 times...",
+      "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+      "validTill": "30 Oct 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "138361",
+      "name": "Samsung Fridge",
+      "description": "Samsung fridge, about 10 years old but still in good working condition...",
+      "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+      "validTill": "30 Oct 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "138114",
       "name": "E14 LED light",
       "description": "E14 LED light, 4 pieces.\nAll warm white.\n\nDelivery on weekday evening and weekend.",
@@ -7472,6 +7517,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "138362",
+      "name": "Push chair for elderly or needy",
+      "description": "See photo. Item is fairly new.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "09 Oct 2024",
+      "ageInYears": 1,
+      "dimensions": "Seat and backrest is about same size : 40cm by 40 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "138358",
