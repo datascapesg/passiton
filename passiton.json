@@ -2576,23 +2576,6 @@
       "date": "02 Oct 2024"
     },
     {
-      "id": "138240",
-      "category": "Electrical Home Appliances",
-      "name": "Standing Fan",
-      "description": "Client is a single mother with a 17-year old daughter. She is currently working as a freelance security guard and income is only sufficient to cover basic needs. She currently needs a replacement for her standing fan.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Punggol 616",
-        "name": "Joanne Kok",
-        "email": "joannekoh@allkin.org.sg",
-        "phone": [
-          "64355323"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Oct 2024"
-    },
-    {
       "id": "138231",
       "category": "Electrical Home Appliances",
       "name": "1.8L Rice Cooker",
@@ -2956,24 +2939,6 @@
         "phone": [
           "88333080",
           "67169466"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Sep 2024"
-    },
-    {
-      "id": "137758",
-      "category": "Electrical Home Appliances",
-      "name": "fan",
-      "description": "client needs a floor standing fan.",
-      "specifications": null,
-      "contact": {
-        "org": "Thye Hua Kwan Moral Charities",
-        "name": "Penelope Lim",
-        "email": "penelope.lim@thkmc.org.sg",
-        "phone": [
-          "68461228",
-          "63371201"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -6486,6 +6451,17 @@
       "dimensions": "30*30*40",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "138373",
+      "name": "Curtains",
+      "description": "Standard curtains for HDB flats.",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "04 Nov 2024",
+      "ageInYears": 4,
+      "dimensions": "Short curtain 3 ft (W) by 4 ft (L); Long curtain 6.5 ft (W) by 7.5 ft (L)",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "138370",
