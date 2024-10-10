@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "138500",
+      "category": "Infant and Children Items",
+      "name": "Milk and Diapers",
+      "description": "Client has 4 school going children and require 3 packets of XXL drypers diapers  (pants).",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Punggol 616",
+        "name": "Amos Liu",
+        "email": "amosliu@allkin.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "10 Oct 2024"
+    },
+    {
       "id": "138496",
       "category": "Infant and Children Items",
       "name": "Baby Rocker",
@@ -1067,23 +1084,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": false,
-      "date": "30 Sep 2024"
-    },
-    {
-      "id": "138137",
-      "category": "Infant and Children Items",
-      "name": "Double or Single Stroller",
-      "description": "If you are keen to donate, pls contact me at 60384265 OR novislim@allkin.org.sg, as the number indicated on the side is no longer in use. Thank you!\n\nClient is looking for a stroller to aid her in sending her children to and from preschool (preferably double stroller but she is open to single stroller). She has 2 children (a 3yr old with suspected special needs and a 2yr old). Client recently separated from her partner and thus has difficulties affording a stroller for her children.",
-      "specifications": null,
-      "contact": {
-        "org": "KidSTART @ Allkin",
-        "name": "Novis Lim",
-        "email": "novislim@allkin.org.sg",
-        "phone": [
-          "65920490"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
       "date": "30 Sep 2024"
     },
     {
@@ -2296,6 +2296,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "09 Sep 2024"
+    },
+    {
+      "id": "138499",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Client is a low income family with father being the sole breadwinner. They have a few months old baby and is seeking for a new fridge as their current one is faulty and has been leaking since a month ago.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Woodlands",
+        "name": "Fatimah Azzahrah",
+        "email": "fatimah_azzahrah_noor@msf.gov.sg",
+        "phone": [
+          "62319407",
+          "67660097"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Oct 2024"
+    },
+    {
+      "id": "138498",
+      "category": "Electrical Home Appliances",
+      "name": "Standing fan",
+      "description": "Single mother of 7 years old child with autism just moved into a new one-room public rental house. She is unable to find suitable work due to child's caregiving schedule. A fan would help to cool down the room at night.",
+      "specifications": null,
+      "contact": {
+        "org": "Whampoa Family Service Centre",
+        "name": "Joanne Chien",
+        "email": "joannechien@kkcs.org.sg",
+        "phone": [
+          "63260304",
+          "63260300"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Oct 2024"
     },
     {
       "id": "138495",
@@ -6479,6 +6515,17 @@
       "dimensions": "30*30*40",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "138497",
+      "name": "Painting (21x21x1.5cm)",
+      "description": "Bought it for around $200 & display at home for 4years & in good condition. Giving away as moving house.",
+      "location": null,
+      "validTill": "09 Nov 2024",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "138458",
