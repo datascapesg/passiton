@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "138540",
+      "category": "Infant and Children Items",
+      "name": "XL diaper pants",
+      "description": "family of 8 requires help with diapers and father has been incacerated and wife is unable to work due to caregiving",
+      "specifications": "xl pullup pants",
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Nurhidayah Binte Sazali",
+        "email": "hidayah@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Oct 2024"
+    },
+    {
       "id": "138531",
       "category": "Infant and Children Items",
       "name": "Diapers L sized",
@@ -2255,6 +2272,60 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "10 Sep 2024"
+    },
+    {
+      "id": "138539",
+      "category": "Electrical Home Appliances",
+      "name": "Induction cooker",
+      "description": "Help client in his recovery journey. Single adult male, recently separated from wife starting a fresh in his own rental unit apartment. Has been struggling with mental health issues and working hard in recovery to be able to continue to manage his own needs. Has poor family support hence often feels helpless on his own without constant support. Looking for appliances such as fridge, induction cooker and washing machine.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Kreta Ayer",
+        "name": "Dian Maisarah Sulaiman",
+        "email": "dian.maisarah@montfortcare.org.sg",
+        "phone": [
+          "92310194",
+          "62746904"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Oct 2024"
+    },
+    {
+      "id": "138538",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Help client in his recovery journey. Single adult male, recently separated from wife starting a fresh in his own rental unit apartment. Has been struggling with mental health issues and working hard in recovery to be able to continue to manage his own needs. Has poor family support hence often feels helpless on his own without constant support. Looking for appliances such as fridge, induction cooker and washing machine.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Kreta Ayer",
+        "name": "Dian Maisarah Sulaiman",
+        "email": "dian.maisarah@montfortcare.org.sg",
+        "phone": [
+          "92310194",
+          "62746904"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Oct 2024"
+    },
+    {
+      "id": "138537",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Help client in his recovery journey. Single adult male, recently separated from wife starting a fresh in his own rental unit apartment. Has been struggling with mental health issues and working hard in recovery to be able to continue to manage his own needs. Has poor family support hence often feels helpless on his own without constant support. Looking for appliances such as fridge, induction cooker and washing machine.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Kreta Ayer",
+        "name": "Dian Maisarah Sulaiman",
+        "email": "dian.maisarah@montfortcare.org.sg",
+        "phone": [
+          "92310194",
+          "62746904"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Oct 2024"
     },
     {
       "id": "138536",
@@ -6509,6 +6580,17 @@
       "dimensions": "200 x 90 x 51 cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "138541",
+      "name": "Foldable Wheelchair",
+      "description": "Fully functional foldable wheelchair.\nAll good except for some rust at the joints",
+      "location": "Seletar, Yio Chu Kang",
+      "validTill": "31 Oct 2024",
+      "ageInYears": 4,
+      "dimensions": "90cm x 90cm x 30cm folded",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "138522",
