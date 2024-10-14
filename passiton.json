@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "138609",
+      "category": "Infant and Children Items",
+      "name": "Baby Cot",
+      "description": "Low income family living in a HDB rental flat requesting for a baby cot for their 1 yo daughter. Preferably, a donor that is able to consider providing transport.",
+      "specifications": null,
+      "contact": {
+        "org": "TRANS Family Service Centre (Bedok)",
+        "name": "Muhammad Hamizan Danial",
+        "email": null,
+        "phone": [
+          "64490762"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Oct 2024"
+    },
+    {
       "id": "138598",
       "category": "Infant and Children Items",
       "name": "Diaper",
@@ -3374,6 +3391,23 @@
       "date": "13 Sep 2024"
     },
     {
+      "id": "138608",
+      "category": "Home Furnishing",
+      "name": "Sofa bed",
+      "description": "Family has 6 school going young children. Father was recently retrenched, and was unable to secure employment in the past two months. Family will be moving in to their new HDB rental flat and will need support in ensuring that the children has a comfortable living environment.",
+      "specifications": null,
+      "contact": {
+        "org": "SHINE Children and Youth Services - Clementi",
+        "name": "Jadie Tang",
+        "email": "jadie_tang@shine.org.sg",
+        "phone": [
+          "67786867"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Oct 2024"
+    },
+    {
       "id": "138601",
       "category": "Home Furnishing",
       "name": "Queen sized bed frame with mattress",
@@ -6337,6 +6371,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Leisure and Healthy Lifestyle"
+    },
+    {
+      "id": "138607",
+      "name": "Electric Organ",
+      "description": "this electric organ has been maintained very well and it is still in good condition",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "13 Nov 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Learning Aids"
+    },
+    {
+      "id": "138606",
+      "name": "Piano",
+      "description": "The piano is still functioning very well :)",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "13 Nov 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Learning Aids"
     },
     {
       "id": "138580",
