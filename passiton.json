@@ -2202,6 +2202,42 @@
       "date": "13 Sep 2024"
     },
     {
+      "id": "138618",
+      "category": "Others",
+      "name": "Myotein (Protein)",
+      "description": "An elderly client from a low-income family who has multiple health conditions requires additional protein in her daily diet.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Cheng San 445",
+        "name": "Joyce Ng",
+        "email": "joyceng@allkin.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Oct 2024"
+    },
+    {
+      "id": "138617",
+      "category": "Others",
+      "name": "Milk Powder - Ensure Life Strength Pro - Coffee",
+      "description": "An elderly client from a low-income family, who is facing multiple health challenges, requires milk powder as part of her daily nutritional regimen.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Cheng San 445",
+        "name": "Joyce Ng",
+        "email": "joyceng@allkin.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Oct 2024"
+    },
+    {
       "id": "138594",
       "category": "Others",
       "name": "Non-Halal Groceries",
@@ -4712,23 +4748,6 @@
       "date": "14 Oct 2024"
     },
     {
-      "id": "138546",
-      "category": "Electrical Home Appliances",
-      "name": "Electric Kettle",
-      "description": "Family with 5 children requires electric kettle for their hot water needs. Family is subsisting on their income as part-time gig workers. The donation will be helpful in alleviating their financial anxiety.",
-      "specifications": null,
-      "contact": {
-        "org": "Kampong Kapor Community Services",
-        "name": "Khairunisa Binte Rusli",
-        "email": "khairunisarusli@kkcs.org.sg",
-        "phone": [
-          "62997662"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "11 Oct 2024"
-    },
-    {
       "id": "138543",
       "category": "Electrical Home Appliances",
       "name": "Water Heater",
@@ -6074,6 +6093,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "138619",
+      "name": "Refrigerator",
+      "description": "PANASONIC 450L 2 Door Inverter Refrigerator NR-BX460XS. Lightly used.",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "13 Nov 2024",
+      "ageInYears": 2,
+      "dimensions": "685 x 698 x 1764 mm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "138572",
       "name": "Two desktop lamps",
       "description": "Two desk lamps",
@@ -6116,6 +6146,17 @@
       "dimensions": "30*30*40",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "138616",
+      "name": "Lamps & acessories",
+      "description": "Excellent condition. Leaving Singapore and want to donate.",
+      "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
+      "validTill": "13 Nov 2024",
+      "ageInYears": 3,
+      "dimensions": "x170x60",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "138603",
@@ -6328,7 +6369,7 @@
     },
     {
       "id": "138611",
-      "name": "Joyce Hoong",
+      "name": "Tula baby carrier",
       "description": "Tula baby carrier for 6mo to 2yo",
       "location": "Bedok",
       "validTill": "13 Nov 2024",
