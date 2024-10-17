@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "138727",
-      "category": "Learning Aids",
-      "name": "New computer mouse",
-      "description": "Elderly taking up a basic computer course using a donated laptop. Trackpad is not working and requires a mouse. Wired or Wireless is ok. Request for new mouse if possible. Hope to receive mouse before 29 Oct as course start on 1 Nov. Kindly email to travislee@kkcs.org.sg.",
-      "specifications": null,
-      "contact": {
-        "org": "Whampoa Family Service Centre",
-        "name": "Travis Lee",
-        "email": "travislee@kkcs.org.sg",
-        "phone": [
-          "63260300"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Oct 2024"
-    },
-    {
       "id": "138696",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -280,6 +263,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "18 Sep 2024"
+    },
+    {
+      "id": "138742",
+      "category": "Electrical Home Appliances",
+      "name": "Vacuum cleaner",
+      "description": "hii! my client is a mother of 4 children who is currently facing financial difficulties. Family is requesting for a vacuum cleaner. Donor to kindly cover transport arrangement and delivery cost please. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+        "name": "Tasya Puspita Maulany",
+        "email": "tasya@allkin.org.sg",
+        "phone": [
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Oct 2024"
     },
     {
       "id": "138740",
@@ -6400,23 +6400,6 @@
       "date": "01 Oct 2024"
     },
     {
-      "id": "138140",
-      "category": "Leisure and Healthy Lifestyle",
-      "name": "Small Back pack+sicks+waterbottle",
-      "description": "Elderly returning to workforce requires support for the above items for work.\nKindly email me at travislee@kkcs.org.sg",
-      "specifications": null,
-      "contact": {
-        "org": "Whampoa Family Service Centre",
-        "name": "Travis Lee",
-        "email": "travislee@kkcs.org.sg",
-        "phone": [
-          "63260300"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 Sep 2024"
-    },
-    {
       "id": "138126",
       "category": "Leisure and Healthy Lifestyle",
       "name": "Smart phone",
@@ -6825,6 +6808,17 @@
       "dimensions": "30*30*40",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "138741",
+      "name": "Study desk",
+      "description": "Imported European glass top computer desk.\nIt is in good condition.",
+      "location": "Braddell , Macpherson, Potong Pasir",
+      "validTill": "26 Oct 2024",
+      "ageInYears": 4,
+      "dimensions": "L:108cm, W:68cm, H74cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "138739",
