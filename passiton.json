@@ -5828,24 +5828,6 @@
       "date": "25 Sep 2024"
     },
     {
-      "id": "138781",
-      "category": "Kitchen Utility Items",
-      "name": "Pot and Pan",
-      "description": "Client is a 60-year-old who has just moved into a new flat. Due to his medical conditions, he is unable to work and thus experiences financial constraints. Client would like to obtain a pot and pan so that he can do some simple cooking for himself at the new place.",
-      "specifications": null,
-      "contact": {
-        "org": "FRCS Family Service Centre",
-        "name": "How Qian Yu",
-        "email": "qianyu@frcsfsc.sg",
-        "phone": [
-          "67799488ext60",
-          "67799488"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Oct 2024"
-    },
-    {
       "id": "138636",
       "category": "Kitchen Utility Items",
       "name": "Portable Gas Stove",
@@ -6231,6 +6213,17 @@
       "dimensions": "30*30*40",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "138864",
+      "name": "Foam single mattress",
+      "description": "Single foam mattress\nPls self collect",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "20 Nov 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "138813",
@@ -6794,6 +6787,17 @@
       "category": "Medical Aids"
     },
     {
+      "id": "138865",
+      "name": "Commode with Wheels",
+      "description": "Commode still in good conditions. With wheels.",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "30 Oct 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
       "id": "138568",
       "name": "Quad Stick",
       "description": "in good condition",
@@ -6801,17 +6805,6 @@
       "validTill": "12 Nov 2024",
       "ageInYears": 2,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
-      "id": "138522",
-      "name": "Foldable wheelchair",
-      "description": "In good condition with anti-tipppers recently added. Tyres also changed. Added waist buckle, foot straps and body strap.",
-      "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-      "validTill": "09 Nov 2024",
-      "ageInYears": 3,
-      "dimensions": "120 x 50 x 50 estimated",
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
     },
