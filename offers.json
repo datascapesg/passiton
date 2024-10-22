@@ -143,28 +143,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "138900",
-    "name": "Coffee Table",
-    "description": "Coffee table",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "01 Nov 2024",
-    "ageInYears": 4,
-    "dimensions": "120cmx60cmx51cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "138899",
-    "name": "Cabinet with chest of drawers",
-    "description": "Cabinet with chest of drawers suitable for living room or bedroom.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "20 Nov 2024",
-    "ageInYears": 3,
-    "dimensions": "108mm x 88mm x 47mm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "138896",
     "name": "Motorised Reclining Bed",
     "description": "good condition",
@@ -484,17 +462,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "138875",
-    "name": "Rocker",
-    "description": "Lucky Baby Rocker",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "31 Oct 2024",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "138817",
     "name": "Toddler Trike",
     "description": "Excellent condition",
@@ -790,6 +757,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "138905",
+    "name": "Bedsheets",
+    "description": "5 Single fitted bedsheets\n2 Queen fitted bedsheets\n\nLess than 2 years of age. Still in good condition,",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "27 Oct 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "138874",
