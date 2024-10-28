@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "139076",
+      "category": "Home Furnishing",
+      "name": "Wardrobe",
+      "description": "Client does not have a proper cupboard to keep her clothes and wishes to have one donated to her.",
+      "specifications": null,
+      "contact": {
+        "org": "SACS Anglican Cluster Operator - Peace Connect",
+        "name": "Daniel Lee",
+        "email": "daniel_lee@sacs.org.sg",
+        "phone": [
+          "62912473"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Oct 2024"
+    },
+    {
       "id": "138999",
       "category": "Home Furnishing",
       "name": "2 door fridge",
@@ -206,24 +223,6 @@
         "phone": [
           "81883314",
           "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Oct 2024"
-    },
-    {
-      "id": "138732",
-      "category": "Home Furnishing",
-      "name": "Single sized Bed",
-      "description": "Senior (Mr Teh), aged 71 living with his wife in a 2-room flat. They are both PRs with little to no familial support. The wife remains as the sole breadwinner as a cleaner. a few months back, Mr Teh has been diagnosed with parkinsons disease which restricts his movements. currently, the bed that Mr Teh has is very low. He has to exert an extensive amount of energy to get up from his bed. with a taller single sized bedframe, it would help him to get up with less difficulty.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Cluster Support @ Geylang",
-        "name": "Sabrina Wong",
-        "email": "sabrina.wong@thkmc.org.sg",
-        "phone": [
-          "63371201",
-          "68461228"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2979,6 +2978,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "27 Sep 2024"
+    },
+    {
+      "id": "139078",
+      "category": "Others",
+      "name": "Android Phone",
+      "description": "Android phone that is able to download singpass. Minimum version Android 8.0, must not be rooted.\n\nClien has a history of homelessness and is going through financial difficulties and family issues. He is currently retired and was previously working a low-income job. Client faces challenges in communicating with support systems currently as he does not have a phone. Thus, client is seekig donation of a second-hand android phone so that he can be contactable, and also to facilitate his HDB rental flat application.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
+        "name": "Sabrina Than",
+        "email": "sabrinathan@mws.sg",
+        "phone": [
+          "62828558"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Oct 2024"
     },
     {
       "id": "139070",
@@ -6135,6 +6151,23 @@
       "date": "03 Oct 2024"
     },
     {
+      "id": "139077",
+      "category": "Medical Aids",
+      "name": "Taped Adult Diapers",
+      "description": "The elderly couple has retired and the wife is a full-time caregiver to his husband who is bed-bound due to his health condition. The couple relies on their savings to pay for the daily necessities. They hope to receive support for adult diapers to relieve their financial burdens.",
+      "specifications": "L Size",
+      "contact": {
+        "org": "Care Corner CREST @ Toa Payoh",
+        "name": "Lim Jia Min",
+        "email": "tp.crest@carecorner.org.sg",
+        "phone": [
+          "62586601"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Oct 2024"
+    },
+    {
       "id": "139024",
       "category": "Medical Aids",
       "name": "Tena Diapers Size L",
@@ -6854,6 +6887,17 @@
       "dimensions": "Short curtain 3 ft (W) by 4 ft (L); Long curtain 6.5 ft (W) by 7.5 ft (L)",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "139079",
+      "name": "Ergo baby carrier",
+      "description": "Like new condition\nUsed 2-3 tes only",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "27 Nov 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "138930",
