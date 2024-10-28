@@ -1,22 +1,5 @@
 [
   {
-    "id": "139061",
-    "category": "Home Furnishing",
-    "name": "Queen Size Mattress",
-    "description": "Client is a sole breadwinner supporting 2 children and is of low income. Client's existing mattress is worn out and requires replacement which she has difficulties to afford/purchase",
-    "specifications": null,
-    "contact": {
-      "org": "MWS Family Service Centre - Tampines",
-      "name": "Muhammad Suffian Bin Bahrin",
-      "email": "muhammadsuffian@mws.sg",
-      "phone": [
-        "67872001"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "28 Oct 2024"
-  },
-  {
     "id": "138999",
     "category": "Home Furnishing",
     "name": "2 door fridge",
@@ -116,24 +99,6 @@
       "email": "bernicechai@fycs.org",
       "phone": [
         "68199170"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Oct 2024"
-  },
-  {
-    "id": "138902",
-    "category": "Home Furnishing",
-    "name": "Metal Bed Frame and mattress (Single size)",
-    "description": "Client 72 years old Chinese male. He got no friends and family and recently he suffered from a fall recently and has stopped working. Currently he is sleeping on his chair and he is no longer able to do it due to his injury. He is requesting a single size metal bed frame and mattress.",
-    "specifications": null,
-    "contact": {
-      "org": "THK Cluster Support @ Bedok",
-      "name": "Yeo Si Yu",
-      "email": "siyu.yeo@thkmc.org.sg",
-      "phone": [
-        "87188271",
-        "62418171"
       ]
     },
     "deliveryCostsCoveredByDonor": true,
@@ -1181,6 +1146,40 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "02 Oct 2024"
+  },
+  {
+    "id": "139067",
+    "category": "Infant and Children Items",
+    "name": "3 x Paediasure 1 to 10 (flavour original)",
+    "description": "Client with 2-year-old daughter with development issues is unable to afford milk powder due to unstable employment. Client is unable to seek employment due to her daughter falling sick frequently.",
+    "specifications": null,
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "28 Oct 2024"
+  },
+  {
+    "id": "139066",
+    "category": "Infant and Children Items",
+    "name": "3 x Mamypoko Pants size L",
+    "description": "Client with 2-year-old daughter with development issues is unable to afford diapers due to unstable employment. Client is unable to seek employment due to her daughter falling sick frequently.",
+    "specifications": "Nil",
+    "contact": {
+      "org": "Allkin Family Service Centre @ Sengkang 223D",
+      "name": "Syamirul Azim",
+      "email": "syamirulazim@allkin.org.sg",
+      "phone": [
+        "63128100"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "28 Oct 2024"
   },
   {
     "id": "139065",
@@ -2979,6 +2978,59 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "27 Sep 2024"
+  },
+  {
+    "id": "139070",
+    "category": "Others",
+    "name": "Tena Adult Proskin Pants",
+    "description": "Client is a 63-year-old female who was diagnosed with breast cancer. She lives with her daughter who suffers from cancer as well. She currently faces mobility issues within her home and uses adult diapers on a daily basis, size L. Currently household has no active income.",
+    "specifications": "Size L",
+    "contact": {
+      "org": "AIN Society",
+      "name": "Norhashimah Binti Kamarudin",
+      "email": "shimah@ainsociety.org.sg",
+      "phone": [
+        "68485163",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Oct 2024"
+  },
+  {
+    "id": "139069",
+    "category": "Others",
+    "name": "Wireless Mouse",
+    "description": "Client is handicapped and is currently looking for employment to support himself and his elderly parents. He is trying to pick up IT skills to improve his employability. He has been given a donated laptop but it does not comes with a mouse. It would be helpful for him to have a mouse to navigate.",
+    "specifications": null,
+    "contact": {
+      "org": "MWS Family Service Centre - Tampines",
+      "name": "Muhammad Suffian Bin Bahrin",
+      "email": "muhammadsuffian@mws.sg",
+      "phone": [
+        "67872001"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": false,
+    "date": "28 Oct 2024"
+  },
+  {
+    "id": "139068",
+    "category": "Others",
+    "name": "Tena Adult Proskin Pants",
+    "description": "Client is a 21-year-old male who was diagnosed with cancer. He is currently going through palliative care and is bed-bound. His mother is the primary caregiver and his father is the sole income earner.\n\nAs he is bed-bound, he would need to wear adult diapers on a daily basis, size XL.",
+    "specifications": "Size XL",
+    "contact": {
+      "org": "AIN Society",
+      "name": "Norhashimah Binti Kamarudin",
+      "email": "shimah@ainsociety.org.sg",
+      "phone": [
+        "68485163",
+        "68485166"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "28 Oct 2024"
   },
   {
     "id": "139060",
