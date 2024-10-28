@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "139076",
-      "category": "Home Furnishing",
-      "name": "Wardrobe",
-      "description": "Client does not have a proper cupboard to keep her clothes and wishes to have one donated to her.",
-      "specifications": null,
-      "contact": {
-        "org": "SACS Anglican Cluster Operator - Peace Connect",
-        "name": "Daniel Lee",
-        "email": "daniel_lee@sacs.org.sg",
-        "phone": [
-          "62912473"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Oct 2024"
-    },
-    {
       "id": "138999",
       "category": "Home Furnishing",
       "name": "2 door fridge",
@@ -34,24 +17,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "25 Oct 2024"
-    },
-    {
-      "id": "138980",
-      "category": "Home Furnishing",
-      "name": "Queen Size Mattress and Bed Fram",
-      "description": "Single mother living in rental flat with her 4-year-old son. The current bed mattress and bedframe are in poor condition. Family is supported by financial assistance and mother would need help to replace her queen size bed frame (non-wooden) and mattress.",
-      "specifications": null,
-      "contact": {
-        "org": "Kampong Kapor Community Services",
-        "name": "Wong Li Yi",
-        "email": "wongliyi@kkcs.org.sg",
-        "phone": [
-          "62997662ext544",
-          "62997662"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Oct 2024"
     },
     {
       "id": "138964",
@@ -83,23 +48,6 @@
         "phone": [
           "68010735",
           "62522566"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Oct 2024"
-    },
-    {
-      "id": "138948",
-      "category": "Home Furnishing",
-      "name": "Cabinet",
-      "description": "Client has 1 school-going child. Family are currently not able to work as their ebike spoilt recently. They are not able to afford to purchase a cabinet to put the child's clothes. The donation will help the family to be more able to meet their basic needs",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Punggol 616",
-        "name": "Nur Fatin Athirah Binte Mohamad Husaini",
-        "email": "fatinathirah@allkin.org.sg",
-        "phone": [
-          "64355323"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3015,23 +2963,6 @@
       "date": "28 Oct 2024"
     },
     {
-      "id": "139069",
-      "category": "Others",
-      "name": "Wireless Mouse",
-      "description": "Client is handicapped and is currently looking for employment to support himself and his elderly parents. He is trying to pick up IT skills to improve his employability. He has been given a donated laptop but it does not comes with a mouse. It would be helpful for him to have a mouse to navigate.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Family Service Centre - Tampines",
-        "name": "Muhammad Suffian Bin Bahrin",
-        "email": "muhammadsuffian@mws.sg",
-        "phone": [
-          "67872001"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "28 Oct 2024"
-    },
-    {
       "id": "139068",
       "category": "Others",
       "name": "Tena Adult Proskin Pants",
@@ -4695,6 +4626,23 @@
       "date": "30 Sep 2024"
     },
     {
+      "id": "139083",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Pregnant mother of 5 urgently needs a washing machine. Husband is unable to work due to mental health issues and mother can only work part time due to the symptoms of her pregnancy.",
+      "specifications": "9kg front load",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Punggol 616",
+        "name": "Noor Syazana",
+        "email": "noorsyazana@allkin.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Oct 2024"
+    },
+    {
       "id": "139072",
       "category": "Electrical Home Appliances",
       "name": "simple basic microwave oven",
@@ -4710,23 +4658,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "28 Oct 2024"
-    },
-    {
-      "id": "139064",
-      "category": "Electrical Home Appliances",
-      "name": "Standing Fan",
-      "description": "Client (F/44) has mobility issues, health issues and facing financial constraints. She will require a standing fan as her current standing fan is faulty and cannot be used.",
-      "specifications": "NIL",
-      "contact": {
-        "org": "Allkin Family Service Centre @ Sengkang 223D",
-        "name": "Syamirul Azim",
-        "email": "syamirulazim@allkin.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "28 Oct 2024"
     },
     {
@@ -6548,13 +6479,35 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "139053",
-      "name": "ErgoTune electric ergonomic desk",
-      "description": "ErgoTune electric ergonomic desk\nExcludes all contents on the desk\nGood working condition\nNeeds to be dismantled, moved then re-assembled",
+      "id": "139084",
+      "name": "Pillow",
+      "description": "Pillow",
+      "location": "Farrer Park, Little India, Serangoon Road",
+      "validTill": "10 Nov 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "139082",
+      "name": "Wardrobe",
+      "description": "This is a vintage wardrobe, made from teak wood - hard wood.  It's really good with our humidity. will not rot.  \n\nWardrobe: \nW: 100\nD: 46\nH: 185 \nWeight: 60 K",
       "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-      "validTill": "18 Nov 2024",
+      "validTill": "27 Nov 2024",
       "ageInYears": 4,
-      "dimensions": "110W x 70D x 63H (max 128H)",
+      "dimensions": "W: 100, D: 46 H: 185  Weight: 60 K",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "139081",
+      "name": "dressing table with stool",
+      "description": "Dresser: \nW: 112 \nD: 50 \nH: 90 + 80 \nWeight: 50",
+      "location": "Changi, Flora, Loyang",
+      "validTill": "27 Nov 2024",
+      "ageInYears": 4,
+      "dimensions": "Dresser:  W: 112  D: 50  H: 90 + 80  Weight: 50",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -6889,6 +6842,17 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "139080",
+      "name": "Joie baby bouncer",
+      "description": "Baby bouncer & rocker\nBrand Joie\nHave vibration and music function\nStill working well condition",
+      "location": null,
+      "validTill": "27 Nov 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
       "id": "139079",
       "name": "Ergo baby carrier",
       "description": "Like new condition\nUsed 2-3 tes only",
@@ -7148,17 +7112,6 @@
       "location": "Cairnhill, Killiney, Orchard, River Valley",
       "validTill": "20 Nov 2024",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
-      "id": "138865",
-      "name": "Commode with Wheels",
-      "description": "Commode still in good conditions. With wheels.",
-      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-      "validTill": "30 Oct 2024",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
