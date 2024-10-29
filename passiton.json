@@ -1,6 +1,74 @@
 {
   "requests": [
     {
+      "id": "139133",
+      "category": "Home Furnishing",
+      "name": "Clothing wardrobe",
+      "description": "Family of 5 is staying together in a rental flat. Husband is the sole breadwinner and earns a meagre income. Wife is heavily pregnant and is a caregiver to the 3 young children hence is unable to work. \n\nClient is requesting for a clothes wardrobe please. \nDonor to kindly cover transport arrangement and delivery cost please. Thank you",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+        "name": "Tasya Puspita Maulany",
+        "email": "tasya@allkin.org.sg",
+        "phone": [
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Oct 2024"
+    },
+    {
+      "id": "139131",
+      "category": "Home Furnishing",
+      "name": "King size bed & pillows",
+      "description": "Family of 5 is staying together in a rental flat. Husband is the sole breadwinner and earns a meagre income. Wife is heavily pregnant and is a caregiver to the 3 young children hence is unable to work. \n\nClient is requesting for king size bed as she has to share bed with husband and kids together with pillows. \n\nDonor to kindly cover transport arrangement and delivery cost please. Thank you",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+        "name": "Tasya Puspita Maulany",
+        "email": "tasya@allkin.org.sg",
+        "phone": [
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Oct 2024"
+    },
+    {
+      "id": "139130",
+      "category": "Home Furnishing",
+      "name": "Kitchen or pantry cabinet",
+      "description": "Client is a divorcee residing with her two children in a 2-room rental flat. Client has several health needs and certified temporarily unfit for work till May 2025. The family is dependent on community agencies in sustaining their day-to-day needs. The family hopes to receive support for a pre-loved kitchen or pantry cabinet in storing their items as the family does not have the finances to afford the household furniture.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
+        "name": "Sabrina Than",
+        "email": "sabrinathan@mws.sg",
+        "phone": [
+          "62828558"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Oct 2024"
+    },
+    {
+      "id": "139129",
+      "category": "Home Furnishing",
+      "name": "Two-door wardrobe",
+      "description": "Two-door wardrobe \n\nClient is a divorcee residing with her two children in a 2-room rental flat. Client has several health needs and certified temporarily unfit for work till May 2025. The family is dependent on community agencies in sustaining their day-to-day needs. The family hopes to receive support for a pre-loved two-door wardrobe as their current one is faulty and the family does not have the finances to afford replacing the household furniture.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
+        "name": "Sabrina Than",
+        "email": "sabrinathan@mws.sg",
+        "phone": [
+          "62828558"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Oct 2024"
+    },
+    {
       "id": "139119",
       "category": "Home Furnishing",
       "name": "Pillow sheets",
@@ -1062,6 +1130,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "02 Oct 2024"
+    },
+    {
+      "id": "139136",
+      "category": "Infant and Children Items",
+      "name": "Diapers",
+      "description": "Household of 5 members consisting of Mother, Father, and 3 children aged 5 years old, 3 years old and 8 months old respectively. Father used to do grab delivery until he was involved in an accident that resulted in a chronic visual disability in his left eye. He is currently in the midst of seeking treatment and is not able to work. Mother is currently unemployed and is at home providing care for both her children and her husband.\n\nFamily's application for Financial Assistance from Social Support Office has been approved and family is waiting for the cash assistance to arrive. In the meantime, Mother is in need of diapers for her 3 year old and her youngest child. \n\n3 year old daughter is wearing size XL Diapers, Pants\n\n8 month old Son is wearing Newborn Size Diapers, Tape. \n\nAny and all assistance would be most welcome. Mother is open to any brand.",
+      "specifications": "Size XL Pants",
+      "contact": {
+        "org": "NTUC First Campus Co-operative Ltd",
+        "name": "Sean Poh",
+        "email": "sean.poh@ntucfirstcampus.com",
+        "phone": [
+          "90706992",
+          "97229008"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "29 Oct 2024"
+    },
+    {
+      "id": "139135",
+      "category": "Infant and Children Items",
+      "name": "Milk and diapers",
+      "description": "Family with 3 young children staying in rental flat. Father has recently lost his job and is looking for new employment. Milk and diapers will help family to tide through while family stabilizes their financial situation. \n\nMilk: Dugro stage 3\nDiapers: Drypers pants, XXL",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Janice Chong",
+        "email": "janice.chong@reach.org.sg",
+        "phone": [
+          "68010711",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Oct 2024"
     },
     {
       "id": "139110",
@@ -2913,23 +3017,6 @@
       "date": "30 Sep 2024"
     },
     {
-      "id": "139121",
-      "category": "Others",
-      "name": "Mobile Phone",
-      "description": "Client will be released from prison soon and requires a phone to contact caseworker and other family members. Does not want to burden family members in purchasing for him a phone as he feels he has troubled them enough.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Family Service Centre - Tampines",
-        "name": "Muhammad Suffian Bin Bahrin",
-        "email": "muhammadsuffian@mws.sg",
-        "phone": [
-          "67872001"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "29 Oct 2024"
-    },
-    {
       "id": "139102",
       "category": "Others",
       "name": "6x Lactogen 1",
@@ -3149,24 +3236,6 @@
         "email": "mingjie@saca.org.sg",
         "phone": [
           "62942350"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Oct 2024"
-    },
-    {
-      "id": "138937",
-      "category": "Others",
-      "name": "Baking Tools",
-      "description": "VOX @ Children's Society requires baking tools such as spatula, baking tray and Whip whisk with no preference of brands. They required these for their cooking programme for our youths. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society Corporate Office",
-        "name": "Kartini",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "69787279",
-          "62732010"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -4487,24 +4556,6 @@
       "date": "30 Sep 2024"
     },
     {
-      "id": "136646",
-      "category": "Others",
-      "name": "Abbott Glucerna Triple Care Milk Formula - Wheat (800g)",
-      "description": "Client's elderly mother's main source of sustenance is milk powder due to her loss of appetite. Her daily intake requires 1 tin per week. \n\nAs client is the only sole bread winner for her family: her mother and her daughter, it has been a high expense for her and she would benefit from support.\n\nFor more info, please WA me @91688182. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Yong-En Care Centre",
-        "name": "Denise Lee",
-        "email": "denise-lee@yong-en.org.sg",
-        "phone": [
-          "91688182",
-          "62251002"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 Sep 2024"
-    },
-    {
       "id": "139074",
       "category": "Leisure and Healthy Lifestyle",
       "name": "Bicycle",
@@ -4607,6 +4658,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "30 Sep 2024"
+    },
+    {
+      "id": "139132",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "Family of 5 is staying together in a rental flat. Husband is the sole breadwinner and earns a meagre income. Wife is heavily pregnant and is a caregiver to the 3 young children hence is unable to work. \n\nClient is requesting for a washing machine. \n\nDonor to kindly cover transport arrangement and delivery cost please. Thank you :))",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+        "name": "Tasya Puspita Maulany",
+        "email": "tasya@allkin.org.sg",
+        "phone": [
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Oct 2024"
     },
     {
       "id": "139117",
@@ -5822,24 +5890,6 @@
       "date": "02 Oct 2024"
     },
     {
-      "id": "138200",
-      "category": "Electrical Home Appliances",
-      "name": "TV",
-      "description": "An elderly man living in a rental flat is looking for a TV as his current TV is old and no longer working.",
-      "specifications": null,
-      "contact": {
-        "org": "Yong-En Care Centre",
-        "name": "Felix Leo",
-        "email": "felix-leo@yong-en.org.sg",
-        "phone": [
-          "63090571",
-          "62251002"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Oct 2024"
-    },
-    {
       "id": "138168",
       "category": "Electrical Home Appliances",
       "name": "Television 32-50inch",
@@ -6442,17 +6492,6 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "139098",
-      "name": "Fridge",
-      "description": "Used sparingly",
-      "location": "Balestier, Toa Payoh",
-      "validTill": "01 Nov 2024",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "139044",
       "name": "Travel cooker",
       "description": "20yrs old travel cooker. Still working. Collection at Lakeside mrt.",
@@ -6475,12 +6514,12 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "138823",
-      "name": "Induction cooker",
-      "description": "Iona induction cooker. Tested still working. Under utilised hence giving away. Best if can collect together with the Tefal pot together. Self-collection at home address.",
-      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-      "validTill": "19 Nov 2024",
-      "ageInYears": 4,
+      "id": "139128",
+      "name": "Refrigerated",
+      "description": "Fridge to bless. Still in good condition after clean up except for the exterior.\n\nPlease arrange self collection",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "31 Oct 2024",
+      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
@@ -6547,17 +6586,6 @@
       "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
       "validTill": "10 Nov 2024",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "139109",
-      "name": "Sofa",
-      "description": "In good condition, need to remove the sofa by Saturday",
-      "location": null,
-      "validTill": "02 Nov 2024",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
@@ -6937,11 +6965,11 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "139080",
-      "name": "Joie baby bouncer",
-      "description": "Baby bouncer & rocker\nBrand Joie\nHave vibration and music function\nStill working well condition",
-      "location": null,
-      "validTill": "27 Nov 2024",
+      "id": "139134",
+      "name": "Kids Floor Bed",
+      "description": "Kids Little Floor Bed with mattress \nBaby cot x2",
+      "location": "Cairnhill, Killiney, Orchard, River Valley",
+      "validTill": "10 Nov 2024",
       "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
@@ -7056,6 +7084,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
+    },
+    {
+      "id": "139137",
+      "name": "BAKING TRAYS",
+      "description": "New and rarely used baking trays to clear",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "28 Nov 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Kitchen Utility Items"
     },
     {
       "id": "139045",
@@ -7179,6 +7218,17 @@
       "category": "Medical Aids"
     },
     {
+      "id": "139127",
+      "name": "Push Chair",
+      "description": "This is a push chair",
+      "location": "Changi, Flora, Loyang",
+      "validTill": "28 Nov 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
       "id": "139042",
       "name": "Hospital bed with mattress",
       "description": "Hospital bed with air mattress in good condition.",
@@ -7232,17 +7282,6 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
-    },
-    {
-      "id": "139016",
-      "name": "Foot massage",
-      "description": "Need to collect the item from the donor",
-      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-      "validTill": "24 Nov 2024",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Others"
     },
     {
       "id": "138973",
