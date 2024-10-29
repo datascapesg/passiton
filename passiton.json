@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "139140",
+      "category": "Home Furnishing",
+      "name": "New Mattress (single)",
+      "description": "Hi there, \n\nI am making this request on behalf of a client who is currently sleeping on a thin, foldable mattress. He hopes to obtain a thicker mattress (at least 6 inches) to improve his sleep quality. He experiences uncontrollable shaking and body pain due to his medical condition.",
+      "specifications": "no preference",
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Bedok",
+        "name": "Su Hui Ting",
+        "email": "huiting.su@montfortcare.org.sg",
+        "phone": [
+          "63123988"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Oct 2024"
+    },
+    {
+      "id": "139139",
+      "category": "Home Furnishing",
+      "name": "Queen size mattress with bed frame",
+      "description": "Family is living in a 2-room rental flat and has 4 young children. They need a new queen size mattress and bedframe for their 3 young children (4 years old, 3 years old and 2 years old) to sleep in as their old mattress is worn out. Father is working as a mover and mother is a full time housewife.",
+      "specifications": null,
+      "contact": {
+        "org": "New Life Community Services",
+        "name": "Zoe Sim",
+        "email": "zoesimsl@newlife.org.sg",
+        "phone": [
+          "68927116"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Oct 2024"
+    },
+    {
       "id": "139133",
       "category": "Home Furnishing",
       "name": "Clothing wardrobe",
@@ -3015,6 +3049,23 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "30 Sep 2024"
+    },
+    {
+      "id": "139141",
+      "category": "Others",
+      "name": "Halal Food Ration",
+      "description": "Client is a single father of four school-going children. While he is working full-time to support his family unit, the financial situation of the family remains tight. He has been taking on loans in order to purchase other necessities in the household, such as fans. As such, the family would like to request for help in the form of food rations to help alleviate their tight financial situation.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
+        "name": "Sabrina Than",
+        "email": "sabrinathan@mws.sg",
+        "phone": [
+          "62828558"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 Oct 2024"
     },
     {
       "id": "139102",
@@ -6734,17 +6785,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "139032",
-      "name": "Plastic Drawers",
-      "description": "Plastic drawers",
-      "location": "Singapore ",
-      "validTill": "25 Nov 2024",
-      "ageInYears": 4,
-      "dimensions": "60x41x73",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "139029",
       "name": "Wooden sofa + armchair + table set",
       "description": "Giving away wooden sofa set, at least 10 years old but still very solid. Comes with one sofa, 2 armchairs, and one coffee table (but coffee table is slightly creaky so understand if client doesn't want).",
@@ -7216,6 +7256,17 @@
       "dimensions": "60cm x 24cm x 20cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "139138",
+      "name": "Hospital Bed",
+      "description": "Homed electric hospital bed that can be adjusted to different heights",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "15 Nov 2024",
+      "ageInYears": 4,
+      "dimensions": "215.9cm x 102cm x 72cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "139127",
