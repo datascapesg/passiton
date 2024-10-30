@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "139168",
+      "category": "Home Furnishing",
+      "name": "Double-decker bed (queen mattress lower deck)",
+      "description": "Family of 10 currently sleeps on the floor of the bedroom as they are unable to afford a replacement mattress and bed. Family relies on the little income of the sole breadwinner.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Victoria Chong",
+        "email": "victoriachong@fycs.org",
+        "phone": [
+          "69783482",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Oct 2024"
+    },
+    {
       "id": "139164",
       "category": "Home Furnishing",
       "name": "Super single size bed frame + mattress (1set)",
@@ -5117,6 +5135,23 @@
       "date": "30 Sep 2024"
     },
     {
+      "id": "139167",
+      "category": "Electrical Home Appliances",
+      "name": "A Multi-function Rice Cooker and a Hot water flask",
+      "description": "A financially stressed family of 6 are struggling to make ends meet needs a kind donor to provide them with a Cooker and a hot water flask. \nMdm Ho is the primary caregiver of Jayden, a premature baby born with multiple medical conditions and an elderly demented mother and stroked father while her husband works long hours to put food on the table. Now that their Rick cooker and hot water flask is out of order, Mdm Ho using them requires a longer time to prepare the meals.\nYour kind donation of a cooker and flask will make a big difference to this family with dependent minors and frail elders.",
+      "specifications": "1.5-1.8L",
+      "contact": {
+        "org": "Hougang Sheng Hong Family Service Centre",
+        "name": "Chen Qian Hui",
+        "email": "qianhui@shenghong.org.sg",
+        "phone": [
+          "62895022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Oct 2024"
+    },
+    {
       "id": "139165",
       "category": "Electrical Home Appliances",
       "name": "Fridge (big for7 pax, at least 340L)",
@@ -5172,23 +5207,6 @@
       "id": "139158",
       "category": "Electrical Home Appliances",
       "name": "Rice cooker (New)",
-      "description": "PPIS Family Service Centre (West) has been organising the \"Back to School\" event since 2016 for our low-income families. This year, it will be held on the 7th December 2024. The purpose of the event is to encourage family bonding and to celebrate the success of their children in completing the school academic year to move on to the next year.  \n \nWe kindly seek your support in donating practical items to assist low-income families with their daily needs.",
-      "specifications": "1",
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Regine Yeo",
-        "email": "regine.yeo@ppis.sg",
-        "phone": [
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 Oct 2024"
-    },
-    {
-      "id": "139157",
-      "category": "Electrical Home Appliances",
-      "name": "Electric kettle (New)",
       "description": "PPIS Family Service Centre (West) has been organising the \"Back to School\" event since 2016 for our low-income families. This year, it will be held on the 7th December 2024. The purpose of the event is to encourage family bonding and to celebrate the success of their children in completing the school academic year to move on to the next year.  \n \nWe kindly seek your support in donating practical items to assist low-income families with their daily needs.",
       "specifications": "1",
       "contact": {
@@ -6660,24 +6678,6 @@
       "date": "02 Oct 2024"
     },
     {
-      "id": "139149",
-      "category": "Mobility Aids",
-      "name": "Wheelchair with flippable arm and leg rests",
-      "description": "Elderly dialysis patient requires wheelchair for use at home and for transport to and from dialysis. His current wheelchair wheels and seat are peeling. His caregiver is also elderly hence requires arm and leg rests to be able to flip away so she can transfer him in and out of the wheelchair.",
-      "specifications": "58cm wide",
-      "contact": {
-        "org": "National Kidney Foundation (NKF)",
-        "name": "Johanna Lim",
-        "email": "johanna.lim@nkfs.org",
-        "phone": [
-          "62990200",
-          "65062244"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 Oct 2024"
-    },
-    {
       "id": "138965",
       "category": "Mobility Aids",
       "name": "Lightweight Adjustable Height Walking Stick",
@@ -6895,6 +6895,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "139166",
+      "name": "Vacuum cleaner charger",
+      "description": "35V, 1A.\n\nDelivery on weekday evening and weekend.",
+      "location": null,
+      "validTill": "29 Nov 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "139044",
       "name": "Travel cooker",
       "description": "20yrs old travel cooker. Still working. Collection at Lakeside mrt.",
@@ -7067,17 +7078,6 @@
       "validTill": "18 Nov 2024",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "139051",
-      "name": "Teakwood TV console",
-      "description": "Teakwood TV console & 4 drawers.  Console only, excludes TV, speakers and other items other than the console",
-      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-      "validTill": "18 Nov 2024",
-      "ageInYears": 4,
-      "dimensions": "200W x 45D x 45H",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -7258,17 +7258,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "139010",
-      "name": "cabinet",
-      "description": "5 Furnitures to donate. 2x bed frame (Queen), 1xshelf, 1x wardrobe, 1xcupboard",
-      "location": "Boon Lay, Jurong, Tuas",
-      "validTill": "04 Nov 2024",
-      "ageInYears": 3,
-      "dimensions": "170x50x80cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "138622",
       "name": "Blanket",
       "description": "blankets",
@@ -7341,17 +7330,6 @@
       "location": "Admiralty Drive, Sembawang, Yishun",
       "validTill": "29 Nov 2024",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "139134",
-      "name": "Kids Floor Bed",
-      "description": "Kids Little Floor Bed with mattress \nBaby cot x2",
-      "location": "Cairnhill, Killiney, Orchard, River Valley",
-      "validTill": "10 Nov 2024",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
