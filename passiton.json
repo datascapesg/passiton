@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "139193",
+      "category": "Home Furnishing",
+      "name": "Shower Head (clean)",
+      "description": "Single-parent with a young child is moving into a rental flat, it is completely unfurnished. They require proper shower head for daily showering to maintain basic hygiene.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Victoria Chong",
+        "email": "victoriachong@fycs.org",
+        "phone": [
+          "69783482",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Oct 2024"
+    },
+    {
       "id": "139183",
       "category": "Home Furnishing",
       "name": "Dining Table with Chairs (4-seater)",
@@ -1335,6 +1353,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "02 Oct 2024"
+    },
+    {
+      "id": "139191",
+      "category": "Infant and Children Items",
+      "name": "Play mat for baby",
+      "description": "Family of 5, with youngest child age 9 months old (premature) and would benefit from a playmat for tummy time and motor development. Sole breadwinner Father is temporarily not working due to injury.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Geraldine Ngu",
+        "email": "geraldinengu@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Oct 2024"
     },
     {
       "id": "139190",
@@ -3324,6 +3359,24 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "30 Sep 2024"
+    },
+    {
+      "id": "139197",
+      "category": "Medical Aids",
+      "name": "Blood Pressure Monitor",
+      "description": "Client is a 76 year old senior who lives alone. He requires a blood pressure monitor to monitor his hypertension condition.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife!",
+        "name": "Charmaine Seah",
+        "email": "charmaine.seah@montfortcare.org.sg",
+        "phone": [
+          "96450862",
+          "64450570"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Oct 2024"
     },
     {
       "id": "129518",
@@ -5325,6 +5378,60 @@
       "date": "30 Sep 2024"
     },
     {
+      "id": "139195",
+      "category": "Electrical Home Appliances",
+      "name": "Rice Cooker (1.8L)",
+      "description": "Family of 5 with 3 young children rely on the low income of father as sole breadwinner for daily needs. They cook daily and their rice cooker is faulty.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Victoria Chong",
+        "email": "victoriachong@fycs.org",
+        "phone": [
+          "69783482",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Oct 2024"
+    },
+    {
+      "id": "139194",
+      "category": "Electrical Home Appliances",
+      "name": "Rice Cooker (1.8L)",
+      "description": "Low income family relying on mum as sole breadwinner, requires a new rice cooker as their current one is faulty.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Victoria Chong",
+        "email": "victoriachong@fycs.org",
+        "phone": [
+          "69783482",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Oct 2024"
+    },
+    {
+      "id": "139192",
+      "category": "Electrical Home Appliances",
+      "name": "Water Heater",
+      "description": "Single-parent with a young child is moving into a rental flat, it is completely unfurnished. They require warm water for daily showering.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Victoria Chong",
+        "email": "victoriachong@fycs.org",
+        "phone": [
+          "69783482",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Oct 2024"
+    },
+    {
       "id": "139184",
       "category": "Electrical Home Appliances",
       "name": "Small Table Fan",
@@ -7247,6 +7354,17 @@
       "validTill": "01 Nov 2024",
       "ageInYears": 2,
       "dimensions": "140cm*60cm*74cm (L*B*H)",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "139196",
+      "name": "Ergoworks study desk and chair",
+      "description": "Pre-loved study desk and chair. (Refer to attached pics). \nThey were bought 5 years ago from Ergoworks, the dimensions are 96cm width and 74cm depth. The desk height is adjustable from 54cm to 77cm.",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "27 Nov 2024",
+      "ageInYears": 4,
+      "dimensions": "96x74",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
