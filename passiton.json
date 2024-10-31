@@ -1319,23 +1319,6 @@
       "date": "02 Oct 2024"
     },
     {
-      "id": "139191",
-      "category": "Infant and Children Items",
-      "name": "Play mat for baby",
-      "description": "Family of 5, with youngest child age 9 months old (premature) and would benefit from a playmat for tummy time and motor development. Sole breadwinner Father is temporarily not working due to injury.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Geraldine Ngu",
-        "email": "geraldinengu@carecorner.org.sg",
-        "phone": [
-          "64761481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 Oct 2024"
-    },
-    {
       "id": "139190",
       "category": "Infant and Children Items",
       "name": "Diapers and Milk Powders For Children",
@@ -5694,23 +5677,6 @@
       "date": "28 Oct 2024"
     },
     {
-      "id": "139063",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "This is a family of 6 including grandparents who are caring for their 4 school-going children. Grandmother is the sole breadwinner and therefore income is limited. They are seeking for a washing machine after theirs have broken down.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Sengkang 223D",
-        "name": "Clarice Lim",
-        "email": "claricelim@allkin.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Oct 2024"
-    },
-    {
       "id": "139062",
       "category": "Electrical Home Appliances",
       "name": "Halal Fridge",
@@ -7120,6 +7086,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "139207",
+      "name": "Fridge",
+      "description": "2-door fridge",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "07 Nov 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "139166",
       "name": "Vacuum cleaner charger",
       "description": "35V, 1A.\n\nDelivery on weekday evening and weekend.",
@@ -7136,17 +7113,6 @@
       "description": "20yrs old travel cooker. Still working. Collection at Lakeside mrt.",
       "location": "Boon Lay, Jurong, Tuas",
       "validTill": "03 Nov 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "139188",
-      "name": "Washing machine",
-      "description": "Working condition washing machine",
-      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-      "validTill": "07 Nov 2024",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
@@ -7184,6 +7150,39 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "139209",
+      "name": "3 seater sofa",
+      "description": "3 seater sofa with some white stains. Centre part of cushion seat has spring protruding but PU leather is intact - refer to last photo.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "06 Nov 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "139208",
+      "name": "Moll Ergonomic Study Desk",
+      "description": "Moll Ergonomic Study Desk /w under drawer, mobile rack for school bag and lights. Angle adjustable table top.\n\nCondition: 7/10",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "14 Nov 2024",
+      "ageInYears": 4,
+      "dimensions": "115cm x 67 x 72",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "139206",
+      "name": "Eunice Hong",
+      "description": "Toddler bed that is adjustable to 165cm in length.\nCome with mattress that has always been wrapped with waterproof mattress protector.",
+      "location": null,
+      "validTill": "30 Nov 2024",
+      "ageInYears": 2,
+      "dimensions": "206 by 96 by 57",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "139203",
