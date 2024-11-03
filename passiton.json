@@ -4545,23 +4545,6 @@
       "date": "01 Nov 2024"
     },
     {
-      "id": "139230",
-      "category": "Electrical Home Appliances",
-      "name": "Induction cooker",
-      "description": "Young mum just moved into her new rental flat with 4mo daughter. She is seeking donations to furnish her new home. To deliver to her flat in Choa Chu Kang.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Fitrah Nabilah",
-        "email": "fitrahnabilah@carecorner.org.sg",
-        "phone": [
-          "64761481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Nov 2024"
-    },
-    {
       "id": "139229",
       "category": "Electrical Home Appliances",
       "name": "Standing fan",
@@ -6088,23 +6071,6 @@
       "date": "30 Oct 2024"
     },
     {
-      "id": "139156",
-      "category": "Kitchen Utility Items",
-      "name": "Kitchen pots / pans",
-      "description": "PPIS Family Service Centre (West) has been organising the",
-      "specifications": "1",
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Regine Yeo",
-        "email": "regine.yeo@ppis.sg",
-        "phone": [
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 Oct 2024"
-    },
-    {
       "id": "139151",
       "category": "Kitchen Utility Items",
       "name": "Blender",
@@ -6233,6 +6199,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
+    },
+    {
+      "id": "139273",
+      "name": "FLOOR LAMP",
+      "description": "Floor standing lamp. Bought in May 2023. Will either cover delivery fees or deliver directly.\nModel: IKEA PILSKOTT LED floor lamp, smart black.\nAttached: remote control/dimmer.",
+      "location": "Braddell , Macpherson, Potong Pasir",
+      "validTill": "24 Nov 2024",
+      "ageInYears": 2,
+      "dimensions": "30 x 12 x 112cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "139272",
+      "name": "DISHWASHER",
+      "description": "Portable dishwasher useful for families who cook & eat frequently at home. Works well with Somat dishwashing powder commonly available at FairPrice. Bought in June 2023. Will cover delivery fees.\nModel: TOSHIBA PORTABLE DISHWASHER DWS-22ASG\nAttached: IKEA Stenstrop Kitchen Trolley.",
+      "location": "Braddell , Macpherson, Potong Pasir",
+      "validTill": "24 Nov 2024",
+      "ageInYears": 2,
+      "dimensions": "435 X 435 X 420mm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
     },
     {
       "id": "139260",
