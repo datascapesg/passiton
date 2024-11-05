@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "139338",
+      "category": "Home Furnishing",
+      "name": "Queen/King Size Mattress",
+      "description": "Client is a single parent with 3 children, two of whom are school-going. Family is seeking a donation of a Queen/King-size mattress to replace their worn-out ones.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Farahlina Tan",
+        "email": "farahlina_tan@awwa.org.sg",
+        "phone": [
+          "65119458",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Nov 2024"
+    },
+    {
       "id": "139322",
       "category": "Home Furnishing",
       "name": "single sized bed with pillow",
@@ -820,6 +838,78 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "07 Oct 2024"
+    },
+    {
+      "id": "139340",
+      "category": "Electrical Home Appliances",
+      "name": "TV",
+      "description": "Client is a single parent of a school-going child, and the sole breadwinner of her family. Family has just secured a flat of their own and is seeking a donation of a TV for the home.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Farahlina Tan",
+        "email": "farahlina_tan@awwa.org.sg",
+        "phone": [
+          "65119458",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Nov 2024"
+    },
+    {
+      "id": "139337",
+      "category": "Electrical Home Appliances",
+      "name": "Halal Fridge Needed!",
+      "description": "Client is a single parent with 3 children, two of whom are school-going. Family is seeking a donation of a refrigerator as their current one is faulty.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Farahlina Tan",
+        "email": "farahlina_tan@awwa.org.sg",
+        "phone": [
+          "65119458",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Nov 2024"
+    },
+    {
+      "id": "139335",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Client had just shifted into a new 2 room flat and faced cockroach infestation. FSC has assisted in the pest control services and client requires a new washing machine and fridge as the previous ones were spoilt by the cockroach infestation. Client is a single mother with 2 children, 1 with special needs. Father is currently incarcerated and client struggles to find job due to poor health (possible brain tumor).",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Cheng San 445",
+        "name": "Choong Ying",
+        "email": "choongying@allkin.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Nov 2024"
+    },
+    {
+      "id": "139334",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client had just shifted into a new 2 room flat and faced cockroach infestation. FSC has assisted in the pest control services and client requires a new washing machine and fridge as the previous ones were spoilt by the cockroach infestation. Client is a single mother with 2 children, 1 with special needs. Father is currently incarcerated and client struggles to find job due to poor health (possible brain tumor).",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Cheng San 445",
+        "name": "Choong Ying",
+        "email": "choongying@allkin.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Nov 2024"
     },
     {
       "id": "139331",
@@ -2409,6 +2499,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "08 Oct 2024"
+    },
+    {
+      "id": "139336",
+      "category": "Infant and Children Items",
+      "name": "Diapers (M & XXL)",
+      "description": "Family of 5 children is currently staying in a rental flat. Father is the currently the sole breadwinner and Mother is the primary caregiver for the children. Family is looking for diapers for their 1 and 3 years old children.",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Priscilla Loo",
+        "email": "priscilla.loo@reach.org.sg",
+        "phone": [
+          "64709776",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Nov 2024"
     },
     {
       "id": "139323",
@@ -4163,6 +4271,24 @@
       "date": "09 Oct 2024"
     },
     {
+      "id": "139333",
+      "category": "Others",
+      "name": "Groceries Needs",
+      "description": "Mother had recently given birth to an infant who is turning 2 months. Father is the sole breadwinner to a family of 7 (including 5 children), who faces financial challenges as a low-income earner. The family does not have the financial means to purchase household necessities, including milk powder and diapers for the newborn. The family is seeking assistance in groceries needs and necessities for their family.",
+      "specifications": "Groceries Needs",
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "mwsfscy@mws.sg",
+        "phone": [
+          "83688612",
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Nov 2024"
+    },
+    {
       "id": "137828",
       "category": "Others",
       "name": "Adult diapers S-M size",
@@ -5634,24 +5760,6 @@
       "date": "05 Oct 2024"
     },
     {
-      "id": "139306",
-      "category": "Mobility Aids",
-      "name": "Large Wheelchair",
-      "description": "Father of a family of 5 undergoes kidney dialysis regularly near their house. Father would be weak and lethargic after dialysis session. Sons would normally walk their father back home, but they are relatively smaller sized compared to their father. Thus, having a large wheelchair would help the family to bring their father back home safely.",
-      "specifications": null,
-      "contact": {
-        "org": "Catholic Welfare Services",
-        "name": "Ian Michael Binny",
-        "email": "mbinny@catholicwelfare.org.sg",
-        "phone": [
-          "68017489",
-          "63394711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Nov 2024"
-    },
-    {
       "id": "139240",
       "category": "Mobility Aids",
       "name": "Wheelchair",
@@ -6360,6 +6468,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "139339",
+      "name": "Skip Hop Zoo Bee Trolley Bag",
+      "description": "New unused but kept for years so the bag has black spots (see first and second picture) that may be removed with light wiping.  The third picture is taken from the internet.  Can be used by 3 years old and above kiddos to pull along to school.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "05 Dec 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "139320",
