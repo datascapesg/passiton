@@ -1,27 +1,27 @@
 {
   "requests": [
     {
+      "id": "139442",
+      "category": "Home Furnishing",
+      "name": "Sofa Bed",
+      "description": "The client is a widowed mother with two children. The family is need of a new sofa bed, as their current one is in deteriorating condition. If you are able to help, please contact Camelia at 8509 6443 or email camelia@sccfsc.org.sg. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Camelia Saputri",
+        "email": "camelia@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Nov 2024"
+    },
+    {
       "id": "139432",
       "category": "Home Furnishing",
       "name": "Two-door wardrobe",
       "description": "Client is a divorcee residing with her two children in a 2-room rental flat. Client has been diagnosed with anxiety disorder and certified temporarily unfit for work till May 2025. Client receives support from IMH for her continued mental health needs. Client's son has been experiencing challenges in securing stable employment, leaving the family dependent on community agencies to sustain their day-to-day needs for a period. Client's daughter is of school-going age. The family hopes to receive support for a pre-loved two-door wardrobe as their current one is faulty and the family does not have the finances to afford replacing the household furniture.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
-        "name": "Sabrina Than",
-        "email": "sabrinathan@mws.sg",
-        "phone": [
-          "62828558"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Nov 2024"
-    },
-    {
-      "id": "139431",
-      "category": "Home Furnishing",
-      "name": "Kitchen or pantry cabinet",
-      "description": "Client is a divorcee residing with her two children in a 2-room rental flat. Client has been diagnosed with anxiety disorder and certified temporarily unfit for work till May 2025. Client receives support from IMH for her continued mental health needs. Client's son has been experiencing challenges in securing stable employment, leaving the family dependent on community agencies to sustain their day-to-day needs for a period. Client's daughter is of school-going age. The family hopes to receive support for a pre-loved kitchen or pantry cabinet in storing their items as the family does not have the finances to afford the household furniture.",
       "specifications": null,
       "contact": {
         "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
@@ -1812,23 +1812,6 @@
       "date": "30 Oct 2024"
     },
     {
-      "id": "139184",
-      "category": "Electrical Home Appliances",
-      "name": "Small Table Fan",
-      "description": "Family has 2 school-going children, one of whom is 3-year-old son with special needs. Father is medically certified unfit for employment due to his physical and mental health needs whereas Mother is a caregiver for both Father and son.\n\nFamily is currently subsisting on financial assistance. \n\nFamily would like to request for a small table fan as their current one is spoilt.",
-      "specifications": null,
-      "contact": {
-        "org": "Kampong Kapor Community Services",
-        "name": "Khairunisa Binte Rusli",
-        "email": "khairunisarusli@kkcs.org.sg",
-        "phone": [
-          "62997662"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 Oct 2024"
-    },
-    {
       "id": "139170",
       "category": "Electrical Home Appliances",
       "name": "Vacuum cleaner",
@@ -3016,6 +2999,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "08 Oct 2024"
+    },
+    {
+      "id": "139441",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder and Diapers",
+      "description": "Client is a single mother. She recently got into an accident and is unable to work. She requires support for her 3 year old daughter's milk powder (Friso stage 4) and Diapers Nomieo or Merries or Huggies nature.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Isabelle Chua",
+        "email": "isabellechua@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Nov 2024"
     },
     {
       "id": "139434",
@@ -4498,6 +4498,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "08 Oct 2024"
+    },
+    {
+      "id": "139439",
+      "category": "Medical Aids",
+      "name": "Tena adult diapers (pants, size L)",
+      "description": "Single mother staying in Woodlands rental flat with multiple health conditions (kidney disease stage 5, diabetes, high BP, high cholesterol) is in need of Tena adult diapers (pants, size L). She is on diaper pants full-time as she is unable to control her bowels. She is on kidney dialysis 3x/week. The family is relying on financial assistance for their daily needs.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Woodlands",
+        "name": "Sarrani Krishnan",
+        "email": "sarrani_krishnan@msf.gov.sg",
+        "phone": [
+          "91782934",
+          "67660097"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Nov 2024"
     },
     {
       "id": "139425",
@@ -6503,17 +6521,6 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "139400",
-      "name": "Panasonic Kettle 1.7L (bought in Sept 2024)",
-      "description": "Bought 2 months ago on Amazon. Don’t need it as too small for my family.",
-      "location": null,
-      "validTill": "06 Dec 2024",
-      "ageInYears": 1,
-      "dimensions": "1.7L",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "139272",
       "name": "DISHWASHER",
       "description": "Portable dishwasher useful for families who cook & eat frequently at home. Works well with Somat dishwashing powder commonly available at FairPrice. Bought in June 2023. Will cover delivery fees.\nModel: TOSHIBA PORTABLE DISHWASHER DWS-22ASG\nAttached: IKEA Stenstrop Kitchen Trolley.",
@@ -6547,13 +6554,13 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "139438",
-      "name": "2 Seater Sofa",
-      "description": "IKEA PÄRUP 2-seat sofa, Vissle grey. \nAbout 2.5 years old.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "25 Nov 2024",
-      "ageInYears": 3,
-      "dimensions": "H86cmxL165cmxD80cm",
+      "id": "139443",
+      "name": "3-seater sofa",
+      "description": "Black aluminium framed sofa. Frame and seating in good condition. Made in Germany. Partly leather, partly material. Leather peeling on back and sides. Comes with 2 red matching pillows. Letting go due to overseas move.",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "14 Nov 2024",
+      "ageInYears": 4,
+      "dimensions": "200x90x60",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -6752,17 +6759,6 @@
       "validTill": "22 Nov 2024",
       "ageInYears": 3,
       "dimensions": "5 feet x 2.5 feet x 3.5 feet",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "139210",
-      "name": "White Shelving Unit",
-      "description": "White IKEA shelving unit with drawer. Slight dent at the bottom of the drawer but otherwise in good condition.",
-      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-      "validTill": "16 Nov 2024",
-      "ageInYears": 4,
-      "dimensions": "75cm x 40cm x 142cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -7139,6 +7135,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
+    },
+    {
+      "id": "139440",
+      "name": "Kitchenware, pot, wok",
+      "description": "Lightly used\n- 1 soup pot (brand : Supor)\n- 1 large wok \n- 1 steam rack\n\nNew\n- 1 wok spatula\n- 1 set of 5 coasters \n- 4 cleaned plastic jars for misc storage use\n- a bag of disposable chopsticks",
+      "location": "Springleaf, Tagore, Upper Thomson",
+      "validTill": "08 Dec 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Kitchen Utility Items"
     },
     {
       "id": "139234",
