@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "139472",
-      "category": "Home Furnishing",
-      "name": "Super Single Mattress",
-      "description": "A family of 5 living in a rental flat, mother is working full-time night shifts to help support the household. Her husband, who is not a Singaporean, requires dialysis three times a week. The family are in need of a single mattress as two of the children are sharing one single mattress, They are requesting one super single-size mattress to provide each family member with a proper place to sleep and rest.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Anna Ong",
-        "email": "anna@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Nov 2024"
-    },
-    {
       "id": "139442",
       "category": "Home Furnishing",
       "name": "Sofa Bed",
@@ -1345,23 +1328,6 @@
         "phone": [
           "62319419",
           "1800-222-0000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Nov 2024"
-    },
-    {
-      "id": "139407",
-      "category": "Electrical Home Appliances",
-      "name": "Fridge",
-      "description": "A elderly staying in rental HDB unit is currently using a spoilt fridge; door cannot close fully, water dripping...\nElderly man is staying alone.",
-      "specifications": "Nil",
-      "contact": {
-        "org": "MWS Wesley Active Ageing Centre - Jalan Berseh",
-        "name": "Hsu Hsia Yang",
-        "email": "hsuhsiayang@mws.sg",
-        "phone": [
-          "62980194"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -6676,6 +6642,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "139476",
+      "name": "RICE COOKER",
+      "description": "Rice cooker with capacity 0.54l (approx. cups). Bought in July 2023. Will cover delivery fees and arrange delivery in November before moving out of Singapore. Model: ZOJIRUSHI NP-RLQ05",
+      "location": "Braddell , Macpherson, Potong Pasir",
+      "validTill": "09 Dec 2024",
+      "ageInYears": 2,
+      "dimensions": "32x23x19.5cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "139272",
       "name": "DISHWASHER",
       "description": "Portable dishwasher useful for families who cook & eat frequently at home. Works well with Somat dishwashing powder commonly available at FairPrice. Bought in June 2023. Will cover delivery fees.\nModel: TOSHIBA PORTABLE DISHWASHER DWS-22ASG\nAttached: IKEA Stenstrop Kitchen Trolley.",
@@ -6707,6 +6684,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "139478",
+      "name": "Shoe cabinet",
+      "description": "The shoe cabinet is in excellent condition with no damage or Color fading",
+      "location": null,
+      "validTill": "09 Dec 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "139477",
+      "name": "IKEA cabinet",
+      "description": "White Ikea Smagora wardrobe. \nH 175 cm W 75 cm D 50 cm",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "30 Nov 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "139474",
@@ -7345,6 +7344,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "139475",
+      "name": "Walking frame with wheels",
+      "description": "Very good condition, bought for my dad to use after his surgery and now he has fully recovered.",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "09 Dec 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "139352",
