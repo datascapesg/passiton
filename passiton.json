@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "139574",
+      "category": "Home Furnishing",
+      "name": "Waredrobe",
+      "description": "Family has 3 young children below 6 years old. They have recently got their own rental flat and require a second hand wardrobe.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Punggol 616",
+        "name": "Amos Liu",
+        "email": "amosliu@allkin.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "13 Nov 2024"
+    },
+    {
       "id": "139542",
       "category": "Home Furnishing",
       "name": "Shoe Cabinet",
@@ -124,23 +141,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "11 Nov 2024"
-    },
-    {
-      "id": "139442",
-      "category": "Home Furnishing",
-      "name": "Sofa Bed",
-      "description": "The client is a widowed mother with two children. The family is need of a new sofa bed, as their current one is in deteriorating condition. If you are able to help, please contact Camelia at 8509 6443 or email camelia@sccfsc.org.sg. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Camelia Saputri",
-        "email": "camelia@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Nov 2024"
     },
     {
       "id": "139432",
@@ -4208,6 +4208,23 @@
       "date": "29 Oct 2024"
     },
     {
+      "id": "139575",
+      "category": "Electrical Home Appliances",
+      "name": "55",
+      "description": "The client is a widowed mother with two children. The family is need of a new TV as their current one is faulty.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Camelia Saputri",
+        "email": "camelia@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Nov 2024"
+    },
+    {
       "id": "139564",
       "category": "Electrical Home Appliances",
       "name": "Television / TV",
@@ -5839,6 +5856,23 @@
       "date": "21 Oct 2024"
     },
     {
+      "id": "139577",
+      "category": "Kitchen Utility Items",
+      "name": "Kitchen Cabinet",
+      "description": "Member (F/19) has a 3-month-old infant. She recently moved to a one-room rental flat with her infant. She does not have financial means to purchase a kitchen cabinet and hopes to be able to receive one to store their kitchen items.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Quak Mei Qing",
+        "email": "meiqing@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Nov 2024"
+    },
+    {
       "id": "139160",
       "category": "Kitchen Utility Items",
       "name": "Cutlery / Crockery (New)",
@@ -5959,6 +5993,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "139576",
+      "name": "Leather Sofa",
+      "description": "Leather sofa from Castlery, plush seating.Bought in May 2023. Letting go to make space!",
+      "location": null,
+      "validTill": "12 Dec 2024",
+      "ageInYears": 2,
+      "dimensions": "204cm by 97cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "139569",
       "name": "2-seater sofa",
       "description": "Lightly used sofa.\nSofa cover can be removed and washed.\nSide table can be removed as well.",
@@ -6076,17 +6121,6 @@
       "validTill": "06 Dec 2024",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "139530",
-      "name": "Cabinet",
-      "description": "Giving away this wall cabinet.\n\nWe’ve been using it as a floor cabinet - works fine as long as you raise it to be able to open the door.\n\nIt can be mounted on the wall.\n\nOne of the door’s hinges isn’t screwed in full, so the door isn’t perfectly straight but closes properly.\n\nI will mount the third shelf and provide all the necessary screws before giving the item away. \n\nLink for reference: https://www.ikea.com/sg/en/p/metod-wall-cabinet-with-shelves-white-askersund-light-ash-effect-s49453575/#content",
-      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-      "validTill": "30 Nov 2024",
-      "ageInYears": 2,
-      "dimensions": "60 x 37 x 60",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
