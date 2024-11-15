@@ -1,22 +1,39 @@
 {
   "requests": [
     {
-      "id": "139636",
+      "id": "139649",
       "category": "Home Furnishing",
-      "name": "Request for queen size mattress",
-      "description": "Hi, a low-income family needs to get a queen size mattress for the children's needs. This is an essential item for them (as there is currently none).",
+      "name": "Bedsheet and Pillows",
+      "description": "Family of 4 has limited financial capacity affording bedsheets and pillows. Hoping for a donor who can support in providing 2 sets of queen size bedsheets and 3 brand new pillows. Appreciate if donor can support in delivery cost. Kindly contact 9091 5284 should you be able to support. Thank you!",
       "specifications": null,
       "contact": {
-        "org": "Whampoa Family Service Centre",
-        "name": "Yeo Hwee Keng",
-        "email": "yeohweekeng@kkcs.org.sg",
+        "org": "SHINE Children and Youth Services - Clementi",
+        "name": "Michelle khoo",
+        "email": "michelle_khoo@shine.org.sg",
         "phone": [
-          "63260318",
-          "63260300"
+          "62869905",
+          "67786867"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "14 Nov 2024"
+      "date": "15 Nov 2024"
+    },
+    {
+      "id": "139641",
+      "category": "Home Furnishing",
+      "name": "Kitchen Cabinet",
+      "description": "Low income family with multiple dependents is requesting for a kitchen cabinet to help them with proper organisation and storage of their food rations that they recieve. Should you have a suitable item, you can contact us at 9828 7307. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Han Wen Ting",
+        "email": "hanwenting@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Nov 2024"
     },
     {
       "id": "139634",
@@ -510,23 +527,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "04 Nov 2024"
-    },
-    {
-      "id": "139257",
-      "category": "Home Furnishing",
-      "name": "King Sized Mattress",
-      "description": "Family consists of single mother undergoing divorce and 2 16 year old boys. Mother is an ex-convict who is currently having many physical health issues, such as sleep apnea. She is also diagnosed with bipolar disorder and major depressive disorder, deeming her unfit for work. She requires help in replacing her mattress as it was previously a donated second-hand item. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Regina Leong",
-        "email": "regina@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Nov 2024"
     },
     {
       "id": "139177",
@@ -1193,6 +1193,59 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "15 Oct 2024"
+    },
+    {
+      "id": "139651",
+      "category": "Infant and Children Items",
+      "name": "Dumax Dulac Step 1 Milk Powder [Birth to 12 months, 4 tins (800g)]",
+      "description": "Client is unemployed for past 1 year due to current pregnancy. She is depending on formal assistance to support hers and 3 other school-going children's needs. As client is due to give birth in March 2024, she hopes to receive temporary milk and diapers support before returning to the workforce after child's birth. Thank you.\n\nBrand: Dumax Dulac (Step 1 - Birth to 12 months)\nQuantity: 4 tins (800g)",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Cheng San 445",
+        "name": "Fahmi Bin Jazid",
+        "email": "fahmi@allkin.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Nov 2024"
+    },
+    {
+      "id": "139645",
+      "category": "Infant and Children Items",
+      "name": "Milk and Diapers",
+      "description": "[Urgent] - Client is living in a rental flat with 6 young children (age 5-11). Client is unemployed due to medical condition and the family is assessed to face significant financial strain. As such, the family is really in need of Milk and Diapers for the children (Lactogen 3 Drypants Size XXL). Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Karen Ong",
+        "email": "karenong@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Nov 2024"
+    },
+    {
+      "id": "139642",
+      "category": "Infant and Children Items",
+      "name": "Diapers - [Any brand, Size L, 4 packets]",
+      "description": "Client is unemployed for past 1 year due to current pregnancy. She is depending on formal assistance to support hers and 3 other school-going children's needs. As client is due to give birth in Mar 2024, she hopes to receive temporary milk and diapers support before returning to the workforce after child's birth. Thank you.\n\n\nQuantity: 4 packets\nBrand: Any\nSize: L",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Cheng San 445",
+        "name": "Fahmi Bin Jazid",
+        "email": "fahmi@allkin.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Nov 2024"
     },
     {
       "id": "139633",
@@ -3009,6 +3062,40 @@
       "date": "16 Oct 2024"
     },
     {
+      "id": "139648",
+      "category": "Others",
+      "name": "Mountain Bike",
+      "description": "Beneficiary is an ex-offender who was recently released. He does not have any savings or family support. He is looking for a bicycle so that he can take up food delivery assignments while he actively works towards securing a full-time job. He will continue with the food delivery job even after he has secured a full-time job.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore After Care Association",
+        "name": "Lin Mingjie",
+        "email": "mingjie@saca.org.sg",
+        "phone": [
+          "62942350"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Nov 2024"
+    },
+    {
+      "id": "139643",
+      "category": "Others",
+      "name": "Halal Food Rations For Clients",
+      "description": "Requesting halal food rations for needy families who may not have money to buy food Items due to financial issues Items needed such as - 20x packets of Rice (2.5KG/5KG\n30X packets of Maggie (Vegetarian/Non-Vegetarian)\n30x Halal Can Food [Meat -Sardine/Chicken etc] / [Vegetarian – Corn/Mushroom etc] \n10x Packets of Beehoon (Chilli Brand)\n30x Packets of Assorted Biscuits (example: Khong guan biscuits / Jacob)\n30x Packets of 3-in-1 Beverages (Milo/Coffee/Cereal Etc)\n10 bottles of 1L cooking oil\n10 bottles of light/dark soya sauce. Any amount is appreciated! Please call / email me before making any purchase as we have space constraint issues. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Nurul Nadiah Binte Mustapha",
+        "email": "nurulnadiah@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Nov 2024"
+    },
+    {
       "id": "139639",
       "category": "Others",
       "name": "Android smart phone (any brand)",
@@ -4600,22 +4687,21 @@
       "date": "29 Oct 2024"
     },
     {
-      "id": "139635",
+      "id": "139640",
       "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Family of 3 with client currently pregnant with her second child. Husband is currently the sole breadwinner. Her due date is end November and current washing machine just broke down. Urgently finding for a new washing machine, as they cannot afford a new one and any money they are getting is going towards hospital expenses for the pregnancy. Family would really benefit from a new washing machine. Thank you.",
+      "name": "Standing Fan",
+      "description": "Low income family requires a standing fan to help ventilate the house. Family is struggling with the heat given the hot and humid weather. Should you have a suitable item, please reach out to me at 9828 7307. Thank you!",
       "specifications": null,
       "contact": {
-        "org": "MSF Social Service Office @ Kreta Ayer",
-        "name": "Simon Salomon",
-        "email": "simon_salomon@msf.gov.sg",
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Han Wen Ting",
+        "email": "hanwenting@mws.sg",
         "phone": [
-          "62319406",
-          "1800-222-0000"
+          "67872001"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "14 Nov 2024"
+      "date": "15 Nov 2024"
     },
     {
       "id": "139632",
@@ -5984,23 +6070,6 @@
       "date": "18 Oct 2024"
     },
     {
-      "id": "138776",
-      "category": "Electrical Home Appliances",
-      "name": "Clothes Dryer",
-      "description": "Client is a single parent and has 2 young children and has complex needs. She is trying to sustain with basic needs from her limited income which is not sufficient for her. Hence, the requested household items will be beneficial for client and her children to sustain for this period of time.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Sengkang 223D",
-        "name": "Nurul Nadiah Binte Mustapha",
-        "email": "nurulnadiah@allkin.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Oct 2024"
-    },
-    {
       "id": "138764",
       "category": "Electrical Home Appliances",
       "name": "Top-load washing machine",
@@ -6332,6 +6401,42 @@
       "date": "23 Oct 2024"
     },
     {
+      "id": "139654",
+      "category": "Kitchen Utility Items",
+      "name": "Rice Cooker",
+      "description": "On behalf of my 64-year-old client, who is residing in a rental unit, he is seeking a rice cooker, so that he can cook at home, to reduce some of his living expenses. My client is open to using a second-hand rice cooker, as long as it is in good working condition. Please contact me at 8859 5662. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "Viriya Family Service Centre",
+        "name": "Grace Ang",
+        "email": "grace_ang@viriya.org.sg",
+        "phone": [
+          "62855033",
+          "62858033"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Nov 2024"
+    },
+    {
+      "id": "139647",
+      "category": "Kitchen Utility Items",
+      "name": "6 sets of utensils + 3  toyogo boxe",
+      "description": "Family experienced a fire outbreak hence hope to receive 6 sets of new utensils (plate, bowl, fork, spoon and cup) and 3  toyogo boxes. Appreciate if donor and cover delivery cost. Kindly contact 90915284 if you are able to support",
+      "specifications": null,
+      "contact": {
+        "org": "SHINE Children and Youth Services - Clementi",
+        "name": "Michelle khoo",
+        "email": "michelle_khoo@shine.org.sg",
+        "phone": [
+          "62869905",
+          "67786867"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Nov 2024"
+    },
+    {
       "id": "139577",
       "category": "Kitchen Utility Items",
       "name": "Kitchen Cabinet",
@@ -6414,17 +6519,6 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "139272",
-      "name": "DISHWASHER",
-      "description": "Portable dishwasher useful for families who cook & eat frequently at home. Works well with Somat dishwashing powder commonly available at FairPrice. Bought in June 2023. Will cover delivery fees.\nModel: TOSHIBA PORTABLE DISHWASHER DWS-22ASG\nAttached: IKEA Stenstrop Kitchen Trolley.",
-      "location": "Braddell , Macpherson, Potong Pasir",
-      "validTill": "24 Nov 2024",
-      "ageInYears": 2,
-      "dimensions": "435 X 435 X 420mm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "139215",
       "name": "Singtel Wifi 6 Router",
       "description": "Brand new Singtel Wifi 6 Router. Self collection at Buangkok MRT only.",
@@ -6445,6 +6539,39 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "139653",
+      "name": "Table with three drawers",
+      "description": "Solid wood table with three drawers. Still in useable condition.",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "23 Nov 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "139652",
+      "name": "Expandable table",
+      "description": "Extendable table in good condition.",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "23 Nov 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "139650",
+      "name": "Desk and chair set",
+      "description": "Desk in good condition. Just a bit bowed and yellowed.  But still works well 55cm x 120\nIkea office chair 44cm x 38cm x 84\nPlease take as a complete set. \nItems on desk is not included",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "15 Dec 2024",
+      "ageInYears": 4,
+      "dimensions": "55cm x 120cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "139638",
@@ -6529,17 +6656,6 @@
       "description": "White Ikea Smagora wardrobe. \nH 175 cm W 75 cm D 50 cm",
       "location": "Pasir Ris, Simei, Tampines",
       "validTill": "30 Nov 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "139428",
-      "name": "Ikea double decker bed",
-      "description": "Bed is disassembled for easy transfer.",
-      "location": null,
-      "validTill": "07 Dec 2024",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
@@ -6909,23 +7025,23 @@
       "category": "Mobility Aids"
     },
     {
-      "id": "139475",
-      "name": "Walking frame with wheels",
-      "description": "Very good condition, bought for my dad to use after his surgery and now he has fully recovered.",
-      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-      "validTill": "09 Dec 2024",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
       "id": "139352",
       "name": "Adjustable bed / hospital bed",
       "description": "Brand new adjustable bed with air mattress. \nBrand new never use before.",
       "location": null,
       "validTill": "06 Dec 2024",
       "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "139646",
+      "name": "Wheelchair",
+      "description": "Wheelchair is light and quite good condition",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "02 Dec 2024",
+      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
@@ -6949,17 +7065,6 @@
       "validTill": "11 Dec 2024",
       "ageInYears": 1,
       "dimensions": "Adult",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Others"
-    },
-    {
-      "id": "139466",
-      "name": "Lifree Powerful Pants",
-      "description": "6 unopened packs + 1 open (unused) pack\n\nFEATURES:\n•\tSoft and stretchable waistband which allows easy put on, removal, and moving about.\n•\tPowerful thin absorbent sheet enables longer usage.\n•\t Whole breathable cover and waistband release heat and humidity to prevent rashes.\n•\tFlexible leg cuffs that allow the foot through easily.\n\nSIZE M x 18 sheets per pack :\nLifree Powerful Unisex Adult Slim Pants - M (60 - 85cm)",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "08 Dec 2024",
-      "ageInYears": 2,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Others"
     },
