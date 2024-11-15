@@ -1,24 +1,6 @@
 {
   "requests": [
     {
-      "id": "139649",
-      "category": "Home Furnishing",
-      "name": "Bedsheet and Pillows",
-      "description": "Family of 4 has limited financial capacity affording bedsheets and pillows. Hoping for a donor who can support in providing 2 sets of queen size bedsheets and 3 brand new pillows. Appreciate if donor can support in delivery cost. Kindly contact 9091 5284 should you be able to support. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "SHINE Children and Youth Services - Clementi",
-        "name": "Michelle khoo",
-        "email": "michelle_khoo@shine.org.sg",
-        "phone": [
-          "62869905",
-          "67786867"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Nov 2024"
-    },
-    {
       "id": "139641",
       "category": "Home Furnishing",
       "name": "Kitchen Cabinet",
@@ -4705,6 +4687,42 @@
       "date": "29 Oct 2024"
     },
     {
+      "id": "139661",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Family consists of a single mother and 3 children. The single mother is unemployed as she is the main caregiver for her elderly mother who has Stage 4 cancer and living with them. The family requires a fridge for their home.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Woodlands",
+        "name": "Fatimah Azzahrah",
+        "email": "fatimah_azzahrah_noor@msf.gov.sg",
+        "phone": [
+          "62319407",
+          "67660097"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Nov 2024"
+    },
+    {
+      "id": "139660",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "Family consists of a single mother and 3 children. The single mother is unemployed as she is the main caregiver of her elderly mother who has Stage 4 cancer and living with them. The family requires a washing machine for their home.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Woodlands",
+        "name": "Fatimah Azzahrah",
+        "email": "fatimah_azzahrah_noor@msf.gov.sg",
+        "phone": [
+          "62319407",
+          "67660097"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "15 Nov 2024"
+    },
+    {
       "id": "139657",
       "category": "Electrical Home Appliances",
       "name": "Vacuum Cleaner",
@@ -4844,23 +4862,6 @@
       "date": "14 Nov 2024"
     },
     {
-      "id": "139601",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "A devoted father of three young children is facing immense challenges as the primary caregiver for his family. His five-year-old daughter has autism, his three-year-old son and two-month-old baby both have Down Syndrome and require daily care, and his wife, struggling with depression and expecting another child, is unable to work. With no steady income and pressing caregiving responsibilities, he is unable to afford a replacement for their broken washing machine. A functional 8kg top-load washing machine would be a lifeline for this family, helping them maintain hygiene and manage daily needs amidst their financial struggles.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Sengkang 223D",
-        "name": "Syamirul Azim",
-        "email": "syamirulazim@allkin.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "13 Nov 2024"
-    },
-    {
       "id": "139600",
       "category": "Electrical Home Appliances",
       "name": "tv",
@@ -4873,23 +4874,6 @@
         "phone": [
           "81883314",
           "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Nov 2024"
-    },
-    {
-      "id": "139594",
-      "category": "Electrical Home Appliances",
-      "name": "Vacuum Cleaner",
-      "description": "A household of 6, including 3 toddlers and 1 baby, is in urgent need of a vacuum cleaner as their current one has broken down. According to a doctor’s memo, their toddler son has poor wheezing control, requiring Ventolin 10 times between December 2023 and February 2024. He is also currently on corticosteroids. Unfortunately, his health condition has impacted his vaccination schedule, as he cannot be vaccinated when unwell. Mother has been actively maintaining the cleanliness of their home, but with the vacuum cleaner now broken, keeping the environment dust-free has become challenging. Given the son's health issues, the family would greatly benefit from the support of a new vacuum cleaner.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Kelly Lim",
-        "email": "kelly.lim@montfortcare.org.sg",
-        "phone": [
-          "63254753"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -6436,24 +6420,6 @@
       "date": "23 Oct 2024"
     },
     {
-      "id": "139654",
-      "category": "Kitchen Utility Items",
-      "name": "Rice Cooker",
-      "description": "On behalf of my 64-year-old client, who is residing in a rental unit, he is seeking a rice cooker, so that he can cook at home, to reduce some of his living expenses. My client is open to using a second-hand rice cooker, as long as it is in good working condition. Please contact me at 8859 5662. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "Viriya Family Service Centre",
-        "name": "Grace Ang",
-        "email": "grace_ang@viriya.org.sg",
-        "phone": [
-          "62855033",
-          "62858033"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Nov 2024"
-    },
-    {
       "id": "139647",
       "category": "Kitchen Utility Items",
       "name": "6 sets of utensils + 3  toyogo boxe",
@@ -6693,17 +6659,6 @@
       "validTill": "30 Nov 2024",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "139531",
-      "name": "Cabinet",
-      "description": "Giving away this wall cabinet.\n\nWe’ve been using it as a floor cabinet - works fine as long as you raise it to be able to open the door.\n\nIt can be mounted on the wall.\n\nOne of the door’s hinges isn’t screwed in full, so the door isn’t perfectly straight but closes properly.\n\nI will mount the third shelf and provide all the necessary screws before giving the item away. \n\nLink for reference: https://www.ikea.com/sg/en/p/metod-wall-cabinet-with-shelves-white-askersund-light-ash-effect-s49453575/#content",
-      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-      "validTill": "30 Nov 2024",
-      "ageInYears": 2,
-      "dimensions": "60 x 37 x 60",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -7066,17 +7021,6 @@
       "location": null,
       "validTill": "06 Dec 2024",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
-      "id": "139646",
-      "name": "Wheelchair",
-      "description": "Wheelchair is light and quite good condition",
-      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-      "validTill": "02 Dec 2024",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
