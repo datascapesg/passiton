@@ -1948,6 +1948,23 @@
       "date": "25 Oct 2024"
     },
     {
+      "id": "139995",
+      "category": "Others",
+      "name": "Marketing Trolley",
+      "description": "Client is a family of 12, resulting in high grocery needs. Client's trolley recently broke, resulting in inconveniences of having to buy hand-carry portions on multiple trips.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Muhammad Suffian Bin Bahrin",
+        "email": "muhammadsuffian@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "25 Nov 2024"
+    },
+    {
       "id": "139988",
       "category": "Others",
       "name": "Rice",
@@ -2349,24 +2366,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "21 Nov 2024"
-    },
-    {
-      "id": "139843",
-      "category": "Others",
-      "name": "TENA VALUE PANTS (L)",
-      "description": "Client is 66 years old, staying at rental flat. She was diagnosed with Breast Cancer in 2017. Recently she is having relapse and needs to undergo for another cycle of chemotherapy. Due to the sign effect of the treatment, client is now bed bound. She needs to use diaper and under pad regularly.",
-      "specifications": null,
-      "contact": {
-        "org": "AIN Society",
-        "name": "Nur'Ain Binte Mohamed Said",
-        "email": "nurain@ainsociety.org.sg",
-        "phone": [
-          "68485116",
-          "68485166"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Nov 2024"
     },
     {
       "id": "139834",
@@ -6444,6 +6443,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "139994",
+      "name": "Queen size bed frame and mattress",
+      "description": "Excellent condition queen size bed frame + firm mattress (used but good condition). Comes from home with cats but will be vacuumed before leaving. Pick up must be 5 or 6 Dec. Have mover and can arrange details with VWO. Can add some bed linens if wanted.",
+      "location": null,
+      "validTill": "06 Dec 2024",
+      "ageInYears": 4,
+      "dimensions": "159L x 210w x 125 h",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "139982",
       "name": "Coffee table",
       "description": "Used Coffee table in mint condition. Table top is ceramic marble.",
@@ -6785,17 +6795,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "139638",
-      "name": "SUPER SINGLE BEDFRAME",
-      "description": "SUPER SINGLE BEDFRAME WITH METAL LEGS. CONDITION NEW (NOT USED)",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "14 Dec 2024",
-      "ageInYears": 1,
-      "dimensions": "190 CM *106CM * 36CM",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "139569",
       "name": "2-seater sofa",
       "description": "Lightly used sofa.\nSofa cover can be removed and washed.\nSide table can be removed as well.",
@@ -6912,17 +6911,6 @@
       "location": null,
       "validTill": "24 Dec 2024",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "139942",
-      "name": "Yao Lan",
-      "description": "Lightly used",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "30 Nov 2024",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
@@ -7203,6 +7191,17 @@
       "category": "Learning Aids"
     },
     {
+      "id": "139993",
+      "name": "Adult diapers size L",
+      "description": "TENA Diaper pull up Pants x 40pcs\nTENA Diaper sticky tab x 20",
+      "location": null,
+      "validTill": "25 Dec 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
+    },
+    {
       "id": "139798",
       "name": "Omron compressor nebulizer",
       "description": "This is a brand new item.",
@@ -7212,6 +7211,17 @@
       "dimensions": "22x12x17cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "139992",
+      "name": "Walking frame",
+      "description": "Adjustable walking frame.",
+      "location": null,
+      "validTill": "25 Dec 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "139950",
