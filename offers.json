@@ -440,17 +440,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "140102",
-    "name": "Doona Liki Trike S5 toddler bicycle",
-    "description": "Toddler bicycle with full accessories.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "28 Dec 2024",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "140089",
     "name": "Infant to child carseat",
     "description": "Cosco Scerena car seat \nSuitable from infant to 6 year old\nCan be used in taxi and planes",
@@ -770,17 +759,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "139992",
-    "name": "Walking frame",
-    "description": "Adjustable walking frame.",
-    "location": null,
-    "validTill": "25 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "139950",
     "name": "ASSURE REHAB ELECTRIC LOW NURSING BED",
     "description": "Good condition",
@@ -876,6 +854,17 @@
     "validTill": "11 Dec 2024",
     "ageInYears": 1,
     "dimensions": "Adult",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "139398",
+    "name": "Hospital bed",
+    "description": "Good condition",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "06 Dec 2024",
+    "ageInYears": 2,
+    "dimensions": "215 x 100 x 27",
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
