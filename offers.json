@@ -99,17 +99,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "140173",
-    "name": "Book Shelf",
-    "description": "Used book shelf for children. Books and other display items not included.",
-    "location": "Changi, Flora, Loyang",
-    "validTill": "20 Dec 2024",
-    "ageInYears": 3,
-    "dimensions": "120cm x 25cm x 123cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "140172",
     "name": "Dining table",
     "description": "Dining table L150 x D80 x H76. Chairs in picture are not included",
@@ -138,17 +127,6 @@
     "location": null,
     "validTill": "14 Dec 2024",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140163",
-    "name": "Ikea Kivic sofa",
-    "description": "Very good condition Ikea 2-seater sofa (but sits 3 comfortably).",
-    "location": null,
-    "validTill": "31 Dec 2024",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -260,17 +238,6 @@
     "validTill": "23 Dec 2024",
     "ageInYears": 4,
     "dimensions": "9.3ft x 3ft x3ft",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140021",
-    "name": "IKEA Bookshelf",
-    "description": "Lightly used as book shelf.\nSome light stains on top\nWould appreciate collection",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "20 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -636,6 +603,17 @@
     "dimensions": "W18.5\" x H12\"",
     "deliveryCostsCoveredByDonor": true,
     "category": "Leisure and Healthy Lifestyle"
+  },
+  {
+    "id": "140199",
+    "name": "17\" Monitor",
+    "description": "Total qty: 14 (8 new, 6 used)",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "31 Dec 2024",
+    "ageInYears": 3,
+    "dimensions": "17\"",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Learning Aids"
   },
   {
     "id": "140154",
