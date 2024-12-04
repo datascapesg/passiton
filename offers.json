@@ -11,6 +11,28 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "140310",
+    "name": "Bosch dishwasher",
+    "description": "Bosch dishwasher",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "14 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "140308",
+    "name": "Samsung 255 Litre Refridgerator",
+    "description": "Samsung 255 litre fridge",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "14 Dec 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "140302",
     "name": "Fridge (LG)",
     "description": "Please arrange own transport and pick up from:\n25 Leonie Hill #15-03 Leonie Gardens",
@@ -711,6 +733,17 @@
     "validTill": "28 Dec 2024",
     "ageInYears": 1,
     "dimensions": "75cm long",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "140306",
+    "name": "Commode",
+    "description": "Commode is new, unused as senior did not want upon arrival",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "28 Dec 2024",
+    "ageInYears": 1,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
