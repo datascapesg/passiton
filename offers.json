@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "140302",
+    "name": "Fridge (LG)",
+    "description": "Please arrange own transport and pick up from:\n25 Leonie Hill #15-03 Leonie Gardens",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "13 Dec 2024",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "140170",
     "name": "Electric Thermo Pot",
     "description": "Panasonic NC-BH30P electric thermo pot to bless a family that’s needs it",
@@ -29,17 +40,6 @@
     "validTill": "31 Dec 2024",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "140128",
-    "name": "Refrigerator",
-    "description": "Still working condition but the vegetable container a bit crack",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "07 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": "1760h x 640d x 660w",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -432,17 +432,6 @@
     "id": "140275",
     "name": "Stroller",
     "description": "Combi Stroller",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "15 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "140274",
-    "name": "Stroller",
-    "description": "Graco Baby Stroller",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "15 Dec 2024",
     "ageInYears": 4,
