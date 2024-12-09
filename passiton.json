@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "140464",
+      "category": "Others",
+      "name": "Household items and Bedding",
+      "description": "2 low income elderly living in rental units require the following items:\n1) 2 single mattress (foldable type)\n2) 2 single blankets\n3) 2 sets of pillow and bolster\n4) 2 sets of single bedsheets, pillow and bolster case.\n\nPls contact social worker (Tracy) @97244034 on delivery arrangement. Thank you for your kindness and generosity in improving the living conditions of our seniors",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Kreta Ayer",
+        "name": "Tracy Chua",
+        "email": "tracy.chua@montfortcare.org.sg",
+        "phone": [
+          "62746904"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Dec 2024"
+    },
+    {
       "id": "140457",
       "category": "Others",
       "name": "Mobile Phones",
@@ -3942,23 +3959,6 @@
       "date": "19 Nov 2024"
     },
     {
-      "id": "139799",
-      "category": "Electrical Home Appliances",
-      "name": "Vacuum Cleaner",
-      "description": "Client recently shifted to a two-room rental flat with her husband and two children, aged 8 months and 8 years old. Client is also in her final trimester of pregnancy and relies on a vacuum cleaner to clean the house. However, her existing vacuum cleaner stopped working and thus, client is hoping to receive a second hand vacuum cleaner. Please feel free to contact Claudine at 6365 8751 with regards to this request. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Admiralty",
-        "name": "Lei Hui Yun",
-        "email": "leihuiyun@carecorner.org.sg",
-        "phone": [
-          "63658751"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Nov 2024"
-    },
-    {
       "id": "139790",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -4117,23 +4117,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "15 Nov 2024"
-    },
-    {
-      "id": "139612",
-      "category": "Electrical Home Appliances",
-      "name": "Vacuum cleaner",
-      "description": "Cancer-stricken senior with osteoporosis would require a vacuum cleaner so as to have an easier time cleaning her house. She is fiercely independent despite facing a lot of challenges in life, please help if you can",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Singapore's Active Ageing Centre @ Ang Mo Kio 469",
-        "name": "Kei Ng",
-        "email": "ngkhuankungkei@allkin.org.sg",
-        "phone": [
-          "64510898"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Nov 2024"
     },
     {
       "id": "139607",
@@ -4364,6 +4347,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "11 Nov 2024"
+    },
+    {
+      "id": "140465",
+      "category": "Mobility Aids",
+      "name": "Walking stick",
+      "description": "An elderly with low income and mental health condition has broken her walking stick after a fall. She urgently needs a replacement for her next medical appointment. \nPlease contact social worker Tracy@97244034 on delivery arrangement. Thank you for your kindness and generosity.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Kreta Ayer",
+        "name": "Tracy Chua",
+        "email": "tracy.chua@montfortcare.org.sg",
+        "phone": [
+          "62746904"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Dec 2024"
     },
     {
       "id": "140387",
@@ -6480,6 +6480,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "140463",
+      "name": "Assorted Stationery (Foolscap Paper, Notebooks, Post-it)",
+      "description": "Assorted foolscap paper, graph paper, writing notebooks, post-it notes. Kept for some time; some are used, some are still sealed.",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "31 Dec 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "140462",
+      "name": "Assorted Stationery",
+      "description": "Assorted stationery to give away.  Might be dusty as it has been kept for some time but still good to use.",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "31 Dec 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "140390",
