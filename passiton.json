@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "140457",
+      "category": "Others",
+      "name": "Mobile Phones",
+      "description": "Single mum with 4 young children requires mobile phones for the 2 teenage children. Their phones are spoilt and family has problem replacing it. Family has tight financial situation.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Ye Jiancheng",
+        "email": "jiancheng@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Dec 2024"
+    },
+    {
       "id": "140447",
       "category": "Others",
       "name": "Adult Diapers [Tena Value, Size: L, 4 packs]",
@@ -3080,6 +3097,23 @@
       "date": "08 Nov 2024"
     },
     {
+      "id": "140459",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "A working top-load washing machine is needed for a senior without much finance resource. Preferably in working good condition, less than 8 years old.\nIf possible, to provide delivery as well.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner - Community Case Management Service Central",
+        "name": "Josherine Toh",
+        "email": "josherinetoh@carecorner.org.sg",
+        "phone": [
+          "62586601"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Dec 2024"
+    },
+    {
       "id": "140442",
       "category": "Electrical Home Appliances",
       "name": "Request for Fridge",
@@ -4085,24 +4119,6 @@
       "date": "15 Nov 2024"
     },
     {
-      "id": "139663",
-      "category": "Electrical Home Appliances",
-      "name": "TV",
-      "description": "44 Year-old female with schizophrenia requires a TV as her current one had spoilt. She is unable to sustain job due to her mental health condition.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - @27 Family Service Centre",
-        "name": "Cheryl Chew",
-        "email": "cheryl.chew@montfortcare.org.sg",
-        "phone": [
-          "97329677",
-          "62708327"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Nov 2024"
-    },
-    {
       "id": "139612",
       "category": "Electrical Home Appliances",
       "name": "Vacuum cleaner",
@@ -4350,24 +4366,6 @@
       "date": "11 Nov 2024"
     },
     {
-      "id": "140393",
-      "category": "Mobility Aids",
-      "name": "Walking stick",
-      "description": "Elderly in her 80s staying on her own, requires a walking stick to replace the umbrella that she is currently using",
-      "specifications": null,
-      "contact": {
-        "org": "SACS Anglican Cluster Operator @ Jurong East",
-        "name": "Koh Leong Foo",
-        "email": "leongfoo_koh@sacs.org.sg",
-        "phone": [
-          "62621183ext209",
-          "62621183"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Dec 2024"
-    },
-    {
       "id": "140387",
       "category": "Mobility Aids",
       "name": "Adjustable bed railing (bed guard)",
@@ -4595,23 +4593,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "09 Dec 2024"
-    },
-    {
-      "id": "140417",
-      "category": "Home Furnishing",
-      "name": "Stackable Plastic Dining Chairs (not Stools)",
-      "description": "Elderly uncle 76 yrs old living in HDB rental flat needs 3 or 4 stackable plastic dining chairs. Wooden / cushion chairs aren't suitable because there is long term risk of bedbugs. Something similar to https://jiji.sg/stackable-chairs/13225-626602-kopitiam-iii-chair-stackable.html#/4744-color-black. Many Thanks.",
-      "specifications": null,
-      "contact": {
-        "org": "Moral Active Ageing Centre @ Kaki Bukit",
-        "name": "Gary Tan",
-        "email": "garytan@chkmps.org.sg",
-        "phone": [
-          "64486247"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Dec 2024"
     },
     {
       "id": "140412",
@@ -5738,17 +5719,6 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "140454",
-      "name": "Refrigerator",
-      "description": "In good condition",
-      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-      "validTill": "04 Jan 2025",
-      "ageInYears": 4,
-      "dimensions": "nil",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "140430",
       "name": "Sony TV",
       "description": "TV - more than 4 years but still working.",
@@ -5791,6 +5761,39 @@
       "dimensions": "As photo",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "140461",
+      "name": "Biege coloured dining chair",
+      "description": "Six Biege dining chair - in very good condition to be given away.",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "08 Jan 2025",
+      "ageInYears": 4,
+      "dimensions": "50 x 50 x 80 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "140460",
+      "name": "Prayer Alter",
+      "description": "Cleaned out and ready to collect. \nNot disassembled",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "04 Jan 2025",
+      "ageInYears": 4,
+      "dimensions": "nil",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "140458",
+      "name": "Shelves",
+      "description": "items on shelf will be cleared.\ncleaned and ready for collection\nnot disassembled",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "04 Jan 2025",
+      "ageInYears": 4,
+      "dimensions": "nil",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "140456",
