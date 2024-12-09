@@ -22,17 +22,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "140389",
-    "name": "Dryer",
-    "description": "Good condition",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "16 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "140310",
     "name": "Bosch dishwasher",
     "description": "Bosch dishwasher",
@@ -128,17 +117,6 @@
     "validTill": "06 Jan 2025",
     "ageInYears": 4,
     "dimensions": "110 x 90 x 80",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "140423",
-    "name": "Sofa bed 2 queen size",
-    "description": "Queen Size Sofa bed",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "06 Jan 2025",
-    "ageInYears": 4,
-    "dimensions": "150 x 90 x 90",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -779,6 +757,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "140479",
+    "name": "Toys",
+    "description": "Lego toys for boys aged 7 to 12 years old",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "30 Dec 2024",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "140463",
