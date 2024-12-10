@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "140502",
+      "category": "Others",
+      "name": "Mobile Phone",
+      "description": "Mother of newborn premature baby needs a phone. Her current phone is faulty. She is not working and cannot afford to buy a new phone for herself. She needs to be contactable for the hospital and other stakeholders to contact her regarding her baby.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Marine Parade Family Service Centre",
+        "name": "Rashika D/O Murugaraju",
+        "email": "rashika.murugaraju@montfortcare.org.sg",
+        "phone": [
+          "92998747",
+          "64450100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Dec 2024"
+    },
+    {
       "id": "140495",
       "category": "Others",
       "name": "TV",
@@ -1498,6 +1516,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "11 Nov 2024"
+    },
+    {
+      "id": "140504",
+      "category": "Infant and Children Items",
+      "name": "breast pump",
+      "description": "A low-income family, residing in a rental flat, has four school-age children. The wife has recently given birth to their fifth child. She has not yet purchased a breast pump.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Tampines",
+        "name": "Hanim Binte Ibrahim",
+        "email": "hanim_ibrahim@msf.gov.sg",
+        "phone": [
+          "63153632",
+          "64244017"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Dec 2024"
     },
     {
       "id": "140496",
@@ -4334,6 +4370,42 @@
       "date": "11 Nov 2024"
     },
     {
+      "id": "140506",
+      "category": "Home Furnishing",
+      "name": "Wardrobe",
+      "description": "Family of 9 staying in a two-room HDB rental is requesting for a cabinet to keep some of the children clothes. Father is the sole-breadwinner of the family as mother have to support in the caregiving of all the children especially one of them have ADHD. However, in recent time, father got into a accident at work and would need to be on hospitalisation leave for the time being while recovering. Thus they does not have excess money to get the cabinet.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Community Services - Youth GO!",
+        "name": "Jesse Chua",
+        "email": "youthgo@fycs.org",
+        "phone": [
+          "96286110",
+          "67622779"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Dec 2024"
+    },
+    {
+      "id": "140503",
+      "category": "Home Furnishing",
+      "name": "Wardrobe",
+      "description": "Family of 4 is requesting for a wardrobe to keep the children clothes. Father is incarcerated and mother was just release from prison. Mother is currently the sole breadwinner of the family to take care of two other children below the age of 16 years old. The wardrobe for the children have spoilt and they are using bags to keep the clothes. It would be good family can have a pre-love wardrobe for the children to keep their clothes.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Community Services - Youth GO!",
+        "name": "Jesse Chua",
+        "email": "youthgo@fycs.org",
+        "phone": [
+          "96286110",
+          "67622779"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Dec 2024"
+    },
+    {
       "id": "140491",
       "category": "Home Furnishing",
       "name": "Super Single Mattress",
@@ -5515,6 +5587,24 @@
       "date": "15 Nov 2024"
     },
     {
+      "id": "140505",
+      "category": "Learning Aids",
+      "name": "Working Laptop",
+      "description": "Family of 6 is requesting for a laptop so that single-mother can look for online administrative job to do or jobs where she can work from home. Mother has severe ezecma and is on long term hospitalisation leave. However, only two of the children are working part-time and the part-time salary can only cover some of the family expense.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Community Services - Youth GO!",
+        "name": "Jesse Chua",
+        "email": "youthgo@fycs.org",
+        "phone": [
+          "96286110",
+          "67622779"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Dec 2024"
+    },
+    {
       "id": "140494",
       "category": "Learning Aids",
       "name": "School bags (Size XL): Black Colour",
@@ -5702,17 +5792,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "140499",
-      "name": "IKEA 3-seater sofa",
-      "description": "IKEA 3-Seater Sofa\n- Large, spacious deep seats\n- Brown fabric\n- Lightly used and in good & clean condition",
-      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-      "validTill": "31 Dec 2024",
-      "ageInYears": 4,
-      "dimensions": "205cm (L) x 95cm (W) x 85cm (H)",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "140497",
       "name": "Chair",
       "description": "White squarish chair",
@@ -5731,17 +5810,6 @@
       "validTill": "31 Dec 2024",
       "ageInYears": 2,
       "dimensions": "122x70x70 (cm)",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "140461",
-      "name": "Biege coloured dining chair",
-      "description": "Six Biege dining chair - in very good condition to be given away.",
-      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-      "validTill": "08 Jan 2025",
-      "ageInYears": 4,
-      "dimensions": "50 x 50 x 80 cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -6369,17 +6437,6 @@
       "validTill": "29 Dec 2024",
       "ageInYears": 4,
       "dimensions": "80cm x 200cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Others"
-    },
-    {
-      "id": "140479",
-      "name": "Toys",
-      "description": "Lego toys for boys aged 7 to 12 years old",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "30 Dec 2024",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Others"
     },
