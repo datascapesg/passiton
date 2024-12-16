@@ -220,17 +220,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "140612",
-    "name": "Bed frame, dining table set, TV & coffee table, sofa ,Wardrobe, microwave",
-    "description": "If tou can collect all it will be good",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "21 Dec 2024",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "140599",
     "name": "TODDLER BED",
     "description": "A nice toddler bed made from wood with super clean mattress. Original price is about 1k SGD.",
@@ -413,17 +402,6 @@
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
     "validTill": "15 Jan 2025",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "140706",
-    "name": "Stroller",
-    "description": "Lightweight baby stroller",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "24 Dec 2024",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
@@ -792,7 +770,18 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "140517",
+    "id": "140711",
+    "name": "Walking stick",
+    "description": "Like new. Rarely used.",
+    "location": "Woodlands",
+    "validTill": "31 Dec 2024",
+    "ageInYears": 1,
+    "dimensions": "Adjustable",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "140712",
     "name": "Walking stick",
     "description": "Like new. Rarely used.",
     "location": "Woodlands",
