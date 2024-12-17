@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "140749",
+      "category": "Others",
+      "name": "laptop",
+      "description": "Client suffered a vertigo attack in 2022 and has been feeling nauseous and having frequent dizzy spells since then. Client has been deterred from securing gainful, full-time employment in view of her poor health status as she is unable to stand for long hours. Despite her challenges, client has consistently demonstrated resilience and determination to achieve self-sufficiency, as evident in her active efforts to take on ad-hoc employment opportunities despite her poor \nhealth status. Client hopes to have a laptop to allow her to explore upskilling or engage in other types of employment which may be more suited for her health condition (i.e. administrative/accounting-related work).",
+      "specifications": null,
+      "contact": {
+        "org": "Viriya Community Services - Whispering Hearts Family Service Centre",
+        "name": "Lim Dong Qin",
+        "email": "dongqin_lim@viriya.org.sg",
+        "phone": [
+          "67951008"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Dec 2024"
+    },
+    {
       "id": "140735",
       "category": "Others",
       "name": "Front-Load Dryer",
@@ -86,24 +103,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "16 Dec 2024"
-    },
-    {
-      "id": "140606",
-      "category": "Others",
-      "name": "Cooling Fever Patch",
-      "description": "The client is a 21-year-old male who was diagnosed with cancer. He is currently going through palliative care and is bed-bound. The cooling fever patch will help to assist client as he frequently has fever and helps with the pain.",
-      "specifications": "Fever Gel Patch",
-      "contact": {
-        "org": "AIN Society",
-        "name": "Norhashimah Binti Kamarudin",
-        "email": "shimah@ainsociety.org.sg",
-        "phone": [
-          "68485163",
-          "68485166"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Dec 2024"
     },
     {
       "id": "140598",
@@ -4725,17 +4724,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "140736",
-      "name": "Kracher T7/1 Vacuum Cleaner",
-      "description": "Vacuum cleaner with all accessories.",
-      "location": null,
-      "validTill": "31 Dec 2024",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "140721",
       "name": "Smeg 30cm Induction Hob, 2 zones",
       "description": "Dimensions of the product (mm):\n64x300x515\nDepth:\n515 mm\nWidth:\n300 mm",
@@ -4756,6 +4744,17 @@
       "dimensions": "As photo",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "140751",
+      "name": "Super Single mattress with protector and quilt. Come with 2 sets of bedsheet, pillow case, bolster case and quilt cover",
+      "description": "Super Single mattress with protector and quilt. Come with 2 sets of bedsheet, pillow case, bolster case and quilt cover",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "24 Dec 2024",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "140747",
@@ -4842,6 +4841,17 @@
       "validTill": "14 Jan 2025",
       "ageInYears": 4,
       "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "140750",
+      "name": "IKEA queen size mattress and bed frame",
+      "description": "IKEA bed frame and queen size mattress \nStill in good condition \nPlease take both. \n\nPlease call or WhatsApp me.",
+      "location": "Stevens ",
+      "validTill": "05 Jan 2025",
+      "ageInYears": 4,
+      "dimensions": "200x150cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -5416,17 +5426,6 @@
       "dimensions": "22x12x17cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
-    },
-    {
-      "id": "140724",
-      "name": "Walker",
-      "description": "Nearly new foldable walker w wheels.",
-      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-      "validTill": "15 Jan 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
     },
     {
       "id": "140742",
