@@ -1,36 +1,17 @@
 {
   "requests": [
     {
-      "id": "140768",
+      "id": "140776",
       "category": "Others",
-      "name": "Electric nail clipper",
-      "description": "Client, total blindness, a busker lives with his elderly parents. Due to his total blindness, he is using a nail file to trim his nails of his own fingers and toes, however, sometimes his nails are rather long and thick and it is hard to have a clean file using the nail files, thus, he is seeking help from Pass It On and request an electric nail clipper (suitable for visually impairment) so he is able to have a clean cut on his nails.",
-      "specifications": "electric nail clipper (suitable for visually impairment)",
+      "name": "Trolley Cart",
+      "description": "Client is living in her sister's house and has been unemployed for the past 2 years due to a neck injury (spinal degeneration) caused by a fall and a car incident. She has been exhibiting signs of Depression due to prolonged stay at home, but is fearful of going out due to her health condition. She is in her early 50s and is unwilling to use a mobility aid to ambulate in the community due to shame. She hopes to receive a cart trolley (able to sit) to bring it nearby to get groceries and sit down if she needs to take a break. \n\nhttps://s.shopee.sg/5prp1YJB4t",
+      "specifications": "4 wheels 80L",
       "contact": {
-        "org": "Singapore Association of the Visually Handicapped",
-        "name": "Steven Yew Kwok Wai",
-        "email": "steven@savh.org.sg",
+        "org": "THK Family Service Centre @ MacPherson",
+        "name": "Amanda Tan",
+        "email": "amandatan@thkmc.org.sg",
         "phone": [
-          "62514331ext507",
-          "62514331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Dec 2024"
-    },
-    {
-      "id": "140767",
-      "category": "Others",
-      "name": "Electric nail clipper",
-      "description": "Client 62, low vision, under financial assistance lives with brother. Due to his low vision, he is unable to perform nails cutting on his own fingers and toes, he has to trouble his brother to do the cutting and trimming for him, thus, he is seeking help from Pass It On and request an electric nail clipper (suitable for visually impairment) so he is able to perform nails cutting for himself.",
-      "specifications": "electric nail clipper (suitable for visually impairment)",
-      "contact": {
-        "org": "Singapore Association of the Visually Handicapped",
-        "name": "Steven Yew Kwok Wai",
-        "email": "steven@savh.org.sg",
-        "phone": [
-          "62514331ext507",
-          "62514331"
+          "67414255"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2476,6 +2457,24 @@
       "date": "18 Nov 2024"
     },
     {
+      "id": "140769",
+      "category": "Electrical Home Appliances",
+      "name": "Air Fryer",
+      "description": "Youth Service @ Children’s Society requires\nan Air Fryer for a needy family with no preference in brands.\nIt is a family comprising of two elderly grandparents caring for two primary school grandchildren. Parents of the children do not contribute financially to support the child. Grandmother works as a cleaner and grandfather is unfit for work due to his poor health. \nDelivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society Corporate Office",
+        "name": "Kartini",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "69787279",
+          "62732010"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Dec 2024"
+    },
+    {
       "id": "140764",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -3709,6 +3708,23 @@
       "date": "03 Dec 2024"
     },
     {
+      "id": "140786",
+      "category": "Medical Aids",
+      "name": "Adult Diaper (M size, pant) )",
+      "description": "Client is earning low wages and caring for two aged parents who have multiple health issues. Client's parent required M size diaper (pants) for daily use.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Rachel Fu",
+        "email": "rachel.fu@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Dec 2024"
+    },
+    {
       "id": "137237",
       "category": "Medical Aids",
       "name": "HospiCare Antibacterial Adult Body Wipes",
@@ -4852,6 +4868,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "140773",
+      "name": "washing machines w Dryer 6kg",
+      "description": "used washing machines with Dryer 6kg",
+      "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+      "validTill": "02 Jan 2025",
+      "ageInYears": 4,
+      "dimensions": "85x60x50",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "140737",
       "name": "Mistral Standing Fan 18”",
       "description": "Used standing fan that is still in working condition",
@@ -4883,6 +4910,28 @@
       "dimensions": "As photo",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "140771",
+      "name": "Queen bed",
+      "description": "used bed frame with mattress",
+      "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+      "validTill": "02 Jan 2025",
+      "ageInYears": 4,
+      "dimensions": "1905x 1525x 1067",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "140770",
+      "name": "Single Bed",
+      "description": "used single bed frame with mattress",
+      "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+      "validTill": "02 Jan 2025",
+      "ageInYears": 2,
+      "dimensions": "200x 91 x 95",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "140751",
@@ -4940,17 +4989,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "140691",
-      "name": "Extendable rack",
-      "description": "New rack. Width 48cm x 32cm height x 67cm extendable to 88cm. Self-assembly. Self-collection at home address.",
-      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-      "validTill": "14 Jan 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "140688",
       "name": "Preloved dining chairs",
       "description": "3x Preloved dining chairs - grey color (leather).",
@@ -4969,17 +5007,6 @@
       "validTill": "05 Jan 2025",
       "ageInYears": 4,
       "dimensions": "200x150cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "140686",
-      "name": "5 tier book shelf and study table",
-      "description": "Best if you can collect both the self and study table  \n\nPlease call or WhatsApp me.",
-      "location": "Stevens ",
-      "validTill": "05 Jan 2025",
-      "ageInYears": 2,
-      "dimensions": "Shelf -180x60x24cm, table -100x75x35cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -5171,17 +5198,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "140196",
-      "name": "LAUNDRY HANGER",
-      "description": "Laundry hanger to dry clothes either indoors or outdoors. Item is used less than two years. Will cover delivery.",
-      "location": "Braddell , Macpherson, Potong Pasir",
-      "validTill": "22 Dec 2024",
-      "ageInYears": 2,
-      "dimensions": "133x86x154cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "140384",
       "name": "Table",
       "description": "A stable, wide n good-condition study table to give away. \nFind it too big for my bedroom. \nFeel free to contact me if you have any clients happen to need a study table.",
@@ -5224,17 +5240,6 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
-    },
-    {
-      "id": "140760",
-      "name": "Desiring diaper cream",
-      "description": "Desitin diaper cream\n- daily defence (BLUE box) x4; expiry Jul 2026\n- maximum strength (PURPLE box) x2; expiry Jul 2025",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "16 Jan 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
     },
     {
       "id": "140741",
@@ -5618,6 +5623,28 @@
       "validTill": "31 Dec 2024",
       "ageInYears": 1,
       "dimensions": "Adjustable",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "140774",
+      "name": "Commode- (toilet bathing chair)",
+      "description": "Like new. Used for 1 month.",
+      "location": "Woodlands",
+      "validTill": "31 Dec 2024",
+      "ageInYears": 1,
+      "dimensions": "H92cm; L40cm; W50cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "140775",
+      "name": "Commode- (toilet bathing chair)",
+      "description": "Like new. Used for 1 month.",
+      "location": "Woodlands",
+      "validTill": "31 Dec 2024",
+      "ageInYears": 1,
+      "dimensions": "H92cm; L40cm; W50cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
     },
