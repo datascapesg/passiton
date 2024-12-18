@@ -2564,24 +2564,6 @@
       "date": "18 Dec 2024"
     },
     {
-      "id": "140793",
-      "category": "Electrical Home Appliances",
-      "name": "fridge",
-      "description": "Family of 3 (F62, M61 & M20) staying in a public rental flat in Woodlands is financially tight and their fridge is leaking. They would appreciate a donation/sponsorship for a halal fridge.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Woodlands",
-        "name": "Nur Farizan Hashim",
-        "email": "nur_farizan_hashim@msf.gov.sg",
-        "phone": [
-          "60138532",
-          "67660097"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Dec 2024"
-    },
-    {
       "id": "140769",
       "category": "Electrical Home Appliances",
       "name": "Air Fryer",
@@ -5720,10 +5702,43 @@
       "category": "Learning Aids"
     },
     {
+      "id": "140827",
+      "name": "Sanitizier",
+      "description": "Rinse Free Hand Sanitizer",
+      "location": "SengKang",
+      "validTill": "31 Dec 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
+    },
+    {
+      "id": "140826",
+      "name": "Alcohol Wipes",
+      "description": "Isopropyl Alcohol 70%, new",
+      "location": "SengKang",
+      "validTill": "31 Dec 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
+    },
+    {
+      "id": "140825",
+      "name": "Examination Gloves",
+      "description": "New, Powder Free, Size L",
+      "location": "SengKang",
+      "validTill": "31 Dec 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
+    },
+    {
       "id": "140824",
       "name": "Adult Body Wipes",
       "description": "Unused, New",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "location": "SengKang",
       "validTill": "31 Dec 2024",
       "ageInYears": 1,
       "dimensions": null,
@@ -5734,7 +5749,7 @@
       "id": "140823",
       "name": "Absorbent Under pad",
       "description": "Not opened",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "location": "SengKang",
       "validTill": "31 Dec 2024",
       "ageInYears": 1,
       "dimensions": null,
@@ -5844,7 +5859,7 @@
       "id": "140822",
       "name": "Mobile Commodes",
       "description": "Newly bought",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "location": "SengKang",
       "validTill": "31 Dec 2024",
       "ageInYears": 1,
       "dimensions": null,
@@ -5855,7 +5870,7 @@
       "id": "140821",
       "name": "Light weight wheelchair",
       "description": "No problem with wheelchair function",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "location": "SengKang",
       "validTill": "31 Dec 2024",
       "ageInYears": 1,
       "dimensions": null,
