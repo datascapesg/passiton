@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "140800",
+      "category": "Others",
+      "name": "Ensure plus milk feed packets",
+      "description": "Homme hospice patient requires milk feed (4-5 x 200ml packet a day) to supplement his diet as his appetite decreased. Milk feed will ensure that he remains nourished.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Cancer Society",
+        "name": "Tan Wen Shi",
+        "email": "wenshi_tan@singaporecancersociety.org.sg",
+        "phone": [
+          "1800-727-3333",
+          "62219578"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Dec 2024"
+    },
+    {
       "id": "139571",
       "category": "Others",
       "name": "Mobile Phone",
@@ -3743,6 +3761,24 @@
       "date": "03 Dec 2024"
     },
     {
+      "id": "140799",
+      "category": "Medical Aids",
+      "name": "Adult diapers size L tape",
+      "description": "Home hospice elderly patient requires adult diapers due to mobility issue. Family finds it hard to afford it.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Cancer Society",
+        "name": "Tan Wen Shi",
+        "email": "wenshi_tan@singaporecancersociety.org.sg",
+        "phone": [
+          "1800-727-3333",
+          "62219578"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Dec 2024"
+    },
+    {
       "id": "140786",
       "category": "Medical Aids",
       "name": "Adult Diaper (M size, pant) )",
@@ -5052,6 +5088,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "140801",
+      "name": "Mattress king size with cover protector & bedsheets",
+      "description": "Mattress king size with cover protector & bedsheets, no bed frame",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "17 Jan 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "140797",
       "name": "Queen size Duvet /Quilt",
       "description": "Jean Perry Queen size duvet/quilt \nUsed once only \nWashed and in very good condition \n\nCollect this anytime",
@@ -5103,17 +5150,6 @@
       "validTill": "16 Jan 2025",
       "ageInYears": 1,
       "dimensions": "80cm diameter by 75cm tall",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "140717",
-      "name": "Queen size bedframe with storage",
-      "description": "Queen sized bed frame with storage, almost perfect condition, about 1 year of use.",
-      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-      "validTill": "20 Dec 2024",
-      "ageInYears": 1,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
