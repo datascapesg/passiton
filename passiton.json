@@ -4437,24 +4437,6 @@
       "date": "19 Nov 2024"
     },
     {
-      "id": "140840",
-      "category": "Home Furnishing",
-      "name": "Sofa",
-      "description": "The client is a single mom of 2 young children and is currently pregnant. She is unemployed and only depends on Comcare financial assistance, which is insufficient for her family. She just moved to her new rental flat and needs a sofa and TV for her new house. She would appreciate it if a kind donor could help her with the items for her new house.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-        "name": "Joel Tay",
-        "email": "joeltay@allkin.org.sg",
-        "phone": [
-          "65536643",
-          "64535349"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Dec 2024"
-    },
-    {
       "id": "140837",
       "category": "Home Furnishing",
       "name": "Cupboard",
@@ -5268,6 +5250,39 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "140859",
+      "name": "Queen Size Mattress",
+      "description": "Unused mattress still wrapped in plastic, with a small tear to give mattress breathing space. Reason to donate is because it came with the unit I just moved into, but I already have an existing mattress.",
+      "location": null,
+      "validTill": "10 Jan 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "140858",
+      "name": "Sofa",
+      "description": "Can sit up to 5 paxs",
+      "location": "Balestier, Toa Payoh",
+      "validTill": "18 Jan 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "140855",
+      "name": "Storage rack",
+      "description": "This can also be used for other storage purposes such as in the kitchen.",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "18 Jan 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "140854",
       "name": "Computer shelf organiser",
       "description": "Can put light items on the top shelf and place laptop or monitor screen at the bottom",
@@ -5330,17 +5345,6 @@
       "validTill": "17 Jan 2025",
       "ageInYears": 4,
       "dimensions": "L191cm x W94cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "140770",
-      "name": "Single Bed",
-      "description": "used single bed frame with mattress",
-      "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-      "validTill": "02 Jan 2025",
-      "ageInYears": 2,
-      "dimensions": "200x 91 x 95",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -5473,17 +5477,6 @@
       "validTill": "11 Jan 2025",
       "ageInYears": 1,
       "dimensions": "130 x 80 x 74 cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "140599",
-      "name": "TODDLER BED",
-      "description": "A nice toddler bed made from wood with super clean mattress. Original price is about 1k SGD.",
-      "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-      "validTill": "11 Jan 2025",
-      "ageInYears": 2,
-      "dimensions": "140*70*40",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -5761,6 +5754,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Kitchen Utility Items"
+    },
+    {
+      "id": "140856",
+      "name": "Exercise bike",
+      "description": "Lightly used equipment. Still in working condition",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "31 Dec 2024",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Leisure and Healthy Lifestyle"
     },
     {
       "id": "140649",
@@ -6113,6 +6117,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "140857",
+      "name": "Geriatric chair",
+      "description": "item was being use less than 3 months. Wish to donate out to the less fortunate people who needs it more. Thank you",
+      "location": "Boon Lay, Jurong, Tuas",
+      "validTill": "18 Jan 2025",
+      "ageInYears": 1,
+      "dimensions": "height 120mm x width 60mm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "140696",
