@@ -781,6 +781,28 @@
     "category": "Medical Aids"
   },
   {
+    "id": "140876",
+    "name": "Hospital bed",
+    "description": "Only use for 2 months\nWill give pressure mattress",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "18 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "140875",
+    "name": "Detachable wheelchair",
+    "description": "Wheelchair use for 2 years",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "18 Jan 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "140874",
     "name": "Shower Chair",
     "description": "Both shower chair in good conditions.",
