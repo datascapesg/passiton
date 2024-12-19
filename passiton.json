@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "140863",
+      "category": "Others",
+      "name": "8 units of tablets",
+      "description": "Our nursing home requires 8 units of tablet to support video call between elderlies and their families and friends. Our current tablets are in poor condition and already more than 4 years.",
+      "specifications": "10 inches 4G",
+      "contact": {
+        "org": "Ju Eng Home For Senior Citizens",
+        "name": "Lee Jun Hui",
+        "email": "junhui@jeh.org.sg",
+        "phone": [
+          "64846890ext127",
+          "64846890"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Dec 2024"
+    },
+    {
       "id": "140850",
       "category": "Others",
       "name": "Apple Iphone",
@@ -1446,24 +1464,6 @@
       "date": "16 Dec 2024"
     },
     {
-      "id": "140713",
-      "category": "Infant and Children Items",
-      "name": "Brest Pump",
-      "description": "Client, 30 years old, had just given birth to newborn. Husband is working part time due to pending NS enlistment. Client is struggling financially to provide newborn necessities due to limited financial resources.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Jurong",
-        "name": "Shree Ganga D/O Rajasagran",
-        "email": "ShreeGanga@thkmc.org.sg",
-        "phone": [
-          "88333080",
-          "67169466"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Dec 2024"
-    },
-    {
       "id": "140678",
       "category": "Infant and Children Items",
       "name": "Dumex Dulac Stage 2 & Diapers L size",
@@ -2493,24 +2493,6 @@
       "date": "19 Dec 2024"
     },
     {
-      "id": "140841",
-      "category": "Electrical Home Appliances",
-      "name": "TV",
-      "description": "The client is a single mom of 2 young children and is currently pregnant. She is unemployed and only depends on Comcare financial assistance, which is insufficient for her family. She just moved to her new rental flat and needs a sofa and TV for her new house. She would appreciate it if a kind donor could help her with the items for her new house.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-        "name": "Joel Tay",
-        "email": "joeltay@allkin.org.sg",
-        "phone": [
-          "65536643",
-          "64535349"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Dec 2024"
-    },
-    {
       "id": "140839",
       "category": "Electrical Home Appliances",
       "name": "Television",
@@ -2665,24 +2647,6 @@
         "phone": [
           "64546678",
           "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Dec 2024"
-    },
-    {
-      "id": "140755",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Family of 6 living in rental unit requires a new/pre-loved refrigerator as the existing one is breaking down. Parents are committed to ensure 4 children are consuming food that aids in their growth. Father is the sole breadwinner and mother is a full-time caregiver.",
-      "specifications": null,
-      "contact": {
-        "org": "REACH Family Service Centre",
-        "name": "Joey Su",
-        "email": "joey.su@reach.org.sg",
-        "phone": [
-          "60118474",
-          "62522566"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -4561,23 +4525,6 @@
       "date": "18 Dec 2024"
     },
     {
-      "id": "140788",
-      "category": "Home Furnishing",
-      "name": "Dining Table",
-      "description": "Client is a single mother to 4 school-going children. Client and her children were seeking accommodation at her parent's residence whilst she was undergoing divorce proceedings. Client had to forgo her job in order to navigate\nsettling her divorce and managing the caregiving needs of the children and was dependent on community agencies in sustaining the basic needs of the family. Client recently secured a HDB rental flat following finalisation of her divorce and hopes to seek support in securing preloved essential household items for her new home. Client is in the midst of exploring job opportunities and at present has scarce financial resources for furnishing her new home.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
-        "name": "Sabrina Than",
-        "email": "sabrinathan@mws.sg",
-        "phone": [
-          "62828558"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Dec 2024"
-    },
-    {
       "id": "140761",
       "category": "Home Furnishing",
       "name": "Super single bed set",
@@ -4590,24 +4537,6 @@
         "phone": [
           "69783516",
           "62672900"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Dec 2024"
-    },
-    {
-      "id": "140756",
-      "category": "Home Furnishing",
-      "name": "Dining table set (w 4 chairs)",
-      "description": "Sample: https://tinyurl.com/diningtablefor4\n\nFamily of 6 living in rental unit requires a new/pre-loved dining table set with 4 chairs. Father is the sole breadwinner and mother is a full-time caregiver caring for 4 young children.",
-      "specifications": null,
-      "contact": {
-        "org": "REACH Family Service Centre",
-        "name": "Joey Su",
-        "email": "joey.su@reach.org.sg",
-        "phone": [
-          "60118474",
-          "62522566"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -5206,6 +5135,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "140861",
+      "name": "Vaccum Cleaner (Dreame R10 Pro)",
+      "description": "Cordless handheld vacuum cleaner with charger and attachments. Still working very well. About 2kg.",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "18 Jan 2025",
+      "ageInYears": 2,
+      "dimensions": "110cm x 26cm x 23cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "140848",
       "name": "Oven Toaster",
       "description": "Almost New",
@@ -5248,6 +5188,17 @@
       "dimensions": "As photo",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "140862",
+      "name": "IKEA Adde Chairs",
+      "description": "I have 4 of these black Adde chairs from IKEA, used it at dining table previously but have bought a new set recently so giving these away to those who need it.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "31 Dec 2024",
+      "ageInYears": 3,
+      "dimensions": "47*39*77cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "140859",
@@ -5578,6 +5529,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "140860",
+      "name": "Fu Sing",
+      "description": "Item is in good condition. Donating away as my child has outgrown it and we have bought a new one instead.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "31 Dec 2024",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "140853",
