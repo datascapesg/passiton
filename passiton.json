@@ -2698,24 +2698,6 @@
       "date": "03 Dec 2024"
     },
     {
-      "id": "140197",
-      "category": "Electrical Home Appliances",
-      "name": "TV",
-      "description": "Elderly lady living alone in rental unit  needed a tv. She has stopped work for at least a decade due hand injury and weak legs. Her only engagement now is watching tv. She relies on public assistance for livings expenses and unable to afford a new TV.",
-      "specifications": "32 inch",
-      "contact": {
-        "org": "Filos Community Services Ltd",
-        "name": "Bobo Lee",
-        "email": "bobo@filos.sg",
-        "phone": [
-          "62411503",
-          "62425978"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Dec 2024"
-    },
-    {
       "id": "140191",
       "category": "Electrical Home Appliances",
       "name": "washing machine",
@@ -4913,6 +4895,17 @@
       "category": "Leisure and Healthy Lifestyle"
     },
     {
+      "id": "141011",
+      "name": "Electric piano",
+      "description": "Electric piano ideal for children to learn piano",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "24 Jan 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Learning Aids"
+    },
+    {
       "id": "140515",
       "name": "Pen holder",
       "description": "2 nos. of pen holders.\n\nDelivery on weekday evening and weekend.",
@@ -5065,6 +5058,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "141010",
+      "name": "Commode Chair",
+      "description": "Right-hand side handle bit wear-off.\n\nIt would be great if recipient can self-collect too.",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "24 Jan 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "141009",
