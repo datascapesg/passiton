@@ -1079,24 +1079,6 @@
       "date": "26 Dec 2024"
     },
     {
-      "id": "140954",
-      "category": "Medical Aids",
-      "name": "Walking Stick",
-      "description": "An elderly who requires a walking stick as his current one is broken.\nDonor can contact 9723 2207.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - GoodLife! @ Telok Blangah",
-        "name": "Judy Tay",
-        "email": "judy.tay@montfortcare.org.sg",
-        "phone": [
-          "62746904",
-          "62708327"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Dec 2024"
-    },
-    {
       "id": "140891",
       "category": "Medical Aids",
       "name": "Tena Adult diaper",
@@ -4333,6 +4315,17 @@
     }
   ],
   "offers": [
+    {
+      "id": "141044",
+      "name": "Male clothes",
+      "description": "Pre loved jeans and long pants\nCollared and round neck tee shirts",
+      "location": null,
+      "validTill": "25 Jan 2025",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Attires/Clothings"
+    },
     {
       "id": "140684",
       "name": "Ladies Shoe",
