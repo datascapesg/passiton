@@ -3337,23 +3337,6 @@
       "date": "02 Jan 2025"
     },
     {
-      "id": "141288",
-      "category": "Home Furnishing",
-      "name": "Single-size Mattress",
-      "description": "Family has two adult children with special needs. Existing mattress is in poor condition due to repeated soiling. Family has limited finances. Both parents are aged, have health conditions and are unable to work.",
-      "specifications": null,
-      "contact": {
-        "org": "MINDS Home-Based Care Services (HBCS)",
-        "name": "Khor Hao Yu",
-        "email": "haoyu.khor@minds.org.sg",
-        "phone": [
-          "65478503"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Jan 2025"
-    },
-    {
       "id": "141285",
       "category": "Home Furnishing",
       "name": "Single bed frame",
@@ -3863,40 +3846,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "02 Dec 2024"
-    },
-    {
-      "id": "141292",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "Male client who has stroke in his 70s needs a wheelchair for his home as his current wheelchair has spoilt. He needs it to help him travel around the house and be independent.",
-      "specifications": null,
-      "contact": {
-        "org": "NTUC Health Cluster Support - Taman Jurong",
-        "name": "Muhammad Azfar Bin Nazri",
-        "email": "muhammadazfar.b@ntuchealth.sg",
-        "phone": [
-          "62674197"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Jan 2025"
-    },
-    {
-      "id": "141291",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "Female client who has leg amputation needs wheelchair for her to travel to Polyclinic for her appointments. She is relatively big size and may need a bigger wheelchair.",
-      "specifications": null,
-      "contact": {
-        "org": "NTUC Health Cluster Support - Taman Jurong",
-        "name": "Muhammad Azfar Bin Nazri",
-        "email": "muhammadazfar.b@ntuchealth.sg",
-        "phone": [
-          "62674197"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Jan 2025"
     },
     {
       "id": "141256",
@@ -4536,6 +4485,17 @@
       "dimensions": "Worktop Cut-Out: 490x270 mm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "141295",
+      "name": "Workdesk",
+      "description": "Width (cm): 120\nDepth (cm): 48\nHeight (cm): 76",
+      "location": "Boon Lay, Jurong, Tuas",
+      "validTill": "30 Jan 2025",
+      "ageInYears": 1,
+      "dimensions": "Width (cm): 120 Depth (cm): 48 Height (cm): 76",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "141294",
