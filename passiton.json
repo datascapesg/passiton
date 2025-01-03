@@ -126,24 +126,6 @@
       "date": "02 Jan 2025"
     },
     {
-      "id": "141276",
-      "category": "Infant and Children Items",
-      "name": "Breast pump",
-      "description": "Client is a single mother to 3 children. She is currently unemployed due to high caregiving needs of her child with ADHD and discomfort experienced due to her pregnancy. She requires a breast pump.",
-      "specifications": "-",
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Hannah Lim",
-        "email": "hannahlimzhixin@fycs.org",
-        "phone": [
-          "69783487",
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Jan 2025"
-    },
-    {
       "id": "141275",
       "category": "Infant and Children Items",
       "name": "Baby stroller",
@@ -4180,6 +4162,24 @@
       "date": "05 Dec 2024"
     },
     {
+      "id": "141331",
+      "category": "Medical Aids",
+      "name": "Glucometer",
+      "description": "This is a 63-year-old uncle who is doing his dialysis three times a week. He is staying alone in a rental flat and he needs help with a donated glucometer for his own monitoring of his blood sugar level.   He suffered a fall recently and he is not able to work. Has been on financial assistance for his basic needs and unable to afford a glucometer.",
+      "specifications": "1",
+      "contact": {
+        "org": "National Kidney Foundation (NKF)",
+        "name": "Margaret Ng",
+        "email": "margaret.ng@nkfs.org",
+        "phone": [
+          "63593643",
+          "65062244"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "03 Jan 2025"
+    },
+    {
       "id": "141027",
       "category": "Medical Aids",
       "name": "Glucose Meter",
@@ -4665,6 +4665,17 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "141330",
+      "name": "Kids Bicycle",
+      "description": "Kids bicycle",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "02 Feb 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
       "id": "141242",
       "name": "Nan optripro 3",
       "description": "- Milk powder brand new. Given by Nan\n- Baby walker \n- Sensory toys less than 1 year old in new condition",
@@ -4780,28 +4791,6 @@
       "description": "Delivery on weekday evening and weekend.",
       "location": null,
       "validTill": "20 Jan 2025",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Kitchen Utility Items"
-    },
-    {
-      "id": "140934",
-      "name": "Can opener and jar lid opener",
-      "description": "Delivery on weekday evening and weekend.",
-      "location": null,
-      "validTill": "20 Jan 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Kitchen Utility Items"
-    },
-    {
-      "id": "140645",
-      "name": "Stainless steel mug",
-      "description": "Delivery on weekday evening and weekend.",
-      "location": null,
-      "validTill": "12 Jan 2025",
       "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
