@@ -1,24 +1,6 @@
 {
   "requests": [
     {
-      "id": "141312",
-      "category": "Infant and Children Items",
-      "name": "Isomilk Stage 3",
-      "description": "Client is a 6 years old who was diagnosed with leukemia. He stays with his parents and 4 younger siblings who are still schooling. His mother is the caregiver and father is the only sole income earner.",
-      "specifications": "850gm",
-      "contact": {
-        "org": "AIN Society",
-        "name": "Norhashimah Binti Kamarudin",
-        "email": "shimah@ainsociety.org.sg",
-        "phone": [
-          "68485163",
-          "68485166"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Jan 2025"
-    },
-    {
       "id": "141311",
       "category": "Infant and Children Items",
       "name": "Pediasure Gold Vanilla",
@@ -4023,6 +4005,28 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "141357",
+      "name": "MacBook Air 13 inch, Model A1466 (T)",
+      "description": "Key Specifications:\n\n13.3-inch LED-backlit display (1440 x 900 resolution)\nIntel Core i7 dual-core processor (2.2GHz)\n8GB RAM (standard configuration)\nIntel HD Graphics 6000\nBuilt-in 720p FaceTime HD camera\nTwo USB 3.0 ports\nThunderbolt 2 port\nSDXC card slot\nMagSafe 2 power port w/ power Supply\nWeight: 2.96 pounds (1.35 kg)\nHDD/SSD: 500GB SSD\n\nmacOS supported up to macOS Monterey",
+      "location": "Cairnhill, Killiney, Orchard, River Valley",
+      "validTill": "03 Feb 2025",
+      "ageInYears": 4,
+      "dimensions": "32.5 cm x 22.7 cm x 1.7 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "141356",
+      "name": "Laptop sleeve (for 11.6 inch laptop) - Black",
+      "description": "Form-fitting sleeve with quick top-loading access. Brand new unused.\n\nPrecise fit for laptops and ultrabooks with a 11.6 inch display\n\nSlim design allows you to carry the case by itself or in a bag dimensions: 11\" x 8.5\" x 0.4\" (LxWxH inches)\n\nSee https://a.co/d/hjkVCkF",
+      "location": "Cairnhill, Killiney, Orchard, River Valley",
+      "validTill": "03 Feb 2025",
+      "ageInYears": 1,
+      "dimensions": "11\" x 8.5\" x 0.4\" (LxWxH inches)",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "141232",
       "name": "Standing Fan",
       "description": "Repaired 16 inch fan\ncan turn \npower 1 wind is very small\nI live in the east so I can only deliver to North, South, East and West until Chinatown",
@@ -4054,6 +4058,39 @@
       "dimensions": "Worktop Cut-Out: 490x270 mm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "141360",
+      "name": "Small standing table for room",
+      "description": "Can be put by bedside",
+      "location": null,
+      "validTill": "03 Feb 2025",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "141359",
+      "name": "Two Small Cabinets",
+      "description": "Two Cabinets to give away. One cabinet has a small crack. Still in good condition. Seldom used.",
+      "location": "Seletar, Yio Chu Kang",
+      "validTill": "10 Jan 2025",
+      "ageInYears": 4,
+      "dimensions": "H50 x W45 x L42cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "141358",
+      "name": "Standing mirror",
+      "description": "Standing mirror",
+      "location": null,
+      "validTill": "03 Feb 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "141354",
