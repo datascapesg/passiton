@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "141435",
+      "category": "Infant and Children Items",
+      "name": "Baby Stroller",
+      "description": "Member's (F/19) has a 5-month-old infant. She lives in a one-room rental flat with her child. She does not have financial means to purchase a baby stroller. Her child has been falling sick and she needs to bring him to the hospital regularly. Shed hopes to be able to receive a baby stroller to help her in bringing the child around.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Quak Mei Qing",
+        "email": "meiqing@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Jan 2025"
+    },
+    {
       "id": "137607",
       "category": "Infant and Children Items",
       "name": "Lactogen stage 1",
@@ -3790,6 +3807,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "141432",
+      "name": "Coffee machine Gaggia automatic",
+      "description": "Automatic machine, makes good coffee from beans, good brand. Can deliver on weekends.",
+      "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+      "validTill": "05 Feb 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "141386",
       "name": "Shower head set",
       "description": "Delivery on weekday evening and weekend.",
@@ -3841,6 +3869,17 @@
       "validTill": "29 Jan 2025",
       "ageInYears": 4,
       "dimensions": "23x23x37",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "141433",
+      "name": "KDK Standing Fan",
+      "description": "Light grey.  The fan head oscillates and has a timer and 3 speeds. The fan blades are a little dusty and the wire frame a little rusty. Works perfectly.  I am only giving it away because I am moving to a small place.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "10 Jan 2025",
+      "ageInYears": 4,
+      "dimensions": "1.4 m - height is adjustable;  Fan head is 47cm diameter",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
     },
@@ -4558,6 +4597,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "141434",
+      "name": "3 crank electrical bed",
+      "description": "The bed is still in good condition",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "09 Jan 2025",
+      "ageInYears": 3,
+      "dimensions": "211cm x 109cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "141353",
