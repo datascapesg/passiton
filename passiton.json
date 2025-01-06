@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "141413",
+      "category": "Infant and Children Items",
+      "name": "Twin baby pram",
+      "description": "Client has 4 kids and is currently pregnant with a baby. Client experiences caregiving and financial stress as her husband has variable income due to workplace injury affecting their household finances.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services SSO @ Taman Jurong",
+        "name": "Chan Yvonne",
+        "email": "yvonne-chan@fycs.org",
+        "phone": [
+          "69783516",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Jan 2025"
+    },
+    {
       "id": "141409",
       "category": "Infant and Children Items",
       "name": "Milk and Diapers",
@@ -1530,23 +1548,6 @@
       "date": "17 Dec 2024"
     },
     {
-      "id": "140734",
-      "category": "Others",
-      "name": "Microwave",
-      "description": "Client is a single mother who has challenges caregiving for 2 young children. She is currently unemployed as well due to depression hence she is unable to sustain on basic needs for now and struggles financially. Currently, her household appliances are faulty and will need replacement of the items for her daily use.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Sengkang 223D",
-        "name": "Nurul Nadiah Binte Mustapha",
-        "email": "nurulnadiah@allkin.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Dec 2024"
-    },
-    {
       "id": "131258",
       "category": "Others",
       "name": "Hiking Camping Equipment Terrain Transport Trolley",
@@ -2352,23 +2353,6 @@
       "date": "06 Jan 2025"
     },
     {
-      "id": "141397",
-      "category": "Electrical Home Appliances",
-      "name": "Microwave Oven",
-      "description": "Client, who is single and lives in a rental flat, is dependent on financial assistance to meet her daily needs. Hence, she does not have the means to purchase a microwave oven and would benefit from a secondhand one that is still in good condition.",
-      "specifications": "Any dimensions",
-      "contact": {
-        "org": "Montfort Care - @27 Family Service Centre",
-        "name": "Lee Yu Jun",
-        "email": "yujun.lee@montfortcare.org.sg",
-        "phone": [
-          "62708327"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Jan 2025"
-    },
-    {
       "id": "141339",
       "category": "Electrical Home Appliances",
       "name": "Smart TV or TV with antenna, and TV console cabinet",
@@ -3084,6 +3068,23 @@
       "date": "06 Dec 2024"
     },
     {
+      "id": "141414",
+      "category": "Mobility Aids",
+      "name": "Walking stick",
+      "description": "66 y/o male senior, unemployed, staying alone in rented 1-room HDB, suffers from breathlessness and lack of physical strength due to COPD. The senior requires a single-legged walking stick to assist with his mobility and stability when ambulates in the community.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Cluster Support @ Bedok",
+        "name": "Lee Wei Kit",
+        "email": "lee.weikit@thkmc.org.sg",
+        "phone": [
+          "62418171"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Jan 2025"
+    },
+    {
       "id": "141332",
       "category": "Mobility Aids",
       "name": "Motorized Wheelchair/Scooter",
@@ -3583,6 +3584,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "141412",
+      "name": "Round coffee table",
+      "description": "Round coffee table to give away",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "20 Jan 2025",
+      "ageInYears": 4,
+      "dimensions": "120 w x 46 h",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "141411",
       "name": "Glass Study Table with Stainless Steel Legs",
       "description": "Fully wrapped and protected glass study table - in good condition. It was well used and always kept indoors. We are giving it away because we replaced it with a movable desk - this is in working condition. I apologise for the pics as we wrapped it for protection and prevent my nephew from knocking into it when he returns home.",
@@ -3623,17 +3635,6 @@
       "validTill": "05 Feb 2025",
       "ageInYears": 4,
       "dimensions": "Single",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "141390",
-      "name": "White Dining Table Set with Bench + 2 chairs",
-      "description": "White dining table set, comes with 2 chairs and a bench. Length is 145cm and width is 85cm. Height is 75cm.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "19 Jan 2025",
-      "ageInYears": 4,
-      "dimensions": "145 x 85 x 75",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
