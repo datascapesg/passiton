@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "137607",
+      "category": "Infant and Children Items",
+      "name": "Lactogen stage 1",
+      "description": "A mom of 8 going through some financial difficulties is seeking help with baby milk powder till she is able to start work",
+      "specifications": "2 x 1.6kg lactogen stage 1",
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Nurhidayah Binte Sazali",
+        "email": "hidayah@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "06 Jan 2025"
+    },
+    {
       "id": "141413",
       "category": "Infant and Children Items",
       "name": "Twin baby pram",
@@ -1827,6 +1844,23 @@
       "date": "12 Dec 2024"
     },
     {
+      "id": "141420",
+      "category": "Home Furnishing",
+      "name": "wadrobe",
+      "description": "A family of 8 requires a wadrobe for the family as the one they currently have is no longer functioning.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Nurhidayah Binte Sazali",
+        "email": "hidayah@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Jan 2025"
+    },
+    {
       "id": "141419",
       "category": "Home Furnishing",
       "name": "Single bed frame with mattress",
@@ -3584,17 +3618,6 @@
       "location": null,
       "validTill": "05 Feb 2025",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "141403",
-      "name": "Belkin Iphone & airpod charger",
-      "description": "Barely used Belkin Iphone and airpod charger",
-      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-      "validTill": "05 Feb 2025",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
