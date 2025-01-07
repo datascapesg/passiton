@@ -264,17 +264,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "141295",
-    "name": "Workdesk",
-    "description": "Width (cm): 120\nDepth (cm): 48\nHeight (cm): 76",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "30 Jan 2025",
-    "ageInYears": 1,
-    "dimensions": "Width (cm): 120 Depth (cm): 48 Height (cm): 76",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "141260",
     "name": "Clothes rack",
     "description": "Delivery on weekday evening and weekend.",
@@ -856,6 +845,17 @@
     "dimensions": "52x48x81",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "141453",
+    "name": "FREE electrical & plumbing work",
+    "description": "FREE electrical work (lighting, sockets, cabling) and plumbing work (changing taps, pipe clog) for elderly",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "06 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "141445",
