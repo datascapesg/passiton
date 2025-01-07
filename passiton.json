@@ -36,40 +36,6 @@
       "date": "07 Jan 2025"
     },
     {
-      "id": "141471",
-      "category": "Infant and Children Items",
-      "name": "Huggies diapers, size for newborn",
-      "description": "Client was recently released from incarceration and she is currently about 7 months pregnant. She has 4 other children. She lacks the resources and essential items needed for a newborn. As such, she is hoping to receive practical support to meet her needs. Client is currently monitored under tagging and has a time restriction of only being able to leave her house from 12pm to 3pm daily. Combined with her pregnancy, these limitations make it challenging for her to secure employment. Client’s partner is currently looking for a job and in the interim, he works once a week in a coffee shop with an income of $40 weekly.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
-        "name": "Sabrina Than",
-        "email": "sabrinathan@mws.sg",
-        "phone": [
-          "62828558"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Jan 2025"
-    },
-    {
-      "id": "141470",
-      "category": "Infant and Children Items",
-      "name": "Baby Cot",
-      "description": "Client was recently released from incarceration and she is currently about 7 months pregnant. She has 4 other children. She lacks the resources and essential items needed for a newborn. As such, she is hoping to receive practical support to meet her needs.  Client is currently monitored under tagging and has a time restriction of only being able to leave her house from 12pm to 3pm daily. Combined with her pregnancy, these limitations make it challenging for her to secure employment. Client’s partner is currently looking for a job and in the interim, he works once a week in a coffee shop with an income of $40 weekly. Client and her partner do not have any savings",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
-        "name": "Sabrina Than",
-        "email": "sabrinathan@mws.sg",
-        "phone": [
-          "62828558"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Jan 2025"
-    },
-    {
       "id": "141469",
       "category": "Infant and Children Items",
       "name": "Halal Breastpump",
@@ -1823,24 +1789,6 @@
       "date": "07 Jan 2025"
     },
     {
-      "id": "141443",
-      "category": "Home Furnishing",
-      "name": "2-seater sofa",
-      "description": "Low income family with a young child needs a 2-seater non-bulky sofa. Preferred material that is easy to wipe (ie faux leather), and have chair leg space below for floor cleaning. If possible, blue or grey colour. Please WhatsApp Grace at 8718 8442 or email to gracelim@thkmc.org.sg to liaise.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Lynette Tan",
-        "email": "lynettetan@thkmc.org.sg",
-        "phone": [
-          "64961272",
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Jan 2025"
-    },
-    {
       "id": "141428",
       "category": "Home Furnishing",
       "name": "Foldable Mattress",
@@ -2995,23 +2943,6 @@
       "date": "09 Dec 2024"
     },
     {
-      "id": "141454",
-      "category": "Attires/Clothings",
-      "name": "Children Clothes",
-      "description": "Client is living in a rental flat with 6 young children (age 5-11). Client recently threw her children's clothes due to bugs infestation. As such, client is hoping to receive some children's clothing (for both boys and girls). Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Karen Ong",
-        "email": "karenong@carecorner.org.sg",
-        "phone": [
-          "64761481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Jan 2025"
-    },
-    {
       "id": "141422",
       "category": "Attires/Clothings",
       "name": "Safety shoes",
@@ -3381,23 +3312,6 @@
       "date": "07 Jan 2025"
     },
     {
-      "id": "141465",
-      "category": "Kitchen Utility Items",
-      "name": "5 Halal Cutlery Sets",
-      "description": "Client was recently released from incarceration and she is currently about 7 months pregnant. She has 4 other children. She lacks the resources and essential items needed for a newborn. As such, she is hoping to receive practical support to meet her needs. Client is currently monitored under tagging and has a time restriction of only being able to leave her house from 12pm to 3pm daily. Combined with her pregnancy, these limitations make it challenging for her to secure employment. Client’s partner is currently looking for a job and in the interim, he works once a week in a coffee shop with an income of $40 weekly. Client and her partner do not have any savings.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
-        "name": "Sabrina Than",
-        "email": "sabrinathan@mws.sg",
-        "phone": [
-          "62828558"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Jan 2025"
-    },
-    {
       "id": "140957",
       "category": "Kitchen Utility Items",
       "name": "Crown Gas Stove",
@@ -3416,6 +3330,17 @@
     }
   ],
   "offers": [
+    {
+      "id": "141486",
+      "name": "Kids clothes",
+      "description": "Preloved Kids clothes",
+      "location": null,
+      "validTill": "31 Jan 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Attires/Clothings"
+    },
     {
       "id": "141366",
       "name": "New shoes",
@@ -3448,6 +3373,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
+    },
+    {
+      "id": "141485",
+      "name": "25L Air Cooler with steriliser",
+      "description": "Item is rarely used.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "01 Feb 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
     },
     {
       "id": "141461",
