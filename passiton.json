@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "138265",
+      "category": "Infant and Children Items",
+      "name": "XL Pull-Up Diapers",
+      "description": "A low income family of 7 currently in need of XL pull-up diapers for their youngest child. Child's father recently underwent a hernia operation and will not have any income as he is unable to work for the next 1-2 months.",
+      "specifications": null,
+      "contact": {
+        "org": "Yong-En Care Centre",
+        "name": "Felix Leo",
+        "email": "felix-leo@yong-en.org.sg",
+        "phone": [
+          "63090571",
+          "62251002"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Jan 2025"
+    },
+    {
       "id": "141522",
       "category": "Infant and Children Items",
       "name": "Children's Educational Toys and Books",
@@ -3307,17 +3325,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "141501",
-      "name": "Queen Bed & Mattress",
-      "description": "Relatively well maintained Ikea queen bed and mattress. Accessories not included.",
-      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-      "validTill": "13 Jan 2025",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "141500",
       "name": "Queen sized mattress with topper 6 monthss old",
       "description": "Check carousell link here\nCheck out 'Seahorse Queen sized mattress with topper (6 months old)', available at S$150 on #Carousell: https://carousell.app.link/4kZ04b5PYPb",
@@ -3578,17 +3585,6 @@
       "validTill": "06 Feb 2025",
       "ageInYears": 2,
       "dimensions": "See description below",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "141481",
-      "name": "Stroller with rotating seat",
-      "description": "Cybex Eezy S Twist 2 stroller, with 360 rotating seat so you can see baby or face them outwards. Almost lie-flat recline.\n\nUsed for 14 months, so there are cosmetic scratches on the frame but it is sturdy and otherwise in great condition.\n\nSeat, hood & basket can all be removed for washing. Has been washed recently & not used since.\n\nNo rain cover or bumper bar.",
-      "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-      "validTill": "31 Jan 2025",
-      "ageInYears": 2,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
     },
@@ -3890,6 +3886,17 @@
       "category": "Medical Aids"
     },
     {
+      "id": "141523",
+      "name": "wheelchair",
+      "description": "Wheelchair",
+      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+      "validTill": "07 Feb 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
       "id": "141439",
       "name": "Walker",
       "description": "Barely used adjustable walker",
@@ -3984,17 +3991,6 @@
       "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
       "validTill": "31 Jan 2025",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Others"
-    },
-    {
-      "id": "141508",
-      "name": "provide transport for those who needy",
-      "description": "provide light bulbs & taps replacement works for low income families",
-      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-      "validTill": "31 Jan 2025",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Others"
