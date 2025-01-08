@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "141522",
+      "category": "Infant and Children Items",
+      "name": "Children's Educational Toys and Books",
+      "description": "Client F/33, a single mother of 4 children, including a 1-year-old, faces financial challenges as part of a low-income household reliant on SSO assistance to cover basic needs. Donations of educational toys and books would greatly support her youngest child's speech and language development.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Regine Yeo",
+        "email": "regine.yeo@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Jan 2025"
+    },
+    {
       "id": "141509",
       "category": "Infant and Children Items",
       "name": "Baby Twin Stroller",
@@ -1719,42 +1736,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "08 Jan 2025"
-    },
-    {
-      "id": "141503",
-      "category": "Home Furnishing",
-      "name": "Sofa",
-      "description": "single mother going through divorce proceedings, with 1 child (3yo). \nclient's house does not have any sofa. parent has leg and back pain, not able to sit on the floor for long periods. \nclient is working but need to take care of all the expenses for the household and the child.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Kreta Ayer",
-        "name": "Natalia Bte Sujangi",
-        "email": "natalia_sujangi@msf.gov.sg",
-        "phone": [
-          "62672928",
-          "1800-222-0000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Jan 2025"
-    },
-    {
-      "id": "141479",
-      "category": "Home Furnishing",
-      "name": "Sofa",
-      "description": "",
-      "specifications": "Sofa",
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "mwsfscy@mws.sg",
-        "phone": [
-          "83688612",
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Jan 2025"
     },
     {
       "id": "141420",
@@ -3984,6 +3965,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "141521",
+      "name": "Bed frame only - queen size",
+      "description": "Queen size bed frame, solid base, light olive green colour, plush soft fabric with back zip - possible to remove it for gentle cleaning.",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "07 Feb 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "141519",
