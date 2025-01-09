@@ -2824,24 +2824,6 @@
       "date": "09 Dec 2024"
     },
     {
-      "id": "141548",
-      "category": "Attires/Clothings",
-      "name": "Court shoes",
-      "description": "A family residing in a rental flat has four school-going children (aged 11, 10, 7, and 5). The eldest child has recently joined the floorball Co-Curricular Activity (CCA) at school, which requires her to wear court shoes. If she wears her normal school shoes, she is prone to falling due to the slippery court surface. The family is unable to afford a pair of court shoes but would be grateful for any brand or colour, as long as they are adult size 41.",
-      "specifications": "adult size 41 court shoes, any brand or colour",
-      "contact": {
-        "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
-        "name": "Belle Teo",
-        "email": "belle_teo@msf.gov.sg",
-        "phone": [
-          "63548976",
-          "18002220000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Jan 2025"
-    },
-    {
       "id": "141422",
       "category": "Attires/Clothings",
       "name": "Safety shoes",
@@ -3331,6 +3313,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "141552",
+      "name": "Dinning Table (extendable: 6-8 persons)",
+      "description": "Extendable dinning table which sits 6 and 8 when extended",
+      "location": null,
+      "validTill": "24 Jan 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "141546",
       "name": "Kids Bunk Bed",
       "description": "Kinds bunk bed with many storage. Good if dismantle and delivery fees to be paid. Thanks.",
@@ -3348,17 +3341,6 @@
       "location": "Cairnhill, Killiney, Orchard, River Valley",
       "validTill": "17 Jan 2025",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "141540",
-      "name": "Shoe Cabinet",
-      "description": "In good condition",
-      "location": "Cairnhill, Killiney, Orchard, River Valley",
-      "validTill": "17 Jan 2025",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
@@ -3404,17 +3386,6 @@
       "validTill": "05 Feb 2025",
       "ageInYears": 2,
       "dimensions": "1200mm x 600mm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "141505",
-      "name": "TV console, chair",
-      "description": "all to be cleared by 27 Jan 2025",
-      "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-      "validTill": "26 Jan 2025",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -3980,6 +3951,50 @@
       "category": "Mobility Aids"
     },
     {
+      "id": "141550",
+      "name": "Bed frame only - queen size",
+      "description": "Queen size bed frame, solid base, light olive green colour, plush soft fabric with back zip - possible to remove it for gentle cleaning.",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "07 Feb 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "141551",
+      "name": "Bed frame only - queen size",
+      "description": "Queen size bed frame, solid base, light olive green colour, plush soft fabric with back zip - possible to remove it for gentle cleaning.",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "07 Feb 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "141554",
+      "name": "Bed frame only - queen size",
+      "description": "Queen size bed frame, solid base, light olive green colour, plush soft fabric with back zip - possible to remove it for gentle cleaning.",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "07 Feb 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "141555",
+      "name": "Bed frame only - queen size",
+      "description": "Queen size bed frame, solid base, light olive green colour, plush soft fabric with back zip - possible to remove it for gentle cleaning.",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "07 Feb 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
       "id": "141519",
       "name": "Ensure liquid milk",
       "description": "1 carton (24 bottles)",
@@ -4002,7 +4017,7 @@
       "category": "Others"
     },
     {
-      "id": "141459",
+      "id": "141553",
       "name": "FREE electrical & plumbing work",
       "description": "FREE electrical work (lighting, sockets, cabling) and plumbing work (changing taps, pipe clog) for elderly",
       "location": "Balestier, Toa Payoh",
