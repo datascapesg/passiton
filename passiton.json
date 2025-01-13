@@ -1,6 +1,60 @@
 {
   "requests": [
     {
+      "id": "132154",
+      "category": "Infant and Children Items",
+      "name": "Pediasure® Gold w Peptigro Vanilla 850g",
+      "description": "Our low-income beneficiaries require assistance with their necessities for their children while they work towards financial stability. These include milk powder and diapers.\n\nClub Rainbow only accepts unopened tins.",
+      "specifications": null,
+      "contact": {
+        "org": "Club Rainbow (Singapore)",
+        "name": "Nurulhuda Binte Abu Bakar",
+        "email": "nurul@clubrainbow.org",
+        "phone": [
+          "81336189",
+          "63771789"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Jan 2025"
+    },
+    {
+      "id": "134350",
+      "category": "Infant and Children Items",
+      "name": "Drypers Drypantz Pants- XL (12 - 17kg)",
+      "description": "Our low-income beneficiaries require assistance with their necessities for their children while they work towards financial stability. These include milk powder and diapers. Club Rainbow only accepts unopened packs",
+      "specifications": null,
+      "contact": {
+        "org": "Club Rainbow (Singapore)",
+        "name": "Nurulhuda Binte Abu Bakar",
+        "email": "nurul@clubrainbow.org",
+        "phone": [
+          "81336189",
+          "63771789"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "13 Jan 2025"
+    },
+    {
+      "id": "132754",
+      "category": "Infant and Children Items",
+      "name": "MamyPoko Extra Dry Skin Boy Pants - XXXL",
+      "description": "MamyPoko Extra Dry Skin Boy Pants - XXXL\n\nOur low-income beneficiaries require assistance with their necessities for their children while they work towards financial stability. These include milk powder and diapers. Club Rainbow only accepts unopened items.",
+      "specifications": null,
+      "contact": {
+        "org": "Club Rainbow (Singapore)",
+        "name": "Nurulhuda Binte Abu Bakar",
+        "email": "nurul@clubrainbow.org",
+        "phone": [
+          "81336189",
+          "63771789"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Jan 2025"
+    },
+    {
       "id": "141654",
       "category": "Infant and Children Items",
       "name": "Milk and Diapers",
@@ -769,6 +823,24 @@
       "date": "13 Dec 2024"
     },
     {
+      "id": "141660",
+      "category": "Others",
+      "name": "A potty seat for a boy, a cupboard, a TV and a dining table and chairs (for max 4 people) small rental home.",
+      "description": "Client is single young mother of 1. She has just secured her own rental home and is transitioning to make it into a safe home environment for herself and son. she is currently seeking employment while her child has just started attending childcare full-time.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Shree Ganga D/O Rajasagran",
+        "email": "ShreeGanga@thkmc.org.sg",
+        "phone": [
+          "88333080",
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Jan 2025"
+    },
+    {
       "id": "141607",
       "category": "Others",
       "name": "Laptop",
@@ -1350,23 +1422,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Dec 2024"
-    },
-    {
-      "id": "141659",
-      "category": "Home Furnishing",
-      "name": "Wardrobe",
-      "description": "Family of 4 is financially stressed, as mother is the sole breadwinner supporting her 3 young children. It would be most helpful if family can get a wardrobe, as they require one for the entire family's clothes. Due to the family's lack of financial resources, it would be helpful if potential donors can send the item to their house directly. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "Whampoa Family Service Centre",
-        "name": "Elijah Koh",
-        "email": "elijahkoh@kkcs.org.sg",
-        "phone": [
-          "63260300"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Jan 2025"
     },
     {
       "id": "141634",
@@ -2613,6 +2668,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "141661",
+      "name": "Dressing Table with Ottoman",
+      "description": "The dressing table has mirrors that can be covered. Including the seating (ottoman).\nThe table height is 75cm, but with the mirror, it's 135cm.",
+      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+      "validTill": "25 Jan 2025",
+      "ageInYears": 2,
+      "dimensions": "125cm x 46cm x 135m",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "141656",
       "name": "Expandable Bed with Mattresses",
       "description": "This expandable bed is in almost brand-new condition. It has been used only 2-3 times for guests. It comes with two good-quality firm single mattresses.\n\nWilling to give away a side table with it and four under-bed storage boxes.\n\nPick up at the earliest.\n\nIn terms of the bed's height, it's 40cm without mattresses.",
@@ -2888,17 +2954,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "141645",
-      "name": "Keen foldable stroller",
-      "description": "Well used stroller. With some additional accessories (cup holder, infant seat cushion, extra unused handbar cover) . Slight tear at the netting but doesn’t impact usability.",
-      "location": null,
-      "validTill": "12 Feb 2025",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
       "id": "141644",
       "name": "Pink baby high chair",
       "description": "Well used baby high chair. Dismantled with all items intact except for 1 missing screw.",
@@ -2982,6 +3037,17 @@
       "location": null,
       "validTill": "28 Jan 2025",
       "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "141662",
+      "name": "Board games",
+      "description": "As shown\nWilling to meet at common meeting point",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "28 Jan 2025",
+      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
