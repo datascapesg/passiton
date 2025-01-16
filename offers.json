@@ -252,6 +252,28 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "141793",
+    "name": "Soft toys",
+    "description": "All new soft toys",
+    "location": null,
+    "validTill": "15 Feb 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "141792",
+    "name": "Kids toys and books",
+    "description": "Numerous good quality toys and books, some brand new, for children 3-5 years old",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "15 Feb 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "141762",
     "name": "Formula Milk Stage 3",
     "description": "eVoucher for powder to be redeemed at FairPrice. Clients must be able to redeem from FairPrice themselves.",
@@ -459,17 +481,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
-  },
-  {
-    "id": "141749",
-    "name": "Fully Motorised German Made Hospital Bed",
-    "description": "Fully Motorised German Made",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "14 Feb 2025",
-    "ageInYears": 2,
-    "dimensions": "Standard Hospital Bed Size",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
   },
   {
     "id": "141626",
