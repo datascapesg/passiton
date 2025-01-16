@@ -1042,6 +1042,24 @@
       "date": "16 Dec 2024"
     },
     {
+      "id": "141779",
+      "category": "Others",
+      "name": "Biscuits",
+      "description": "PPIS FSCW RELIGHT would like to request for 10 or more packets of halal biscuits for its beneficiaries. Thank you! \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Sim Yan Ling",
+        "email": "yanling.sim@ppis.sg",
+        "phone": [
+          "65613462ext503",
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Jan 2025"
+    },
+    {
       "id": "141769",
       "category": "Others",
       "name": "Toiletries",
@@ -1974,24 +1992,6 @@
         "phone": [
           "63254581",
           "64244017"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Jan 2025"
-    },
-    {
-      "id": "141664",
-      "category": "Home Furnishing",
-      "name": "Queen Size Mattress",
-      "description": "Client is a 32-year-old mother of four children. She is married, but husband is incarcerated. Given her husband's role as the sole provider for the family while she provides care for their 4 children, client's family is currently struggling financially. She is thus unable to afford a queen-sized mattress for her children.",
-      "specifications": "Queen Size Mattress",
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "mwsfscy@mws.sg",
-        "phone": [
-          "83688612",
-          "67564995"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3336,6 +3336,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "141780",
+      "name": "Dining Table",
+      "description": "Foldable dining table. Measures 170 by 120 when opened and 120 by 120 when closed. Height is 74 cm.",
+      "location": "Farrer Park, Little India, Serangoon Road",
+      "validTill": "15 Feb 2025",
+      "ageInYears": 4,
+      "dimensions": "120 by 120 by 74 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "141766",
       "name": "Bean Bag",
       "description": "Very good condition bean bags",
@@ -3420,28 +3431,6 @@
       "validTill": "17 Jan 2025",
       "ageInYears": 2,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "141647",
-      "name": "3yo super single HIP VAN bed with mattress",
-      "description": "super single bed from Hip Van.\ngreat condition. Mum's new hospital bed will be arriving 10 Jan 2025.",
-      "location": "Balestier, Toa Payoh",
-      "validTill": "17 Jan 2025",
-      "ageInYears": 3,
-      "dimensions": "197x114x34(113-frame)",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "141649",
-      "name": "3yo super single HIP VAN bed with mattress",
-      "description": "super single bed from Hip Van.\ngreat condition. Mum's new hospital bed will be arriving 10 Jan 2025.",
-      "location": "Balestier, Toa Payoh",
-      "validTill": "17 Jan 2025",
-      "ageInYears": 3,
-      "dimensions": "197x114x34(113-frame)",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -3776,17 +3765,6 @@
       "category": "Medical Aids"
     },
     {
-      "id": "141622",
-      "name": "Shower Chair",
-      "description": "Brand new condition. Shower chair to help elderly or patients sit safely.",
-      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-      "validTill": "10 Feb 2025",
-      "ageInYears": 1,
-      "dimensions": "14 x 19 inches (adjustable height)",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
       "id": "141582",
       "name": "Medical chair with gel pad",
       "description": "Medical chair with gel pad for donation. Lightly used. In good working condition.",
@@ -4013,17 +3991,6 @@
       "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
       "validTill": "31 Jan 2025",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Others"
-    },
-    {
-      "id": "141758",
-      "name": "FREE electrical & plumbing work",
-      "description": "FREE electrical work (lighting, sockets, cabling) and plumbing work (changing taps, pipe clog) for elderly",
-      "location": "Balestier, Toa Payoh",
-      "validTill": "06 Feb 2025",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Others"
