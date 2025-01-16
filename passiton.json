@@ -1042,6 +1042,23 @@
       "date": "16 Dec 2024"
     },
     {
+      "id": "141797",
+      "category": "Others",
+      "name": "Phone",
+      "description": "Client is a rough sleeper who is currently uncontactable as he does not have a phone. Having a phone would make communication easier with client.",
+      "specifications": "4 to 6 inch",
+      "contact": {
+        "org": "Kampong Kapor Community Services",
+        "name": "Iffah Hadhirah Binte Mohamad Noor",
+        "email": "iffahnoor@kkcs.org.sg",
+        "phone": [
+          "62997662"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "16 Jan 2025"
+    },
+    {
       "id": "141785",
       "category": "Others",
       "name": "Mobile phone",
@@ -3340,17 +3357,6 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "141366",
-      "name": "New shoes",
-      "description": "Size 6\nWore once only",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "27 Jan 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Attires/Clothings"
-    },
-    {
       "id": "141794",
       "name": "Air Fryer",
       "description": "Used air fryer. Slight defect on the outer shell, but it still functions normally.",
@@ -3395,16 +3401,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "141781",
-      "name": "Ikea Lycksele Lovas Sofa-Bed",
-      "description": "Unit has had little to no usage. \nCondition: 9/10\n\n142cm wide, 87cm high, 100cm deep when in sofa configuration.  142cm wide, 39cm high, 188cm deep when in bed configuration.  Mattress thickness is 10cm.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "31 Jan 2025",
-      "ageInYears": 3,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "141780",
       "name": "Dining Table",
       "description": "Foldable dining table. Measures 170 by 120 when opened and 120 by 120 when closed. Height is 74 cm.",
@@ -3445,17 +3441,6 @@
       "validTill": "25 Jan 2025",
       "ageInYears": 2,
       "dimensions": "125cm x 46cm x 135m",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "141642",
-      "name": "Foldable mattress",
-      "description": "Used foldable mattress available",
-      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-      "validTill": "11 Feb 2025",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
