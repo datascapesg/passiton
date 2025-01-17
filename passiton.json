@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "141817",
+      "category": "Infant and Children Items",
+      "name": "Similac Gain Stage 3",
+      "description": "Beneficiary is a single mother that is financially struggling as she is unable to work due to caregiving responsibilities. She requires assistance in securing milk for her children for this month as she has paid for her registration fees for her children's childcare which will allow her to work in the following few months.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Bukit Panjang",
+        "name": "Muhammad Idris Bin Mohd Margono",
+        "email": "idris.margono@thkmc.org.sg",
+        "phone": [
+          "87145182",
+          "67671740"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Jan 2025"
+    },
+    {
+      "id": "141816",
+      "category": "Infant and Children Items",
+      "name": "Similac infant formula",
+      "description": "Beneficiary is a single mother that is financially struggling as she is unable to work due to caregiving responsibilities. She requires assistance in securing milk for her children for this month as she has paid for her registration fees for her children's childcare which will allow her to work in the following few months.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Bukit Panjang",
+        "name": "Muhammad Idris Bin Mohd Margono",
+        "email": "idris.margono@thkmc.org.sg",
+        "phone": [
+          "87145182",
+          "67671740"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Jan 2025"
+    },
+    {
       "id": "141808",
       "category": "Infant and Children Items",
       "name": "Milk and diapers",
@@ -3169,6 +3205,23 @@
       "date": "06 Jan 2025"
     },
     {
+      "id": "141815",
+      "category": "Medical Aids",
+      "name": "Adult Diaper (M size, pull up pant)",
+      "description": "Family of 6 is living in a 3 room flat. Client is caring for 2 elderly parents with health issues. Client has difficulty to cope with daily expenses as she is earning with low wages. Client's parent needs diaper for daily use in view of his health issue.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Rachel Fu",
+        "email": "rachel.fu@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Jan 2025"
+    },
+    {
       "id": "141682",
       "category": "Medical Aids",
       "name": "Adult Diapers [Tena PROskin Pants, Size: XL, 2 packs]",
@@ -3287,17 +3340,6 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "141794",
-      "name": "Air Fryer",
-      "description": "Used air fryer. Slight defect on the outer shell, but it still functions normally.",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "15 Feb 2025",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "141356",
       "name": "Laptop sleeve (for 11.6 inch laptop) - Black",
       "description": "Form-fitting sleeve with quick top-loading access. Brand new unused.\n\nPrecise fit for laptops and ultrabooks with a 11.6 inch display\n\nSlim design allows you to carry the case by itself or in a bag dimensions: 11\" x 8.5\" x 0.4\" (LxWxH inches)\n\nSee https://a.co/d/hjkVCkF",
@@ -3338,17 +3380,6 @@
       "validTill": "15 Feb 2025",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "141800",
-      "name": "Bed and mattress",
-      "description": "Super single bed frame with mattress, mattress protector and 2 sets bedsheets with pillow cases. Pillow included if required.",
-      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-      "validTill": "15 Feb 2025",
-      "ageInYears": 4,
-      "dimensions": "190cm x 110cm headboard ht 108cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
