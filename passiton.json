@@ -2907,6 +2907,28 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "141858",
+      "name": "Fridge",
+      "description": "Working fridge",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "25 Jan 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "141857",
+      "name": "Washing Machine",
+      "description": "Almost brand new.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "25 Jan 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "141854",
       "name": "Powerpac mini washer (PPW820)",
       "description": "Lightly used mini washer (Powerpac model PPW820). Has both wash and spin functions; semi automatic mode.",
