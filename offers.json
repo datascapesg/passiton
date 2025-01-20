@@ -1,5 +1,16 @@
 [
   {
+    "id": "141886",
+    "name": "Clothes for Children",
+    "description": "Clothes for 6yr old girl",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "31 Jan 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "141628",
     "name": "G2000 men blazer",
     "description": "G2000 men slim fit blazer size 46, worn few times only, in good condition",
@@ -11,6 +22,28 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "141888",
+    "name": "Steamer",
+    "description": "Small Food Steamer - ideal for steaming baby food",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "31 Jan 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "141887",
+    "name": "Rice Cooker",
+    "description": "Lightly used",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "31 Jan 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "141854",
     "name": "Powerpac mini washer (PPW820)",
     "description": "Lightly used mini washer (Powerpac model PPW820). Has both wash and spin functions; semi automatic mode.",
@@ -18,17 +51,6 @@
     "validTill": "15 Feb 2025",
     "ageInYears": 1,
     "dimensions": "35 (Depth) x 30 (length) x 48 Height all in cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "141851",
-    "name": "Brother DCP-J125 Printer Scanner",
-    "description": "Rarely used Brother Inkjet color printer & scanner",
-    "location": null,
-    "validTill": "18 Feb 2025",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -53,6 +75,17 @@
     "dimensions": "23x23x37",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "141885",
+    "name": "3 seater recliner sofa in leather",
+    "description": "Well used but in v good condition. It has usb a ports at the sides. Both seats can be fully reclined. A little discolouration on the left seat, it’s not peeling.",
+    "location": null,
+    "validTill": "24 Jan 2025",
+    "ageInYears": 4,
+    "dimensions": "190cm, 100cm, 67cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "141883",
