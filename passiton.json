@@ -1875,6 +1875,23 @@
       "date": "24 Dec 2024"
     },
     {
+      "id": "141908",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Family has 1 toddler and is expecting a newborn in April 2025. Their current washing machine is faulty and both parents do not have enough finances to purchase one.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Nadiah Razak",
+        "email": "nadiah.razak@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Jan 2025"
+    },
+    {
       "id": "141903",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -2244,24 +2261,6 @@
       "date": "08 Jan 2025"
     },
     {
-      "id": "141488",
-      "category": "Electrical Home Appliances",
-      "name": "small fridge",
-      "description": "single elder residing alone in rental unit requires a small fridge as his current one has stopped working after many years. Senior is grateful for any model under $300 for basic usage. Requires delivery and installation as he has difficulties in walking and lifting heavy stuffs.",
-      "specifications": null,
-      "contact": {
-        "org": "Tsao Foundation - Hua Mei Clinic",
-        "name": "Ryan Sim",
-        "email": "ryansim@tsaofoundation.org",
-        "phone": [
-          "65939576",
-          "66619545"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Jan 2025"
-    },
-    {
       "id": "141487",
       "category": "Electrical Home Appliances",
       "name": "Television set (small)",
@@ -2488,24 +2487,6 @@
       "date": "23 Dec 2024"
     },
     {
-      "id": "141894",
-      "category": "Mobility Aids",
-      "name": "Quad Stick",
-      "description": "An 80-year-old elderly man just underwent a surgery and currently undergoing physiotherapy. He will need a quadstick (4-pronged walking stick) for mobility upon discharge. He is not able to get funding to purchase it due to his foreigner status. His family is on SSO assistance and finances are especially tight this period of time.",
-      "specifications": null,
-      "contact": {
-        "org": "Kampong Kapor Community Services",
-        "name": "Ko Wei Lin",
-        "email": "koweilin@kkcs.org.sg",
-        "phone": [
-          "62942116ext202",
-          "62997662"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Jan 2025"
-    },
-    {
       "id": "141332",
       "category": "Mobility Aids",
       "name": "Motorized Wheelchair/Scooter",
@@ -2587,6 +2568,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "141907",
+      "name": "Salt light",
+      "description": "Delivery on weekday evening and weekend.",
+      "location": null,
+      "validTill": "20 Feb 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "141892",
       "name": "Foot Massager",
       "description": "Watson's Foot Massage with box",
@@ -2640,6 +2632,17 @@
       "dimensions": "23x23x37",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "141906",
+      "name": "Console",
+      "description": "Solid and can be heavy",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "20 Feb 2025",
+      "ageInYears": 3,
+      "dimensions": "106cm x 62cm x 50 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "141902",
@@ -2752,17 +2755,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "141852",
-      "name": "Mattress",
-      "description": "Very clean, rarely used. Used with mattress protector and fitted sheet.",
-      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-      "validTill": "31 Jan 2025",
-      "ageInYears": 2,
-      "dimensions": "200*90*16,cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "141844",
       "name": "Dinning table and chairs",
       "description": "Dinning table and chairs, hardly use. Please arrange transport to pick up by 22 Jan.",
@@ -2792,17 +2784,6 @@
       "validTill": "15 Feb 2025",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "141799",
-      "name": "3 drawer office cabinet",
-      "description": "3 drawer wooden office cabinet with castors. Lock and key. Light brown colour",
-      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-      "validTill": "15 Feb 2025",
-      "ageInYears": 4,
-      "dimensions": "58cm ht, 50cm depth, 46cm width",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -3011,17 +2992,6 @@
       "location": "Admiralty Drive, Sembawang, Yishun",
       "validTill": "02 Feb 2025",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "141114",
-      "name": "Pram",
-      "description": "Well used, good condition.Plastic top is not intact, so can’t use in the rain!",
-      "location": null,
-      "validTill": "28 Jan 2025",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
