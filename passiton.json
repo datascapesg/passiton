@@ -1909,24 +1909,6 @@
       "date": "14 Jan 2025"
     },
     {
-      "id": "141703",
-      "category": "Home Furnishing",
-      "name": "Sofa",
-      "description": "Client is a 20-year-old mother of one. She is married, but husband is pending his sentence for suspected involvement in criminal activities. Given her husband's role as the sole provider for the family while she provides care for their 1-year-old child, client's family is currently struggling financially.",
-      "specifications": "Sofa",
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "mwsfscy@mws.sg",
-        "phone": [
-          "83688612",
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Jan 2025"
-    },
-    {
       "id": "141701",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -2065,6 +2047,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "24 Dec 2024"
+    },
+    {
+      "id": "141962",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is a 47-year old single father who has not been able to work for the past year due to several chronic health concerns. Their washing machine recently spoilt and left their home flooded. They are in urgent need to get their washing machine replaced. Interested donors kindly contact Bryan at 63658751. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Admiralty",
+        "name": "Lei Hui Yun",
+        "email": "leihuiyun@carecorner.org.sg",
+        "phone": [
+          "63658751"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Jan 2025"
     },
     {
       "id": "141949",
@@ -2987,6 +2986,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "141961",
+      "name": "Standing steam iron",
+      "description": "Standing steam iron (PowerPac)",
+      "location": null,
+      "validTill": "21 Feb 2025",
+      "ageInYears": 2,
+      "dimensions": "1.2 meter tall ( extended)",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "141958",
       "name": "Dishwasher",
       "description": "Dishwasher",
@@ -3040,6 +3050,28 @@
       "dimensions": "23x23x37",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "141964",
+      "name": "Muji Oak Wooden Sofa 2.5 Seater",
+      "description": "Removable covers that can be washed, oak wooden frame",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "21 Feb 2025",
+      "ageInYears": 2,
+      "dimensions": "1785mm x 960mm x 835mm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "141963",
+      "name": "Muji Oak Wooden Sofa 2.5 Seater",
+      "description": "Removable covers that can be washed, oak wooden frame",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "21 Feb 2025",
+      "ageInYears": 2,
+      "dimensions": "1785mm x 960mm x 835mm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "141959",
@@ -3447,6 +3479,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Learning Aids"
+    },
+    {
+      "id": "141960",
+      "name": "Tena adult diaper institution pack size L",
+      "description": "6 packs of adult diapers size L. Unopened",
+      "location": null,
+      "validTill": "21 Feb 2025",
+      "ageInYears": 1,
+      "dimensions": "60cm x 30cm x 50cm tall",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
     },
     {
       "id": "141935",
