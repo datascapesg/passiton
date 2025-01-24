@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "142097",
+      "category": "Electrical Home Appliances",
+      "name": "65-75 inch smart tv",
+      "description": "Client is a single mother with 4 young children. Client has plans to seek employment upon stabilizing care of her new-born.",
+      "specifications": "65 - 75 inch",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Ong Jiang Shan",
+        "email": "ongjiangshan@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Jan 2025"
+    },
+    {
       "id": "142091",
       "category": "Electrical Home Appliances",
       "name": "washing machine",
@@ -2259,6 +2276,23 @@
       "date": "22 Jan 2025"
     },
     {
+      "id": "142098",
+      "category": "Others",
+      "name": "Secondhand phone",
+      "description": "Client is the primary caregiver of her brother, who has mild intellectual disability and multiple medical conditions. The siblings do not have other family support and are financially strapped, relying on handouts. Client's phone has recently broke down and they are in need of a new phone to facilitate communication with formal agencies.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
+        "name": "Chan Jun Ren",
+        "email": "chanjunren@mws.sg",
+        "phone": [
+          "62828558"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Jan 2025"
+    },
+    {
       "id": "142088",
       "category": "Others",
       "name": "Food Rations",
@@ -2998,6 +3032,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "26 Dec 2024"
+    },
+    {
+      "id": "142096",
+      "category": "Home Furnishing",
+      "name": "Clothes Wardrobe",
+      "description": "Client is married with 2 school going children. Client and wife are unemployed due to their poor health condition. Client suffered a stroke recently and his wife is diagnosed with arthritis.",
+      "specifications": "160cm in length",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Ong Jiang Shan",
+        "email": "ongjiangshan@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Jan 2025"
     },
     {
       "id": "142092",
@@ -4590,6 +4641,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "142094",
+      "name": "Muji Oak Wooden Sofa 2.5 Seater",
+      "description": "Removable covers that can be washed, oak wooden frame",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "21 Feb 2025",
+      "ageInYears": 2,
+      "dimensions": "1785mm x 960mm x 835mm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "141963",
       "name": "Muji Oak Wooden Sofa 2.5 Seater",
       "description": "Removable covers that can be washed, oak wooden frame",
@@ -5256,6 +5318,17 @@
       "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
       "validTill": "31 Jan 2025",
       "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "142095",
+      "name": "Hospital Bed with Air Mattress",
+      "description": "Barely used hospital bed air mattress cover",
+      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+      "validTill": "05 Feb 2025",
+      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Others"
