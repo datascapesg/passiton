@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "142143",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Family has 5 school-going children who require a working fridge as they are relocating. Despite multiple attempts, both parents are struggling to make ends meet due to mental health issues.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Regina Leong",
+        "email": "regina@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Jan 2025"
+    },
+    {
+      "id": "142142",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine / Dryer",
+      "description": "Family has 5 school-going children who require a washing machine/dryer as they are relocating. Despite multiple attempts, both parents are struggling to make ends meet due to mental health issues.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Regina Leong",
+        "email": "regina@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Jan 2025"
+    },
+    {
       "id": "142136",
       "category": "Electrical Home Appliances",
       "name": "Television",
@@ -1089,6 +1123,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "06 Jan 2025"
+    },
+    {
+      "id": "140678",
+      "category": "Infant and Children Items",
+      "name": "Dumex Dulac Stage 2 & Diapers L size",
+      "description": "Family has high needs for 2 infants consuming Dumex Dulac Stage 2 milk powder and diapers size L. Husband is the sole breadwinner earning a minimal income, and supporting 6 young schooling children.",
+      "specifications": "Size L",
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Sutraima Saphadi",
+        "email": "sutraima@awwa.org.sg",
+        "phone": [
+          "65119469",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "27 Jan 2025"
     },
     {
       "id": "142141",
@@ -4548,17 +4600,6 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
-    },
-    {
-      "id": "142135",
-      "name": "Refrigerator",
-      "description": "Less than 1.6m in height. Good condition.",
-      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-      "validTill": "04 Feb 2025",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
     },
     {
       "id": "142119",
