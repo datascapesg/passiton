@@ -790,24 +790,6 @@
       "date": "07 Jan 2025"
     },
     {
-      "id": "138857",
-      "category": "Medical Aids",
-      "name": "TENA Wet Wipes",
-      "description": "Female client, 89 yo, diagnosed with Breast Cancer. Due to her age, she has difficulties to walk after completing her treatment. Currently is on wheelchair bound. She needs to use Tena wet wipe for clean up daily",
-      "specifications": "Size XL (30 X 20cm)",
-      "contact": {
-        "org": "AIN Society",
-        "name": "Nur'Ain Binte Mohamed Said",
-        "email": "nurain@ainsociety.org.sg",
-        "phone": [
-          "68485116",
-          "68485166"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Jan 2025"
-    },
-    {
       "id": "141975",
       "category": "Medical Aids",
       "name": "Adult Diapers for caregiver of mother with who is bed-bounded",
@@ -2866,24 +2848,6 @@
       "date": "31 Jan 2025"
     },
     {
-      "id": "142193",
-      "category": "Home Furnishing",
-      "name": "Sofa",
-      "description": "Client is 71y/o, he has a son with mental health condition and another son with learning disability therefore they are unable to provide caregiving to client. Client is in the midst of waiting for a rental flat from HDB, and is currently staying with his niece who has been housing him and his son for 2 months since they were chased out by another relative. There has been a bed bug situation recently that destroyed multiple of the family's home furnitures, and the family currently has no sofa to prepare for upcoming Hari Raya.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Services SSO @ Taman Jurong",
-        "name": "Chan Yvonne",
-        "email": "yvonne-chan@fycs.org",
-        "phone": [
-          "69783516",
-          "62672900"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "31 Jan 2025"
-    },
-    {
       "id": "142182",
       "category": "Home Furnishing",
       "name": "Wadrobe",
@@ -4406,6 +4370,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "142212",
+      "name": "study chair",
+      "description": "ergonomic chair with roller",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "05 Mar 2025",
+      "ageInYears": 4,
+      "dimensions": "80 cm x 50 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "142210",
