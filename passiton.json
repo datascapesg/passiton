@@ -1,6 +1,41 @@
 {
   "requests": [
     {
+      "id": "142283",
+      "category": "Electrical Home Appliances",
+      "name": "Television",
+      "description": "The family of 5 consist of 2 adults and 3 children aged 9,5 & 2. Every evening, the elder son completing his school work, he watches some cartoon. Recently their TV breakdown and it is beyond repair condition. The father just managed to secure a logistics job on 21st Jan 2025 and mum is not working due to her health issues. Even the father takes his first salary this month after 21st 2025, he still unable to purchase a television immediately as they need to manage their monthly expenses. Please contact Premilla @ 62319480",
+      "specifications": "40 in",
+      "contact": {
+        "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+        "name": "Premilla d/0 Gunasekaran",
+        "email": "premilla_gunasekaran@msf.gov.sg",
+        "phone": [
+          "62139480",
+          "64244017"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Feb 2025"
+    },
+    {
+      "id": "142282",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Family consists of 2 elderlies who are not working due to health issues. Their washing machine has spoilt and require a new one.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Punggol 616",
+        "name": "Shirley Tan",
+        "email": "shirleytan@allkin.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Feb 2025"
+    },
+    {
       "id": "142278",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -2316,6 +2351,24 @@
       "date": "03 Jan 2025"
     },
     {
+      "id": "142284",
+      "category": "Others",
+      "name": "Humidifier",
+      "description": "The family consists of 02 premature born twins aged 3.Due to their nature of their premature birth at 5 months the twins immune are weak and they tend to fall sick frequently. Currently the father is the only sole breadwinner of the house. The mother is not working due to back injury issues. Please call Premilla @    62319480",
+      "specifications": "not specified",
+      "contact": {
+        "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+        "name": "Premilla d/0 Gunasekaran",
+        "email": "premilla_gunasekaran@msf.gov.sg",
+        "phone": [
+          "62139480",
+          "64244017"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Feb 2025"
+    },
+    {
       "id": "142251",
       "category": "Others",
       "name": "Halal Food Rations",
@@ -3164,6 +3217,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "22 Jan 2025"
+    },
+    {
+      "id": "142285",
+      "category": "Home Furnishing",
+      "name": "Dining Table",
+      "description": "Elderly has bed bugs and his current dining table is infested with bed bugs hence thrown away. His house is undergoing fumigation and requires a dining table by 12 Feb if possible.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Telok Blangah",
+        "name": "Yip Xie Jia",
+        "email": "xiejia.yip@montfortcare.org.sg",
+        "phone": [
+          "62746904",
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Feb 2025"
+    },
+    {
+      "id": "142281",
+      "category": "Home Furnishing",
+      "name": "Single size mattress",
+      "description": "Senior living in rental unit sleeping on the floor requires a single mattress as the current mattress is soiled.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Community Services - Mental Health",
+        "name": "Stella Chew",
+        "email": "stellachew@fycs.org",
+        "phone": [
+          "60117651",
+          "64712022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Feb 2025"
     },
     {
       "id": "142274",
@@ -4969,6 +5058,17 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "142280",
+      "name": "Dinning dinner with four chairs",
+      "description": "Still in good condition. Can sand down and varnish and good as new. Do note scratches on table leg due to cats.",
+      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+      "validTill": "28 Feb 2025",
+      "ageInYears": 4,
+      "dimensions": "92x92xx92 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "142197",
       "name": "Coffee table with Chinese carvings (antique)",
       "description": "Genuine antique Chinese coffee table with carvings and mother of pearl inlay work. It’s an original antique so has signs of wear & tear. Comes with glass top",
@@ -5009,17 +5109,6 @@
       "validTill": "21 Feb 2025",
       "ageInYears": 2,
       "dimensions": "1785mm x 960mm x 835mm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "141941",
-      "name": "Marble Dining Table",
-      "description": "6 to 8 seater Marble Dining table\n1.8metre length\n0.76metre height\n0.85metre width",
-      "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-      "validTill": "20 Feb 2025",
-      "ageInYears": 2,
-      "dimensions": "1.8X0.85X0.76",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
