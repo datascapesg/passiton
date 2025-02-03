@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "142260",
+      "category": "Electrical Home Appliances",
+      "name": "Massage chair",
+      "description": "Seeking a massage chair for caregivers of children with cancer. The reason is for them to rest and relax while they drop by to the children cancer center.",
+      "specifications": null,
+      "contact": {
+        "org": "AIN Society",
+        "name": "Norhashimah Binti Kamarudin",
+        "email": "shimah@ainsociety.org.sg",
+        "phone": [
+          "68485163",
+          "68485166"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Feb 2025"
+    },
+    {
+      "id": "142258",
+      "category": "Electrical Home Appliances",
+      "name": "Electric Induction Stove",
+      "description": "Family is a single mother to 2 children. She is currently unable to work due to medical issues. She cooks for the family to save money, but their stove is not working.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Bukit Panjang",
+        "name": "Muhammad Idris Bin Mohd Margono",
+        "email": "idris.margono@thkmc.org.sg",
+        "phone": [
+          "87145182",
+          "67671740"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Feb 2025"
+    },
+    {
       "id": "142246",
       "category": "Electrical Home Appliances",
       "name": "TV",
@@ -1106,6 +1142,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "06 Jan 2025"
+    },
+    {
+      "id": "142257",
+      "category": "Infant and Children Items",
+      "name": "Huggies Diapers Pull-Up Pants",
+      "description": "Father of her child and their infant stay with adoptive parents and brothers. Husband is serving NS and beneficiary stays at home to take care of their child. Adoptive family does not provide family with financial support. Family have limited funds and seek help from the community for baby formula and diapers for their infant.",
+      "specifications": "M size, 4 pax",
+      "contact": {
+        "org": "THK Family Service Centre @ Bukit Panjang",
+        "name": "Muhammad Idris Bin Mohd Margono",
+        "email": "idris.margono@thkmc.org.sg",
+        "phone": [
+          "87145182",
+          "67671740"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Feb 2025"
+    },
+    {
+      "id": "142256",
+      "category": "Infant and Children Items",
+      "name": "Baby formula (Karihome Stage 3)",
+      "description": "Father of her child and their infant stay with adoptive parents and brothers. Husband is serving NS and beneficiary stays at home to take care of their child. Adoptive family does not provide family with financial support. Family have limited funds and seek help from the community for baby formula and diapers for their infant.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Bukit Panjang",
+        "name": "Muhammad Idris Bin Mohd Margono",
+        "email": "idris.margono@thkmc.org.sg",
+        "phone": [
+          "87145182",
+          "67671740"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Feb 2025"
     },
     {
       "id": "142252",
@@ -3130,41 +3202,6 @@
       "date": "22 Jan 2025"
     },
     {
-      "id": "142250",
-      "category": "Home Furnishing",
-      "name": "Foldable Mattress",
-      "description": "Family has 3 young children and an elderly grandparent sharing 1 foldable single-sized mattress. Mother is the sole breadwinner supporting the family. Children do not have a proper place to rest and usually sleep on the concrete floor with blankets. Hoping for a donor who is willing to donate 2 foldable mattresses for the family.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Toa Payoh",
-        "name": "Rachel Chua",
-        "email": "rachelchua@carecorner.org.sg",
-        "phone": [
-          "63521622",
-          "63561622"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Feb 2025"
-    },
-    {
-      "id": "142248",
-      "category": "Home Furnishing",
-      "name": "3x Folding mattress",
-      "description": "A family of 6 living in a rental flat. Requiring 3 folding mattress for the children",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Nadiah Razak",
-        "email": "nadiah.razak@montfortcare.org.sg",
-        "phone": [
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Feb 2025"
-    },
-    {
       "id": "142247",
       "category": "Home Furnishing",
       "name": "coffee table",
@@ -4623,6 +4660,24 @@
       "date": "20 Jan 2025"
     },
     {
+      "id": "142259",
+      "category": "Attires/Clothings",
+      "name": "Diaper Lifree Powerful Pants",
+      "description": "Child, 10 years old, diagnosed with brain tumour. He needs Lifree Powerful Diapers, size M, pull up pants. He lives in a 3 room flat with his grandmother who is very sick. His father is the main income earner supporting the family of 6.",
+      "specifications": null,
+      "contact": {
+        "org": "AIN Society",
+        "name": "Norhashimah Binti Kamarudin",
+        "email": "shimah@ainsociety.org.sg",
+        "phone": [
+          "68485163",
+          "68485166"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "03 Feb 2025"
+    },
+    {
       "id": "141966",
       "category": "Attires/Clothings",
       "name": "Children Clothes",
@@ -4909,6 +4964,17 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "142255",
+      "name": "Queen Sized Bed with Frame",
+      "description": "Donating a Queen Sized Bed with Bed Frame.",
+      "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+      "validTill": "18 Feb 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "141861",
       "name": "Hospital bed",
       "description": "Relatively new hospital with mattress that is adjustable and can move up and down. Used for around a week only. Come with new bed sheet and warranty.",
@@ -5107,17 +5173,6 @@
       "category": "Medical Aids"
     },
     {
-      "id": "141981",
-      "name": "Hospital Bed",
-      "description": "Hospital bed, like new\n\nBion Electric Homecare Bed H100 | Hospital Bed with Mattress Height Adjustable Remote Control Quad Side Rails ( 3inch Mattress included)\n\n\nhttps://bion.sg/products/bion-homecare-bed-h100?variant=40017260281990",
-      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-      "validTill": "15 Feb 2025",
-      "ageInYears": 1,
-      "dimensions": "Dimensions: 210 cm (L) x 102 cm (W)",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
       "id": "141874",
       "name": "Oxygenerator",
       "description": "Oxygenerator. 10 Litres capacity",
@@ -5204,17 +5259,6 @@
       "dimensions": "53 x 50 x 45",
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
-    },
-    {
-      "id": "142254",
-      "name": "Laptop",
-      "description": "Model: LENOVO ThinkPad L13\nCPU: Intel Core i7-10510U CPU @ 1.80GHz 2.30GHz\nRAM: 16GB\nStorage: 500GB SSD\nOS: Windows 10 Pro",
-      "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-      "validTill": "21 Feb 2025",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Others"
     },
     {
       "id": "142180",
