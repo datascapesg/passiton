@@ -1,6 +1,59 @@
 {
   "requests": [
     {
+      "id": "142334",
+      "category": "Electrical Home Appliances",
+      "name": "Top Freezer Fridge",
+      "description": "Family of 8 with 6 young children is requesting for halal fridge.",
+      "specifications": "70x69x180",
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Nurul Khairiah, Khai",
+        "email": "nurul_khairiah@awwa.org.sg",
+        "phone": [
+          "65119471",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Feb 2025"
+    },
+    {
+      "id": "142333",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Family of 5  with two young children and an older adult with multiple chronic illnesses from a lower-income background requires a fridge urgently as theirs has broken down.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Jocelyn Joy Gwee",
+        "email": "Jocelyn@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Feb 2025"
+    },
+    {
+      "id": "142332",
+      "category": "Electrical Home Appliances",
+      "name": "Oven",
+      "description": "Family of 7 with both parents unable to work and earn income are in need of an oven to do baking for Hari Raya, and general cooking. Oven needs to be never used for pork before.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Victoria Chong",
+        "email": "victoriachong@fycs.org",
+        "phone": [
+          "69783482",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Feb 2025"
+    },
+    {
       "id": "142324",
       "category": "Electrical Home Appliances",
       "name": "Washing machine (Top load, 9-10kg)",
@@ -1245,6 +1298,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "06 Jan 2025"
+    },
+    {
+      "id": "142331",
+      "category": "Infant and Children Items",
+      "name": "XXL Children Diapers",
+      "description": "Child (M/5) stays in a 2-room rental flat with her grandmother (F/45) and aunt (F/21). Grandmother is currently not working due to caregiving responsibilities and was previously unfit for work. Aunt is also currently studying. They have difficulties financing purchase of his diapers and hopes to receive donation for them.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Quak Mei Qing",
+        "email": "meiqing@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Feb 2025"
     },
     {
       "id": "142297",
@@ -3319,6 +3389,23 @@
       "date": "22 Jan 2025"
     },
     {
+      "id": "141046",
+      "category": "Home Furnishing",
+      "name": "Wardrobe (White)",
+      "description": "Family of 3 in a financially difficult situations requires a wardrobe for their clothes. \nFamily is motivated in upskilling and looking for better job opportunities but requires some help at the moment with replacing furniture in their home.",
+      "specifications": "120cm x 230cm (estimate)",
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Jocelyn Joy Gwee",
+        "email": "Jocelyn@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Feb 2025"
+    },
+    {
       "id": "142322",
       "category": "Home Furnishing",
       "name": "2 Single Bed Mattresses",
@@ -5080,6 +5167,17 @@
     }
   ],
   "offers": [
+    {
+      "id": "142330",
+      "name": "Maternity clothing & unused nursing bras",
+      "description": "Selection of maternity t-shirts, tank tops and dresses. Sizes S-M. \n\nSome are unworn, most are used but well-taken care of. Used for ~6 months in 2023.\n\nNursing bras & nursing tops are unworn.",
+      "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+      "validTill": "06 Mar 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Attires/Clothings"
+    },
     {
       "id": "142202",
       "name": "Infant and baby clothes",
