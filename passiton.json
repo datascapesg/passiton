@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "142339",
+      "category": "Electrical Home Appliances",
+      "name": "Instant water heater for shower",
+      "description": "Client is a single mother to a newborn with limited family support. Due to caregiving needs, it has been difficult for her to secure an employment. Client just obtained a HDB rental flat. However, due to lack of a source of income, she is unable to afford to purchase furniture and household appliances.",
+      "specifications": null,
+      "contact": {
+        "org": "FRCS Family Service Centre",
+        "name": "Eunice Koh",
+        "email": "eunice@frcsfsc.sg",
+        "phone": [
+          "67799488ext17",
+          "67799488"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Feb 2025"
+    },
+    {
+      "id": "142337",
+      "category": "Electrical Home Appliances",
+      "name": "Water dispenser",
+      "description": "Client is a single mother to a newborn with limited family support. Due to caregiving needs, it has been difficult for her to secure an employment. Client just obtained a HDB rental flat. However, due to lack of a source of income, she is unable to afford to purchase furniture and household appliances.",
+      "specifications": "NIL",
+      "contact": {
+        "org": "FRCS Family Service Centre",
+        "name": "Eunice Koh",
+        "email": "eunice@frcsfsc.sg",
+        "phone": [
+          "67799488ext17",
+          "67799488"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Feb 2025"
+    },
+    {
       "id": "142334",
       "category": "Electrical Home Appliances",
       "name": "Top Freezer Fridge",
@@ -1300,6 +1336,23 @@
       "date": "06 Jan 2025"
     },
     {
+      "id": "142338",
+      "category": "Infant and Children Items",
+      "name": "Baby Cot",
+      "description": "Client's daughter is a teenage mother, who will be giving birth in March 2025. The family currently lacks a cot for the baby. If you have a suitable item please reach out to us at 9828 7307. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Han Wen Ting",
+        "email": "hanwenting@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Feb 2025"
+    },
+    {
       "id": "142336",
       "category": "Infant and Children Items",
       "name": "double stroller",
@@ -2488,6 +2541,23 @@
       "date": "07 Jan 2025"
     },
     {
+      "id": "142340",
+      "category": "Others",
+      "name": "Food ration (Halal)",
+      "description": "Low-income family requires some urgent food rations to tide through this month. Mum is full-time caregiver of her 6 children while husband is incarcerated.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Fitrah Nabilah",
+        "email": "fitrahnabilah@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Feb 2025"
+    },
+    {
       "id": "142325",
       "category": "Others",
       "name": "iPad",
@@ -3422,6 +3492,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "22 Jan 2025"
+    },
+    {
+      "id": "142342",
+      "category": "Home Furnishing",
+      "name": "Gas stove cabinet",
+      "description": "Client is a single mother to a newborn with limited family support. Due to caregiving needs, it has been difficult for her to secure an employment. Client just obtained approval for a HDB rental flat. However, due to lack of a source of income, she is unable to afford to purchase furniture and household appliances.",
+      "specifications": null,
+      "contact": {
+        "org": "FRCS Family Service Centre",
+        "name": "Eunice Koh",
+        "email": "eunice@frcsfsc.sg",
+        "phone": [
+          "67799488ext17",
+          "67799488"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Feb 2025"
     },
     {
       "id": "141046",
@@ -5227,6 +5315,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
+    },
+    {
+      "id": "142341",
+      "name": "Vaccum Cleaner",
+      "description": "Almost brand new\nSome mild dirt, otherwise working very well.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "28 Feb 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
     },
     {
       "id": "142291",
