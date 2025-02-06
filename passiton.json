@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "142422",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "The family has two preschool-age children. A total of 4 family members staying in a rental unit. They require a new fridge (1-door, approx. 350L) as their current one is not working well anymore.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Kreta Ayer",
+        "name": "Cassie Ee",
+        "email": "cassie_ee@msf.gov.sg",
+        "phone": [
+          "60138804",
+          "1800-222-0000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Feb 2025"
+    },
+    {
       "id": "142420",
       "category": "Electrical Home Appliances",
       "name": "Washing machine",
@@ -4074,6 +4092,24 @@
       "date": "22 Jan 2025"
     },
     {
+      "id": "142421",
+      "category": "Home Furnishing",
+      "name": "Cupboard",
+      "description": "The family has two preschool-age children. They require a new cupboard, as the sliding door on their current one has become faulty. This poses a potential hazard, given the presence of young children in the household.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Kreta Ayer",
+        "name": "Cassie Ee",
+        "email": "cassie_ee@msf.gov.sg",
+        "phone": [
+          "60138804",
+          "1800-222-0000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Feb 2025"
+    },
+    {
       "id": "142418",
       "category": "Home Furnishing",
       "name": "Two single beds",
@@ -6536,6 +6572,28 @@
       "dimensions": "1.54m x 1.31m x 0.66m",
       "deliveryCostsCoveredByDonor": true,
       "category": "Leisure and Healthy Lifestyle"
+    },
+    {
+      "id": "142424",
+      "name": "Urine Bag Plastic Holder",
+      "description": "2 pcs",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "08 Mar 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
+    },
+    {
+      "id": "142423",
+      "name": "Bardex All Silicon Catheter",
+      "description": "3 pcs",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "08 Mar 2025",
+      "ageInYears": 1,
+      "dimensions": "16 Ch/Fr (5.3mm)",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
     },
     {
       "id": "142289",
