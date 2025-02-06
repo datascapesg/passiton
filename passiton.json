@@ -1691,23 +1691,6 @@
       "date": "08 Jan 2025"
     },
     {
-      "id": "141431",
-      "category": "Medical Aids",
-      "name": "Adult Diaper (M size, pull up pant)",
-      "description": "Client is a single parent, taking care of elderly parents and young adult children. Client's parent required diaper for daily use in view of his medical needs.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Rachel Fu",
-        "email": "rachel.fu@montfortcare.org.sg",
-        "phone": [
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Jan 2025"
-    },
-    {
       "id": "142416",
       "category": "Infant and Children Items",
       "name": "Toddler Clothes",
@@ -5293,23 +5276,6 @@
       "date": "10 Jan 2025"
     },
     {
-      "id": "141420",
-      "category": "Home Furnishing",
-      "name": "wadrobe",
-      "description": "A family of 8 requires a wadrobe for the family as the one they currently have is no longer functioning.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Nurhidayah Binte Sazali",
-        "email": "hidayah@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Jan 2025"
-    },
-    {
       "id": "140798",
       "category": "Mobility Aids",
       "name": "Electric mobility scooter",
@@ -6622,6 +6588,17 @@
       "dimensions": "1.54m x 1.31m x 0.66m",
       "deliveryCostsCoveredByDonor": true,
       "category": "Leisure and Healthy Lifestyle"
+    },
+    {
+      "id": "142450",
+      "name": "Novasource Renal milk and protein supplement",
+      "description": "Novasource Renal Vanilla Flavour 200ml, 15 bottles. Hormel Propass instant whey protein supplement, 213g - 4 cans. Expiry May 2025.\nLarge size adult diapers (Fairprice, Tena, total 10 pieces)",
+      "location": "Farrer Park, Little India, Serangoon Road",
+      "validTill": "28 Feb 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
     },
     {
       "id": "142431",
