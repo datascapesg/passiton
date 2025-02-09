@@ -19,24 +19,6 @@
       "date": "08 Feb 2025"
     },
     {
-      "id": "142487",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Client is residing in a 2-room HDB flat with his wife and 2-year-old son. Client is unfit for work due to a head injury, and wife is also unemployed due to caregiving duties. They are currently surviving on ComCare assistance, and hence are unable to afford a washing machine.",
-      "specifications": null,
-      "contact": {
-        "org": "Central Singapore CDC (SS BoonHua)",
-        "name": "Vanessa Ong",
-        "email": "vanessa_ong@msf.gov.sg",
-        "phone": [
-          "63709953",
-          "63709471"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "07 Feb 2025"
-    },
-    {
       "id": "142477",
       "category": "Electrical Home Appliances",
       "name": "Oven",
@@ -6397,6 +6379,28 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "142521",
+      "name": "4-5 year old Boy Clothing",
+      "description": "1 big bag of boy clothing for 4-5yr old",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "15 Feb 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "142519",
+      "name": "Toddler Boy Clothes",
+      "description": "1 big bag Toddler boy clothes",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "15 Feb 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
       "id": "142518",
       "name": "Assorted Toys",
       "description": "Assorted toys",
@@ -6824,6 +6828,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "142520",
+      "name": "Hospital Bed",
+      "description": "Very good condition",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "15 Feb 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "142517",
