@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "142599",
+      "category": "Electrical Home Appliances",
+      "name": "32 inch TV",
+      "description": "Helping to get a 32 inch TV for a female senior who is frail and staying alone in a one-room rental flat. Her current TV is spoilt and she got no money to buy a new one as she is under financial assistance and the money is just enough for her daily expenses.",
+      "specifications": null,
+      "contact": {
+        "org": "Presbyterian Community Services",
+        "name": "Andy Toh",
+        "email": "andytoh@pcs.org.sg",
+        "phone": [
+          "67866826",
+          "63344445"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Feb 2025"
+    },
+    {
       "id": "142598",
       "category": "Electrical Home Appliances",
       "name": "Vacuum",
@@ -4057,24 +4075,6 @@
       "date": "22 Jan 2025"
     },
     {
-      "id": "142595",
-      "category": "Home Furnishing",
-      "name": "Foldable Mattress",
-      "description": "Client is a 21-year-old female cancer patient who requires a folding mattress due to space constraints at home.\n\nShe stays in a 2-room flat with 3 others, of which both her sister and mother have underlying health issues. Currently family has no active income.\n\nA similar item can be found here for your reference: https://shopee.sg/4-Fold-8cm-Thickness-Foldable-Mattress-Topper-Single-Mattress-Sponge-Folding-Bed-Sofa-Sleeping-Mat-i.96953349.23859606224?sp_atk=9e43964f-ea91-4dbf-a6a1-acae1c5d0aa5&xptdk=9e43964f-ea91-4dbf-a6a1-acae1c5d0aa5",
-      "specifications": "Foldable Matress",
-      "contact": {
-        "org": "AIN Society",
-        "name": "Norhashimah Binti Kamarudin",
-        "email": "shimah@ainsociety.org.sg",
-        "phone": [
-          "68485163",
-          "68485166"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "11 Feb 2025"
-    },
-    {
       "id": "142592",
       "category": "Home Furnishing",
       "name": "Wardrobe/cabinets",
@@ -6294,6 +6294,28 @@
       "validTill": "18 Feb 2025",
       "ageInYears": 3,
       "dimensions": "Please refer to photo attached",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "142600",
+      "name": "Sofa",
+      "description": "3 sofa sets \neach soft 2 seater",
+      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+      "validTill": "15 Feb 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "142601",
+      "name": "Sofa",
+      "description": "3 sofa sets \neach soft 2 seater",
+      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+      "validTill": "15 Feb 2025",
+      "ageInYears": 4,
+      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
