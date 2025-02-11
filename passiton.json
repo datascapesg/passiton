@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "142597",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Family of 4 requires a fridge to help keep their food fresh. The family has 2 young children. Father is sole breadwinner.",
+      "specifications": null,
+      "contact": {
+        "org": "Hougang Sheng Hong Family Service Centre",
+        "name": "Daphne  Low",
+        "email": "daphne@shenghong.org.sg",
+        "phone": [
+          "62895022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Feb 2025"
+    },
+    {
       "id": "142585",
       "category": "Electrical Home Appliances",
       "name": "Instant Water Heater",
