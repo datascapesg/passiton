@@ -427,24 +427,6 @@
       "date": "07 Feb 2025"
     },
     {
-      "id": "142447",
-      "category": "Electrical Home Appliances",
-      "name": "Food processor",
-      "description": "Client is a caregiver of her 6 young children and husband is the sole-breadwinner. Client requires a food processor to prepare food for her youngest child, 1yo, has not been able to chew some food. Client do not have the funds to buy one. It will also help for her newborn as she is expecting in Jul 2025.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
-        "name": "Joanne Wong",
-        "email": "joannewongsm@fycs.org",
-        "phone": [
-          "67719557",
-          "67625215"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Feb 2025"
-    },
-    {
       "id": "140242",
       "category": "Electrical Home Appliances",
       "name": "Digital Tv 46",
@@ -4199,6 +4181,23 @@
       "date": "22 Jan 2025"
     },
     {
+      "id": "142670",
+      "category": "Home Furnishing",
+      "name": "2-door Wardrobe",
+      "description": "Family has 2 primary-aged and 2 preschool-aged children living in a 2-room HDB rental flat. Family has been unable to afford a wardrobe. Currently, parent's and their youngest's clothes are stacked on the floor.",
+      "specifications": null,
+      "contact": {
+        "org": "KidSTART @ Allkin",
+        "name": "Elena Kua",
+        "email": "elenakua@allkin.org.sg",
+        "phone": [
+          "60384210"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Feb 2025"
+    },
+    {
       "id": "142665",
       "category": "Home Furnishing",
       "name": "Single size bed",
@@ -6381,23 +6380,6 @@
       "date": "22 Jan 2025"
     },
     {
-      "id": "142569",
-      "category": "Kitchen Utility Items",
-      "name": "Food blender",
-      "description": "A teen mom would require a food blender to prepare puree food for her young children. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Siti Aminah",
-        "email": "sitiaminah@carecorner.org.sg",
-        "phone": [
-          "64761481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Feb 2025"
-    },
-    {
       "id": "142311",
       "category": "Kitchen Utility Items",
       "name": "Portable gas stove",
@@ -6467,6 +6449,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
+    },
+    {
+      "id": "142669",
+      "name": "Tv",
+      "description": "32\" tv",
+      "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
+      "validTill": "10 Mar 2025",
+      "ageInYears": 4,
+      "dimensions": "32inches",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
     },
     {
       "id": "142291",
