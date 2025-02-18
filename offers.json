@@ -913,6 +913,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "142840",
+    "name": "Wheelchair",
+    "description": "Can also double as commute, has new 'wheel tyres'",
+    "location": "Seletar, Yio Chu Kang",
+    "validTill": "23 Feb 2025",
+    "ageInYears": 1,
+    "dimensions": "37x 23 x 35",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "142813",
     "name": "Premium Nursing Bed",
     "description": "6 months old. Only used for a month.",
