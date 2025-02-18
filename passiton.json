@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "142808",
+      "category": "Electrical Home Appliances",
+      "name": "Clothes Dryer",
+      "description": "Family of 6 young children requires a clothes dryer as laundry gets quite overwhelming during rainy seasons. Father is the sole breadwinner and mum is the primary caregiver to her young children, hence is swarmed with caregiving and household duties, and having a dryer would be very helpful for them. Would greatly appreciate if donor is able to cover delivery costs. Thank you! :)",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - @27 Family Service Centre",
+        "name": "Sharifah Hashim",
+        "email": "sharifah.hashim@montfortcare.org.sg",
+        "phone": [
+          "89406352",
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Feb 2025"
+    },
+    {
       "id": "142799",
       "category": "Electrical Home Appliances",
       "name": "Mayer brand induction stove",
@@ -1127,6 +1145,23 @@
       "date": "21 Jan 2025"
     },
     {
+      "id": "142807",
+      "category": "Medical Aids",
+      "name": "Adult diapers",
+      "description": "Stroke survivor with incontinence and unsteady gait requires diapers for daily usage, he is not under any home medical service so is unable to tap on SMF.",
+      "specifications": "L size",
+      "contact": {
+        "org": "Allkin Singapore's Active Ageing Centre @ Ang Mo Kio 469",
+        "name": "Kei Ng",
+        "email": "ngkhuankungkei@allkin.org.sg",
+        "phone": [
+          "64510898"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Feb 2025"
+    },
+    {
       "id": "142552",
       "category": "Medical Aids",
       "name": "Adult diaper",
@@ -2020,6 +2055,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "20 Jan 2025"
+    },
+    {
+      "id": "142806",
+      "category": "Home Furnishing",
+      "name": "Cabinet with drawers",
+      "description": "Client requires a cabinet with drawers as all her furniture had to be discarded due to bedbugs infestation. Client is medically unfit for work due to mental health, and husband is primary caregiver, working odd jobs to make ends meet. Would greatly appreciate if donor is able to cover delivery costs. Thank you! :)",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - @27 Family Service Centre",
+        "name": "Sharifah Hashim",
+        "email": "sharifah.hashim@montfortcare.org.sg",
+        "phone": [
+          "89406352",
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Feb 2025"
+    },
+    {
+      "id": "142805",
+      "category": "Home Furnishing",
+      "name": "Cupboard",
+      "description": "Client requires a wardrobe as all her furniture had to be discarded due to bedbugs infestation. Client is medically unfit for work due to mental health, and husband is primary caregiver, working odd jobs to make ends meet. Would greatly appreciate if donor can cover delivery costs for the item. Thank you :)",
+      "specifications": "Tall cupboard",
+      "contact": {
+        "org": "Montfort Care - @27 Family Service Centre",
+        "name": "Sharifah Hashim",
+        "email": "sharifah.hashim@montfortcare.org.sg",
+        "phone": [
+          "89406352",
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Feb 2025"
     },
     {
       "id": "142798",
@@ -3202,6 +3273,24 @@
       "date": "22 Jan 2025"
     },
     {
+      "id": "142810",
+      "category": "Infant and Children Items",
+      "name": "Diapers",
+      "description": "Mother is a single mother, supporting 3 children. 1 child is diagnosed with Autism Spectrum Disorder and Hirschsprung disease, requiring to be on diapers usage. Mother is also unable to work as she is the main caregiver of child. Therefore, she is facing financial constraints to afford the diapers.",
+      "specifications": "MamyPoko Kids Pants Boy, XXXL",
+      "contact": {
+        "org": "AWWA Transitional Shelter",
+        "name": "Nur Atikah Binte Hamdan",
+        "email": "nur_atikah@awwa.org.sg",
+        "phone": [
+          "88860487",
+          "65117272"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Feb 2025"
+    },
+    {
       "id": "142804",
       "category": "Infant and Children Items",
       "name": "Diapers (newborn size) - any brand - 2 packs",
@@ -4381,6 +4470,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "21 Jan 2025"
+    },
+    {
+      "id": "142809",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Family with 3 school-going children requires a laptop in working condition for children's home-based learning. Mother is the sole breadwinner as father is unwell and medically unfit for work. Would greatly appreciate if donor can cover delivery costs. Thank you :)",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - @27 Family Service Centre",
+        "name": "Sharifah Hashim",
+        "email": "sharifah.hashim@montfortcare.org.sg",
+        "phone": [
+          "89406352",
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Feb 2025"
     },
     {
       "id": "142649",
@@ -5750,17 +5857,6 @@
       "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
       "validTill": "06 Mar 2025",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "142300",
-      "name": "Two Tin of Nan Milk Power and Milk bottle warmer",
-      "description": "2 Tins of unopened Nan Milk Powder\n1 milk bottle warmer",
-      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-      "validTill": "06 Mar 2025",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
