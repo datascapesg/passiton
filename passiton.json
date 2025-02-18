@@ -1,6 +1,41 @@
 {
   "requests": [
     {
+      "id": "142827",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "For family of 5, with 3 school-going children, living in 2-room rental. Mother is looking for employment, while father has medical issues and is looking for a job. Requires a refrigerator to store their food, as old one had broken down. Donor to be able to cover delivery fee as family cannot afford the fee.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Punggol 616",
+        "name": "Melissa Chong",
+        "email": "melissachong@allkin.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Feb 2025"
+    },
+    {
+      "id": "142825",
+      "category": "Electrical Home Appliances",
+      "name": "donation house phone (cordless phone) (URGENT)",
+      "description": "*Interested donors please WHATSAPP 96183516/ OR EMAIL to liaise.*\nLow income family. sole breadwinner daughter caring for elderly parents with mental health conditions in need of a house phone donation as the house phone recently spoilt. Caseworker is looking for some assistance to help ease caregiver burden. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Community Services - Mental Health",
+        "name": "Mindy Choo",
+        "email": "mindychoo@fycs.org",
+        "phone": [
+          "60117651",
+          "64712022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Feb 2025"
+    },
+    {
       "id": "142821",
       "category": "Electrical Home Appliances",
       "name": "50 inch wall-mounted TV",
@@ -2107,6 +2142,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "20 Jan 2025"
+    },
+    {
+      "id": "142823",
+      "category": "Home Furnishing",
+      "name": "Donations for basic household items",
+      "description": "*Interested donors please WHATSAPP 96183516/ OR EMAIL to liaise.*\nLow income family. sole breadwinner daughter caring for elderly parents with mental health conditions in need of some basic household items support (floor magiclean/ dish washing liquid etc). Caseworker is looking for some assistance to help ease caregiver burden. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Community Services - Mental Health",
+        "name": "Mindy Choo",
+        "email": "mindychoo@fycs.org",
+        "phone": [
+          "60117651",
+          "64712022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Feb 2025"
     },
     {
       "id": "142806",
@@ -4453,6 +4506,24 @@
       "date": "20 Jan 2025"
     },
     {
+      "id": "142822",
+      "category": "Mobility Aids",
+      "name": "Lightweight Travel Rollator",
+      "description": "Client is a 71-year-old senior living in a 2-room rental flat with her daughter and three grandchildren. She recently suffered a stroke, which has affected her mobility, and now requires a wheelchair. Due to the limited space in the house, she prefers a lightweight, foldable wheelchair. However, due to the family's financial situation, they are unable to afford one on their own.",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Community Service Society",
+        "name": "Gabriel Noparat",
+        "email": "gabriel.noparat@reach.org.sg",
+        "phone": [
+          "68010875",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Feb 2025"
+    },
+    {
       "id": "142722",
       "category": "Mobility Aids",
       "name": "cardiac table",
@@ -5403,6 +5474,28 @@
     }
   ],
   "offers": [
+    {
+      "id": "142826",
+      "name": "XXL Woman Clothing",
+      "description": "These are casual clothing for plus size ladies. It includes blouses and pants. Please arrange for self-collection.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "15 Mar 2025",
+      "ageInYears": 4,
+      "dimensions": "Suitable for XXL-XXXL",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Attires/Clothings"
+    },
+    {
+      "id": "142824",
+      "name": "New Working Shoes",
+      "description": "Brand new shoes to donate to those who needs new attire to look for a job. Please arrange for collections.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "28 Feb 2025",
+      "ageInYears": 1,
+      "dimensions": "Size 38/39",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Attires/Clothings"
+    },
     {
       "id": "142330",
       "name": "Maternity clothing & unused nursing bras",
