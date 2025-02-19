@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "142867",
+      "category": "Electrical Home Appliances",
+      "name": "Vacuum Cleaner",
+      "description": "A household of 6, including 3 toddlers and 1 baby, is in urgent need of a vacuum cleaner as their current one has broken down. According to a doctor’s memo, their toddler son has poor wheezing control. Mother has been actively maintaining the cleanliness of their home, but with the vacuum cleaner now broken, keeping the environment dust-free has become challenging. Given the son's health issues, the family would greatly benefit from the support of a new vacuum cleaner.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Kelly Lim",
+        "email": "kelly.lim@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Feb 2025"
+    },
+    {
       "id": "142863",
       "category": "Electrical Home Appliances",
       "name": "SMART TV (small/medium size)",
@@ -727,23 +744,6 @@
       "date": "04 Feb 2025"
     },
     {
-      "id": "142333",
-      "category": "Electrical Home Appliances",
-      "name": "Fridge",
-      "description": "Family of 5  with two young children and an older adult with multiple chronic illnesses from a lower-income background requires a fridge urgently as theirs has broken down.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Jocelyn Joy Gwee",
-        "email": "Jocelyn@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Feb 2025"
-    },
-    {
       "id": "142332",
       "category": "Electrical Home Appliances",
       "name": "Oven",
@@ -1459,6 +1459,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "20 Jan 2025"
+    },
+    {
+      "id": "142870",
+      "category": "Others",
+      "name": "Food Staples (Halal)",
+      "description": "Family, consisting of parents, 3 toddlers and one baby. They are currently experiencing financial hardship. They reside in a HDB rental flat. Father is unable to work due to spinal issues, as documented by a doctor’s memo, and the mother, the primary caregiver, has not been able to return to work due to the children taking turns to fall sick. As a result, the family currently has no income, making it difficult to meet essential needs. \n\nSupport for food staples will helps to minimize the family's expenses.",
+      "specifications": "1L Cooking Oil, 15kg Rice, BeeHoon, Canned Baked Beans, Canned Sardine, Milo, Biscuit",
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Kelly Lim",
+        "email": "kelly.lim@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Feb 2025"
     },
     {
       "id": "142832",
@@ -3499,6 +3516,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "22 Jan 2025"
+    },
+    {
+      "id": "142869",
+      "category": "Infant and Children Items",
+      "name": "Diapers and Milk Powder",
+      "description": "Family, consisting of parents, 3 toddlers and one baby. They are currently experiencing financial hardship. They reside in a HDB rental flat. Father is unable to work due to spinal issues, as documented by a doctor’s memo, and the mother, the primary caregiver, has not been able to return to work due to the children taking turns to fall sick. As a result, the family currently has no income, making it difficult to meet essential needs. \n\nSupport for the children's needs will helps to minimize the family's expenses.",
+      "specifications": "Dumex Durgo Stage 3, Nestle Lactogen 1 Starter Infant Formula, Drypers Drypantz Carton (XL size), Drypers Dryfants (M Size)",
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Kelly Lim",
+        "email": "kelly.lim@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Feb 2025"
+    },
+    {
+      "id": "142868",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder & Diapers",
+      "description": "Family, consisting of parents, 3 toddlers and one baby. They are currently experiencing financial hardship. They reside in a HDB rental flat. Father is unable to work due to spinal issues, as documented by a doctor’s memo, and the mother, the primary caregiver, has not been able to return to work due to the children taking turns to fall sick. As a result, the family currently has no income, making it difficult to meet essential needs. \n\nSupport for the children's needs will helps to minimize the family's expenses.",
+      "specifications": "Dumex Durgo Stage 3, Nestle Lactogen 1 Starter Infant Formula, Drypers Drypantz Carton (XL size), Drypers Dryfants (M Size)",
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Kelly Lim",
+        "email": "kelly.lim@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Feb 2025"
     },
     {
       "id": "142816",
