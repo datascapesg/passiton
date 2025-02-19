@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "142872",
+      "category": "Electrical Home Appliances",
+      "name": "Halal Fridge",
+      "description": "Family of five stays in a two-room rental flat. Both parents are unfit for work, and rely on financial assistance to support their three children in primary and secondary school. Their fridge is spoilt, and they hope to receive a new fridge urgently for their everyday needs so they are able to cook at home and keep their expenditure as low as possible.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Quak Mei Qing",
+        "email": "meiqing@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Feb 2025"
+    },
+    {
       "id": "142867",
       "category": "Electrical Home Appliances",
       "name": "Vacuum Cleaner",
@@ -2213,6 +2230,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "20 Jan 2025"
+    },
+    {
+      "id": "142871",
+      "category": "Home Furnishing",
+      "name": "Double Decker Bed Frame",
+      "description": "Client with multiple health issues is looking for a double decker bed frame to rent a room to foreign workers. Client depends on rental income to meet her basic needs.",
+      "specifications": null,
+      "contact": {
+        "org": "Viriya Community Services - Whispering Hearts Family Service Centre",
+        "name": "Emerald Chua",
+        "email": "emerald@viriya.org.sg",
+        "phone": [
+          "67951008"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Feb 2025"
     },
     {
       "id": "142864",
@@ -5757,17 +5791,6 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
-    },
-    {
-      "id": "142849",
-      "name": "Microwave",
-      "description": "Can you pick up 20.Feb?",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "22 Feb 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
     },
     {
       "id": "142842",
