@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "142879",
+      "category": "Electrical Home Appliances",
+      "name": "Refridgerator and freezer",
+      "description": "Client is a single mum providing for her 4 young children. She just gotten her new place and it is completely unfurnished.",
+      "specifications": "1-door refrigerator & freezer",
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Yew Tee",
+        "name": "Teo Xin Yi",
+        "email": "teoxinyi@fycs.org",
+        "phone": [
+          "64162161",
+          "64162162"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Feb 2025"
+    },
+    {
+      "id": "142878",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is a single mum providing for her 4 young children. She just gotten her new place and it is completely unfurnished.",
+      "specifications": "7kg load, top loading",
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Yew Tee",
+        "name": "Teo Xin Yi",
+        "email": "teoxinyi@fycs.org",
+        "phone": [
+          "64162161",
+          "64162162"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Feb 2025"
+    },
+    {
       "id": "142874",
       "category": "Electrical Home Appliances",
       "name": "standing fan",
@@ -2230,6 +2266,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "20 Jan 2025"
+    },
+    {
+      "id": "142880",
+      "category": "Home Furnishing",
+      "name": "Stove cabinet",
+      "description": "Family of 6 resides in a rental flat. They are requesting for a stove cabinet so that there is a proper place for them to cook at home. Family plans to dispose their current cabinet as there has been sightings of cockroaches whenever they cook.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Chua Bee Guet",
+        "email": "chuabeeguet@fycs.org",
+        "phone": [
+          "66901004",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Feb 2025"
+    },
+    {
+      "id": "142877",
+      "category": "Home Furnishing",
+      "name": "Queen size bed with mattress (with pull out mattress if possible)",
+      "description": "Client is a single mum providing for her 4 young children. She just gotten her new place and it is completely unfurnished.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Yew Tee",
+        "name": "Teo Xin Yi",
+        "email": "teoxinyi@fycs.org",
+        "phone": [
+          "64162161",
+          "64162162"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Feb 2025"
     },
     {
       "id": "142876",
@@ -5854,17 +5926,6 @@
       "validTill": "18 Mar 2025",
       "ageInYears": 1,
       "dimensions": "0x0x0",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "142691",
-      "name": "Rowenta Gourmet Pro Oven 38L",
-      "description": "This is an oven which was last serviced on 29 Nov 2024.",
-      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-      "validTill": "15 Mar 2025",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
     },
