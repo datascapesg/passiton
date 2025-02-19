@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "142874",
+      "category": "Electrical Home Appliances",
+      "name": "standing fan",
+      "description": "My client, a 72-year-old individual living under the JSS, is seeking a rice cooker (Halal/with no prior use of pork or lard), a standing fan, and a mattress.",
+      "specifications": null,
+      "contact": {
+        "org": "Viriya Family Service Centre",
+        "name": "Grace Ang",
+        "email": "grace_ang@viriya.org.sg",
+        "phone": [
+          "62855033",
+          "62858033"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "19 Feb 2025"
+    },
+    {
       "id": "142872",
       "category": "Electrical Home Appliances",
       "name": "Halal Fridge",
@@ -292,24 +310,6 @@
         "phone": [
           "88554795",
           "67169466"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "11 Feb 2025"
-    },
-    {
-      "id": "142599",
-      "category": "Electrical Home Appliances",
-      "name": "32 inch TV",
-      "description": "Helping to get a 32 inch TV for a female senior who is frail and staying alone in a one-room rental flat. Her current TV is spoilt and she got no money to buy a new one as she is under financial assistance and the money is just enough for her daily expenses.",
-      "specifications": null,
-      "contact": {
-        "org": "Presbyterian Community Services",
-        "name": "Andy Toh",
-        "email": "andytoh@pcs.org.sg",
-        "phone": [
-          "67866826",
-          "63344445"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2230,6 +2230,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "20 Jan 2025"
+    },
+    {
+      "id": "142876",
+      "category": "Home Furnishing",
+      "name": "Wardrobe",
+      "description": "My client, a 72-year-old individual living under the JSS, is seeking a wardrobe normal standard, size 3/4 door preferably can lock or a chest of 5  drawers.",
+      "specifications": null,
+      "contact": {
+        "org": "Viriya Family Service Centre",
+        "name": "Grace Ang",
+        "email": "grace_ang@viriya.org.sg",
+        "phone": [
+          "62855033",
+          "62858033"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Feb 2025"
+    },
+    {
+      "id": "142875",
+      "category": "Home Furnishing",
+      "name": "Single Size mattress",
+      "description": "My client, a 72-year-old individual living under the JSS, is seeking a rice cooker (Halal/with no prior use of pork or lard), a standing fan, and a mattress.",
+      "specifications": null,
+      "contact": {
+        "org": "Viriya Family Service Centre",
+        "name": "Grace Ang",
+        "email": "grace_ang@viriya.org.sg",
+        "phone": [
+          "62855033",
+          "62858033"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "19 Feb 2025"
     },
     {
       "id": "142871",
@@ -5643,6 +5679,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "22 Jan 2025"
+    },
+    {
+      "id": "142873",
+      "category": "Kitchen Utility Items",
+      "name": "Rice cooker",
+      "description": "My client, a 72-year-old individual living under the JSS, is seeking a rice cooker (Halal/with no prior use of pork or lard), a standing fan, and a mattress.",
+      "specifications": null,
+      "contact": {
+        "org": "Viriya Family Service Centre",
+        "name": "Grace Ang",
+        "email": "grace_ang@viriya.org.sg",
+        "phone": [
+          "62855033",
+          "62858033"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "19 Feb 2025"
     },
     {
       "id": "142311",
