@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "142909",
+      "category": "Electrical Home Appliances",
+      "name": "Vacuum Cleaner",
+      "description": "A single mother with a young child, residing in HDB rental flat, is seeking a vacuum cleaner to help manage the home environment. For further details, please contact their social worker, Grace Lim at 87188442. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Norlizawati Binte Hamid",
+        "email": "norlizawati@thkmc.org.sg",
+        "phone": [
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Feb 2025"
+    },
+    {
       "id": "142907",
       "category": "Electrical Home Appliances",
       "name": "Microwave",
@@ -4894,23 +4911,6 @@
       "date": "20 Feb 2025"
     },
     {
-      "id": "142884",
-      "category": "Mobility Aids",
-      "name": "Walker stick",
-      "description": "Client was previously incarcerated and was released on 28 September 2024. She is facing challenges in securing employment due to her history of incarcerations. She has been suffering from lower back and knee pain since January this year and requiring a walking stick for mobility support. Client has limited social support and is currently receiving ComCare Short-to-Medium-Term Assistance.",
-      "specifications": null,
-      "contact": {
-        "org": "Sembawang Family Service Centre",
-        "name": "Po Woei Yee",
-        "email": "powoeiyee@sfsc.org.sg",
-        "phone": [
-          "67547050"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Feb 2025"
-    },
-    {
       "id": "142839",
       "category": "Mobility Aids",
       "name": "Lightweight Travel Rollator",
@@ -6805,17 +6805,6 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
-    },
-    {
-      "id": "142887",
-      "name": "Grill",
-      "description": "Sparingly used travellers grill with accessories.",
-      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-      "validTill": "28 Feb 2025",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Others"
     },
     {
       "id": "142754",
