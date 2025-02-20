@@ -1497,6 +1497,24 @@
       "date": "20 Jan 2025"
     },
     {
+      "id": "141785",
+      "category": "Others",
+      "name": "Mobile phone",
+      "description": "Elderly with financial difficulties requires a working mobile phone to replace his current faulty one.",
+      "specifications": null,
+      "contact": {
+        "org": "SACS Anglican Cluster Operator @ Jurong East",
+        "name": "Koh Leong Foo",
+        "email": "leongfoo_koh@sacs.org.sg",
+        "phone": [
+          "62621183ext209",
+          "62621183"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Feb 2025"
+    },
+    {
       "id": "142870",
       "category": "Others",
       "name": "Food Staples (Halal)",
@@ -2390,23 +2408,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "19 Feb 2025"
-    },
-    {
-      "id": "142841",
-      "category": "Home Furnishing",
-      "name": "2-seater sofa",
-      "description": "Elderly man with low income needs a replacement of 2-seater sofa. Working good condition preferred. Will appreciate covering of delivery fee as well.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner - Community Case Management Service Central",
-        "name": "Josherine Toh",
-        "email": "josherinetoh@carecorner.org.sg",
-        "phone": [
-          "62586601"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Feb 2025"
     },
     {
       "id": "142836",
@@ -3608,6 +3609,23 @@
       "date": "22 Jan 2025"
     },
     {
+      "id": "142883",
+      "category": "Infant and Children Items",
+      "name": "Milk powder and diapers",
+      "description": "Family with 5 young children requires support with milk powder and diapers. Father's income was severely affected due to unpaid leave to care for his 1 year old hospitalisation, while mother is unfit for work.\nFamily requires Nanpro stage 3 (child unable to take other milk). They also need Diapers XL (1 yr old) and XXL (2.5year old).",
+      "specifications": "XL and XXL",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Punggol 616",
+        "name": "Mohd Fadil Bin Hassan",
+        "email": "mohdfadil@allkin.org.sg",
+        "phone": [
+          "64355323"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Feb 2025"
+    },
+    {
       "id": "142869",
       "category": "Infant and Children Items",
       "name": "Diapers and Milk Powder",
@@ -4769,6 +4787,23 @@
       "date": "20 Jan 2025"
     },
     {
+      "id": "142884",
+      "category": "Mobility Aids",
+      "name": "Walker stick",
+      "description": "Client was previously incarcerated and was released on 28 September 2024. She is facing challenges in securing employment due to her history of incarcerations. She has been suffering from lower back and knee pain since January this year and requiring a walking stick for mobility support. Client has limited social support and is currently receiving ComCare Short-to-Medium-Term Assistance.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Feb 2025"
+    },
+    {
       "id": "142839",
       "category": "Mobility Aids",
       "name": "Lightweight Travel Rollator",
@@ -4892,6 +4927,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "21 Jan 2025"
+    },
+    {
+      "id": "142885",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Family has a 10 year old, school-going son, whose father is incarcerated and mom is a foreigner who is unable to secure stable employment due to medical condition. Their current laptop is slow and faulty. A functioning laptop will be beneficial to the boy in ensuring he can keep up with his school work. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Woodlands",
+        "name": "Lee Hui En",
+        "email": "leehuien@carecorner.org.sg",
+        "phone": [
+          "63622481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Feb 2025"
     },
     {
       "id": "142809",
@@ -5884,6 +5936,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "142886",
+      "name": "Mistral 20 l oven",
+      "description": "20 litre oven with all accessories. Well maintained and works well. H",
+      "location": null,
+      "validTill": "28 Feb 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "142842",
       "name": "Brand new in box 1.5l vacuum Flask",
       "description": "Self collect at my place .",
@@ -6610,17 +6673,6 @@
       "category": "Medical Aids"
     },
     {
-      "id": "142882",
-      "name": "Eurocare Sprint PMA",
-      "description": "Referred to from AIC to donate.\n\nUsed PMA from late dad. Good condition with minimal use, comes with charger.\n\nIdeally location is near 460185 so I can \"drive\" the PMA over, but may require specialised delivery due to weight and size.",
-      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-      "validTill": "22 Mar 2025",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
       "id": "142840",
       "name": "Wheelchair",
       "description": "Can also double as commute, has new 'wheel tyres'",
@@ -6696,6 +6748,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "142887",
+      "name": "Grill",
+      "description": "Sparingly used travellers grill with accessories.",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "28 Feb 2025",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "142754",
