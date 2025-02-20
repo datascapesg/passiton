@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "142907",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave",
+      "description": "Family of 5 stays in a 4-room flat with 4 other members with chronic medical and mental health conditions. Client is currently a full-time student and her father with a heart condition is the only sole breadwinner for the family. Their household appliances are getting old and starting to malfunction. They need a new microwave oven to heat up food for father who usually ends work at 9-10pm.",
+      "specifications": "Microwave Oven",
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Yew Tee",
+        "name": "Calyn Xu",
+        "email": "calynxu@fycs.org",
+        "phone": [
+          "64162155",
+          "64162162"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Feb 2025"
+    },
+    {
+      "id": "142906",
+      "category": "Electrical Home Appliances",
+      "name": "Handheld vacuum cleaner",
+      "description": "Family of 5 stays in a 4-room flat with 4 other members with chronic medical and mental health conditions. Client is currently a full-time student and her father with a heart condition is the only sole breadwinner for the family. Mother recently experiences deteriorating leg strength which causes her to fall down very often. Mother usually falls at home whenever she is doing housework (mopping) which she had to be sent to A&E to further examination. A handheld vacuum cleaner will enable mother to keep her floor clean without having to mop her floor so often.",
+      "specifications": "Handheld vacuum",
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Yew Tee",
+        "name": "Calyn Xu",
+        "email": "calynxu@fycs.org",
+        "phone": [
+          "64162155",
+          "64162162"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Feb 2025"
+    },
+    {
       "id": "142895",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -4873,6 +4909,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "20 Jan 2025"
+    },
+    {
+      "id": "142908",
+      "category": "Mobility Aids",
+      "name": "Walking Frame",
+      "description": "Family of 5 stays in a 4-room flat with 4 other members with chronic medical and mental health conditions. Client is currently a full-time student and her father with a heart condition is the only sole breadwinner for the family. Mother recently experiences deteriorating leg strength which causes her to fall down very often. Medical professionals have advised her to use a walking frame to help stablise and support her in her walking.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Yew Tee",
+        "name": "Calyn Xu",
+        "email": "calynxu@fycs.org",
+        "phone": [
+          "64162155",
+          "64162162"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Feb 2025"
     },
     {
       "id": "142884",
