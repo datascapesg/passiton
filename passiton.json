@@ -54,24 +54,6 @@
       "date": "21 Feb 2025"
     },
     {
-      "id": "142903",
-      "category": "Others",
-      "name": "Food rations",
-      "description": "Client is a single mother with school-going child. Client is in the midst of moving in to their new purchased flat after years of hard work in 2 jobs, and would like to request for food rations to cope with finances with the recent move in to the flat.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Lynette Tan",
-        "email": "lynettetan@thkmc.org.sg",
-        "phone": [
-          "64961272",
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Feb 2025"
-    },
-    {
       "id": "142870",
       "category": "Others",
       "name": "Food Staples (Halal)",
@@ -1729,6 +1711,24 @@
       "date": "24 Feb 2025"
     },
     {
+      "id": "142988",
+      "category": "Infant and Children Items",
+      "name": "play pen for baby",
+      "description": "Family with an 8 month old baby requires a playpen. Family is currently unable to afford as they are attempting to stabilise their financial situation.",
+      "specifications": null,
+      "contact": {
+        "org": "Kampong Kapor Community Services",
+        "name": "Renganathan s/o Panneer Selvam",
+        "email": "renganathan@kkcs.org.sg",
+        "phone": [
+          "62997535",
+          "62997662"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Feb 2025"
+    },
+    {
       "id": "142972",
       "category": "Infant and Children Items",
       "name": "PediaSure Gold Growing up Milk - Classic Vanilla (For children 1-10 years old)",
@@ -2711,6 +2711,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "27 Jan 2025"
+    },
+    {
+      "id": "142989",
+      "category": "Home Furnishing",
+      "name": "wardrobe",
+      "description": "A household with 8 family members, staying at rental unit requires a wardrobe as their previous wardrobe is currently broken. Family is currently unable to afford as they are attempting to stabilise their financial situation.",
+      "specifications": null,
+      "contact": {
+        "org": "Kampong Kapor Community Services",
+        "name": "Renganathan s/o Panneer Selvam",
+        "email": "renganathan@kkcs.org.sg",
+        "phone": [
+          "62997535",
+          "62997662"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Feb 2025"
     },
     {
       "id": "142963",
@@ -4112,17 +4130,6 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
-    },
-    {
-      "id": "142979",
-      "name": "Halal Fridge",
-      "description": "Halal",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "28 Feb 2025",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
     },
     {
       "id": "142953",
