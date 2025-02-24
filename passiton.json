@@ -669,6 +669,41 @@
       "date": "24 Jan 2025"
     },
     {
+      "id": "142992",
+      "category": "Electrical Home Appliances",
+      "name": "Standing Fan",
+      "description": "Client is a 56-year-old stay-home father with one child aged 7 years old. They live in a 2-room rental flat in Yishun. Client is certified to be permanently unfit for work by his doctor as he has multiple chronic health conditions, including a degenerative nerve issue in his right hand and nerve pain in his neck.Client is now relying on the SSO ComCare assistance and MOE FAS to support his son and his family in the Philippines (his wife, 3 step children, and parents-in-law).",
+      "specifications": "Able to oscillate, preferably with high fan speed",
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "mwsfscy@mws.sg",
+        "phone": [
+          "83688612",
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Feb 2025"
+    },
+    {
+      "id": "142991",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is staying on his own with limited mobility. He has no familial support and is suffering from medical condition. Client is currently receiving financial assistance. Client hopes to receive a small top load washing machine for his usage as he currently washes his laundry manually. For further liaison, kindly contact me at 98598768 on WhatsApp if possible, thank you so much!",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (East)",
+        "name": "Nur Afrina",
+        "email": "fsceast@ppis.sg",
+        "phone": [
+          "60156970"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Feb 2025"
+    },
+    {
       "id": "142974",
       "category": "Electrical Home Appliances",
       "name": "10.5kg washing machine (front load)",
@@ -1871,40 +1906,6 @@
       "date": "24 Feb 2025"
     },
     {
-      "id": "142925",
-      "category": "Infant and Children Items",
-      "name": "Diapers",
-      "description": "Client has 4 daughters, age 5, 3, 1 and 6 months old. Client has been unemployed ever since the birth of first child. Husband has not been able to work consistently in the past month due to caregiving support client require, especially as children has been falling sick often. Family is currently receiving financial assistance as well. Family hopes for support of a few packets of Drypers Pants XL for eldest 3 daughters. Kindly contact/WhatsApp me at 98598768 for further liaison, thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (East)",
-        "name": "Nur Afrina",
-        "email": "fsceast@ppis.sg",
-        "phone": [
-          "60156970"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Feb 2025"
-    },
-    {
-      "id": "142922",
-      "category": "Infant and Children Items",
-      "name": "Diapers",
-      "description": "Client has 4 daughters, age 5, 3, 1 and 6 months old. Client has been unemployed ever since the birth of first child. Husband has not been able to work consistently in the past month due to caregiving support client require, especially as children has been falling sick often. Family is currently receiving financial assistance as well. Family hopes for support of a few packets of Drypers Pants XL and Drypers Pants XXL for eldest 3 daughters. Kindly contact/WhatsApp me at 98598768 for further liaison, thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (East)",
-        "name": "Nur Afrina",
-        "email": "fsceast@ppis.sg",
-        "phone": [
-          "60156970"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Feb 2025"
-    },
-    {
       "id": "142889",
       "category": "Infant and Children Items",
       "name": "Child Barrier for home",
@@ -1986,23 +1987,6 @@
         "phone": [
           "68179433",
           "64752072"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Feb 2025"
-    },
-    {
-      "id": "142811",
-      "category": "Infant and Children Items",
-      "name": "Diapers",
-      "description": "Client has 4 daughters, age 5, 3, 1 and 6 months old. Client has been unemployed ever since the birth of first child. Husband has not been able to work consistently in the past month due to caregiving support client require, especially as children has been falling sick often. Family is currently receiving financial assistance as well. Family hopes for support of a few packets of Drypers Pants XL and Drypers Pants XXL for eldest 3 daughters. Kindly contact/WhatsApp me at 98598768 for further liaison, thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (East)",
-        "name": "Nur Afrina",
-        "email": "fsceast@ppis.sg",
-        "phone": [
-          "60156970"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -4220,6 +4204,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "142993",
+      "name": "Ikea armchair",
+      "description": "In good condition , with slight stain. Happy to send directly if convenient",
+      "location": null,
+      "validTill": "26 Mar 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "142982",
       "name": "Office chair",
       "description": "Ergonomic office chair bought in Japan about four years ago. Well used but in excellent condition. Only issue is the neck support is loose. adjustable back support, seat height and handles.",
@@ -4227,17 +4222,6 @@
       "validTill": "15 Mar 2025",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "142960",
-      "name": "2x brown leather sofa",
-      "description": "3 seat sofa 2 units",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "13 Mar 2025",
-      "ageInYears": 4,
-      "dimensions": "3 seat sofa 2 units",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -4847,34 +4831,12 @@
       "category": "Medical Aids"
     },
     {
-      "id": "142956",
-      "name": "Hospital Bed",
-      "description": "Hospital bed in good condition",
-      "location": null,
-      "validTill": "28 Feb 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
       "id": "142935",
       "name": "Walking stick",
       "description": "Walking Stick",
       "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
       "validTill": "23 Mar 2025",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
-      "id": "142924",
-      "name": "Hospital Bed with air mattress",
-      "description": "Hospital bed with air mattress. Used about 18 month",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "23 Mar 2025",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"

@@ -198,6 +198,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "142993",
+    "name": "Ikea armchair",
+    "description": "In good condition , with slight stain. Happy to send directly if convenient",
+    "location": null,
+    "validTill": "26 Mar 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "142982",
     "name": "Office chair",
     "description": "Ergonomic office chair bought in Japan about four years ago. Well used but in excellent condition. Only issue is the neck support is loose. adjustable back support, seat height and handles.",
@@ -205,17 +216,6 @@
     "validTill": "15 Mar 2025",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "142960",
-    "name": "2x brown leather sofa",
-    "description": "3 seat sofa 2 units",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "13 Mar 2025",
-    "ageInYears": 4,
-    "dimensions": "3 seat sofa 2 units",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -825,34 +825,12 @@
     "category": "Medical Aids"
   },
   {
-    "id": "142956",
-    "name": "Hospital Bed",
-    "description": "Hospital bed in good condition",
-    "location": null,
-    "validTill": "28 Feb 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "142935",
     "name": "Walking stick",
     "description": "Walking Stick",
     "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
     "validTill": "23 Mar 2025",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "142924",
-    "name": "Hospital Bed with air mattress",
-    "description": "Hospital bed with air mattress. Used about 18 month",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "23 Mar 2025",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
