@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "143056",
+      "category": "Infant and Children Items",
+      "name": "Drypers Drypantz Pants - XXL (15 - 25kg)",
+      "description": "Our low-income beneficiaries require assistance with their necessities for their children while they work towards financial stability. These include milk powder and diapers. Club Rainbow only accepts unopened packs",
+      "specifications": null,
+      "contact": {
+        "org": "Club Rainbow (Singapore)",
+        "name": "Nurulhuda Binte Abu Bakar",
+        "email": "nurul@clubrainbow.org",
+        "phone": [
+          "81336189",
+          "63771789"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Feb 2025"
+    },
+    {
       "id": "132754",
       "category": "Infant and Children Items",
       "name": "MamyPoko Extra Dry Skin Boy Pants - XXXL",
@@ -1059,6 +1077,24 @@
       "date": "27 Jan 2025"
     },
     {
+      "id": "143057",
+      "category": "Others",
+      "name": "Self Assembly Bed",
+      "description": "Client received a self-assembly bed but needs help assembling the bed from a contractor. The client is very old and unable to assemble the bed herself. She and her husband are both in her 70s without the ability to do so.",
+      "specifications": "Self Assembly Bed",
+      "contact": {
+        "org": "MWS Family Service Centre - Yishun",
+        "name": "Amy Chua",
+        "email": "mwsfscy@mws.sg",
+        "phone": [
+          "83688612",
+          "67564995"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Feb 2025"
+    },
+    {
       "id": "141218",
       "category": "Others",
       "name": "Tena pull up pants - Size M",
@@ -1991,10 +2027,10 @@
       "date": "03 Feb 2025"
     },
     {
-      "id": "143053",
+      "id": "143055",
       "category": "Electrical Home Appliances",
-      "name": "Table fan",
-      "description": "Mother is currently going through divorce and has two children. She works hard to support family and also has medical issues that she has to manage. Her previous fan has broken down and a table fan would be helpful in providing some comfort for her and her children.\n\nCan whatsapp 6038 4091 work phone",
+      "name": "New table fan",
+      "description": "Mother is currently going through divorce and has two children. She works hard to support family and also has medical issues that she has to manage. Her previous fan has broken down and a table fan would be helpful in providing some comfort for her and her children. \n\nCan whatsapp 6038 4091 work phone",
       "specifications": null,
       "contact": {
         "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
@@ -2162,24 +2198,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": false,
-      "date": "24 Feb 2025"
-    },
-    {
-      "id": "142992",
-      "category": "Electrical Home Appliances",
-      "name": "Standing Fan",
-      "description": "Client is a 56-year-old stay-home father with one child aged 7 years old. They live in a 2-room rental flat in Yishun. Client is certified to be permanently unfit for work by his doctor as he has multiple chronic health conditions, including a degenerative nerve issue in his right hand and nerve pain in his neck.Client is now relying on the SSO ComCare assistance and MOE FAS to support his son and his family in the Philippines (his wife, 3 step children, and parents-in-law).",
-      "specifications": "Able to oscillate, preferably with high fan speed",
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "mwsfscy@mws.sg",
-        "phone": [
-          "83688612",
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
       "date": "24 Feb 2025"
     },
     {
@@ -4651,17 +4669,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "142788",
-      "name": "Super single bed board and mattress",
-      "description": "Super single size bed board and mattress.\n3 years use. \nNo storage under bed.\nNo storage on head board. \nDecided to dispose due to moving out.\nPrefer VWO to collect and deliver at own charge.",
-      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-      "validTill": "15 Mar 2025",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "142759",
       "name": "Single sofa",
       "description": "Spacious single sofa. Good to rest on it . Water resistant fabric cover.",
@@ -5174,6 +5181,28 @@
       "location": "Farrer Park, Little India, Serangoon Road",
       "validTill": "12 Mar 2025",
       "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "143058",
+      "name": "Commode",
+      "description": "Seldom use",
+      "location": "Balestier, Toa Payoh",
+      "validTill": "10 Mar 2025",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "143059",
+      "name": "Commode",
+      "description": "Seldom use",
+      "location": "Balestier, Toa Payoh",
+      "validTill": "10 Mar 2025",
+      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
