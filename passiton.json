@@ -2703,23 +2703,6 @@
       "date": "21 Feb 2025"
     },
     {
-      "id": "142923",
-      "category": "Electrical Home Appliances",
-      "name": "Vacuum Cleaner",
-      "description": "Low-income family living in rental flat require a vacuum cleaner to help with clean up the house",
-      "specifications": "Cordless",
-      "contact": {
-        "org": "Montfort Care - Marine Parade Family Service Centre",
-        "name": "Oh Jia Jia",
-        "email": "jiajia.oh@montfortcare.org.sg",
-        "phone": [
-          "64450100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Feb 2025"
-    },
-    {
       "id": "142879",
       "category": "Electrical Home Appliances",
       "name": "Refridgerator and freezer",
@@ -4962,6 +4945,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
+    },
+    {
+      "id": "143095",
+      "name": "vacuum cleaner(airbot)",
+      "description": "Vacuum cleaner that doesn't need to use vacuum bag. Need to clear space urgently.",
+      "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+      "validTill": "28 Mar 2025",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
     },
     {
       "id": "143010",
