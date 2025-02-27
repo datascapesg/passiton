@@ -88,17 +88,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "143095",
-    "name": "vacuum cleaner(airbot)",
-    "description": "Vacuum cleaner that doesn't need to use vacuum bag. Need to clear space urgently.",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "28 Mar 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "143010",
     "name": "Microwave",
     "description": "Microwave in good condition",
@@ -293,6 +282,17 @@
     "validTill": "08 Mar 2025",
     "ageInYears": 3,
     "dimensions": "1.8m length; 1.25m width x 2 panels",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "143105",
+    "name": "Teak study desk",
+    "description": "Excellent condition lightly used",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "09 Mar 2025",
+    "ageInYears": 2,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
