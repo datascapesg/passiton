@@ -4117,23 +4117,6 @@
       "date": "05 Feb 2025"
     },
     {
-      "id": "142345",
-      "category": "Others",
-      "name": "Mobile Phone",
-      "description": "Client's wife does not have a phone and requires it to communicate with client and their social worker. If you have a suitable item please reach out to us at 9828 7307 thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Family Service Centre - Tampines",
-        "name": "Han Wen Ting",
-        "email": "hanwenting@mws.sg",
-        "phone": [
-          "67872001"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Feb 2025"
-    },
-    {
       "id": "142296",
       "category": "Others",
       "name": "Transport Needs",
@@ -5914,6 +5897,23 @@
       "date": "12 Feb 2025"
     },
     {
+      "id": "143330",
+      "category": "Mobility Aids",
+      "name": "Commode",
+      "description": "Client is a 66-year-old single elderly individual with limited family support from his family members. Due to a past work accident, he underwent a left leg amputation. The recent change in his living environment has further impacted his ability to manage toileting independently. With the support of a commode, he would be able to carry out toileting with greater ease while reducing the risk of falls.",
+      "specifications": "Standard Size",
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Muhammamd Farhan Bin Abdul Rahman",
+        "email": "muhdfarhan.abdrahman@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Mar 2025"
+    },
+    {
       "id": "143312",
       "category": "Mobility Aids",
       "name": "Walking stick with umbrelle",
@@ -6853,6 +6853,17 @@
       "dimensions": "16 Ch/Fr (5.3mm)",
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "143331",
+      "name": "Hospital bed",
+      "description": "https://www.rainbowcare.com.sg/livorno-split-side-rails?srsltid=AfmBOooaYVY46292QM3wKY05REtxRYLGGLE5ub-JtA_N-grsFhh9TX3L",
+      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+      "validTill": "15 Mar 2025",
+      "ageInYears": 3,
+      "dimensions": "212 x 105 x 31/80",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "143172",
