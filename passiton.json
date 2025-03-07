@@ -1521,24 +1521,6 @@
       "date": "07 Mar 2025"
     },
     {
-      "id": "143368",
-      "category": "Medical Aids",
-      "name": "Blood Pressure Monitor",
-      "description": "Client(m/70) no income due to his multiple health condition and heavily dependant on FAs. Client was required to test his pressure and sugar level on a daily basis. Therefore he needs the machines for his own",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Cheng San 445",
-        "name": "Nur Ain Afini Binte Hamdan",
-        "email": "nurainafini@allkin.org.sg",
-        "phone": [
-          "64546678",
-          "64578559"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Mar 2025"
-    },
-    {
       "id": "143365",
       "category": "Medical Aids",
       "name": "Diaper (M size, pull up pants)",
@@ -1870,6 +1852,94 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "05 Feb 2025"
+    },
+    {
+      "id": "143392",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge (Halal)",
+      "description": "Single mum with 2 children earning low income needs a fridge to replace her faulty one (not cold anymore). As the family is Muslim, the fridge cannot have contained pork before.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Victoria Chong",
+        "email": "victoriachong@fycs.org",
+        "phone": [
+          "69783482",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Mar 2025"
+    },
+    {
+      "id": "143391",
+      "category": "Electrical Home Appliances",
+      "name": "Vacuum cleaner",
+      "description": "Single mum with 4 children in need of a vacuum cleaner to keep home tidy. She is now largely wheelchair bound since fracturing her foot, and the vacuum will greatly help with maintaining home cleanliness.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Victoria Chong",
+        "email": "victoriachong@fycs.org",
+        "phone": [
+          "69783482",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Mar 2025"
+    },
+    {
+      "id": "143389",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine (front-loading)",
+      "description": "URGENT need for washing machine for an elderly man who has physically disability and struggling to stand and walk.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Victoria Chong",
+        "email": "victoriachong@fycs.org",
+        "phone": [
+          "69783482",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Mar 2025"
+    },
+    {
+      "id": "143383",
+      "category": "Electrical Home Appliances",
+      "name": "Television (TV)",
+      "description": "Single mother with 2 children living in a rental flat. Client requires a replacement to the faulty tv",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Nadiah Razak",
+        "email": "nadiah.razak@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Mar 2025"
+    },
+    {
+      "id": "140329",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is living alone and is permanently unfit to work due to health complications. Client shares it has been difficult for him to go launderette alone and it is expensive.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Nadiah Razak",
+        "email": "nadiah.razak@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Mar 2025"
     },
     {
       "id": "143367",
@@ -3413,6 +3483,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "04 Feb 2025"
+    },
+    {
+      "id": "143388",
+      "category": "Others",
+      "name": "NESTLE Resource Fruit",
+      "description": "Supplement needed to feed an adult with disability, whose family is struggling with no income. \n\nhttps://www.nestlehealthscience.sg/brands/resource/resource-fruit-200ml",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Victoria Chong",
+        "email": "victoriachong@fycs.org",
+        "phone": [
+          "69783482",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Mar 2025"
+    },
+    {
+      "id": "143387",
+      "category": "Others",
+      "name": "Adult diapers",
+      "description": "Adult diapers (taped or pull up) urgently needed for a family with no income, and have elderly who needs diapers for basic hygiene.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Victoria Chong",
+        "email": "victoriachong@fycs.org",
+        "phone": [
+          "69783482",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Mar 2025"
     },
     {
       "id": "143352",
@@ -6072,6 +6178,42 @@
       "date": "12 Feb 2025"
     },
     {
+      "id": "143386",
+      "category": "Mobility Aids",
+      "name": "Wheelchair",
+      "description": "URGENT need for a wheelchair for low income family to bring their elderly mum to medical appointments.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Victoria Chong",
+        "email": "victoriachong@fycs.org",
+        "phone": [
+          "69783482",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Mar 2025"
+    },
+    {
+      "id": "143385",
+      "category": "Mobility Aids",
+      "name": "Walking frame",
+      "description": "URGENT need for a walking frame (foldable or fixed also fine) for an elderly lady from a family with low income.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Victoria Chong",
+        "email": "victoriachong@fycs.org",
+        "phone": [
+          "69783482",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Mar 2025"
+    },
+    {
       "id": "143360",
       "category": "Mobility Aids",
       "name": "Personal Mobility Aid",
@@ -6445,17 +6587,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "143363",
-      "name": "Storage Racks",
-      "description": "Open storage shelves",
-      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-      "validTill": "15 Mar 2025",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "143298",
       "name": "coffee table",
       "description": "Coffee table with glass top",
@@ -6808,6 +6939,17 @@
       "category": "Leisure and Healthy Lifestyle"
     },
     {
+      "id": "143390",
+      "name": "Art materials",
+      "description": "As my kid has already grown. Lots of crayons and colour pencils, sewing threads still available. Including paint brush.",
+      "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+      "validTill": "06 Apr 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Learning Aids"
+    },
+    {
       "id": "143152",
       "name": "Comic (Nick Vujicic)",
       "description": "The comic is in Chinese.\n\nDelivery on weekday evening and weekend.",
@@ -7092,6 +7234,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "143384",
+      "name": "MyLO Breast Milk Storage Bags",
+      "description": "BRAND NEW! (bought wrongly) \nESP FOR BREASTFEEDING MUMS WHO ARE WORKING. MyLO Breast Milk Storage Bags come with Oxygen Barrier, Pour Spout and Temperature Sensor. It has a pourable spout to help get breast milk into bottles without spilling a drop. It eases breast-to-bottle journey by making breast milk storage less hectic and more hygienic. Featuring an Oxygen Barrier which slows down the oxidizing of breastmilk enzymes which are the cause of breast milk odour. It also comes with a built-in heat sensor that helps you attain the perfect feeding temperature! Made of double-layer premium LDPE/PET plastics that are freezer safe and provide an additional layer of oxygen barrier to slow down oxidizing of breastmilk enzyme. This will preserve breast milk freshness and taste after freezing.\n\nFDA certified & BPA Free\nOxygen barrier - slow down the oxidizing of breastmilk enzyme which are the cause of breast milk odour\nReduce contamination - MyLO Breast Milk Storage Bags comes with separate milk pouring spout instead of using the same bag's mouth which could have been contaminated by germs on dirty thumbs & fingers.\nGenius thermometer - Built-in heat sensor for perfect feeding temperature\nDay and night indicator tab for easy labelling on daytime and nighttime breastmilk\nPremium grade plastic - 2 thick layers of premium LDPE/PET plastic with 0.5mm edge seal prevent the leaking of breast milk\nContains 10 bags per box\nDouble zip lock for leak-proof and tight sealing\nWrite-on-tab designated area allows the name, date and volume to be written clearly without any risk of ink contamination and puncturing the bag\nSafe for refrigerator/freezer storage\nWide and sturdy opening for easy filling\nSelf-standing bottom for effective storage and thawing – easily sit or lay flat on your freezer shelf for fast freezing and thawing\nClean and safe - MyLO Breast Milk Storage Bag ensures cleanliness is pre-sterilized and uses only baby-safe material that is free from carcinogens (BPA Free)",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "06 Apr 2025",
+      "ageInYears": 1,
+      "dimensions": "250 ml capacity per bag",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "143198",
