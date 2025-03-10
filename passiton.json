@@ -1,6 +1,41 @@
 {
   "requests": [
     {
+      "id": "143464",
+      "category": "Home Furnishing",
+      "name": "Single mattress",
+      "description": "A low income senior with history of stroke requires a new single sized mattress as the current one has sunk in the middle.\nAppreciate provision of delivery as well.\nThank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner - Community Case Management Service Central",
+        "name": "Josherine Toh",
+        "email": "josherinetoh@carecorner.org.sg",
+        "phone": [
+          "62586601"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Mar 2025"
+    },
+    {
+      "id": "143463",
+      "category": "Home Furnishing",
+      "name": "Dining Table and Chairs [1 Table, 4 chairs]",
+      "description": "Family is household of 7 members. Husband has declared bankrupt, and hones 2 jobs to sustain the family's needs. Incurred multiple debts including licensed moneylenders. Family is in need of a dining table and chairs as they are often sitting on the floor for their meals.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Cheng San 445",
+        "name": "Fahmi Bin Jazid",
+        "email": "fahmi@allkin.org.sg",
+        "phone": [
+          "64546678",
+          "64578559"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Mar 2025"
+    },
+    {
       "id": "143462",
       "category": "Home Furnishing",
       "name": "2-door cupboard",
@@ -1190,6 +1225,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "10 Feb 2025"
+    },
+    {
+      "id": "143467",
+      "category": "Infant and Children Items",
+      "name": "XL Drypers",
+      "description": "Young couple with 2 preschool children. Husband is the sole breadwinner as wife is still seeking employment. Family is struggling as they are still paying off home loans and needs support with milk and diapers to alleviate their monthly expenses.",
+      "specifications": "NA",
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Emma Zhang",
+        "email": "emmazhang@fycs.org",
+        "phone": [
+          "69783022",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Mar 2025"
+    },
+    {
+      "id": "143466",
+      "category": "Infant and Children Items",
+      "name": "Fernleaf Full Cream Milk Powder",
+      "description": "Young couple with 2 preschool children. Husband is the sole breadwinner as wife is still seeking employment. Family is struggling as they are still paying off home loans and needs support with milk and diapers to alleviate their monthly expenses.",
+      "specifications": "NA",
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Emma Zhang",
+        "email": "emmazhang@fycs.org",
+        "phone": [
+          "69783022",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Mar 2025"
     },
     {
       "id": "143460",
@@ -6016,6 +6087,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "143465",
+      "name": "Bosch washing machine",
+      "description": "Bosch washing machine/dryer used for 2 years, in good condition",
+      "location": "Braddell , Macpherson, Potong Pasir",
+      "validTill": "31 Mar 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "142842",
       "name": "Brand new in box 1.5l vacuum Flask",
       "description": "Self collect at my place .",
@@ -6221,17 +6303,6 @@
       "validTill": "08 Apr 2025",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "143410",
-      "name": "Anuri playpen fence 210x140x65cm with anti collision cushion",
-      "description": "Well used, still in good condtion\nRecipent need buy anti-slip pad seperately (for car dashboard can buy on shopee)\nSpecially include custom made anti collision cushion for the slat",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "15 Mar 2025",
-      "ageInYears": 1,
-      "dimensions": "210x140x65",
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
     },
