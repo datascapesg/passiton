@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "143545",
+      "category": "Home Furnishing",
+      "name": "Kitchen Cabinet",
+      "description": "Couple living in rental flat who are medically unfit to work.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Nadiah Razak",
+        "email": "nadiah.razak@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2025"
+    },
+    {
       "id": "143539",
       "category": "Home Furnishing",
       "name": "King Size Bed Headboard",
@@ -5504,24 +5521,6 @@
       "date": "24 Feb 2025"
     },
     {
-      "id": "143536",
-      "category": "Mobility Aids",
-      "name": "Wheelchair (bariatric / for severely overweight)",
-      "description": "The mum of a large family has difficulty walking due to recent surgery and struggles to walk as she is severely overeight. A wheelchair is needed to help her get around for her apppointments and fetch children to and from school.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Victoria Chong",
-        "email": "victoriachong@fycs.org",
-        "phone": [
-          "69783482",
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Mar 2025"
-    },
-    {
       "id": "140583",
       "category": "Mobility Aids",
       "name": "Mobility scooter",
@@ -6317,17 +6316,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "143538",
-      "name": "Queen size mattress & frame",
-      "description": "great condition. Collection/Delivery cost is on the recipient",
-      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-      "validTill": "31 Mar 2025",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "143527",
       "name": "Study/ working table & Chair",
       "description": "The item is in good condition.\nFYI - I am moving house, hence giving away the items.",
@@ -6366,17 +6354,6 @@
       "description": "More than 4 yrs old but in good condition. Additional rails are removable. I have 4 sets of these (the rest without rail)",
       "location": "Farrer Park, Little India, Serangoon Road",
       "validTill": "10 Apr 2025",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "143487",
-      "name": "TV console",
-      "description": "Use TV console",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "26 Mar 2025",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
