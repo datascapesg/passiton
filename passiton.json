@@ -1,6 +1,60 @@
 {
   "requests": [
     {
+      "id": "142264",
+      "category": "Home Furnishing",
+      "name": "Shoe Cabinet",
+      "description": "Family is staying in rental flat. 2 children in autism spectrum and husband is sole bread winner. Needs the essentials as money was used for outstanding medical bills.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Bukit Panjang",
+        "name": "Muhammad Idris Bin Mohd Margono",
+        "email": "idris.margono@thkmc.org.sg",
+        "phone": [
+          "87145182",
+          "67671740"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2025"
+    },
+    {
+      "id": "142263",
+      "category": "Home Furnishing",
+      "name": "Gas/Kitchen Cabinet",
+      "description": "Family is staying in rental flat. 2 children in autism spectrum and husband is sole bread winner. Needs the essentials as money was used for outstanding medical bills.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Bukit Panjang",
+        "name": "Muhammad Idris Bin Mohd Margono",
+        "email": "idris.margono@thkmc.org.sg",
+        "phone": [
+          "87145182",
+          "67671740"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2025"
+    },
+    {
+      "id": "142390",
+      "category": "Home Furnishing",
+      "name": "3-tier Drawer",
+      "description": "Family is staying in rental flat. 2 children in autism spectrum and husband is sole bread winner. Needs the essentials as money was used for outstanding medical bills.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Bukit Panjang",
+        "name": "Muhammad Idris Bin Mohd Margono",
+        "email": "idris.margono@thkmc.org.sg",
+        "phone": [
+          "87145182",
+          "67671740"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2025"
+    },
+    {
       "id": "143554",
       "category": "Home Furnishing",
       "name": "Sealed Drawer Cabinet",
@@ -115,23 +169,6 @@
         "email": "tasya@allkin.org.sg",
         "phone": [
           "64535349"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Mar 2025"
-    },
-    {
-      "id": "143532",
-      "category": "Home Furnishing",
-      "name": "single bed frame",
-      "description": "Need a single bed frame with a mattress for an elderly man who is shifting to a public rental unit, appreciate if transport can be provided to Sengkang.",
-      "specifications": null,
-      "contact": {
-        "org": "Serangoon Moral Family Service Centre",
-        "name": "Muhammad Amin",
-        "email": "muhdamin@smfsc.org.sg",
-        "phone": [
-          "62847123"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1363,6 +1400,58 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "10 Feb 2025"
+    },
+    {
+      "id": "142257",
+      "category": "Infant and Children Items",
+      "name": "Huggies Diapers Pull-Up Pants",
+      "description": "Father of her child and their infant stay with adoptive parents and brothers. Husband is serving NS and beneficiary stays at home to take care of their child. Adoptive family does not provide family with financial support. Family have limited funds and seek help from the community for baby formula and diapers for their infant.",
+      "specifications": "M size, 4 pax",
+      "contact": {
+        "org": "THK Family Service Centre @ Bukit Panjang",
+        "name": "Muhammad Idris Bin Mohd Margono",
+        "email": "idris.margono@thkmc.org.sg",
+        "phone": [
+          "87145182",
+          "67671740"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2025"
+    },
+    {
+      "id": "143559",
+      "category": "Infant and Children Items",
+      "name": "Isomil Stage 3 Milk Powder",
+      "description": "The family, which includes two young children, has a low household income of $1,400 per month. They are struggling to meet basic needs and require support to purchase essential items for the children, as they face financial difficulties in making ends meet each month.",
+      "specifications": "Nil",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Too Xiu Hui",
+        "email": "tooxiuhui@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "12 Mar 2025"
+    },
+    {
+      "id": "143556",
+      "category": "Infant and Children Items",
+      "name": "Diapers- Huggies Dry Comfort Pants (XL)",
+      "description": "The family, which includes two young children, has a low household income of $1,400 per month. They are struggling to meet basic needs and require support to purchase essential items for the children, as they face financial difficulties in making ends meet each month.",
+      "specifications": "Nil",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Too Xiu Hui",
+        "email": "tooxiuhui@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "12 Mar 2025"
     },
     {
       "id": "143546",
@@ -5377,24 +5466,6 @@
       "date": "12 Feb 2025"
     },
     {
-      "id": "140193",
-      "category": "Others",
-      "name": "Tena diapers - Size L Pants",
-      "description": "Ct is an elderly end stage cancer patient. Ct is now incontinent due to side effects of cancer. Family require help to afford daily change of diapers for her.",
-      "specifications": "Tena brand - Size L Pants",
-      "contact": {
-        "org": "AIN Society",
-        "name": "Nur'Ain Binte Mohamed Said",
-        "email": "nurain@ainsociety.org.sg",
-        "phone": [
-          "68485116",
-          "68485166"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Feb 2025"
-    },
-    {
       "id": "142558",
       "category": "Others",
       "name": "Foldable Market Trolley",
@@ -5536,6 +5607,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "10 Feb 2025"
+    },
+    {
+      "id": "143558",
+      "category": "Kitchen Utility Items",
+      "name": "electric stove",
+      "description": "client is a 74 year old single elderly who has financial issues.",
+      "specifications": null,
+      "contact": {
+        "org": "Serangoon Moral Family Service Centre",
+        "name": "Muhammad Amin",
+        "email": "muhdamin@smfsc.org.sg",
+        "phone": [
+          "62847123"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2025"
+    },
+    {
+      "id": "143557",
+      "category": "Kitchen Utility Items",
+      "name": "microwave oven",
+      "description": "client is a 74 year old single elderly who has financial issues.",
+      "specifications": null,
+      "contact": {
+        "org": "Serangoon Moral Family Service Centre",
+        "name": "Muhammad Amin",
+        "email": "muhdamin@smfsc.org.sg",
+        "phone": [
+          "62847123"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2025"
     },
     {
       "id": "143272",
