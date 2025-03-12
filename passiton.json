@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "143560",
+      "category": "Home Furnishing",
+      "name": "Foldable Mattress",
+      "description": "Member is a chronically ill and visually impaired father with 3 school going children. His wife is diagnosed with depression and is unable to work. The family stays in a 2 bedroom rental flat and requires a new foldable mattress in the living room for the father to sleep in.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Regina Leong",
+        "email": "regina@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2025"
+    },
+    {
       "id": "142264",
       "category": "Home Furnishing",
       "name": "Shoe Cabinet",
@@ -65,7 +82,7 @@
         "name": "Jeryl Tham",
         "email": "jeryl.t@ntuchealth.sg",
         "phone": [
-          "97288772",
+          "94552162",
           "67156715"
         ]
       },
@@ -1402,6 +1419,57 @@
       "date": "10 Feb 2025"
     },
     {
+      "id": "143565",
+      "category": "Infant and Children Items",
+      "name": "Nestle Nan Supremepro HA stage 2",
+      "description": "The household is a PR and foreigner household unit and they just welcome a new born a few months ago. Both parents are working but are struggling with the increasing cost and milk powder support would greatly ease their financial burden.",
+      "specifications": "Nil",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Too Xiu Hui",
+        "email": "tooxiuhui@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "12 Mar 2025"
+    },
+    {
+      "id": "143562",
+      "category": "Infant and Children Items",
+      "name": "Milk",
+      "description": "Client is unemployed due to her pregnancy due in December. She has 5 young dependents presently and is dependent on the financial support from her partner. Client has financial difficulties affording milk powder for her newborn",
+      "specifications": "Similac Total Comfort H.A (Infant formula)  0 to 12 months (x3)",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Thiviya D/O Athimoolam",
+        "email": "thiviya@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2025"
+    },
+    {
+      "id": "143561",
+      "category": "Infant and Children Items",
+      "name": "Diapers",
+      "description": "Client is unemployed due to her pregnancy due in December. She has 5 young dependents presently and is dependent on the financial support from her partner. Client has financial difficulties affording diapers for her newborn.",
+      "specifications": "Mamypoko tape size S (x3)",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Thiviya D/O Athimoolam",
+        "email": "thiviya@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2025"
+    },
+    {
       "id": "142257",
       "category": "Infant and Children Items",
       "name": "Huggies Diapers Pull-Up Pants",
@@ -2043,24 +2111,6 @@
       "name": "Diapers / Pants (Size XXL)",
       "description": "Client is navigating a divorce while being the primary caregiver for his three young children and living in a rental flat with his family. Despite securing employment after his separation, he faces financial instability due to caregiving responsibilities, health issues, and limited family support, requiring assistance with essentials for his children.",
       "specifications": "Diapers / Pants (Size XXL)",
-      "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Amy Chua",
-        "email": "mwsfscy@mws.sg",
-        "phone": [
-          "83688612",
-          "67564995"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Mar 2025"
-    },
-    {
-      "id": "143279",
-      "category": "Infant and Children Items",
-      "name": "Diapers / Pants (Size L)",
-      "description": "Client is navigating a divorce while being the primary caregiver for his three young children and living in a rental flat with his family. Despite securing employment after his separation, he faces financial instability due to caregiving responsibilities, health issues, and limited family support, requiring assistance with essentials for his children.",
-      "specifications": "Diapers / Pants (Size L)",
       "contact": {
         "org": "MWS Family Service Centre - Yishun",
         "name": "Amy Chua",
@@ -3364,6 +3414,24 @@
       "date": "18 Feb 2025"
     },
     {
+      "id": "143568",
+      "category": "Electrical Home Appliances",
+      "name": "Double Door Refrigerator",
+      "description": "Client, low vision, is living with wife and children, due to his vision impairment he is unable to work. Client and his family members are assisted by SSO Comcare and MUIS for their daily expenses and monthly bills, recently the family reported their refrigerator is faulty and they do not have enough budget for a new refrigerator. Hence, client seek help from Pass It On, and they also reported their faulty refrigerator is between 300 to 350 litres so they are hoping for a similar litre of the refrigerator.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Association of the Visually Handicapped",
+        "name": "Steven Yew Kwok Wai",
+        "email": "steven@savh.org.sg",
+        "phone": [
+          "62514331ext507",
+          "62514331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2025"
+    },
+    {
       "id": "143549",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -4618,6 +4686,60 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "10 Feb 2025"
+    },
+    {
+      "id": "143567",
+      "category": "Others",
+      "name": "Elderly 4GPhone",
+      "description": "Client 77, low vision, license tissue seller, lives with his elderly parents. Due to the phase out of 3G network, and the selling of tissue didn’t sustain much in his daily living. Thus, he is requesting a big button 4G elderly phone for daily use and he expressed he couldn’t afford a new 4G elderly big button phone.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Association of the Visually Handicapped",
+        "name": "Steven Yew Kwok Wai",
+        "email": "steven@savh.org.sg",
+        "phone": [
+          "62514331ext507",
+          "62514331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2025"
+    },
+    {
+      "id": "143566",
+      "category": "Others",
+      "name": "Smartphone 4G Phone",
+      "description": "Client, low vision, unemployed, searching for skill training and job. Monthly expenses is depleting his past saving. Client is a Samsung smartphone user, and the reason he only use Samsung is because of his vision and the familiarization with Samsung smartphone, now his phone is spoilt and he cannot afford to buy a new one, he is seeking help from Pass It On for a new Samsung smartphone, or any other used Samsung series smartphone.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Association of the Visually Handicapped",
+        "name": "Steven Yew Kwok Wai",
+        "email": "steven@savh.org.sg",
+        "phone": [
+          "62514331ext507",
+          "62514331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2025"
+    },
+    {
+      "id": "143564",
+      "category": "Others",
+      "name": "Elderly 4GPhone",
+      "description": "Elderly client, low vision with mobility difficulties, and under MUIS assistance. Due to the phase out of 3G network, he is requesting a big button 4G elderly phone for daily use to stay connect with all his families and point of contact (POC) of engaged agencies for his assistance.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Association of the Visually Handicapped",
+        "name": "Steven Yew Kwok Wai",
+        "email": "steven@savh.org.sg",
+        "phone": [
+          "62514331ext507",
+          "62514331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2025"
     },
     {
       "id": "143553",
@@ -5924,6 +6046,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "14 Feb 2025"
+    },
+    {
+      "id": "143563",
+      "category": "Learning Aids",
+      "name": "Flatbed scanner",
+      "description": "Elderly client, 79 years old, total blindness is living with wife in a one room flat, both client and wife is under silver support scheme payout of $900 per quarterly. Client is using screen reader software in his computer in assisting in his daily living, he received a subsidized government approval of Assistive Technology Fund (ATF) for his screen reader software which the Jaws Pro and he also received free refurbished laptop from Engineering Good.com. Thus, client is seeking and requesting a flatbed scanner from Pass It on, scanner allows him to scan important hard copies documents into his laptop and reads out from the screen reader software.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Association of the Visually Handicapped",
+        "name": "Steven Yew Kwok Wai",
+        "email": "steven@savh.org.sg",
+        "phone": [
+          "62514331ext507",
+          "62514331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2025"
     },
     {
       "id": "143551",
