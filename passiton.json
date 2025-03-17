@@ -1,24 +1,6 @@
 {
   "requests": [
     {
-      "id": "143724",
-      "category": "Mobility Aids",
-      "name": "Walking Stick (Quad & Lightweight)",
-      "description": "My patient is an elderly in his 70s whose health has been deteriorating. It has been increasingly difficult for him to walk. However, it is still important for him to exercise regularly. As such, it would be helpful for him to get a quad stick that is also lightweight at the same time.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Cancer Society",
-        "name": "Vincent Soh",
-        "email": "vincent_soh@singaporecancersociety.org.sg",
-        "phone": [
-          "18007273333",
-          "62219578"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Mar 2025"
-    },
-    {
       "id": "143709",
       "category": "Mobility Aids",
       "name": "Broad base quad walking stick",
@@ -4902,6 +4884,24 @@
       "date": "27 Feb 2025"
     },
     {
+      "id": "143733",
+      "category": "Others",
+      "name": "Adult diapers",
+      "description": "Seeking adult diapers (wrapped style, M size, any brands) for an elderly who is wheelchair bound and developed a fear of toileting after a fall. As such, the use of adult diapers has become essential. However, the sole caregiver is low income and is struggling to keep up with the expenses of these necessary supplies. Your generosity would greatly alleviate the financial burden and provide the care and comfort of the elderly needs.\n\nThank you for your support!",
+      "specifications": "M",
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Yishun",
+        "name": "Mabel Loo",
+        "email": "mabel.loo@montfortcare.org.sg",
+        "phone": [
+          "96504736",
+          "64848040"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Mar 2025"
+    },
+    {
       "id": "143718",
       "category": "Others",
       "name": "LIFREE Adult Diapers (PANTS, XXL) (URGENT!)",
@@ -6477,28 +6477,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "143699",
-      "name": "TV Console",
-      "description": "TV console with 2 drawers\nIKEA MALM",
-      "location": "Cairnhill, Killiney, Orchard, River Valley",
-      "validTill": "18 Mar 2025",
-      "ageInYears": 4,
-      "dimensions": "120 x 41cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "143698",
-      "name": "Tall wooden table with bench seat and 2 stools.",
-      "description": "Nice solid bar table made of wood and metal piping.   Matching bench seat and 2 stools.",
-      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-      "validTill": "16 Apr 2025",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "143687",
       "name": "King Size Bed (Seally Back Saver)",
       "description": "10+ years King Size bed with bed frame. Regularly rotated.",
@@ -7036,6 +7014,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "143732",
+      "name": "Study table",
+      "description": "Nil",
+      "location": "Farrer Park, Little India, Serangoon Road",
+      "validTill": "16 Apr 2025",
+      "ageInYears": 4,
+      "dimensions": "NA",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "143679",
