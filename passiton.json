@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "143701",
+      "category": "Mobility Aids",
+      "name": "hospital bed",
+      "description": "Senior stays in a rental flat and has late stage oral tongue cancer. He requires a hospital bed to adjust his sleeping position. He is financially destitute and relies on multiple financial organisations for sustenance.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Community Services",
+        "name": "Julia Soh Ying Li",
+        "email": "juliasoh@fycs.org",
+        "phone": [
+          "63809155",
+          "63809169"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Mar 2025"
+    },
+    {
       "id": "143692",
       "category": "Mobility Aids",
       "name": "Motorised Scooter",
@@ -195,6 +213,57 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "14 Feb 2025"
+    },
+    {
+      "id": "143707",
+      "category": "Home Furnishing",
+      "name": "2 dining chairs",
+      "description": "Single parent who is providing caregiving for 3 young children and her unwell elderly mother is in need of 2 dining chairs to be donated to her home as her income is insufficient to purchase it.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Syamirul Azim",
+        "email": "syamirulazim@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "17 Mar 2025"
+    },
+    {
+      "id": "143706",
+      "category": "Home Furnishing",
+      "name": "Short coffee table",
+      "description": "Single parent who is providing caregiving for 3 young children and her unwell elderly mother is in need of short coffee table to be donated to her home as her income is insufficient to purchase it.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Syamirul Azim",
+        "email": "syamirulazim@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "17 Mar 2025"
+    },
+    {
+      "id": "143705",
+      "category": "Home Furnishing",
+      "name": "Bed frame (Queen size)",
+      "description": "Single parent who is providing caregiving for 3 young children and her unwell elderly mother is in need of the bed frame (Queen Size) to be donated to her home as her income is insufficient to purchase a new bed frame.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Syamirul Azim",
+        "email": "syamirulazim@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "17 Mar 2025"
     },
     {
       "id": "143690",
@@ -1771,24 +1840,6 @@
       "date": "17 Mar 2025"
     },
     {
-      "id": "143693",
-      "category": "Infant and Children Items",
-      "name": "Children shoes",
-      "description": "Client is a single mother of her 5 year old daughter who has autism. Client is the sole breadwinner too and faces some financial difficulties. Daughter has outgrown her shoes and needs a new pair (size 25/26).",
-      "specifications": "Size 25/26",
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Shena Tan",
-        "email": "shenatan@fycs.org",
-        "phone": [
-          "69782982",
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Mar 2025"
-    },
-    {
       "id": "143689",
       "category": "Infant and Children Items",
       "name": "Milk and diaper",
@@ -2352,46 +2403,10 @@
       "date": "04 Mar 2025"
     },
     {
-      "id": "143254",
-      "category": "Infant and Children Items",
-      "name": "Diapers (M size) - any brand - 3 packs",
-      "description": "Client is a mother to 3 young children.\n(LX)",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Low Kim Yong",
-        "email": "lowkimyong@thkmc.org.sg",
-        "phone": [
-          "81883314",
-          "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Mar 2025"
-    },
-    {
       "id": "143253",
       "category": "Infant and Children Items",
       "name": "S-26 stage 1 milk powder - 3 tins",
       "description": "Client is a mother to 3 young children.\n(LX)",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Low Kim Yong",
-        "email": "lowkimyong@thkmc.org.sg",
-        "phone": [
-          "81883314",
-          "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Mar 2025"
-    },
-    {
-      "id": "143252",
-      "category": "Infant and Children Items",
-      "name": "Diapers (L size) - any brand - 3 packs",
-      "description": "Client is a single mother to five children\nLX)",
       "specifications": null,
       "contact": {
         "org": "THK Family Service Centre @ Bedok North",
@@ -3395,6 +3410,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "18 Feb 2025"
+    },
+    {
+      "id": "143702",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Beneficiary does not have family support and is in the midst of looking for a job. \nHe has no savings. His fridge has recently spoilt. He is in need of a fridge to store fresh food items received from a social service agency.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore After Care Association",
+        "name": "Lin Mingjie",
+        "email": "mingjie@saca.org.sg",
+        "phone": [
+          "62942350"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Mar 2025"
     },
     {
       "id": "143697",
@@ -4598,6 +4630,41 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "27 Feb 2025"
+    },
+    {
+      "id": "143704",
+      "category": "Others",
+      "name": "TINA Adult diapers Super XL, (4x12)",
+      "description": "Single parent who is providing caregiving for 3 young children and her unwell elderly mother is in need of adult diapers for her elderly mother to be donated to her home as her income is insufficient to purchase the adult diaper",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Syamirul Azim",
+        "email": "syamirulazim@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "17 Mar 2025"
+    },
+    {
+      "id": "143703",
+      "category": "Others",
+      "name": "Food rations",
+      "description": "51yo lady with multiple complex health conditions, had a recent flare up of depression hence unable to work. Due to her limited savings and unemployment, she hopes to receive some food rations (rice, bread, fresh produce etc) to tide her through the interim while she focuses on her treatment. Kindly whatsapp me at 96409381 for coordination, thanks so much!",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Telok Blangah",
+        "name": "Shanelle Tan",
+        "email": "shanelle.tan@montfortcare.org.sg",
+        "phone": [
+          "62746904",
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Mar 2025"
     },
     {
       "id": "139403",
@@ -6096,17 +6163,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "143674",
-      "name": "Microwave over, chair",
-      "description": "Samsung Oven, sometimes spark comes inside",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "15 Apr 2025",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "143626",
       "name": "WALL FAN",
       "description": "PRELOVED WALL FAN \n\nWITHOUT THE COVER \n\nWORKING WELL EXCEPT THE PULLING STRING & OSCILLATION OF THE FAN IS BROKEN",
@@ -6138,6 +6194,28 @@
       "dimensions": "0x0x0",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "143699",
+      "name": "TV Console",
+      "description": "TV console with 2 drawers\nIKEA MALM",
+      "location": "Cairnhill, Killiney, Orchard, River Valley",
+      "validTill": "18 Mar 2025",
+      "ageInYears": 4,
+      "dimensions": "120 x 41cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "143698",
+      "name": "Tall wooden table with bench seat and 2 stools.",
+      "description": "Nice solid bar table made of wood and metal piping.   Matching bench seat and 2 stools.",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "16 Apr 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "143687",
