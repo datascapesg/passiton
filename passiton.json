@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "143692",
+      "category": "Mobility Aids",
+      "name": "Motorised Scooter",
+      "description": "Client was born with severe physical disabilities caused by polio and scoliosis, resulting in significant orthopedic deformities and inability to walk. Client uses a manual wheelchair at home but requires a small-sized motorised wheelchair to move around outside. She is presently unemployed and is unable to purchase a motorised wheelchair on her own due to limited family support.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Gabriel Kho",
+        "email": "gabrielkho@fycs.org",
+        "phone": [
+          "66901008",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Mar 2025"
+    },
+    {
       "id": "122602",
       "category": "Mobility Aids",
       "name": "Fixed commode and wheelchair",
@@ -1733,6 +1751,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Feb 2025"
+    },
+    {
+      "id": "143693",
+      "category": "Infant and Children Items",
+      "name": "Children shoes",
+      "description": "Client is a single mother of her 5 year old daughter who has autism. Client is the sole breadwinner too and faces some financial difficulties. Daughter has outgrown her shoes and needs a new pair (size 25/26).",
+      "specifications": "Size 25/26",
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Shena Tan",
+        "email": "shenatan@fycs.org",
+        "phone": [
+          "69782982",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Mar 2025"
     },
     {
       "id": "143689",
@@ -6063,33 +6099,11 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "143681",
-      "name": "2 Seat Sofa",
-      "description": "2 seat sofa in good shape",
-      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-      "validTill": "29 Mar 2025",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "143675",
       "name": "Chair",
       "description": "Leather chair",
       "location": "Pasir Ris, Simei, Tampines",
       "validTill": "15 Apr 2025",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "143669",
-      "name": "3 seater recliner sofa",
-      "description": "3 seater leather recliner sofa. Can recliner both ends",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "31 Mar 2025",
       "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
@@ -6377,17 +6391,6 @@
       "location": null,
       "validTill": "13 Apr 2025",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "143635",
-      "name": "Huggies goodnites unisex bedtime pants for 4-8yo children",
-      "description": "I have 1 unopened pack of 14 diapers and 1 almost full (about 11 diapers inside) pack of diapers to donate. These diapers are for night time use, and suitable for children age 4-8 years old. Very useful to support nighttime toilet training.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "31 Mar 2025",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
