@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "143839",
+      "category": "Mobility Aids",
+      "name": "Walking Stick (Adjustable)",
+      "description": "Stay alone elderly requires a walking stick as she has leg pain. The walking stick will enable her to move around safely and easier. Elderly is retired and not working, under financial assistance.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Ye Jiancheng",
+        "email": "jiancheng@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Mar 2025"
+    },
+    {
       "id": "143833",
       "category": "Mobility Aids",
       "name": "Commode (Stationary)",
@@ -194,6 +211,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "18 Feb 2025"
+    },
+    {
+      "id": "143838",
+      "category": "Home Furnishing",
+      "name": "Wardrobe",
+      "description": "Family of 5 living in public rental flat, with 1 elderly and 3 school-going children, looking to source for a wardrobe and a sofa bed donation. The sofa bed would be useful in their use of space (retractable during the day and a bed to sleep on at night). Can whatsapp cassandra work phone 6038 4091",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+        "name": "Cassandra Chia",
+        "email": "cassandrachia@allkin.org.sg",
+        "phone": [
+          "60384100",
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Mar 2025"
+    },
+    {
+      "id": "143837",
+      "category": "Home Furnishing",
+      "name": "sofa bed",
+      "description": "Family of 5 living in public rental flat, with 1 elderly and 3 school-going children, looking to source for a wardrobe and a sofa bed donation. The sofa bed would be useful in their use of space (retractable during the day and a bed to sleep on at night). Can whatsapp cassandra work phone 6038 4091",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+        "name": "Cassandra Chia",
+        "email": "cassandrachia@allkin.org.sg",
+        "phone": [
+          "60384100",
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Mar 2025"
     },
     {
       "id": "143829",
@@ -3592,6 +3645,24 @@
       "date": "18 Feb 2025"
     },
     {
+      "id": "143840",
+      "category": "Electrical Home Appliances",
+      "name": "Sewing machine",
+      "description": "Grandmother who is recently less fit for work, caring for granddaughter looking for a traditional sewing machine to pursue doing small alterations for a new source of income. Her current one is no longer useable due to wear and tear. Can whatsapp work phone 6038 4091 ~ Donor to arrange and cover delivery cost to client's house if client is keen on your kind offer ~",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+        "name": "Cassandra Chia",
+        "email": "cassandrachia@allkin.org.sg",
+        "phone": [
+          "60384100",
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Mar 2025"
+    },
+    {
       "id": "143813",
       "category": "Electrical Home Appliances",
       "name": "Vacuum Cleaner",
@@ -5200,24 +5271,6 @@
       "date": "20 Mar 2025"
     },
     {
-      "id": "143831",
-      "category": "Others",
-      "name": "A walking stick",
-      "description": "An elderly halfway house resident who has difficulty walking hopes someone will pass him a used walking stick. Due to his past incarceration through addiction, he does not have a good relationship with all his siblings. \n\nThis resident cannot afford to buy a walking stick due to financial constraints.",
-      "specifications": null,
-      "contact": {
-        "org": "The Helping Hand",
-        "name": "Chan Toh Han",
-        "email": "chantohhan@thehelpinghand.org.sg",
-        "phone": [
-          "67184081",
-          "62832204"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Mar 2025"
-    },
-    {
       "id": "143801",
       "category": "Others",
       "name": "Android Handphone",
@@ -6356,6 +6409,24 @@
       "date": "24 Feb 2025"
     },
     {
+      "id": "143836",
+      "category": "Learning Aids",
+      "name": "Laptop for single mum of 5",
+      "description": "Single mother of 5 who is working hard as sole caregiver and sole breadwinner requested for a preferable new laptop to assist in her children’s learning and education. Whatsapp work phone 6038 4091",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+        "name": "Cassandra Chia",
+        "email": "cassandrachia@allkin.org.sg",
+        "phone": [
+          "60384100",
+          "64535349"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Mar 2025"
+    },
+    {
       "id": "143814",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -7057,17 +7128,6 @@
       "validTill": "03 Apr 2025",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "143220",
-      "name": "Small table",
-      "description": "Rarely used table that can function as a study or computer table",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "02 Apr 2025",
-      "ageInYears": 4,
-      "dimensions": "Table size 80cm (L) x 40 cm ( B)  x 72 cm ( H)",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
