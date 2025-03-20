@@ -1,5 +1,23 @@
 [
   {
+    "id": "143833",
+    "category": "Mobility Aids",
+    "name": "Commode (Stationary)",
+    "description": "Client, an elderly who is frail due to poor physical health, is looking for a commode for better support while showering. Providing a commode aids him to be able to continue to live independently.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Community Services - Mental Health",
+      "name": "Yeung E-Lin",
+      "email": "yeungelin@fycs.org",
+      "phone": [
+        "60117656",
+        "64712022"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Mar 2025"
+  },
+  {
     "id": "143774",
     "category": "Mobility Aids",
     "name": "Automated Wheelchair",
@@ -87,42 +105,6 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "16 Mar 2025"
-  },
-  {
-    "id": "143619",
-    "category": "Mobility Aids",
-    "name": "support cane with quad tip aka claw type tip.",
-    "description": "Elderly client, low vision with mobility difficulties, is using a normal support cane but still not very steady while walking. Thus, he is requesting a support cane with quad tip aka claw type tip",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore Association of the Visually Handicapped",
-      "name": "Steven Yew Kwok Wai",
-      "email": "steven@savh.org.sg",
-      "phone": [
-        "62514331ext507",
-        "62514331"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 Mar 2025"
-  },
-  {
-    "id": "143618",
-    "category": "Mobility Aids",
-    "name": "support cane with quad tip aka claw type tip.",
-    "description": "Elderly client, low vision, hunchback, with mobility difficulties. She is requesting a support cane with quad tip aka claw type tip.",
-    "specifications": null,
-    "contact": {
-      "org": "Singapore Association of the Visually Handicapped",
-      "name": "Steven Yew Kwok Wai",
-      "email": "steven@savh.org.sg",
-      "phone": [
-        "62514331ext507",
-        "62514331"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "13 Mar 2025"
   },
   {
     "id": "140583",
@@ -1341,24 +1323,6 @@
     "name": "Storage Cupboard",
     "description": "Client is a single mother whom is unfit for work due to mental health concerns. She is thus unable to afford a book shelf and storage cupboard for her son.",
     "specifications": "Storage Cupboard",
-    "contact": {
-      "org": "MWS Family Service Centre - Yishun",
-      "name": "Amy Chua",
-      "email": "mwsfscy@mws.sg",
-      "phone": [
-        "83688612",
-        "67564995"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "27 Feb 2025"
-  },
-  {
-    "id": "143101",
-    "category": "Home Furnishing",
-    "name": "Book Shelve",
-    "description": "Client is a single mother whom is unfit for work due to mental health concerns. She is thus unable to afford a book shelf and storage cupboard for her son.",
-    "specifications": "Book Shelve",
     "contact": {
       "org": "MWS Family Service Centre - Yishun",
       "name": "Amy Chua",
@@ -5092,6 +5056,24 @@
     "date": "17 Feb 2025"
   },
   {
+    "id": "143834",
+    "category": "Leisure and Healthy Lifestyle",
+    "name": "Exercise Pedal for Seniors",
+    "description": "Client, an elderly who is frail due to poor physical health, is looking for an exercise pedal to exercise at home. Providing this equipment enables him to be active and build strength.",
+    "specifications": null,
+    "contact": {
+      "org": "Fei Yue Community Services - Mental Health",
+      "name": "Yeung E-Lin",
+      "email": "yeungelin@fycs.org",
+      "phone": [
+        "60117656",
+        "64712022"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Mar 2025"
+  },
+  {
     "id": "143822",
     "category": "Leisure and Healthy Lifestyle",
     "name": "Air purifier",
@@ -5198,6 +5180,41 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "27 Feb 2025"
+  },
+  {
+    "id": "143832",
+    "category": "Others",
+    "name": "Handphone",
+    "description": "Individual is an elderly man in his 70s with many health conditions, such as cataract, heart issues and hemorrhoids. He has hoarding tendencies and previously rough slept as well. He requires a new handphone as his current one is cracked and spoilt. As he tends to spend extended time outside, it is important for him to have a phone so that he is contactable by workers and family.",
+    "specifications": null,
+    "contact": {
+      "org": "South Central Community FSC Ltd",
+      "name": "Regina Leong",
+      "email": "regina@sccfsc.org.sg",
+      "phone": [
+        "64619200"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Mar 2025"
+  },
+  {
+    "id": "143831",
+    "category": "Others",
+    "name": "A walking stick",
+    "description": "An elderly halfway house resident who has difficulty walking hopes someone will pass him a used walking stick. Due to his past incarceration through addiction, he does not have a good relationship with all his siblings. \n\nThis resident cannot afford to buy a walking stick due to financial constraints.",
+    "specifications": null,
+    "contact": {
+      "org": "The Helping Hand",
+      "name": "Chan Toh Han",
+      "email": "chantohhan@thehelpinghand.org.sg",
+      "phone": [
+        "67184081",
+        "62832204"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "20 Mar 2025"
   },
   {
     "id": "143801",
