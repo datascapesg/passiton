@@ -22,17 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "143907",
-    "name": "Kettle",
-    "description": "Brand new.\n\nDeliver to VWO offices only",
-    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-    "validTill": "22 Apr 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "143906",
     "name": "Cordless steam iron",
     "description": "Used\n\nDeliver to VWO offices only.",
@@ -97,6 +86,17 @@
     "dimensions": "45cmWx20cmH",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "143909",
+    "name": "Dinning chairs",
+    "description": "2 dinning chairs",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "30 Mar 2025",
+    "ageInYears": 4,
+    "dimensions": "Na",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "143905",
