@@ -3413,23 +3413,6 @@
       "date": "20 Mar 2025"
     },
     {
-      "id": "143852",
-      "category": "Electrical Home Appliances",
-      "name": "Standing fan",
-      "description": "Family of 5 with 3 school going children will require a standing fan as they have recently moved into new house and are facing significant financial constraints and not able to afford a standing fan.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Sengkang 223D",
-        "name": "Syamirul Azim",
-        "email": "syamirulazim@allkin.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "20 Mar 2025"
-    },
-    {
       "id": "143840",
       "category": "Electrical Home Appliances",
       "name": "Sewing machine",
@@ -7096,6 +7079,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "143921",
+      "name": "Commode",
+      "description": "It’s brand new. The elderly did not use it at all.",
+      "location": null,
+      "validTill": "22 Apr 2025",
+      "ageInYears": 1,
+      "dimensions": "48 by 43 cm. The seat. Height is about 53cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "143908",
