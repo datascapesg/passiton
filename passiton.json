@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "143954",
+      "category": "Home Furnishing",
+      "name": "Storage Cabinet (Medium Size)",
+      "description": "An elderly client with no source of income and multiple physical health concerns has recently moved into a 1-room rental flat. She is requesting a medium-sized storage cabinet for her new home. For further details, please contact her social worker, Ms. Seelvi, at 8699 3152. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Norlizawati Binte Hamid",
+        "email": "norlizawati@thkmc.org.sg",
+        "phone": [
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Mar 2025"
+    },
+    {
       "id": "143953",
       "category": "Home Furnishing",
       "name": "Kitchen Cabinet (Medium Size)",
@@ -3521,23 +3538,6 @@
       "date": "21 Mar 2025"
     },
     {
-      "id": "143858",
-      "category": "Electrical Home Appliances",
-      "name": "Standing fan",
-      "description": "Client has a mobility issue and is currently unemployed. She will require a standing fan for her son as their current standing fan is damaged.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Sengkang 223D",
-        "name": "Syamirul Azim",
-        "email": "syamirulazim@allkin.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "20 Mar 2025"
-    },
-    {
       "id": "143856",
       "category": "Electrical Home Appliances",
       "name": "Portable aircon",
@@ -6434,6 +6434,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "143956",
+      "name": "Storage Rack",
+      "description": "ikea rack with basket..",
+      "location": null,
+      "validTill": "23 Apr 2025",
+      "ageInYears": 2,
+      "dimensions": "44cmx54cm70cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "143918",
       "name": "Single Bedframe, mattress and pillows",
       "description": "Great condition",
@@ -6751,6 +6762,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
+    },
+    {
+      "id": "143955",
+      "name": "Rice Cooker, plates, dinning wooden table",
+      "description": "porcelain or glass and plastic plates",
+      "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+      "validTill": "23 Apr 2025",
+      "ageInYears": 4,
+      "dimensions": "all dimensions of plates",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Kitchen Utility Items"
     },
     {
       "id": "143895",
