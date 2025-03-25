@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "143992",
+      "category": "Home Furnishing",
+      "name": "2-seater sofa",
+      "description": "Client is a single mum to 4 children. She recently moved into her unfurnished home. She just returned to work and income is very limited.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Yew Tee",
+        "name": "Teo Xin Yi",
+        "email": "teoxinyi@fycs.org",
+        "phone": [
+          "64162161",
+          "64162162"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Mar 2025"
+    },
+    {
       "id": "143986",
       "category": "Home Furnishing",
       "name": "Single size foldable mattress",
@@ -246,23 +264,6 @@
       "category": "Home Furnishing",
       "name": "Wardrobe",
       "description": "Client, in her late 50s is looking for a wardrobe as her current one is broken. She has little financial means, little social support and eyesight issues.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Sally Ho",
-        "email": "sally.ho@montfortcare.org.sg",
-        "phone": [
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "20 Mar 2025"
-    },
-    {
-      "id": "143847",
-      "category": "Home Furnishing",
-      "name": "Single-sized Mattress and Pillow",
-      "description": "Elderly in his 80s with little financial means and health issues looking for a comfortable single-sized mattress and a pillow. He has been sleeping on a very thin mattress which has been giving him back pains.",
       "specifications": null,
       "contact": {
         "org": "Montfort Care - Kreta Ayer Family Services",
@@ -4476,7 +4477,8 @@
         "name": "Mohd Fadil Bin Hassan",
         "email": "mohdfadil@allkin.org.sg",
         "phone": [
-          "64355323"
+          "64355323",
+          "60384140"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -6054,7 +6056,7 @@
         "name": "Anabelle Lim",
         "email": "anabellelim@allkin.org.sg",
         "phone": [
-          "64355323"
+          "60384140"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -6399,13 +6401,35 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "143988",
-      "name": "Samsung 2 door refrigerator",
-      "description": "2 door refrigerator , non halal",
+      "id": "143991",
+      "name": "Sony sound system",
+      "description": "Sound system come with 5 speakers and amplifier",
       "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
       "validTill": "20 Apr 2025",
       "ageInYears": 4,
-      "dimensions": "92cmx73cmx177cm",
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "143990",
+      "name": "HP color printer",
+      "description": "HP color printer , can print , scan and copy",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "20 Apr 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "143989",
+      "name": "LG 9.5kg top load washing machine",
+      "description": "LG 9.5kg top load washing machine",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "20 Apr 2025",
+      "ageInYears": 4,
+      "dimensions": "W590 X H960 X D606 mm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
     },
@@ -6570,17 +6594,6 @@
       "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
       "validTill": "31 Mar 2025",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "143621",
-      "name": "Glass coffee table",
-      "description": "Oval shape glass coffee table",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "31 Mar 2025",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
