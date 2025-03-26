@@ -37,24 +37,6 @@
       "date": "26 Mar 2025"
     },
     {
-      "id": "143999",
-      "category": "Home Furnishing",
-      "name": "4-Seater Dining table & chairs (rectangle/square)",
-      "description": "Client is a single mum to 4 children. She recently moved into her unfurnished home. She just returned to work and income is very limited.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Yew Tee",
-        "name": "Teo Xin Yi",
-        "email": "teoxinyi@fycs.org",
-        "phone": [
-          "64162161",
-          "64162162"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Mar 2025"
-    },
-    {
       "id": "143998",
       "category": "Home Furnishing",
       "name": "TV Console",
@@ -2954,24 +2936,6 @@
       "date": "28 Feb 2025"
     },
     {
-      "id": "143135",
-      "category": "Infant and Children Items",
-      "name": "Abbott Grow Milk Powder Stage 1 & Drypers (Size S)",
-      "description": "Here's the improved paragraph:\n\nThe family comprises three school-going children and a four-month-old infant, with the father serving as the sole breadwinner on a limited income. The mother, whilst actively seeking employment to contribute to the household finances, is currently the primary caregiver for their infant. Given their challenging financial circumstances, the family requires immediate assistance to overcome this difficult period. The mother is particularly concerned about maintaining adequate care for their infant's basic needs and seeks support in this regard.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
-        "name": "Ken Toh",
-        "email": "ken_zq_toh@msf.gov.sg",
-        "phone": [
-          "62319385",
-          "64244017"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Feb 2025"
-    },
-    {
       "id": "137140",
       "category": "Infant and Children Items",
       "name": "Tena Proskin Slip Maxi (size M)",
@@ -3607,6 +3571,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "25 Feb 2025"
+    },
+    {
+      "id": "144046",
+      "category": "Electrical Home Appliances",
+      "name": "CCTV",
+      "description": "Single mother rebuilding her life after enduring years of abuse. She needs two CCTVs. 1. Video calling CCTV camera 2. CCTV to be placed at the front door gate. This would enable her and her child to feel safe in their home and protect them.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Project StART",
+        "name": "Grace Arthur",
+        "email": "gracearthur@carecorner.org.sg",
+        "phone": [
+          "64761482"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "26 Mar 2025"
     },
     {
       "id": "144044",
@@ -6363,6 +6344,23 @@
       "date": "24 Feb 2025"
     },
     {
+      "id": "144045",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Single mother of a 4-year-old daughter and a victim of spousal violence is in need of a laptop to correspond with her lawyers regarding the personal protection order that her husband is contesting. She has only recently secured a job as her husband who was the only breadwinner ceased all financial contributions to the household after she applied for personal protection order.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Syamirul Azim",
+        "email": "syamirulazim@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "26 Mar 2025"
+    },
+    {
       "id": "144039",
       "category": "Learning Aids",
       "name": "New laptop for sole breadwinner single mum of 5",
@@ -6697,17 +6695,6 @@
   ],
   "offers": [
     {
-      "id": "144041",
-      "name": "puma walking shoes",
-      "description": "puma walking shoes , almost brand new",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "25 Apr 2025",
-      "ageInYears": 1,
-      "dimensions": "24.5",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Attires/Clothings"
-    },
-    {
       "id": "143513",
       "name": "Clothes Boys 8-10Y and 10-12Y",
       "description": "Boys Clothes. Jeans, Pants, Shorts, Tshirts. Size 8-10Y and 10-12Y",
@@ -6783,6 +6770,17 @@
       "dimensions": "45cmWx20cmH",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "144047",
+      "name": "White IKEA Table",
+      "description": "I have 15 white IKEA tables to give away to those in need. The tables are sturdy and in good condition, with minor surface wear and tear. They are still fully functional and suitable for use in homes, offices, or community spaces.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "25 Apr 2025",
+      "ageInYears": 2,
+      "dimensions": "75cmx75cmx75cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "144029",
