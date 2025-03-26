@@ -73,24 +73,6 @@
       "date": "25 Mar 2025"
     },
     {
-      "id": "143992",
-      "category": "Home Furnishing",
-      "name": "2-seater sofa",
-      "description": "Client is a single mum to 4 children. She recently moved into her unfurnished home. She just returned to work and income is very limited.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Yew Tee",
-        "name": "Teo Xin Yi",
-        "email": "teoxinyi@fycs.org",
-        "phone": [
-          "64162161",
-          "64162162"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Mar 2025"
-    },
-    {
       "id": "143986",
       "category": "Home Furnishing",
       "name": "Single size foldable mattress",
@@ -1734,6 +1716,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "24 Feb 2025"
+    },
+    {
+      "id": "144054",
+      "category": "Infant and Children Items",
+      "name": "Double Stroller",
+      "description": "Family of 4 with 2 young children (M/3 and F/1) living in a 2-room rental flat in need of a double stroller for mum to send CYPs to their respective schools. NPs are in ad-hoc part-time jobs and have some difficulties maintaining stable income",
+      "specifications": null,
+      "contact": {
+        "org": "HEART @ Fei Yue",
+        "name": "Elshaddai Jeevanathy D/O Ventakesan",
+        "email": "elshaddai@fycs.org",
+        "phone": [
+          "91266100",
+          "68199170"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Mar 2025"
     },
     {
       "id": "144040",
@@ -6607,6 +6607,23 @@
       "date": "27 Feb 2025"
     },
     {
+      "id": "144057",
+      "category": "Attires/Clothings",
+      "name": "Baju Raya",
+      "description": "Single mum with 3 children (1 daughter and 2 sons) request for Baju Raya for her children. Family is in tight financial situation and unable to afford to buy new sets for the children. Mum wish to have 1 new set each for her children. Family is under financial assistance as mum is currently unable to work due to health reasons.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Ye Jiancheng",
+        "email": "jiancheng@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Mar 2025"
+    },
+    {
       "id": "143940",
       "category": "Attires/Clothings",
       "name": "Hari Raya clothing",
@@ -6717,6 +6734,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "144051",
+      "name": "Refrigerator",
+      "description": "2 door LG LG Refrigerator . It’s about 6 years used in tenanted house , still in working condition . Size is estimation",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "10 Apr 2025",
+      "ageInYears": 4,
+      "dimensions": "860 x 1840 x 730",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "143991",
       "name": "Sony sound system",
       "description": "Sound system come with 5 speakers and amplifier",
@@ -6772,6 +6800,72 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "144055",
+      "name": "Work table",
+      "description": "Quality wood\nVery good condition",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "25 Apr 2025",
+      "ageInYears": 4,
+      "dimensions": "1.8 x 0.85 m",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "144053",
+      "name": "Kitchen cupboard",
+      "description": "Still in good condition - kitchen cabinet",
+      "location": null,
+      "validTill": "10 Apr 2025",
+      "ageInYears": 4,
+      "dimensions": "120cm  x 50cm x 200cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "144052",
+      "name": "3-seater Sofa",
+      "description": "Fairly good condition dark grey 3-seater sofa to donate away. Will pay the transport for delivery to the needy.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "05 Apr 2025",
+      "ageInYears": 2,
+      "dimensions": "L 197cm x W 92cm x H 103cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "144050",
+      "name": "kids wardrobe",
+      "description": "before 2 apr",
+      "location": "Cairnhill, Killiney, Orchard, River Valley",
+      "validTill": "02 Apr 2025",
+      "ageInYears": 3,
+      "dimensions": "60 x 50 x 120000000",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "144049",
+      "name": "Toy Bins, shelves",
+      "description": "by 2 apr",
+      "location": "Cairnhill, Killiney, Orchard, River Valley",
+      "validTill": "02 Apr 2025",
+      "ageInYears": 4,
+      "dimensions": "93",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "144048",
+      "name": "long side table",
+      "description": "delivery before 2 april",
+      "location": null,
+      "validTill": "02 Apr 2025",
+      "ageInYears": 3,
+      "dimensions": "160",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "144047",
       "name": "White IKEA Table",
       "description": "I have 15 white IKEA tables to give away to those in need. The tables are sturdy and in good condition, with minor surface wear and tear. They are still fully functional and suitable for use in homes, offices, or community spaces.",
@@ -6779,17 +6873,6 @@
       "validTill": "25 Apr 2025",
       "ageInYears": 2,
       "dimensions": "75cmx75cmx75cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "144029",
-      "name": "Book shelf",
-      "description": "White book shelf. Pretty design on top. Was used to store children’s books. Well used but still in reasonably good condition. Will clean before delivering.",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "27 Mar 2025",
-      "ageInYears": 4,
-      "dimensions": "70 cm W X 30 cm D X 180 cm H",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -7012,6 +7095,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "144056",
+      "name": "Baby Cot",
+      "description": "condition: 3/5\n\nsome parts of the paint chipped.\n\neverything else is working fine. will include 2 cot sheets.",
+      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+      "validTill": "12 Apr 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "144001",
