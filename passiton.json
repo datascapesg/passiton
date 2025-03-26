@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "144035",
+      "category": "Home Furnishing",
+      "name": "2 Feet, 2 door wardrobe",
+      "description": "A family of 4, including 2 children, living in a public rental flat, requires a wardrobe to store their clothes. They cannot afford to purchase one as the father is a low-income earner and the mother is a full-time caregiver.",
+      "specifications": "L60cm - L90cm",
+      "contact": {
+        "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
+        "name": "Steven Lio",
+        "email": "steven_lio@msf.gov.sg",
+        "phone": [
+          "63548174",
+          "18002220000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Mar 2025"
+    },
+    {
       "id": "144018",
       "category": "Home Furnishing",
       "name": "Sofa",
@@ -3574,6 +3592,24 @@
       "date": "25 Feb 2025"
     },
     {
+      "id": "144033",
+      "category": "Electrical Home Appliances",
+      "name": "Fan",
+      "description": "Client is staying alone and has very limited support. She has a low paying job and has to pay off the debts that her husband had left after he passed away. Her standing fan recently spoilt and she does not have other ventilation from her room when she closes the window. As such, her sleep has been affected. She would greatly appreciate a standing fan.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Annabel Dass",
+        "email": "annabeldass@fycs.org",
+        "phone": [
+          "69783483",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Mar 2025"
+    },
+    {
       "id": "144021",
       "category": "Electrical Home Appliances",
       "name": "Washing machine",
@@ -5117,24 +5153,6 @@
       "date": "26 Mar 2025"
     },
     {
-      "id": "144027",
-      "category": "Others",
-      "name": "Ensure Regular Adult Nutrition Powder",
-      "description": "Client is a 24-year-old cancer patient who is on active treatment. He used to work full-time but had to quit recently to fully focus on his treatment. He lives with his single mother who is also unemployed due to health issues. Currently there is no active income in the family. Client would need to consume the special milk formula to supplement the side effects of his cancer treatment. An example of the milk powder can be found here for your reference: https://shopee.sg/Ensure-Regular-Adult-Nutrition-Powder-Vanilla-850g-i.142401765.2277113771",
-      "specifications": "Vanilla 850g",
-      "contact": {
-        "org": "AIN Society",
-        "name": "Norhashimah Binti Kamarudin",
-        "email": "shimah@ainsociety.org.sg",
-        "phone": [
-          "68485163",
-          "68485166"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Mar 2025"
-    },
-    {
       "id": "144026",
       "category": "Others",
       "name": "Tena Diapers Size L",
@@ -6575,6 +6593,17 @@
   ],
   "offers": [
     {
+      "id": "144034",
+      "name": "puma walking shoes",
+      "description": "puma walking shoes , almost brand new",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "25 Apr 2025",
+      "ageInYears": 1,
+      "dimensions": "24.5",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Attires/Clothings"
+    },
+    {
       "id": "143513",
       "name": "Clothes Boys 8-10Y and 10-12Y",
       "description": "Boys Clothes. Jeans, Pants, Shorts, Tshirts. Size 8-10Y and 10-12Y",
@@ -6894,17 +6923,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "144016",
-      "name": "Toddler toys",
-      "description": "Used less than a year. Toddler toys",
-      "location": "Boon Lay, Jurong, Tuas",
-      "validTill": "25 Apr 2025",
-      "ageInYears": 1,
-      "dimensions": "11.81\" L x 19.69\" W x 28.94\"",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
       "id": "144001",
       "name": "Brand New Macdonald Toys",
       "description": "Brand New Macdonald Toys in Sealed Original Bags / Boxes",
@@ -7178,17 +7196,6 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
-    },
-    {
-      "id": "144022",
-      "name": "Reclining Geriatric Chair",
-      "description": "Reclining Geriatric Chair in good working condition.",
-      "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-      "validTill": "25 Apr 2025",
-      "ageInYears": 3,
-      "dimensions": "65*80*120cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
     },
     {
       "id": "144004",
