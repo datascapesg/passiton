@@ -1,16 +1,5 @@
 [
   {
-    "id": "144034",
-    "name": "puma walking shoes",
-    "description": "puma walking shoes , almost brand new",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "25 Apr 2025",
-    "ageInYears": 1,
-    "dimensions": "24.5",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Attires/Clothings"
-  },
-  {
     "id": "143513",
     "name": "Clothes Boys 8-10Y and 10-12Y",
     "description": "Boys Clothes. Jeans, Pants, Shorts, Tshirts. Size 8-10Y and 10-12Y",
@@ -603,6 +592,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "144038",
+    "name": "Reclining Geriatric Chair",
+    "description": "Reclining Geriatric Chair in good working condition.",
+    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+    "validTill": "25 Apr 2025",
+    "ageInYears": 3,
+    "dimensions": "65*80*120cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "144004",
