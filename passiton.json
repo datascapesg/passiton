@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "144216",
+      "category": "Home Furnishing",
+      "name": "Wardrobe",
+      "description": "Wishlist Description: Family consist of 6 members with 4 school-going children would require a wardrobe as the current one shared by all the family members are spoilt and the family struggles to replace it. Father is working odd job while mother is on long-term MC due to health condition.",
+      "specifications": "L 1600 x D 585 x H 2220mm",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Too Xiu Hui",
+        "email": "tooxiuhui@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "02 Apr 2025"
+    },
+    {
       "id": "144188",
       "category": "Home Furnishing",
       "name": "Queen Size Mattress",
@@ -2673,6 +2690,57 @@
       "date": "03 Mar 2025"
     },
     {
+      "id": "144220",
+      "category": "Electrical Home Appliances",
+      "name": "Ceiling Fan",
+      "description": "Member is a visually impaired man with various medical conditions rendering him unfit for work. His wife is also chronically unfit for work due to mental health conditions, and they have 3 school-going children. The family is entirely reliant on formal financial assistance.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Regina Leong",
+        "email": "regina@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Apr 2025"
+    },
+    {
+      "id": "144219",
+      "category": "Electrical Home Appliances",
+      "name": "Standing Fan",
+      "description": "Member is a visually impaired man with various medical conditions rendering him unfit for work. His wife is also chronically unfit for work due to mental health conditions, and they have 3 school-going children. The family is entirely reliant on formal financial assistance.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Regina Leong",
+        "email": "regina@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Apr 2025"
+    },
+    {
+      "id": "144218",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is a single mother of 6, juggling both employment and caregiving responsibility. Her washing machine has just spoilt and she does not have enough to get a new/2nd hand one and has been handwashing.",
+      "specifications": "Nil",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Too Xiu Hui",
+        "email": "tooxiuhui@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "02 Apr 2025"
+    },
+    {
       "id": "144196",
       "category": "Electrical Home Appliances",
       "name": "New/Preloved TV",
@@ -3970,6 +4038,40 @@
       "date": "03 Mar 2025"
     },
     {
+      "id": "144215",
+      "category": "Others",
+      "name": "Newborn milk powder",
+      "description": "Client's daughter is a teenage mother, who has just given birth in March 2025. Client is the sole breadwinner of the low income family. Family does not have preference on brand of milk. If you have any suitable item, please reach out to me at 9828 7307. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Han Wen Ting",
+        "email": "hanwenting@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Apr 2025"
+    },
+    {
+      "id": "144214",
+      "category": "Others",
+      "name": "Containers/Storage Boxes",
+      "description": "Client's house has extensive hoarding and they are working with caseworker to declutter items. Storage boxes will help with the organization of items in the unit.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
+        "name": "Chan Jun Ren",
+        "email": "chanjunren@mws.sg",
+        "phone": [
+          "62828558"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Apr 2025"
+    },
+    {
       "id": "144204",
       "category": "Others",
       "name": "CeraVe Moisturising Cream (Round Tub)",
@@ -4814,6 +4916,24 @@
       "date": "05 Mar 2025"
     },
     {
+      "id": "144217",
+      "category": "Learning Aids",
+      "name": "Earpiece (wired, 3.5mm plug)",
+      "description": "Client is intellectually disabled and is a Public Assistance (PA) cardholder. He requires a good quality earpiece (wired with 3.5mm plug) for his cognitive stimulation activities and learning use. He does not have any family who is able to support him. \nFor donors to kindly send the earpiece to Ang Mo kio hospital. Thank you so much.",
+      "specifications": null,
+      "contact": {
+        "org": "Thye Hua Kwan Hospital - Ang Mo Kio",
+        "name": "Isaiah Yap",
+        "email": "isaiah_yap@amkh.org.sg",
+        "phone": [
+          "65079575",
+          "64508033"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Apr 2025"
+    },
+    {
       "id": "144202",
       "category": "Learning Aids",
       "name": "Microsoft Office Software",
@@ -5435,17 +5555,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "144175",
-      "name": "Sofa Bed/Chaise",
-      "description": "Lightly used dark green Castlery chaise in good condition with no wear and tear. Foam is in great condition, outer fabric is removable and washable.",
-      "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-      "validTill": "01 May 2025",
-      "ageInYears": 2,
-      "dimensions": "167 x 92 x 75 (cm)",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "144163",
       "name": "LYCKSELE sofa-bed",
       "description": "1 seater  LYCKSELE sofa-bed. Rarely used. Frame only. Mattress is available if wanted, but there is a tear along the seams.",
@@ -5644,17 +5753,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "144174",
-      "name": "Playmat",
-      "description": "In good condition. Child outgrew",
-      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-      "validTill": "29 Apr 2025",
-      "ageInYears": 3,
-      "dimensions": "1.5m x 2m x 1cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
       "id": "144173",
       "name": "Play pen",
       "description": "a playpen that is well maintained. You can reconfigure into the dimensions you want",
@@ -5809,17 +5907,6 @@
       "category": "Infant and Children Items"
     },
     {
-      "id": "144031",
-      "name": "Yamaha Electronic Drum Set",
-      "description": "More than 4 years old but in good working condition. Due to our location nearing the sea, some parts might be rusty. Good for those who wants to learn how to drum but without disturbing others!",
-      "location": "Changi, Flora, Loyang",
-      "validTill": "25 Apr 2025",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Leisure and Healthy Lifestyle"
-    },
-    {
       "id": "144147",
       "name": "Disposable Urinal (Male)",
       "description": "Unopened carton containing 10 pieces and 5 unused pieces of disposable urinal for male. Capacity: 1000ml.\nSuitable for bedridden users or post-surgery male patients who can't move around freely. Material of these urine containers are made from pulp, discard after each use.",
@@ -5840,28 +5927,6 @@
       "dimensions": "46cm x 30cm x 20cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
-    },
-    {
-      "id": "144213",
-      "name": "Commode w/o bucket",
-      "description": "In prestine condition, commode without bucket",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "02 May 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
-      "id": "144212",
-      "name": "Commode w bucket",
-      "description": "In prestine condition",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "02 May 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
     },
     {
       "id": "144208",
