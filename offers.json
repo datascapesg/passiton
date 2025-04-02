@@ -33,23 +33,34 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "144257",
+    "name": "Microwave oven",
+    "description": "Good working condition. I will pay for the delivery fee.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "02 May 2025",
+    "ageInYears": 1,
+    "dimensions": "Refer to the pictures",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "144254",
+    "name": "Fridge (non-halal)",
+    "description": "Good working condition. Suitable for small families. I will pay for delivery.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "02 May 2025",
+    "ageInYears": 4,
+    "dimensions": "Refer to the pictures",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "144222",
     "name": "Standing Fan",
     "description": "16 inch fan can turn, signs of rust \nI live in the east so I can only deliver to North, South, East and West until Chinatown",
     "location": "Pasir Ris, Simei, Tampines",
     "validTill": "02 May 2025",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "144160",
-    "name": "Bosch dishwasher",
-    "description": "Please let me know about discounted rates for moving services",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "13 Apr 2025",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
@@ -130,6 +141,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "144261",
+    "name": "Single bed and mattress",
+    "description": "Good condition. I will pay for the delivery fee.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "02 May 2025",
+    "ageInYears": 4,
+    "dimensions": "Refer to the pictures",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "144260",
+    "name": "Wardrobe",
+    "description": "Good condition. I will pay for the delivery fee.",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "02 May 2025",
+    "ageInYears": 3,
+    "dimensions": "Refer to the pictures",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "144247",
@@ -326,17 +359,6 @@
     "validTill": "25 Apr 2025",
     "ageInYears": 2,
     "dimensions": "206cmx152cmx118cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "144075",
-    "name": "bedframe",
-    "description": "king size bed in good condition",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "26 Apr 2025",
-    "ageInYears": 1,
-    "dimensions": "2.1m x 1.96m x 0.3m",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
