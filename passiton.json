@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "144232",
+      "category": "Home Furnishing",
+      "name": "Ikea Wall Shelves",
+      "description": "Single father just moved into rental flat and is taking care of 3 young children.  He is looking for wall shelves as home organisation storage. Unable to afford the cost of the shelves as his income only sufficient to cover basic needs. \n\nhttps://www.ikea.com/sg/en/p/bergshult-tomthult-shelf-with-bracket-white-s19418319/",
+      "specifications": "120cm x 30cm x 2.5cm",
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Lim Hui Ying",
+        "email": "huiying_lim@awwa.org.sg",
+        "phone": [
+          "65119431",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Apr 2025"
+    },
+    {
       "id": "144216",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -5576,6 +5594,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "144229",
+      "name": "Sofa",
+      "description": "Sofa",
+      "location": null,
+      "validTill": "02 May 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "144211",
       "name": "Toys bin cabinet",
       "description": "Toy bin, cabinet, shelving",
@@ -5983,7 +6012,7 @@
       "category": "Mobility Aids"
     },
     {
-      "id": "144207",
+      "id": "144231",
       "name": "Commode chair with wheels",
       "description": "NA",
       "location": "Jurong",
@@ -6069,6 +6098,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "144228",
+      "name": "Hospital bed and air mattress",
+      "description": "Air mattress less than 2 years",
+      "location": "Farrer Park, Little India, Serangoon Road",
+      "validTill": "02 May 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "143679",
