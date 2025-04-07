@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "144369",
+      "category": "Home Furnishing",
+      "name": "cupboard for clothes",
+      "description": "Client lives in a one-room rental flat with his elderly grandmother. They are facing financial difficulties. Client requests for cupboard to store and organize his clothes.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Thiviya D/O Athimoolam",
+        "email": "thiviya@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Apr 2025"
+    },
+    {
       "id": "144335",
       "category": "Home Furnishing",
       "name": "Wadrobe",
@@ -898,23 +915,6 @@
       "date": "12 Mar 2025"
     },
     {
-      "id": "143539",
-      "category": "Home Furnishing",
-      "name": "King Size Bed Headboard",
-      "description": "FSC would like to request for a donation of 1 x King sized bed headboard for 3 children - Sister (16yo) and brothers (14 and 13yo).  Their mother who is the sole breadwinner recently suffered an accident and is unable to move her 4 limbs.  She is currently hospitalised and will not be able to work for the coming months.  The children are left on their own with Mother's depleting savings, and a distant aunt who checks on them weekly.  The children have been sleeping on their mattresses on the floor, and it brings some discomfort to them. The boys are sharing King-sized bed. The donation will greatly aid them in ensuring better sleep and rest for them despite their difficult situation right now. They already have the mattress, currently hoping for a King size bed headboard",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
-        "name": "Sabrina Than",
-        "email": "sabrinathan@mws.sg",
-        "phone": [
-          "62828558"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Mar 2025"
-    },
-    {
       "id": "143534",
       "category": "Home Furnishing",
       "name": "King size mattress only",
@@ -1125,6 +1125,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "07 Mar 2025"
+    },
+    {
+      "id": "144364",
+      "category": "Infant and Children Items",
+      "name": "Milk and Diapers",
+      "description": "Family has 6 young children and due to health issues, father is not able to work. Mother is trying to find part time job that can meet their caregiving commitment. The family require milk Durpo stage 1 diapers and M size taped airsoft Huggies for their youngest child.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Punggol 616",
+        "name": "Amos Liu",
+        "email": "amosliu@allkin.org.sg",
+        "phone": [
+          "60384140"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Apr 2025"
     },
     {
       "id": "144333",
@@ -3309,6 +3326,24 @@
       "date": "12 Mar 2025"
     },
     {
+      "id": "144366",
+      "category": "Mobility Aids",
+      "name": "Light Weight Elevating Wheelchair",
+      "description": "Client is going for knee surgery and needs a wheelchair for post-operation mobility needs. Client prefers to have leg support which can be elevated to a straight level.",
+      "specifications": "Light Weight Elevating Wheelchair",
+      "contact": {
+        "org": "Lakeside Family Centre - Jurong West",
+        "name": "Christopher Nasser",
+        "email": "christopher-nasser@lakeside.org.sg",
+        "phone": [
+          "65671908ext429",
+          "65671908"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Apr 2025"
+    },
+    {
       "id": "144304",
       "category": "Mobility Aids",
       "name": "New Commode",
@@ -3361,6 +3396,57 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "11 Mar 2025"
+    },
+    {
+      "id": "144368",
+      "category": "Electrical Home Appliances",
+      "name": "Iron + Ironing board",
+      "description": "Client lives in a one-room rental flat with his elderly grandmother. They are facing financial difficulties. Client requests for iron and ironing board. This will help to ensure he has clean and tidy clothing to sustain his job.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Thiviya D/O Athimoolam",
+        "email": "thiviya@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Apr 2025"
+    },
+    {
+      "id": "144367",
+      "category": "Electrical Home Appliances",
+      "name": "microwave oven",
+      "description": "Client lives in a one-room rental flat with his elderly grandmother. They are facing financial difficulties. Client requests for microwave oven for preparation of meals",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Thiviya D/O Athimoolam",
+        "email": "thiviya@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Apr 2025"
+    },
+    {
+      "id": "144365",
+      "category": "Electrical Home Appliances",
+      "name": "washing machine",
+      "description": "Client lives in a one-room rental flat with his elderly grandmother. They are facing financial difficulties. Client requests for washing machine as his current one is spoilt. The washing machine will help in ensuring he has clean clothes to sustain his job.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Thiviya D/O Athimoolam",
+        "email": "thiviya@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Apr 2025"
     },
     {
       "id": "144334",
@@ -5261,17 +5347,6 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
-    },
-    {
-      "id": "144360",
-      "name": "Used airfryer",
-      "description": "Still in working condition, from muslim household",
-      "location": "Seletar, Yio Chu Kang",
-      "validTill": "20 Apr 2025",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
     },
     {
       "id": "144353",
