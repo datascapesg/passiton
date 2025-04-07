@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "144392",
+      "category": "Home Furnishing",
+      "name": "Wardrobe",
+      "description": "My client, an elderly individual living alone in a rental flat, is currently unemployed due to health issues. He is seeking a simple wardrobe to store his clothes. Please contact me at 8859 5662 for more information. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "Viriya Family Service Centre",
+        "name": "Grace Ang",
+        "email": "grace_ang@viriya.org.sg",
+        "phone": [
+          "62855033",
+          "62858033"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Apr 2025"
+    },
+    {
       "id": "144389",
       "category": "Home Furnishing",
       "name": "Bunk bed (double deck)",
@@ -5491,17 +5509,6 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "144201",
-      "name": "Preloved Baby Clothes - 0 to 6 months",
-      "description": "Preloved\nIn good condition\nSome items have name stamp",
-      "location": null,
-      "validTill": "01 May 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Attires/Clothings"
-    },
-    {
       "id": "144092",
       "name": "Size L bundle of women’s dresses",
       "description": "Bundle of women’s dresses for work and casual.\nMostly to fit usual size L, UK 10/12. Will send via courier or can pickup from my place near Braddell",
@@ -5588,6 +5595,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "144391",
+      "name": "Bed + mattress (king)",
+      "description": "Bed frame is from Ikea; comes with 4 storage drawers.\nMattress is from Origins.",
+      "location": null,
+      "validTill": "30 Apr 2025",
+      "ageInYears": 2,
+      "dimensions": "190x200",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "144375",
