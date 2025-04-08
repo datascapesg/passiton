@@ -3100,23 +3100,6 @@
       "date": "08 Apr 2025"
     },
     {
-      "id": "144450",
-      "category": "Others",
-      "name": "10 Dishwashing liquid",
-      "description": "RELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Maziah Mahmod",
-        "email": "maziah.mahmod@ppis.sg",
-        "phone": [
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Apr 2025"
-    },
-    {
       "id": "144448",
       "category": "Others",
       "name": "10 Detergent Powder (1kg)",
@@ -3126,40 +3109,6 @@
         "org": "PPIS Family Service Centre (West)",
         "name": "Maziah Mahmod",
         "email": "maziah.mahmod@ppis.sg",
-        "phone": [
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Apr 2025"
-    },
-    {
-      "id": "144447",
-      "category": "Others",
-      "name": "10 Sugar Packets",
-      "description": "PPIS FSCW RELIGHT would like to request for 10 or more halal sugar packets for its beneficiaries. Thank you!\n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Nur Aisyah Binte Abdul Manan",
-        "email": "nuraisyah.manan@ppis.sg",
-        "phone": [
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Apr 2025"
-    },
-    {
-      "id": "144446",
-      "category": "Others",
-      "name": "10 Salt Packets",
-      "description": "PPIS FSCW RELIGHT would like to request for 10 or more halal salt packets for its beneficiaries. Thank you!\n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Nur Aisyah Binte Abdul Manan",
-        "email": "nuraisyah.manan@ppis.sg",
         "phone": [
           "65613462"
         ]
@@ -5093,23 +5042,6 @@
       "date": "26 Mar 2025"
     },
     {
-      "id": "143987",
-      "category": "Electrical Home Appliances",
-      "name": "Clothes dryer",
-      "description": "Single father has to work to support himself and his 4 children, thus he has no time to hang clothes and retrieve them on his own.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Marine Parade Family Service Centre",
-        "name": "Wei Shimin",
-        "email": "shimin.wei@montfortcare.org.sg",
-        "phone": [
-          "64450100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Mar 2025"
-    },
-    {
       "id": "143936",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -6732,6 +6664,50 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "144470",
+      "name": "Chinese Comic Book",
+      "description": "Whole Series (in Mandarin)\nTian Jie Wu Xian SG Comic\nInclude memorabiles.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "08 May 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "144469",
+      "name": "Chinese Calligraphy",
+      "description": "Include Brushes, paper, guidebooks and a felt table mat.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "08 May 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "144468",
+      "name": "Foldable Tote Bags",
+      "description": "3 foldable tote bags for marketing. Thick material.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "08 May 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "144467",
+      "name": "A3 Folder, Notebooks and Stationery",
+      "description": "Include 2x A3 Folders / Portfolio and 6 Notebooks",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "08 May 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "144384",
