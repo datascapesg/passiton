@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "144426",
+      "category": "Home Furnishing",
+      "name": "Queen size mattress",
+      "description": "Clt is the primary breadwinner, supporting her two young children and elderly mother, who is in the end stages of kidney disease. Her queen-size mattress has worn out over time and needs to be replaced, but due to her low wages, she is struggling to afford a new one.",
+      "specifications": "-",
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Hannah Lim",
+        "email": "hannahlimzhixin@fycs.org",
+        "phone": [
+          "69783487",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Apr 2025"
+    },
+    {
       "id": "144417",
       "category": "Home Furnishing",
       "name": "dressing table with sliding mirror",
@@ -120,23 +138,6 @@
         "email": "anabellelim@allkin.org.sg",
         "phone": [
           "60384140"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Apr 2025"
-    },
-    {
-      "id": "144369",
-      "category": "Home Furnishing",
-      "name": "cupboard for clothes",
-      "description": "Client lives in a one-room rental flat with his elderly grandmother. They are facing financial difficulties. Client requests for cupboard to store and organize his clothes.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Sengkang 223D",
-        "name": "Thiviya D/O Athimoolam",
-        "email": "thiviya@allkin.org.sg",
-        "phone": [
-          "63128100"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -5695,6 +5696,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "144423",
+      "name": "Washing machine",
+      "description": "Good working condition.",
+      "location": "Boon Lay, Jurong, Tuas",
+      "validTill": "08 May 2025",
+      "ageInYears": 2,
+      "dimensions": "Refer to picture",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "144353",
       "name": "Mistral Sandwich Maker",
       "description": "Rarely used sandwich maker",
@@ -5702,6 +5714,17 @@
       "validTill": "15 Apr 2025",
       "ageInYears": 4,
       "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "144425",
+      "name": "Sony Bravia TV",
+      "description": "Non smart TV bought in 2011, still in working condition, just upgraded to a smart TV hence no longer have use for it. Needs to be used with digital TV box.",
+      "location": "Braddell , Macpherson, Potong Pasir",
+      "validTill": "06 May 2025",
+      "ageInYears": 4,
+      "dimensions": "L30xW9xH20 inches",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
     },
@@ -5737,6 +5760,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "144424",
+      "name": "Single bed and mattress",
+      "description": "Singlr bed and mattress. Still in very good condition.",
+      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+      "validTill": "07 May 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "144412",
