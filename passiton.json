@@ -565,40 +565,6 @@
       "date": "20 Mar 2025"
     },
     {
-      "id": "143854",
-      "category": "Home Furnishing",
-      "name": "Dining table",
-      "description": "Family of 5 with 3 school going children will require a dining table for them to eat as a family as they have recently moved into new house and are facing significant financial constraints and not able to afford a dining table.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Sengkang 223D",
-        "name": "Syamirul Azim",
-        "email": "syamirulazim@allkin.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "20 Mar 2025"
-    },
-    {
-      "id": "143850",
-      "category": "Home Furnishing",
-      "name": "Cupboard for clothing",
-      "description": "Family has 3 school-going children who requires a clothing cupboard to organize their clothings as they have just moved into new house and do not have the financial means to afford a clothing cupboard.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Sengkang 223D",
-        "name": "Syamirul Azim",
-        "email": "syamirulazim@allkin.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "20 Mar 2025"
-    },
-    {
       "id": "143848",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -4202,24 +4168,6 @@
       "date": "08 Apr 2025"
     },
     {
-      "id": "144428",
-      "category": "Electrical Home Appliances",
-      "name": "Portable Air Conditioner",
-      "description": "Family of 5 with young infant staying in rental flat requires a portable aircon to provide a better environment for the infant to rest. Infant responded negatively to heat and has needs for a cooler environment to rest and not aggravate condition. Would appreciate any donor for a portable aircon. Thanks.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Jurong",
-        "name": "Shree Ganga D/O Rajasagran",
-        "email": "ShreeGanga@thkmc.org.sg",
-        "phone": [
-          "88333080",
-          "67169466"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Apr 2025"
-    },
-    {
       "id": "142964",
       "category": "Electrical Home Appliances",
       "name": "Refridgerator",
@@ -6152,6 +6100,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "144475",
+      "name": "Airfryer (Non-Halal) Brand: Mayer",
+      "description": "Mayer brand Airfryer with drawer",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "06 May 2025",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "144472",
       "name": "Hitachi Fridge (2 doors) Model: R-H350P4MSR; 283 litre capacity",
       "description": "Good condition, pre-loved fridge with freezer \nIncluded instruction manual \n2 doors\nModel: R-H350P4MSR",
@@ -6205,6 +6164,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "144474",
+      "name": "Pre-loved: White wooden kids’ wardrobe (2 doors)",
+      "description": "Pre-loved: White wooden kids’ wardrobe (2 doors) with multiple compartments; wardrobe comes with 4 additional drawers (2 small + 2 large) in very good condition. \nFront of drawers has some stickers that can be removable",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "06 May 2025",
+      "ageInYears": 2,
+      "dimensions": "H: 185cm D: 48cm L: 91cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "144473",
+      "name": "2-in-1 Study Desk/Table and Dresser with Mirror (Victorian Style, Wooden Table)",
+      "description": "Pre-loved - Beautiful Victorian style dresser cum Study Table \n\nThis is a versatile and convertible wooden desk for study or dresser with 4 small drawers. The mirror and drawers can be easily removed for a more spacious study desk. \n\nHope to bless family with children or mothers to use this desk for study, work or play.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "06 May 2025",
+      "ageInYears": 4,
+      "dimensions": "L: 74cm  D: 40cm H: 138cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "144471",
