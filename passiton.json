@@ -4287,6 +4287,24 @@
       "date": "17 Mar 2025"
     },
     {
+      "id": "144637",
+      "category": "Home Furnishing",
+      "name": "Small Table",
+      "description": "Elderly widowed lady with mild cognitive impairment needed a small table in her rental unit. Her current wooden table top has crack and the legs are no longer stable. She is not working hence unable to replace the table by herself.",
+      "specifications": "est 75cm (L) x 45cm (W) x70cm (H)",
+      "contact": {
+        "org": "Filos Community Services Ltd",
+        "name": "Bobo Lee",
+        "email": "bobo@filos.sg",
+        "phone": [
+          "62411503",
+          "62425978"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Apr 2025"
+    },
+    {
       "id": "144633",
       "category": "Home Furnishing",
       "name": "Foam Mattress",
@@ -5820,6 +5838,17 @@
   ],
   "offers": [
     {
+      "id": "144635",
+      "name": "Female Long pants (New)-L size",
+      "description": "Waist can stretch from 34cm to 42cm, Hips-48cm, Length-86cm . Brand new.",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "14 May 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Attires/Clothings"
+    },
+    {
       "id": "144611",
       "name": "Woman’s Jumpsuit",
       "description": "Still new jumpsuit for giveaway",
@@ -5981,17 +6010,6 @@
       "validTill": "13 May 2025",
       "ageInYears": 2,
       "dimensions": "100cmLx50cmW",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "144598",
-      "name": "tv console ( tv NOT Included)",
-      "description": "tv console (Ikea) in good condition.\navailable.on 30 April",
-      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-      "validTill": "30 Apr 2025",
-      "ageInYears": 2,
-      "dimensions": "see photo",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -6412,6 +6430,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "144636",
+      "name": "Laptop Aspire A114-31",
+      "description": "Item is in good condition. Mouse is not included. Microsoft Office is excluded as well, but able to download WPS Office. Laptop has very low memory storage. Not suitable for heavy usage like downloading of file and software.\n\nSpecification of Laptop\nProcessor: Intel(R) Celeron(R) CPU N3450 @ 1.10GHz\nInstalled memory (RAM): 4.00GB (3.84GB usable)\nSystem Type: 64-bit Operating system, x64-based processor",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "25 Apr 2025",
+      "ageInYears": 4,
+      "dimensions": "34.3cm x 24.5cm x 1.795cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "144626",
