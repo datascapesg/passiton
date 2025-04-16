@@ -44,6 +44,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "144707",
+    "name": "Alarm clock/radio/Bluetooth speaker",
+    "description": "Delivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "16 May 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "144622",
     "name": "Table fan 30cm dia.",
     "description": "Delivery on weekday evening and weekend.",
@@ -139,17 +150,6 @@
     "validTill": "30 Apr 2025",
     "ageInYears": 4,
     "dimensions": "95 width x 50cm depth x 75cm height",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "144696",
-    "name": "Home Decor",
-    "description": "Miniature Shopfront (A5 size) of an artist store. Made of wood and painted. For house decoration.",
-    "location": null,
-    "validTill": "15 May 2025",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -352,6 +352,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "144709",
+    "name": "Toys",
+    "description": "Delivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "16 May 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "144691",
     "name": "Formula Milk",
     "description": "4 cans of Friso Gold Stage 4 formula milk. Near Expiry! Expires 23/05/2025\nSuitable for age 3 and above.",
@@ -506,6 +517,17 @@
     "category": "Kitchen Utility Items"
   },
   {
+    "id": "144708",
+    "name": "Bicycle helmet (chilndren)",
+    "description": "Delivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "16 May 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
     "id": "144698",
     "name": "Earrings and Hair Accessory",
     "description": "A pair of earring and a hair accessories. Made from resin and natural flowers.",
@@ -647,6 +669,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "144706",
+    "name": "Vase",
+    "description": "Delivery on weekday evening and weekend.",
+    "location": null,
+    "validTill": "16 May 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "144650",
