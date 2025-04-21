@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "144822",
+      "category": "Infant and Children Items",
+      "name": "Baby mattress",
+      "description": "Young single mum is looking for a baby mattress to prepare for her baby's birth in May. The home has no space for a baby cot so they are only able to accommodate a mattress. Donor to cover delivery cost.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Fitrah Nabilah",
+        "email": "fitrahnabilah@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Apr 2025"
+    },
+    {
       "id": "144817",
       "category": "Infant and Children Items",
       "name": "Diapers",
@@ -2654,6 +2671,24 @@
       "date": "24 Mar 2025"
     },
     {
+      "id": "144823",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "A 73-year-old male client with hemiplegia, living alone with no next of kin, is in urgent need of a washing machine. He is unable to do manual laundry. Any replacement would be greatly appreciated.",
+      "specifications": "Any",
+      "contact": {
+        "org": "NTUC Health Cluster Support @ Bukit Merah",
+        "name": "Jordan Kek",
+        "email": "jordan.k@ntuchealth.sg",
+        "phone": [
+          "97978057",
+          "62741602"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Apr 2025"
+    },
+    {
       "id": "144818",
       "category": "Electrical Home Appliances",
       "name": "Washing machine",
@@ -3861,6 +3896,23 @@
       "date": "21 Mar 2025"
     },
     {
+      "id": "144821",
+      "category": "Home Furnishing",
+      "name": "Cupboard (for clothing)",
+      "description": "Low income family of five lost some of their furniture to a fire and require a new wardrobe.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Fitrah Nabilah",
+        "email": "fitrahnabilah@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Apr 2025"
+    },
+    {
       "id": "144800",
       "category": "Home Furnishing",
       "name": "Small dining table",
@@ -4663,6 +4715,23 @@
       "date": "24 Mar 2025"
     },
     {
+      "id": "144820",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Family has a child with special needs who requires a working laptop to help with his school work. Child's mother, who is managing the child's caregiving and chronic medical needs, also hopes to use the laptop to focus on upskilling and explore alternative employment opportunities.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - @27 Family Service Centre",
+        "name": "Nikole Ye",
+        "email": "nikole.ye@montfortcare.org.sg",
+        "phone": [
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Apr 2025"
+    },
+    {
       "id": "144518",
       "category": "Learning Aids",
       "name": "Secondary 3 Bahasa Melayu (Assessment Book)",
@@ -5272,6 +5341,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "144819",
+      "name": "Day bed",
+      "description": "Ikea Hemnes day bed with two mattresses. The frame has been moved houses already 2x, so now 1 drawer moves a bit heavy and 2 drawers don't close evenly, see picture. The frame has some damages, but that is more an aestetic issue. When pulled out for 2 people there is a squeaking sound when lying down.",
+      "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+      "validTill": "21 May 2025",
+      "ageInYears": 4,
+      "dimensions": "209x86cm (168cm when pulled out)",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "144799",
@@ -6018,17 +6098,6 @@
       "validTill": "13 May 2025",
       "ageInYears": 2,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Others"
-    },
-    {
-      "id": "144602",
-      "name": "Red castle maternity pillow",
-      "description": "Curve pillow to help pregnancy women to sleep on the side instead of on the back.\n\nhttps://firstfewyears.com.sg/red-castle-big-flopsy-maternity-pillow.html",
-      "location": "Boon Lay, Jurong, Tuas",
-      "validTill": "12 May 2025",
-      "ageInYears": 4,
-      "dimensions": "170cm x 20cm x 10cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Others"
     },
