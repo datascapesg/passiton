@@ -2766,24 +2766,6 @@
       "date": "22 Apr 2025"
     },
     {
-      "id": "144823",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "A 73-year-old male client with hemiplegia, living alone with no next of kin, is in urgent need of a washing machine. He is unable to do manual laundry. Any replacement would be greatly appreciated.",
-      "specifications": "Any",
-      "contact": {
-        "org": "NTUC Health Cluster Support @ Bukit Merah",
-        "name": "Jordan Kek",
-        "email": "jordan.k@ntuchealth.sg",
-        "phone": [
-          "97978057",
-          "62741602"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Apr 2025"
-    },
-    {
       "id": "144818",
       "category": "Electrical Home Appliances",
       "name": "Washing machine",
@@ -3201,23 +3183,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "07 Apr 2025"
-    },
-    {
-      "id": "144328",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Client is unemployed and faces challenges in securing employment due to her history of incarcerations and health reasons. She has limited social support and is currently receiving ComCare Short-to-Medium-Term Assistance.",
-      "specifications": null,
-      "contact": {
-        "org": "Sembawang Family Service Centre",
-        "name": "Po Woei Yee",
-        "email": "powoeiyee@sfsc.org.sg",
-        "phone": [
-          "67547050"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Apr 2025"
     },
     {
       "id": "144325",
@@ -5193,6 +5158,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "144867",
+      "name": "2-doors Refrigerator",
+      "description": "Refrigerator is working well.  Only issue is I broke 1 side bar of the freezer.  There is only 1 instead of 2 side bar in the freezer as seen in picture 2.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "11 May 2025",
+      "ageInYears": 4,
+      "dimensions": "60 x 63 x 173 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "144622",
       "name": "Table fan 30cm dia.",
       "description": "Delivery on weekday evening and weekend.",
@@ -5235,6 +5211,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "144868",
+      "name": "Dining table and Chairs",
+      "description": "Dining table is in very good condition. It is a small square table 70x70cm that can sit 4 people.  If need it to be bigger, it can be extended to be a 1.2m long table. There are 4 matching chairs that I can give together too. Both table and chairs are made of wood from IKEA.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "11 May 2025",
+      "ageInYears": 3,
+      "dimensions": "70 x 70 x 74cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "144866",
