@@ -66,17 +66,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "144871",
-    "name": "SHARP Microwave and Steamwave",
-    "description": "Hi, I have a Sharp microwave that come with steaming function however I need social worker to pick it up from Potong Pasir as the item is heavy and bulky.",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "23 May 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "144622",
     "name": "Table fan 30cm dia.",
     "description": "Delivery on weekday evening and weekend.",
@@ -108,6 +97,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "144959",
+    "name": "Double Decker Bed",
+    "description": "2 levels of bed with a pull out bed at the bottom. Come with 2 mattresses. Very good condition.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "25 May 2025",
+    "ageInYears": 4,
+    "dimensions": "2metres length 1.8 metres height",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "144850",
@@ -688,6 +688,17 @@
     "location": "Admiralty Drive, Sembawang, Yishun",
     "validTill": "29 Apr 2025",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "144960",
+    "name": "Push Chair",
+    "description": "Push chair is well used and serviced annually. Picture not showing seat cover as we took it off to wash.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "29 Apr 2025",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
