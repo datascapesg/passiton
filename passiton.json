@@ -4602,24 +4602,6 @@
       "date": "24 Apr 2025"
     },
     {
-      "id": "144905",
-      "category": "Home Furnishing",
-      "name": "Dining Set",
-      "description": "Client from rental flat hopes to have a dining set for 4 pax. (table with chairs). Keen donors, pls contact. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
-        "name": "Teo Chin Wee",
-        "email": "teo_chin_wee@msf.gov.sg",
-        "phone": [
-          "63549057",
-          "64244017"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Apr 2025"
-    },
-    {
       "id": "144904",
       "category": "Home Furnishing",
       "name": "Dining Set",
@@ -5282,6 +5264,24 @@
       "date": "26 Mar 2025"
     },
     {
+      "id": "144967",
+      "category": "Mobility Aids",
+      "name": "WHEELCHAIR (SMALL)",
+      "description": "Senior (small-sized) lives in 1-room rental flat with his son and daughter-in-law. However, son could not finance sufficiently for client and have multifaceted issues at home. Client's wheelchair wheels are worn out and needs a replacement to mobilise herself around the community with help.",
+      "specifications": "SMALL WHEELCHAIR SIZE:  36 inches tall, 25 inches wide and 32 inches long.",
+      "contact": {
+        "org": "Presbyterian Community Services",
+        "name": "Alvin Eu",
+        "email": "alvineu@pcs.org.sg",
+        "phone": [
+          "62712125",
+          "63344445"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Apr 2025"
+    },
+    {
       "id": "144948",
       "category": "Mobility Aids",
       "name": "Walking Frame (Foldable stainless steel walking frame with seat, 100-150kg)",
@@ -5651,13 +5651,13 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "144850",
-      "name": "Queen size wooden bed frame",
-      "description": "Wooden queen size bed witbout mattress. The bed is dismantled for easy transportation.",
-      "location": "Changi, Flora, Loyang",
-      "validTill": "22 May 2025",
+      "id": "144965",
+      "name": "2-seater IKEA sofa bed (queen size bed)",
+      "description": "A 2-seater sofa bed from IKEA, can be turned into a queen size bed.  Cover comes with it, not shown in the attached photos.",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "25 May 2025",
       "ageInYears": 4,
-      "dimensions": null,
+      "dimensions": "Please refer to attached picture",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -6144,6 +6144,28 @@
       "dimensions": "27cmLx18cmW",
       "deliveryCostsCoveredByDonor": true,
       "category": "Learning Aids"
+    },
+    {
+      "id": "144966",
+      "name": "Maltofer Drops (Iron supplement)",
+      "description": "Ferrum Hausmann Maltofer Drop 30ml Uron (Elemental Fe 50mg/mL)",
+      "location": "Braddell , Macpherson, Potong Pasir",
+      "validTill": "25 May 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
+    },
+    {
+      "id": "144964",
+      "name": "Urinary Alkaliniser - Ural",
+      "description": "Ural Effervescence Powder, Urinary Alkaliniser for frequent Urinary Tract Infection.",
+      "location": "Braddell , Macpherson, Potong Pasir",
+      "validTill": "25 May 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
     },
     {
       "id": "144864",
