@@ -37,24 +37,6 @@
       "date": "28 Apr 2025"
     },
     {
-      "id": "145023",
-      "category": "Infant and Children Items",
-      "name": "Baby cot",
-      "description": "A young single mother residing in a rental flat is in need of a baby cot. She is not working and does not have the financial means to buy baby items in preparation for her delivery.",
-      "specifications": null,
-      "contact": {
-        "org": "Kampong Kapor Community Services",
-        "name": "Ko Wei Lin",
-        "email": "koweilin@kkcs.org.sg",
-        "phone": [
-          "62942116ext202",
-          "62997662"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Apr 2025"
-    },
-    {
       "id": "145001",
       "category": "Infant and Children Items",
       "name": "Milke powder Abbott Grow Stage 3 Toddler & Huggies Diapers XL",
@@ -4577,6 +4559,24 @@
       "date": "01 Apr 2025"
     },
     {
+      "id": "145026",
+      "category": "Home Furnishing",
+      "name": "Small Table",
+      "description": "Elderly widowed lady with mild cognitive impairment needed a small table in her rental unit. Her current wooden table top has crack and the legs are no longer stable. She is not working hence unable to buy a new  table by herself.\nest 75cm (L) x 45cm (W) x70cm (H)",
+      "specifications": "est 75cm (L) x 45cm (W) x70cm (H)",
+      "contact": {
+        "org": "Filos Community Services Ltd",
+        "name": "Bobo Lee",
+        "email": "bobo@filos.sg",
+        "phone": [
+          "62411503",
+          "62425978"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Apr 2025"
+    },
+    {
       "id": "145016",
       "category": "Home Furnishing",
       "name": "Kitchen Cabinet",
@@ -5512,6 +5512,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "145027",
+      "name": "Brown Leather Sofa",
+      "description": "leather top\nfabric bottom is coming off not affecting usage\nsome wear and tear",
+      "location": "Balestier, Toa Payoh",
+      "validTill": "03 May 2025",
+      "ageInYears": 4,
+      "dimensions": "190x90x55",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "145000",
