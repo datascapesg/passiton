@@ -687,24 +687,6 @@
       "date": "25 Apr 2025"
     },
     {
-      "id": "144956",
-      "category": "Infant and Children Items",
-      "name": "Baby Cot",
-      "description": "Ct is a single mother to 2 children. She is currently unable to work due to physical and mental health issues. She requires some baby essentials, like baby cot, bath tub and playmat.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bukit Panjang",
-        "name": "Muhammad Idris Bin Mohd Margono",
-        "email": "idris.margono@thkmc.org.sg",
-        "phone": [
-          "87145182",
-          "67671740"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Apr 2025"
-    },
-    {
       "id": "144953",
       "category": "Infant and Children Items",
       "name": "Dutch Lady UHT Chocolate Milk",
@@ -2652,23 +2634,6 @@
       "date": "07 Apr 2025"
     },
     {
-      "id": "145217",
-      "category": "Medical Aids",
-      "name": "Hospital bed",
-      "description": "A 94-year-old elderly man, who lives independently is in need of a hospital bed to ensure his safety and comfort during rest. His current bed is no longer suitable, and he is not financially able to afford a replacement. We are seeking a donated or secondhand hospital bed in good condition to support his continued independence and well-being.",
-      "specifications": null,
-      "contact": {
-        "org": "SACS Anglican Cluster Operator - Peace Connect",
-        "name": "Gennifer Lee",
-        "email": "aco_pecco@sacs.org.sg",
-        "phone": [
-          "62912473"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 May 2025"
-    },
-    {
       "id": "145188",
       "category": "Medical Aids",
       "name": "Tena Value Adult Diapers [Size: L, 4 packs]",
@@ -2860,6 +2825,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "07 Apr 2025"
+    },
+    {
+      "id": "145268",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave Oven",
+      "description": "Microwave Oven for use in a charity centre.",
+      "specifications": "35 x 55 x 50 cm",
+      "contact": {
+        "org": "Mother of Hope",
+        "name": "Tony Tan",
+        "email": "tan_tony@gebirah.org",
+        "phone": [
+          "92347889"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 May 2025"
     },
     {
       "id": "145267",
@@ -5005,6 +4987,24 @@
       "date": "08 Apr 2025"
     },
     {
+      "id": "145269",
+      "category": "Mobility Aids",
+      "name": "Wheelchair (Leg-elevated)",
+      "description": "Client's husband, the sole breadwinner of the family of 8, got into a motorbike accident in late April and is on a 24 day MC. Husband is currently relying on crutches and requires a wheelchair (with leg elevated). Family faces financial difficulties in this period and cannot afford a wheelchair. They are hoping to receive some second-hand practical support in this period.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Shena Tan",
+        "email": "shenatan@fycs.org",
+        "phone": [
+          "69782982",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 May 2025"
+    },
+    {
       "id": "145262",
       "category": "Mobility Aids",
       "name": "Wheel chair",
@@ -5687,17 +5687,6 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "145251",
-      "name": "Washing Machine",
-      "description": "This is simple washing machine that is about 4 years but it has been used for light clothes washing. Still in good condition.",
-      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-      "validTill": "06 Jun 2025",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "145175",
       "name": "Philips Airfyer",
       "description": "Working Airfryer. Digital timer is a little wonky at point of adjustment but you can still use it to set it to the desired time and it works.",
@@ -6028,17 +6017,6 @@
       "category": "Kitchen Utility Items"
     },
     {
-      "id": "144732",
-      "name": "Chair Back Support",
-      "description": "Item still in good condition.",
-      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-      "validTill": "17 May 2025",
-      "ageInYears": 2,
-      "dimensions": "Standard dimensions",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Leisure and Healthy Lifestyle"
-    },
-    {
       "id": "144731",
       "name": "Exercise machine",
       "description": "Exercise machine that is hardly used (Less than 5 times) despite item age.",
@@ -6122,28 +6100,6 @@
       "location": "Cairnhill, Killiney, Orchard, River Valley",
       "validTill": "15 May 2025",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
-      "id": "144966",
-      "name": "Maltofer Drops (Iron supplement)",
-      "description": "Ferrum Hausmann Maltofer Drop 30ml Uron (Elemental Fe 50mg/mL)",
-      "location": "Braddell , Macpherson, Potong Pasir",
-      "validTill": "25 May 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
-      "id": "144964",
-      "name": "Urinary Alkaliniser - Ural",
-      "description": "Ural Effervescence Powder, Urinary Alkaliniser for frequent Urinary Tract Infection.",
-      "location": "Braddell , Macpherson, Potong Pasir",
-      "validTill": "25 May 2025",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
