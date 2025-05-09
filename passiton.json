@@ -1,6 +1,41 @@
 {
   "requests": [
     {
+      "id": "145351",
+      "category": "Infant and Children Items",
+      "name": "Milk powder and diaper",
+      "description": "Client is earning low wages due to caregiving for her two children. The family is staying at rental flat and required some assistance for her two children milk powders and diapers.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Rachel Fu",
+        "email": "rachel.fu@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 May 2025"
+    },
+    {
+      "id": "145349",
+      "category": "Infant and Children Items",
+      "name": "Trampoline",
+      "description": "Lower income family of 3, with a 5 year old child with autism. Child is active, thus requesting for a trampoline to help exhaust child's energy and meet her need for stimulation. This also helps in child's sleep.",
+      "specifications": null,
+      "contact": {
+        "org": "Rainbow Centre - Magaret Drive School",
+        "name": "Lee Mei Yi",
+        "email": "meiyilee@rainbowcentre.org.sg",
+        "phone": [
+          "68179466",
+          "64752072"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 May 2025"
+    },
+    {
       "id": "145343",
       "category": "Infant and Children Items",
       "name": "Bath Tub",
@@ -1832,6 +1867,23 @@
       "date": "08 Apr 2025"
     },
     {
+      "id": "145350",
+      "category": "Home Furnishing",
+      "name": "Queen-sized mattress",
+      "description": "Single mother with a toddler needs a new mattress after a house fire, as her mattress was damaged in the fire and poses a health hazard. Mother is working but faces financial challenges affording a new mattress at short notice.",
+      "specifications": null,
+      "contact": {
+        "org": "Whampoa Family Service Centre",
+        "name": "Rachel Low",
+        "email": "rachellow@kkcs.org.sg",
+        "phone": [
+          "63260300"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 May 2025"
+    },
+    {
       "id": "145339",
       "category": "Home Furnishing",
       "name": "Sofa bed",
@@ -3055,6 +3107,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "09 Apr 2025"
+    },
+    {
+      "id": "145348",
+      "category": "Electrical Home Appliances",
+      "name": "Television",
+      "description": "Needy senior is living alone in a HDB rental flat requires a television as she could not afford to purchase it. May we request for free delivery. Thank you for your kind donation.",
+      "specifications": null,
+      "contact": {
+        "org": "SAMH Mobile Support Team (West)",
+        "name": "Valerie Low",
+        "email": "valerie_low@samhealth.org.sg",
+        "phone": [
+          "85112678"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 May 2025"
+    },
+    {
+      "id": "145347",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client, (M/ 74), divorcee, stays alone in a 1 room rental flat, and in need of a washing machine to wash his laundry. His old machine broke down and he is trying to repair it on his own but to no avail. May we request for donor to deliver and waive off the fee as client is needy. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "SAMH Mobile Support Team (West)",
+        "name": "Valerie Low",
+        "email": "valerie_low@samhealth.org.sg",
+        "phone": [
+          "85112678"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 May 2025"
     },
     {
       "id": "145342",
@@ -6013,6 +6099,28 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "145346",
+      "name": "Bluetooth speaker",
+      "description": "Delivery on weekday evening and weekend.",
+      "location": null,
+      "validTill": "08 Jun 2025",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "145345",
+      "name": "Automatic night light",
+      "description": "Delivery on weekday evening and weekend.",
+      "location": null,
+      "validTill": "08 Jun 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "145331",
       "name": "Tower fan",
       "description": "Hi, I have a Europeace standing fan in good condition. I only use occasionally. It may not be as strong as a normal standing blade fan, but it can provide some comfort in a small room for 1 - 2 pax.",
@@ -6097,17 +6205,6 @@
       "validTill": "05 Jun 2025",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "145162",
-      "name": "Quit Queen Size",
-      "description": "https://findinghooga.com.sg/product/poffy-souffle-microfibre-quilt/\n\nDonating as I bought the wrong size. Can also include a white quilt cover.",
-      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-      "validTill": "31 May 2025",
-      "ageInYears": 1,
-      "dimensions": "210cmx210cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -6228,17 +6325,6 @@
       "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
       "validTill": "03 Jun 2025",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "145118",
-      "name": "Baby Cot",
-      "description": "Wooden baby cot c/wo mattress.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "01 Jun 2025",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
