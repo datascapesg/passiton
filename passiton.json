@@ -1568,24 +1568,6 @@
       "date": "11 Apr 2025"
     },
     {
-      "id": "145367",
-      "category": "Home Furnishing",
-      "name": "sofa bed",
-      "description": "Family has 3 young children who does not have a proper bed to sleep on. There is no income earner at home.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Liew Huan Yi",
-        "email": "liewhuanyi@fycs.org",
-        "phone": [
-          "63519508",
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 May 2025"
-    },
-    {
       "id": "145350",
       "category": "Home Furnishing",
       "name": "Queen-sized mattress",
@@ -1775,23 +1757,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "07 May 2025"
-    },
-    {
-      "id": "145257",
-      "category": "Home Furnishing",
-      "name": "Daybed (2 in 1)",
-      "description": "Client is a single mother with young children. There's limited space in her rental flat and would benefit from this item. Client is still schooling with no income and is depending on social assistance.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Family Service Centre - Tampines",
-        "name": "Muhammad Suffian Bin Bahrin",
-        "email": "muhammadsuffian@mws.sg",
-        "phone": [
-          "67872001"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "07 May 2025"
     },
     {
@@ -4976,6 +4941,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
+    },
+    {
+      "id": "145384",
+      "name": "Samsung Smart TV 43 inches",
+      "description": "Digital tv with youtube and viu app installed",
+      "location": "Cairnhill, Killiney, Orchard, River Valley",
+      "validTill": "11 Jun 2025",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
     },
     {
       "id": "145370",
