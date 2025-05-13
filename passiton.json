@@ -90,23 +90,6 @@
       "date": "13 May 2025"
     },
     {
-      "id": "145403",
-      "category": "Infant and Children Items",
-      "name": "Stage 1 Grow Milk",
-      "description": "Seeking for milk support for a low-income family with 4 young children. Milk support helps to cover expenses for 1 month old infant while family attempts to meet expenses for basic needs.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-        "name": "Muhammad Danial Bin Mazlan",
-        "email": "danialmazlan@allkin.org.sg",
-        "phone": [
-          "60384100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "13 May 2025"
-    },
-    {
       "id": "145358",
       "category": "Infant and Children Items",
       "name": "Huggies NatureMade Diapers - Tape NB - 60 or Mamypoko Airfit Organic Cotton for newborn (NB) and Dumex Mamil Gold Infant Formula - Stage 1",
@@ -1475,6 +1458,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "15 Apr 2025"
+    },
+    {
+      "id": "145422",
+      "category": "Home Furnishing",
+      "name": "waterproof bedsheet",
+      "description": "Client (M/51) is in need of waterproof bedsheet. Client has mobility limitations and incontinence due to a medical condition that had rendered his previous bed unusable.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Syamirul Azim",
+        "email": "syamirulazim@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "13 May 2025"
+    },
+    {
+      "id": "145421",
+      "category": "Home Furnishing",
+      "name": "super single mattress",
+      "description": "Client (M/51) is in need of a super single mattress and waterproof bedsheet. Client has mobility limitations and incontinence due to a medical condition that had rendered his previous bed unusable.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Syamirul Azim",
+        "email": "syamirulazim@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "13 May 2025"
     },
     {
       "id": "145409",
@@ -3202,6 +3219,24 @@
       "date": "15 Apr 2025"
     },
     {
+      "id": "145423",
+      "category": "Others",
+      "name": "Adult Diaper Pants",
+      "description": "71 years old grandma takes care of 21 year old special needs grandson, who is not able to care for himself. Grandma living on little savings.",
+      "specifications": "Size L",
+      "contact": {
+        "org": "Fei Yue Community Services - Community Befriending",
+        "name": "Darryl Koh",
+        "email": "darrylkoh@fycs.org",
+        "phone": [
+          "65380234",
+          "64712022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 May 2025"
+    },
+    {
       "id": "145415",
       "category": "Others",
       "name": "Working Laptop",
@@ -4895,6 +4930,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
+    },
+    {
+      "id": "145420",
+      "name": "Refrigerator",
+      "description": "2 doors refrigerator, Samsung brand, bought $2000 plus, still in good working condition. Only used 2 - 3 years",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "12 Jun 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
     },
     {
       "id": "145370",
