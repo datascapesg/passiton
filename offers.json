@@ -484,6 +484,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "145429",
+    "name": "Oxygen Generator",
+    "description": "Oxygen generator",
+    "location": null,
+    "validTill": "12 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "145408",
     "name": "Hospital Bed",
     "description": "Hospital bed complete with motor and safety rails. Able to sit up/ raise legs and move up and down.",
@@ -504,6 +515,28 @@
     "dimensions": "42 x 33 x 67 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "145426",
+    "name": "Medical Toilet Chair",
+    "description": "2 pieces of medical toilet chairs for donations",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "12 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": "56 x 53 x 50",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "145427",
+    "name": "Medical Toilet Chair",
+    "description": "2 pieces of medical toilet chairs for donations",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "12 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": "56 x 53 x 50",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "145383",
@@ -581,6 +614,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "145425",
+    "name": "TiMotion Medical Bed",
+    "description": "Used only for 1 month. Almost mint condition.",
+    "location": "Braddell , Macpherson, Potong Pasir",
+    "validTill": "12 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": "200 x 90 x (50.8-76cm)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "145412",
