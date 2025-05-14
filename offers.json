@@ -55,17 +55,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "145435",
-    "name": "Washing machine",
-    "description": "My neighbour has this washing machine to give away but only available on 21 May.",
-    "location": "Seletar, Yio Chu Kang",
-    "validTill": "18 May 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "145370",
     "name": "Rice cooker Tiger",
     "description": "Functioning rice cooker (no instruction manual), that is able to cook different kinds of rice, porridge and keep warm.",
@@ -119,6 +108,17 @@
     "dimensions": "200x100x50",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "145440",
+    "name": "Beige Wood TV Console with Sliding Glass Door",
+    "description": "Details:\nBeige wood finish\nSmooth sliding glass door\nSolid and sturdy\nSpacious storage for media, books, or decor",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "25 May 2025",
+    "ageInYears": 3,
+    "dimensions": "1.52m x 0.52 m x 0.53m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "145432",
