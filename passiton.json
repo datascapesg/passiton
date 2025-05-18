@@ -2885,41 +2885,6 @@
       "date": "21 Apr 2025"
     },
     {
-      "id": "144745",
-      "category": "Home Furnishing",
-      "name": "2 Door Wardrobe",
-      "description": "A family of 5, consisting of an elderly person, a mother and 2 children, lives in a public rental flat and requires a wardrobe to store their clothes. Their current cupboard is broken, and they cannot afford to purchase a replacement due to financial constraints.",
-      "specifications": "2ft",
-      "contact": {
-        "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
-        "name": "Steven Lio",
-        "email": "steven_lio@msf.gov.sg",
-        "phone": [
-          "63548174",
-          "18002220000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Apr 2025"
-    },
-    {
-      "id": "144735",
-      "category": "Home Furnishing",
-      "name": "Chest of Drawers or Wardrobe",
-      "description": "a low-income single parent with 4 young children is looking for a drawers/wardrobe to store clothing as the previous one had broken. any kind donation is greatly appreciated!",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Jasmin Ong",
-        "email": "jasmin.ong@montfortcare.org.sg",
-        "phone": [
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Apr 2025"
-    },
-    {
       "id": "145582",
       "category": "Electrical Home Appliances",
       "name": "Washing machine",
@@ -5883,6 +5848,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "145601",
+      "name": "Panasonic 2-Door Refrigerator",
+      "description": "Panasonic 2-Door Refrigerator, Working condition",
+      "location": "Balestier, Toa Payoh",
+      "validTill": "17 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": "Width = 68cm Depth = 63 cm Height = 178 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "145585",
       "name": "Refrigerator",
       "description": "A two doors fridge. Functioning well.",
@@ -6541,6 +6517,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "145600",
+      "name": "sink and tap",
+      "description": "sink, tap",
+      "location": "Lim Chu Kang, Sungei Gedong, Tengah",
+      "validTill": "31 May 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "145599",
+      "name": "Unused toilet bowl",
+      "description": "Unused toilet bowl",
+      "location": "Lim Chu Kang, Sungei Gedong, Tengah",
+      "validTill": "31 May 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "145592",
