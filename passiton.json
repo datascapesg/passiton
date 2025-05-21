@@ -1912,23 +1912,6 @@
       "date": "21 May 2025"
     },
     {
-      "id": "145717",
-      "category": "Home Furnishing",
-      "name": "Mattress",
-      "description": "Client has suspected mild ID and her mother has mental health symptoms. Family's flat recently burned down and they are in need of new furniture and appliances.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Isabelle Chua",
-        "email": "isabellechua@carecorner.org.sg",
-        "phone": [
-          "64761481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 May 2025"
-    },
-    {
       "id": "145715",
       "category": "Home Furnishing",
       "name": "2-door wardrobe",
@@ -6666,6 +6649,17 @@
       "dimensions": "200x100x50",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "145743",
+      "name": "furniture",
+      "description": "bed and mattress for donation",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "30 May 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "145706",
