@@ -1912,6 +1912,24 @@
       "date": "21 Apr 2025"
     },
     {
+      "id": "145767",
+      "category": "Home Furnishing",
+      "name": "Sofa bed",
+      "description": "Family has 4 school-going children living in a 3rm HDB, one of them is currently sleeping on the floor due to a lack of finances to purchase a proper bed. Both parents are working low-income jobs",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Yishun",
+        "name": "Samuel Chan",
+        "email": "samuel.chan@montfortcare.org.sg",
+        "phone": [
+          "96423819",
+          "64848040"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 May 2025"
+    },
+    {
       "id": "145734",
       "category": "Home Furnishing",
       "name": "Baby Gate",
@@ -6000,6 +6018,24 @@
       "date": "24 Apr 2025"
     },
     {
+      "id": "145768",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Family has 4 school-going children who require a working laptop for their school work. Family currently does not own any. Parents are working in low income jobs and are unable to afford a laptop.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Yishun",
+        "name": "Samuel Chan",
+        "email": "samuel.chan@montfortcare.org.sg",
+        "phone": [
+          "96423819",
+          "64848040"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 May 2025"
+    },
+    {
       "id": "145761",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -6614,6 +6650,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "145764",
+      "name": "Slow juicer",
+      "description": "Brand new slow juicer",
+      "location": null,
+      "validTill": "01 Jun 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "145541",
       "name": "Sharp 32L Oven",
       "description": "Sharp 32L Oven with the rack and rack holder. Used for baking cakes and cookies or heating up bread. Relocating so passing this item along to those who can use it.",
@@ -6838,6 +6885,28 @@
       "name": "Single bed set",
       "description": "Used, clean single bed set.",
       "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "16 Jun 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "145765",
+      "name": "Ikea dining table and two chairs",
+      "description": "Ikea table 75x75cm. Two foldable outdoor chairs",
+      "location": "Cairnhill, Killiney, Orchard, River Valley",
+      "validTill": "16 Jun 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "145766",
+      "name": "Ikea dining table and two chairs",
+      "description": "Ikea table 75x75cm. Two foldable outdoor chairs",
+      "location": "Cairnhill, Killiney, Orchard, River Valley",
       "validTill": "16 Jun 2025",
       "ageInYears": 2,
       "dimensions": null,
@@ -7296,6 +7365,17 @@
       "category": "Medical Aids"
     },
     {
+      "id": "145763",
+      "name": "Crutches",
+      "description": "Used pair of crutches in good condition.\nAdjustable height",
+      "location": "Balestier, Toa Payoh",
+      "validTill": "21 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
       "id": "145751",
       "name": "toilet chair aid",
       "description": "toilet mobility chair for donation",
@@ -7314,17 +7394,6 @@
       "validTill": "12 Jun 2025",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
-      "id": "145558",
-      "name": "Medical Toilet Chair",
-      "description": "2 pieces of medical toilet chairs for donations",
-      "location": "Braddell , Macpherson, Potong Pasir",
-      "validTill": "12 Jun 2025",
-      "ageInYears": 1,
-      "dimensions": "56 x 53 x 50",
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
     },

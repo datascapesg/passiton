@@ -33,6 +33,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "145764",
+    "name": "Slow juicer",
+    "description": "Brand new slow juicer",
+    "location": null,
+    "validTill": "01 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "145541",
     "name": "Sharp 32L Oven",
     "description": "Sharp 32L Oven with the rack and rack holder. Used for baking cakes and cookies or heating up bread. Relocating so passing this item along to those who can use it.",
@@ -257,6 +268,28 @@
     "name": "Single bed set",
     "description": "Used, clean single bed set.",
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "16 Jun 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "145765",
+    "name": "Ikea dining table and two chairs",
+    "description": "Ikea table 75x75cm. Two foldable outdoor chairs",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "16 Jun 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "145766",
+    "name": "Ikea dining table and two chairs",
+    "description": "Ikea table 75x75cm. Two foldable outdoor chairs",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
     "validTill": "16 Jun 2025",
     "ageInYears": 2,
     "dimensions": null,
@@ -715,6 +748,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "145763",
+    "name": "Crutches",
+    "description": "Used pair of crutches in good condition.\nAdjustable height",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "21 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "145751",
     "name": "toilet chair aid",
     "description": "toilet mobility chair for donation",
@@ -733,17 +777,6 @@
     "validTill": "12 Jun 2025",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "145558",
-    "name": "Medical Toilet Chair",
-    "description": "2 pieces of medical toilet chairs for donations",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "12 Jun 2025",
-    "ageInYears": 1,
-    "dimensions": "56 x 53 x 50",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
