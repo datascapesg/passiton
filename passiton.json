@@ -556,24 +556,6 @@
       "date": "15 May 2025"
     },
     {
-      "id": "145519",
-      "category": "Infant and Children Items",
-      "name": "XL diapers (Pants)",
-      "description": "Family of five requires support with children diapers due to financial constraints.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - @27 Family Service Centre",
-        "name": "Camelia Binte Mohamad Aripin",
-        "email": "camelia.aripin@montfortcare.org.sg",
-        "phone": [
-          "85181442",
-          "62708327"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 May 2025"
-    },
-    {
       "id": "145473",
       "category": "Infant and Children Items",
       "name": "Huggies Silver Pants Size XL x 4 pacs",
@@ -6649,6 +6631,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "145778",
+      "name": "Table fan",
+      "description": "Fan 30cm diameter.\n\nDelivery on weekday evening and weekend.",
+      "location": null,
+      "validTill": "21 Jun 2025",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "145764",
       "name": "Slow juicer",
       "description": "Brand new slow juicer",
@@ -6713,6 +6706,28 @@
       "dimensions": "200x100x50",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "145777",
+      "name": "Chair",
+      "description": "2 chairs.\n\nDelivery on weekday evening and weekend.",
+      "location": null,
+      "validTill": "21 Jun 2025",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "145776",
+      "name": "Chair and table",
+      "description": "Delivery on weekday evening and weekend.",
+      "location": null,
+      "validTill": "21 Jun 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "145750",
@@ -7142,6 +7157,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
+    },
+    {
+      "id": "145779",
+      "name": "Mug holder",
+      "description": "Delivery on weekday evening and weekend.",
+      "location": null,
+      "validTill": "21 Jun 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Kitchen Utility Items"
     },
     {
       "id": "145775",
