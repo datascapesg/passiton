@@ -1718,6 +1718,23 @@
       "date": "22 Apr 2025"
     },
     {
+      "id": "145804",
+      "category": "Home Furnishing",
+      "name": "Wooden bench",
+      "description": "",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Norlizawati Binte Hamid",
+        "email": "norlizawati@thkmc.org.sg",
+        "phone": [
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 May 2025"
+    },
+    {
       "id": "145802",
       "category": "Home Furnishing",
       "name": "2 door wardrobe",
@@ -2879,6 +2896,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "22 Apr 2025"
+    },
+    {
+      "id": "145811",
+      "category": "Others",
+      "name": "New or Working Mobile Phone",
+      "description": "Nursing home patient requires a new or working mobile phone to keep in contact with his family",
+      "specifications": null,
+      "contact": {
+        "org": "Ren Ci Hospital",
+        "name": "Aisya Binte Syed Mohammed Bahrin",
+        "email": "aisya@renci.org.sg",
+        "phone": [
+          "63556234",
+          "63850288"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 May 2025"
     },
     {
       "id": "145801",
@@ -6089,23 +6124,6 @@
       "date": "06 May 2025"
     },
     {
-      "id": "145140",
-      "category": "Learning Aids",
-      "name": "Laptop",
-      "description": "Client is currently searching for employment but experiences difficulties due to her caregiving duties for her 3 children (5,4,2 years old). Her ex-husband is not providing any maintenance.  The family is currently reliant on financial assistance to meet their basic needs and to pay the minimal for their family’s debt. Client mentioned that the motor in her fridge is spoiled and is unable to keep her food cold. She mentioned that the laptop used to support her child’s learning has been spoiled as well.",
-      "specifications": null,
-      "contact": {
-        "org": "Sembawang Family Service Centre",
-        "name": "Po Woei Yee",
-        "email": "powoeiyee@sfsc.org.sg",
-        "phone": [
-          "67547050"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 May 2025"
-    },
-    {
       "id": "145060",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -6491,6 +6509,61 @@
       "dimensions": "200x100x50",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "145809",
+      "name": "Chairs",
+      "description": "Office leather chair in a good condition. 8 chairs in total available",
+      "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+      "validTill": "22 Jun 2025",
+      "ageInYears": 2,
+      "dimensions": "60 x 60 x 115 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "145808",
+      "name": "Chairs",
+      "description": "Office leather chair in good condition",
+      "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+      "validTill": "22 Jun 2025",
+      "ageInYears": 2,
+      "dimensions": "60 x 60 x 115 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "145807",
+      "name": "Ikea Small Wardobe",
+      "description": "Small ikea wardobe in good condition.",
+      "location": "Balestier, Toa Payoh",
+      "validTill": "16 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": "80x51x180cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "145806",
+      "name": "Billy Book Case",
+      "description": "Ikea bookcase in good condition. Bookcase only. Books/display in picture not included.",
+      "location": "Balestier, Toa Payoh",
+      "validTill": "16 Jun 2025",
+      "ageInYears": 3,
+      "dimensions": "Width: 80 cm Depth: 30 cm Height: 202 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "145805",
+      "name": "Ikea 3 Seater Sofa with extra covers",
+      "description": "Ikea 3 seater fabric sofa with extra cover. Sofa in good condition.",
+      "location": "Balestier, Toa Payoh",
+      "validTill": "16 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": "Length 210cm x Width 88cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "145799",
@@ -7151,6 +7224,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Learning Aids"
+    },
+    {
+      "id": "145810",
+      "name": "Wedge pillow for leg elevation",
+      "description": "Used but in very good condition.\nMade from urethane foam and comes with removable washable cover",
+      "location": "Balestier, Toa Payoh",
+      "validTill": "22 Jun 2025",
+      "ageInYears": 2,
+      "dimensions": "67x61x17cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
     },
     {
       "id": "145756",
