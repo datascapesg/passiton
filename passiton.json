@@ -1578,24 +1578,6 @@
       "date": "25 Apr 2025"
     },
     {
-      "id": "145822",
-      "category": "Home Furnishing",
-      "name": "Sofa",
-      "description": "This is a household of four, consisting of two parents and their two young children, both under the age of four. The parents have only recently begun full-time employment in April 2025, following a period of financial hardship. As a result, they are currently focused on repaying outstanding debts and arrears accumulated during that time. Due to their limited disposable income and ongoing financial obligations, the family is unable to afford non-essential household items at this stage. Their current sofa was previously obtained through a donation, and they are not in a financial position to replace or purchase a new one at this time.",
-      "specifications": "(L : 3.19m . W:1.24m)",
-      "contact": {
-        "org": "THK Family Service Centre @ Bukit Panjang",
-        "name": "Muhammad Idris Bin Mohd Margono",
-        "email": "idris.margono@thkmc.org.sg",
-        "phone": [
-          "87145182",
-          "67671740"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 May 2025"
-    },
-    {
       "id": "145817",
       "category": "Home Furnishing",
       "name": "Dining Chair",
@@ -1784,24 +1766,6 @@
         "phone": [
           "62319407",
           "67660097"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 May 2025"
-    },
-    {
-      "id": "145643",
-      "category": "Home Furnishing",
-      "name": "Dining chairs (4-5)",
-      "description": "Family is dependent on financial assistance, with wife deemed medically unfit for work and husband serving his sentence at home. They would like dining chairs to complement a donor sourced table.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Amanda Soo",
-        "email": "amandasoo@carecorner.org.sg",
-        "phone": [
-          "69784084",
-          "64761481"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2387,23 +2351,6 @@
         "email": "fsceast@ppis.sg",
         "phone": [
           "60156970"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 May 2025"
-    },
-    {
-      "id": "145263",
-      "category": "Home Furnishing",
-      "name": "2 or 3 seater PVC leather sofa",
-      "description": "Elderly uncle 72 yrs old living in 1-room HDB rental flat needs a 2 or 3 seater PVC sofa for sleeping. He prefers this instead of a bed. Many Thanks.",
-      "specifications": null,
-      "contact": {
-        "org": "Moral Active Ageing Centre @ Kaki Bukit",
-        "name": "Gary Tan",
-        "email": "garytan@chkmps.org.sg",
-        "phone": [
-          "64486247"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -5817,6 +5764,17 @@
       "dimensions": "200x100x50",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "145866",
+      "name": "Grey leather sofa",
+      "description": "A synthetic leather sofa with some discoloration but no crack or broken leater.",
+      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+      "validTill": "20 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": "200cm x 90cm x 80cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "145861",
