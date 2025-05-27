@@ -18,23 +18,6 @@
       "date": "27 May 2025"
     },
     {
-      "id": "144882",
-      "category": "Infant and Children Items",
-      "name": "Similac Stage 4 Milk",
-      "description": "Client's husband was imprisoned and she is presently raising her 5 children on her own. The milk is for her two youngest children. One of the children is suspected to have developmental delays and is currently undergoing further assessments. If you have a suitable item, please reach out to me at 9828 7307 thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Family Service Centre - Tampines",
-        "name": "Han Wen Ting",
-        "email": "hanwenting@mws.sg",
-        "phone": [
-          "67872001"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "27 May 2025"
-    },
-    {
       "id": "145908",
       "category": "Infant and Children Items",
       "name": "Child's Mattress",
@@ -2633,6 +2616,23 @@
       "date": "28 Apr 2025"
     },
     {
+      "id": "145923",
+      "category": "Others",
+      "name": "Phone",
+      "description": "Client (F/47) requires a phone to communicate with social worker and children as her phone is closely monitored by her husband. Thus, it is not safe for her to use her current phone to communicate with SW.",
+      "specifications": "Phone",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 206B",
+        "name": "Nurhanisah Binte Abdul Rahman",
+        "email": "nurhanisah@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 May 2025"
+    },
+    {
       "id": "145906",
       "category": "Others",
       "name": "Female Toiletries",
@@ -2682,24 +2682,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "26 May 2025"
-    },
-    {
-      "id": "145811",
-      "category": "Others",
-      "name": "Mobile Phone",
-      "description": "Nursing home patient requires a preferable new or working mobile phone to keep in contact with his family",
-      "specifications": null,
-      "contact": {
-        "org": "Ren Ci Hospital",
-        "name": "Aisya Binte Syed Mohammed Bahrin",
-        "email": "aisya@renci.org.sg",
-        "phone": [
-          "63556234",
-          "63850288"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 May 2025"
     },
     {
       "id": "145801",
@@ -5955,17 +5937,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "145847",
-      "name": "Four door fridge",
-      "description": "4 door fridge fr sharp. Abt 5 yrs old",
-      "location": null,
-      "validTill": "31 May 2025",
-      "ageInYears": 4,
-      "dimensions": "892 x 768 x 1830",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "145778",
       "name": "Table fan",
       "description": "Fan 30cm diameter.\n\nDelivery on weekday evening and weekend.",
@@ -5997,6 +5968,17 @@
       "dimensions": "200x100x50",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "145924",
+      "name": "Standing Partition",
+      "description": "Standing Room Partition",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "26 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": "180cmH x 40cmW",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "145898",
@@ -6415,39 +6397,6 @@
       "dimensions": "154 cm *74 and 214 cm * 74 cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
-    },
-    {
-      "id": "145922",
-      "name": "Baby Hing Chair",
-      "description": "Good Condition Baby High Chair",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "05 Jun 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "145921",
-      "name": "Baby boy clothes, walker, bath holder, nursing cushion",
-      "description": "A baby mattress, new bath holder for babies, hardly used walker for toddlers",
-      "location": "Seletar, Yio Chu Kang",
-      "validTill": "10 Jun 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "145916",
-      "name": "Sterilizer, Food Processor and Bottle Warmer",
-      "description": "Brand New",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "05 Jun 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
     },
     {
       "id": "145897",
