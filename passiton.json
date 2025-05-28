@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "145998",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Father and child living in a 2 room rental flat is faced with financial difficulties as child's mother is incarcerated and father is struggling with household expenses holding a Part-Time job while being a full time caregiver. His refrigerator is malfunctioned and his food has turned bad, leading to a further strain in his expenses. He is unable to afford a new set and finds it a challenge as he often cooks simple meals at home to save costs from eating out. A new/pre-used set of refrigerator would greatly benefit this family.\n\nFor further clarifications please contact Juline at 8878 6411 or juline@newlifestories.org.sg. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "New Life Stories Limited",
+        "name": "Radiant Chua",
+        "email": "radiant@newlifestories.org.sg",
+        "phone": [
+          "88761852",
+          "63867688"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 May 2025"
+    },
+    {
       "id": "145992",
       "category": "Electrical Home Appliances",
       "name": "Freezer",
@@ -2003,23 +2021,6 @@
         "phone": [
           "669010005",
           "66901000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 May 2025"
-    },
-    {
-      "id": "145879",
-      "category": "Infant and Children Items",
-      "name": "Clothing (4 y/o Girl)",
-      "description": "Family of 4 is staying in a rental flat, including 17 y/o niece and 3 y/o granddaughter. Grandmother is unable to work due to caring for granddaughter full-time and her husband is attempting to find work after release from prison. Family are under Comcare assistance and need to get new clothing for the growing 3 y/o, given that they have no other family or financial support. She wears 4 y/o size clothing (Size 100/110); like new or new clothing appreciated. Please email emily@trans.org.sg to arrange drop-off to FSC if you wish to donate; thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "TRANS Family Service Centre (Bedok Reservoir)",
-        "name": "Emily Chan",
-        "email": "emily@trans.org.sg",
-        "phone": [
-          "67473202"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -6552,6 +6553,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "145997",
+      "name": "Super-single bed wth single pullout bed",
+      "description": "King koil super-single with bedframe and comes with single pullout bed. In good condition. Dimensions include bedframe.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "27 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": "L210cm x W103cm x H100cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "145982",
       "name": "Dining table set and bench",
       "description": "Dining table, bench and 2 chairs. Still im very good condition",
@@ -7133,6 +7145,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Leisure and Healthy Lifestyle"
+    },
+    {
+      "id": "145999",
+      "name": "Toddler Books",
+      "description": "Set of Toddler Books (soft cover).",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "27 Jun 2025",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Learning Aids"
     },
     {
       "id": "145783",
