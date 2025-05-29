@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "146020",
+      "category": "Electrical Home Appliances",
+      "name": "Shower set with heater",
+      "description": "Client is a 20-year-old single mother, recently moved into her new HDB rental unit with her 4-year-old son. Her house is barely furnished but sufficient. However, she does not have a shower head or water heater. Currently, she and her son shower using the bidet.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Kreta Ayer",
+        "name": "Khairunnisa Nasir",
+        "email": "khairunnisa.nasir@montfortcare.org.sg",
+        "phone": [
+          "63254753",
+          "1800-222-0000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 May 2025"
+    },
+    {
       "id": "146015",
       "category": "Electrical Home Appliances",
       "name": "Refridgerator",
@@ -35,24 +53,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "29 May 2025"
-    },
-    {
-      "id": "145998",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Father and child living in a 2 room rental flat is faced with financial difficulties as child's mother is incarcerated and father is struggling with household expenses holding a Part-Time job while being a full time caregiver. His refrigerator is malfunctioned and his food has turned bad, leading to a further strain in his expenses. He is unable to afford a new set and finds it a challenge as he often cooks simple meals at home to save costs from eating out. A new/pre-used set of refrigerator would greatly benefit this family.\n\nFor further clarifications please contact Juline at 8878 6411 or juline@newlifestories.org.sg. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "New Life Stories Limited",
-        "name": "Radiant Chua",
-        "email": "radiant@newlifestories.org.sg",
-        "phone": [
-          "88761852",
-          "63867688"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 May 2025"
     },
     {
       "id": "145992",
@@ -5395,24 +5395,6 @@
       "date": "08 May 2025"
     },
     {
-      "id": "145273",
-      "category": "Others",
-      "name": "Smartphone 4G Phone",
-      "description": "Elderly client, low vision, unemployed, under SSO comcare and Silver Support Scheme. Client is a Samsung smartphone user, and the reason he only use Samsung is because of his vision and the familiarization with Samsung smartphone, now his phone is spoilt and he cannot afford to buy a new one, he is seeking help from Pass It On for a new Samsung smartphone, or any other used Samsung series smartphone.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Association of the Visually Handicapped",
-        "name": "Steven Yew Kwok Wai",
-        "email": "steven@savh.org.sg",
-        "phone": [
-          "62514331ext507",
-          "62514331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 May 2025"
-    },
-    {
       "id": "145270",
       "category": "Others",
       "name": "Handphone",
@@ -6434,6 +6416,24 @@
       "date": "28 Apr 2025"
     },
     {
+      "id": "146019",
+      "category": "Leisure and Healthy Lifestyle",
+      "name": "Bicycle for Doing Delivery",
+      "description": "Family of 4. Single father. Working in hotel industry but doing delivery as a side income. Has 3 school going daughters living with him. His bicycle is no longer in working condition and is looking for a new bicycle so that he can continue doing delivery.",
+      "specifications": "Adult bicycle",
+      "contact": {
+        "org": "MSF Social Service Office @ Kreta Ayer",
+        "name": "Terence Chiuh",
+        "email": "terence_chiuh@msf.gov.sg",
+        "phone": [
+          "62319389",
+          "1800-222-0000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "29 May 2025"
+    },
+    {
       "id": "145986",
       "category": "Leisure and Healthy Lifestyle",
       "name": "Donation for basic household item (URGENT!)",
@@ -6741,6 +6741,17 @@
       "dimensions": "200x100x50",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "146018",
+      "name": "Sofa",
+      "description": "Modern comfortable L shape sofa",
+      "location": null,
+      "validTill": "07 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": "2.4cm x 95cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "145997",
