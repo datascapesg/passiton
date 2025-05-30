@@ -267,23 +267,6 @@
       "date": "30 Apr 2025"
     },
     {
-      "id": "146055",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator",
-      "description": "Family's fridge broke down recently after 11 years of use. Parents are managing the caregiving of a child with special needs, and are reliant on a single income. They have limited finances and require assistance obtaining a new fridge.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - @27 Family Service Centre",
-        "name": "Nikole Ye",
-        "email": "nikole.ye@montfortcare.org.sg",
-        "phone": [
-          "62708327"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 May 2025"
-    },
-    {
       "id": "146048",
       "category": "Electrical Home Appliances",
       "name": "Air Fryer",
@@ -3779,6 +3762,24 @@
       "date": "29 Apr 2025"
     },
     {
+      "id": "146058",
+      "category": "Home Furnishing",
+      "name": "Chest of drawere for clothes",
+      "description": "A family of 4 from low income family with a new born baby in a rental flat",
+      "specifications": "80x 123cm",
+      "contact": {
+        "org": "Lakeside Family Services - Safe Place",
+        "name": "Linda Lee",
+        "email": "linda-lee@lakeside.org.sg",
+        "phone": [
+          "68174202",
+          "88914214"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 May 2025"
+    },
+    {
       "id": "146056",
       "category": "Home Furnishing",
       "name": "Cupboard/shelf",
@@ -6583,6 +6584,28 @@
       "location": null,
       "validTill": "08 Jun 2025",
       "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "146059",
+      "name": "Tower fan",
+      "description": "Hi, I have a Europeace standing fan in good condition. I only use occasionally. It may not be as strong as a normal standing blade fan, but it can provide some comfort in a small room for 1 - 2 pax.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "08 Jun 2025",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "146061",
+      "name": "Tower fan",
+      "description": "Hi, I have a Europeace standing fan in good condition. I only use occasionally. It may not be as strong as a normal standing blade fan, but it can provide some comfort in a small room for 1 - 2 pax.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "08 Jun 2025",
+      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
