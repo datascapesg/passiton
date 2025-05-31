@@ -4311,24 +4311,6 @@
       "date": "14 May 2025"
     },
     {
-      "id": "145460",
-      "category": "Home Furnishing",
-      "name": "2-Door Cupboard",
-      "description": "An unemployed single mother with mental health and other health issues with 3 children requires a 2-door cupboard.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Cheng San 445",
-        "name": "Fahmi Bin Jazid",
-        "email": "fahmi@allkin.org.sg",
-        "phone": [
-          "60384207",
-          "60384120"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 May 2025"
-    },
-    {
       "id": "145458",
       "category": "Home Furnishing",
       "name": "Bunk Bed",
@@ -6410,6 +6392,17 @@
       "dimensions": "200x100x50",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "146091",
+      "name": "cupboard",
+      "description": "sturdy",
+      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+      "validTill": "15 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": "H173cm X W70cm X D68cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "146090",
