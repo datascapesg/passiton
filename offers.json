@@ -275,17 +275,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "146053",
-    "name": "Grey L shaped storage sofa",
-    "description": "Grey L shaped modular sofa with storage. Covers are removable and washable.",
-    "location": null,
-    "validTill": "06 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": "2.9m length",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "146022",
     "name": "Standing Desk",
     "description": "Standing desk. I can potentially pay for the collection fee but please let me know first how much it is - I trust it's cost efficient eg cheaper than lalamove. Thank you.",
@@ -825,13 +814,35 @@
     "category": "Medical Aids"
   },
   {
+    "id": "145756",
+    "name": "wheel chair",
+    "description": "No covering delivery charges, self-collect only.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "25 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": "106.7 cm (L) × 63.5 cm (W) × 91.4 cm (H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "145755",
     "name": "Hospital beds with air mattresses",
     "description": "No covering delivery charges, self-collect only.",
     "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "20 Jun 2025",
+    "validTill": "25 Jun 2025",
     "ageInYears": 2,
     "dimensions": "200 cm (L) × 85 cm (W) × 9 cm (H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "145754",
+    "name": "Suction catheters",
+    "description": "No covering delivery charges, self-collect only.",
+    "location": "Ang Mo Kio",
+    "validTill": "25 Jun 2025",
+    "ageInYears": 1,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },

@@ -1858,23 +1858,6 @@
       "date": "27 May 2025"
     },
     {
-      "id": "145937",
-      "category": "Infant and Children Items",
-      "name": "Milk Powder",
-      "description": "Client is the sole caregiver for her 3 young children and the family is not financially supported by client's husband. As client is unable to work due to caregiving issues, client is hoping support for Dulac Stage 2 for her two youngest children. 3 tins of milk are used per month. For further liaison, kindly contact me at 98598768 from 9am to 5pm on WhatsApp, thank you very much!",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (East)",
-        "name": "Nur Afrina",
-        "email": "fsceast@ppis.sg",
-        "phone": [
-          "60156970"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 May 2025"
-    },
-    {
       "id": "145936",
       "category": "Infant and Children Items",
       "name": "Diapers",
@@ -6008,17 +5991,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "146053",
-      "name": "Grey L shaped storage sofa",
-      "description": "Grey L shaped modular sofa with storage. Covers are removable and washable.",
-      "location": null,
-      "validTill": "06 Jun 2025",
-      "ageInYears": 4,
-      "dimensions": "2.9m length",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "146022",
       "name": "Standing Desk",
       "description": "Standing desk. I can potentially pay for the collection fee but please let me know first how much it is - I trust it's cost efficient eg cheaper than lalamove. Thank you.",
@@ -6558,13 +6530,35 @@
       "category": "Medical Aids"
     },
     {
+      "id": "145756",
+      "name": "wheel chair",
+      "description": "No covering delivery charges, self-collect only.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "25 Jun 2025",
+      "ageInYears": 1,
+      "dimensions": "106.7 cm (L) × 63.5 cm (W) × 91.4 cm (H)",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
+    },
+    {
       "id": "145755",
       "name": "Hospital beds with air mattresses",
       "description": "No covering delivery charges, self-collect only.",
       "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "20 Jun 2025",
+      "validTill": "25 Jun 2025",
       "ageInYears": 2,
       "dimensions": "200 cm (L) × 85 cm (W) × 9 cm (H)",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
+    },
+    {
+      "id": "145754",
+      "name": "Suction catheters",
+      "description": "No covering delivery charges, self-collect only.",
+      "location": "Ang Mo Kio",
+      "validTill": "25 Jun 2025",
+      "ageInYears": 1,
+      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
     },
