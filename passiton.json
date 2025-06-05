@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "146218",
+      "category": "Medical Aids",
+      "name": "Adult Diapers XL (Pull-up diaper pants ver)",
+      "description": "Client has parkinson's disease and has poor mobility. She requires diapers for usage at night daily and the expenses for her diapers takes up a large amount of her expenses monthly. We are hoping to obtain some diapers for her to slightly defray the costs. If you have a suitable item please reach out to me at 6843 9619 thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Han Wen Ting",
+        "email": "hanwenting@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "05 Jun 2025"
+    },
+    {
       "id": "145967",
       "category": "Medical Aids",
       "name": "Liquid supplement - Nestle Resource Fruit Orange",
@@ -213,6 +230,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "05 May 2025"
+    },
+    {
+      "id": "146213",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave oven",
+      "description": "Low income family with a new born baby.",
+      "specifications": null,
+      "contact": {
+        "org": "Lakeside Family Services - Safe Place",
+        "name": "Linda Lee",
+        "email": "safeplace@lakeside.org.sg",
+        "phone": [
+          "68174202",
+          "88914214"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Jun 2025"
     },
     {
       "id": "146201",
@@ -1039,24 +1074,6 @@
       "date": "16 May 2025"
     },
     {
-      "id": "145579",
-      "category": "Electrical Home Appliances",
-      "name": "Smart TV",
-      "description": "Client is 68 years old who has partial visual impairment and neurological issue after suffering from stroke twice. As such, she has not been able to head out to further places on her own and mostly keep herself occupied at home by watching the TV. However, her TV is recently spoilt and requires a replacement. Would prefer a 40-55 inch TV that could help her to see the TV screen better.",
-      "specifications": "40'' - 55''",
-      "contact": {
-        "org": "Caregiving Welfare Association",
-        "name": "Koh Ee Lin",
-        "email": "eelin.koh@cwa.org.sg",
-        "phone": [
-          "97595810",
-          "68595170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 May 2025"
-    },
-    {
       "id": "145550",
       "category": "Electrical Home Appliances",
       "name": "CCTV",
@@ -1621,42 +1638,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "04 Jun 2025"
-    },
-    {
-      "id": "146178",
-      "category": "Home Furnishing",
-      "name": "Sofa",
-      "description": "Low-income family of 4: young single mother taking care of young child and elderly parents who are home-bound due to multiple chronic medical conditions, is looking for a sofa as their current one is spoilt. If you are able to help, please contact Jessie at 9643 3400 or email jessielim@fycs.org. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Community Services - Restorative Care Department",
-        "name": "Jessie Lim",
-        "email": "jessielim@fycs.org",
-        "phone": [
-          "96433400",
-          "91708900"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Jun 2025"
-    },
-    {
-      "id": "146177",
-      "category": "Home Furnishing",
-      "name": "Queensize Bed (Mattress + Frame)",
-      "description": "Low-income family of 4: young single mother taking care of young child and elderly parents who are home-bound due to multiple chronic medical conditions, is looking for a queen size bed (mattress and frame). If you are able to help, please contact Jessie at 9643 3400 or email jessielim@fycs.org. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Community Services - Restorative Care Department",
-        "name": "Jessie Lim",
-        "email": "jessielim@fycs.org",
-        "phone": [
-          "96433400",
-          "91708900"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Jun 2025"
     },
     {
       "id": "146170",
@@ -2623,23 +2604,6 @@
         "email": "norlizawati@thkmc.org.sg",
         "phone": [
           "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Jun 2025"
-    },
-    {
-      "id": "146158",
-      "category": "Others",
-      "name": "Groceries",
-      "description": "This is a family of 6 with a child diagnosed with Suspected Autism Spectrum Disorder (S.ASD). Father is the sole breadwinner while mother is the main caregiver to her 4 children. Mother has just resigned from her job recently due to child's caregiving needs. Donations for groceries will be greatly appreciated for the family in this period while pending for external financial assistance. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Early Intervention Programme for Infants and Children - Wellington Circle",
-        "name": "Estherlyn Ng",
-        "email": "estherlynng@fycs.org",
-        "phone": [
-          "64310400"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -5264,23 +5228,6 @@
       "date": "06 May 2025"
     },
     {
-      "id": "146204",
-      "category": "Mobility Aids",
-      "name": "Commode",
-      "description": "Client is an unmarried 97 year old elderly, residing at home with only a helper. Recently, elderly had fallen ill which had led to her being ADL dependent after. As her house is an old house, the toilet doors are rather small. We are seeking for donation of an 18 inch or smaller commode so that helper would be able to help elderly with toileting. For further information on delivery, kindly contact Nurul via Whatsapp at 98598767. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (East)",
-        "name": "Nur Afrina",
-        "email": "fsceast@ppis.sg",
-        "phone": [
-          "60156970"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Jun 2025"
-    },
-    {
       "id": "145977",
       "category": "Mobility Aids",
       "name": "Toilet Commode",
@@ -5332,23 +5279,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "19 May 2025"
-    },
-    {
-      "id": "145532",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "Family consists of a single-mother (client) and 3 young children. Apart from caregiving for the children, client is also the sole caretaker for her elderly mother, who recently lost her legs due to diabetes. Due to the multiple dependents, client is unable to work and faces a tight financial situation. A wheelchair for her elderly mother would be significantly beneficial to assist their immediate worries.",
-      "specifications": null,
-      "contact": {
-        "org": "Viriya Community Services - Whispering Hearts Family Service Centre",
-        "name": "Tee Hui Wen",
-        "email": "huiwen@viriya.org.sg",
-        "phone": [
-          "67951008"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 May 2025"
     },
     {
       "id": "145438",
@@ -5860,23 +5790,6 @@
       "date": "05 May 2025"
     },
     {
-      "id": "146188",
-      "category": "Attires/Clothings",
-      "name": "T-shirt & Long pants for children",
-      "description": "Client's husband was imprisoned and she is presently raising her 5 children on her own. Children are growing at a rapid rate and client would appreciate if she could get some clothes for her children. If you have a suitable item, please reach out to me at 6843 9619. Thank you!",
-      "specifications": "Sizes required:  Female (Age 10) size 140;  Male (Age 6) size 110;  Male (Age 7) size 120",
-      "contact": {
-        "org": "MWS Family Service Centre - Tampines",
-        "name": "Han Wen Ting",
-        "email": "hanwenting@mws.sg",
-        "phone": [
-          "67872001"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "04 Jun 2025"
-    },
-    {
       "id": "145966",
       "category": "Attires/Clothings",
       "name": "Clothes for boys 9-12 years old",
@@ -5930,17 +5843,6 @@
   ],
   "offers": [
     {
-      "id": "146185",
-      "name": "Children Clothes",
-      "description": "Good condition t-Shirts/shirts/pants for children, mostly for boy by t-shirt are unisex. All managed to squeeze into a single carrier, can pass at Sengkang/Buangkok MRT station area. Other logistics to be pay by taker.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "30 Jun 2025",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Attires/Clothings"
-    },
-    {
       "id": "146157",
       "name": "Winter Jacket and Sweater",
       "description": "These clothes are brand new, giving away because sizes are unsuitable. They are thick enough for 8-15 degree celsius weather.",
@@ -5950,17 +5852,6 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
-    },
-    {
-      "id": "146212",
-      "name": "Dehumidifier",
-      "description": "Almost brand new STERRA dehumidifier. Used less than 10 times. About 1 month old. Bought 2. Dont need this one.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "05 Jul 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
     },
     {
       "id": "145942",
@@ -6040,6 +5931,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "146217",
+      "name": "set of 2 wooden leather chair with cushion",
+      "description": "Got this for my balcony, but ended up using as my living room chairs while my sofa arrived. \n\nUsed for 3 months, still in the condition it was delivered in. \n\nThe chairs came with a slight crack as shown in the pictures, but still in good working condition",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "05 Jul 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "146207",
       "name": "Sofa cum Single Bed",
       "description": "Scanteak Sofa,\nHeight is about 40cm including 13cm of cushion. have extra set of cushion cover",
@@ -6058,17 +5960,6 @@
       "validTill": "15 Jun 2025",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "146195",
-      "name": "Single Bed Frame with Mattress",
-      "description": "Single size bed frame with mattress",
-      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-      "validTill": "09 Jun 2025",
-      "ageInYears": 3,
-      "dimensions": "202cm x 101cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -6575,6 +6466,28 @@
       "validTill": "28 Jun 2025",
       "ageInYears": 4,
       "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "146214",
+      "name": "Boori Universal Squared Bassinet",
+      "description": "The Boori Universal Squared Bassinet is a versatile sleep space for newborns. While Boori offers various bassinet models, the Universal Squared Bassinet is designed to fit a range of Boori cot beds and has a compact footprint suitable for smaller spaces. The exact dimensions for the mattress are 80 x 41 cm. This bassinet is designed to be a safe and comfortable sleep environment for your baby. \nDimensions of the Boori Universal Squared Bassinet:\nLength: 80 cm\nWidth: 41 cm\nHeight: 3 cm (for the mattress)",
+      "location": "Farrer Park, Little India, Serangoon Road",
+      "validTill": "07 Jun 2025",
+      "ageInYears": 2,
+      "dimensions": "Length: 80 cm Width: 41 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "146215",
+      "name": "Boori Universal Squared Bassinet",
+      "description": "The Boori Universal Squared Bassinet is a versatile sleep space for newborns. While Boori offers various bassinet models, the Universal Squared Bassinet is designed to fit a range of Boori cot beds and has a compact footprint suitable for smaller spaces. The exact dimensions for the mattress are 80 x 41 cm. This bassinet is designed to be a safe and comfortable sleep environment for your baby. \nDimensions of the Boori Universal Squared Bassinet:\nLength: 80 cm\nWidth: 41 cm\nHeight: 3 cm (for the mattress)",
+      "location": "Farrer Park, Little India, Serangoon Road",
+      "validTill": "07 Jun 2025",
+      "ageInYears": 2,
+      "dimensions": "Length: 80 cm Width: 41 cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
     },
