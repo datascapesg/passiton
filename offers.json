@@ -55,17 +55,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "146463",
-    "name": "Shoe Cabinet",
-    "description": "Shoe cabinet with Indonesian style carvings",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "17 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": "160cm x 50cm x 50cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "146445",
     "name": "bookshelf",
     "description": "The glass doors has to be lifted slightly to close, but other than that the shelf is in good condition.",
@@ -253,23 +242,23 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "146464",
-    "name": "Queen Bed Ikea MALM frame and mattress",
-    "description": "Dark brown IKEA Malm frame with slats. Can be dismantled and comes with the allen key. Comes with a Queen mattress (Australian brand)",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "20 Jun 2025",
-    "ageInYears": 2,
-    "dimensions": "150x200cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "146217",
     "name": "set of 2 wooden leather chair with cushion",
     "description": "Got this for my balcony, but ended up using as my living room chairs while my sofa arrived. \n\nUsed for 3 months, still in the condition it was delivered in. \n\nThe chairs came with a slight crack as shown in the pictures, but still in good working condition",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "05 Jul 2025",
     "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "146205",
+    "name": "King size mattress",
+    "description": "Used mattress",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "15 Jun 2025",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
