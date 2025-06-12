@@ -215,6 +215,41 @@
       "date": "15 May 2025"
     },
     {
+      "id": "146468",
+      "category": "Electrical Home Appliances",
+      "name": "STANDING FAN",
+      "description": "I’m reaching out on behalf of my client, a young mother who is currently staying in a rental flat with her two infant children. Due to the current warm weather and limited resources, she is in need of a stand fan to help keep her home more comfortable for the babies. For more information, I can be contacted at 8859 5662. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "Viriya Family Service Centre",
+        "name": "Grace Ang",
+        "email": "grace_ang@viriya.org.sg",
+        "phone": [
+          "62855033",
+          "62858033"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Jun 2025"
+    },
+    {
+      "id": "146467",
+      "category": "Electrical Home Appliances",
+      "name": "Slow cooker",
+      "description": "Client is a cancer-stricken senior with multiple health conditions. She would like to have a slow cooker to cook her meals when she goes out for her medical appointments so that she'd be able to have something to eat when she returns home.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Singapore's Active Ageing Centre @ Ang Mo Kio 469",
+        "name": "Kei Ng",
+        "email": "ngkhuankungkei@allkin.org.sg",
+        "phone": [
+          "64510898"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Jun 2025"
+    },
+    {
       "id": "146460",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -1359,24 +1394,6 @@
       "date": "21 May 2025"
     },
     {
-      "id": "145680",
-      "category": "Electrical Home Appliances",
-      "name": "Microwave",
-      "description": "Client has chronic health conditions that sometimes make it difficult for her to prepare her own food. She uses a microwave to help heat up pre-prepared food. Due to her lack of income, she is unable to replace her spoilt microwave.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
-        "name": "Joy Lew",
-        "email": "joylew@fycs.org",
-        "phone": [
-          "69873106",
-          "67625215"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 May 2025"
-    },
-    {
       "id": "145657",
       "category": "Electrical Home Appliances",
       "name": "Portable aircon",
@@ -1778,23 +1795,6 @@
         "email": "alethiatoh@carecorner.org.sg",
         "phone": [
           "62586601"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "11 Jun 2025"
-    },
-    {
-      "id": "146424",
-      "category": "Home Furnishing",
-      "name": "Sofa",
-      "description": "Family is a household of 4. Consisting of the client and her two young children (ages 3 and 1). Client’s husband was previously the main breadwinner for the household but had recently been incarcerated. Client is unable to seek employment as well due to caregiving responsibilities for her young children. She is also pregnant. Family is reliant on SSO for Financial Assistance which is sufficient for them to meet their basic needs.\n\nHowever, family’s household was recently infested with bed bugs, and they were required to throw away their sofa and bed. The client and her children have been sleeping on a mattress on the floor. The financial assistance provided by SSO is not sufficient for them to purchase another sofa and bed. Hence, they are requesting for a kind donation of a sofa.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
-        "name": "Odelia Tan",
-        "email": "odeliatan@mws.sg",
-        "phone": [
-          "62828558"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3539,6 +3539,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "12 May 2025"
+    },
+    {
+      "id": "144432",
+      "category": "Infant and Children Items",
+      "name": "Baby Diaper Pants XL",
+      "description": "Young family with 21-month baby. They have limited family support and the father is trying to get a full-time job. \n\nBaby is using diaper pants XL size and any donation will help.",
+      "specifications": null,
+      "contact": {
+        "org": "Cornerstone Community Services",
+        "name": "Esther Yeo",
+        "email": "case@cornerstoneservices.org.sg",
+        "phone": [
+          "63448063"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "12 Jun 2025"
     },
     {
       "id": "146465",
@@ -6569,17 +6586,6 @@
       "location": null,
       "validTill": "08 Jul 2025",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Leisure and Healthy Lifestyle"
-    },
-    {
-      "id": "145951",
-      "name": "Cross stitch yarn",
-      "description": "Cross stitch yarn (new) \nBought wrong type of yarn and didn’t use.",
-      "location": null,
-      "validTill": "27 Jun 2025",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Leisure and Healthy Lifestyle"
