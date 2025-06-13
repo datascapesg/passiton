@@ -11,13 +11,13 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "146480",
-    "name": "Mitsubishi folio 6 door fridge",
-    "description": "Good working condition. Not halal.",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "30 Jun 2025",
+    "id": "146492",
+    "name": "Refrigerator",
+    "description": "Good condition refrigerator used by family and well maintained. Available for collection between 19 Jul and 22 Jul 25",
+    "location": null,
+    "validTill": "13 Jul 2025",
     "ageInYears": 4,
-    "dimensions": "60x70x180",
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -64,28 +64,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "146471",
-    "name": "Queen size bed and mattress",
-    "description": "Queen size bed and mattress. Bed frame dismantled. Good condition as hardly used.",
-    "location": null,
-    "validTill": "28 Jun 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "146436",
-    "name": "Slumberland \"Devon\" Queen size mattress in v good condition",
-    "description": "Excellent condition premium queen size mattress. Have lost job in Sg and need to return to Australia, can't afford to ship, please understand I don't have much money and can't pay for all removals, may be able to meet half way.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "20 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": "Queen Size, depth 28cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
   },
   {
     "id": "146372",
@@ -561,6 +539,28 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "146485",
+    "name": "Shnuggle baby bath",
+    "description": "Shnuggle baby bath, used for 1.5 years but in very good condition.",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "13 Jul 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "146484",
+    "name": "Wooden kids bike",
+    "description": "Hape wooden kids bike. Very good condition.",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "13 Jul 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
     "id": "146481",
     "name": "Cybex baby car seat",
     "description": "Cybex Aton S2 i-size Car Seat with newborn insert.\n\nUsed infrequently as we don’t have a car, mostly for short trips around Singapore.\n\nToddler has now outgrown it so passing on. \n\nCar seat was carefully used and regularly cleaned (has been cleaned fully 12th June). Used for around 2 years, not involved in any accidents.",
@@ -880,17 +880,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "146451",
-    "name": "Commode",
-    "description": "In good condition.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "02 Jul 2025",
-    "ageInYears": 1,
-    "dimensions": "Standard",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "146406",
     "name": "4 wheels folding walking aid",
     "description": "The walking frame is as good as new, very lightly used. This is foldable and able to sit as shown on the image.",
@@ -935,6 +924,17 @@
     "category": "Mobility Aids"
   },
   {
+    "id": "146486",
+    "name": "Burmeier ‘Dali’ care bed",
+    "description": "Burmeier Care bed / Hospital that is over 10 years old but in good working condition. German made. All accessories in place. Not used for last 5 years so Technician from Lifeline came to assess bed on June 4th’25 and says it’s working well. Transport will be arranged and paid by me, we will use Lifeline to help transport bed to beneficiary so that the dismantling and assembly can be done properly for beneficiary.\n\nMattress Base (Lying Surface): 90 x 200 cm\nExternal Dimensions (Bed Frame): 102 x 225 cm\nHeight Adjustment: 23 - 63 cm\nSafety Side Height: 37 cm\n\nAir mattress with pump ( EastAir) will also be provided. Fully functional",
+    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+    "validTill": "16 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": "1.02m by 2.25m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "146116",
     "name": "Patient hoist",
     "description": "Hydraulic powered hoist with canvas to hoist patient onto and out of bed",
@@ -953,17 +953,6 @@
     "validTill": "21 Jun 2025",
     "ageInYears": 3,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "145899",
-    "name": "Electric Hospital Bed",
-    "description": "Height from high28 inches to low 12.6 inches",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "15 Jun 2025",
-    "ageInYears": 1,
-    "dimensions": "39.8x85x28 inches",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
