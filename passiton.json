@@ -2260,24 +2260,6 @@
       "date": "15 Jun 2025"
     },
     {
-      "id": "146477",
-      "category": "Home Furnishing",
-      "name": "Queen Mattress",
-      "description": "Senior who is single with no social support and mobility problem is seeking donation of new queen sized mattress as her current one is worn out and she does not have money to purchase one. Senior is staying in Yishun.",
-      "specifications": null,
-      "contact": {
-        "org": "Agency for Integrated Care",
-        "name": "Lisa Lai",
-        "email": "lisa.lai@aic.sg",
-        "phone": [
-          "69567011",
-          "66036800"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Jun 2025"
-    },
-    {
       "id": "146458",
       "category": "Home Furnishing",
       "name": "Small Dining Table",
@@ -5048,6 +5030,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "146525",
+      "name": "Sofa, ottoman and table",
+      "description": "A sofa which measures 228cm by 86cm.  An ottoman which measures 86cm by70cm by 48 cm ( height). A living room triangle table measuring 85 cm each side.",
+      "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+      "validTill": "30 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "146523",
       "name": "Queen sized bed",
       "description": "Used lightly, bought maybe for less than 6 years",
@@ -5948,6 +5941,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "146524",
+      "name": "Hospital bed with moving air mattress",
+      "description": "A good hospital bed which comes with a moving air mattress and a table on wheels",
+      "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+      "validTill": "30 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "146466",
