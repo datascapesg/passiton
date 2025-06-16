@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "146530",
+      "category": "Medical Aids",
+      "name": "Glucometer with voice assistance",
+      "description": "Client is the sole breadwinner for the family, with 2 young children and his wife. His wife has been trying to find work but to no success. Client’s monthly salary is not sufficient for the family expenses as they have debts to clear. Additionally, they are at risk of having their utilities cut off due to their inability to pay off their outstanding arrears. \n\nClient also has health conditions and would require a glucometer with voice assistance as client is blind since birth.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Jun 2025"
+    },
+    {
       "id": "146502",
       "category": "Medical Aids",
       "name": "Adult Diapers, Wipes and Incontinence Pads",
@@ -213,6 +230,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "19 May 2025"
+    },
+    {
+      "id": "146527",
+      "category": "Electrical Home Appliances",
+      "name": "Television",
+      "description": "For single elderly who stay alone, her television just broke down on last Saturday. \n\nJust need a TV around 30inch +-.",
+      "specifications": "76.2cm (30inch)",
+      "contact": {
+        "org": "Yong-En Care Centre",
+        "name": "Naomi Yong",
+        "email": "naomi-yong@yong-en.org.sg",
+        "phone": [
+          "63090581",
+          "62251002"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Jun 2025"
     },
     {
       "id": "146491",
@@ -2081,6 +2116,24 @@
       "date": "16 May 2025"
     },
     {
+      "id": "146537",
+      "category": "Home Furnishing",
+      "name": "Single bed",
+      "description": "Client is a single mother with 4 school going children. She is hoping to receive a bed for 2 of her children to share. The donation will help to ensure the children will receive the care that they need",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Punggol 616",
+        "name": "Nur Fatin Athirah Binte Mohamad Husaini",
+        "email": "fatinathirah@allkin.org.sg",
+        "phone": [
+          "64355323",
+          "60384140"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Jun 2025"
+    },
+    {
       "id": "146519",
       "category": "Home Furnishing",
       "name": "Foldable single size mattress",
@@ -2115,24 +2168,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "15 Jun 2025"
-    },
-    {
-      "id": "146458",
-      "category": "Home Furnishing",
-      "name": "Small Dining Table",
-      "description": "Client (F61), single mom with 2 teenage sons, just moved to their HDB Rental flat in end May without many essential items. She only earns $1.6k a month, insufficient to support the family after husband left her.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Geylang Seri",
-        "name": "Ashikin Hazlan",
-        "email": "ashikin_hazlan@msf.gov.sg",
-        "phone": [
-          "62319440",
-          "62438753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Jun 2025"
     },
     {
       "id": "146457",
@@ -2819,6 +2854,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "16 May 2025"
+    },
+    {
+      "id": "146531",
+      "category": "Infant and Children Items",
+      "name": "Similac Stage 4",
+      "description": "Client is the sole breadwinner for the family, with 2 young children and his wife. His wife has been trying to find work but to no success. Client’s monthly salary is not sufficient for the family expenses as they have debts to clear. Additionally, they are at risk of having their utilities cut off due to their inability to pay off their outstanding arrears. \nClient also require Similac stage 4 milk powder as the 2 young children is still requiring it.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Jun 2025"
     },
     {
       "id": "145190",
@@ -4489,6 +4541,24 @@
       "date": "20 May 2025"
     },
     {
+      "id": "146528",
+      "category": "Leisure and Healthy Lifestyle",
+      "name": "Anlene Gold Plain Milk powder (URGENT!)",
+      "description": "*Interested donors please WHATSAPP 96183516/ OR EMAIL to liaise.* Elderly client living alone with no income (Husband passed away end 2024, her 2 sons is taking turn to care for her however they also have their own family and are financially tight). Caseworker is looking for some Anlene milk (plain flavor) to support client health. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Community Services - Mental Health",
+        "name": "Mindy Choo",
+        "email": "mindychoo@fycs.org",
+        "phone": [
+          "60117651",
+          "64712022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Jun 2025"
+    },
+    {
       "id": "146483",
       "category": "Leisure and Healthy Lifestyle",
       "name": "Bicycle",
@@ -4670,17 +4740,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "146503",
-      "name": "Fridge",
-      "description": "Good condition fridge for donation",
-      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-      "validTill": "20 Jun 2025",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "145930",
       "name": "LAN cable",
       "description": "Delivery on weekday evening and weekend.",
@@ -4712,6 +4771,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "146536",
+      "name": "2-drawer cabinet",
+      "description": "Pre-owned file cabinet, fully functional with lock",
+      "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+      "validTill": "25 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": "46.5 x 62 x 72.2",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "146532",
+      "name": "White dining table",
+      "description": "4 seater dining table,  extendable to 6 seater.  White colour with 2 glass panel top. Used but still in good condition.  No chairs .",
+      "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+      "validTill": "21 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": "L/W/H - 100/74/75 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "146525",
@@ -4769,17 +4850,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "146515",
-      "name": "Super Single Bed & Mattress",
-      "description": "Leaving Town: Solid Wood Bed in very good condition, with pillow top mattress very good qualify.",
-      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-      "validTill": "30 Jun 2025",
-      "ageInYears": 2,
-      "dimensions": "200cmX110cmX81CM",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "146514",
       "name": "Bean Bag Sofa",
       "description": "1-Seater Bean Bag Sofa\n- 120x100cm (XL), Light Blue\n- Like new, seldom used, mainly kept in storeroom",
@@ -4802,17 +4872,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "146512",
-      "name": "Sliding 2 door wardrobe",
-      "description": "2 door sliding wardrobe in excellent condition",
-      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-      "validTill": "20 Jun 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "146509",
       "name": "Sofa Bed",
       "description": "3 seater sofa bed. Hardly use",
@@ -4830,17 +4889,6 @@
       "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
       "validTill": "14 Jul 2025",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "146506",
-      "name": "Leather Sofa",
-      "description": "Leather sofa",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "14 Jul 2025",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
@@ -5154,6 +5202,28 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "146529",
+      "name": "Study table",
+      "description": "Aube wooden drawer storage bed frame (Japan size)",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "18 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": "1m x 2.1m x 0.7m",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "146534",
+      "name": "Bath Tub and Shower Toys",
+      "description": "Baby bath tub and shower toys",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "20 Jun 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
       "id": "146522",
       "name": "Stroller and toddler toys",
       "description": "Lightweight stroller for toddlers + toys + Philips kids hair clipper",
@@ -5407,17 +5477,6 @@
       "category": "Medical Aids"
     },
     {
-      "id": "145859",
-      "name": "portable phlegm suction unit",
-      "description": "That’s a portable phlegm suction unit from ComfyCare, model 7E-C/G. It’s designed with an oil-free pump, a pressure gauge, a 1000 mL suction container, and a regulator knob for control.\n\n\nNo covering delivery charges, self-collect only.\n\nNo covering delivery charges, self-collect only.",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "25 Jun 2025",
-      "ageInYears": 1,
-      "dimensions": "370 mm (H) × 180 mm (L) × 280 mm (W)",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
       "id": "145810",
       "name": "Wedge pillow for leg elevation",
       "description": "Used but in very good condition.\nMade from urethane foam and comes with removable washable cover",
@@ -5429,45 +5488,12 @@
       "category": "Medical Aids"
     },
     {
-      "id": "145755",
-      "name": "Hospital beds with air mattresses",
-      "description": "No covering delivery charges, self-collect only.",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "25 Jun 2025",
-      "ageInYears": 2,
-      "dimensions": "200 cm (L) × 85 cm (W) × 9 cm (H)",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
-      "id": "145754",
-      "name": "Suction catheters",
-      "description": "No covering delivery charges, self-collect only.",
-      "location": "Ang Mo Kio",
-      "validTill": "25 Jun 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
       "id": "146389",
       "name": "commode chair",
       "description": "commode chair without pot",
       "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
       "validTill": "21 Jun 2025",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
-      "id": "146417",
-      "name": "Tilt in space wheelchair with leg rest",
-      "description": "Tilt in space wheelchair with leg rest",
-      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-      "validTill": "08 Jul 2025",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
