@@ -4645,6 +4645,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "20 May 2025"
+    },
+    {
+      "id": "146598",
+      "category": "Kitchen Utility Items",
+      "name": "Induction Cooker (For All Pots)",
+      "description": "Member is a single father living with 3 school going children. He is currently trying to juggle paying off his loans and taking care of his children on his own while working a full-time job. His current induction cooker is in poor condition and cannot be used with his current pots.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Regina Leong",
+        "email": "regina@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Jun 2025"
     }
   ],
   "offers": [
@@ -4669,6 +4686,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
+    },
+    {
+      "id": "146601",
+      "name": "Bar Fridge",
+      "description": "EuropAce bar fridge (working condition)",
+      "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+      "validTill": "25 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": "43 x 47 x 48",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
     },
     {
       "id": "146511",
@@ -4713,6 +4741,83 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "146608",
+      "name": "2-tier open bookshelf",
+      "description": "2-tier open bookshelf",
+      "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+      "validTill": "25 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": "79.2 x 40 x 94",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "146607",
+      "name": "5-tier shelf",
+      "description": "5-tier shelf",
+      "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+      "validTill": "25 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": "104 x 40 x 200.5",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "146606",
+      "name": "3-drawer file cabinet",
+      "description": "3-drawer file cabinet (with lock)",
+      "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+      "validTill": "25 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": "46.7 x 62 x 101.5",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "146605",
+      "name": "3-drawer file cabinet",
+      "description": "3-drawer cabinet with lock",
+      "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+      "validTill": "25 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": "39 x 45 x 63",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "146604",
+      "name": "File Cabinet with sliding door",
+      "description": "File Cabinet with sliding door",
+      "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+      "validTill": "25 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": "81 x 40 x 83",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "146603",
+      "name": "Computer table",
+      "description": "Computer table with wheels",
+      "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+      "validTill": "25 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": "64 x 48 x 74",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "146602",
+      "name": "Cabinet",
+      "description": "4-drawer office file cabinet with lock",
+      "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+      "validTill": "25 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": "46.7 x 62 x 132.2",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "146586",
@@ -5351,6 +5456,39 @@
       "dimensions": "105cm x 40cm x 16cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Leisure and Healthy Lifestyle"
+    },
+    {
+      "id": "146600",
+      "name": "Monitor and Keyboard",
+      "description": "Standard wired QWERTY keyboard and Viewsonic 22 inch LED Monitor (w/o power cable)",
+      "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+      "validTill": "25 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": "W48 x H35 (base 20)",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Learning Aids"
+    },
+    {
+      "id": "146599",
+      "name": "Mobile whiteboard",
+      "description": "Mobile whiteboard (with wheels)",
+      "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+      "validTill": "25 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": "215 (L) x 189 (H)",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Learning Aids"
+    },
+    {
+      "id": "146597",
+      "name": "Ceiling mounted Epson Projector",
+      "description": "Ceiling mounted Epson Projector (model: EB980W) with remote",
+      "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+      "validTill": "25 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": "28 (L) x 30 (W) x 20 (H)",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Learning Aids"
     },
     {
       "id": "146596",
