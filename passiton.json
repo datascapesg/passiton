@@ -2132,6 +2132,23 @@
       "date": "19 May 2025"
     },
     {
+      "id": "146661",
+      "category": "Home Furnishing",
+      "name": "Wardrobe",
+      "description": "Single-mother family has 2 school going children, who needs a wardrobe for their clothes.",
+      "specifications": "Any",
+      "contact": {
+        "org": "Montfort Care - Marine Parade Family Service Centre",
+        "name": "Oh Jia Jia",
+        "email": "jiajia.oh@montfortcare.org.sg",
+        "phone": [
+          "64450100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Jun 2025"
+    },
+    {
       "id": "146659",
       "category": "Home Furnishing",
       "name": "Sofa Bed",
@@ -5809,6 +5826,17 @@
       "dimensions": "67x61x17cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "146660",
+      "name": "Hospital Bed and Wheelchair",
+      "description": "Hospital Bed and Wheelchair, as good as new.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "18 Jul 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "146590",
