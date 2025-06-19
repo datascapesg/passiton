@@ -231,6 +231,24 @@
       "date": "19 May 2025"
     },
     {
+      "id": "146676",
+      "category": "Electrical Home Appliances",
+      "name": "microwave oven",
+      "description": "Family of three comprising parents and one child. Father is the sole breadwinner of the family. They are requesting assistance for a microwave oven as their current unit is faulty. Due to their financial constraints, they are unable to purchase a new one at this time.",
+      "specifications": "nil",
+      "contact": {
+        "org": "MSF Social Service Office @ Woodlands, Sembawang",
+        "name": "Chester Heng Jing Kai",
+        "email": "chester_heng@msf.gov.sg",
+        "phone": [
+          "60138530",
+          "67660097"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jun 2025"
+    },
+    {
       "id": "146657",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -5134,6 +5152,39 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "146681",
+      "name": "Dining Table",
+      "description": "Tempered glass top dining table",
+      "location": "Cairnhill, Killiney, Orchard, River Valley",
+      "validTill": "26 Jun 2025",
+      "ageInYears": 3,
+      "dimensions": "160cm x 90cm x 75cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "146680",
+      "name": "White desk with storage",
+      "description": "White study table and storage",
+      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+      "validTill": "08 Jul 2025",
+      "ageInYears": 2,
+      "dimensions": "WxHxD : 1060x750x510 mm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "146679",
+      "name": "Black leather chairs",
+      "description": "Black leather chairs 3 pieces, exactly the same.  Prefer self collection if possible.",
+      "location": "Braddell , Macpherson, Potong Pasir",
+      "validTill": "19 Jul 2025",
+      "ageInYears": 4,
+      "dimensions": "49cmX48cmX104cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "146663",
       "name": "Adjustable bed- 9 inch mattress",
       "description": "Super single\nheight include the mattress\nmattress is 11 inch thick\nremote control, for massage and adjustment of head and leg portion.\nbedsheet not included",
@@ -6036,6 +6087,17 @@
       "category": "Mobility Aids"
     },
     {
+      "id": "146677",
+      "name": "Hospital bed",
+      "description": "In working condition. Comes with pressure relief air mattress",
+      "location": null,
+      "validTill": "25 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
       "id": "145840",
       "name": "Walking stick",
       "description": "Walking stick with narrow base. Need to change the holding pad.",
@@ -6103,6 +6165,17 @@
     },
     {
       "id": "146571",
+      "name": "Hospital bed with moving air mattress",
+      "description": "A good hospital bed which comes with a moving air mattress and a table on wheels",
+      "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+      "validTill": "30 Jun 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "146678",
       "name": "Hospital bed with moving air mattress",
       "description": "A good hospital bed which comes with a moving air mattress and a table on wheels",
       "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
