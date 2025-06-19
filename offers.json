@@ -22,6 +22,28 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "146672",
+    "name": "Washing machine",
+    "description": "7kg fuzzy logic Midea brand\nPlease arrange for pick up thankyou",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "25 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": "54x54x85",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "146671",
+    "name": "Refrigerator",
+    "description": "2 door Sharp fridge\n( please note: please arrange pick up/delivery thankyou)",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "25 Jun 2025",
+    "ageInYears": 4,
+    "dimensions": "60x55x170",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "146642",
     "name": "Ironing board with iron",
     "description": "New",
@@ -121,17 +143,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "146643",
-    "name": "single bed without mattress",
-    "description": "New",
-    "location": "Singapore",
-    "validTill": "25 Jun 2025",
-    "ageInYears": 1,
-    "dimensions": "standard",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "146636",
     "name": "whith kit study table with chair for kid",
     "description": "New\nwhatsapp: +5521 995275800",
@@ -161,17 +172,6 @@
     "validTill": "25 Jun 2025",
     "ageInYears": 4,
     "dimensions": "46.5 x 62 x 72.2",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "146622",
-    "name": "4-drawer file cabinet",
-    "description": "4-drawer file cabinet",
-    "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-    "validTill": "25 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": "46.7 x 62 x 132.2",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -297,17 +297,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "146562",
-    "name": "Single ikea mattress",
-    "description": "2 Single size mattresses to donate",
-    "location": null,
-    "validTill": "30 Jun 2025",
-    "ageInYears": 1,
-    "dimensions": "80 x 200",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "146654",
     "name": "Dressing Table",
     "description": "Dressing table",
@@ -359,17 +348,6 @@
     "validTill": "21 Jun 2025",
     "ageInYears": 4,
     "dimensions": "L/W/H - 100/74/75 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "146520",
-    "name": "Study table and chair",
-    "description": "Study table with drawer and a mid-shelf.\nCommon Chair.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "15 Jul 2025",
-    "ageInYears": 2,
-    "dimensions": "80cm x 60cm x 74cm (L x D x H)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -489,17 +467,6 @@
     "description": "Study table with drawer. Small scruff on edges due to aging",
     "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
     "validTill": "30 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "146569",
-    "name": "Hospital bed",
-    "description": "Hospital bed which can be raised or lowered as well as be incluned",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "02 Jul 2025",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -946,17 +913,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "146660",
-    "name": "Hospital Bed and Wheelchair",
-    "description": "Hospital Bed and Wheelchair, as good as new.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "18 Jul 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "146590",
     "name": "Walking Frame",
     "description": "3 Walking Frame for blessing. In good condition. Please arrange own transport to collect the items.",
@@ -975,17 +931,6 @@
     "validTill": "17 Jul 2025",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "146565",
-    "name": "Wheelchair",
-    "description": "Wheelchair with detachable armrest",
-    "location": "Balestier, Toa Payoh",
-    "validTill": "30 Jun 2025",
-    "ageInYears": 3,
-    "dimensions": "W55 x D94 × H91 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
@@ -1056,17 +1001,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "145887",
-    "name": "Hospital bed",
-    "description": "In working condition. Comes with pressure relief air mattress",
-    "location": null,
-    "validTill": "25 Jun 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "145840",
     "name": "Walking stick",
     "description": "Walking stick with narrow base. Need to change the holding pad.",
@@ -1128,17 +1062,6 @@
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
     "validTill": "30 Nov 2025",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "146568",
-    "name": "Hospital bed with moving air mattress",
-    "description": "A good hospital bed which comes with a moving air mattress and a table on wheels",
-    "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-    "validTill": "30 Jun 2025",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
