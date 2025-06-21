@@ -4811,17 +4811,6 @@
   ],
   "offers": [
     {
-      "id": "146749",
-      "name": "walking shoes",
-      "description": "walking shoes",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "21 Jul 2025",
-      "ageInYears": 1,
-      "dimensions": "US8",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Attires/Clothings"
-    },
-    {
       "id": "146585",
       "name": "Clothes Hangers, Plastic from IKEA",
       "description": "Almost brand new IKEA clothes hanger. Material Polypropylene plastic (min. 20% recycled). This hanger is perfect for trousers, shirts and skirts. It takes up less space than wooden hangers. About 100 pieces available.",
@@ -4886,6 +4875,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "146753",
+      "name": "cabinet",
+      "description": "BILLY / OXBERG X 5set\nBookcase with doors, white, 80x30x30 cm",
+      "location": "Boon Lay, Jurong, Tuas",
+      "validTill": "21 Jul 2025",
+      "ageInYears": 1,
+      "dimensions": "80x30x30 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "146751",
