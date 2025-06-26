@@ -142,6 +142,24 @@
       "date": "26 May 2025"
     },
     {
+      "id": "146892",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "A family with three young children, residing in a rental flat, has requested a refrigerator as their current one is faulty. Please note that the refrigerator need to be halal.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Yew Tee",
+        "name": "Sherlyn Chan",
+        "email": "sherlynchan@fycs.org",
+        "phone": [
+          "64162183",
+          "64162162"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jun 2025"
+    },
+    {
       "id": "146891",
       "category": "Electrical Home Appliances",
       "name": "Microwave",
@@ -3261,6 +3279,78 @@
       "date": "26 May 2025"
     },
     {
+      "id": "146896",
+      "category": "Home Furnishing",
+      "name": "New Super Single Mattress",
+      "description": "Family will have 3 young kids and 1 teenager living with 2 adults and need one new super single mattress for teenager.",
+      "specifications": "Super single",
+      "contact": {
+        "org": "New Life Stories Limited",
+        "name": "Radiant Chua",
+        "email": "radiant@newlifestories.org.sg",
+        "phone": [
+          "88761852",
+          "63867688"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jun 2025"
+    },
+    {
+      "id": "146895",
+      "category": "Home Furnishing",
+      "name": "New Queen-sized Mattress",
+      "description": "Family needs to accommodate two kids under 2 moving in soon, as grandma requires new mattress as she feels used mattress may not be suitable for young children",
+      "specifications": "Queen-size",
+      "contact": {
+        "org": "New Life Stories Limited",
+        "name": "Radiant Chua",
+        "email": "radiant@newlifestories.org.sg",
+        "phone": [
+          "88761852",
+          "63867688"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jun 2025"
+    },
+    {
+      "id": "146894",
+      "category": "Home Furnishing",
+      "name": "Super Single Bed Frame",
+      "description": "Family needs to accommodate two kids under 2 moving in soon. Grandma is currently sole caregiver. Teenager currently sleeps on the floor and needs a bed.",
+      "specifications": "Super Single",
+      "contact": {
+        "org": "New Life Stories Limited",
+        "name": "Radiant Chua",
+        "email": "radiant@newlifestories.org.sg",
+        "phone": [
+          "88761852",
+          "63867688"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jun 2025"
+    },
+    {
+      "id": "146893",
+      "category": "Home Furnishing",
+      "name": "Queen-Sized Bed",
+      "description": "Family needs to accommodate two kids under 2 moving in soon. Grandma is currently sole caregiver.",
+      "specifications": "Queen Sized",
+      "contact": {
+        "org": "New Life Stories Limited",
+        "name": "Radiant Chua",
+        "email": "radiant@newlifestories.org.sg",
+        "phone": [
+          "88761852",
+          "63867688"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Jun 2025"
+    },
+    {
       "id": "146886",
       "category": "Home Furnishing",
       "name": "Mattress (Single-size)",
@@ -5254,6 +5344,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "146899",
+      "name": "HOME PROUD WALL FAN",
+      "description": "Wall fan still in good working condition except for some light rust on fan guard. Comes with the wall bracket.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "26 Jul 2025",
+      "ageInYears": 4,
+      "dimensions": "18 inches",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "146887",
       "name": "Single bed and mattress",
       "description": "Single bed with mattress",
@@ -5780,6 +5881,39 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "146900",
+      "name": "Commode Chair",
+      "description": "Commode on wheels and come with a portable toilet pot and shower seat",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "26 Jul 2025",
+      "ageInYears": 1,
+      "dimensions": "L-52cm / D-68cm / H-98cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "146898",
+      "name": "Geriatric Chair with a removable tray table",
+      "description": "Detachable tray table.  Locked / unlocked wheels",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "26 Jul 2025",
+      "ageInYears": 1,
+      "dimensions": "L-69cm / D-80cm / H-118cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "146897",
+      "name": "Geriatric Chair with a removable tray table",
+      "description": "This commode chair has wheels and comes with a portable toilet pot and shower seat",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "26 Jul 2025",
+      "ageInYears": 1,
+      "dimensions": "L-52cm / D-58cm / H-98cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "146763",
