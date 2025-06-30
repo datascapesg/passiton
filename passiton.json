@@ -1,24 +1,6 @@
 {
   "requests": [
     {
-      "id": "147026",
-      "category": "Electrical Home Appliances",
-      "name": "Standing Fan",
-      "description": "Senior is a 86-year old widowed senior who is currently staying alone with limited social support after the recent passing of his son. Senior has limited finances and presently has no standing fans at her unit. Please reach out to Ms. Lin at 9846 7229 if you are keen to donate! Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Senior Services Ltd",
-        "name": "Lin Hong Yue",
-        "email": "linhongyue@carecorner.org.sg",
-        "phone": [
-          "62586601",
-          "62536979"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 Jun 2025"
-    },
-    {
       "id": "147022",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -5533,6 +5515,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
+    },
+    {
+      "id": "147040",
+      "name": "mattress",
+      "description": "Always used with a Mattress Cover so the mattress is clean and in good condition.",
+      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+      "validTill": "30 Jul 2025",
+      "ageInYears": 4,
+      "dimensions": "195cm x120 x 20",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "147039",
