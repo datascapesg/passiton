@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "147077",
+      "category": "Electrical Home Appliances",
+      "name": "Standing fan",
+      "description": "Client is a senior suffering from multiple conditions including cancer, she would like to have a standing fan as her current one has broken down",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Singapore's Active Ageing Centre @ Ang Mo Kio 469",
+        "name": "Kei Ng",
+        "email": "ngkhuankungkei@allkin.org.sg",
+        "phone": [
+          "64510898"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Jul 2025"
+    },
+    {
       "id": "147063",
       "category": "Electrical Home Appliances",
       "name": "Table top stove",
@@ -1544,6 +1561,57 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "02 Jun 2025"
+    },
+    {
+      "id": "147071",
+      "category": "Infant and Children Items",
+      "name": "Baby bath tub",
+      "description": "Client (F/37) is the primary caregiver to 5 young children (aged 5 to 14) and is currently expecting her 6th child, with an EDD in November 2025. The family is not receiving financial assistance from SSO. Due to health complications resulting in a high-risk pregnancy, client is currently unemployed and required to remain on strict rest. Her husband undertakes various ad-hoc contract jobs to support the family's basic needs, though income remains irregular and insufficient. Client would benefit greatly from donations of pre-loved or new baby bottles in good condition to help prepare for the arrival of the newborn.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Regine Yeo",
+        "email": "regine.yeo@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Jul 2025"
+    },
+    {
+      "id": "147070",
+      "category": "Infant and Children Items",
+      "name": "Baby bottle",
+      "description": "Client (F/37) is the primary caregiver to 5 young children (aged 5 to 14) and is currently expecting her 6th child, with an EDD in November 2025. The family is not receiving financial assistance from SSO. Due to health complications resulting in a high-risk pregnancy, client is currently unemployed and required to remain on strict rest. Her husband undertakes various ad-hoc contract jobs to support the family's basic needs, though income remains irregular and insufficient. Client would benefit greatly from donations of pre-loved or new baby bottles in good condition to help prepare for the arrival of the newborn.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Regine Yeo",
+        "email": "regine.yeo@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Jul 2025"
+    },
+    {
+      "id": "147069",
+      "category": "Infant and Children Items",
+      "name": "Adjustable baby cot with mattress",
+      "description": "Client (F/24) is a young mom and full-time primary caregiver to 3 young children (F/5) and (M/4) and (F/2). She is currently pregnant with her 4th child and expecting in January 2026. The family is relying on SSO financial assistance to meet their needs as client's spouse (M/30) recently lost his job. Client is unable to afford purchasing baby necessities with her family's limited income. She was previously working part-time but is unable to continue due to the physical demands.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Regine Yeo",
+        "email": "regine.yeo@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Jul 2025"
     },
     {
       "id": "147067",
@@ -5691,6 +5759,39 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "147076",
+      "name": "TV console and coffee table",
+      "description": "TV console and coffee table (donating the TV if needed)",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "15 Jul 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "147074",
+      "name": "Wardrobe",
+      "description": "2-doors wardrobe with top cabinet.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "15 Jul 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "147073",
+      "name": "Kitchen Rack",
+      "description": "Wooden rack for kitchen use.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "15 Jul 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "147064",
       "name": "Single Mattress 80 x 200",
       "description": "Used Single ikea mattress 80 x 200 cm",
@@ -5819,6 +5920,17 @@
       "validTill": "10 Jul 2025",
       "ageInYears": 4,
       "dimensions": "180x100",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "147075",
+      "name": "Black sofa",
+      "description": "3 seater black sofa",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "22 Jul 2025",
+      "ageInYears": 2,
+      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -5966,6 +6078,17 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "147072",
+      "name": "Drawer Storage Unit",
+      "description": "Wooden 5 tiers drawer for storage of children's items",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "15 Jul 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
       "id": "147068",
       "name": "Kids table and chair, storage drawer",
       "description": "Ikea kid's table\nIkea kid's wooden chairs (02)\nPlastic 5-tiers storage drawer for toys.",
@@ -5983,17 +6106,6 @@
       "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
       "validTill": "30 Jul 2025",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "147008",
-      "name": "Baby Cot and Mattress",
-      "description": "Baby Cot and Mattress + 2 x sheets and 2 x mattress protectors. Must be collected before Thurs",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "19 Jul 2025",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
