@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "147077",
-      "category": "Electrical Home Appliances",
-      "name": "Standing fan",
-      "description": "Client is a senior suffering from multiple conditions including cancer, she would like to have a standing fan as her current one has broken down",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Singapore's Active Ageing Centre @ Ang Mo Kio 469",
-        "name": "Kei Ng",
-        "email": "ngkhuankungkei@allkin.org.sg",
-        "phone": [
-          "64510898"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Jul 2025"
-    },
-    {
       "id": "147063",
       "category": "Electrical Home Appliances",
       "name": "Table top stove",
@@ -4253,24 +4236,6 @@
       "date": "26 Jun 2025"
     },
     {
-      "id": "146894",
-      "category": "Home Furnishing",
-      "name": "Super Single Bed Frame",
-      "description": "Family needs to accommodate two kids under 2 moving in soon. Grandma is currently sole caregiver. Teenager currently sleeps on the floor and needs a bed.",
-      "specifications": "Super Single",
-      "contact": {
-        "org": "New Life Stories Limited",
-        "name": "Radiant Chua",
-        "email": "radiant@newlifestories.org.sg",
-        "phone": [
-          "88761852",
-          "63867688"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Jun 2025"
-    },
-    {
       "id": "146893",
       "category": "Home Furnishing",
       "name": "Queen-Sized Bed",
@@ -5773,6 +5738,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "147085",
+      "name": "White side console",
+      "description": "Not covering delivery charges, self-collection only.",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "20 Jul 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "147080",
