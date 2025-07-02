@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "147127",
+      "category": "Infant and Children Items",
+      "name": "Car Seat",
+      "description": "A teen mother faced an unplanned pregnancy and experiencing emotional vulnerability. Her parents have encouraged her to seek counselling and engage in activities to support her mental well-being. She has shown a sense of responsibility, having cared for her younger siblings in the past, which strengthened her family bonds.\n\nReceiving donated baby items like care seat, will help ease her financial burden, reduce stress, and support her as she prepares for motherhood.",
+      "specifications": null,
+      "contact": {
+        "org": "Babes Pregnancy Crisis Support Ltd",
+        "name": "Nur Ixora Amyra",
+        "email": "ixora@babes.org.sg",
+        "phone": [
+          "62066641",
+          "66648591"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Jul 2025"
+    },
+    {
       "id": "147117",
       "category": "Infant and Children Items",
       "name": "Tena Pants XL",
@@ -1033,23 +1051,6 @@
         "phone": [
           "64162177",
           "64162162"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Jun 2025"
-    },
-    {
-      "id": "146573",
-      "category": "Infant and Children Items",
-      "name": "Pram/Stroller",
-      "description": "Famly consists of client who is single working mother with 4 young children. Client is in need of a pram as the current pram is worn out and also too small for her 1.5yr old. Having a pram will ease her travelling worries when she goes out with her 4 children",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Punggol 616",
-        "name": "Mohd Fadil Bin Hassan",
-        "email": "mohdfadil@allkin.org.sg",
-        "phone": [
-          "60384140"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -6260,6 +6261,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Leisure and Healthy Lifestyle"
+    },
+    {
+      "id": "147126",
+      "name": "Used Computer (Desktop) / Monitor Included",
+      "description": "Computer age is 10 years old, but has been mostly unused in storage with no wear and tear. I have recently checked and refurbished to ensure good working condition. Comes with basic Windows 10 + Microsoft Office suitable for kids to complete homework / access internet for learning at home or for jobseekers at home / elderly. \n\nWill include a monitor screen, and can buy a new set of keyboard/mouse for the user (for hygiene). If this is for kids and would require a webcam for virtual e-learning or a wifi card for the desktop (in case the home does not have wired internet) that can be arranged as well. \n\nAll they need is a working space, and 2 power plugs for both the computer and monitor.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "01 Aug 2025",
+      "ageInYears": 4,
+      "dimensions": "440 mm (L) × 180 mm (W) × 352 mm (H)",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Learning Aids"
     },
     {
       "id": "147111",
