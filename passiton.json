@@ -1,24 +1,6 @@
 {
   "requests": [
     {
-      "id": "147191",
-      "category": "Infant and Children Items",
-      "name": "Baby Cot",
-      "description": "Low-income family of 3 with a toddler staying in rental flat require a baby cot for impending giving birth of 2nd child in August. Wife is unable to work due to pregnancy and husband is unable to commit to normal working hours due to caregiving needs of the wife and young child. Financial of family is too tight to spare for a baby cot. Would appreciate if help is provided in the form a baby cot so that newborn baby has a suitable place to rest.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Jurong",
-        "name": "Shree Ganga D/O Rajasagran",
-        "email": "ShreeGanga@thkmc.org.sg",
-        "phone": [
-          "88333080",
-          "67169466"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Jul 2025"
-    },
-    {
       "id": "147187",
       "category": "Infant and Children Items",
       "name": "MamyPoko Extra Dry Pants and Dugro stage 3 milk powder",
@@ -4363,24 +4345,6 @@
       "date": "25 Jun 2025"
     },
     {
-      "id": "146864",
-      "category": "Home Furnishing",
-      "name": "Chairs/small sofa",
-      "description": "A young family with limited support and no involvement from extended family members. The mother recently began working earlier this year but had to leave her job due to caregiving responsibilities. The father works as a food delivery rider. The family is experiencing financial hardship, and their home is minimally furnished. \n\nWithout a proper kitchen, they have been preparing meals on top of their washing machine using a portable stove. Due to the lack of cabinets or tables, electrical appliances are placed directly on the floor. Additionally, there is no adequate storage for kitchen tools such as scissors and knives. The absence of safe storage and a designated space presents a safety risk for their child.",
-      "specifications": "To be discussed",
-      "contact": {
-        "org": "Fei Yue Community Services",
-        "name": "Cherleen Chua",
-        "email": "cherleenchua@fycs.org",
-        "phone": [
-          "85013070",
-          "63809169"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Jun 2025"
-    },
-    {
       "id": "146853",
       "category": "Home Furnishing",
       "name": "Foldable Dining table",
@@ -5650,6 +5614,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "147205",
+      "name": "Sofa",
+      "description": "2 seater sofa and ottoman. Scratched by cats, but clean and comfy",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "09 Jul 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "147200",
       "name": "Sofa",
       "description": "Sofa",
@@ -5912,6 +5887,39 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "147207",
+      "name": "Changing Table",
+      "description": "Baby changing table with shelf storage below.",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "09 Jul 2025",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "147206",
+      "name": "Cot",
+      "description": "Baby cot from Mothercare with three different heights and movable sides.",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "09 Jul 2025",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "147204",
+      "name": "Pediasure Gold with PeptiGro Ready-to-Drink - Classic Vanilla, 24 x 220ml",
+      "description": "Bought milk wrongly for a beneficiary. Only opened carton to show them once. Giving away for free. Will either send directly on my own on weekends or weekdays evening.",
+      "location": null,
+      "validTill": "31 Jul 2025",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "147203",
