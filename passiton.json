@@ -335,24 +335,6 @@
       "date": "29 Jun 2025"
     },
     {
-      "id": "146983",
-      "category": "Infant and Children Items",
-      "name": "Milk Powder",
-      "description": "Retired grandfather managing the care of his 2 young grandchildren who's single mum is incarcerated, needs support in milk powder for the youngest 2 years old grandchild. Delivery services to be covered.\nFor more information, please contact Radiant at 8876 1852 or radiant@newlifestories.org.sg. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "New Life Stories Limited",
-        "name": "Radiant Chua",
-        "email": "radiant@newlifestories.org.sg",
-        "phone": [
-          "88761852",
-          "63867688"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Jun 2025"
-    },
-    {
       "id": "146965",
       "category": "Infant and Children Items",
       "name": "milk powders (any brand suitable for 3-year-old)",
@@ -3275,24 +3257,6 @@
       "date": "29 Jun 2025"
     },
     {
-      "id": "146946",
-      "category": "Home Furnishing",
-      "name": "Mattress",
-      "description": "Family of 3 just shifted to a rental flat in Yishun and has no proper furniture in the house.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Yishun",
-        "name": "Edwin Wee",
-        "email": "edwin_kh_wee@msf.gov.sg",
-        "phone": [
-          "62319460",
-          "18002220000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Jun 2025"
-    },
-    {
       "id": "146917",
       "category": "Home Furnishing",
       "name": "Two Seater Sofa Chair",
@@ -5385,6 +5349,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "147212",
+      "name": "Single sized Bedframe",
+      "description": "Single sized bedframe without mattress. Storage drawer below bed.\n12 years old but still sturdy.\nFloor to mattress base is Abt 35cm. Floor to top of headboard is Abt 81cm.\nAvailable from 31 Jul.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "04 Aug 2025",
+      "ageInYears": 4,
+      "dimensions": "210cm x 98cm x 81cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "147211",
+      "name": "Dining chairs x 4",
+      "description": "4 x dining chairs.\n6 years old, but seldom used.\nSeat height = 46cm; back height = 85cm",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "04 Aug 2025",
+      "ageInYears": 4,
+      "dimensions": "56cm x 47cm x 85cm (D x W x H)",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "147209",
