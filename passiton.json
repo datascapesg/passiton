@@ -1954,24 +1954,6 @@
       "date": "01 Jul 2025"
     },
     {
-      "id": "147055",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine (8kg to 10kg)",
-      "description": "Nuclear family of five consists of parents and three young children aged between 1 and 3 years old. They are currently facing the need to replace their damaged washing machine. The father serves as the primary breadwinner, working as a platform/gig worker, whilst the mother contributes to the household income through part-time cleaning work.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
-        "name": "Ken Toh",
-        "email": "ken_zq_toh@msf.gov.sg",
-        "phone": [
-          "62319385",
-          "64244017"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Jul 2025"
-    },
-    {
       "id": "147052",
       "category": "Electrical Home Appliances",
       "name": "Portable aircon",
@@ -3115,6 +3097,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "06 Jun 2025"
+    },
+    {
+      "id": "147241",
+      "category": "Home Furnishing",
+      "name": "Desk with shelf",
+      "description": "A low-income family of three, with a father who is unemployed due to a chronic condition and a primary school–going child, requires a desk with a shelf for everyday use.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Jocelyn Joy Gwee",
+        "email": "Jocelyn@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Jul 2025"
+    },
+    {
+      "id": "147240",
+      "category": "Home Furnishing",
+      "name": "Cupboard Organizers/Drawers",
+      "description": "A low-income family of three, with a father who is unemployed due to a chronic condition and a primary school–going child, requires 3 drawers/organizers to help keep their household items organized.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Jocelyn Joy Gwee",
+        "email": "Jocelyn@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Jul 2025"
     },
     {
       "id": "147238",
@@ -5157,6 +5173,23 @@
       "date": "09 Jun 2025"
     },
     {
+      "id": "147243",
+      "category": "Attires/Clothings",
+      "name": "Clothes",
+      "description": "A lower-income family of six, consisting of a single mother and five school-going children, requires size S/M male clothing for the eldest child, an 11-year-old boy. Shirts and bottoms are needed.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Jocelyn Joy Gwee",
+        "email": "Jocelyn@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Jul 2025"
+    },
+    {
       "id": "146933",
       "category": "Attires/Clothings",
       "name": "Clothes - 6/7 year old - Girl",
@@ -5680,7 +5713,7 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "146990",
+      "id": "147242",
       "name": "Fabric sofa bed",
       "description": "Approx 2 to 3 seater fabric sofa bed. Well maintained but some stains are quite stubborn. Can use a sofa cover to cover 📔 t up.",
       "location": "little India",
@@ -6030,6 +6063,17 @@
       "dimensions": "440 mm (L) × 180 mm (W) × 352 mm (H)",
       "deliveryCostsCoveredByDonor": true,
       "category": "Learning Aids"
+    },
+    {
+      "id": "147239",
+      "name": "Blood glucose machine and test strips",
+      "description": "Blood glucose machine, with brand new, unused test strips\n\nPlease self-collect at Yishun",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "06 Aug 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
     },
     {
       "id": "147224",
