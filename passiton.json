@@ -1781,24 +1781,6 @@
       "date": "03 Jul 2025"
     },
     {
-      "id": "147144",
-      "category": "Electrical Home Appliances",
-      "name": "TV",
-      "description": "Client is a 24-year-old mother residing with her husband and 2 daughters (1 year old and 2 months old) in a 2-room rental flat. Client is main caregiver for children, while husband is working as a food deliverer. They have just moved in, and hence require lots of furniture that they cannot afford.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
-        "name": "Vanessa Ong",
-        "email": "vanessa_ong@msf.gov.sg",
-        "phone": [
-          "63549538",
-          "64244017"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Jul 2025"
-    },
-    {
       "id": "147143",
       "category": "Electrical Home Appliances",
       "name": "Portable Aircon",
@@ -4554,24 +4536,6 @@
       "date": "09 Jun 2025"
     },
     {
-      "id": "147220",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "Senior requires a wheelchair as her mobility has recently declined due to osteoarthritis in her knees, pending knee replacement surgery. She would benefit from a wheelchair to use during her medical appointments as her current wheelchair is spoiled and need replacing.",
-      "specifications": null,
-      "contact": {
-        "org": "THK CREST @ Tanjong Pagar-Tiong Bahru",
-        "name": "Nur Dinie Izzati Binte Yaziz",
-        "email": "NurDinie.Izzati@thkmc.org.sg",
-        "phone": [
-          "69240367",
-          "69242951"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Jul 2025"
-    },
-    {
       "id": "147162",
       "category": "Mobility Aids",
       "name": "Motorised Wheelchair with Attendant Control",
@@ -5552,6 +5516,39 @@
       "dimensions": "Height 115cm. Base 32cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "147253",
+      "name": "Single bed mattresses and bed frame x2",
+      "description": "Black bed frame single size also comes with mattress. Have 2 sets. It is dismantled. Used less than 2 years",
+      "location": null,
+      "validTill": "31 Jul 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "147252",
+      "name": "Seating for 4-5 persons + storage",
+      "description": "Seating for 4-5 persons and can double up as much needed storage for anything",
+      "location": "Boon Lay, Jurong, Tuas",
+      "validTill": "16 Jul 2025",
+      "ageInYears": 4,
+      "dimensions": "L207 x H54 x D49",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "147251",
+      "name": "cupboard",
+      "description": "sturdy storage",
+      "location": "Boon Lay, Jurong, Tuas",
+      "validTill": "16 Jul 2025",
+      "ageInYears": 4,
+      "dimensions": "h201 x w90 x d40",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "147229",
