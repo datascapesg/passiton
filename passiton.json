@@ -1,24 +1,6 @@
 {
   "requests": [
     {
-      "id": "147260",
-      "category": "Infant and Children Items",
-      "name": "Stroller",
-      "description": "Family of 6 requires support with a baby stroller for their 1 year old child as their current stroller is faulty.",
-      "specifications": "NA",
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "R Sharmila Shay",
-        "email": "sharmila.shay@montfortcare.org.sg",
-        "phone": [
-          "91390677",
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Jul 2025"
-    },
-    {
       "id": "147256",
       "category": "Infant and Children Items",
       "name": "6x XL Diapers (12-17kg)",
@@ -1569,6 +1551,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "09 Jun 2025"
+    },
+    {
+      "id": "147279",
+      "category": "Electrical Home Appliances",
+      "name": "Standing Fan",
+      "description": "single elder require standing fan due to hot weather.",
+      "specifications": "NA",
+      "contact": {
+        "org": "Tsao Foundation - Hua Mei Clinic",
+        "name": "Ryan Sim",
+        "email": "ryansim@tsaofoundation.org",
+        "phone": [
+          "65939576",
+          "66619545"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Jul 2025"
     },
     {
       "id": "147273",
@@ -5301,6 +5301,23 @@
       "date": "13 Jun 2025"
     },
     {
+      "id": "147281",
+      "category": "Leisure and Healthy Lifestyle",
+      "name": "Handphone",
+      "description": "Single mother of 1 daughter looking for a second hand mobile phone as a spare phone as her spare phone spoiled.",
+      "specifications": "NIL",
+      "contact": {
+        "org": "RiverLife Community Services Ltd",
+        "name": "Vivian Lip-Yeo",
+        "email": "vivian@rcs.org.sg",
+        "phone": [
+          "63125963"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "08 Jul 2025"
+    },
+    {
       "id": "147156",
       "category": "Leisure and Healthy Lifestyle",
       "name": "Dehumidifier",
@@ -6139,6 +6156,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "147280",
+      "name": "Wheelchair (push chair)",
+      "description": "Last used in Dec-2024. Still in good condition. Relatively lightweight but sturdy.\nWheels replaced in Apr-2023.",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "07 Aug 2025",
+      "ageInYears": 4,
+      "dimensions": "see last image for dimensions",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "147208",
