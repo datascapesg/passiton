@@ -649,6 +649,28 @@
     "category": "Medical Aids"
   },
   {
+    "id": "147385",
+    "name": "Hospital Bed",
+    "description": "Hospital Bed",
+    "location": null,
+    "validTill": "12 Aug 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "147384",
+    "name": "Wheelchair",
+    "description": "Wheelchair",
+    "location": null,
+    "validTill": "12 Aug 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "147208",
     "name": "Hospital Bed",
     "description": "Still in good working condition it comes with air mattress.",
