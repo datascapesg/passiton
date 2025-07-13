@@ -1156,23 +1156,6 @@
       "date": "13 Jun 2025"
     },
     {
-      "id": "144432",
-      "category": "Infant and Children Items",
-      "name": "Baby Diaper Pants XL",
-      "description": "Young family with 21-month baby. They have limited family support and the father is trying to get a full-time job. \n\nBaby is using diaper pants XL size and any donation will help.",
-      "specifications": null,
-      "contact": {
-        "org": "Cornerstone Community Services",
-        "name": "Esther Yeo",
-        "email": "case@cornerstoneservices.org.sg",
-        "phone": [
-          "63448063"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "12 Jun 2025"
-    },
-    {
       "id": "147366",
       "category": "Electrical Home Appliances",
       "name": "Fridge",
@@ -2345,24 +2328,6 @@
       "date": "16 Jun 2025"
     },
     {
-      "id": "146459",
-      "category": "Electrical Home Appliances",
-      "name": "Water Heater",
-      "description": "Client (F25) just moved into her rental flat with her husband & 2 children (F2, M1). Husband is waiting to be sentenced but is still working, barely to support the family. They are unable to afford water heater and kids have been bathing in cold water.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Geylang Seri",
-        "name": "Ashikin Hazlan",
-        "email": "ashikin_hazlan@msf.gov.sg",
-        "phone": [
-          "62319440",
-          "62438753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Jun 2025"
-    },
-    {
       "id": "147274",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -2574,23 +2539,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Jun 2025"
-    },
-    {
-      "id": "146478",
-      "category": "Learning Aids",
-      "name": "Laptop",
-      "description": "Client is estranged from his family and does not receive any support from them. He has limited work experience, existing medical conditions, and minimal savings. He requires a laptop to attend online courses and to aid with job search.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore After Care Association",
-        "name": "Lin Mingjie",
-        "email": "mingjie@saca.org.sg",
-        "phone": [
-          "62942350"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Jun 2025"
     },
     {
       "id": "144835",
@@ -4415,6 +4363,28 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "147389",
+      "name": "Washing machine",
+      "description": "Used but in good condition",
+      "location": null,
+      "validTill": "12 Aug 2025",
+      "ageInYears": 4,
+      "dimensions": "55cm x 59cm x 85cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "147388",
+      "name": "Fridge",
+      "description": "Used but in very good condition",
+      "location": null,
+      "validTill": "12 Aug 2025",
+      "ageInYears": 4,
+      "dimensions": "64cm x 64cm x 167cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "147326",
       "name": "Airleo mobile cooling device",
       "description": "Used items",
@@ -4446,6 +4416,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "147387",
+      "name": "32L Storage Box/ Cabinet",
+      "description": "10 Multi-purpose white Storage box/cabinet that can be used as wardrobe storing clothes or any other items. Stackable and configurable according to needs. Good condition.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "31 Jul 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "147383",
