@@ -55,6 +55,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "147404",
+    "name": "Small wardrobe",
+    "description": "More than 10 yrs old but still functional",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "13 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "56cm x 102cm x 171cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "147383",
     "name": "Double Decker Bed - Metal",
     "description": "Good condition. Please ignore the items on the bed. Dimensions are approximate, basically single bed double decker. I can measure again if keen. More pictures are available upon request.",
@@ -84,17 +95,6 @@
     "validTill": "11 Aug 2025",
     "ageInYears": 2,
     "dimensions": "H: 65- 95cm, L:65 cm W:40cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "147377",
-    "name": "Black leather lounge chair and mattress",
-    "description": "Black leather lounge chair and mattress",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "11 Aug 2025",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -572,6 +572,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "147403",
+    "name": "Aspirator",
+    "description": "Good condition. Hardly used.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "13 Aug 2025",
+    "ageInYears": 3,
+    "dimensions": "30cm x 17cm x 19cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "147401",
     "name": "Portable patient hoist",
     "description": "For transfer of patient between bed and chair",
@@ -658,6 +669,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "147402",
+    "name": "Geriatric chair",
+    "description": "Around 10 years old but still functional",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "13 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "104cm x 67cm x 120cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "147385",
