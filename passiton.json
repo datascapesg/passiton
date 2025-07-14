@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "147412",
+      "category": "Infant and Children Items",
+      "name": "Milk powder and diapers",
+      "description": "Client is welcoming a baby in Aug/Sept and is hoping to get some essentials in preperation to welcome her 4th child. Family does not have preference on brands. Husband is the sole breadwinner of family that earns only around $2k per month to support family of 6. Should you have any suitable items please WhatsApp me at 6843 9619. Thank you!",
+      "specifications": "Newborn",
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Han Wen Ting",
+        "email": "hanwenting@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Jul 2025"
+    },
+    {
       "id": "147370",
       "category": "Infant and Children Items",
       "name": "Twin stroller (Preferably side by side)",
@@ -512,23 +529,6 @@
       "id": "146965",
       "category": "Infant and Children Items",
       "name": "milk powders (any brand suitable for 3-year-old)",
-      "description": "The mother is currently unemployed with no income, and the father works as a Grab driver with an unstable income. They have three young children aged 5 years, 3 years, and 5 months.\nThe mother has been diagnosed with anxiety and depression, which adds to the daily stress of caregiving. The family is in urgent need of support with basic essentials such as milk powder",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Sengkang 223D",
-        "name": "Syamirul Azim",
-        "email": "syamirulazim@allkin.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "27 Jun 2025"
-    },
-    {
-      "id": "146964",
-      "category": "Infant and Children Items",
-      "name": "Abbott grow stage 1",
       "description": "The mother is currently unemployed with no income, and the father works as a Grab driver with an unstable income. They have three young children aged 5 years, 3 years, and 5 months.\nThe mother has been diagnosed with anxiety and depression, which adds to the daily stress of caregiving. The family is in urgent need of support with basic essentials such as milk powder",
       "specifications": null,
       "contact": {
@@ -4684,17 +4684,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "147323",
-      "name": "Green Divan Bed Frame (Single Size)",
-      "description": "Green Divan Bed Frame (Single Size)\n\nDimensions: 201cm (L) × 92cm (W) x 121cm (H)",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "09 Aug 2025",
-      "ageInYears": 3,
-      "dimensions": "201cm (L) × 92cm (W) x 121cm (H)",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "147254",
       "name": "Console or seating for 4-5 persons + storage",
       "description": "sturdy storage to store things and can be for tv or seating for 4-5 persons too.",
@@ -4746,17 +4735,6 @@
       "validTill": "25 Jul 2025",
       "ageInYears": 4,
       "dimensions": "1mx1mx1m",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "147302",
-      "name": "2 single mattress with divan",
-      "description": "Good quality will last long time",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "01 Aug 2025",
-      "ageInYears": 3,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -5100,6 +5078,17 @@
       "dimensions": "51 cm (Length) × 59 cm (Width) × 125 cm (Height)",
       "deliveryCostsCoveredByDonor": true,
       "category": "Learning Aids"
+    },
+    {
+      "id": "147411",
+      "name": "New Tena pants diapers L size -4pks",
+      "description": "New. Free delivery to Yishun , Canberra & Sembawang only. Please arrange pick up for other areas.",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "13 Aug 2025",
+      "ageInYears": 1,
+      "dimensions": "L size",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
     },
     {
       "id": "147403",
