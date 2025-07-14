@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "147414",
+      "category": "Infant and Children Items",
+      "name": "Milk bottle",
+      "description": "Single mom who is 19 y/o has a 10 months old son. Her own mother has recently left home and thus she is supporting her younger siblings as well ranging from 7 to 17 years old. She will need assistance to purchase a new milk bottle for her son as the current one (milk cap) is spoilt. She is currently using Tommee Tippee brand.",
+      "specifications": "Tommee Tippee milk bottle",
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Gan Wan Lin",
+        "email": "wanlin.gan@reach.org.sg",
+        "phone": [
+          "68010735",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Jul 2025"
+    },
+    {
       "id": "147412",
       "category": "Infant and Children Items",
       "name": "Milk powder and diapers",
@@ -336,23 +354,6 @@
       "id": "147071",
       "category": "Infant and Children Items",
       "name": "Baby bath tub",
-      "description": "Client (F/37) is the primary caregiver to 5 young children (aged 5 to 14) and is currently expecting her 6th child, with an EDD in November 2025. The family is not receiving financial assistance from SSO. Due to health complications resulting in a high-risk pregnancy, client is currently unemployed and required to remain on strict rest. Her husband undertakes various ad-hoc contract jobs to support the family's basic needs, though income remains irregular and insufficient. Client would benefit greatly from donations of pre-loved or new baby bottles in good condition to help prepare for the arrival of the newborn.",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Regine Yeo",
-        "email": "regine.yeo@ppis.sg",
-        "phone": [
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Jul 2025"
-    },
-    {
-      "id": "147070",
-      "category": "Infant and Children Items",
-      "name": "Baby bottle",
       "description": "Client (F/37) is the primary caregiver to 5 young children (aged 5 to 14) and is currently expecting her 6th child, with an EDD in November 2025. The family is not receiving financial assistance from SSO. Due to health complications resulting in a high-risk pregnancy, client is currently unemployed and required to remain on strict rest. Her husband undertakes various ad-hoc contract jobs to support the family's basic needs, though income remains irregular and insufficient. Client would benefit greatly from donations of pre-loved or new baby bottles in good condition to help prepare for the arrival of the newborn.",
       "specifications": null,
       "contact": {
@@ -4113,23 +4114,6 @@
       "date": "19 Jun 2025"
     },
     {
-      "id": "147311",
-      "category": "Attires/Clothings",
-      "name": "Child Sandals",
-      "description": "A family of 2 includes a father and his 7 year old daughter who lives in a 2 room rental flat, where he is supporting the child on his own while his wife is incarcerated. He struggles with full time caregiving while working part time as he has to take care of her when she is home. He has challenges affording new pairs of sandals for the child and wishes for a new pair of sandals for her as she has outgrown her current sandals. A size 21 children sandals would fit her. \n\nFor further enquiries, please contact Juline at 8878 6411 or at juline@newlifestories.org.sg. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "New Life Stories Limited",
-        "name": "Juline Teng",
-        "email": "juline@newlifestories.org.sg",
-        "phone": [
-          "63867688"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Jul 2025"
-    },
-    {
       "id": "146933",
       "category": "Attires/Clothings",
       "name": "Clothes - 6/7 year old - Girl",
@@ -4519,6 +4503,17 @@
   ],
   "offers": [
     {
+      "id": "147413",
+      "name": "Maternity clothes",
+      "description": "I have about 15-20 pieces of maternity/nursing clothes in very good condition for donation. Size L-XL (US8-10).\n\nIncludes nursing tops, dressers and leggings.",
+      "location": null,
+      "validTill": "13 Aug 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Attires/Clothings"
+    },
+    {
       "id": "147288",
       "name": "ASICS Gel Nimbus 25 (Womens US 8.0)",
       "description": "ASICS Gel Nimbus 25 trainers bought from ASICS outlet 8 months back n used for jogging. Have done 300km on them but should be OK for another 400km running n indefinite walking (giving cos long runs rub my toe badly). Almost no wear on outsole. Always worn with socks, no smell n not dirty. Lost original insoles (had own orthopedics) but have replaced with Hoka insoles that fit well.",
@@ -4636,28 +4631,6 @@
       "validTill": "11 Aug 2025",
       "ageInYears": 4,
       "dimensions": "1.8m long",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "147368",
-      "name": "Solid Pine Wood Single Bed Frame",
-      "description": "Bed frame is still in mint condition. Will need someone to help with the dismantling of the bed frame.",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "01 Aug 2025",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "147343",
-      "name": "Recliner chair",
-      "description": "Giving away because its hardly used already.",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "10 Aug 2025",
-      "ageInYears": 1,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
