@@ -1314,24 +1314,6 @@
       "date": "14 Jul 2025"
     },
     {
-      "id": "147406",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Single mother and four children live in a public rental flat. She needs to replace her current machine which is starting to leak but has difficulty to afford a new one.",
-      "specifications": "Top load washing machine",
-      "contact": {
-        "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
-        "name": "Heriyati Kasmani",
-        "email": "heriyati_kasmani@msf.gov.sg",
-        "phone": [
-          "63550089",
-          "62957205"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Jul 2025"
-    },
-    {
       "id": "147398",
       "category": "Electrical Home Appliances",
       "name": "Paper Shredder",
@@ -4757,6 +4739,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "147433",
+      "name": "Single bed with mattress",
+      "description": "Wooden frame single bed with mattress",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "13 Aug 2025",
+      "ageInYears": 4,
+      "dimensions": "202cm x 101cm x 93cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "147404",
       "name": "Small wardrobe",
       "description": "More than 10 yrs old but still functional",
@@ -5208,6 +5201,17 @@
       "category": "Kitchen Utility Items"
     },
     {
+      "id": "147434",
+      "name": "Piano",
+      "description": "Upright piano",
+      "location": null,
+      "validTill": "31 Jul 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Leisure and Healthy Lifestyle"
+    },
+    {
       "id": "147327",
       "name": "Exercise equipment",
       "description": "Used",
@@ -5354,17 +5358,6 @@
       "id": "147385",
       "name": "Hospital Bed",
       "description": "Hospital Bed",
-      "location": null,
-      "validTill": "12 Aug 2025",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
-      "id": "147384",
-      "name": "Wheelchair",
-      "description": "Wheelchair",
       "location": null,
       "validTill": "12 Aug 2025",
       "ageInYears": 3,
