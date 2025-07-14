@@ -1139,6 +1139,23 @@
       "date": "13 Jun 2025"
     },
     {
+      "id": "147398",
+      "category": "Electrical Home Appliances",
+      "name": "Paper Shredder",
+      "description": "We are a Home for homeless people with psychiatric issues. Looking a paper shredder to shred our old documents in view of the current PDPA requirements. Any working one will do.",
+      "specifications": "Paper Shredder",
+      "contact": {
+        "org": "Jenaris Home",
+        "name": "Mervin Voon",
+        "email": "mervinvoon@jenaris.org.sg",
+        "phone": [
+          "64897642"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "14 Jul 2025"
+    },
+    {
       "id": "147397",
       "category": "Electrical Home Appliances",
       "name": "Water Heater with Pump",
@@ -4434,6 +4451,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "147399",
+      "name": "Philips LED TV",
+      "description": "Working condition. Dimensions include stand.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "13 Aug 2025",
+      "ageInYears": 4,
+      "dimensions": "25cm x 97cm x 63cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "147326",
       "name": "Airleo mobile cooling device",
       "description": "Used items",
@@ -4496,17 +4524,6 @@
       "validTill": "11 Aug 2025",
       "ageInYears": 2,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "147375",
-      "name": "Single bed and mattress",
-      "description": "In good condition with some scratches on the frame.",
-      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-      "validTill": "15 Jul 2025",
-      "ageInYears": 3,
-      "dimensions": "198 x 100 x 80cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -4982,6 +4999,28 @@
       "dimensions": "51 cm (Length) × 59 cm (Width) × 125 cm (Height)",
       "deliveryCostsCoveredByDonor": true,
       "category": "Learning Aids"
+    },
+    {
+      "id": "147401",
+      "name": "Portable patient hoist",
+      "description": "For transfer of patient between bed and chair",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "13 Aug 2025",
+      "ageInYears": 4,
+      "dimensions": "100cm x100cm x120cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
+    },
+    {
+      "id": "147400",
+      "name": "Hospital bed",
+      "description": "Electric bed still functional",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "13 Aug 2025",
+      "ageInYears": 4,
+      "dimensions": "210cm x 95cm x 70cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
     },
     {
       "id": "147386",
