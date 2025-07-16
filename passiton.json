@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "147508",
+      "category": "Infant and Children Items",
+      "name": "Playpen Cot/crib",
+      "description": "Client is in a low-income family with four young children. Client has multiple medical conditions, and the husband is currently unemployed as he is the main caregiver for both the client and their children. The family lives together in a small house with limited space, and as such there are concerns over the safety of the youngest child (aged 1) when it comes to having a safe sleeping space. Hence client is requesting for a playpen cot/crib, such that it offers a safe place for the baby, while being able to fit inside their small house with limited space.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services SSO @ Taman Jurong",
+        "name": "Soh Yong Sheng",
+        "email": "sohyongsheng@fycs.org",
+        "phone": [
+          "69783086",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Jul 2025"
+    },
+    {
       "id": "147503",
       "category": "Infant and Children Items",
       "name": "Breast pump",
@@ -1210,6 +1228,24 @@
       "date": "16 Jun 2025"
     },
     {
+      "id": "147509",
+      "category": "Electrical Home Appliances",
+      "name": "Electric Tabletop Induction Cooker Stove",
+      "description": "Client aged 55 is a single mother, staying with her 2 sons aged 24 and 15 who are currently serving NS and a full-time student. She is working as a kitchen assistant. Her induction cooking stove was no longer working and she needs a tabletop induction cooker to cook meals for her family.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Woodlands, Sembawang",
+        "name": "Eileen Chua",
+        "email": "chua_yi_ling@msf.gov.sg",
+        "phone": [
+          "67660341",
+          "67660097"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Jul 2025"
+    },
+    {
       "id": "147491",
       "category": "Electrical Home Appliances",
       "name": "TV",
@@ -1250,41 +1286,6 @@
       "name": "Small Alarm Clock",
       "description": "Elderly uncle 77 yrs old living in HDB rental flat needs small alarm clock similar to link below. The clock must be old type with long and short hands; not the digital type. Uncle has critical illness so is mostly stuckk at home. Many Thanks. https://www.lazada.sg/products/pdp-i2402358299.html.",
       "specifications": null,
-      "contact": {
-        "org": "Moral Active Ageing Centre @ Kaki Bukit",
-        "name": "Gary Tan",
-        "email": "garytan@chkmps.org.sg",
-        "phone": [
-          "64486247"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Jul 2025"
-    },
-    {
-      "id": "147475",
-      "category": "Electrical Home Appliances",
-      "name": "Washing machine",
-      "description": "Family is a household of 6 with 4 school-going children. Current washing machine broke down. Mother sustained hand injuries, has lost part of her income and may not be able to keep her job. Both parents are working in low income jobs and are unable to afford a new washing machine.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - GoodLife! @ Yishun",
-        "name": "Samuel Chan",
-        "email": "samuel.chan@montfortcare.org.sg",
-        "phone": [
-          "96423819",
-          "64848040"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Jul 2025"
-    },
-    {
-      "id": "147474",
-      "category": "Electrical Home Appliances",
-      "name": "Standing Fan (16 inches)",
-      "description": "Elderly uncle 91 yrs old living in HDB rental flat needs a standing fan. The fan must have simple push button controls. His current fan has stopped working. Many Thanks.",
-      "specifications": "16 inches",
       "contact": {
         "org": "Moral Active Ageing Centre @ Kaki Bukit",
         "name": "Gary Tan",
@@ -4330,24 +4331,6 @@
       "date": "15 Jul 2025"
     },
     {
-      "id": "147440",
-      "category": "Home Furnishing",
-      "name": "3 seater sofa",
-      "description": "The household currently comprises six members, and the client is pregnant, with an expected delivery date in August 2025. Her husband is the sole breadwinner, having only just secured employment. They recently received the keys to their new 3-room BTO flat.\n\nWhile the family is currently receiving financial assistance, this support is scheduled to end in September 2025, leaving them at risk of financial instability during a critical life transition.\n\nThe client has expressed difficulties in acquiring basic furniture and household appliances to set up their new residence. They are also some challenges in preparing for the arrival of their newborn, with limited resources to purchase essential baby items and supplies. (Isk)",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Low Kim Yong",
-        "email": "lowkimyong@thkmc.org.sg",
-        "phone": [
-          "81883314",
-          "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Jul 2025"
-    },
-    {
       "id": "147439",
       "category": "Home Furnishing",
       "name": "Bed with mattress",
@@ -5378,6 +5361,39 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "147507",
+      "name": "Table with 2 chairs",
+      "description": "In good condition",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "24 Jul 2025",
+      "ageInYears": 1,
+      "dimensions": "Standard",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "147506",
+      "name": "furnitures",
+      "description": "items in good condition n maintained although the seater is older than 4yrs. solid.",
+      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+      "validTill": "15 Aug 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "147505",
+      "name": "Study / Dining Table",
+      "description": "In good condition",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "24 Jul 2025",
+      "ageInYears": 1,
+      "dimensions": "Standard",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "147435",
