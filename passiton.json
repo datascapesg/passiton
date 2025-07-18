@@ -1,6 +1,57 @@
 {
   "requests": [
     {
+      "id": "147588",
+      "category": "Infant and Children Items",
+      "name": "Diapers - any brand (size: New Born and S)",
+      "description": "The client has just given birth last week and with her husband being the sole income earner for the family of 5, they have limited financial resources to purchase formula milk and new born diapers.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Jul 2025"
+    },
+    {
+      "id": "147587",
+      "category": "Infant and Children Items",
+      "name": "Nestle Lactogen Starter Infant Formula",
+      "description": "The client has just given birth last week and with her husband being the sole income earner for the family of 5, they have limited financial resources to purchase formula milk and new born diapers.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Jul 2025"
+    },
+    {
+      "id": "147586",
+      "category": "Infant and Children Items",
+      "name": "Diapers (Double XL pull up)",
+      "description": "Client has chronic medical issues, is a single mum of a preschooler. Stressed out by son's hyperactive behaviour daily. Financially strained, need diapers for son dialy usage. can whatsapp 6038 4091 if able to purchase and deliver to client's home (donor to cover full cost)",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+        "name": "Cassandra Chia",
+        "email": "cassandrachia@allkin.org.sg",
+        "phone": [
+          "60384100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Jul 2025"
+    },
+    {
       "id": "147577",
       "category": "Infant and Children Items",
       "name": "Child Mattress",
@@ -159,24 +210,6 @@
       "date": "16 Jul 2025"
     },
     {
-      "id": "147508",
-      "category": "Infant and Children Items",
-      "name": "Playpen Cot/crib",
-      "description": "Client is in a low-income family with four young children. Client has multiple medical conditions, and the husband is currently unemployed as he is the main caregiver for both the client and their children. The family lives together in a small house with limited space, and as such there are concerns over the safety of the youngest child (aged 1) when it comes to having a safe sleeping space. Hence client is requesting for a playpen cot/crib, such that it offers a safe place for the baby, while being able to fit inside their small house with limited space.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Services SSO @ Taman Jurong",
-        "name": "Soh Yong Sheng",
-        "email": "sohyongsheng@fycs.org",
-        "phone": [
-          "69783086",
-          "62672900"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Jul 2025"
-    },
-    {
       "id": "147503",
       "category": "Infant and Children Items",
       "name": "Breast pump",
@@ -231,24 +264,6 @@
       "id": "147456",
       "category": "Infant and Children Items",
       "name": "Huggies Pants (Pull-Ups), L",
-      "description": "Beneficiary is the main caregiver of her granddaughter. Parents are currently incarcerated. Beneficiary will greatly appreciate support with milk and diapers, due to the high costs. (Fel)",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Low Kim Yong",
-        "email": "lowkimyong@thkmc.org.sg",
-        "phone": [
-          "81883314",
-          "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Jul 2025"
-    },
-    {
-      "id": "147455",
-      "category": "Infant and Children Items",
-      "name": "NAN Stage 4",
       "description": "Beneficiary is the main caregiver of her granddaughter. Parents are currently incarcerated. Beneficiary will greatly appreciate support with milk and diapers, due to the high costs. (Fel)",
       "specifications": null,
       "contact": {
@@ -3438,6 +3453,23 @@
       "date": "17 Jun 2025"
     },
     {
+      "id": "147590",
+      "category": "Medical Aids",
+      "name": "Blood pressure monitor",
+      "description": "Client stays in a rental flat. She is unable to work due to mobility issues. Her BP monitor recently became faulty. It would be good if she can get a new set so that she can monitor her BP regularly.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Kreta Ayer",
+        "name": "Cecilia Yip",
+        "email": "cecilia.yip@montfortcare.org.sg",
+        "phone": [
+          "62746904"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Jul 2025"
+    },
+    {
       "id": "147574",
       "category": "Medical Aids",
       "name": "Blood pressure monitor set",
@@ -3647,6 +3679,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "18 Jun 2025"
+    },
+    {
+      "id": "147585",
+      "category": "Home Furnishing",
+      "name": "Single Mattress without frame",
+      "description": "Family of 5 who live in a 2 room rental flat, their 3 children has been sleeping on the floor, the mattress are dirty, stained and thin. Father is the sole breadwinner who works daily to support the family and mother is a homemaker. Mother wishes to replace 2 single mattress to lay in the living room as it is easier to pack it up to make more space in the day time. Kindly provide transportation for the delivery of the mattress",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Kreta Ayer",
+        "name": "Esther Tan",
+        "email": "tan_ziji@msf.gov.sg",
+        "phone": [
+          "67087032",
+          "1800-222-0000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Jul 2025"
     },
     {
       "id": "147582",
@@ -3951,24 +4001,6 @@
       "id": "147443",
       "category": "Home Furnishing",
       "name": "Single mattresses",
-      "description": "The household currently comprises six members, and the client is pregnant, with an expected delivery date in August 2025. Her husband is the sole breadwinner, having only just secured employment. They recently received the keys to their new 3-room BTO flat.\n\nWhile the family is currently receiving financial assistance, this support is scheduled to end in September 2025, leaving them at risk of financial instability during a critical life transition.\n\nThe client has expressed difficulties in acquiring basic furniture and household appliances to set up their new residence. They are also some challenges in preparing for the arrival of their newborn, with limited resources to purchase essential baby items and supplies.(Isk)",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Low Kim Yong",
-        "email": "lowkimyong@thkmc.org.sg",
-        "phone": [
-          "81883314",
-          "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Jul 2025"
-    },
-    {
-      "id": "147439",
-      "category": "Home Furnishing",
-      "name": "Bed with mattress",
       "description": "The household currently comprises six members, and the client is pregnant, with an expected delivery date in August 2025. Her husband is the sole breadwinner, having only just secured employment. They recently received the keys to their new 3-room BTO flat.\n\nWhile the family is currently receiving financial assistance, this support is scheduled to end in September 2025, leaving them at risk of financial instability during a critical life transition.\n\nThe client has expressed difficulties in acquiring basic furniture and household appliances to set up their new residence. They are also some challenges in preparing for the arrival of their newborn, with limited resources to purchase essential baby items and supplies.(Isk)",
       "specifications": null,
       "contact": {
@@ -5596,17 +5628,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "147584",
-      "name": "Sofa",
-      "description": "3 seat sofa, with headrest and wide armrests/medium grey washable covers.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "19 Jul 2025",
-      "ageInYears": 2,
-      "dimensions": "95 cm x 255 cm x 98 cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "147580",
       "name": "Electrical adjustable hospital ved",
       "description": "Homed brand electrical adjustable hospital bed with remote for adjusting incline for head and legs, and height.",
@@ -5647,17 +5668,6 @@
       "validTill": "31 Jul 2025",
       "ageInYears": 3,
       "dimensions": "80x160cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "147534",
-      "name": "Light Grey 2 Seat Sofa",
-      "description": "Very good condition IKEA APPLARYD 2-Seat Sofa, only 3 years old with a 10 year warranty from IKEA.",
-      "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-      "validTill": "31 Jul 2025",
-      "ageInYears": 3,
-      "dimensions": "199X93X82",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -5757,17 +5767,6 @@
       "validTill": "11 Aug 2025",
       "ageInYears": 4,
       "dimensions": "1.8m long",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "147567",
-      "name": "2-Door Sliding Wardrobe",
-      "description": "Still in mint condition. Will need someone to dismantle the wardrobe.",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "01 Aug 2025",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -5970,12 +5969,12 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "147558",
-      "name": "Drypers wee wee dry size s",
-      "description": "Brand new diapers to donate, along with clothings for new born(girl) from 0 to 3 months old to bless.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "16 Aug 2025",
-      "ageInYears": 1,
+      "id": "147589",
+      "name": "Spectra S1 pump (Non halal)",
+      "description": "Spectra S1 pump - (first use: Sept 2021, only used at home)\n\nRead item description from link below:-\nhttps://www.spectrababy.sg/products/spectra-s1?srsltid=AfmBOooXmKOYUKEPvVywSj-9zglg7PIoQcoONHj7HPmCCCUkuueN_O01\n\n**WE WILL ONLY DELIVER IF VWO/NEEDY IS AT TELOK BLANGAH, BEDOK, CHAI CHEE, MARINE PARADE AREAS AT OUR CONVENIENT TIME ONLY!!**\n\n**EMAIL ONLY and DO NOT CONTACT US IF YOU WANT US TO SEND AT YOUR PREFERRED TIME!!**\n\nNote: This is a non-halal pump, if you mind kindly skip for asking.\n\nEveryone’s time are precious, so let’s be understanding. Thank you.",
+      "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+      "validTill": "25 Jul 2025",
+      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
