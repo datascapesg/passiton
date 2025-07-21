@@ -1220,6 +1220,24 @@
       "date": "22 Jun 2025"
     },
     {
+      "id": "147657",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Family of 3 with a 1yo daughter. Father is a Malaysian who has to travel to and from to visit his wife and daughter. He has been facing challenges with job stability. Mother works part-time due to caregiving duties. They have finally collected their keys to their own HDB rental flat, but face difficulties furnishing their home due to financial strains.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Toa Payoh",
+        "name": "Janice Ang",
+        "email": "janice_ang@msf.gov.sg",
+        "phone": [
+          "67367492",
+          "67157503"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Jul 2025"
+    },
+    {
       "id": "147635",
       "category": "Electrical Home Appliances",
       "name": "Vacuum cleaner",
@@ -1829,23 +1847,6 @@
         "phone": [
           "67367492",
           "67157503"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "11 Jul 2025"
-    },
-    {
-      "id": "147358",
-      "category": "Electrical Home Appliances",
-      "name": "Blender",
-      "description": "Elderly client requested a brand new or like brand new halal blender for her to use to cook at home. Her current one has malfunction and thus she is unable to cook her own meals. She does not have much strength to twist and turn the blender, hence, she requested a foolproof blender.\n\nThank you.",
-      "specifications": "Does not matter",
-      "contact": {
-        "org": "NTUC Health Cluster Support - Taman Jurong",
-        "name": "Muhammad Azfar Bin Nazri",
-        "email": "muhammadazfar.b@ntuchealth.sg",
-        "phone": [
-          "62674197"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2867,6 +2868,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "28 Jun 2025"
+    },
+    {
+      "id": "147655",
+      "category": "Learning Aids",
+      "name": "H1 Literature",
+      "description": "Looking for the following textbooks for a 1st year H1 Literature student from low-income family. Student is SPR and not eligible for formal public assistance. \n1. Remembering Babylon by David Malouf\n2. The Garden of Evening Mists by Tan Twan Eng",
+      "specifications": "N.A.",
+      "contact": {
+        "org": "New Life Community Services",
+        "name": "Loh Khoon Mun",
+        "email": "lohkhoonmun@newlife.org.sg",
+        "phone": [
+          "68927116"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Jul 2025"
     },
     {
       "id": "144518",
@@ -5007,6 +5025,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "147654",
+      "name": "Kids Study Desk with Shelf (Ikea)",
+      "description": "A small white desk that can follow your child from early childhood to adolescence. It’s adjustable at 3 different heights and has a spacious shelf.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "20 Aug 2025",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "147621",
       "name": "2 seater brown sofa",
       "description": "Lightly used sofa bought by previous landlord for previous tenant, who travelled overseas most of the time.",
@@ -5102,17 +5131,6 @@
       "validTill": "27 Jul 2025",
       "ageInYears": 4,
       "dimensions": "L2000xH1000xW900",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "147535",
-      "name": "Office Desk - Retractable /w Office Chair",
-      "description": "Nice adjustable and large Desk for sake of office activities, 80x160cm IKEA SKARSTA desk with adjustable height handle manual to change from sitting to standing desk",
-      "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-      "validTill": "31 Jul 2025",
-      "ageInYears": 3,
-      "dimensions": "80x160cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -5271,13 +5289,24 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "147481",
-      "name": "Wardrobe",
-      "description": "2 door sliding white wardrobe. Need help in dismantling as it may not fit into the lift.\nPrefer the same family to receive the wardrobe and the dining table, chairs in 1 delivery (Please take a look at my other submission for the table and dining chairs). Please advise delivery costs.",
-      "location": "Admiralty Drive, Sembawang, Yishun",
+      "id": "147652",
+      "name": "2 seater sofa",
+      "description": "2 seater sofa (not sofa bed), soft fabric material. Good used condition. \n\nThe removable cushion covers are washable. Also comes with an extra set of cushion covers.",
+      "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
       "validTill": "30 Jul 2025",
-      "ageInYears": 3,
-      "dimensions": "5 ft by 6 ft by 1.5 ft",
+      "ageInYears": 1,
+      "dimensions": "175 x 75 x 85",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "147653",
+      "name": "2 seater sofa",
+      "description": "2 seater sofa (not sofa bed), soft fabric material. Good used condition. \n\nThe removable cushion covers are washable. Also comes with an extra set of cushion covers.",
+      "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+      "validTill": "30 Jul 2025",
+      "ageInYears": 1,
+      "dimensions": "175 x 75 x 85",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -5489,6 +5518,17 @@
       "dimensions": "151cm × 132cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
+    },
+    {
+      "id": "147656",
+      "name": "Plates and bowls",
+      "description": "7 dinner plates, 8 pasta plates and 2 salad / side plates, all in matching off white plain (no pattern) porcelain.  More photos can be provided.",
+      "location": null,
+      "validTill": "20 Aug 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Kitchen Utility Items"
     },
     {
       "id": "147622",
