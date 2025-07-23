@@ -3954,24 +3954,6 @@
       "date": "10 Jul 2025"
     },
     {
-      "id": "147296",
-      "category": "Medical Aids",
-      "name": "Abbott Ensure Plus Packet Milk - Strawberry",
-      "description": "Client's health condition deteriorated quickly after she was diagnosed with breast cancer. She is unfit for work and her husband is unemployed to provide full-time care of her and their children. She has grown weak and can only take in milk for her daily nutritional needs.",
-      "specifications": "200ml per packet",
-      "contact": {
-        "org": "AIN Society",
-        "name": "Nur'Ain Binte Mohamed Said",
-        "email": "nurain@ainsociety.org.sg",
-        "phone": [
-          "68485116",
-          "68485166"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Jul 2025"
-    },
-    {
       "id": "147262",
       "category": "Medical Aids",
       "name": "TENA Pants Super Unisex Adult Diapers - XL",
@@ -5980,17 +5962,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "147624",
-      "name": "Radio with plug",
-      "description": "Radio with tuner",
-      "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-      "validTill": "19 Aug 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "147596",
       "name": "Dell VGA Monitor",
       "description": "eatures\n- 22\" Widescreen\n- HD 1680 x 1050\n- VESA Compatible\nVideo Input:\n- VGA\n- DVI\nIncluded\n- Monitor\n- Power Cable/Adapter\n- VGA Display Cable\n\n**On-button not sensitive",
@@ -6022,6 +5993,17 @@
       "dimensions": "Diameter of fan blade is 46cm, height of fan stand is 104cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "147785",
+      "name": "80cm round white table",
+      "description": "Round 80cm diameter white table with pedestal leg support, space saving.",
+      "location": null,
+      "validTill": "04 Aug 2025",
+      "ageInYears": 1,
+      "dimensions": "80cm x 75cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "147783",
@@ -6882,12 +6864,12 @@
       "category": "Mobility Aids"
     },
     {
-      "id": "147623",
-      "name": "Table Clock",
-      "description": "Bedside clock which can set to ring",
-      "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-      "validTill": "31 Jul 2025",
-      "ageInYears": 1,
+      "id": "147786",
+      "name": "Clothes drying rack",
+      "description": "Stainless steel clothes rack",
+      "location": null,
+      "validTill": "04 Aug 2025",
+      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Others"
