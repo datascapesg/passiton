@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "147771",
+      "category": "Infant and Children Items",
+      "name": "3x Drypers L",
+      "description": "Family of 4 children hopes to receives diapers for her 1 year old baby. Mother had to resign due to her caregiving responsibilities and is reliant on financial assistance to get by. She is looking for a job to sustain the family.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+        "name": "Claudine Ng",
+        "email": "claudineng@allkin.org.sg",
+        "phone": [
+          "60384100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Jul 2025"
+    },
+    {
       "id": "142868",
       "category": "Infant and Children Items",
       "name": "Milk Powder & Diapers",
@@ -5873,6 +5890,17 @@
       "dimensions": "Diameter of fan blade is 46cm, height of fan stand is 104cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "147770",
+      "name": "Dining Table",
+      "description": "Dining Table with 4 chairs",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "15 Aug 2025",
+      "ageInYears": 3,
+      "dimensions": "L (135cm) b(85cm) H(75cm)",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "147752",
