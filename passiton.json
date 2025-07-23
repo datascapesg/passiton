@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "142868",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder & Diapers",
+      "description": "Family, consisting of parents, 3 toddlers and one baby. They are currently experiencing financial hardship. They reside in a HDB rental flat. Father is unable to work due to spinal issues, as documented by a doctor’s memo, and the mother, the primary caregiver, has not been able to return to work due to the children taking turns to fall sick. As a result, the family currently has no income, making it difficult to meet essential needs. \n\nSupport for the children's needs will helps to minimize the family's expenses.",
+      "specifications": "Dumex Durgo Stage 3, Nestle Lactogen 1 Starter Infant Formula, Drypers Drypantz Carton (XL size), Drypers Dryfants (M Size)",
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Kelly Lim",
+        "email": "kelly.lim@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "23 Jul 2025"
+    },
+    {
       "id": "145868",
       "category": "Infant and Children Items",
       "name": "Diapers and Milk Powder",
@@ -328,24 +345,6 @@
       "category": "Infant and Children Items",
       "name": "Diapers [Huggies Tape Diapers, Size L, 1 pack]",
       "description": "Client is currently 4 months pregnant and has pre-hybrid cancer. She and her husband are caring for their 8-month-old son and 9 year old daughter. Husband is the sole breadwinner. The family are experiencing financial constraints and difficulties with paying for their rental fees of $500/month for their PPHS rental flat as husband is currently paying for maintenance of his 2 daughter from his previous wife and debts accumulated due to husband's past incarceration. Family is currently in urgent need of diapers as they are running on low supply and husband's salary is only coming in on 22nd.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Cheng San 445",
-        "name": "Fahmi Bin Jazid",
-        "email": "fahmi@allkin.org.sg",
-        "phone": [
-          "60384207",
-          "60384120"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Jul 2025"
-    },
-    {
-      "id": "147697",
-      "category": "Infant and Children Items",
-      "name": "Diapers [Huggies Silver Pants XXL, 4 packs]",
-      "description": "Client is a single mother of 3 young children. She is a low income earner, working as a security guard. However there are months that Client face a loss of income due to caregiving needs of the children. Client is requesting for support in diapers and milk powder.",
       "specifications": null,
       "contact": {
         "org": "Allkin Family Service Centre @ Cheng San 445",
@@ -1669,6 +1668,57 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "22 Jun 2025"
+    },
+    {
+      "id": "147755",
+      "category": "Electrical Home Appliances",
+      "name": "Steamer",
+      "description": "One income household, family of 6 (4 young children). Husband is unemployed due to physical health conditions, hence they are tight with money. Wife is requesting for a food steamer to prepare healthy meals for her husband. Family is facing multiple stressors and hence will benefit from the support.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Kelly Lim",
+        "email": "kelly.lim@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Jul 2025"
+    },
+    {
+      "id": "147754",
+      "category": "Electrical Home Appliances",
+      "name": "Blender",
+      "description": "One income household, family of 6 (4 young children). One parent is unemployed due to physical health conditions, hence they are tight with money. Their pre-loved blender has broke down. Family is facing multiple stressors and hence will benefit from the support.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Kelly Lim",
+        "email": "kelly.lim@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Jul 2025"
+    },
+    {
+      "id": "133602",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave",
+      "description": "One income household, family of 6 (4 young children). One parent is unemployed due to physical health conditions, hence they are tight with money. Their pre-loved microwave has broke down. Family is facing multiple stressors and hence will benefit from the support.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Kelly Lim",
+        "email": "kelly.lim@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Jul 2025"
     },
     {
       "id": "145870",
@@ -4565,6 +4615,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "23 Jun 2025"
+    },
+    {
+      "id": "147756",
+      "category": "Others",
+      "name": "Hot and Cold water Dispender",
+      "description": "Client is a family with two school-going children, where the father is the sole breadwinner and Client takes on ad-hoc jobs to help make ends meet. They are in need of a water dispenser that can provide both hot and cold water, which would greatly ease their daily routine—especially in preparing meals and drinks for the children. Despite their best efforts, this added convenience is currently out of reach for them, and we are appealing for a kind donation to help meet this need.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Shree Ganga D/O Rajasagran",
+        "email": "ShreeGanga@thkmc.org.sg",
+        "phone": [
+          "88333080",
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Jul 2025"
     },
     {
       "id": "147743",
