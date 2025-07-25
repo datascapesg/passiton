@@ -1284,23 +1284,6 @@
       "date": "01 Jul 2025"
     },
     {
-      "id": "147069",
-      "category": "Infant and Children Items",
-      "name": "Adjustable baby cot with mattress",
-      "description": "Client (F/24) is a young mom and full-time primary caregiver to 3 young children (F/5) and (M/4) and (F/2). She is currently pregnant with her 4th child and expecting in January 2026. The family is relying on SSO financial assistance to meet their needs as client's spouse (M/30) recently lost his job. Client is unable to afford purchasing baby necessities with her family's limited income. She was previously working part-time but is unable to continue due to the physical demands.",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Regine Yeo",
-        "email": "regine.yeo@ppis.sg",
-        "phone": [
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Jul 2025"
-    },
-    {
       "id": "147014",
       "category": "Infant and Children Items",
       "name": "Huggies (Size L) & Lactogen 3 Milk",
@@ -1702,6 +1685,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "24 Jun 2025"
+    },
+    {
+      "id": "147835",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is a pregnant mother who recently moved into a new rental flat. She is requesting a washing machine to manage her laundry more effectively. As she is expecting and has limited physical capacity, having a washing machine will ease her daily responsibilities and support her hygiene needs in the new home.",
+      "specifications": "60cm wide, 85cm high, and 60cm deep",
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Hanissah Abdullah",
+        "email": "hanissah@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Jul 2025"
+    },
+    {
+      "id": "147834",
+      "category": "Electrical Home Appliances",
+      "name": "Halal Fridge",
+      "description": "Client is a pregnant mother who recently moved into a new rental flat. She is requesting a refrigerator to store fresh and halal food safely. Having a refrigerator is important for her to maintain proper nutrition during pregnancy and to prevent food spoilage, especially as the flat is currently unfurnished.",
+      "specifications": "65cm to 100cm in width, 150cm to 190cm in height, and 65cm to 85cm in depth",
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Hanissah Abdullah",
+        "email": "hanissah@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Jul 2025"
     },
     {
       "id": "147817",
@@ -3560,6 +3577,23 @@
       "date": "28 Jun 2025"
     },
     {
+      "id": "147832",
+      "category": "Learning Aids",
+      "name": "Tablet/ Computer",
+      "description": "A JC student from a low-income family requiring a tablet/computer with touchscreen or stylus feature to help her with soft-copy school notes.",
+      "specifications": "16\"inch screen or smaller",
+      "contact": {
+        "org": "New Life Community Services",
+        "name": "Loh Khoon Mun",
+        "email": "lohkhoonmun@newlife.org.sg",
+        "phone": [
+          "68927116"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Jul 2025"
+    },
+    {
       "id": "147712",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -4088,6 +4122,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "30 Jun 2025"
+    },
+    {
+      "id": "147831",
+      "category": "Home Furnishing",
+      "name": "Adjustable study table",
+      "description": "Family has requested for an adjustable table that can last her son throughout preschool and primary school. Due to previously failed business, family has accumulated large outstanding loans. The parents' income can hardly cover monthly loan returns and daily living expenses (e.g. food/ groceries), as such, family is unable to afford a study table for their 6-year-old son.",
+      "specifications": "140cm x 70cm",
+      "contact": {
+        "org": "MSF Social Service Office @ Woodlands, Sembawang",
+        "name": "Terene Tan",
+        "email": "terene_tan@msf.gov.sg",
+        "phone": [
+          "97491441",
+          "67660097"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Jul 2025"
     },
     {
       "id": "147808",
@@ -4962,6 +5014,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "24 Jun 2025"
+    },
+    {
+      "id": "147833",
+      "category": "Others",
+      "name": "Queen Size Mattress",
+      "description": "Client is a pregnant mother who recently moved into a new rental flat. She is currently in need of a queen size mattress to ensure adequate rest and comfort during her pregnancy. The flat is unfurnished, and she does not have a proper bed to sleep on at the moment. The mattress will help support her physical well-being as she prepares for the arrival of her baby.",
+      "specifications": "160x200\t5'3 x 6'6",
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Hanissah Abdullah",
+        "email": "hanissah@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Jul 2025"
     },
     {
       "id": "147756",
@@ -5993,17 +6062,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "147828",
-      "name": "Integrated fridge",
-      "description": "Integrated fridge \nhttps://www.whirlpool.com.sg/datasheet/fridge-freezer/WHC18T311HK",
-      "location": null,
-      "validTill": "04 Aug 2025",
-      "ageInYears": 1,
-      "dimensions": "W 540mm x H 1770mm x D 545mm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "147596",
       "name": "Dell VGA Monitor",
       "description": "eatures\n- 22\" Widescreen\n- HD 1680 x 1050\n- VESA Compatible\nVideo Input:\n- VGA\n- DVI\nIncluded\n- Monitor\n- Power Cable/Adapter\n- VGA Display Cable\n\n**On-button not sensitive",
@@ -6026,24 +6084,13 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "147676",
-      "name": "Standing Fan",
-      "description": "Fan maybe more than 4 yrs but still works",
-      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-      "validTill": "08 Aug 2025",
-      "ageInYears": 4,
-      "dimensions": "Diameter of fan blade is 46cm, height of fan stand is 104cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "147825",
-      "name": "Super Single Wood Bed and mattress",
-      "description": "Seahorse brand - wooden Super single bed.\nHas 3 huge space drawers\nInclude a super single mattress.",
-      "location": null,
-      "validTill": "15 Aug 2025",
-      "ageInYears": 4,
-      "dimensions": "107cm wide and 190cm long (42 inches x 75 inches)",
+      "id": "147830",
+      "name": "Single sofa bed",
+      "description": "single foam sofa bed",
+      "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
+      "validTill": "24 Aug 2025",
+      "ageInYears": 2,
+      "dimensions": "L:92cm width:70cm height :18cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
