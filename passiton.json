@@ -546,40 +546,6 @@
       "date": "14 Jul 2025"
     },
     {
-      "id": "147395",
-      "category": "Home Furnishing",
-      "name": "1 Queen size mattress",
-      "description": "A mother is navigating a difficult divorce and is struggling with her financial situation due to her diagnosed mental health condition and unemployment. Despite her best efforts, she finds herself overwhelmed by financial pressure and emotional distress. Thus, she is hoping for a kind donor to provide a microwave oven so that she can heat up food for herself and a queen size mattress.",
-      "specifications": null,
-      "contact": {
-        "org": "Sembawang Family Service Centre",
-        "name": "Po Woei Yee",
-        "email": "powoeiyee@sfsc.org.sg",
-        "phone": [
-          "67547050"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Jul 2025"
-    },
-    {
-      "id": "147367",
-      "category": "Home Furnishing",
-      "name": "Single Mattress",
-      "description": "Client is moving in to a single room shared facility and would require a new single sized mattress. Client currently has a chronic mental health condition that impedes her ability to find employment. Client also has conflictual relationship with family members and poor social support system which decreases the informal support she could tap on.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Family Service Centre - Tampines",
-        "name": "Muhammad Suffian Bin Bahrin",
-        "email": "muhammadsuffian@mws.sg",
-        "phone": [
-          "67872001"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "11 Jul 2025"
-    },
-    {
       "id": "147341",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -5786,6 +5752,17 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "147868",
+      "name": "Preloved toddler shoes",
+      "description": "Giving away 3 pairs of preloved toddler shoes, size 20. Cleaned and sun-dried. Pink shoes size written as 23 but it actually fits size 20",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "26 Aug 2025",
+      "ageInYears": 1,
+      "dimensions": "Size 20",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
       "id": "147866",
       "name": "Brand new toddler shoes",
       "description": "Brand new, unworn toddler shoes. Bought but forgot about it and toddler outgrew them already. Size 19.",
@@ -6059,6 +6036,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
+    },
+    {
+      "id": "147867",
+      "name": "Jelly moulds",
+      "description": "Jelly moulds there's no valid date",
+      "location": null,
+      "validTill": "26 Aug 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Kitchen Utility Items"
     },
     {
       "id": "147850",
