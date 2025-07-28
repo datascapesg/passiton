@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "147913",
-      "category": "Home Furnishing",
-      "name": "Table",
-      "description": "Client is currently unemployed and living with her 8-year-old son (M/8). She is going through a divorce, and her previous partner took the majority of the household necessities with him. At present, the client only has a bed, a sofa, and a second-hand fan at home. Both mother and son would greatly benefit from having a table for their daily activities, as they have been eating on the floor and M/8 has been doing his schoolwork without a proper surface.",
-      "specifications": "Any size",
-      "contact": {
-        "org": "Care Corner Family Service Centre - Admiralty",
-        "name": "Shanell Tan",
-        "email": "shanelltan@carecorner.org.sg",
-        "phone": [
-          "63658751"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Jul 2025"
-    },
-    {
       "id": "144745",
       "category": "Home Furnishing",
       "name": "4 door Wardrobe",
@@ -2238,23 +2221,6 @@
         "phone": [
           "85181442",
           "62708327"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Jul 2025"
-    },
-    {
-      "id": "147885",
-      "category": "Electrical Home Appliances",
-      "name": "Standing Fan (16 inches)",
-      "description": "Elderly uncle 77 yrs old living in HDB rental flat needs a standing fan. The fan must have simple push button controls. His current fan has stopped working. Many Thanks.",
-      "specifications": "16 inches",
-      "contact": {
-        "org": "Moral Active Ageing Centre @ Kaki Bukit",
-        "name": "Gary Tan",
-        "email": "garytan@chkmps.org.sg",
-        "phone": [
-          "64486247"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -5793,6 +5759,17 @@
       "dimensions": "175 x 75 x 85",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "147915",
+      "name": "Baby diapers",
+      "description": "Baby Diapers XXL",
+      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+      "validTill": "27 Aug 2025",
+      "ageInYears": 1,
+      "dimensions": "XXL",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "147876",
