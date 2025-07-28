@@ -441,24 +441,6 @@
       "date": "15 Jul 2025"
     },
     {
-      "id": "147450",
-      "category": "Home Furnishing",
-      "name": "Cupboard",
-      "description": "Beneficiary is a senior taking care of his wife. He is the main caregiver for wife, who has mental health issues. Client's CPF has run out, and he is currently relying on SSO financial assistance. Couple is currently sleeping on the floor, as their previous mattress is worn out. (Fel)",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Low Kim Yong",
-        "email": "lowkimyong@thkmc.org.sg",
-        "phone": [
-          "81883314",
-          "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Jul 2025"
-    },
-    {
       "id": "147443",
       "category": "Home Furnishing",
       "name": "Single mattresses",
@@ -5052,6 +5034,24 @@
       "date": "27 Jun 2025"
     },
     {
+      "id": "147877",
+      "category": "Mobility Aids",
+      "name": "Walking Stick",
+      "description": "A senior who requires a walking aid to support their mobility and improve their daily quality of life.",
+      "specifications": "(Base)20cm x 30cm (Height)72cm to 96cm",
+      "contact": {
+        "org": "SAGE Counselling Centre",
+        "name": "Tang Zhi Yew",
+        "email": "tang_zy@sagecc.org.sg",
+        "phone": [
+          "63990300",
+          "63541191"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Jul 2025"
+    },
+    {
       "id": "147747",
       "category": "Mobility Aids",
       "name": "Wheelchair",
@@ -5619,6 +5619,17 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "147876",
+      "name": "Children’s Scooter (Age 6-10)",
+      "description": "Children’s Scooter (Age 6-10)  Bit old but works fine. Please make sure your child wears a helmet when riding.",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "13 Aug 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
       "id": "147872",
       "name": "Baby Car Seat",
       "description": "Suitable for infants 0-6 Years old. Placed at the second row passenger car seat. But the baby seat is fixed, cannot twirl.",
@@ -6134,17 +6145,6 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
-    },
-    {
-      "id": "147873",
-      "name": "Lifeline wheelchair",
-      "description": "Used 1 time only.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "26 Aug 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
     },
     {
       "id": "147761",
