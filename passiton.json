@@ -3650,23 +3650,6 @@
       "date": "30 Jun 2025"
     },
     {
-      "id": "146970",
-      "category": "Electrical Home Appliances",
-      "name": "TV for a single mum of one",
-      "description": "Client has medical issues, is a single mum of a preschooler. Stressed out by son's hyperactive behaviour daily and TV would greatly help to engage son leisurely at home. can whatsapp 6038 4091 if able to purchase and deliver",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-        "name": "Cassandra Chia",
-        "email": "cassandrachia@allkin.org.sg",
-        "phone": [
-          "60384100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Jun 2025"
-    },
-    {
       "id": "147963",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -4211,24 +4194,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "30 Jun 2025"
-    },
-    {
-      "id": "146971",
-      "category": "Kitchen Utility Items",
-      "name": "Double Table Top Burner (Gas Cooker)",
-      "description": "We are supporting a single mother who is currently residing in a public rental flat with her 15-year-old daughter. The mother is unemployed and has been struggling with emotional distress and depression over the years, particularly after the passing of her parents. She continues to face challenges in adjusting and stabilising her life. At present, she lacks several essential household appliances, which affects her daily functioning and well-being. We are hoping to seek community support to help meet her immediate needs.",
-      "specifications": "710x400x120mm",
-      "contact": {
-        "org": "Lakeside Family Centre - Jurong West",
-        "name": "Hope Ng",
-        "email": "hope-ng@lakeside.org.sg",
-        "phone": [
-          "69916164",
-          "65671908"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Jun 2025"
     },
     {
       "id": "147961",
@@ -5123,23 +5088,6 @@
       "date": "21 Jul 2025"
     },
     {
-      "id": "147494",
-      "category": "Mobility Aids",
-      "name": "Wheelchair (4 sets)",
-      "description": "We would like to request for 4 sets of wheelchairs for our daycare centre. \n\n1) Detachable Pushchair Foldback with Assisted brakes (3 sets)\nWidth: 18 inch\nSeat height: 18 inch\nTo add Anti-Tippers\n\n2) Detachable Pushchair Foldback with Assisted brakes (1 set)\nWidth: 18 inch\nSeat height: 20 inch\nTo add Anti-Tippers\n\nKindly email for details / arrangements. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "Dementia Singapore",
-        "name": "Nur Aishah",
-        "email": "nur.aishah@dementia.org.sg",
-        "phone": [
-          "63895133"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Jul 2025"
-    },
-    {
       "id": "147430",
       "category": "Mobility Aids",
       "name": "Walking Stick",
@@ -5170,23 +5118,6 @@
         "phone": [
           "62586601",
           "62536979"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Jul 2025"
-    },
-    {
-      "id": "147158",
-      "category": "Mobility Aids",
-      "name": "4-wheeled walker with brakes",
-      "description": "Senior in need of a 4-wheeled walker with brakes.",
-      "specifications": null,
-      "contact": {
-        "org": "THK CREST @ Tanjong Pagar-Tiong Bahru",
-        "name": "Dorothy Michael",
-        "email": "dorothy.michael@thkmc.org.sg",
-        "phone": [
-          "69242951"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -5361,6 +5292,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "147973",
+      "name": "Electrical bed for senior",
+      "description": "Less than 1 year. Bion brand",
+      "location": "Farrer Park, Little India, Serangoon Road",
+      "validTill": "08 Aug 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "147972",
+      "name": "Recliner chair for senior",
+      "description": "Less than 1 year",
+      "location": null,
+      "validTill": "08 Aug 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "147970",
@@ -6241,6 +6194,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "147974",
+      "name": "Commode",
+      "description": "Less than 1 year",
+      "location": "Farrer Park, Little India, Serangoon Road",
+      "validTill": "08 Aug 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "147955",
