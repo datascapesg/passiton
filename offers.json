@@ -1,5 +1,16 @@
 [
   {
+    "id": "147952",
+    "name": "Ladies Clothing",
+    "description": "All lightly used",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "10 Aug 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "147950",
     "name": "Maternity Clothes",
     "description": "Size m to l \n\nNursing bras, nursing tops (Lovemere), maternity pants and a pair of maternity jeans (H&M Mama) included in this bundle.",
@@ -1054,6 +1065,17 @@
     "dimensions": "104cm x 67cm x 120cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "147951",
+    "name": "Computer table",
+    "description": "a two-tier computer table, great for compact spaces",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "28 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "120(L) x 70(W) x 130(H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "147902",
