@@ -1,6 +1,60 @@
 {
   "requests": [
     {
+      "id": "148031",
+      "category": "Infant and Children Items",
+      "name": "Diapers",
+      "description": "Family of 4, 2 daughters F/13 and F/1. Father is the sole breadwinner and supports the family's finances with his private hire/Grab salary. Mother is a housewife focused on caregiving of F/1.",
+      "specifications": "Huggies Platinum Nature Made Diapers L 54s",
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
+        "name": "David Goh",
+        "email": "davidgoh@fycs.org",
+        "phone": [
+          "69783099",
+          "67625215"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "31 Jul 2025"
+    },
+    {
+      "id": "148030",
+      "category": "Infant and Children Items",
+      "name": "Diapers",
+      "description": "Client has a family of 4, with his wife, 2 school going children in the household. As client and wife have chronic medical conditions, they are medically unfit for work and are fully reliant on financial assistance. Client is requesting for support for some neccessities for their youngest child, in particular baby diapers (Ideally Huggies S Diapers and Huggies XXL Pants)",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services SSO @ Taman Jurong",
+        "name": "Soh Yong Sheng",
+        "email": "sohyongsheng@fycs.org",
+        "phone": [
+          "69783086",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "31 Jul 2025"
+    },
+    {
+      "id": "148029",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder",
+      "description": "Client has a family of 4, with his wife, 2 school going children in the household. As client and wife have chronic medical conditions, they are medically unfit for work and are fully reliant on financial assistance. Client is requesting for support for some neccessities for their youngest child, in particular some milk power (Ideally S26 stage1 and S26 stage 3)",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services SSO @ Taman Jurong",
+        "name": "Soh Yong Sheng",
+        "email": "sohyongsheng@fycs.org",
+        "phone": [
+          "69783086",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "31 Jul 2025"
+    },
+    {
       "id": "147998",
       "category": "Infant and Children Items",
       "name": "Baby carrier",
@@ -918,23 +972,6 @@
       "date": "14 Jul 2025"
     },
     {
-      "id": "147412",
-      "category": "Infant and Children Items",
-      "name": "Milk powder and diapers",
-      "description": "Client is welcoming a baby in Aug/Sept and is hoping to get some essentials in preperation to welcome her 4th child. Family does not have preference on brands. Husband is the sole breadwinner of family that earns only around $2k per month to support family of 6. Should you have any suitable items please WhatsApp me at 6843 9619. Thank you!",
-      "specifications": "Newborn",
-      "contact": {
-        "org": "MWS Family Service Centre - Tampines",
-        "name": "Han Wen Ting",
-        "email": "hanwenting@mws.sg",
-        "phone": [
-          "67872001"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Jul 2025"
-    },
-    {
       "id": "147370",
       "category": "Infant and Children Items",
       "name": "Twin stroller (Preferably side by side)",
@@ -1320,6 +1357,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "30 Jun 2025"
+    },
+    {
+      "id": "148028",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave",
+      "description": "Elderly man staying alone no living relatives. \nWalks with a limp, not very convenient to cook, however there are meal distribution resources in community. Most of his meals are plain crackers with peanut butter as there is difficulty to cook hot meals, or reheat delivered meals.  \nSeeking a microwave oven to conveniently heat up meals.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - @27 Family Service Centre",
+        "name": "Alexandra Nicole",
+        "email": "nicole.alexandra@montfortcare.org.sg",
+        "phone": [
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "31 Jul 2025"
     },
     {
       "id": "148023",
@@ -1739,23 +1793,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "25 Jul 2025"
-    },
-    {
-      "id": "147815",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine above 8kg load",
-      "description": "Client is a single father with 7 children. He is the sole breadwinner and sole caregiver. However, there are limitations to his pay due to poor education and poor health. The washing machine at home recently spoilt and family has requested for a new washing machine. If you have a suitable item please WhatsApp me at 6843 9619 thank you!",
-      "specifications": "Above 8kg load required",
-      "contact": {
-        "org": "MWS Family Service Centre - Tampines",
-        "name": "Han Wen Ting",
-        "email": "hanwenting@mws.sg",
-        "phone": [
-          "67872001"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Jul 2025"
     },
     {
       "id": "147809",
@@ -4058,6 +4095,42 @@
       "date": "30 Jun 2025"
     },
     {
+      "id": "148027",
+      "category": "Medical Aids",
+      "name": "Bed Pads",
+      "description": "The client resides in a 1 room rental flat with her son. The client is incontinent and requires bed pads (to prevent leakage onto the bed). The family has limited financial resources and would appreciate any donations of bed pads. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "St Luke's Eldercare Ltd - HQ",
+        "name": "Ingle Liew",
+        "email": "ingleliew@slec.org.sg",
+        "phone": [
+          "87208970",
+          "63909368"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "31 Jul 2025"
+    },
+    {
+      "id": "148026",
+      "category": "Medical Aids",
+      "name": "Adult Diapers",
+      "description": "The client resides in a 1 room rental flat with her son. The client is incontinent and requires adult diapers (M size, pants type). The family has limited financial resources and would appreciate any donations of adult diapers. Thank you.",
+      "specifications": "M size pants type",
+      "contact": {
+        "org": "St Luke's Eldercare Ltd - HQ",
+        "name": "Ingle Liew",
+        "email": "ingleliew@slec.org.sg",
+        "phone": [
+          "87208970",
+          "63909368"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "31 Jul 2025"
+    },
+    {
       "id": "145531",
       "category": "Medical Aids",
       "name": "M-sized Pull Up/ Pants Adult Diapers",
@@ -5415,6 +5488,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "148025",
+      "name": "Lefant M210p robot vacuum",
+      "description": "Blessing preloved robot vacuum. Sensor a bit wonky, but still can vacuum and use remote function too. No mapping capability.",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "30 Aug 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "147742",
       "name": "Wifi Router and Extender",
       "description": "Wifi routers and extenders in working condition. Includes Optical network router and cables.",
@@ -5477,17 +5561,6 @@
       "validTill": "12 Aug 2025",
       "ageInYears": 2,
       "dimensions": "120x120",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "147978",
-      "name": "Bed set with spring mattress",
-      "description": "Wooden frame, good quality spring mattress 7 firmness",
-      "location": "Seletar, Yio Chu Kang",
-      "validTill": "25 Aug 2025",
-      "ageInYears": 1,
-      "dimensions": "2m long 1.5 wide about 45cm high",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
