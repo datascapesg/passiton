@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "148136",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Low income family living in 2-room rental flat only has father as breadwinner as mother is full time caregiver for her elderly and sick parents. They require a washing machine as their current one is faulty. Please Whatsapp me at 62319407 if you have a suitable one to donate, thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Woodlands, Sembawang",
+        "name": "Fatimah Azzahrah",
+        "email": "fatimah_azzahrah_noor@msf.gov.sg",
+        "phone": [
+          "62319407",
+          "67660097"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Aug 2025"
+    },
+    {
       "id": "148124",
       "category": "Electrical Home Appliances",
       "name": "Smart TV",
@@ -1825,24 +1843,6 @@
       "date": "17 Jul 2025"
     },
     {
-      "id": "147562",
-      "category": "Home Furnishing",
-      "name": "2 seater sofa",
-      "description": "Client has an adult daughter with intellectual disability and seizures, so she is the sole caregiver and thus cannot work. Her eldest daughter works part time, and it covers bills and basic expenses. \n\nThe family is living in a 2-room rental flat, so they do not have much space. Client has to sleep outside in the hall, on a sofa. The springs are becoming spoilt, so it is uncomfortable for her to sleep.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
-        "name": "Farrzana Bte Mohd Sheriff",
-        "email": "farrzana@fycs.org",
-        "phone": [
-          "69506562",
-          "67625215"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Jul 2025"
-    },
-    {
       "id": "147511",
       "category": "Home Furnishing",
       "name": "Paints (5 litre x 4 tins)",
@@ -1962,6 +1962,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "07 Jul 2025"
+    },
+    {
+      "id": "148135",
+      "category": "Infant and Children Items",
+      "name": "Baby Cot",
+      "description": "Family of 11 will be welcoming newborn in Aug 2025 (inclusive). Looking for a foldable baby cot/playpen for younger child to play in away from newborn. \n\nFoldable would be ideal as house is a 2-room flat.",
+      "specifications": "120cm x 60cm (or similar)",
+      "contact": {
+        "org": "SHINE Children and Youth Services - Hougang",
+        "name": "Ang Hua Jun",
+        "email": "ang_huajun@shine.org.sg",
+        "phone": [
+          "62869905"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Aug 2025"
     },
     {
       "id": "146009",
@@ -4171,6 +4188,23 @@
       "date": "07 Jul 2025"
     },
     {
+      "id": "148133",
+      "category": "Mobility Aids",
+      "name": "18 inch Light weight detachable wheelchair",
+      "description": "Patient aged 57, single. Patient suffered a stroke and would require an 18 inch lightweight detachble wheelchair for her to attend medical and rehab appointment. She has got limited resources. She is a resident to a shelter home.",
+      "specifications": "18 inch Light weight detachable wheelchair",
+      "contact": {
+        "org": "Alexandra Hospital - Care &amp; Counselling",
+        "name": "Tan Zhi Tong",
+        "email": "zhi_tong_tan@nuhs.edu.sg",
+        "phone": [
+          "63793260"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Aug 2025"
+    },
+    {
       "id": "148010",
       "category": "Mobility Aids",
       "name": "Wheel chair with Big back wheels",
@@ -4440,17 +4474,6 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "148130",
-      "name": "Vacuum Cleaner (Airbot)",
-      "description": "Bought in March 2025. Used only 3 times. In very good condition.\nLight weight and easy to use.\nAirbot Hypersonics PRO 27,000P is a smart cordless vacuum with intelligent Dust Sensing HEPA.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "30 Aug 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "148109",
       "name": "3M filterete air filter FAP03",
       "description": "Have to purchase filter on your own to change the existing filter",
@@ -4515,17 +4538,6 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "148120",
-      "name": "Tan leather sofa",
-      "description": "Sofa in good condition",
-      "location": null,
-      "validTill": "08 Aug 2025",
-      "ageInYears": 4,
-      "dimensions": "1.9m",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
     },
     {
       "id": "148119",
@@ -5353,17 +5365,6 @@
       "category": "Kitchen Utility Items"
     },
     {
-      "id": "147986",
-      "name": "Casio Digital Piano",
-      "description": "Casio Digital Piano CDP-S110. Bought in Sept 2023 with stand. Hardly used.",
-      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-      "validTill": "13 Aug 2025",
-      "ageInYears": 2,
-      "dimensions": "1,322 x 232 x 99 mm (without stand)",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Leisure and Healthy Lifestyle"
-    },
-    {
       "id": "147928",
       "name": "YAMBA BLUE CORAIL Skateboard",
       "description": "This cruiser is ideal for short trips around town. Its soft wheels let you ride on any paved surface while its small size makes it easy to carry.",
@@ -5488,6 +5489,17 @@
       "id": "148096",
       "name": "Ramp Aluminium Bifold",
       "description": "Ramp Aluminium Bifold",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "01 Sep 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "148095",
+      "name": "WHEELCHAIR APLUS LIGHTWEIGHT TILT-IN-SPACE PUSHCHAIR",
+      "description": "WHEELCHAIR APLUS LIGHTWEIGHT TILT-IN-SPACE PUSHCHAIR\nFOLDABLE AND WITH ADJUSTABLE AND DETACHABLE HANDRESTS AND FOOTRESTS",
       "location": "Pasir Ris, Simei, Tampines",
       "validTill": "01 Sep 2025",
       "ageInYears": 4,
