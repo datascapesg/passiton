@@ -55,6 +55,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "148121",
+    "name": "Electrolux washing machine",
+    "description": "Very good condition washing machine just recently replaced rubber seal now working like new. Valid till 8 Aug as I will be traveling from 10 Aug onwards",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "08 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "148109",
     "name": "3M filterete air filter FAP03",
     "description": "Have to purchase filter on your own to change the existing filter",
@@ -62,17 +73,6 @@
     "validTill": "31 Aug 2025",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "148061",
-    "name": "Refrigerator",
-    "description": "Item in good working condition.\nJust that when delivery come to pickup, they have to be able to remove the fridge door and reattach.\nFridge upon purchase and delivery was too big for front door.\nSo going through our front door have to remove and reattach front door of refrigerator.\nDelivery personnel have to take note.",
-    "location": "Hougang",
-    "validTill": "31 Aug 2025",
-    "ageInYears": 2,
-    "dimensions": "185 x 80 x 72cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -130,6 +130,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "148120",
+    "name": "Tan leather sofa",
+    "description": "Sofa in good condition",
+    "location": null,
+    "validTill": "08 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "1.9m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "148119",
