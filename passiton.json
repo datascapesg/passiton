@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "148191",
+      "category": "Infant and Children Items",
+      "name": "Playpen",
+      "description": "Foldable playpen required for family's small children to play in away from newborn. Foldable is necessary as family of 11 is living in a 2 Room rental flat.",
+      "specifications": "120cm x 60cm (or similar, negotiable)",
+      "contact": {
+        "org": "SHINE Children and Youth Services - Hougang",
+        "name": "Ang Hua Jun",
+        "email": "ang_huajun@shine.org.sg",
+        "phone": [
+          "62869905"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Aug 2025"
+    },
+    {
       "id": "148185",
       "category": "Infant and Children Items",
       "name": "Tena Pants XL",
@@ -149,24 +166,6 @@
       "name": "Lactogen Stage 1",
       "description": "Ct and hb are parents with multiple children, aged 19 - 4 months. Hb is the sole breadwinner, as Ct has multiple mental and physical health diagnoses. Older children assist with the caregiving for younger children. The family lives in a rental unit, and have bunk beds for the children. The mattresses for children are badly sagged and stained. New mattresses will be beneficial for them, to provide them with comfortable rest.",
       "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bukit Panjang",
-        "name": "Muhammad Idris Bin Mohd Margono",
-        "email": "idris.margono@thkmc.org.sg",
-        "phone": [
-          "87145182",
-          "67671740"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Aug 2025"
-    },
-    {
-      "id": "148146",
-      "category": "Infant and Children Items",
-      "name": "Dumex Dulac Infant Formula",
-      "description": "Ct is sole bread winner and on maternity leave. Hb recently got into accident and was retrenched. Financially difficult to get daily neccessities to cover 5 pax in family.",
-      "specifications": "3 pax",
       "contact": {
         "org": "THK Family Service Centre @ Bukit Panjang",
         "name": "Muhammad Idris Bin Mohd Margono",
@@ -4574,6 +4573,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "148192",
+      "name": "Mattress",
+      "description": "A single mattress in great condition",
+      "location": null,
+      "validTill": "31 Aug 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "148183",
