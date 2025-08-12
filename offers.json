@@ -66,17 +66,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "148337",
-    "name": "Kitchen Appliances",
-    "description": "Sandwich maker BNIB, while the food steamer is in usable condition.",
-    "location": "Seletar, Yio Chu Kang",
-    "validTill": "31 Aug 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "148302",
     "name": "Desktop computer",
     "description": "-Used working desktop computer\n-Comes with Microsoft Office 2013 and Windows 10\n-Comes with wired keyboard and power cable\n-DOES NOT come with monitor\n-Can help to setup",
@@ -735,6 +724,17 @@
     "dimensions": "56cm x 102cm x 171cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "148341",
+    "name": "Clothing & Bedding",
+    "description": "Items are in good condition",
+    "location": "Seletar, Yio Chu Kang",
+    "validTill": "31 Aug 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "148288",
