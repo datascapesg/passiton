@@ -1325,6 +1325,58 @@
       "date": "15 Jul 2025"
     },
     {
+      "id": "148367",
+      "category": "Home Furnishing",
+      "name": "Mattress",
+      "description": "This family is currently facing a challenging situation of a bed bug infestation. They had to dispose of their child's mattress while addressing the issue. They are temporarily managing the situation with bed bug spray and are looking for a new mattress for their child. A new mattress would be greatly appreciated to help provide their child with a safe and comfortable place to sleep.",
+      "specifications": "Single-size mattress",
+      "contact": {
+        "org": "MSF Social Service Office @ Kreta Ayer",
+        "name": "Lee Hui Feng",
+        "email": "lee_hui_feng@msf.gov.sg",
+        "phone": [
+          "63582349",
+          "1800-222-0000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Aug 2025"
+    },
+    {
+      "id": "148366",
+      "category": "Home Furnishing",
+      "name": "Moveable tall kitchen cabinet",
+      "description": "Client is low-income mother with special needs and chronic health condition. Her current cupboard is broken and acts as a safety hazard as the door can fall and hit her anytime. The cupboard is no longer usable, resulting in her cluttering of the household items around the flat and blocking of common passageway, being a fall hazard where she trips occasionally.",
+      "specifications": "two doors; open or closed shelves acceptable.",
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Muhammad Suffian Bin Bahrin",
+        "email": "muhammadsuffian@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "13 Aug 2025"
+    },
+    {
+      "id": "148364",
+      "category": "Home Furnishing",
+      "name": "Foldable Mattress",
+      "description": "Client has 4 young children in the house. The mattress at home was spoilt recently and client's family had to throw it away. As such, the couple and 4 children would have to squeeze on the bed which is not conducive nor comfortable. A super single foldable mattress would be ideal.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Muhammad Suffian Bin Bahrin",
+        "email": "muhammadsuffian@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "13 Aug 2025"
+    },
+    {
       "id": "148363",
       "category": "Home Furnishing",
       "name": "Foldable Lightweight Reclining Chair",
@@ -1833,23 +1885,6 @@
       "date": "14 Jul 2025"
     },
     {
-      "id": "147420",
-      "category": "Home Furnishing",
-      "name": "King Size Mattress",
-      "description": "Client is a 74 year old elderly, living alone in a public rental flat. Client has chronic medical conditions and unable to work. Client hopes to secure a new King size mattress. Please WhatsApp Yu Ling at 8855 3076 or email to ng.yuling@thkmc.org.sg to liaise. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Norlizawati Binte Hamid",
-        "email": "norlizawati@thkmc.org.sg",
-        "phone": [
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Jul 2025"
-    },
-    {
       "id": "147274",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -2094,6 +2129,23 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "17 Jul 2025"
+    },
+    {
+      "id": "148365",
+      "category": "Electrical Home Appliances",
+      "name": "Standing Fan",
+      "description": "The client is an elderly living alone in a rental flat. Due to ongoing financial difficulties and health concerns, the client urgently needs a new standing fan to help manage the heat during hot weather. \n\n* Donor could contact Social Worker @97244034 to coordinate the delivery. \n\nThank you for your kindness!",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Kreta Ayer",
+        "name": "Tracy Chua",
+        "email": "tracy.chua@montfortcare.org.sg",
+        "phone": [
+          "62746904"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Aug 2025"
     },
     {
       "id": "148360",
@@ -3357,23 +3409,6 @@
       "date": "13 Aug 2025"
     },
     {
-      "id": "148342",
-      "category": "Others",
-      "name": "Handphone",
-      "description": "Beneficiary has no family support and savings. He is in the midst of securing a full-time job. His old phone is no longer functioning properly (e.g. with charging and audio issues). He is in need of a smartphone to be able to access Singpass, Whatsapp, etc.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore After Care Association",
-        "name": "Lin Mingjie",
-        "email": "mingjie@saca.org.sg",
-        "phone": [
-          "62942350"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Aug 2025"
-    },
-    {
       "id": "148327",
       "category": "Others",
       "name": "Detergent powder",
@@ -4250,6 +4285,17 @@
       "dimensions": "35 x20 x42",
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
+    },
+    {
+      "id": "148368",
+      "name": "CCTV",
+      "description": "Xiao Mi CCTV for home",
+      "location": null,
+      "validTill": "12 Sep 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
     },
     {
       "id": "148302",
