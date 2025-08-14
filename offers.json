@@ -1,5 +1,16 @@
 [
   {
+    "id": "148407",
+    "name": "Bra 36/80",
+    "description": "worn only once. As good as new.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "13 Sep 2025",
+    "ageInYears": 1,
+    "dimensions": "36/80",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "148268",
     "name": "Mixed items",
     "description": "All items are brand new including stockings I removed the wrappers for . storage. Suitable for M/L women top. Meet Tiong Bahru Redhill Sembawang MRT.",
@@ -152,6 +163,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "148409",
+    "name": "Maxcoil Single mattress",
+    "description": "Maxcoil Single Mattress 16cm thick.\nLight stain in 1 corner, otherwise in good condition",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "22 Aug 2025",
+    "ageInYears": 4,
+    "dimensions": "Standard single mattress 16cm thick",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "148398",
@@ -669,6 +691,17 @@
     "dimensions": "1m (height) by 1.05m (width)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "148408",
+    "name": "Children Specs",
+    "description": "Children's specs with box. Brand: New Balance. Cant remember what is the degree, prob around 150 & 200.",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "13 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "148376",
@@ -1279,6 +1312,28 @@
     "id": "148092",
     "name": "Geriatric Chair",
     "description": "Geriatric Chair (BION) with reclining and wheels",
+    "location": "SIMEI",
+    "validTill": "01 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "148405",
+    "name": "Hospital Bed",
+    "description": "Hospital Bed with pressure relief Foam Mattresses and Air Mattress with air pump",
+    "location": "SIMEI",
+    "validTill": "01 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "148406",
+    "name": "Hospital Bed",
+    "description": "Hospital Bed with pressure relief Foam Mattresses and Air Mattress with air pump",
     "location": "SIMEI",
     "validTill": "01 Sep 2025",
     "ageInYears": 4,
