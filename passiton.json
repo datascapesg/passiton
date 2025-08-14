@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "148413",
+      "category": "Infant and Children Items",
+      "name": "Milk and diapers",
+      "description": "Family of 5 are experiencing strained finances after clearing their debts. They hope to receive some donations of milk and diapers for this month.\nLactogen 2 & Drypers XL for two young children",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Fitrah Nabilah",
+        "email": "fitrahnabilah@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Aug 2025"
+    },
+    {
       "id": "148410",
       "category": "Infant and Children Items",
       "name": "Baby Car Seat (School Bus Use)",
@@ -5562,17 +5579,6 @@
       "category": "Mobility Aids"
     },
     {
-      "id": "148093",
-      "name": "Commode Shower Chair with wheels",
-      "description": "Commode Chair with cover on wheels and detachable handsets",
-      "location": "SIMEI",
-      "validTill": "01 Sep 2025",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
       "id": "148092",
       "name": "Geriatric Chair",
       "description": "Geriatric Chair (BION) with reclining and wheels",
@@ -5635,17 +5641,6 @@
       "validTill": "27 Aug 2025",
       "ageInYears": 1,
       "dimensions": "180x80x8cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
-      "id": "147917",
-      "name": "Commode Chair",
-      "description": "Commode Chair for shower, See photo.",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "27 Aug 2025",
-      "ageInYears": 2,
-      "dimensions": "50x50x95",
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
     },
