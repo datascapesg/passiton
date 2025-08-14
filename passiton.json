@@ -1725,24 +1725,6 @@
       "date": "23 Jul 2025"
     },
     {
-      "id": "147717",
-      "category": "Home Furnishing",
-      "name": "Sofa (2-seater)",
-      "description": "Low-income family is in need of a two -seater sofa due to limited space constraints. Client has mobility issues and requires a sofa for resting in the living room.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Cheng San 445",
-        "name": "Nur Ain Afini Binte Hamdan",
-        "email": "nurainafini@allkin.org.sg",
-        "phone": [
-          "60384138",
-          "60384120"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Jul 2025"
-    },
-    {
       "id": "147685",
       "category": "Home Furnishing",
       "name": "Cupboard (with Sliding Door)",
@@ -4457,6 +4439,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "148414",
+      "name": "2 seater sofa (armless)",
+      "description": "Grey fabric 2 seater armless sofa, 160cm",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "26 Aug 2025",
+      "ageInYears": 4,
+      "dimensions": "160cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "148409",
       "name": "Maxcoil Single mattress",
       "description": "Maxcoil Single Mattress 16cm thick.\nLight stain in 1 corner, otherwise in good condition",
@@ -5654,6 +5647,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "148415",
+      "name": "Carpet",
+      "description": "Well maintained using power vacuum. Long pile carpet can be used on both side. Pick up at Sembawang",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "21 Aug 2025",
+      "ageInYears": 4,
+      "dimensions": "125x218 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "148403",
