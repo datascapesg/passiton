@@ -44,17 +44,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "148511",
-    "name": "Hitachi Refrigerator",
-    "description": "New fridge. Donating as my father moving to nursing home",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "17 Sep 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "148491",
     "name": "3door fridge TOSHIBA",
     "description": "For those who does not mind the blemishes on exterior. Fridge is still in working condition. Retiree owner has no means to deliver or pay for delivery fee to final user.",
@@ -165,6 +154,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "148522",
+    "name": "Single bed",
+    "description": "Fairly new. As for guest room \n\nPlease take it without collection fee",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "18 Sep 2025",
+    "ageInYears": 3,
+    "dimensions": "3 feet by 6.5 feet",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "148493",
     "name": "Study desk good quality",
     "description": "retiree owner has no means to deliver or pay for the delivery fee to send item to beneficiary.",
@@ -176,24 +176,13 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "148492",
+    "id": "148520",
     "name": "sofa 3 seater half-leather",
     "description": "Self-collect as retiree owner has no means to dismantle sofa or pay for delivery fee to send item to beneficiary.",
     "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
     "validTill": "31 Aug 2025",
     "ageInYears": 4,
     "dimensions": "see pics",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "148442",
-    "name": "Seat cushions and cushions",
-    "description": "A mixture of seat cushions and cushions. In good condition.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "15 Sep 2025",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -425,6 +414,28 @@
     "validTill": "05 Sep 2025",
     "ageInYears": 4,
     "dimensions": "75 x 150 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "148523",
+    "name": "King size mattress and bed frame",
+    "description": "Great condition mattress (firm from scanteak ) and bed frame",
+    "location": null,
+    "validTill": "05 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "148524",
+    "name": "King size mattress and bed frame",
+    "description": "Great condition mattress (firm from scanteak ) and bed frame",
+    "location": null,
+    "validTill": "05 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -689,6 +700,28 @@
     "validTill": "31 Aug 2025",
     "ageInYears": 4,
     "dimensions": "184cmx123cmx5mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "148525",
+    "name": "Clothing & Bedding",
+    "description": "Items are in good condition",
+    "location": "Seletar, Yio Chu Kang",
+    "validTill": "31 Aug 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "148526",
+    "name": "Clothing & Bedding",
+    "description": "Items are in good condition",
+    "location": "Seletar, Yio Chu Kang",
+    "validTill": "31 Aug 2025",
+    "ageInYears": 3,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
