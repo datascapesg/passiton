@@ -44,28 +44,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "148692",
-    "name": "Samsung washing machine",
-    "description": "Samsung washing machine used for 5 years",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "23 Sep 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "148690",
-    "name": "Air Purifier",
-    "description": "Working Air purifier which I do not need since my fan comes with purifying",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "23 Sep 2025",
-    "ageInYears": 4,
-    "dimensions": "35x60x18cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "148661",
     "name": "Dvd, hairdryer, weighing machine",
     "description": "I can deliver to VWO office.",
@@ -504,6 +482,17 @@
     "dimensions": "60x27x140 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "148695",
+    "name": "Kids Scooter",
+    "description": "Still working well especially the break. Suitably for kids below 140cm",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "23 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "148689",
