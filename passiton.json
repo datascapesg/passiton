@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "148757",
+      "category": "Infant and Children Items",
+      "name": "Diapers",
+      "description": "Client has 6 school going children, with the youngest 2 still on diapers. Client requires emergency diapers (Huggies Pants, size L and XL) due to financial challenges, lack of social support and coupled with family issues that deem it difficult for their financial situation.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Shena Tan",
+        "email": "shenatan@fycs.org",
+        "phone": [
+          "69782982",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Aug 2025"
+    },
+    {
       "id": "148732",
       "category": "Infant and Children Items",
       "name": "Nestlé NAN OPTI Pro (Immunity & Growth) 3, diapers (L size, tape-type) for the child",
@@ -3132,6 +3150,23 @@
       "date": "28 Jul 2025"
     },
     {
+      "id": "145477",
+      "category": "Others",
+      "name": "Second Hand Smart Phones",
+      "description": "Client (58/F) is a single mother of 5 children. She is the sole breadwinner of the family and three children were diagnosed with mental health issues, including the youngest with autism and ADHD. During a meltdown caused by the phone lag, youngest son slammed the previous phone and damaged it, leading to  worse meltdown state. A phone usually works as a regulator for youngest son due to his condition. Due to unforeseen circumstances, slamming of phone is inevitable. Client hopes to have a phone with gorilla casing to withstand her son's behaviour. Due to financial restrains, client finds it difficult to provide this luxurious item for her son.\n\n4 months later, during a conflict over mobile phone, youngest son smashed his elder brother's phone and damaged it.\n\nNow my client needs two smart phones to offload her caregiver stress so she could focus on her recent health issues.",
+      "specifications": "Phone",
+      "contact": {
+        "org": "Kampong Kapor Community Services",
+        "name": "Kong Wen Sheng",
+        "email": "kongwensheng@kkcs.org.sg",
+        "phone": [
+          "62997662"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Aug 2025"
+    },
+    {
       "id": "148738",
       "category": "Others",
       "name": "10 Detergent",
@@ -4218,6 +4253,28 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "148756",
+      "name": "IKEA rattan armchair",
+      "description": "IKEA Ulriksberg rattan chair lightly used, very clean.",
+      "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+      "validTill": "29 Aug 2025",
+      "ageInYears": 4,
+      "dimensions": "52 x 52 x 79",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "148755",
+      "name": "IKEA dining table",
+      "description": "oak veneered IKEA dining table.",
+      "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+      "validTill": "29 Aug 2025",
+      "ageInYears": 4,
+      "dimensions": "220 x 120 x 76",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "148736",
       "name": "Sofa",
       "description": "3 seater sofa in good condition.",
@@ -4535,6 +4592,28 @@
       "dimensions": "60x27x140 cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "148754",
+      "name": "Chinese learning resources",
+      "description": "Chinese learning resources",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "25 Sep 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "148753",
+      "name": "Left brain training resources",
+      "description": "Left brain training resources",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "25 Sep 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "148752",
