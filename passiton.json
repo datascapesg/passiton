@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "148798",
+      "category": "Infant and Children Items",
+      "name": "Huggies Dry Comfort, Pants, XL",
+      "description": "Family is staying in rental flat. 2 children in autism spectrum and husband is sole bread winner. Needs the essentials as money was used for outstanding medical bills.",
+      "specifications": "XL",
+      "contact": {
+        "org": "THK Family Service Centre @ Bukit Panjang",
+        "name": "Muhammad Idris Bin Mohd Margono",
+        "email": "idris.margono@thkmc.org.sg",
+        "phone": [
+          "87145182",
+          "67671740"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Aug 2025"
+    },
+    {
+      "id": "145907",
+      "category": "Infant and Children Items",
+      "name": "Isomil soy growing up formula Stage 3",
+      "description": "This is a household of 4 people living in a HDB Rental Flat. \nFamily facing financial hardship with no support from their own FOO due to strained relationship. \nBoth parents struggle to meet ends' meets as they are low educated and the jobs they could get are limited while having to juggle with Caregiving",
+      "specifications": "2 tins",
+      "contact": {
+        "org": "THK Family Service Centre @ Bukit Panjang",
+        "name": "Muhammad Idris Bin Mohd Margono",
+        "email": "idris.margono@thkmc.org.sg",
+        "phone": [
+          "87145182",
+          "67671740"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Aug 2025"
+    },
+    {
       "id": "148795",
       "category": "Infant and Children Items",
       "name": "Drypers size L pants",
@@ -1697,6 +1733,24 @@
       "date": "04 Aug 2025"
     },
     {
+      "id": "148796",
+      "category": "Home Furnishing",
+      "name": "Single bed mattress protector",
+      "description": "Community Services & Programmes @ Children's Society requires 3 Single bed mattress protectors for their client. Client requested for toilet training purposes for the child. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society Corporate Office",
+        "name": "Kartini",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "69787279",
+          "62732010"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Aug 2025"
+    },
+    {
       "id": "148785",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -2649,18 +2703,36 @@
       "date": "12 Aug 2025"
     },
     {
-      "id": "148792",
+      "id": "148801",
       "category": "Electrical Home Appliances",
-      "name": "Printer",
-      "description": "Family of 6 with 4 school-going children living in a 2-room rental flat requires a printer with Bluetooth to help with their school work as they shared that printing elsewhere can be quite costly. Would greatly appreciate if donor is able to cover transport expenses for the family.",
+      "name": "television",
+      "description": "Client (M/57) is single and stays alone in a 1 room HDB rental flat.  \n\nClient is unemployed due to his underlying medical condition and ongoing multiple hospital follow up appointments. He has limited financial support and limited social support.  \n\nClient’s main social routine is watching television, but his television screen is faulty and only shows half an image.",
+      "specifications": "30 inch",
+      "contact": {
+        "org": "SingHealth (CGH) – Community Care",
+        "name": "Marhamah Binte Mohamed Ali",
+        "email": "marhamah.mohamed.ali@singhealth.com.sg",
+        "phone": [
+          "64267519",
+          "64268053"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "27 Aug 2025"
+    },
+    {
+      "id": "148800",
+      "category": "Electrical Home Appliances",
+      "name": "Induction Cooker",
+      "description": "Family coach requires an induction cooker for 2 families living in rental flats. Their current stove is not working. If there are kind donors who are keen to bless them, kindly contact me. Thank you!",
       "specifications": null,
       "contact": {
-        "org": "MSF Social Service Office @ Kreta Ayer",
-        "name": "Mohamad Harith",
-        "email": "harith_husaini@msf.gov.sg",
+        "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+        "name": "Teo Chin Wee",
+        "email": "teo_chin_wee@msf.gov.sg",
         "phone": [
-          "63254547",
-          "1800-222-0000"
+          "63549057",
+          "64244017"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -5474,6 +5546,17 @@
       "dimensions": "14ft (4.3m) 7ft (2.1m)",
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "148799",
+      "name": "Wheel chair",
+      "description": "Working condition. New rear tires",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "04 Sep 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "148786",
