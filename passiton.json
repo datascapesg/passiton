@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "148888",
+      "category": "Infant and Children Items",
+      "name": "High chair",
+      "description": "My client is a mother who is unemployed and living ing rental flat with her husband and baby. She requested for a high chair for her infant.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Dini Dzulaikha Bte Dzulkifli",
+        "email": null,
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Aug 2025"
+    },
+    {
       "id": "148878",
       "category": "Infant and Children Items",
       "name": "Baby Play Pen and Safety Gate",
@@ -1989,23 +2006,6 @@
       "date": "28 Aug 2025"
     },
     {
-      "id": "148874",
-      "category": "Home Furnishing",
-      "name": "Shoe Rack",
-      "description": "Shoe rack for a single mother. She is currently on medical leave and is unemployed as she was in a car accident.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Isabelle Chua",
-        "email": "isabellechua@carecorner.org.sg",
-        "phone": [
-          "64761481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Aug 2025"
-    },
-    {
       "id": "148865",
       "category": "Home Furnishing",
       "name": "Queen Sized bedframe with storage",
@@ -2029,24 +2029,6 @@
       "name": "Dining table",
       "description": "Client and husband have unstable housing as they were kicked out once. They have recently gotten a rental flat and need help with getting furniture. The couple is unemployed as client is heavily pregnant with health complications and husband is job hunting.",
       "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
-        "name": "Farrzana Bte Mohd Sheriff",
-        "email": "farrzana@fycs.org",
-        "phone": [
-          "69506562",
-          "67625215"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Aug 2025"
-    },
-    {
-      "id": "148862",
-      "category": "Home Furnishing",
-      "name": "Sofa",
-      "description": "Client and husband have unstable housing as they were kicked out once. They have recently gotten a rental flat and need help with getting furniture. The couple is unemployed as client is heavily pregnant with health complications and husband is job hunting.",
-      "specifications": "3-seater sofa",
       "contact": {
         "org": "Fei Yue Family Service Centre @ Choa Chu Kang",
         "name": "Farrzana Bte Mohd Sheriff",
@@ -4469,6 +4451,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "28 Jul 2025"
+    },
+    {
+      "id": "148889",
+      "category": "Others",
+      "name": "Adult Diapers Size M",
+      "description": "Client 70 years old widowed female, staying alone. She has no NOK and stopped working for many years. Client has bowel condition which causes her to have uncontrolled bowel and require huge usage of diapers. Client is looking for M size diaper (taped kind) to reduce her financial burden.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Cluster Support @ Bedok",
+        "name": "Yeo Si Yu",
+        "email": "siyu.yeo@thkmc.org.sg",
+        "phone": [
+          "87188271",
+          "62418171"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Aug 2025"
     },
     {
       "id": "148881",
