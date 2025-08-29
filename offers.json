@@ -143,6 +143,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "148895",
+    "name": "Hospital bed",
+    "description": "Hospital bed, able to recline",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "28 Sep 2025",
+    "ageInYears": 2,
+    "dimensions": "214 x 110 x 77",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "148884",
     "name": "Single foldable bed",
     "description": "Will send to places near Jalan Besar or district 12 only.",
@@ -933,6 +944,17 @@
     "dimensions": "14ft (4.3m) 7ft (2.1m)",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "148899",
+    "name": "PMD",
+    "description": "Make your own delivery arrangement and payment.\nCollect from my client's house in Punggol. \nClient will be going to NH, hence donating his PMD.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "28 Sep 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "148799",
