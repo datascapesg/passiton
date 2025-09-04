@@ -1,6 +1,59 @@
 {
   "requests": [
     {
+      "id": "149064",
+      "category": "Home Furnishing",
+      "name": "single bed mattress",
+      "description": "A senior client living in a rental flat requires a new single bed mattress, as he had to dispose of his previous one due to a bedbug infestation.",
+      "specifications": "single bed",
+      "contact": {
+        "org": "Viriya Family Service Centre",
+        "name": "Echo Tsang",
+        "email": "echo_tsang@viriya.org.sg",
+        "phone": [
+          "62858033"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Sep 2025"
+    },
+    {
+      "id": "148015",
+      "category": "Home Furnishing",
+      "name": "TV console",
+      "description": "A family of three needs help with a TV console for their new rental flat. They are currently staying with relatives in a crowded home and has financial difficulties in purchasing furniture. Your help would allow the family to build a stable life together. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
+        "name": "Kang Yuen Yee",
+        "email": "kang_yuen_yee@msf.gov.sg",
+        "phone": [
+          "67671368",
+          "18002220000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "04 Sep 2025"
+    },
+    {
+      "id": "149062",
+      "category": "Home Furnishing",
+      "name": "Kitchen Cabinet",
+      "description": "A family of five living in a HDB rental flat needs help with getting a kitchen cabinet. The husband is currently the sole breadwinner, and his wife is looking for work since their three young children have recently been enrolled in preschool. We are requesting for a kind donor to help with both the item and delivery cost. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
+        "name": "Kang Yuen Yee",
+        "email": "kang_yuen_yee@msf.gov.sg",
+        "phone": [
+          "67671368",
+          "18002220000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Sep 2025"
+    },
+    {
       "id": "119037",
       "category": "Home Furnishing",
       "name": "2 door wardrobe",
@@ -1001,23 +1054,6 @@
       "date": "03 Sep 2025"
     },
     {
-      "id": "149031",
-      "category": "Infant and Children Items",
-      "name": "Manual Breast Pump",
-      "description": "Family has 4 young children and client has just given birth to a newborn in Sept. Client is requesting for a manual breastpump for her to use. Husband is the sole breadwinner of family that earns only around $2k per month to support family of 6. If you have a suitable item please WhatsApp me at 6843 9619 thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Family Service Centre - Tampines",
-        "name": "Han Wen Ting",
-        "email": "hanwenting@mws.sg",
-        "phone": [
-          "67872001"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "03 Sep 2025"
-    },
-    {
       "id": "149029",
       "category": "Infant and Children Items",
       "name": "Lactogen Stage 1",
@@ -1275,23 +1311,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "01 Sep 2025"
-    },
-    {
-      "id": "148952",
-      "category": "Infant and Children Items",
-      "name": "Baby bottle warmer",
-      "description": "Client is the sole breadwinner of the family with 2 children and her daughter is a teenage mother, who has just given birth in March 2025. Family is requesting for a baby bottle warmer to use for the baby. If you have a suitable item please WhatsApp me at 6843 9619 thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Family Service Centre - Tampines",
-        "name": "Han Wen Ting",
-        "email": "hanwenting@mws.sg",
-        "phone": [
-          "67872001"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "01 Sep 2025"
     },
     {
@@ -3092,6 +3111,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "15 Aug 2025"
+    },
+    {
+      "id": "149063",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge (Muslim family)",
+      "description": "A family of five living in a HDB rental flat needs help with getting a fridge as their current one is spoilt. The husband is currently the sole breadwinner, and his wife is looking for work since their three young children have recently been enrolled in preschool. We are requesting for a kind donor to help with both the item and delivery cost. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
+        "name": "Kang Yuen Yee",
+        "email": "kang_yuen_yee@msf.gov.sg",
+        "phone": [
+          "67671368",
+          "18002220000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Sep 2025"
     },
     {
       "id": "149060",
@@ -6579,17 +6616,6 @@
       "dimensions": "210 x 104 cm. Height is adjustable",
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
-    },
-    {
-      "id": "149043",
-      "name": "Shower chair",
-      "description": "Height adjustable shower chair with arm rest. Purchased from Lifeline 3 years ago but used less than 10 times. Still in very good condition (looks new). Please contact me via WhatsApp at 96531507 if keen.\n- Aluminium frame structure.\n- Durable & light weight.\n- Height adjustable seat.\n- Non-slip seat surface.\n- Holes on seat allow water to flow through.\n- The anti-slip armrest enables the user to stand up with ease.\n- Comes with rubber tip base to prevent slipping.",
-      "location": "Balestier, Toa Payoh",
-      "validTill": "30 Sep 2025",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
     },
     {
       "id": "149037",
