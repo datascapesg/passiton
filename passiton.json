@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "149067",
+      "category": "Home Furnishing",
+      "name": "Double-decker bed frames and mattress",
+      "description": "A single mother and her young daughter are moving into their new one-room rental flat. They are in need of double-decker bed frame and mattresses.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Yishun",
+        "name": "Edwin Wee",
+        "email": "edwin_kh_wee@msf.gov.sg",
+        "phone": [
+          "62319460",
+          "18002220000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Sep 2025"
+    },
+    {
       "id": "149064",
       "category": "Home Furnishing",
       "name": "single bed mattress",
@@ -3113,6 +3131,42 @@
       "date": "15 Aug 2025"
     },
     {
+      "id": "149068",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "A single mother living in a rental flat with her son, who has autism, is in need of a refrigerator as their current one has broken down.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Yishun",
+        "name": "Edwin Wee",
+        "email": "edwin_kh_wee@msf.gov.sg",
+        "phone": [
+          "62319460",
+          "18002220000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Sep 2025"
+    },
+    {
+      "id": "149066",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "A single mother and her young daughter are moving into their new one-room rental flat. They are in need of a washing machine.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Yishun",
+        "name": "Edwin Wee",
+        "email": "edwin_kh_wee@msf.gov.sg",
+        "phone": [
+          "62319460",
+          "18002220000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Sep 2025"
+    },
+    {
       "id": "149063",
       "category": "Electrical Home Appliances",
       "name": "Fridge (Muslim family)",
@@ -5890,17 +5944,6 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
-    },
-    {
-      "id": "149045",
-      "name": "Toaster",
-      "description": "Powerpac auto popup bread toaster.",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "03 Oct 2025",
-      "ageInYears": 1,
-      "dimensions": "Small",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
     },
     {
       "id": "149030",
