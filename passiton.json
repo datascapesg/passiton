@@ -1,6 +1,60 @@
 {
   "requests": [
     {
+      "id": "149177",
+      "category": "Home Furnishing",
+      "name": "chairs",
+      "description": "client needs two chairs at home",
+      "specifications": null,
+      "contact": {
+        "org": "Thye Hua Kwan Moral Charities",
+        "name": "Penelope Lim",
+        "email": "penelope.lim@thkmc.org.sg",
+        "phone": [
+          "68461228",
+          "63371201"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Sep 2025"
+    },
+    {
+      "id": "149176",
+      "category": "Home Furnishing",
+      "name": "pedestal",
+      "description": "client is a senior stayinga alone, she needs a small pedestal.",
+      "specifications": null,
+      "contact": {
+        "org": "Thye Hua Kwan Moral Charities",
+        "name": "Penelope Lim",
+        "email": "penelope.lim@thkmc.org.sg",
+        "phone": [
+          "68461228",
+          "63371201"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Sep 2025"
+    },
+    {
+      "id": "149175",
+      "category": "Home Furnishing",
+      "name": "King-sized mattress",
+      "description": "Family of 4 with 3 school-going children staying in a 2-room rental flat who requires a king-sized mattress as their current one gave way. Mum is sole breadwinner and working odd jobs. Family is open to receive both bed frame with mattress Would greatly appreciate if donor is able to cover transport expenses. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Kreta Ayer",
+        "name": "Mohamad Harith",
+        "email": "harith_husaini@msf.gov.sg",
+        "phone": [
+          "63254547",
+          "1800-222-0000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Sep 2025"
+    },
+    {
       "id": "149166",
       "category": "Home Furnishing",
       "name": "Single Bed",
@@ -948,6 +1002,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "11 Aug 2025"
+    },
+    {
+      "id": "149171",
+      "category": "Infant and Children Items",
+      "name": "Urgent: Baby gate and cupboard/ fridge lock",
+      "description": "This is a low income family of 6 with father as Single breadwinner, 5 children below 6 years old, living in 1 bedroom rental. All the children are highly active and mobile so all the old locks have been spoilt. Please whatsapp me @8907 8297 for more details. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Community Services - HEART @ Fei Yue",
+        "name": "Bernice  Chai",
+        "email": "bernicechai@fycs.org",
+        "phone": [
+          "68199170"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Sep 2025"
     },
     {
       "id": "149153",
@@ -4523,6 +4594,41 @@
       "date": "11 Aug 2025"
     },
     {
+      "id": "149173",
+      "category": "Others",
+      "name": "Second hand Laptop",
+      "description": "Patient is 62 years old, divorced with three adult children. She is unemployed due to arthritis and frozen shoulder. Eldest daughter is 29 years old with undiagnosed mental health condition. 2nd daughter, 26 years old is living with autism. She is unemployed. Youngest son is a year 1 university student. Eldest daughter is starting out on her own small business and needed the use of her laptop. 2nd daughter has been fighting with eldest daughter over the use of the laptop and it is causing significant distress to pt. Hence, pt is requesting for a secondhand laptop for her second daughter",
+      "specifications": null,
+      "contact": {
+        "org": "Alexandra Hospital - Care &amp; Counselling",
+        "name": "Samantha Lua",
+        "email": "samantha_yusi_lua@nuhs.edu.sg",
+        "phone": [
+          "63706659",
+          "63793260"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Sep 2025"
+    },
+    {
+      "id": "149170",
+      "category": "Others",
+      "name": "Urgent: interim daily essentials support",
+      "description": "family of six, with four children under the age of six, is currently living in a 2-room flat. The father is the sole breadwinner, as the mother is occupied with caring for the young children. He has recently started a new job, earning less than $2,000 per month. Hence, family require temporary support. \n\nPlease whatsapp me at 8907 8297 for more details. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Community Services - HEART @ Fei Yue",
+        "name": "Bernice  Chai",
+        "email": "bernicechai@fycs.org",
+        "phone": [
+          "68199170"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Sep 2025"
+    },
+    {
       "id": "149154",
       "category": "Others",
       "name": "Usable Smartphone",
@@ -6035,6 +6141,17 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "149172",
+      "name": "Preloved Stroller Reversible",
+      "description": "Stroller is more than 10 years old but it is still in good working condition.",
+      "location": "Boon Lay, Jurong, Tuas",
+      "validTill": "09 Oct 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
       "id": "149163",
       "name": "Toys",
       "description": "Toys",
@@ -6354,17 +6471,6 @@
       "category": "Medical Aids"
     },
     {
-      "id": "149044",
-      "name": "Nasal Cannula for oxygen therapy",
-      "description": "Nasal cannula for oxygen therapy (to attach to oxygen concentrator)\n- 8pc of 14ft (4.3m) oxygen cannula (brand new) purchased from Rainbow Care. WestMed brand (softer nasal prong)\n- 1pc of 7ft (2.1m) oxygen cannula (brand new) purchased from Rainbow Care. \nSuitable for portable or home oxygen concentrators.\n\nPlease contact via WhatsApp if keen. Thank you.",
-      "location": "Balestier, Toa Payoh",
-      "validTill": "30 Sep 2025",
-      "ageInYears": 1,
-      "dimensions": "14ft (4.3m)",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
       "id": "148917",
       "name": "Hospital Bed",
       "description": "Hospital bed",
@@ -6506,6 +6612,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "149169",
+      "name": "Headphones",
+      "description": "Navy blue headphones",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "09 Oct 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "149143",
