@@ -103,24 +103,6 @@
       "date": "11 Sep 2025"
     },
     {
-      "id": "149248",
-      "category": "Home Furnishing",
-      "name": "TV console with storage",
-      "description": "Low-income family of 4. recently their tv console broke. father is the sole breadwinner of the family but unable to afford to purchase a new tv console.",
-      "specifications": null,
-      "contact": {
-        "org": "REACH Family Service Centre",
-        "name": "Rebecca Yeong",
-        "email": "rebecca.yeong@reach.org.sg",
-        "phone": [
-          "68010700",
-          "62522566"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "11 Sep 2025"
-    },
-    {
       "id": "149240",
       "category": "Home Furnishing",
       "name": "Dressing Table",
@@ -4713,6 +4695,24 @@
       "date": "11 Aug 2025"
     },
     {
+      "id": "149272",
+      "category": "Others",
+      "name": "footwear",
+      "description": "An elderly man who is single and unemployed due to physical disability as a result of a car accident many years ago, needs a new pair of crocs, as the current pair is worn out. \n\nHis shoes size should be around size 10.",
+      "specifications": null,
+      "contact": {
+        "org": "NTUC Health Co-operative Limited",
+        "name": "Zoe Lee",
+        "email": "zoe.l1@ntuchealth.sg",
+        "phone": [
+          "94552166",
+          "67156715"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Sep 2025"
+    },
+    {
       "id": "149234",
       "category": "Others",
       "name": "Biscuits",
@@ -6315,6 +6315,24 @@
       "date": "12 Aug 2025"
     },
     {
+      "id": "149271",
+      "category": "Attires/Clothings",
+      "name": "Clothes for male",
+      "description": "An elderly man who is single and unemployed for many years due to physical disability as a result of a car accident many years ago, is in need of fresh clothing as he does not have many and the current ones are worn out. \n\nHe needs tee-shirts for home wear and going for medical appointments, preferably cotton ones or materials that are not too warm. He also needs knee-length shorts that are easy to wear as he is an amputee.\n\nHis sizes are M size for tee-shirts and size 34/35 for knee-length shorts.",
+      "specifications": null,
+      "contact": {
+        "org": "NTUC Health Co-operative Limited",
+        "name": "Zoe Lee",
+        "email": "zoe.l1@ntuchealth.sg",
+        "phone": [
+          "94552166",
+          "67156715"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Sep 2025"
+    },
+    {
       "id": "149242",
       "category": "Attires/Clothings",
       "name": "Sports Shoes",
@@ -6565,17 +6583,6 @@
       "validTill": "11 Oct 2025",
       "ageInYears": 4,
       "dimensions": "120 x 60 x 40 (in centimeters)",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "149245",
-      "name": "Leather sofa",
-      "description": "Brown leather sofa",
-      "location": "Seletar, Yio Chu Kang",
-      "validTill": "17 Sep 2025",
-      "ageInYears": 4,
-      "dimensions": "220cm x 100cm x 85cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -6848,6 +6855,28 @@
       "name": "Baby High Chair",
       "description": "Spare high chair for occasional use.  So far used 5 times.  Clean, sturdy for feeding time for kids between 1+ to 3+",
       "location": "Cairnhill, Killiney, Orchard, River Valley",
+      "validTill": "09 Oct 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "149269",
+      "name": "Preloved Stroller Reversible",
+      "description": "Stroller is more than 10 years old but it is still in good working condition.",
+      "location": "Boon Lay, Jurong, Tuas",
+      "validTill": "09 Oct 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "149270",
+      "name": "Preloved Stroller Reversible",
+      "description": "Stroller is more than 10 years old but it is still in good working condition.",
+      "location": "Boon Lay, Jurong, Tuas",
       "validTill": "09 Oct 2025",
       "ageInYears": 4,
       "dimensions": null,
