@@ -456,24 +456,6 @@
       "date": "08 Sep 2025"
     },
     {
-      "id": "149071",
-      "category": "Home Furnishing",
-      "name": "TV console",
-      "description": "A family with 4 children are in need of a TV console for their new rental flat. The parents are currently unemployed and husband has recently fractured his leg. They are on financial assistance and seeking for employment after they settle into the new rental flat.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
-        "name": "Ken Toh",
-        "email": "ken_zq_toh@msf.gov.sg",
-        "phone": [
-          "62319385",
-          "64244017"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Sep 2025"
-    },
-    {
       "id": "149067",
       "category": "Home Furnishing",
       "name": "Double-decker bed frames and mattress",
@@ -489,24 +471,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "04 Sep 2025"
-    },
-    {
-      "id": "148015",
-      "category": "Home Furnishing",
-      "name": "TV console",
-      "description": "A family of three needs help with a TV console for their new rental flat. They are currently staying with relatives in a crowded home and has financial difficulties in purchasing furniture. Your help would allow the family to build a stable life together. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
-        "name": "Kang Yuen Yee",
-        "email": "kang_yuen_yee@msf.gov.sg",
-        "phone": [
-          "67671368",
-          "18002220000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "04 Sep 2025"
     },
     {
@@ -6342,6 +6306,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "149362",
+      "name": "Glass TV console",
+      "description": "Great condition and only blemish is water stains on glass top.",
+      "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+      "validTill": "20 Sep 2025",
+      "ageInYears": 4,
+      "dimensions": "TV console height  52 cm (20½″)  TV console width  44 cm (17½″)  TV console length  1.79 m (179 cm, 5′ 10″)",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "149360",
       "name": "wooden sofa chair",
       "description": "single wooden chairs with cushions. The wooden chair is very sturdy. The cushions may need to be replaced. I have 2 of these.",
@@ -6976,28 +6951,6 @@
       "validTill": "18 Sep 2025",
       "ageInYears": 1,
       "dimensions": "200x200x200",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
-      "id": "148653",
-      "name": "Medical bed. There is air mattress but not sure if fully working",
-      "description": "Good condition. Have air mattress but not used for about 3 years. Not sure if fully functional. Does not come with pillow/boster/bedsheet in picture",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "16 Sep 2025",
-      "ageInYears": 4,
-      "dimensions": "210 x 104 cm. Height is adjustable",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
-      "id": "148654",
-      "name": "Medical bed. There is air mattress but not sure if fully working",
-      "description": "Good condition. Have air mattress but not used for about 3 years. Not sure if fully functional. Does not come with pillow/boster/bedsheet in picture",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "16 Sep 2025",
-      "ageInYears": 4,
-      "dimensions": "210 x 104 cm. Height is adjustable",
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
     },
