@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "149374",
+      "category": "Home Furnishing",
+      "name": "Single size metal folding bedframe",
+      "description": "Single mattress bed frame\nClient is a single parent working part-time as she needs to look after her son, therefore, her earnings are limited. The family does not have the financial means to buy some household items which are needed.",
+      "specifications": null,
+      "contact": {
+        "org": "Sembawang Family Service Centre",
+        "name": "Po Woei Yee",
+        "email": "powoeiyee@sfsc.org.sg",
+        "phone": [
+          "67547050"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Sep 2025"
+    },
+    {
       "id": "149366",
       "category": "Home Furnishing",
       "name": "Thin cabinet",
@@ -6385,7 +6402,18 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "149362",
+      "id": "149372",
+      "name": "Glass TV console",
+      "description": "Great condition and only blemish is water stains on glass top.",
+      "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+      "validTill": "20 Sep 2025",
+      "ageInYears": 4,
+      "dimensions": "TV console height  52 cm (20½″)  TV console width  44 cm (17½″)  TV console length  1.79 m (179 cm, 5′ 10″)",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "149373",
       "name": "Glass TV console",
       "description": "Great condition and only blemish is water stains on glass top.",
       "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
@@ -7118,17 +7146,6 @@
       "validTill": "30 Sep 2025",
       "ageInYears": 1,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Others"
-    },
-    {
-      "id": "149143",
-      "name": "Hospital Bed with pressure mattress",
-      "description": "Good hospital bed and pressure mattress in clean and fine working condition.",
-      "location": "West Coast",
-      "validTill": "29 Sep 2025",
-      "ageInYears": 3,
-      "dimensions": "205 x 100 x 52cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Others"
     },
