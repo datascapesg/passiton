@@ -334,23 +334,6 @@
       "date": "11 Sep 2025"
     },
     {
-      "id": "149267",
-      "category": "Home Furnishing",
-      "name": "Wardrobe (Sliding door)",
-      "description": "Client is a single parent working part-time as she needs to look after her son, therefore, her earnings are limited. The family does not have the financial means to buy some household items which are needed.",
-      "specifications": null,
-      "contact": {
-        "org": "Sembawang Family Service Centre",
-        "name": "Po Woei Yee",
-        "email": "powoeiyee@sfsc.org.sg",
-        "phone": [
-          "67547050"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "11 Sep 2025"
-    },
-    {
       "id": "149253",
       "category": "Home Furnishing",
       "name": "wardrobe",
@@ -1104,6 +1087,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "18 Aug 2025"
+    },
+    {
+      "id": "146675",
+      "category": "Infant and Children Items",
+      "name": "Milk and Diapers",
+      "description": "Family has 2 children (M1, F2). Dad, sole-breadwinner only earns $1.2k/mth insufficient to support the family. He is also recently injured and refused surgery due to lack of finances to support his family. Wife is full-time caregiver as they are still unable to find placement for children's infant care/childcare.",
+      "specifications": "Merries Pants L, MamyPoko Extra Dry Tape XL, Similac Stage 3 Gain plus, Similac Isomil 0-12mths",
+      "contact": {
+        "org": "MSF Social Service Office @ Geylang Serai",
+        "name": "Ashikin Hazlan",
+        "email": "ashikin_hazlan@msf.gov.sg",
+        "phone": [
+          "62319440",
+          "62438753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Sep 2025"
     },
     {
       "id": "149388",
@@ -3161,22 +3162,22 @@
       "date": "19 Aug 2025"
     },
     {
-      "id": "149384",
+      "id": "149404",
       "category": "Electrical Home Appliances",
-      "name": "250L Fridge (Halal)",
-      "description": "A single mother living in a rental flat is caring for her three young children — including twin boys aged 3 and a 2-year-old. One of the twins recently completed chemotherapy for acute myeloid leukaemia and now attends a specialised childcare centre with limited operating hours, making it difficult for the mother to work. She also faces health challenges, including anemia and frequent fainting spells. The family’s fridge is no longer functioning well, and they are seeking support for a replacement to store fresh food and milk for the children. This assistance would greatly help improve their daily living conditions.",
+      "name": "Mini Freezer",
+      "description": "Single mother would like to start a home based business to supply home-made drinks. This is to supplement her income and to repay her credit loans.",
       "specifications": null,
       "contact": {
-        "org": "MWS Family Service Centre - Yishun",
-        "name": "Vanessa Goh",
-        "email": "vanessagoh@mws.sg",
+        "org": "MSF Social Service Office @ Geylang Serai",
+        "name": "Ashikin Hazlan",
+        "email": "ashikin_hazlan@msf.gov.sg",
         "phone": [
-          "67564995ext102/83688612",
-          "67564995"
+          "62319440",
+          "62438753"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "16 Sep 2025"
+      "date": "17 Sep 2025"
     },
     {
       "id": "149382",
@@ -7292,6 +7293,61 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "149409",
+      "name": "Capybara cushion seat",
+      "description": "Can be placed on floor or chair. Cushion seat. Can be machine washed",
+      "location": "Cairnhill, Killiney, Orchard, River Valley",
+      "validTill": "30 Sep 2025",
+      "ageInYears": 1,
+      "dimensions": "45cm x 50cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "149408",
+      "name": "Pregnancy pillow",
+      "description": "Very lightly used and washed pregnancy pillow. Along with baby rocker, baby carrier and bottle wash accessories, milk warmer. All brand new or lightly used. URGENT!",
+      "location": "Cairnhill, Killiney, Orchard, River Valley",
+      "validTill": "30 Sep 2025",
+      "ageInYears": 1,
+      "dimensions": "140cm x 30cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "149407",
+      "name": "Adjustable table (manual)",
+      "description": "Can adjust between 70cm to 120 cm in height, manually by turning the knob. Will send directly,",
+      "location": "Cairnhill, Killiney, Orchard, River Valley",
+      "validTill": "30 Sep 2025",
+      "ageInYears": 4,
+      "dimensions": "70-120cm x 80cm x 40cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "149406",
+      "name": "Bed frame with mattress",
+      "description": "King size frame with mattress and side cushion. Will include moving and assembly. Urgent!",
+      "location": "Cairnhill, Killiney, Orchard, River Valley",
+      "validTill": "30 Sep 2025",
+      "ageInYears": 4,
+      "dimensions": "208 x 192 x 35cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "149405",
+      "name": "Sofa",
+      "description": "Well kept L shaped sofa with cushion. Will include moving and setting up. Longer side is 153cm. Shorter side is 92cm.",
+      "location": "Cairnhill, Killiney, Orchard, River Valley",
+      "validTill": "30 Sep 2025",
+      "ageInYears": 4,
+      "dimensions": "248cm x 153cm x 70cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "149392",
