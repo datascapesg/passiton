@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "149576",
+      "category": "Home Furnishing",
+      "name": "Super Single mattress",
+      "description": "Single mum with 3 children looking for one super single mattress to replace the current mattress on the bunk bed. Family is under financial assistance and does not have enough to buy a replacement. Mum has medical conditions which restrict her ability to work full-time.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Ye Jiancheng",
+        "email": "jiancheng@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Sep 2025"
+    },
+    {
       "id": "149559",
       "category": "Home Furnishing",
       "name": "Foldable mattress",
@@ -6262,6 +6279,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "149574",
+      "name": "Ikea Sofa Bed",
+      "description": "Very Seldom Use, has being covering it so still in good condition. \nFoldable 3 pax seat sofa, to queen size bed.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "22 Oct 2025",
+      "ageInYears": 2,
+      "dimensions": "1200 X 2000 x 900",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "149567",
       "name": "Chair",
       "description": "4 pieces.",
@@ -6722,6 +6750,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Kitchen Utility Items"
+    },
+    {
+      "id": "149575",
+      "name": "Mini Trampoline with Handle",
+      "description": "Great indoor light exercise equipment, train lower body strength and balance, also some exercise for core/abs.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "22 Oct 2025",
+      "ageInYears": 2,
+      "dimensions": "1060 x 1060 x 1200",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Leisure and Healthy Lifestyle"
     },
     {
       "id": "149561",
