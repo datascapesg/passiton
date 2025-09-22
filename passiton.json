@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "149559",
+      "category": "Home Furnishing",
+      "name": "Foldable mattress",
+      "description": "Family of 2 grandparents and 2 grandchildren reside in a 1 room rental flat. Due to space constraints, the family requires 2 foldable mattresses for the children to sleep on as the family needs to accommodate space for a hospital bed for a terminally ill grandparent. There is no income earner in the family.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Melissa Sim",
+        "email": "melissasim@fycs.org",
+        "phone": [
+          "66901002",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Sep 2025"
+    },
+    {
       "id": "149531",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -963,6 +981,59 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "23 Aug 2025"
+    },
+    {
+      "id": "149569",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine (front load)",
+      "description": "Household of 3 (including a pri school child) living in rental flat dependent on public assistance. No income earners in the family presently due to accident that led to disability and is in the midst of recovery. Washing machine has broken down and currently using laundromat services, require a replacement which the family cannot afford.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Muhammad Suffian Bin Bahrin",
+        "email": "muhammadsuffian@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "22 Sep 2025"
+    },
+    {
+      "id": "149562",
+      "category": "Electrical Home Appliances",
+      "name": "TV",
+      "description": "Assisting an elderly couple who are unemployed and living in a one-room rental flat to obtain a functional second-hand TV, as their current unit is broken and no longer usable. Your support will greatly enhance their quality of life.",
+      "specifications": null,
+      "contact": {
+        "org": "Presbyterian Community Services",
+        "name": "Andy Toh",
+        "email": "andytoh@pcs.org.sg",
+        "phone": [
+          "67866826",
+          "63344445"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Sep 2025"
+    },
+    {
+      "id": "149560",
+      "category": "Electrical Home Appliances",
+      "name": "Television",
+      "description": "Senior is recovering from cancer and would like to have a television at home so she would feel less bored. She was previously working at a fast food restaurant and cancer treatment has depleted much of her savings.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Singapore's Active Ageing Centre @ Ang Mo Kio 469",
+        "name": "Kei Ng",
+        "email": "ngkhuankungkei@allkin.org.sg",
+        "phone": [
+          "60384367",
+          "64510898"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Sep 2025"
     },
     {
       "id": "149528",
@@ -5250,24 +5321,6 @@
       "date": "27 Aug 2025"
     },
     {
-      "id": "148776",
-      "category": "Others",
-      "name": "Abott Ensure Plus - Vanilla (200ml)",
-      "description": "Client is a 13-year-old male who was diagnosed with Acute Lymphoblastic Leukemia (blood cancer) in 2024 and is currently going through active treatment. He is currently going through complications and requires the use of an enteral feeding pump on a daily basis to aid with nutrition and caloric intake. He currently depends on a specialized formula (Abott Ensure Plus) administered through the pump to meet his nutritional needs. Current estimated use is approximately 60pkts per month. (2pkt per day) A similar item can be found here for your reference: https://abbottstore.com.sg/ensure-plus-vanilla-200ml.html",
-      "specifications": "Abott Ensure Plus - Vanilla (200ml)",
-      "contact": {
-        "org": "AIN Society",
-        "name": "Nur'Ain Binte Mohamed Said",
-        "email": "nurain@ainsociety.org.sg",
-        "phone": [
-          "68485116",
-          "68485166"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Aug 2025"
-    },
-    {
       "id": "148738",
       "category": "Others",
       "name": "10 Detergent",
@@ -5426,23 +5479,6 @@
       "date": "26 Aug 2025"
     },
     {
-      "id": "149468",
-      "category": "Medical Aids",
-      "name": "Adult Diapers (Brand: Tena Slip; Size: L)",
-      "description": "Client is experiencing post-surgical complications following the removal of her womb due to Stage 4 cancer. She is currently facing significant mobility challenges, including severe swelling in both feet caused by blood clots, which makes walking even short distances difficult.Due to her condition, she requires approximately five packets of adult diapers daily, as accessing the toilet is a struggle  as she needs to stand in order to urinate. Any donation of adult diapers, regardless of quantity, would greatly help ease her financial burden.If you are able to assist, please contact Tamilselvi via email at tamilselvi@thkmc.org.sg or WhatsApp at 8666 1336. Kindly arrange for the items to be delivered to our Family Service Centre (FSC).Thank you for your support and generosity.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Norlizawati Binte Hamid",
-        "email": "norlizawati@thkmc.org.sg",
-        "phone": [
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Sep 2025"
-    },
-    {
       "id": "149458",
       "category": "Medical Aids",
       "name": "M-sized Pull Up/ Pants Adult Diapers",
@@ -5476,24 +5512,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "19 Sep 2025"
-    },
-    {
-      "id": "149449",
-      "category": "Medical Aids",
-      "name": "Ensure Plus Vanilla (237ml)",
-      "description": "77-year-old patient with late stage cancer requires Ensure Plus Vanilla (237ml packets) for his nutrition. He drinks about 6 to 8 packets a day as his sole source of nutrition. Family is facing financial challenges to afford the milk feed - current financial assistance schemes are insufficient, and there is no income earner, since his wife is the sole caregiver while their son has just started his diploma studies, with no income earner in the family.\n\nIf keen to donate, please kindly contact me at 9727 4215. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Cancer Society",
-        "name": "Lim Yi Xi",
-        "email": "yixi_lim@singaporecancersociety.org.sg",
-        "phone": [
-          "97274215",
-          "62219578"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Sep 2025"
     },
     {
       "id": "149397",
@@ -5881,6 +5899,41 @@
       "date": "28 Aug 2025"
     },
     {
+      "id": "149568",
+      "category": "Attires/Clothings",
+      "name": "My First Skool uniform (Shirt size 22)",
+      "description": "Community Services & Programmes @ Children's Society requires 2 sets of My First Skool uniform (Shirt size 22) for the client's child. \nClient is requesting for secondhand uniform for her son as he just started Playgroup and she is not able to get extra sets of uniform for him. Client recently lost her job and is relying on financial assistance for her 3 children. \nDelivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society Corporate Office",
+        "name": "Kartini",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "69787279",
+          "62732010"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Sep 2025"
+    },
+    {
+      "id": "149566",
+      "category": "Attires/Clothings",
+      "name": "Preloved male pant and T shirt",
+      "description": "Client (M/55) who is currently unemployed due to trauma sustained from a traffic accident. He is undergoing treatment for mental health challenges and is facing significant financial hardship.\n\nAt present, he is unable to afford basic clothing. We are seeking donations of gently used clothing to help support him.\nPlease Whatsapp Suzanne at 86661355 or email to suzanne.eu@thkmc.org.sg to liaise.",
+      "specifications": "Size M",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Norlizawati Binte Hamid",
+        "email": "norlizawati@thkmc.org.sg",
+        "phone": [
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "22 Sep 2025"
+    },
+    {
       "id": "149271",
       "category": "Attires/Clothings",
       "name": "Clothes for male",
@@ -6068,6 +6121,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "149563",
+      "name": "Hand held fan",
+      "description": "///",
+      "location": null,
+      "validTill": "22 Oct 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "149556",
       "name": "Floor standing light",
       "description": "///",
@@ -6154,6 +6218,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "149567",
+      "name": "Chair",
+      "description": "4 pieces.",
+      "location": null,
+      "validTill": "22 Oct 2025",
+      "ageInYears": 2,
+      "dimensions": "Seat height 32cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "149514",
@@ -6365,17 +6440,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "148925",
-      "name": "Hospital bed",
-      "description": "Air bed",
-      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-      "validTill": "29 Sep 2025",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "148837",
       "name": "Children chairs",
       "description": "4 chairs",
@@ -6563,6 +6627,17 @@
       "category": "Infant and Children Items"
     },
     {
+      "id": "149558",
+      "name": "Wooden bucket",
+      "description": "///",
+      "location": null,
+      "validTill": "22 Oct 2025",
+      "ageInYears": 2,
+      "dimensions": "22cmDiax40cmH",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Kitchen Utility Items"
+    },
+    {
       "id": "149188",
       "name": "Zebra Stainless Steel pot",
       "description": "Zebra stainless steel pot with lid, 20cm. Non-halal. Used only a few times. Can be used on induction cooker.",
@@ -6605,6 +6680,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Kitchen Utility Items"
+    },
+    {
+      "id": "149561",
+      "name": "Sepak Takraw and Chatey",
+      "description": "///",
+      "location": null,
+      "validTill": "22 Oct 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Leisure and Healthy Lifestyle"
+    },
+    {
+      "id": "149557",
+      "name": "Flower pot and pot base",
+      "description": "///",
+      "location": null,
+      "validTill": "22 Oct 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Leisure and Healthy Lifestyle"
     },
     {
       "id": "149555",
@@ -6880,6 +6977,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "149565",
+      "name": "Containers",
+      "description": "///",
+      "location": null,
+      "validTill": "22 Oct 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "149564",
+      "name": "Clothes hanger",
+      "description": "///",
+      "location": null,
+      "validTill": "22 Oct 2025",
+      "ageInYears": 1,
+      "dimensions": "58cmW",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "149511",
