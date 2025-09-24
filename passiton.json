@@ -1086,24 +1086,6 @@
       "date": "24 Sep 2025"
     },
     {
-      "id": "149623",
-      "category": "Electrical Home Appliances",
-      "name": "Radio",
-      "description": "Senior needs a radio for sleeping purposes as she has difficulty falling asleep and needs a radio to minimize the noises from outside of home to be able to fall asleep. Currently, senior's radio was spoilt and senior was not able to buy one due to financial issues",
-      "specifications": null,
-      "contact": {
-        "org": "NTUC Health Cluster Support - Taman Jurong",
-        "name": "Aaron Cai",
-        "email": "yuxiang.c@ntuchealth.sg",
-        "phone": [
-          "94552302",
-          "62674197"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Sep 2025"
-    },
-    {
       "id": "149618",
       "category": "Electrical Home Appliances",
       "name": "Printer",
@@ -5907,57 +5889,6 @@
       "date": "27 Aug 2025"
     },
     {
-      "id": "149630",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "Client is a 65-year-old elderly lady living with her husband in a two-room rental flat. They are both retired and dependent on SSO financial assistance to meet their daily needs. Client's previous fixed wheelchair has spoilt (Footrest and handles have come off). She wishes to benefit from a donated wheelchair that has detachable footrest and handles instead such that she can continue to travel for medical appointments and around the community with more ease.",
-      "specifications": "Standard dimensions",
-      "contact": {
-        "org": "Montfort Care - @27 Family Service Centre",
-        "name": "Lee Yu Jun",
-        "email": "yujun.lee@montfortcare.org.sg",
-        "phone": [
-          "62708327"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Sep 2025"
-    },
-    {
-      "id": "149475",
-      "category": "Mobility Aids",
-      "name": "2-in-1 Walking Stick Umbrella",
-      "description": "86-year-old client has mild to moderate cognitive impairment, and has recently lost her walking aid. Her lack of excess financial resources, coupled with her limited informal social support, has resulted in her inability to replace her 2-in-1 umbrella walking stick that has been lost.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner - Community Case Management Service Central",
-        "name": "Alethia Toh",
-        "email": "alethiatoh@carecorner.org.sg",
-        "phone": [
-          "62586601"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Sep 2025"
-    },
-    {
-      "id": "149460",
-      "category": "Mobility Aids",
-      "name": "Foldable Walking Stick Chair",
-      "description": "The client is a 56-year-old man who lives alone in a two-room rental flat and suffers from ischemic heart disease, a condition that causes him to tire easily. He is currently receiving assistance from the Social Service Office (SSO) and has been assessed as unfit for work. Due to his limited stamina and the need for regular breaks while moving about, he requires a walking stick with a built-in foldable seat, similar to the one shown in the picture. This will allow him to use the stick for support while walking and to rest whenever necessary, helping him maintain a measure of independence in his daily activities despite his health challenges.",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Muhammamd Farhan Bin Abdul Rahman",
-        "email": "muhdfarhan.abdrahman@ppis.sg",
-        "phone": [
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Sep 2025"
-    },
-    {
       "id": "149314",
       "category": "Mobility Aids",
       "name": "PVC material wheelchair",
@@ -6216,17 +6147,6 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "149626",
-      "name": "K-Grill",
-      "description": "K-Grill",
-      "location": null,
-      "validTill": "15 Oct 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "149578",
       "name": "Water Dispenser 3M",
       "description": "3M Water Dispenser Model HCD-2\nstill in working condition\ncold water mode - not functioning\nhot water mode - working well",
@@ -6324,6 +6244,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "149636",
+      "name": "Two-seater Grey Fabric Sofa",
+      "description": "Two-seater fabric grey sofa that is in very good condition and rarely used. Had it for 3 years. Headrest can be adjusted. Need to remove it from home on 30 September.",
+      "location": "Boon Lay, Jurong, Tuas",
+      "validTill": "30 Sep 2025",
+      "ageInYears": 3,
+      "dimensions": "175cm x 95cm x 40cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "149613",
@@ -6533,6 +6464,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "149637",
+      "name": "Similac Formula Gain Stage 4 (age 3+)",
+      "description": "Unopened",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "24 Oct 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "149635",
+      "name": "Cuchen UV Sterilizer",
+      "description": "UV sterilizer for sterilizing baby bottles, teat etc.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "08 Oct 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "149580",
@@ -7017,28 +6970,6 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
-    },
-    {
-      "id": "149629",
-      "name": "Sharp microwave with grill (lightly used, urgent)",
-      "description": "Sharp multi function microwave with grill. Lightly used. Well kept and clean. \nUrgent, keep contact me immediately",
-      "location": "Cairnhill, Killiney, Orchard, River Valley",
-      "validTill": "30 Sep 2025",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Others"
-    },
-    {
-      "id": "149627",
-      "name": "Brand new Baby carrier (immediate)",
-      "description": "Brand new baby carrier. Navy. From birth to toddler",
-      "location": "Cairnhill, Killiney, Orchard, River Valley",
-      "validTill": "30 Sep 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Others"
     },
     {
       "id": "149591",
