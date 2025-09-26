@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "149679",
+      "category": "Home Furnishing",
+      "name": "Single bed frame with mattresss",
+      "description": "Client is 67 years old and staying in a rental unit alone. She is currently unemployed as she is still recovering from spinal surgery. She just got her keys from the rental unit and does not have any furnitures. She does not have any other form of support. Seeking for assistance to contact Nurul via Whatsapp at 98598767 for further information. Thank you in advance!",
+      "specifications": "Single",
+      "contact": {
+        "org": "PPIS Family Service Centre (East)",
+        "name": "Nur Afrina",
+        "email": "fsceast@ppis.sg",
+        "phone": [
+          "60156970"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Sep 2025"
+    },
+    {
       "id": "149662",
       "category": "Home Furnishing",
       "name": "Cupboard",
@@ -277,23 +294,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "23 Sep 2025"
-    },
-    {
-      "id": "149576",
-      "category": "Home Furnishing",
-      "name": "Super Single mattress",
-      "description": "Single mum with 3 children looking for one super single mattress to replace the current mattress on the bunk bed. Family is under financial assistance and does not have enough to buy a replacement. Mum has medical conditions which restrict her ability to work full-time.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Ye Jiancheng",
-        "email": "jiancheng@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Sep 2025"
     },
     {
       "id": "149531",
@@ -1330,24 +1330,6 @@
       "date": "24 Sep 2025"
     },
     {
-      "id": "149610",
-      "category": "Electrical Home Appliances",
-      "name": "Cooking stove",
-      "description": "Client recently relocated to a new rental unit. She needs a new gas cooking stove as her previous old is faulty.\n \nClient's husband is incarcerated and not able to provide financial support. Client also does not receive any support from her family of origin. Client has stopped working for a month to prepare for the relocation and does not have enough savings. Client is main caregiver and sole breadwinner for her two sons aged 2 and 14 years old",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Yishun",
-        "name": "Loretta Chan",
-        "email": "loretta_chan@msf.gov.sg",
-        "phone": [
-          "67569127",
-          "18002220000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Sep 2025"
-    },
-    {
       "id": "149608",
       "category": "Electrical Home Appliances",
       "name": "Cooking stove",
@@ -1396,23 +1378,6 @@
         "phone": [
           "67799488ext54",
           "67799488"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Sep 2025"
-    },
-    {
-      "id": "149598",
-      "category": "Electrical Home Appliances",
-      "name": "Standing Fan",
-      "description": "Mbr is the sole breadwinner as her husband recently underwent surgery and is temporarily unable to work. They live in a rental flat. Their standing fan has broken down.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Hanissah Abdullah",
-        "email": "hanissah@sccfsc.org.sg",
-        "phone": [
-          "64619200"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1519,24 +1484,6 @@
         "phone": [
           "60384138",
           "60384120"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Sep 2025"
-    },
-    {
-      "id": "149519",
-      "category": "Electrical Home Appliances",
-      "name": "Induction Cooker",
-      "description": "Family consist of a single mother and her pre-school age son. They just moved into their new rental flat and is looking for an single stove induction cooker that is suitable for all pot types so that they can do some light cooking at home.",
-      "specifications": "For all Pot Types",
-      "contact": {
-        "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
-        "name": "Grace Lim",
-        "email": "grace_lim@msf.gov.sg",
-        "phone": [
-          "68590811",
-          "62957205"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -6260,17 +6207,6 @@
       "validTill": "26 Oct 2025",
       "ageInYears": 4,
       "dimensions": "123 x 25 x 75 cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "149667",
-      "name": "Roborock Vacuum",
-      "description": "Roborock Vacuum 7 Max Ultra",
-      "location": "Balestier, Toa Payoh",
-      "validTill": "24 Oct 2025",
-      "ageInYears": 3,
-      "dimensions": "NA",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
     },
