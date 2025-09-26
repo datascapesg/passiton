@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "149679",
-      "category": "Home Furnishing",
-      "name": "Single bed frame with mattresss",
-      "description": "Client is 67 years old and staying in a rental unit alone. She is currently unemployed as she is still recovering from spinal surgery. She just got her keys from the rental unit and does not have any furnitures. She does not have any other form of support. Seeking for assistance to contact Nurul via Whatsapp at 98598767 for further information. Thank you in advance!",
-      "specifications": "Single",
-      "contact": {
-        "org": "PPIS Family Service Centre (East)",
-        "name": "Nur Afrina",
-        "email": "fsceast@ppis.sg",
-        "phone": [
-          "60156970"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Sep 2025"
-    },
-    {
       "id": "149662",
       "category": "Home Furnishing",
       "name": "Cupboard",
@@ -1131,42 +1114,6 @@
         "phone": [
           "63548217",
           "18002220000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Sep 2025"
-    },
-    {
-      "id": "149683",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator/Fridge",
-      "description": "Family of 2, consisting single mother client and 1-year old child, relies on her income, which has been ad-hoc due to her caregiving duties. They will be newly moving into a 1-room HDB rental flat and require a refrigerator for their basic daily living.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
-        "name": "Lisette Tan",
-        "email": "lisette_tan@msf.gov.sg",
-        "phone": [
-          "63548217",
-          "18002220000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Sep 2025"
-    },
-    {
-      "id": "149681",
-      "category": "Electrical Home Appliances",
-      "name": "Washing machine",
-      "description": "Single mother staying in Woodlands rental flat with multiple health conditions is in need of a washing machine. The family of 4 has a single breadwinner and has a tight budget for their daily needs. They are unable to afford a new washing machine and are open to donations.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Woodlands, Sembawang",
-        "name": "Sarrani Krishnan",
-        "email": "sarrani_krishnan@msf.gov.sg",
-        "phone": [
-          "68678568",
-          "67660097"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -6851,6 +6798,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "149686",
+      "name": "Lay Beng Koh",
+      "description": "4 new trollies \ninner basket 27 cm by 31 cm height 43cm\nI will send directly to area near Jalan Besar, Gelyang Bahru and Balestier only",
+      "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+      "validTill": "15 Oct 2025",
+      "ageInYears": 1,
+      "dimensions": "Inner basket 27 cm by 31 cm height 43cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "149652",
