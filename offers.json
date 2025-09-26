@@ -33,17 +33,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "149678",
-    "name": "OLED TV",
-    "description": "OLED TV (55\") with remote control. Please note there is no external digital antenna. This is required to tune in to free local channels.",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "26 Oct 2025",
-    "ageInYears": 4,
-    "dimensions": "123 x 25 x 75 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "149563",
     "name": "Hand held fan",
     "description": "///",
@@ -548,6 +537,17 @@
     "dimensions": "250 x 120cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "149682",
+    "name": "medical items",
+    "description": "items less than 3 mths old",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "05 Oct 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "149655",

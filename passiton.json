@@ -1119,6 +1119,42 @@
       "date": "26 Aug 2025"
     },
     {
+      "id": "149681",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "Single mother staying in Woodlands rental flat with multiple health conditions is in need of a washing machine. The family of 4 has a single breadwinner and has a tight budget for their daily needs. They are unable to afford a new washing machine and are open to donations.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Woodlands, Sembawang",
+        "name": "Sarrani Krishnan",
+        "email": "sarrani_krishnan@msf.gov.sg",
+        "phone": [
+          "68678568",
+          "67660097"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Sep 2025"
+    },
+    {
+      "id": "149680",
+      "category": "Electrical Home Appliances",
+      "name": "Electric cooking stove",
+      "description": "Family of 4 just moved into a new place and have limited household items. Their financial situation is unstable. An electric cooking stove will enable them to be able to cook.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Karen Goh",
+        "email": "karengoh@fycs.org",
+        "phone": [
+          "63519522",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "26 Sep 2025"
+    },
+    {
       "id": "146876",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine (Top Load)",
@@ -2086,23 +2122,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "08 Sep 2025"
-    },
-    {
-      "id": "149129",
-      "category": "Electrical Home Appliances",
-      "name": "Refrigerator (Halal)",
-      "description": "Low income family of 5 - Mother, father and 3 children (4 y/o, 8 y/o, 12 y/o) has just gotten their rental flat and is moving in with her husband and 3 children and requires a refrigerator. If you have a suitable item please WhatsApp me at 6843 9619 thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Family Service Centre - Tampines",
-        "name": "Han Wen Ting",
-        "email": "hanwenting@mws.sg",
-        "phone": [
-          "67872001"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "08 Sep 2025"
     },
     {
@@ -6200,17 +6219,6 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "149678",
-      "name": "OLED TV",
-      "description": "OLED TV (55\") with remote control. Please note there is no external digital antenna. This is required to tune in to free local channels.",
-      "location": "Cairnhill, Killiney, Orchard, River Valley",
-      "validTill": "26 Oct 2025",
-      "ageInYears": 4,
-      "dimensions": "123 x 25 x 75 cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "149563",
       "name": "Hand held fan",
       "description": "///",
@@ -6715,6 +6723,17 @@
       "dimensions": "250 x 120cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Learning Aids"
+    },
+    {
+      "id": "149682",
+      "name": "medical items",
+      "description": "items less than 3 mths old",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "05 Oct 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
     },
     {
       "id": "149655",
