@@ -1085,24 +1085,6 @@
       "date": "26 Sep 2025"
     },
     {
-      "id": "149680",
-      "category": "Electrical Home Appliances",
-      "name": "Electric cooking stove",
-      "description": "Family of 4 just moved into a new place and have limited household items. Their financial situation is unstable. An electric cooking stove will enable them to be able to cook.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Karen Goh",
-        "email": "karengoh@fycs.org",
-        "phone": [
-          "63519522",
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Sep 2025"
-    },
-    {
       "id": "146876",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine (Top Load)",
@@ -6157,6 +6139,17 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "149687",
+      "name": "Soft toy",
+      "description": "Christmas bear.",
+      "location": null,
+      "validTill": "27 Oct 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
       "id": "149580",
       "name": "Crib/toddler 2 in 1",
       "description": "White wooden baby crib\n- Classic design with slatted sides\n- Drop-down side for easy access\n- Includes mattress",
@@ -6507,6 +6500,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "149688",
+      "name": "Wall hanging toilet paper box",
+      "description": "Can arrange to meet at convenient place",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "27 Oct 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "149686",
