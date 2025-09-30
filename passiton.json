@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "149813",
+      "category": "Home Furnishing",
+      "name": "2-3 seater sofa",
+      "description": "An elderly couple's sofa has broken. Elderly man in his 60s use to sleep on sofa. Currently sleeping on the floor. A replacement sofa will be helpful for his needs. Elderly is on financial assistance. Donation of sofa will greatly alleviate their financial stressors.",
+      "specifications": null,
+      "contact": {
+        "org": "Kampong Kapor Community Services",
+        "name": "Khairunisa Binte Rusli",
+        "email": "khairunisarusli@kkcs.org.sg",
+        "phone": [
+          "62997662"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Sep 2025"
+    },
+    {
       "id": "149811",
       "category": "Home Furnishing",
       "name": "Bunk bed - Queen/Single",
@@ -5918,6 +5935,17 @@
       "dimensions": "Shoe box",
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
+    },
+    {
+      "id": "149814",
+      "name": "Fridge",
+      "description": "Electrolux bar fridge 90 litres capacity",
+      "location": null,
+      "validTill": "30 Oct 2025",
+      "ageInYears": 2,
+      "dimensions": "90 litres",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
     },
     {
       "id": "149563",
