@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "149770",
+      "category": "Home Furnishing",
+      "name": "Queen Size Mattress",
+      "description": "A family has 5 children ranging from primary school to a new born. The father just lost his food delivery job as he just lost his e-bike. The mother just gave birth and is on confinement. The family requires a queen size mattress.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+        "name": "Premilla d/0 Gunasekaran",
+        "email": "premilla_gunasekaran@msf.gov.sg",
+        "phone": [
+          "62139480",
+          "64244017"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Sep 2025"
+    },
+    {
       "id": "149763",
       "category": "Home Furnishing",
       "name": "Anti-slip mat (long)",
@@ -5800,6 +5818,17 @@
       "dimensions": "L 46  x  W 38 x H 28 cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Leisure and Healthy Lifestyle"
+    },
+    {
+      "id": "149771",
+      "name": "Philips 20inch desktops x 2",
+      "description": "Pick up at Tanjong Pagar on Wed or Bencoolen from Friday onwards",
+      "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+      "validTill": "24 Oct 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Learning Aids"
     },
     {
       "id": "149715",
