@@ -110,6 +110,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "150023",
+    "name": "Dining table with chairs",
+    "description": "Transportation can be provided if client is unable to afford it",
+    "location": null,
+    "validTill": "30 Oct 2025",
+    "ageInYears": 4,
+    "dimensions": "Lx166, Wx90  Lx211 Wx90 (extended)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "149916",
     "name": "Tempur Cloud Mattress Queen Size",
     "description": "Bought this mattress new around 8years ago. Still in good condition. Will include a mattress protector. I decided to get a replacement as I wanted something firmer for my back.",
@@ -539,7 +550,7 @@
     "category": "Learning Aids"
   },
   {
-    "id": "150000",
+    "id": "150022",
     "name": "Wheelchair - Bion brand",
     "description": "Excellent condition Bion wheelchair. New seat cushion.",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
@@ -583,17 +594,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "149905",
-    "name": "Commode chair",
-    "description": "Commode chair with pot and seat cover",
-    "location": null,
-    "validTill": "02 Nov 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "149899",
     "name": "Electrical hoist",
     "description": "Full body lectrical hoist for lifting patients  with limited mobility",
@@ -612,6 +612,17 @@
     "validTill": "31 Oct 2025",
     "ageInYears": 2,
     "dimensions": "to be confirmed",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "150011",
+    "name": "Commode",
+    "description": "Aluminium commode. Complete set. Used once to test patient's suitability. Kept in dry storage. Interested VWO please contact me. Delivery will be made after office hours and weekends.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "29 Oct 2025",
+    "ageInYears": 1,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
