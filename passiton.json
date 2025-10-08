@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "150077",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "We are writing on behalf of a low-income family of five who urgently require a washing machine. Without one, they are faced with costly laundromat visits and time-consuming hand-washing, which places additional strain on their already limited budget. A washing machine would help ensure that the three young children have clean clothes for preschool and school whilst reducing ongoing expenses. If you are able to assist with a working washing machine or contribute towards purchasing one, your generosity would be greatly appreciated. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Woodlands, Sembawang",
+        "name": "Swathi Lakshmi",
+        "email": "swathi_lakshmi@msf.gov.sg",
+        "phone": [
+          "63548517",
+          "67660097"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 Oct 2025"
+    },
+    {
       "id": "150076",
       "category": "Electrical Home Appliances",
       "name": "Clothes Dryer",
@@ -1376,24 +1394,6 @@
       "id": "150074",
       "category": "Home Furnishing",
       "name": "Queen-Sized Mattress",
-      "description": "A young single mother for 2 children is currently unemployed due to prior family violence concerns that limited her bandwidth in staying in stable employment. Client has recently moved out to her own HDB rental flat and requires support in assisting her with furnishing her new rental flat with basic essentials while she tries to secure a stable employment.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bukit Panjang",
-        "name": "Muhammad Idris Bin Mohd Margono",
-        "email": "idris.margono@thkmc.org.sg",
-        "phone": [
-          "87145182",
-          "67671740"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Oct 2025"
-    },
-    {
-      "id": "150073",
-      "category": "Home Furnishing",
-      "name": "TV Console",
       "description": "A young single mother for 2 children is currently unemployed due to prior family violence concerns that limited her bandwidth in staying in stable employment. Client has recently moved out to her own HDB rental flat and requires support in assisting her with furnishing her new rental flat with basic essentials while she tries to secure a stable employment.",
       "specifications": null,
       "contact": {
@@ -6561,17 +6561,6 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "150075",
-      "name": "LG Refrigerator",
-      "description": "Gasket is faulty. We are getting it replaced and make sure it is fits well before donating. If it does not fit well, then we will not be able to donate. New gasket will only arrive on 12 Oct. If all is good, target delivery date will be 17 Oct, Friday.",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "07 Nov 2025",
-      "ageInYears": 4,
-      "dimensions": "780 (W) X 730 (D) X 1800 (H) mm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "150028",
       "name": "General Electric Fridge",
       "description": "Probably more than 10 years of age but working well. Would appreciate if you could collect by 10-Oct as we are clearing the house.",
@@ -6579,17 +6568,6 @@
       "validTill": "31 Oct 2025",
       "ageInYears": 4,
       "dimensions": "L 72cm x W 57cm x H 168cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "149997",
-      "name": "Air Purifier",
-      "description": "3pcs lightly used Hitachi air purifier. I will self deliver to area near district 12 like Jalan Besar, Geylang Bahru & Balestier only. Thank you.",
-      "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
-      "validTill": "31 Oct 2025",
-      "ageInYears": 1,
-      "dimensions": "40cm x 12 cm x 43 cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
     },
@@ -6689,17 +6667,6 @@
       "validTill": "12 Oct 2025",
       "ageInYears": 4,
       "dimensions": "see pics",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "149885",
-      "name": "white tempered glass with wooden legs 1.6m dining table. Comes with 1.6m bench for sitting.",
-      "description": "white tempered glass with wooden legs 1.6m dining table. Comes with 1.6m bench for sitting.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "30 Oct 2025",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
