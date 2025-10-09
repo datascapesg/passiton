@@ -1,6 +1,57 @@
 {
   "requests": [
     {
+      "id": "150105",
+      "category": "Electrical Home Appliances",
+      "name": "2-door fridge",
+      "description": "Elderly malay aunty 60 plus yrs old living in HDB rental flat needs mid-size (i.e., 200 to 300L or approx 600x1650mm) 2-door fridge. The thermostat of her current fridge is faulty. Many Thanks.",
+      "specifications": "200 to 300L",
+      "contact": {
+        "org": "Moral Active Ageing Centre @ Kaki Bukit",
+        "name": "Gary Tan",
+        "email": "garytan@chkmps.org.sg",
+        "phone": [
+          "64486247"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Oct 2025"
+    },
+    {
+      "id": "150104",
+      "category": "Electrical Home Appliances",
+      "name": "Top-loading Washing Machine (7 kg or smaller)",
+      "description": "Elderly malay aunty 60 plus yrs old living in HDB rental flat needs top-loading washing machine. Her current washing machine has broken down. Because of the space problem, the ideal size would be 7kg. Many Thanks.",
+      "specifications": "7 kg",
+      "contact": {
+        "org": "Moral Active Ageing Centre @ Kaki Bukit",
+        "name": "Gary Tan",
+        "email": "garytan@chkmps.org.sg",
+        "phone": [
+          "64486247"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Oct 2025"
+    },
+    {
+      "id": "150100",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Family has 3 school-going children who requires a working HALAL fridge to prepare home cooked meals. Their current fridge is faulty and unable to store premade food well. Both parents are unemployed due to chronic illness.",
+      "specifications": "sufficient for 5 pax",
+      "contact": {
+        "org": "Care Corner Family Service Centre - Admiralty",
+        "name": "Shanell Tan",
+        "email": "shanelltan@carecorner.org.sg",
+        "phone": [
+          "63658751"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Oct 2025"
+    },
+    {
       "id": "150099",
       "category": "Electrical Home Appliances",
       "name": "Landline Phone Set",
@@ -487,24 +538,6 @@
         "phone": [
           "63548517",
           "67660097"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Sep 2025"
-    },
-    {
-      "id": "149743",
-      "category": "Electrical Home Appliances",
-      "name": "Fridge",
-      "description": "Couple is living in a rental flat. Husband is 57, wife is 63. Husband is unable to work due to his heart condition which requires him to wear a portable heart pump 24/7. Wife is facing difficulty with finding a suitable employment due to her diagnosis of early Dementia. Preferably looking for a bottom freezer fridge for husband to have easier access to the fridge compartment as he cannot bend down.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - GoodLife! @ Yishun",
-        "name": "Samuel Chan",
-        "email": "samuel.chan@montfortcare.org.sg",
-        "phone": [
-          "96423819",
-          "64848040"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -4055,6 +4088,41 @@
       "date": "08 Sep 2025"
     },
     {
+      "id": "150102",
+      "category": "Infant and Children Items",
+      "name": "Milk powder (1-2 tins) Lvl 1",
+      "description": "Client has five children, having recently given birth to one. She is experiencing both caregiving and financial stress, as her husband's income is unstable due to a workplace injury impacting their household finances. As such, they are requesting support for some neccessities for their youngest child,in particular milk powder.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services SSO @ Taman Jurong",
+        "name": "Chan Yvonne",
+        "email": "yvonne-chan@fycs.org",
+        "phone": [
+          "69783516",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Oct 2025"
+    },
+    {
+      "id": "150101",
+      "category": "Infant and Children Items",
+      "name": "Baby Diaper",
+      "description": "The client has 2 children aged 3 yrs old and 6 yrs old and who requires pull up pants diapers. She is a single young mother who is currently unemployed.",
+      "specifications": "4 packets of Mamy Poko Pants Dry Absorb, Size XXL",
+      "contact": {
+        "org": "Care Corner Family Service Centre - Admiralty",
+        "name": "Shanell Tan",
+        "email": "shanelltan@carecorner.org.sg",
+        "phone": [
+          "63658751"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Oct 2025"
+    },
+    {
       "id": "150098",
       "category": "Infant and Children Items",
       "name": "XL Drypers Drypants",
@@ -6814,6 +6882,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "150103",
+      "name": "2 seated sofa",
+      "description": "Good condition",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "08 Nov 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "150094",
       "name": "Arm chair and side table",
       "description": "Transport not included\n- Charming, vintage style rattan chaise lounge and side table in perfect condition.  \n- Suitable for indoor or covered patio.\n- Light and easy to carry.",
@@ -6843,17 +6922,6 @@
       "validTill": "07 Nov 2025",
       "ageInYears": 4,
       "dimensions": "132cm x 58cm x 76cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "150036",
-      "name": "Geriatric luxury chair",
-      "description": "Geriatric chair, slightly worn out leather, but works fine and useful for elderly with mobility issues",
-      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-      "validTill": "06 Nov 2025",
-      "ageInYears": 4,
-      "dimensions": "1.5m by 1.2m",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -7241,6 +7309,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Learning Aids"
+    },
+    {
+      "id": "150106",
+      "name": "medical items",
+      "description": "items are 3 mths old",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "08 Nov 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
     },
     {
       "id": "150091",
