@@ -245,23 +245,6 @@
       "date": "08 Oct 2025"
     },
     {
-      "id": "150050",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Client and her family are currently facing financial challenges. Client is actively seeking employment after being terminated from her job in late August. Her husband who was involved in a bike accident around the same time, is currently on medical leave while recovering from his injuries. Due to the tight financial situation, the family is unable to replace their broken washing machine.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore After Care Association",
-        "name": "Lin Mingjie",
-        "email": "mingjie@saca.org.sg",
-        "phone": [
-          "62942350"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Oct 2025"
-    },
-    {
       "id": "150045",
       "category": "Electrical Home Appliances",
       "name": "Vacuum cleaner",
@@ -1505,23 +1488,6 @@
         "phone": [
           "69783516",
           "62672900"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Oct 2025"
-    },
-    {
-      "id": "150092",
-      "category": "Home Furnishing",
-      "name": "Mattress (Single)",
-      "description": "A 77 year old elderly from a low-income background who lives alone requires a single-sized spring mattress.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Jocelyn Joy Gwee",
-        "email": "Jocelyn@sccfsc.org.sg",
-        "phone": [
-          "64619200"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -5906,24 +5872,6 @@
       "date": "12 Sep 2025"
     },
     {
-      "id": "150127",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "Client is a 76 year-old elderly caregiver for elderly wife and sister at Telok Blangah. They reside in a 1-room rental flat. Client is looking for a wheelchair (preferably with smaller wheels) for his elderly sister, to bring her around for medical appointments. \nFor further clarifications, please feel free to contact me directly at 91509816.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - @27 Family Service Centre",
-        "name": "Muhammad Nor Hilman Bin Samsuri",
-        "email": "hilman.samsuri@montfortcare.org.sg",
-        "phone": [
-          "91509816",
-          "62708327"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Oct 2025"
-    },
-    {
       "id": "150126",
       "category": "Mobility Aids",
       "name": "4-legged walking frame",
@@ -6196,6 +6144,17 @@
       "dimensions": "Approx. 90cm x 26 - 28mm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "150192",
+      "name": "1.8m Teak Dining Table",
+      "description": "Teak Dining Table is good condition (scratches and light stains). Got it from The Helping Hands about 5 years ago. Changing as we need to upsize our table.",
+      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+      "validTill": "31 Oct 2025",
+      "ageInYears": 4,
+      "dimensions": "1.8 x 0.8 x 0.8 meters",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "150182",
