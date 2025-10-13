@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "150212",
+      "category": "Electrical Home Appliances",
+      "name": "Top Load Washing Machine",
+      "description": "Client is currently unemployed as he has been facing medical complications after getting into a car accident. He has just gotten his rental flat and needs a washing machine.",
+      "specifications": null,
+      "contact": {
+        "org": "Whampoa Family Service Centre",
+        "name": "Clarissa Ang",
+        "email": "clarissaang@kkcs.org.sg",
+        "phone": [
+          "63260300"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Oct 2025"
+    },
+    {
       "id": "145206",
       "category": "Electrical Home Appliances",
       "name": "Smart TV",
@@ -2640,23 +2657,6 @@
       "date": "02 Oct 2025"
     },
     {
-      "id": "150158",
-      "category": "Others",
-      "name": "Keyboard",
-      "description": "Looking for x2 keyboard with at least 61 keys for the use of Community Work Programme. These keyboard will help to increase participant's self-efficacy and emotional awareness through learning and playing.",
-      "specifications": "-",
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Darren Tan",
-        "email": "darrentankr@fycs.org",
-        "phone": [
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Oct 2025"
-    },
-    {
       "id": "150156",
       "category": "Others",
       "name": "Handphone",
@@ -3310,6 +3310,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "16 Sep 2025"
+    },
+    {
+      "id": "150213",
+      "category": "Infant and Children Items",
+      "name": "Size S and M baby diapers",
+      "description": "Family has 4 children (NB,1,2,3yo). Mom has just given birth to the newborn in Sept. Client is requesting for diapers support for her 1yo and newborn. They do not have preference in brand or type (tape/pants). Husband is the sole breadwinner of family that usually earns only around $2k per month to support family of 6. However husband is also currently not working as he is staying home to assist client with her confinement, hence it is currently a financially challenging period for them. If you have a suitable item please WhatsApp me at 6843 9619 thank you!",
+      "specifications": "Size S and M diapers",
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Han Wen Ting",
+        "email": "hanwenting@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Oct 2025"
     },
     {
       "id": "150201",
@@ -5501,6 +5518,24 @@
       "date": "12 Sep 2025"
     },
     {
+      "id": "150215",
+      "category": "Medical Aids",
+      "name": "Nestle Nutren Diabetes Powder",
+      "description": "Client is in his 60s, battling diabetes and chronic leg pain, and recently went through a knee replacement surgery. He is not fit for work and his only daughter is recently diagnosed with cancer, further limiting their ability to generate an income.",
+      "specifications": "800g",
+      "contact": {
+        "org": "AIN Society",
+        "name": "Nur'Ain Binte Mohamed Said",
+        "email": "nurain@ainsociety.org.sg",
+        "phone": [
+          "68485116",
+          "68485166"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Oct 2025"
+    },
+    {
       "id": "150144",
       "category": "Medical Aids",
       "name": "Single sized hospital foam mattress",
@@ -5677,6 +5712,41 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "12 Sep 2025"
+    },
+    {
+      "id": "150216",
+      "category": "Mobility Aids",
+      "name": "Standard Foldable Wheelchair",
+      "description": "A household of 4 residing in a public rental flat in Yishun requires assistance with a wheelchair for their 79-year-old grandmother. The family consists of a 51-year-old father working as a delivery rider (sole breadwinner with limited, fluctuating income), a 49-year-old mother serving as primary caregiver for the grandmother, and their 17-year-old daughter. The elderly grandmother has significant mobility challenges, being physically weak and unable to move around independently. Her previous wheelchair has broken down, but the family cannot afford a replacement due to financial constraints. A wheelchair would significantly improve the grandmother's quality of life by aiding her mobility, enhancing her safety, and allowing her to spend time outside.",
+      "specifications": "Standard Foldable Wheelchair",
+      "contact": {
+        "org": "MSF Social Service Office @ Yishun",
+        "name": "Marc Chong",
+        "email": "marc_chong@msf.gov.sg",
+        "phone": [
+          "63548497",
+          "18002220000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Oct 2025"
+    },
+    {
+      "id": "150214",
+      "category": "Mobility Aids",
+      "name": "Wheelchair",
+      "description": "Client is an amputee with other chronic health issues (i.e., kidney failure) and has been declared by doctor to be medically unfit for work. Currently staying with elderly parents (father is an amputee and mother has high fall risk). His wheelchair recently broke when he was transferring himself from the couch to the wheelchair. Client is currently using a wheelchair that is too small for him and is experiencing pain from using it.",
+      "specifications": "20\"",
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Muhammad Suffian Bin Bahrin",
+        "email": "muhammadsuffian@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "13 Oct 2025"
     },
     {
       "id": "150204",
@@ -5938,28 +6008,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "150205",
-      "name": "Mitsubishi Electric Refrigerator",
-      "description": "Delivery can be arranged for 25-27 October.",
-      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-      "validTill": "27 Oct 2025",
-      "ageInYears": 4,
-      "dimensions": "635mm (Width) x 1788mm (Height) x 693mm (Depth)",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "150206",
-      "name": "Mitsubishi Electric Refrigerator",
-      "description": "Delivery can be arranged for 25-27 October.",
-      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-      "validTill": "27 Oct 2025",
-      "ageInYears": 4,
-      "dimensions": "635mm (Width) x 1788mm (Height) x 693mm (Depth)",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "149563",
       "name": "Hand held fan",
       "description": "///",
@@ -6000,17 +6048,6 @@
       "validTill": "01 Nov 2025",
       "ageInYears": 2,
       "dimensions": "45cm x 160cm x 54cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "150195",
-      "name": "Single size mattress",
-      "description": "Mattress only. Lightly used. Regular mattress cleaning done and will also do one more round before donation",
-      "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-      "validTill": "31 Oct 2025",
-      "ageInYears": 3,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -6087,28 +6124,6 @@
       "location": "Pasir Ris, Simei, Tampines",
       "validTill": "09 Nov 2025",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "150151",
-      "name": "Super Single Bed Frames",
-      "description": "I have 2 x Super Single teakwood bed frames to donate.",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "09 Nov 2025",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "150149",
-      "name": "Queen sized Teak Wood Bed Frame",
-      "description": "1 Teakwood Queen-sized + 2 Teakwood SS-sized Bed frames, very new.",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "09 Nov 2025",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
