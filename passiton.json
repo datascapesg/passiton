@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "145206",
+      "category": "Electrical Home Appliances",
+      "name": "Smart TV",
+      "description": "Ct is a widow with multiple medical conditions, and wheelchair-bound. She is also the caregiver of her 3yo grandson. The family's TV is spoilt, and she would like to request for another one, as it is a means to engage 3yo when he is not in school, and she needs to rest.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Bukit Panjang",
+        "name": "Muhammad Idris Bin Mohd Margono",
+        "email": "idris.margono@thkmc.org.sg",
+        "phone": [
+          "87145182",
+          "67671740"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Oct 2025"
+    },
+    {
       "id": "149164",
       "category": "Electrical Home Appliances",
       "name": "Television",
@@ -787,24 +805,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "25 Sep 2025"
-    },
-    {
-      "id": "149631",
-      "category": "Electrical Home Appliances",
-      "name": "Air purifier",
-      "description": "Family with6 children, and staying in a HDB rental flat. Father is the sole breadwinner. Family requires an air purifier as they own pet cats (which are for regulating children's emotions and wellbeing) and has family members that has eczema.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bukit Panjang",
-        "name": "Muhammad Idris Bin Mohd Margono",
-        "email": "idris.margono@thkmc.org.sg",
-        "phone": [
-          "87145182",
-          "67671740"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Sep 2025"
     },
     {
       "id": "149618",
@@ -5993,6 +5993,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "150211",
+      "name": "TV Console",
+      "description": "Bought from Starliving at tampines on January 2023. Still in good condition, eventhough there is a use and tear marks. Try to change a bigger tv console to store some my kids books.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "01 Nov 2025",
+      "ageInYears": 2,
+      "dimensions": "45cm x 160cm x 54cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "150195",
       "name": "Single size mattress",
       "description": "Mattress only. Lightly used. Regular mattress cleaning done and will also do one more round before donation",
@@ -6076,17 +6087,6 @@
       "location": "Pasir Ris, Simei, Tampines",
       "validTill": "09 Nov 2025",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "150154",
-      "name": "Coffee table",
-      "description": "Cute small coffee table made of teakwood",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "09 Nov 2025",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
