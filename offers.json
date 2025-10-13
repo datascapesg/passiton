@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "150223",
+    "name": "2-door fridge",
+    "description": "2-door fridge appx 7-8 years. Working condition.",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "20 Oct 2025",
+    "ageInYears": 4,
+    "dimensions": "Appx 60W x 65D x 170H",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "150200",
     "name": "Air Purifier",
     "description": "2 pieces. I will deliver to area near district 12 only example Jalan Besar, Balestier, Geylang Bahru etc.",
@@ -84,6 +95,17 @@
     "validTill": "01 Nov 2025",
     "ageInYears": 2,
     "dimensions": "45cm x 160cm x 54cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "150196",
+    "name": "Queen Bed Frame & Mattress",
+    "description": "IKEA Queen Bed Frame w/ Mattress",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "17 Oct 2025",
+    "ageInYears": 1,
+    "dimensions": "150 x 200",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -559,17 +581,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
-  },
-  {
-    "id": "150193",
-    "name": "Medical items",
-    "description": "Items less than 3 mths",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "31 Oct 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
   },
   {
     "id": "150091",
