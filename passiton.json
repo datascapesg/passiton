@@ -5695,6 +5695,23 @@
       "date": "15 Sep 2025"
     },
     {
+      "id": "150250",
+      "category": "Kitchen Utility Items",
+      "name": "Halal rice cooker",
+      "description": "A family of 8 is currently facing financial stressors. Family is on financial assistance and is dependent on a breadwinner's income. Their rice cooker is about to spoil and would like to request for one to replace their current one.",
+      "specifications": null,
+      "contact": {
+        "org": "Kampong Kapor Community Services",
+        "name": "Khairunisa Binte Rusli",
+        "email": "khairunisarusli@kkcs.org.sg",
+        "phone": [
+          "62997662"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Oct 2025"
+    },
+    {
       "id": "149481",
       "category": "Kitchen Utility Items",
       "name": "Portable gas stove",
@@ -5987,6 +6004,17 @@
       "dimensions": "Approx. 90cm x 26 - 28mm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "150248",
+      "name": "Super Single Bed with mattress",
+      "description": "A lightly used bed",
+      "location": "Boon Lay, Jurong, Tuas",
+      "validTill": "21 Oct 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "150242",
@@ -6297,11 +6325,44 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "150249",
+      "name": "Green Joeie Stroller",
+      "description": "Used Joeie Stroller",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "13 Nov 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
       "id": "150202",
       "name": "Kids Book",
       "description": "All items to give away.",
       "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
       "validTill": "12 Nov 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "150251",
+      "name": "Kim Huang",
+      "description": "Joie double stroller, actual item in storage but good condition. Red in colour.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "10 Nov 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "150252",
+      "name": "Kim Huang",
+      "description": "Joie double stroller, actual item in storage but good condition. Red in colour.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "10 Nov 2025",
       "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
