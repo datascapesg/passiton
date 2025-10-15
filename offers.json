@@ -88,17 +88,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "150281",
-    "name": "Wardrobe",
-    "description": "2/3 door cupboard with 2 drawers, not lockable",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "05 Nov 2025",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "150265",
     "name": "Queen size mattress and base",
     "description": "Queen size mattress and base. Excellent quality and in excellent condition. Always used with a mattress protector.",
@@ -636,6 +625,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "150292",
+    "name": "Electric hospital bed",
+    "description": "Fully functional electric hospital bed in good condition",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "14 Nov 2025",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "150224",
