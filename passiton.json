@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "150321",
+      "category": "Electrical Home Appliances",
+      "name": "Television",
+      "description": "An elderly resident, who lives alone in a rental flat, is requesting a functional television set. Due to being wheelchair-bound and dealing with chronic medical conditions, he is largely confined to his home and rarely able to go out. His primary window to the world—his current TV—has stopped working. For him, watching television is more than just entertainment; it's a vital way to stay connected to news, events, and community life, helping to alleviate the profound isolation that comes with his limited mobility.",
+      "specifications": "32'",
+      "contact": {
+        "org": "Lakeside Family Centre - Jurong East",
+        "name": "Sharong Lee",
+        "email": "sharong-lee@lakeside.org.sg",
+        "phone": [
+          "65649722ext206",
+          "65649722"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Oct 2025"
+    },
+    {
       "id": "150318",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -2742,6 +2760,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "15 Sep 2025"
+    },
+    {
+      "id": "150320",
+      "category": "Others",
+      "name": "mobile phone",
+      "description": "The elderly is living alone and has mobility issues. Her current phone is faulty and she needs a replacement. To help her cut cost, it will be helpful for her to have a secondhand phone, so that she can use in times of emergency.",
+      "specifications": null,
+      "contact": {
+        "org": "NTUC Health Co-operative Limited",
+        "name": "Zoe Lee",
+        "email": "zoe.l1@ntuchealth.sg",
+        "phone": [
+          "94552166",
+          "67156715"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Oct 2025"
     },
     {
       "id": "150317",
@@ -6437,17 +6473,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "150301",
-      "name": "Sofa 2+3 seater",
-      "description": "It's a fabric blue sofa in a good condition. Has been washed.",
-      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-      "validTill": "04 Nov 2025",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "150240",
       "name": "Stools",
       "description": "9 units of stools hardly used. more than 10 years. Good condition",
@@ -6532,17 +6557,6 @@
       "validTill": "09 Nov 2025",
       "ageInYears": 4,
       "dimensions": "100 x 57 x 44cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "150146",
-      "name": "wood sofa",
-      "description": "solid teak wood sofa, good condition, 10 years old.",
-      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-      "validTill": "31 Oct 2025",
-      "ageInYears": 4,
-      "dimensions": "209x68x72",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
