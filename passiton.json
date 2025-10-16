@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "150318",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "A family of seven urgently needs a refrigerator to replace their current one, which has stopped working. The father is the sole breadwinner, with the eldest child being 8 years old and the youngest only 5 months old. Since the family cooks at home most of the time, having a working refrigerator is essential for them.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+        "name": "Ken Toh",
+        "email": "ken_zq_toh@msf.gov.sg",
+        "phone": [
+          "62319385",
+          "64244017"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Oct 2025"
+    },
+    {
       "id": "150307",
       "category": "Electrical Home Appliances",
       "name": "Induction cooker",
@@ -6275,24 +6293,6 @@
       "date": "29 Sep 2025"
     },
     {
-      "id": "150311",
-      "category": "Mobility Aids",
-      "name": "Walking Quad Stick",
-      "description": "A senior is divorced with no children. He is living alone in a HDB studio apartment. He has end stage renal failure and heart disease. He also has poor mobility due to the weakness of lower limbs. A walking quad  stick can support the senior to mobilize at home and in the community.",
-      "specifications": null,
-      "contact": {
-        "org": "Lions Befrienders Service Association (Singapore)",
-        "name": "Chow Ching Hua",
-        "email": "chinghua.chow@lb.org.sg",
-        "phone": [
-          "66814941",
-          "63758600"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Oct 2025"
-    },
-    {
       "id": "150260",
       "category": "Mobility Aids",
       "name": "Heavy Duty Wheelchair [Assure 19.5 inch]",
@@ -6369,6 +6369,17 @@
       "dimensions": "Shoe box",
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
+    },
+    {
+      "id": "150319",
+      "name": "New packed Electric Hot Pot",
+      "description": "For more description can check on this site - Product code is MEC-1012W\n\nhttps://megadiscountstore.com.sg/products/mec-1012w-1-2l-multi-cooker?_pos=1&_sid=edb7dd67a&_ss=r",
+      "location": "Farrer Park, Little India, Serangoon Road",
+      "validTill": "30 Oct 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
     },
     {
       "id": "150279",
