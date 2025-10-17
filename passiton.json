@@ -205,6 +205,7 @@
         "name": "Stephen Ong",
         "email": "stephen_ong@hcsa.org.sg",
         "phone": [
+          "80207521",
           "64402444"
         ]
       },
@@ -222,6 +223,7 @@
         "name": "Stephen Ong",
         "email": "stephen_ong@hcsa.org.sg",
         "phone": [
+          "80207521",
           "64402444"
         ]
       },
@@ -2782,6 +2784,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "16 Sep 2025"
+    },
+    {
+      "id": "150350",
+      "category": "Others",
+      "name": "",
+      "description": "The client is unfit for work and depends on government assistance for her care needs. Her family members is unable to financially support her. (Isk)",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Bedok North",
+        "name": "Low Kim Yong",
+        "email": "lowkimyong@thkmc.org.sg",
+        "phone": [
+          "81883314",
+          "64491440"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Oct 2025"
     },
     {
       "id": "150343",
@@ -6669,17 +6689,6 @@
       "dimensions": "Length 120cm; Width 70cm; Height 35cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
-    },
-    {
-      "id": "150342",
-      "name": "Baby Stroller",
-      "description": "Well used stroller but still good condition",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "16 Nov 2025",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
     },
     {
       "id": "150277",
