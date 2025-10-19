@@ -1711,23 +1711,6 @@
       "date": "10 Oct 2025"
     },
     {
-      "id": "150136",
-      "category": "Home Furnishing",
-      "name": "Clothes cupboard",
-      "description": "Client (F/33) is a single mother to 2 young children (M/9 and M/7). Client is unfit for work due to chronic medical conditions. As such, the family is dependent on Comcare financial assistance. Client is in need of a wardrobe for her children's clothings.",
-      "specifications": "1",
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Regine Yeo",
-        "email": "regine.yeo@ppis.sg",
-        "phone": [
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Oct 2025"
-    },
-    {
       "id": "150135",
       "category": "Home Furnishing",
       "name": "King size bed and frame",
@@ -2015,24 +1998,6 @@
       "category": "Home Furnishing",
       "name": "Wardobe",
       "description": "Client is a single parent and sole breadwinner of the family. Client's current wardrobe has broken down, and is no longer suitable for use. Client would require a wardrobe to store her and her family member's belongings.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Champions Way",
-        "name": "Joanna Tay",
-        "email": "joannatay@fycs.org",
-        "phone": [
-          "66901029",
-          "66901000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Oct 2025"
-    },
-    {
-      "id": "149932",
-      "category": "Home Furnishing",
-      "name": "Queen sized mattress",
-      "description": "Client is a single parent and sole breadwinner of her family. Client faces financial constraints to afford a brand new queen-sized mattress. However, client would require a mattress given that her current mattress has worn down and is unsuitable for use.",
       "specifications": null,
       "contact": {
         "org": "Fei Yue Family Service Centre @ Champions Way",
@@ -6039,6 +6004,50 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "150376",
+      "name": "Bunk bed",
+      "description": "Kuhl home playhouse bunk bed. danish.",
+      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+      "validTill": "18 Nov 2025",
+      "ageInYears": 4,
+      "dimensions": "207 x 102 x 139",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "150375",
+      "name": "Donation of Solid Wood Sofa Set (3+1+1) – Jurong East",
+      "description": "I would like to bless and donate a solid wood sofa set (3-seater + two 1-seaters) in good, usable condition through the Pass-It-On programme.\n\nItem details:\n\nOrigin: Zen Tradition\n\nMaterial: Solid, heavy wood with firm cushion seats\n\nCondition: Gently used, structurally strong, minor wear on fabric edges\n\nIncludes: Main seat cushions only (small decorative cushions in photo not included)\n\nColour: Beige-gold fabric with dark wood frame. I will also include an additional spare set of cushion covers in red too\n\nQuantity: 1 set (3 + 1 + 1)\n\n\nPickup details:\n\nLocation: Jurong East (lift accessible)\n\nPreferred collection: By end of Oct (flexible on timing)\n\nI can assist with coordination for movers or charity pickup. By the way, need to arrange for movers because only my elderly parents in the house.",
+      "location": "Boon Lay, Jurong, Tuas",
+      "validTill": "15 Nov 2025",
+      "ageInYears": 4,
+      "dimensions": "195cmx80cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "150374",
+      "name": "Light Grey 4 doors wardrobe",
+      "description": "Only assembled these Tabao purchased wardrobe on 2 Oct to store extra clothes but realised that I don't need it.",
+      "location": null,
+      "validTill": "30 Oct 2025",
+      "ageInYears": 1,
+      "dimensions": "1400cmW x 60cmD x 2000cmH",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "150373",
+      "name": "Queen sized bedframe + mattress",
+      "description": "Light Grey divan bedframe with 15cm thick spring mattress. Brand new.",
+      "location": null,
+      "validTill": "30 Oct 2025",
+      "ageInYears": 1,
+      "dimensions": "Queen Size",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "150369",
