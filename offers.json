@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "150402",
+    "name": "Electric Kettle",
+    "description": "Lightly used and still good. Can arrange to meet to collect",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "30 Oct 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "150200",
     "name": "Air Purifier",
     "description": "2 pieces. I will deliver to area near district 12 only example Jalan Besar, Balestier, Geylang Bahru etc.",
@@ -84,17 +95,6 @@
     "validTill": "15 Nov 2025",
     "ageInYears": 4,
     "dimensions": "195cmx80cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "150366",
-    "name": "IKEA Bedframe and mattress",
-    "description": "White IKEA bed frame. Queen size. Well used but in good shape",
-    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-    "validTill": "31 Oct 2025",
-    "ageInYears": 3,
-    "dimensions": "150x200",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -292,17 +292,6 @@
     "location": "Admiralty Drive, Sembawang, Yishun",
     "validTill": "19 Nov 2025",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "150372",
-    "name": "Mothercare Playmat",
-    "description": "Very good condition. Delivery included",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "05 Nov 2025",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
