@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "150417",
+      "category": "Electrical Home Appliances",
+      "name": "Fan",
+      "description": "Senior stays alone in a 1-room rental flat. Senior has multiple health conditions and is not fit for work. His unit is lacking some basic furniture including a standing fan. If keen to donate, please kindly reach out to Ms. Lin at 9846 7229. Thank you for your kindness.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Senior Services Ltd",
+        "name": "Lin Hong Yue",
+        "email": "linhongyue@carecorner.org.sg",
+        "phone": [
+          "62586601",
+          "62536979"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Oct 2025"
+    },
+    {
       "id": "150415",
       "category": "Electrical Home Appliances",
       "name": "1.5L Kettle",
@@ -5605,6 +5623,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "150416",
+      "name": "Dining Set",
+      "description": "Wooden extendable dining set up to 2.2m with a long bench and 3 chair",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "03 Nov 2025",
+      "ageInYears": 4,
+      "dimensions": "1.75mL x 95cmW",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "150385",
       "name": "IKEA LYCKSELE LÖVÅS",
       "description": "This sofa quickly and easily turns into a bed for two. Easy to keep fresh since the mattress and sofa covers can be removed and washed. Switch between several covers to give the sofa and room a new look.",
@@ -5999,6 +6028,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Learning Aids"
+    },
+    {
+      "id": "150418",
+      "name": "CPAP Machine",
+      "description": "Used CPAP Machine with hose, mask, and bag\nREMstar PRO C-Flex\nFully functional",
+      "location": "Balestier, Toa Payoh",
+      "validTill": "20 Nov 2025",
+      "ageInYears": 4,
+      "dimensions": "30cm x 30cm x 15cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
     },
     {
       "id": "150367",
