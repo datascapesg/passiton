@@ -143,17 +143,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "150653",
-    "name": "IKEA mydal bunk bed",
-    "description": "Very good condition. Including two mattresses.",
-    "location": null,
-    "validTill": "10 Nov 2025",
-    "ageInYears": 4,
-    "dimensions": "206cm x 157cm x 97cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "150488",
     "name": "2 seater sofa",
     "description": "This is not a sofa bed. It is a large 2 seater sofa. Self collect or pick up. Delivery not included",
@@ -315,17 +304,6 @@
     "validTill": "07 Nov 2025",
     "ageInYears": 1,
     "dimensions": "Half tin of 1.65kg",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "150631",
-    "name": "Milk bottle warmer",
-    "description": "Used milk bottle warmer.",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "27 Nov 2025",
-    "ageInYears": 2,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -512,6 +490,17 @@
     "location": null,
     "validTill": "30 Oct 2025",
     "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "150655",
+    "name": "Electric hospital bed",
+    "description": "Fully functional electric hospital bed in good condition",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "14 Nov 2025",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
