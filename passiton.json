@@ -5167,23 +5167,6 @@
       "date": "28 Oct 2025"
     },
     {
-      "id": "150609",
-      "category": "Medical Aids",
-      "name": "Blood glucose meter and strips",
-      "description": "Client lives in a 2-room rental flat alone, with limited family support. She has multiple chronic conditions, which render her unfit for work at this juncture.\n\nDue to her lack of employment and inadequate financial resources, client is unable to afford a blood glucose meter and test strips of her own. She thus continues to have poorly controlled blood sugar levels.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner - Community Case Management Service Central",
-        "name": "Alethia Toh",
-        "email": "alethiatoh@carecorner.org.sg",
-        "phone": [
-          "62586601"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Oct 2025"
-    },
-    {
       "id": "150601",
       "category": "Medical Aids",
       "name": "Hospital bed",
@@ -5852,6 +5835,39 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "150692",
+      "name": "Elbow crutches",
+      "description": "Ergotech lightweight adjustable crutches. As comfortable to use as crutches just can be.",
+      "location": "Changi, Flora, Loyang",
+      "validTill": "29 Nov 2025",
+      "ageInYears": 1,
+      "dimensions": "Adjustable",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "150691",
+      "name": "Elbow Crutches",
+      "description": "US Import elbow crutches for a tall/heavy person. Solid and strong.",
+      "location": "Changi, Flora, Loyang",
+      "validTill": "29 Nov 2025",
+      "ageInYears": 1,
+      "dimensions": "Adjustable",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "150690",
+      "name": "Shower Chair",
+      "description": "Shower chair with sturdy legs.",
+      "location": "Changi, Flora, Loyang",
+      "validTill": "29 Nov 2025",
+      "ageInYears": 1,
+      "dimensions": "Adjustable",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "150592",
