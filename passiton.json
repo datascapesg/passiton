@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "150729",
+      "category": "Others",
+      "name": "stove top",
+      "description": "A hardworking single mother of four children (ages 16, 14, 2, and 1) has recently moved into a new home but lacks basic kitchen appliances to prepare meals for her family. As the sole breadwinner working in food delivery, she is struggling financially to provide these essential items. The family desperately needs a stove top to ensure they can cook nutritious meals. Any assistance with these kitchen essentials would help this mother care for her young family during this challenging time. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Yishun",
+        "name": "Ann Wende",
+        "email": "wende_ann@msf.gov.sg",
+        "phone": [
+          "63765987",
+          "18002220000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "31 Oct 2025"
+    },
+    {
       "id": "150696",
       "category": "Others",
       "name": "Dry Food Rations & Baby Food",
@@ -934,6 +952,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "02 Oct 2025"
+    },
+    {
+      "id": "150728",
+      "category": "Electrical Home Appliances",
+      "name": "refrigerator",
+      "description": "A hardworking single mother of four children (ages 16, 14, 2, and 1) has recently moved into a new home but lacks basic kitchen appliances to prepare meals for her family. As the sole breadwinner working in food delivery, she is struggling financially to provide these essential items. The family desperately needs a refrigerator to ensure they can store food safely. Any assistance with these kitchen essentials would help this mother care for her young family during this challenging time. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Yishun",
+        "name": "Ann Wende",
+        "email": "wende_ann@msf.gov.sg",
+        "phone": [
+          "63765987",
+          "18002220000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "31 Oct 2025"
     },
     {
       "id": "150726",
@@ -5423,6 +5459,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "150730",
+      "name": "Ikea study desk",
+      "description": "This is a 4 year old Ikea study desk that is in good condition. There are only minor scratches on the top (almost unnoticeable). We are giving it away due to the lack of space.",
+      "location": null,
+      "validTill": "09 Nov 2025",
+      "ageInYears": 4,
+      "dimensions": "160 x 80cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "150727",
