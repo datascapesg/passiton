@@ -22,17 +22,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "150788",
-    "name": "Samsung Fridge",
-    "description": "Samsung TV in good working condition.",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "03 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "150754",
     "name": "Borsch Gas Stove",
     "description": "The Borsch gas stove is still a very good working condition. I’m changing it to an electric hob for baby friendly reasons .",
@@ -108,17 +97,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "150766",
-    "name": "Queen Mattress only",
-    "description": "Excellent Condition. Delivery cost not included",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "10 Nov 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
   },
   {
     "id": "150764",
@@ -460,6 +438,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "150795",
+    "name": "Electric Plinth/Massage Bed",
+    "description": "Width 26”\n\nHeight adjustable : 23-36\" or 58.4-91.44cm\n\n75\" in length",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "03 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "70\"x 26\" x refer to description",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "150768",
