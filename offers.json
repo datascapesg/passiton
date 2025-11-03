@@ -22,13 +22,24 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "150759",
-    "name": "Refrigerator",
-    "description": "Electrolux Refrigerator\n388 litre capacity\nGood working condition",
-    "location": "Changi, Flora, Loyang",
-    "validTill": "04 Nov 2025",
+    "id": "150789",
+    "name": "Samsung Washing Machine",
+    "description": "Samsung Washing Machine in good condition.",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "03 Dec 2025",
     "ageInYears": 4,
-    "dimensions": "76 x 65 x 175",
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "150788",
+    "name": "Samsung Fridge",
+    "description": "Samsung TV in good working condition.",
+    "location": "Cairnhill, Killiney, Orchard, River Valley",
+    "validTill": "03 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -183,17 +194,6 @@
     "validTill": "04 Nov 2025",
     "ageInYears": 4,
     "dimensions": "170 x 90 x 90",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "150753",
-    "name": "Clothing rack on wheels - Ikea Rigga brand new in box",
-    "description": "Brand new in box Ikea Rigga clothing rack on wheels. \n\nThere is room for boxes or 4 pairs of shoes on the rack at the bottom.\n\nBoth ends of the clothes rail double as hooks, perfect for longer clothes and bags.",
-    "location": "River Valley",
-    "validTill": "01 Dec 2025",
-    "ageInYears": 1,
-    "dimensions": "H 126cm x W 111cm x D 51cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -517,17 +517,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "150770",
-    "name": "Bed rail for elderly",
-    "description": "Not been open before.  Brand new. Made in US bed rail for elderly.  Photo is for illustration only.  May not look exactly",
-    "location": null,
-    "validTill": "10 Nov 2025",
-    "ageInYears": 1,
-    "dimensions": "Na",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "150746",
     "name": "Mobile transfer aid",
     "description": "KJW325 mobile transfer aid. In good working condition.",
@@ -644,17 +633,6 @@
     "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
     "validTill": "27 Nov 2025",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "150583",
-    "name": "Desktop Computer",
-    "description": "-Used working desktop computer \n-Comes with Microsoft Office 2013 and Windows 10 \n-Comes with only power cable \n-DOES NOT come with monitor \n-Can help to deliver and setup\n\nI live in the east so I can only deliver to North, South, East and West until Chinatown",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "26 Nov 2025",
-    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
