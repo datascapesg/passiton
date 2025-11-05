@@ -55,17 +55,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "150614",
-    "name": "Electric Air Pot",
-    "description": "3 litre electric Air Pot",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "27 Nov 2025",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "150540",
     "name": "Tefal pot",
     "description": "Used Tefal pot to bless. Still good condition to use. Would like to bless as i have extra. Self collection",
@@ -75,6 +64,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "150860",
+    "name": "Queen Size Bed Frame with Mattress",
+    "description": "Bed frame and mattress to pass it on. Bed frame is only 1 year old while mattress is 4 years. Both are still in good condition",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "05 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "152cm by 190cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "150849",
@@ -429,6 +429,39 @@
     "category": "Medical Aids"
   },
   {
+    "id": "150863",
+    "name": "Walking frame",
+    "description": "Very good condition. Light weight .Less than 2 months",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "05 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "150862",
+    "name": "Walking frame",
+    "description": "Brand new 4 legs walking frame",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "05 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": "21W5-20",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "150861",
+    "name": "LIFELINE WHEELCHAIR",
+    "description": "Very good condition. Suitable for heavy weight",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "05 Dec 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "150803",
     "name": "Hospital bed",
     "description": "A height adjustable hospital bed.",
@@ -436,17 +469,6 @@
     "validTill": "01 Dec 2025",
     "ageInYears": 2,
     "dimensions": "83 by 39 by 12 (to 36) inches",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "150746",
-    "name": "Mobile transfer aid",
-    "description": "KJW325 mobile transfer aid. In good working condition.",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "01 Dec 2025",
-    "ageInYears": 1,
-    "dimensions": "70 x 54 x 88.5-106 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
@@ -535,17 +557,6 @@
     "validTill": "28 Nov 2025",
     "ageInYears": 1,
     "dimensions": "127cm x 106cm x 12cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "150615",
-    "name": "Water Dispenser",
-    "description": "Water dispenser (not suitable for hot water)",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "27 Nov 2025",
-    "ageInYears": 3,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
   },
