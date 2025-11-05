@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "150867",
+      "category": "Home Furnishing",
+      "name": "Mattress x 3",
+      "description": "Family consists of single mother and two children who requires new mattresses for daily use. Family faces financial constraints to buy a new mattresses as mother remains unemployed, which is precipitated by her medical conditions. Their current mattresses have been worn out and are not in good condition and would like to request for 3 x mattresses, one for each family member.",
+      "specifications": "91 cm (Width) x 190 cm (Length)",
+      "contact": {
+        "org": "Care Corner Family Service Centre - Admiralty",
+        "name": "Shanell Tan",
+        "email": "shanelltan@carecorner.org.sg",
+        "phone": [
+          "63658751"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Nov 2025"
+    },
+    {
       "id": "150859",
       "category": "Home Furnishing",
       "name": "Single-sized mattress",
@@ -5405,6 +5422,28 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "150865",
+      "name": "Samsung oven model:MC351808m",
+      "description": "Multi function oven",
+      "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+      "validTill": "06 Nov 2025",
+      "ageInYears": 3,
+      "dimensions": "Need to measure",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "150866",
+      "name": "Samsung oven model:MC351808m",
+      "description": "Multi function oven",
+      "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+      "validTill": "06 Nov 2025",
+      "ageInYears": 3,
+      "dimensions": "Need to measure",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "150838",
       "name": "Rommelsbacher Electric Oven 40L",
       "description": "7 year old Rommelsbacher electric oven, in working condition.",
@@ -5579,6 +5618,17 @@
       "dimensions": "100 x 57 x 44cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "150864",
+      "name": "Baby food steamer and blender",
+      "description": "Multi-purpose food maker with steam and blend functions. Suitable for fruit, vegetable, fish and meat. For weaning of infants 6+ months old and above.\n\nItem is used but in working condition.",
+      "location": "Braddell , Macpherson, Potong Pasir",
+      "validTill": "05 Dec 2025",
+      "ageInYears": 2,
+      "dimensions": "32.5 x 13.8 x 31 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "150830",
