@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "150919",
+      "category": "Infant and Children Items",
+      "name": "School Bag and School Shoes",
+      "description": "Single mother, unemployed, and her 2 children are currently living in shelter. Clt is hoping for her children to get school bags and school shoes for school next year.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Alisha Begum Bte Shaik Ahamed",
+        "email": "alishabegum@fycs.org",
+        "phone": [
+          "65690381",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Nov 2025"
+    },
+    {
+      "id": "150909",
+      "category": "Infant and Children Items",
+      "name": "Wearable Breast Pump",
+      "description": "Looking for a donor to support single mum with a newborn with a wearable breast pump. Client is unable to afford a breast pump and does not have family support. As she is single handedly taking care of her baby, the convenience of the wearable breast pump will help her.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Lim Hui Ying",
+        "email": "huiying_lim@awwa.org.sg",
+        "phone": [
+          "65119431",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Nov 2025"
+    },
+    {
       "id": "150904",
       "category": "Infant and Children Items",
       "name": "Double pram for infant and toddler",
@@ -138,24 +174,6 @@
         "phone": [
           "87145182",
           "67671740"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Nov 2025"
-    },
-    {
-      "id": "132154",
-      "category": "Infant and Children Items",
-      "name": "Pediasure® Gold w Peptigro Vanilla 850g",
-      "description": "Our low-income beneficiaries require assistance with their necessities for their children while they work towards financial stability. These include milk powder and diapers.\n\nClub Rainbow only accepts unopened tins.",
-      "specifications": null,
-      "contact": {
-        "org": "Club Rainbow (Singapore)",
-        "name": "Nurulhuda Binte Abu Bakar",
-        "email": "nurul@clubrainbow.org",
-        "phone": [
-          "81336189",
-          "63771789"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1916,24 +1934,6 @@
         "email": "norlizawati@thkmc.org.sg",
         "phone": [
           "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Nov 2025"
-    },
-    {
-      "id": "150839",
-      "category": "Home Furnishing",
-      "name": "sofa",
-      "description": "Client is trying to restart his life a new and building his home. Sofa will provide a space for him to rest when he is back from work.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "E. Christina Joy",
-        "email": "christinajoy@fycs.org",
-        "phone": [
-          "63519505",
-          "65690381"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3719,6 +3719,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "06 Oct 2025"
+    },
+    {
+      "id": "150920",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Family with 3 young children, dependent on mother who is the sole breadwinner. Their washing machine has recently spoilt and she has been hand-washing clothes daily, which is time consuming and exhausting especially with 3 young children. Seeking for donations for this family. Kindly reach out to me if you wish to donate.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society - Yishun FSC",
+        "name": "Faith Felice Chiam",
+        "email": "fchiam@childrensociety.org.sg",
+        "phone": [
+          "67537331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Nov 2025"
     },
     {
       "id": "150888",
@@ -5512,24 +5529,6 @@
       "date": "14 Oct 2025"
     },
     {
-      "id": "150742",
-      "category": "Mobility Aids",
-      "name": "Geriatric chair",
-      "description": "Senior is recently diagnosed with cancer, and is going through many rounds of chemotherapy and oral chemo. Family members expressed stress in caring for the senior. He needs a geriatric chair to be placed at home for ease of treatment. \nPlease contact 96885403 for Jane Tan for further liaising",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Community Services",
-        "name": "Julia Soh Ying Li",
-        "email": "juliasoh@fycs.org",
-        "phone": [
-          "63809155",
-          "63809169"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Nov 2025"
-    },
-    {
       "id": "150741",
       "category": "Mobility Aids",
       "name": "Geriatric chair",
@@ -5674,6 +5673,28 @@
   ],
   "offers": [
     {
+      "id": "150916",
+      "name": "bracelet-2",
+      "description": "bracelet-2",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "06 Dec 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Attires/Clothings"
+    },
+    {
+      "id": "150915",
+      "name": "wine earrings",
+      "description": "wine earrings",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "06 Dec 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Attires/Clothings"
+    },
+    {
       "id": "150878",
       "name": "Towel robs 1-2yo & Baby bath towel",
       "description": "1. 2x Towel robes age 1 - 2\n2. 4x hooded towel for newborn or baby",
@@ -5718,17 +5739,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "150851",
-      "name": "Electric cooking lunch box",
-      "description": "Brand new. 1ltr",
-      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-      "validTill": "05 Dec 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "150898",
       "name": "Freezer",
       "description": "Freezer in very good condition. \n\nThis freezer has never had any pork products in it before. \n\nAvailable only in End Nov",
@@ -5751,13 +5761,24 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "150902",
-      "name": "Beige leather 3-seater sofa, good condition",
-      "description": "Good condition and quality leather 3 seater sofa (beige).",
-      "location": "Balestier, Toa Payoh",
-      "validTill": "16 Nov 2025",
+      "id": "150918",
+      "name": "King size mattress",
+      "description": "Giving away king size mattress from Simmons",
+      "location": "Springleaf, Tagore, Upper Thomson",
+      "validTill": "13 Nov 2025",
       "ageInYears": 4,
-      "dimensions": "260x95x98cm",
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "150910",
+      "name": "Homecare chair",
+      "description": "Item is in mum's home in Tampines St 45",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "06 Dec 2025",
+      "ageInYears": 1,
+      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -5817,17 +5838,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "150749",
-      "name": "Black faux leather sofa bed",
-      "description": "Includes two large black pillows and one patterned pillow.",
-      "location": "Ang Mo Kio/Upper Thomson",
-      "validTill": "02 Dec 2025",
-      "ageInYears": 4,
-      "dimensions": "192 cm x 89cm (as sofa); 100cm (width as bed)",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "150710",
       "name": "Side table",
       "description": "Class Panel Side table which I use it for my room . Want to donate to those who need it",
@@ -5881,6 +5891,50 @@
       "dimensions": "100 x 57 x 44cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "150917",
+      "name": "window latch-child proofing",
+      "description": "window latch-child proofing",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "06 Dec 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "150914",
+      "name": "Abbott voucher-expire 31.12.25",
+      "description": "Abbott voucher-expire 31.12.25",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "06 Dec 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "150913",
+      "name": "HIPP Diaper cream-Expire 31jan26",
+      "description": "HIPP Diaper cream-Expire 31jan26",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "06 Dec 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "150912",
+      "name": "Ecco-Rubber toy shoe",
+      "description": "Ecco-Rubber toy shoe",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "06 Dec 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "150876",
@@ -5971,17 +6025,6 @@
       "category": "Infant and Children Items"
     },
     {
-      "id": "150581",
-      "name": "Fisher price walker",
-      "description": "Only used for a few months. Then kept as my child grew up. There’s still music and sound when you press the button.",
-      "location": null,
-      "validTill": "26 Nov 2025",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
       "id": "150549",
       "name": "Portable baby booster seat",
       "description": "- Used portable baby booster seat\n- Easy and quick assembly to adult’s chair\n- Storage space to keep all you need at your fingertips\n- Shoulder strap – with swivel axis\n- 3-point harness system with 1 click quick release securing your child in place.\n- Suitable for ages 6-36M (when child can seat unaided) – Approx. 20KG",
@@ -5989,17 +6032,6 @@
       "validTill": "23 Nov 2025",
       "ageInYears": 1,
       "dimensions": "6-36months, up to 20kg",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "150548",
-      "name": "Travel/potable high chair",
-      "description": "Recommended for babies and toddlers aged 6-30 months, this used, lightweight and versatile chair harness anchors your child safely and comfortably in almost any dining chair you can find.\nMachine washable.",
-      "location": "Boon Lay, Jurong, Tuas",
-      "validTill": "23 Nov 2025",
-      "ageInYears": 1,
-      "dimensions": "6-30 months",
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
     },
@@ -6268,6 +6300,28 @@
       "category": "Mobility Aids"
     },
     {
+      "id": "150921",
+      "name": "Electric warmer-china plug",
+      "description": "NEW, unused.",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "06 Dec 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "150911",
+      "name": "Spectra 24mm flange",
+      "description": "breastfeeding-Spectra 24mm flange",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "06 Dec 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
       "id": "150868",
       "name": "Digital Piano",
       "description": "Digital Piano for donation. Best to collect before 24th November. Contact person for coordination is Paulina.",
@@ -6308,17 +6362,6 @@
       "validTill": "28 Nov 2025",
       "ageInYears": 1,
       "dimensions": "127cm x 106cm x 12cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Others"
-    },
-    {
-      "id": "150570",
-      "name": "Exercise bike",
-      "description": "Seat and handle bar adjustable. Can be partially dismantled for transportation",
-      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-      "validTill": "25 Nov 2025",
-      "ageInYears": 3,
-      "dimensions": "100x123cm height",
       "deliveryCostsCoveredByDonor": true,
       "category": "Others"
     },
