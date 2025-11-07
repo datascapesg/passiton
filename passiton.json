@@ -1,6 +1,108 @@
 {
   "requests": [
     {
+      "id": "151012",
+      "category": "Infant and Children Items",
+      "name": "Newborn Tape Diapers",
+      "description": "Client (F/25) is a young mom who is currently heavily pregnant (EDD Jan 2026) and a full-time primary caregiver to 3 young children (F/6) and (M/4) and (F/3). The family is low-income, staying in a rental flat and relies on SSO Comcare financial assistance to meet their needs as Client's spouse (M/31) is in the midst of applying for jobs. The family is in need of newborn diapers for their expecting child due in Jan 2026.",
+      "specifications": "4 packs",
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Regine Yeo",
+        "email": "regine.yeo@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Nov 2025"
+    },
+    {
+      "id": "151011",
+      "category": "Infant and Children Items",
+      "name": "Dryer Pants Diaper",
+      "description": "Nuclear family with 4 children, where one has special needs. No income provider due to both parents facing Social needs difficulty and medical issue.",
+      "specifications": "Size L",
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Muhammamd Farhan Bin Abdul Rahman",
+        "email": "muhdfarhan.abdrahman@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Nov 2025"
+    },
+    {
+      "id": "151010",
+      "category": "Infant and Children Items",
+      "name": "Karihome Stage 1 Infant Milk Powder",
+      "description": "Client (F/25) is a young mom who is currently heavily pregnant (EDD Jan 2026) and a full-time primary caregiver to 3 young children (F/6) and (M/4) and (F/3). The family is low-income, staying in a rental flat and relies on SSO Comcare financial assistance to meet their needs as Client's spouse (M/31) is in the midst of applying for jobs. The family is in need of newborn formula milk as F/25 is expecting to give birth soon.",
+      "specifications": "4 tins",
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Regine Yeo",
+        "email": "regine.yeo@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Nov 2025"
+    },
+    {
+      "id": "151009",
+      "category": "Infant and Children Items",
+      "name": "MamyPoko Pants Diapers",
+      "description": "Nuclear family with 4 children, where one has special needs. No income provider due to both parents facing Social needs difficulty and medical issue.",
+      "specifications": "Size XXXL",
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Muhammamd Farhan Bin Abdul Rahman",
+        "email": "muhdfarhan.abdrahman@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Nov 2025"
+    },
+    {
+      "id": "151008",
+      "category": "Infant and Children Items",
+      "name": "Cowhead Instant Milk Powder",
+      "description": "Client (F/25) is a young mom who is currently heavily pregnant (EDD Jan 2026) and a full-time primary caregiver to 3 young children (F/6) and (M/4) and (F/3). The family is low-income, staying in a rental flat and relies on SSO Comcare financial assistance to meet their needs as Client's spouse (M/31) is in the midst of applying for jobs. The family is in need of milk powder for M/4 and F/3.",
+      "specifications": "4 tins",
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Regine Yeo",
+        "email": "regine.yeo@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Nov 2025"
+    },
+    {
+      "id": "151007",
+      "category": "Infant and Children Items",
+      "name": "XL huggies pull up diapers",
+      "description": "Client (F/25) is a young mom who is currently heavily pregnant (EDD Jan 2026) and a full-time primary caregiver to 3 young children (F/6) and (M/4) and (F/3). The family is low-income, staying in a rental flat and relies on SSO Comcare financial assistance to meet their needs as Client's spouse (M/31) is in the midst of applying for jobs. The family is in need of diapers for their young children.",
+      "specifications": "4 packs",
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Regine Yeo",
+        "email": "regine.yeo@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Nov 2025"
+    },
+    {
       "id": "151004",
       "category": "Infant and Children Items",
       "name": "Baby safety gate",
@@ -5998,28 +6100,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "150954",
-      "name": "Baby Fence",
-      "description": "Self collection",
-      "location": null,
-      "validTill": "06 Dec 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "150922",
-      "name": "Baby carrier",
-      "description": "Used baby carrier",
-      "location": "Boon Lay, Jurong, Tuas",
-      "validTill": "06 Dec 2025",
-      "ageInYears": 2,
-      "dimensions": "5.5-15kg, 4-36 months",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
       "id": "150917",
       "name": "window latch-child proofing",
       "description": "window latch-child proofing",
@@ -6071,17 +6151,6 @@
       "validTill": "24 Nov 2025",
       "ageInYears": 3,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "150864",
-      "name": "Baby food steamer and blender",
-      "description": "Multi-purpose food maker with steam and blend functions. Suitable for fruit, vegetable, fish and meat. For weaning of infants 6+ months old and above.\n\nItem is used but in working condition.",
-      "location": "Braddell , Macpherson, Potong Pasir",
-      "validTill": "05 Dec 2025",
-      "ageInYears": 2,
-      "dimensions": "32.5 x 13.8 x 31 cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
     },
