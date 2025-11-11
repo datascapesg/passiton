@@ -54,24 +54,6 @@
       "date": "10 Nov 2025"
     },
     {
-      "id": "151058",
-      "category": "Infant and Children Items",
-      "name": "Breast pump",
-      "description": "Low-income family requires breast pump for mother who just recently gave birth.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Amanda Soo",
-        "email": "amandasoo@carecorner.org.sg",
-        "phone": [
-          "69784084",
-          "64761481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Nov 2025"
-    },
-    {
       "id": "151056",
       "category": "Infant and Children Items",
       "name": "Baby Bathtub with Stand",
@@ -1137,23 +1119,6 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "31 Oct 2025"
-    },
-    {
-      "id": "150712",
-      "category": "Infant and Children Items",
-      "name": "Milk powder and children and adult diapers",
-      "description": "Single mother is residing with her elderly mother and caring for her young daughter of 6 years old. She is facing financial difficulties as she is low income yet has to pay legal fees due to her ex-spouse breaching the maintenance order. Client is hence in need of milk powder and diapers. Client's mother has incontinence and health issues that cause her to need adult diapers.\n\nPlease respond to listing for the milk powder brand and diapers brand and size.",
-      "specifications": "dumex mamil gold stage 4, child - huggies XXXL, elderly - TOP XL",
-      "contact": {
-        "org": "Whampoa Family Service Centre",
-        "name": "Samuel Lim",
-        "email": "samuellim@kkcs.org.sg",
-        "phone": [
-          "64854750"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 Oct 2025"
     },
     {
       "id": "150701",
@@ -5139,30 +5104,30 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "151112",
+      "name": "Single Storage Bed Frame",
+      "description": "Single storage bed frame. Pink color.",
+      "location": "Braddell , Macpherson, Potong Pasir",
+      "validTill": "24 Nov 2025",
+      "ageInYears": 2,
+      "dimensions": "190cm x 92cm x 140cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "151111",
+      "name": "Wooden Side Cupboard",
+      "description": "Side cupboard for dry food storage",
+      "location": "Braddell , Macpherson, Potong Pasir",
+      "validTill": "24 Nov 2025",
+      "ageInYears": 1,
+      "dimensions": "63cm x 32 cm x 94cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "151106",
       "name": "Table",
-      "description": "Item located at Sembawang",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "17 Nov 2025",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "151105",
-      "name": "Single Bed + mattress",
-      "description": "Item located at Sembawang",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "17 Nov 2025",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "151104",
-      "name": "wardrobe 2 door",
       "description": "Item located at Sembawang",
       "location": "Admiralty Drive, Sembawang, Yishun",
       "validTill": "17 Nov 2025",
@@ -5412,6 +5377,17 @@
       "dimensions": "195cmx80cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "151113",
+      "name": "Baby Girl Clothes",
+      "description": "2 bags of baby girl clothes for 0-9months old",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "15 Nov 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "150917",
@@ -5852,6 +5828,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "151110",
+      "name": "Nursing bed",
+      "description": "Nursing bed that has been used for less than a year. Side handles can be lowered fully.",
+      "location": null,
+      "validTill": "16 Nov 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "151086",
