@@ -3076,6 +3076,24 @@
       "date": "15 Oct 2025"
     },
     {
+      "id": "151165",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "The client is a single parent of four school-going children, the youngest of whom has a developmental condition requiring intensive care. Due to the high caregiving demands, the client is currently unemployed and faces significant financial challenges. Recently, the family’s refrigerator broke down, making it difficult to store fresh groceries and prepare meals at home. As a result, the client has had to purchase food outside, which is not sustainable or economical given the family’s limited income. This situation has added to the caregiver’s stress and impacted the family’s ability to meet their basic nutritional needs. A replacement refrigerator would greatly support the family’s daily functioning and well-being. Given client's limited resources, seeking donor to cover delivery and installation fees (if any).",
+      "specifications": "Any",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Cheng San 445",
+        "name": "Hafizul Hafiz",
+        "email": "hafizulhafiz@allkin.org.sg",
+        "phone": [
+          "88547675",
+          "60384120"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Nov 2025"
+    },
+    {
       "id": "151160",
       "category": "Electrical Home Appliances",
       "name": "Vacuum cleaner (wireless)",
@@ -5117,28 +5135,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "151094",
-      "name": "Ikea chest of drawers",
-      "description": "Ikea drawers in good condition.",
-      "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
-      "validTill": "30 Nov 2025",
-      "ageInYears": 4,
-      "dimensions": "130cm x 57cm x 40cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "151092",
-      "name": "Chest of drawers",
-      "description": "Ikea chest of drawers. Lightly used with minor markings / scratches.",
-      "location": null,
-      "validTill": "30 Nov 2025",
-      "ageInYears": 4,
-      "dimensions": "160cm x 95cm x 50cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "151085",
       "name": "Single bed",
       "description": "Height 110cm\nWidth 106cm\nLength 200cm.",
@@ -5662,6 +5658,28 @@
       "location": null,
       "validTill": "16 Nov 2025",
       "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "151163",
+      "name": "Hospital Bed",
+      "description": "Hospital bed with air matress",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "21 Nov 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "151164",
+      "name": "Hospital Bed",
+      "description": "Hospital bed with air matress",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "21 Nov 2025",
+      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Others"
