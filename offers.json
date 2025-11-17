@@ -836,6 +836,28 @@
     "category": "Medical Aids"
   },
   {
+    "id": "151302",
+    "name": "Wheelchair",
+    "description": "Wheel chair ( spoilt rubber Tyre but still useable and repairable)",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "17 Dec 2025",
+    "ageInYears": 2,
+    "dimensions": "22 inch wheels",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "151300",
+    "name": "Portable hospital bed",
+    "description": "Portable adjustable hospital bedframe and mattress that sits on any existing bed",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "17 Dec 2025",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "151271",
     "name": "Hospital bed",
     "description": "Hospital bed of about 1 year old only. It is not used anymore y patient therefore looking to donate to the needy.",
