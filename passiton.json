@@ -2816,23 +2816,6 @@
       "date": "18 Nov 2025"
     },
     {
-      "id": "151344",
-      "category": "Others",
-      "name": "Foldable Shopping Trolley",
-      "description": "Trolley for groceries. \nClient and his brother are both seniors that need help bring rations back and forth. It can sometimes get heavy.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - @27 Family Service Centre",
-        "name": "Germaise Leong",
-        "email": "germaise.leong@montfortcare.org.sg",
-        "phone": [
-          "62708327"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Nov 2025"
-    },
-    {
       "id": "151342",
       "category": "Others",
       "name": "10 UHT Milk",
@@ -5983,6 +5966,17 @@
       "validTill": "08 Dec 2025",
       "ageInYears": 4,
       "dimensions": "see description",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "151348",
+      "name": "Projector",
+      "description": "Fully working projector.",
+      "location": null,
+      "validTill": "07 Dec 2025",
+      "ageInYears": 4,
+      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Others"
     },
