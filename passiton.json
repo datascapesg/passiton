@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "151368",
+      "category": "Infant and Children Items",
+      "name": "Baby bath tub",
+      "description": "Young mother who is about to give birth requires a baby bathtub to shower her newborn son. She is a full-time caregiver to her 2-year-old son and husband is the sole breadwinner.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
+        "name": "Grace Lim",
+        "email": "grace_lim@msf.gov.sg",
+        "phone": [
+          "68590811",
+          "62957205"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Nov 2025"
+    },
+    {
+      "id": "151367",
+      "category": "Infant and Children Items",
+      "name": "Breast Pump",
+      "description": "Young mother who is about to give birth requires a breast pump to support breastmilk expression for her newborn son. Husband is the sole breadwinner and finances are limited as they have an older son as well.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
+        "name": "Grace Lim",
+        "email": "grace_lim@msf.gov.sg",
+        "phone": [
+          "68590811",
+          "62957205"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Nov 2025"
+    },
+    {
       "id": "148718",
       "category": "Infant and Children Items",
       "name": "Huggies pants size XL",
@@ -3562,6 +3598,58 @@
       "date": "21 Oct 2025"
     },
     {
+      "id": "151373",
+      "category": "Electrical Home Appliances",
+      "name": "2-door Fridge",
+      "description": "A single mother with a 3 year old daughter just moved into their public rental flat and requires a fridge to store their food items. Mother works part-time to support her family.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
+        "name": "Heriyati Kasmani",
+        "email": "heriyati_kasmani@msf.gov.sg",
+        "phone": [
+          "63550089",
+          "62957205"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Nov 2025"
+    },
+    {
+      "id": "151372",
+      "category": "Electrical Home Appliances",
+      "name": "Mobile Phone",
+      "description": "Single adult in her mid-fifties requires a mobile phone to replace her current faulty one. The adult is unable to work due to medical conditions and unable to afford to get a replacement phone. She is receiving financial assistance for her basic expenses.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Ye Jiancheng",
+        "email": "jiancheng@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Nov 2025"
+    },
+    {
+      "id": "151371",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Single father staying with 2 young children requires a washing machine to replace the faulty one. Father is unable to work due to medical conditions and cannot afford a replacement. Family is under financial assistance.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Ye Jiancheng",
+        "email": "jiancheng@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Nov 2025"
+    },
+    {
       "id": "151366",
       "category": "Electrical Home Appliances",
       "name": "Fridge",
@@ -4993,17 +5081,6 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "151350",
-      "name": "LG Refrigerator",
-      "description": "LG ThinQ Refrigerator\nBottom Freezer, Top Fridge",
-      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-      "validTill": "07 Dec 2025",
-      "ageInYears": 2,
-      "dimensions": "70 x 67 x 185 cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "151264",
       "name": "Xiaomi standing fan",
       "description": "Four speed standing fan. Battery pack is old, has to be plugged in for power",
@@ -5114,17 +5191,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "151361",
-      "name": "Cabinet - Buffet - Storage",
-      "description": "Storage cabinet / buffet from IKEA.\nGood condition and solid shelves and doors",
-      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-      "validTill": "10 Dec 2025",
-      "ageInYears": 4,
-      "dimensions": "180cm x 40cm x 115cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "151353",
       "name": "Rocking chair",
       "description": "Still rocking condition. Just need to fix the ends part.",
@@ -5143,17 +5209,6 @@
       "validTill": "18 Dec 2025",
       "ageInYears": 3,
       "dimensions": "60 x 60 x 50 cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "151274",
-      "name": "3 Seater Sofa",
-      "description": "Excellent condition 3 seater sofa to donate",
-      "location": "Boon Lay, Jurong, Tuas",
-      "validTill": "30 Nov 2025",
-      "ageInYears": 3,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -5213,17 +5268,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "151211",
-      "name": "Ikea Cabinet with Lock",
-      "description": "I have 2 of the same cabinet. Each cabinet is 35cm x 50cm x 120cm. Both are more approximately 6 years old and still in good condition.",
-      "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
-      "validTill": "21 Nov 2025",
-      "ageInYears": 4,
-      "dimensions": "35cm x 50cm x 120cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "151180",
       "name": "Brown leather arm chair with ottoman",
       "description": "Imported Leather armchair with ottoman",
@@ -5246,17 +5290,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "151140",
-      "name": "Dining Table with 6 chairs",
-      "description": "IKEA Dining Table with 6 chairs still in good condition except for chips at the side of table due to wear and tear.\n\nPLS ARRANGE FOR OWN TRANSPORTATION AND MANAGE NECESSARY CHARGES. THANK YOU.",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "30 Nov 2025",
-      "ageInYears": 4,
-      "dimensions": "221cm x 84cm x 74cm(ht)",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "151112",
       "name": "Single Storage Bed Frame",
       "description": "Single storage bed frame. Pink color.",
@@ -5268,7 +5301,7 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "151175",
+      "id": "151369",
       "name": "Ikea chest of drawers",
       "description": "Ikea drawers in good condition.",
       "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
@@ -5279,13 +5312,13 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "151075",
-      "name": "Study desk and chair",
-      "description": "retiree has no means to deliver items or pay for delivery fee to send items to beneficiary. Kindly self-collect with means and manpower. Thank you.",
-      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "id": "151370",
+      "name": "Ikea chest of drawers",
+      "description": "Ikea drawers in good condition.",
+      "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
       "validTill": "30 Nov 2025",
       "ageInYears": 4,
-      "dimensions": "see pictures",
+      "dimensions": "130cm x 57cm x 40cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
