@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "151537",
+      "category": "Infant and Children Items",
+      "name": "Baby Milk Powder x 4",
+      "description": "Client (F/20) recently gave birth and requires interim assistance for milk powder. She has secured a job but will only begin work at the end of January 2026. Her husband is currently awaiting army enlistment. As a young couple with limited income at this time, they would benefit greatly from temporary support to meet their newborn’s basic needs.  For further details, feel free to reach out to Jie Qi at 8484 6181 or jieqi.yeo@thkmc.org.sg",
+      "specifications": "Brand: Similar Stage 1",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Norlizawati Binte Hamid",
+        "email": "norlizawati@thkmc.org.sg",
+        "phone": [
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Nov 2025"
+    },
+    {
       "id": "151526",
       "category": "Infant and Children Items",
       "name": "Huggies Pants x 4",
@@ -1722,24 +1739,6 @@
       "date": "29 Oct 2025"
     },
     {
-      "id": "150668",
-      "category": "Infant and Children Items",
-      "name": "Diapers Size L",
-      "description": "Family with 6 young children, requires diapers for the third and fourth children, aged 2 and 1 years. Father is the sole breadwinner and mother is a full-time caregiver of the children. Father had found new employment recently after having been retrenched from his previous job. The loss of income has resulted in financial difficulties for the family.",
-      "specifications": "Size L",
-      "contact": {
-        "org": "AWWA Family Service Centre",
-        "name": "Sutraima Saphadi",
-        "email": "sutraima@awwa.org.sg",
-        "phone": [
-          "65119469",
-          "65119456"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Oct 2025"
-    },
-    {
       "id": "150666",
       "category": "Infant and Children Items",
       "name": "XL Diapers",
@@ -1866,11 +1865,11 @@
       "description": "Client is a 77 year-old stay-alone elderly, living in a 1-room rental flat. He has multiple existing medical conditions and are on regular follow-up with the hospital.\n\nWe would like to request for a two-seater sofa and a small coffee table to improve his living environment and daily comfort at home.",
       "specifications": "Small",
       "contact": {
-        "org": "Montfort Care - GoodLife! @ Kreta Ayer",
+        "org": "Montfort Care - Kreta Ayer Family Services",
         "name": "Tommy Kwan",
         "email": "tommy.kwan@montfortcare.org.sg",
         "phone": [
-          "62746904"
+          "63254753"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1883,11 +1882,11 @@
       "description": "Client is a 77 year-old stay-alone elderly, living in a 1-room rental flat. He has multiple existing medical conditions and are on regular follow-up with the hospital.\n\nWe would like to request for a two-seater sofa and a small coffee table to improve his living environment and daily comfort at home.",
       "specifications": "2-Seater",
       "contact": {
-        "org": "Montfort Care - GoodLife! @ Kreta Ayer",
+        "org": "Montfort Care - Kreta Ayer Family Services",
         "name": "Tommy Kwan",
         "email": "tommy.kwan@montfortcare.org.sg",
         "phone": [
-          "62746904"
+          "63254753"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2830,6 +2829,24 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "28 Oct 2025"
+    },
+    {
+      "id": "151535",
+      "category": "Electrical Home Appliances",
+      "name": "Request for Washing Machine Assistance",
+      "description": "A family of 3 who requires an 8kg top-loading washing machine. Their current washing machine has broken down, leaving them without this essential household appliance.\n\nThe family is currently facing significant financial constraints due to substantial household arrears that they are actively working to clear. Their son, who lives with them, is presently serving National Service and is therefore unable to contribute financially towards purchasing a replacement washing machine.\n\nGiven their commitment to addressing their existing debts, the family finds themselves unable to afford a new washing machine at this time. This essential appliance would greatly assist them in maintaining basic household hygiene and daily living standards whilst they work towards financial stability.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Kreta Ayer",
+        "name": "Cassie Ee",
+        "email": "cassie_ee@msf.gov.sg",
+        "phone": [
+          "60138804",
+          "1800-222-0000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Nov 2025"
     },
     {
       "id": "151525",
@@ -5218,6 +5235,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "151534",
+      "name": "Iron",
+      "description": "Iron to donate, still in good condition. Do note that item does not come with the ironing board.",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "24 Dec 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "151512",
       "name": "501L Bosch Referigerator",
       "description": "Fridge is ard 6 years but still working.",
@@ -5339,17 +5367,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "151533",
-      "name": "Brand new Sofa Bed",
-      "description": "2 pcs of sofa bed available:\n\n1 very lightly used\n1 brand new in box",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "30 Nov 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "151532",
       "name": "Fabric Sofa",
       "description": "Well maintained. Must be taken tonight. Delivery costs maybe included depending on delivery location.",
@@ -5423,17 +5440,6 @@
       "validTill": "23 Dec 2025",
       "ageInYears": 3,
       "dimensions": "193cm by 60cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "151497",
-      "name": "Single Size Mattress",
-      "description": "My sister has moved out after her marriage and the mattress she was previously using is still in relatively good and mint condition. So i'll like to find a new owner for it.",
-      "location": "Beach Road (part), City Hall, High Street, North Bridge Road",
-      "validTill": "14 Dec 2025",
-      "ageInYears": 4,
-      "dimensions": "73cm x 37cm x 10.5cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -5689,6 +5695,17 @@
       "dimensions": "90x52x73",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "151536",
+      "name": "Baby Changing Table",
+      "description": "IKEA Sundvik changing table.\n\nThis table was great as it’s slightly taller than most changing tables out there so good for tall folk. Lots of storage as well.\n\nBought on Marketplace 2.5 years ago. Signs of wear and tear but purely cosmetic & do not affect functionality. \n\nPlease refer to photos for reference.",
+      "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+      "validTill": "24 Dec 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "151462",
