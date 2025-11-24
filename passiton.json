@@ -1860,6 +1860,40 @@
       "date": "24 Oct 2025"
     },
     {
+      "id": "151531",
+      "category": "Home Furnishing",
+      "name": "Small Coffee Table",
+      "description": "Client is a 77 year-old stay-alone elderly, living in a 1-room rental flat. He has multiple existing medical conditions and are on regular follow-up with the hospital.\n\nWe would like to request for a two-seater sofa and a small coffee table to improve his living environment and daily comfort at home.",
+      "specifications": "Small",
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Kreta Ayer",
+        "name": "Tommy Kwan",
+        "email": "tommy.kwan@montfortcare.org.sg",
+        "phone": [
+          "62746904"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Nov 2025"
+    },
+    {
+      "id": "151530",
+      "category": "Home Furnishing",
+      "name": "2-Seater Sofa",
+      "description": "Client is a 77 year-old stay-alone elderly, living in a 1-room rental flat. He has multiple existing medical conditions and are on regular follow-up with the hospital.\n\nWe would like to request for a two-seater sofa and a small coffee table to improve his living environment and daily comfort at home.",
+      "specifications": "2-Seater",
+      "contact": {
+        "org": "Montfort Care - GoodLife! @ Kreta Ayer",
+        "name": "Tommy Kwan",
+        "email": "tommy.kwan@montfortcare.org.sg",
+        "phone": [
+          "62746904"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Nov 2025"
+    },
+    {
       "id": "151529",
       "category": "Home Furnishing",
       "name": "Queen size mattress",
@@ -1945,24 +1979,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": false,
-      "date": "21 Nov 2025"
-    },
-    {
-      "id": "151481",
-      "category": "Home Furnishing",
-      "name": "Foldable mattress",
-      "description": "Client's house is infested with bed bugs, and she requires a new foldable mattress for herself. However, she is unable to afford one, as she has mild intellectual disability and is employed only in a part-time position. Her current salary is insufficient to cover only her basic needs. Her family is not able to provide her any support.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Andrea Tan",
-        "email": "andreatan@fycs.org",
-        "phone": [
-          "69783017",
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
       "date": "21 Nov 2025"
     },
     {
@@ -5321,6 +5337,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "151533",
+      "name": "Brand new Sofa Bed",
+      "description": "2 pcs of sofa bed available:\n\n1 very lightly used\n1 brand new in box",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "30 Nov 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "151532",
+      "name": "Fabric Sofa",
+      "description": "Well maintained. Must be taken tonight. Delivery costs maybe included depending on delivery location.",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "30 Nov 2025",
+      "ageInYears": 2,
+      "dimensions": "Length 2m, Width 1.04m, Height&nbsp;0.56m",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "151518",
