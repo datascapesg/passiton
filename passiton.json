@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "147346",
+      "category": "Infant and Children Items",
+      "name": "Sustagen all-in-one chocolate formula milk powder (1-9 years old)",
+      "description": "Community Services & Programmes @ Children's Society requires 4 tins of Sustagen all-in-one chocolate formula milk powder (1-9 years old) for the client's child. Client requested for this formula milk as recommended by the child's doctor as she is not suited to drink normal formula milk due to weight gain. Client is the only breadwinner in the family as the child's father has been declared medically unfit to work. \nDelivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Children's Society Corporate Office",
+        "name": "Kartini",
+        "email": "dik@childrensociety.org.sg",
+        "phone": [
+          "69787279",
+          "62732010"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Nov 2025"
+    },
+    {
       "id": "151568",
       "category": "Infant and Children Items",
       "name": "Girl clothes 2-4 years old",
@@ -426,24 +444,6 @@
         "phone": [
           "88761852",
           "63867688"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Nov 2025"
-    },
-    {
-      "id": "151367",
-      "category": "Infant and Children Items",
-      "name": "Breast Pump",
-      "description": "Young mother who is about to give birth requires a breast pump to support breastmilk expression for her newborn son. Husband is the sole breadwinner and finances are limited as they have an older son as well.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
-        "name": "Grace Lim",
-        "email": "grace_lim@msf.gov.sg",
-        "phone": [
-          "68590811",
-          "62957205"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -5662,6 +5662,17 @@
       "validTill": "28 Nov 2025",
       "ageInYears": 4,
       "dimensions": "94cmW x 63cmDx 149cmH",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "151579",
+      "name": "Cabinet - Buffet - Storage",
+      "description": "Storage cabinet / buffet from IKEA.\nGood condition and solid shelves and doors",
+      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+      "validTill": "10 Dec 2025",
+      "ageInYears": 4,
+      "dimensions": "180cm x 40cm x 115cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
