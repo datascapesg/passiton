@@ -11,6 +11,7 @@
         "name": "Benjamin Wong",
         "email": "benjamin@sccfsc.org.sg",
         "phone": [
+          "97314476",
           "64619200"
         ]
       },
@@ -1831,6 +1832,7 @@
         "name": "Benjamin Wong",
         "email": "benjamin@sccfsc.org.sg",
         "phone": [
+          "97314476",
           "64619200"
         ]
       },
@@ -3054,6 +3056,42 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "28 Oct 2025"
+    },
+    {
+      "id": "151657",
+      "category": "Electrical Home Appliances",
+      "name": "Air Purifier",
+      "description": "Family of 3 staying in Yishun rental flat, with a sole breadwinner.\n\nThey are requesting for an Air Purifier as they have a 2 years old young toddler at home.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Yishun",
+        "name": "Edwin Wee",
+        "email": "edwin_kh_wee@msf.gov.sg",
+        "phone": [
+          "62319460",
+          "18002220000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Nov 2025"
+    },
+    {
+      "id": "151656",
+      "category": "Electrical Home Appliances",
+      "name": "TV",
+      "description": "Family of 3 staying in Yishun rental flat, with a sole breadwinner.\n\nTheir TV set is spoilt & need a replacement.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Yishun",
+        "name": "Edwin Wee",
+        "email": "edwin_kh_wee@msf.gov.sg",
+        "phone": [
+          "62319460",
+          "18002220000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Nov 2025"
     },
     {
       "id": "151647",
@@ -5848,6 +5886,28 @@
       "dimensions": "see pictures",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "151655",
+      "name": "Baby walker",
+      "description": "It a brand new baby walker .",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "28 Dec 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "151654",
+      "name": "Baby rocker",
+      "description": "It a brand new baby rocker .",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "28 Dec 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "151653",
