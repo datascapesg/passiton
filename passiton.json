@@ -2987,24 +2987,6 @@
       "date": "27 Nov 2025"
     },
     {
-      "id": "151642",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Client is a single mother with 2 children needs a new washing machine as their old one has malfunctioned for many months. Client works as a Cleaning Assistant and has been repaying her debts regularly. Her income is inadequate to purchase a new appliance given her financial strains and commitments.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Toa Payoh",
-        "name": "Venus Tang",
-        "email": "venus_tang@msf.gov.sg",
-        "phone": [
-          "65139140",
-          "67157503"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Nov 2025"
-    },
-    {
       "id": "151623",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -3237,24 +3219,6 @@
       "category": "Electrical Home Appliances",
       "name": "Microwave",
       "description": "Young family of 3 requires a microwave to furnish their new rental flat. Husband is sole breadwinner in odd jobs and wife is a full-time caregiver to their 1 year old son.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
-        "name": "Grace Lim",
-        "email": "grace_lim@msf.gov.sg",
-        "phone": [
-          "68590811",
-          "62957205"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Nov 2025"
-    },
-    {
-      "id": "151509",
-      "category": "Electrical Home Appliances",
-      "name": "washing machine",
-      "description": "Young family of 3 requires a washing machine to furnish their new rental flat. Husband is sole breadwinner in odd jobs and wife is a full-time caregiver to their 1 year old son.",
       "specifications": null,
       "contact": {
         "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
@@ -5300,6 +5264,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "151703",
+      "name": "Single bed frame with storage",
+      "description": "Single bed frame with storage, but without mattress.",
+      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+      "validTill": "30 Dec 2025",
+      "ageInYears": 4,
+      "dimensions": "200cm x 90cm x 113cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "151701",
