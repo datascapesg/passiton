@@ -1,5 +1,27 @@
 [
   {
+    "id": "151732",
+    "name": "Cushion covers",
+    "description": "2 pieces.",
+    "location": null,
+    "validTill": "31 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": "42cmLx42cmW",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
+    "id": "151731",
+    "name": "Blanket",
+    "description": "///",
+    "location": null,
+    "validTill": "31 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": "200cmLx200cmW",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Attires/Clothings"
+  },
+  {
     "id": "151704",
     "name": "Kids Clothes",
     "description": "Kids clothes from various design and apparel.",
@@ -75,17 +97,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Attires/Clothings"
-  },
-  {
-    "id": "151718",
-    "name": "microwave oven",
-    "description": "seldom use",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "15 Dec 2025",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
   },
   {
     "id": "151708",
@@ -440,11 +451,11 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "151722",
-    "name": "Combi Stroller",
-    "description": "Seldom used Combi Stroller",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "05 Dec 2025",
+    "id": "151726",
+    "name": "Diapers",
+    "description": "willing to purchase diapers for families in need",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "31 Dec 2025",
     "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
