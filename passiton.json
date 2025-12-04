@@ -2818,23 +2818,6 @@
       "date": "03 Dec 2025"
     },
     {
-      "id": "151806",
-      "category": "Others",
-      "name": "10 Halal Plain Biscuits",
-      "description": "PPIS FSCW RELIGHT would like to request for 10 or more halal plain biscuits for its beneficiaries. Thank you! \n\n \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Nur Aisyah Binte Abdul Manan",
-        "email": "nuraisyah.manan@ppis.sg",
-        "phone": [
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Dec 2025"
-    },
-    {
       "id": "151805",
       "category": "Others",
       "name": "10 Halal Oyster Sauce",
@@ -3661,6 +3644,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "05 Nov 2025"
+    },
+    {
+      "id": "151837",
+      "category": "Electrical Home Appliances",
+      "name": "refrigerator",
+      "description": "The client is married with three young children aged 6, 10 and 11 years old. Her husband is the sole breadwinner, earning a monthly income of $1,600, which barely covers their daily expenses. The family's refrigerator has begun to malfunction due to prolonged usage, and they require a replacement. The family is seeking a donor who could provide a refrigerator for their daily use.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Yishun",
+        "name": "Ann Wende",
+        "email": "wende_ann@msf.gov.sg",
+        "phone": [
+          "63765987",
+          "18002220000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "04 Dec 2025"
     },
     {
       "id": "151832",
@@ -5846,7 +5847,18 @@
       "category": "Infant and Children Items"
     },
     {
-      "id": "151392",
+      "id": "151835",
+      "name": "Study Table",
+      "description": "Adjustable desk to suit 3-18years old. Table can be tilted to 50 degrees to help vary work posture. Adjustable chair seat height and back, can be moved backward or forward.",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "11 Dec 2025",
+      "ageInYears": 4,
+      "dimensions": "W110cm x D60cm x H52~76 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "151836",
       "name": "Study Table",
       "description": "Adjustable desk to suit 3-18years old. Table can be tilted to 50 degrees to help vary work posture. Adjustable chair seat height and back, can be moved backward or forward.",
       "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
@@ -6086,6 +6098,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Learning Aids"
+    },
+    {
+      "id": "151833",
+      "name": "Hospital bed electric",
+      "description": "Electric hospital bed.\nQuite new. Bought for elderly mum who passed on without using it.",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "03 Jan 2026",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
     },
     {
       "id": "151652",
