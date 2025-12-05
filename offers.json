@@ -902,6 +902,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "151886",
+    "name": "Hospital bed",
+    "description": "Automatic",
+    "location": null,
+    "validTill": "18 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "151877",
     "name": "Hospital bed",
     "description": "Hospital bed without mattress",
