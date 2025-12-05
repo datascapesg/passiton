@@ -264,6 +264,83 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "151882",
+    "name": "Bed frame",
+    "description": "Day bed frame that fits single mattress",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "200x100",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "151881",
+    "name": "Bookshelf",
+    "description": "White book shelf",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "80cmx40cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "151880",
+    "name": "Study Desk and Chair",
+    "description": "Seldom used, tip-top condition",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "15 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "151879",
+    "name": "Sofa",
+    "description": "Fabric sofa for donation",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "15 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "151878",
+    "name": "Sofa Bed",
+    "description": "Seldom used sofa bed for donation",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "15 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "151874",
+    "name": "Desks",
+    "description": "2 study desk with 1 drawer cabinet",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "About 1m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "151873",
+    "name": "Sofa bed with drawer storage",
+    "description": "Green sofa bed with 2 storage drawers. Can sleep 2 pax",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "31 Dec 2025",
+    "ageInYears": 4,
+    "dimensions": "1.7m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "151863",
     "name": "Ikea Nordli Queen bed and mattress",
     "description": "Ikea nordli queen bed , well used but in good condition. Mattress was bought about one and a half years ago and is a bit soft but functional",
@@ -823,6 +900,17 @@
     "dimensions": "Unable to measure",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "151877",
+    "name": "Hospital bed",
+    "description": "Hospital bed without mattress",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "30 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": "2m x 0.9m x 0.75m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "151862",
