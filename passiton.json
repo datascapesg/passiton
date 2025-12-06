@@ -2109,23 +2109,6 @@
       "date": "02 Dec 2025"
     },
     {
-      "id": "151762",
-      "category": "Home Furnishing",
-      "name": "Urgent: Sofa",
-      "description": "A family of four (two adults and two children) is relocating to a 2-room rental unit because of continuing conflicts between the father and the paternal grandparents. The mother is the only income earner and has a low income. Family is need of household furnitures urgently. \nPlease whatsapp me at 8907 8297!",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Community Services - HEART @ Fei Yue",
-        "name": "Bernice  Chai",
-        "email": "bernicechai@fycs.org",
-        "phone": [
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Dec 2025"
-    },
-    {
       "id": "151760",
       "category": "Home Furnishing",
       "name": "TV Console with storage",
@@ -3097,24 +3080,6 @@
       "date": "28 Nov 2025"
     },
     {
-      "id": "151673",
-      "category": "Others",
-      "name": "Enfagrow Stage 4 Milk",
-      "description": "Client is a 5 year old male diagnosed with Leukemia. He stays with his parents and 3 other siblings. The mother is balancing work from home and caregiving duties for the client and sibling, who is also diagnosed with cancer. The family is facing financial constraints and the client requires milk (Enfagrow Stage 4 Milk) for daily consumption.",
-      "specifications": null,
-      "contact": {
-        "org": "AIN Society",
-        "name": "Nur'Ain Binte Mohamed Said",
-        "email": "nurain@ainsociety.org.sg",
-        "phone": [
-          "68485116",
-          "68485166"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Nov 2025"
-    },
-    {
       "id": "151631",
       "category": "Others",
       "name": "Sanitary Napkins Required",
@@ -3593,24 +3558,6 @@
       "date": "06 Nov 2025"
     },
     {
-      "id": "151903",
-      "category": "Electrical Home Appliances",
-      "name": "Electric Water Heater",
-      "description": "Request for Electric Water Heater (With Installation) for Elderly Couple\n\nI’m assisting an elderly couple who are currently without income and in need of an electric water heater for their home. Having a heater will greatly improve their comfort and daily living, especially given their age and current situation.\n\nWe would deeply appreciate if the donation could include installation as well.\n\nIf you are able and keen to help, please WhatsApp me at 8800 3073.\nThank you so much for your kindness and support.",
-      "specifications": "NA",
-      "contact": {
-        "org": "Tsao Foundation - Hua Mei Clinic",
-        "name": "Ryan Sim",
-        "email": "ryansim@tsaofoundation.org",
-        "phone": [
-          "65939576",
-          "66619545"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Dec 2025"
-    },
-    {
       "id": "151888",
       "category": "Electrical Home Appliances",
       "name": "Printer",
@@ -3749,23 +3696,6 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "04 Dec 2025"
-    },
-    {
-      "id": "151825",
-      "category": "Electrical Home Appliances",
-      "name": "Microwave Oven",
-      "description": "A mother is navigating a difficult divorce and is struggling with her financial situation due to her diagnosed mental health condition and unemployment. Despite her best efforts, she finds herself overwhelmed by financial pressure and emotional distress.\n\nThus, she is hoping for a kind donor to provide dining table, microwave oven and a wardrobe.",
-      "specifications": null,
-      "contact": {
-        "org": "Sembawang Family Service Centre",
-        "name": "Po Woei Yee",
-        "email": "powoeiyee@sfsc.org.sg",
-        "phone": [
-          "67547050"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Dec 2025"
     },
     {
       "id": "151814",
@@ -5505,6 +5435,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "151907",
+      "name": "Cupboard",
+      "description": "Worn looking but still in good usable condition.",
+      "location": "Thomson",
+      "validTill": "05 Jan 2026",
+      "ageInYears": 4,
+      "dimensions": "85cmx48cmx123cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "151884",
       "name": "double deck bunk bedframe",
       "description": "Have a bunk bed frame that is in very good condition. \n\ntop single bed size L x W x H\n2.02m x 0.99m x 1.85m\n(for bed mattress size of single 90 x 190cm not more than 3 inch height)\n\nBottom Super single size l x W x H\n2.02m x 1.29m x 0.64m \n(for bed mattress size @ 120 x 190cm, height of mattress not more than 6 inch)",
@@ -5989,6 +5930,39 @@
       "category": "Learning Aids"
     },
     {
+      "id": "151909",
+      "name": "Oxygen Concentrator",
+      "description": "I have 2 of these.",
+      "location": null,
+      "validTill": "05 Jan 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
+    },
+    {
+      "id": "151908",
+      "name": "Oxygen Concentrator",
+      "description": "I have 2 of these.",
+      "location": "Thomson",
+      "validTill": "05 Jan 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
+    },
+    {
+      "id": "151904",
+      "name": "Hospital bed",
+      "description": "Brand: Linak, made in Denmark. \nVery good condition.",
+      "location": "Thomson",
+      "validTill": "05 Jan 2026",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
+    },
+    {
       "id": "151902",
       "name": "Patient Transfer Chair - Electric",
       "description": "**(This item is new, only used once)**\nThe Height Adjustable Easy Transfer Chair makes transferring easy and reduces strain. \nThis innovative design has reinvented patient transfer by minimising the movement of the user, while allowing caregivers to avoid back strain from carrying out transfers daily.\nThis is electric-operated via a wired controller or remote control to make it easy to ascend/descend the chair. Just charge the battery and use.\n\nFeatures:\n· Makes transfers easy\n· Minimises user's movement\n· Reduces caregiver's risk of injury\n· Affordable and easier to use compared to patient hoists\n· Comes with a cushion for added comfort",
@@ -6064,6 +6038,39 @@
       "dimensions": "Unable to measure",
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "151910",
+      "name": "Wheelchair",
+      "description": "Life Line Brand. Still in good condition; mostly used within house.",
+      "location": null,
+      "validTill": "05 Jan 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "151906",
+      "name": "commode",
+      "description": "Good condition.",
+      "location": "Thomson",
+      "validTill": "05 Jan 2026",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "151905",
+      "name": "Commode",
+      "description": "Good condition",
+      "location": "Thomson",
+      "validTill": "05 Jan 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "151886",
@@ -6240,6 +6247,17 @@
       "dimensions": "50x43x43",
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "151911",
+      "name": "Toyogo Storage Boxes x 4 pcs",
+      "description": "Toyogo Plastic Storage Boxes",
+      "location": null,
+      "validTill": "15 Dec 2025",
+      "ageInYears": 4,
+      "dimensions": "L 620 x W 430 x H 400",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "151866",
