@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "150453",
+      "category": "Home Furnishing",
+      "name": "Foldable Dining Table Home",
+      "description": "This is a single-parent household with a child currently in secondary school. The family requires a foldable table as they do not have one at the moment and there are space constraints. The parent is working part-time to ensure she can be present to care for her child, who was previously diagnosed with a medical condition. \n\nSeeking for a foldable dining table with a dimension of 100cmx50cmx77cm",
+      "specifications": "100x50x77cm",
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Darren Tan",
+        "email": "darrentankr@fycs.org",
+        "phone": [
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "08 Dec 2025"
+    },
+    {
       "id": "151875",
       "category": "Home Furnishing",
       "name": "Single-sized mattress",
@@ -2200,17 +2217,17 @@
       "date": "07 Nov 2025"
     },
     {
-      "id": "151947",
+      "id": "151948",
       "category": "Electrical Home Appliances",
-      "name": "Standing Fan",
-      "description": "A 69-year-old elderly man has recently moved into an HDB rental flat with a co-tenant. The unit is minimally furnished, and he is requesting an electric standing fan to help cope with the hot weather.\n\nYour support in providing a fan will greatly improve his comfort and daily living conditions as he settles into his new home.",
+      "name": "Smart TV",
+      "description": "Client lives alone in a one-room rental flat. Her income has been unstable due to deteriorating health, as she experiences leg pain that affects her ability to work. Her current TV is faulty, and she hopes to receive a smart TV to replace her current one. If you're able to support, please WhatsApp Syahmi (87188437) or email to Syahmi.Senin@thkmc.org.sg",
       "specifications": null,
       "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Kelly Lim",
-        "email": "kelly.lim@montfortcare.org.sg",
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Norlizawati Binte Hamid",
+        "email": "norlizawati@thkmc.org.sg",
         "phone": [
-          "63254753"
+          "62706711"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -4261,6 +4278,17 @@
     }
   ],
   "offers": [
+    {
+      "id": "151949",
+      "name": "Adult diaper M size",
+      "description": "I have 16 pavk of adult diaper. Please let me know the location",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "10 Dec 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Attires/Clothings"
+    },
     {
       "id": "151932",
       "name": "Baby boy clothes 6-12mths old (worn, no holes & stains)",
