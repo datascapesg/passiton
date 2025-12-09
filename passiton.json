@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "152001",
+      "category": "Home Furnishing",
+      "name": "Child Study Chair",
+      "description": "Family consists of a single mother and her son going to P1 next year. Client would like a proper study chair for her son to use when he does his homework at home. Please Whatsapp me at 62319407 if you have a suitable one to donate or if you would like to purchase a chair for the family, thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Woodlands, Sembawang",
+        "name": "Fatimah Azzahrah",
+        "email": "fatimah_azzahrah_noor@msf.gov.sg",
+        "phone": [
+          "62319407",
+          "67660097"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Dec 2025"
+    },
+    {
       "id": "151999",
       "category": "Home Furnishing",
       "name": "Queen Size Mattress & Pillow",
@@ -679,24 +697,6 @@
         "phone": [
           "62319407",
           "67660097"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "11 Nov 2025"
-    },
-    {
-      "id": "151119",
-      "category": "Home Furnishing",
-      "name": "King Sized Bed Frame",
-      "description": "Family is moving to their new flat in January and would like a king sized bed frame for themselves and 2 young kids. Client is a sole breadwinner for his family; hence this will help relieve any financial burden.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Kreta Ayer",
-        "name": "Wendy Ang",
-        "email": "wendy_ang@msf.gov.sg",
-        "phone": [
-          "62230769",
-          "1800-222-0000"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2041,6 +2041,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "10 Nov 2025"
+    },
+    {
+      "id": "152000",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "Client is a single mother with health issues seeking assistance for a washing machine. She is unable to afford buying a new washing machine as she is reliant on financial assistance for support. There are multiple family members residing together in a household, requiring further need for a replacement.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Woodlands, Sembawang",
+        "name": "Sarrani Krishnan",
+        "email": "sarrani_krishnan@msf.gov.sg",
+        "phone": [
+          "68678568",
+          "67660097"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Dec 2025"
     },
     {
       "id": "151997",
@@ -4281,6 +4299,17 @@
       "validTill": "19 Dec 2025",
       "ageInYears": 4,
       "dimensions": "2M x 1.1M x 0.7m",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "152002",
+      "name": "Sofa 2 Seater",
+      "description": "2 seater sofa",
+      "location": null,
+      "validTill": "05 Jan 2026",
+      "ageInYears": 4,
+      "dimensions": "H75 x L200 x D85 cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
