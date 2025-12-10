@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "152036",
+      "category": "Home Furnishing",
+      "name": "Clothes Wardrobe",
+      "description": "Client is a single mother with 4 school-going children. Client has medical issues and unable to work as well. Her clothes wardrobe doors are falling apart and she will need a new full height wardrobe for her and her children.",
+      "specifications": "Full height",
+      "contact": {
+        "org": "MSF Social Service Office @ Woodlands, Sembawang",
+        "name": "Eileen Chua",
+        "email": "chua_yi_ling@msf.gov.sg",
+        "phone": [
+          "67660341",
+          "67660097"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Dec 2025"
+    },
+    {
       "id": "152017",
       "category": "Home Furnishing",
       "name": "Drawers",
@@ -740,24 +758,6 @@
       "category": "Infant and Children Items",
       "name": "Drypers size L pants",
       "description": "Community Services & Programmes @ Children's Society requires 5 packets of Drypers size L pants for their client's child. Client comes from a low income family and client are waiting for assistance approval. Delivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society Corporate Office",
-        "name": "Kartini",
-        "email": "dik@childrensociety.org.sg",
-        "phone": [
-          "69787279",
-          "62732010"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Dec 2025"
-    },
-    {
-      "id": "148794",
-      "category": "Infant and Children Items",
-      "name": "Durgo Dumex stage 3",
-      "description": "Community Services & Programmes @ Children's Society requires 5 tins of Durgo Dumex stage 3 milk powder for the client's child daily intake. Client comes from a low income family and client are waiting for assistance approval.\nDelivery is required to be arranged by kind donor, please click to donate so that we can get in touch with you soon. We thank you for your kindness in advance!",
       "specifications": null,
       "contact": {
         "org": "Singapore Children's Society Corporate Office",
@@ -3531,6 +3531,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "10 Nov 2025"
+    },
+    {
+      "id": "152037",
+      "category": "Others",
+      "name": "10 Halal UHT Milk",
+      "description": "PPIS FSCW RELIGHT would like to request for 10 or more halal UHT Milk for its beneficiaries. Thank you! \n\n \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Nur Aisyah Binte Abdul Manan",
+        "email": "nuraisyah.manan@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "10 Dec 2025"
     },
     {
       "id": "152022",
