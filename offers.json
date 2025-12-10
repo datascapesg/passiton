@@ -418,17 +418,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "151880",
-    "name": "Study Desk and Chair",
-    "description": "Seldom used, tip-top condition",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "15 Dec 2025",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "151879",
     "name": "Sofa",
     "description": "Fabric sofa for donation",
@@ -625,6 +614,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "152021",
+    "name": "Bundle of Toys, Carrier, Clothes etc",
+    "description": "For donation:\n\n* Baby carrier (Luna)\n* Baby bag\n* Baby boy clothes (2yo)\n* Baby girl clothes (2yo)\n* Other baby essentials (blanket, fans, bottle holder, mattress covers)\n* ADDED MORE toys (complete set of cloth books, shaker, stackers)",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "16 Dec 2025",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "152020",
@@ -1169,6 +1169,39 @@
     "id": "151755",
     "name": "Quad Sticks",
     "description": "Lightly used at home",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "01 Jan 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "152025",
+    "name": "Wheelchair",
+    "description": "Lightly used at home mostly",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "01 Jan 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "152026",
+    "name": "Wheelchair",
+    "description": "Lightly used at home mostly",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "01 Jan 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "152027",
+    "name": "Wheelchair",
+    "description": "Lightly used at home mostly",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "01 Jan 2026",
     "ageInYears": 3,
