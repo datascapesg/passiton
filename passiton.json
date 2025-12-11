@@ -1,6 +1,57 @@
 {
   "requests": [
     {
+      "id": "152080",
+      "category": "Home Furnishing",
+      "name": "Cupboard/wardrobe for clothing",
+      "description": "Family has 3 young children aged 2-9 years. They currently do not have a cupboard/wardrobe for clothing items. A simple cabinet without drawers at the bottom that could be secured to the wall would be preferable to prevent young children from climbing. Interested donors kindly contact Melody at 69786594. Thank you.",
+      "specifications": "1-2 Door",
+      "contact": {
+        "org": "Care Corner Family Service Centre - Admiralty",
+        "name": "Lei Hui Yun",
+        "email": "leihuiyun@carecorner.org.sg",
+        "phone": [
+          "63658751"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Dec 2025"
+    },
+    {
+      "id": "152073",
+      "category": "Home Furnishing",
+      "name": "clothes cabinet",
+      "description": "Family of 7 requests for clothes cabinet given their current one is damaged. Family faces financial difficulties, consists of elderly grandmother, parents and 4 young children.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Syamirul Azim",
+        "email": "syamirulazim@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "11 Dec 2025"
+    },
+    {
+      "id": "152072",
+      "category": "Home Furnishing",
+      "name": "single-sized mattress",
+      "description": "Family of 7 requests for two single-sized mattress given their current one is damaged. Family faces financial difficulties, consists of elderly grandmother, parents and 4 young children.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Syamirul Azim",
+        "email": "syamirulazim@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "11 Dec 2025"
+    },
+    {
       "id": "152069",
       "category": "Home Furnishing",
       "name": "3+2 seater sofa",
@@ -840,6 +891,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "11 Nov 2025"
+    },
+    {
+      "id": "152074",
+      "category": "Infant and Children Items",
+      "name": "Children Clothing's",
+      "description": "A family of seven is requesting clothing for their children, aged 1, 3, 4, and 8. The three younger children are daughters, and the eldest child, aged 8, is a son. The family is experiencing financial hardship and consists of an elderly grandmother, both parents, and four young children.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Syamirul Azim",
+        "email": "syamirulazim@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "11 Dec 2025"
     },
     {
       "id": "148795",
@@ -4391,17 +4459,6 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "152063",
-      "name": "Dryer",
-      "description": "Good condition, no defects. Location of item: 439431",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "16 Dec 2025",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "152005",
       "name": "Coffee Maker",
       "description": "Power Pac Coffee Maker\nSmall size, maybe for 2 cups of coffee",
@@ -4567,13 +4624,35 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "152057",
-      "name": "Casterly King size wooden bed frame",
-      "description": "Need to collect latest by 20 Dec Morning due to moving house",
-      "location": "Boon Lay, Jurong, Tuas",
-      "validTill": "20 Dec 2025",
+      "id": "152077",
+      "name": "Single-Sized Bedsheet+pillow case",
+      "description": "Heavily used but no tears. Colour slightly faded.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "10 Jan 2026",
       "ageInYears": 4,
-      "dimensions": null,
+      "dimensions": "Single",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "152076",
+      "name": "Single-Sized Bedsheet",
+      "description": "Used a few times. Good condition. No tears. No pillow case.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "10 Jan 2026",
+      "ageInYears": 4,
+      "dimensions": "Single",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "152075",
+      "name": "Single-Sized Bedsheet+pillow case",
+      "description": "One slight ink stain noted.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "10 Jan 2026",
+      "ageInYears": 4,
+      "dimensions": "Single",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -5489,6 +5568,28 @@
       "dimensions": "50x43x43",
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "152079",
+      "name": "Wireless Keyboard",
+      "description": "Wireless keyboard Logitech",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "10 Jan 2026",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "152078",
+      "name": "Paper shredder machine",
+      "description": "Paper shredder machine",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "10 Jan 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "151922",
