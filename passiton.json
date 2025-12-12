@@ -1,6 +1,41 @@
 {
   "requests": [
     {
+      "id": "149147",
+      "category": "Home Furnishing",
+      "name": "Foldable Mattress (x2)",
+      "description": "Low income family of 7 staying in a rental unit is looking for help with foldable mattress (x2) for the children to sleep. If you are able to help, please contact Jessie at 9643 3400 or email jessielim@fycs.org. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Community Services - Restorative Care Department",
+        "name": "Jessie Lim",
+        "email": "jessielim@fycs.org",
+        "phone": [
+          "96433400",
+          "91708900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Dec 2025"
+    },
+    {
+      "id": "152111",
+      "category": "Home Furnishing",
+      "name": "Plastic cupboard/drawer",
+      "description": "Client just had a newborn a few months ago and just moved into a rental flat recently.",
+      "specifications": "2 x Plastic drawer (for clothes), (2 sets of 4 compartments)",
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Muhammad Suffian Bin Bahrin",
+        "email": "muhammadsuffian@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "12 Dec 2025"
+    },
+    {
       "id": "152086",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -2060,6 +2095,76 @@
       "date": "12 Nov 2025"
     },
     {
+      "id": "152116",
+      "category": "Electrical Home Appliances",
+      "name": "Television",
+      "description": "Client comes from a low-income family. Their television which serves as their leisure activity at home recently broke down and would require support for a replacement.",
+      "specifications": "approx 55 inches",
+      "contact": {
+        "org": "Fei Yue Community Services",
+        "name": "Priscilla Tan",
+        "email": "priscillatan@fycs.org",
+        "phone": [
+          "60117651",
+          "63809169"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Dec 2025"
+    },
+    {
+      "id": "152112",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine (top load)",
+      "description": "Client just had a newborn a few months ago and just moved into a rental flat recently.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Muhammad Suffian Bin Bahrin",
+        "email": "muhammadsuffian@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "12 Dec 2025"
+    },
+    {
+      "id": "152110",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Client just had a newborn a few months ago and just moved into a rental flat recently",
+      "specifications": "Halal fridge",
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Muhammad Suffian Bin Bahrin",
+        "email": "muhammadsuffian@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "12 Dec 2025"
+    },
+    {
+      "id": "152109",
+      "category": "Electrical Home Appliances",
+      "name": "portable air con",
+      "description": "Their 3-year-old has special needs and a skin condition that aggravates in heat. The mother provides full-time caregiving while the father is the sole breadwinner. Their existing portable air conditioner has broken down and they cannot afford a replacement. The lack of cooling is affecting the child's health and comfort. Any help would be greatly appreciated.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
+        "name": "Janan Lee",
+        "email": "janan_lee@msf.gov.sg",
+        "phone": [
+          "81959659",
+          "18002220000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Dec 2025"
+    },
+    {
       "id": "152108",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine (Top load)",
@@ -3168,24 +3273,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "11 Nov 2025"
-    },
-    {
-      "id": "152088",
-      "category": "Learning Aids",
-      "name": "Laptop",
-      "description": "Client requires a working laptop for her job. Client just undergone divorce (mother to 4 young children) and faces financial instability at present as she just gained employment not long ago. Hence, she is unable to afford to purchase a laptop.",
-      "specifications": null,
-      "contact": {
-        "org": "FRCS Family Service Centre",
-        "name": "Eunice Koh",
-        "email": "eunice@frcsfsc.sg",
-        "phone": [
-          "67799488ext17",
-          "67799488"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "11 Dec 2025"
     },
     {
       "id": "152028",
@@ -4380,6 +4467,28 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "152115",
+      "name": "Single Reclining Sofa",
+      "description": "Great condition",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "16 Dec 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "152114",
+      "name": "TV Console",
+      "description": "Very good condition",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "16 Dec 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "152106",
       "name": "KING size bedframe with mattress",
       "description": "KING BEDFRAME WITH MATTRESS. \nneed to clear away by 14dec2025. Pls Arrange your own transport",
@@ -4600,23 +4709,23 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "152113",
+      "name": "Bottle Steriliser",
+      "description": "Brand New",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "16 Dec 2025",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
       "id": "152091",
       "name": "Child car seat",
       "description": "Delivery only to selected East and North-East areas.",
       "location": "Pasir Ris, Simei, Tampines",
       "validTill": "31 Dec 2025",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "152065",
-      "name": "Large baby cot",
-      "description": "Large baby cot with custom mattress and cover. Good condition (mattress is new)",
-      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-      "validTill": "10 Jan 2026",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
@@ -4793,17 +4902,6 @@
       "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
       "validTill": "17 Dec 2025",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "151270",
-      "name": "Bed frame",
-      "description": "Frame only (no mattress)\nAlready dissembled previously due to moving house",
-      "location": null,
-      "validTill": "17 Dec 2025",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
