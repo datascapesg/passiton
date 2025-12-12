@@ -859,6 +859,24 @@
       "date": "11 Nov 2025"
     },
     {
+      "id": "152101",
+      "category": "Infant and Children Items",
+      "name": "Milk support",
+      "description": "The family has a 9-month-old infant who requires a specialised milk formula that is more expensive than regular options. He is unable to tolerate other formulas and experiences reflux when consuming them. The father is the sole breadwinner, and the mother is the main caregiver as there are no alternative caregiving arrangements. The family is currently facing financial difficulties and would benefit greatly from milk support for their child.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Andrea Tan",
+        "email": "andreatan@fycs.org",
+        "phone": [
+          "69783017",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Dec 2025"
+    },
+    {
       "id": "152074",
       "category": "Infant and Children Items",
       "name": "Children Clothing's",
@@ -2093,6 +2111,24 @@
       "date": "12 Nov 2025"
     },
     {
+      "id": "152094",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave",
+      "description": "Client is an elderly lady who lives alone, with little social support and estranged relationship with her family. She is on Public Assistance as she is permanently unfit for work due to multiple chronic conditions. She is also reliant on meals on wheels for her meals. We are hoping to receive a microwave for her to heat up the meals when it gets cold.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services SSO @ Taman Jurong",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@fycs.org",
+        "phone": [
+          "62672945",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Dec 2025"
+    },
+    {
       "id": "152084",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -2158,24 +2194,6 @@
         "email": "jiancheng@sccfsc.org.sg",
         "phone": [
           "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "11 Dec 2025"
-    },
-    {
-      "id": "152052",
-      "category": "Electrical Home Appliances",
-      "name": "Induction Cooker",
-      "description": "Family of 3 are going to shift into their new rental flat and require an induction cooker to prepare daily meals.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
-        "name": "Grace Lim",
-        "email": "grace_lim@msf.gov.sg",
-        "phone": [
-          "68590811",
-          "62957205"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3923,24 +3941,6 @@
       "date": "11 Nov 2025"
     },
     {
-      "id": "151088",
-      "category": "Others",
-      "name": "Storage Plastic Boxes",
-      "description": "As the client prepares for their spouse’s discharge from the nursing facility at the end of November, they are seeking storage boxes to help organize the room and ensure a welcoming environment. Given the family’s current circumstances and limited available support, the client would benefit from extra help to make the transition home as smooth as possible.",
-      "specifications": "4 boxes",
-      "contact": {
-        "org": "NTUC Health Cluster Support @ Bukit Merah",
-        "name": "Esther Lim",
-        "email": "esther.l3@ntuchealth.sg",
-        "phone": [
-          "81230429",
-          "62741602"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "11 Nov 2025"
-    },
-    {
       "id": "151734",
       "category": "Leisure and Healthy Lifestyle",
       "name": "Handphone",
@@ -4078,6 +4078,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "21 Nov 2025"
+    },
+    {
+      "id": "152102",
+      "category": "Medical Aids",
+      "name": "BP machine",
+      "description": "The senior stays in a rental flat and is homebound due to chronic and various health conditions. He needs a BP machine to measure his vitals, as his is faulty. \n\nPlease WhatsApp me at 8126 2493 Julia, for more information. Thanks!",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Community Services",
+        "name": "Julia Soh Ying Li",
+        "email": "juliasoh@fycs.org",
+        "phone": [
+          "63809155",
+          "63809169"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Dec 2025"
+    },
+    {
+      "id": "152093",
+      "category": "Medical Aids",
+      "name": "diapers",
+      "description": "Client is an elderly lady who lives alone, with little social support and estranged relationship with her family. She is on Public Assistance as she is permanently unfit for work due to multiple chronic conditions. She was recommended by doctors to purchase adult diapers due to poor bladder control but is unable to afford daily supply. She will appreciate kind donation of adult diaper pants size M.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services SSO @ Taman Jurong",
+        "name": "Charmaine Lim",
+        "email": "charmainelim@fycs.org",
+        "phone": [
+          "62672945",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Dec 2025"
     },
     {
       "id": "152050",
@@ -4423,6 +4459,28 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "152098",
+      "name": "Used Sofa",
+      "description": "Due to moving out, finding anyone who is keen to adopt this 3-seater sofa.",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "31 Dec 2025",
+      "ageInYears": 4,
+      "dimensions": "approx L120cm x B40cm x H65cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "152096",
+      "name": "Queen bed board & mattress",
+      "description": "Due to moving out reason, I would like to donate the bed board and mattress if this donee is keen. Well maintained and the queen size mattress is still in good condition, 2.5-year-old.\nThere is a condition - I can only arrange the transport on 8 Jan 2026 Thursday, if donee is keen and can wait.",
+      "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+      "validTill": "31 Dec 2025",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "152087",
       "name": "Childs Bed",
       "description": "Childs car racer bed with mattress. Single bed size",
@@ -4599,17 +4657,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "151841",
-      "name": "Singer bed and mattress",
-      "description": "Item pickup on 23/12",
-      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-      "validTill": "23 Dec 2025",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "151709",
       "name": "Foldable chairs",
       "description": "Have 4. Plastic and pvc",
@@ -4654,17 +4701,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "151513",
-      "name": "Kids Bed  + Mattress",
-      "description": "Pick up on the 23/12/2025 only (not Available before)",
-      "location": null,
-      "validTill": "23 Dec 2025",
-      "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "151470",
       "name": "foldable beds x 2",
       "description": "Foldable bed (2 folds) \n\nI have 2 of these beds. \n\nWill try to find the links that describe the beds. \n\n\"no covering delivery, self-collection only\"\n\n2 x beds\n\nplease see videos: (important to know)\n\nhttps://youtube.com/shorts/vSb67aU05bY\n\nhttps://youtu.be/7GmmhDEQ3Xw\n\nhttps://youtu.be/6-I9SKz4bFQ\n\nhttps://youtube.com/shorts/s3wPgeRO0F4\n\nhttps://youtube.com/shorts/i_LVCjq34O4\n\nhttps://youtube.com/shorts/P56gpwGkb9A",
@@ -4696,6 +4732,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "152092",
+      "name": "Mothercare cot and mattress (both from mothercare)",
+      "description": "Almost brand new. Length 1.4m.",
+      "location": null,
+      "validTill": "31 Dec 2025",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "152091",
@@ -5083,17 +5130,6 @@
       "category": "Medical Aids"
     },
     {
-      "id": "152090",
-      "name": "Walking stick",
-      "description": "Delivery only to selected East and Northeast area.",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "31 Dec 2025",
-      "ageInYears": 1,
-      "dimensions": "89cm (H)",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
       "id": "152089",
       "name": "Foldable walking frame",
       "description": "Delivery only to selected East and North-East area.",
@@ -5441,17 +5477,6 @@
       "location": null,
       "validTill": "19 Dec 2025",
       "ageInYears": 2,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Others"
-    },
-    {
-      "id": "151354",
-      "name": "Mahjong table & mahjong set",
-      "description": "1 x wooden mahjong table\n1 x mahjong set",
-      "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-      "validTill": "19 Dec 2025",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Others"
