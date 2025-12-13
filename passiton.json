@@ -1,6 +1,57 @@
 {
   "requests": [
     {
+      "id": "152133",
+      "category": "Home Furnishing",
+      "name": "Wardrobe",
+      "description": "A mother on a Long-Term Visit Pass (LTVP) with three young children, who are survivors of domestic violence, has recently obtained an HDB rental flat and requires basic furniture support. \n\nThe family is in need of a wardrobe.",
+      "specifications": null,
+      "contact": {
+        "org": "Marymount Centre - Good Shepherd Centre",
+        "name": "Ruby Gan",
+        "email": "ruby_gan@marymountctr.org.sg",
+        "phone": [
+          "67556496"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Dec 2025"
+    },
+    {
+      "id": "152132",
+      "category": "Home Furnishing",
+      "name": "Dining table and chairs",
+      "description": "A mother on a Long-Term Visit Pass (LTVP) with three young children, who are survivors of domestic violence, has recently obtained an HDB rental flat and requires basic furniture support. \n\nThe family is in need of a dining table and chairs.",
+      "specifications": null,
+      "contact": {
+        "org": "Marymount Centre - Good Shepherd Centre",
+        "name": "Ruby Gan",
+        "email": "ruby_gan@marymountctr.org.sg",
+        "phone": [
+          "67556496"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Dec 2025"
+    },
+    {
+      "id": "152129",
+      "category": "Home Furnishing",
+      "name": "Beds with bedframes",
+      "description": "A mother on a Long-Term Visit Pass (LTVP) with three young children, who are survivors of domestic violence, has recently obtained an HDB rental flat and requires basic furniture support. \n\nThe family is in need of either a queen-size bed with an additional mattress, or three single beds, with bedframes.",
+      "specifications": null,
+      "contact": {
+        "org": "Marymount Centre - Good Shepherd Centre",
+        "name": "Ruby Gan",
+        "email": "ruby_gan@marymountctr.org.sg",
+        "phone": [
+          "67556496"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Dec 2025"
+    },
+    {
       "id": "150681",
       "category": "Home Furnishing",
       "name": "3-door wadrobe",
@@ -2006,6 +2057,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "12 Nov 2025"
+    },
+    {
+      "id": "152131",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "A mother on a Long-Term Visit Pass (LTVP) with three young children, who are survivors of domestic violence, has recently obtained an HDB rental flat and requires basic furniture support. \n\nThe family is in need of a refrigerator.",
+      "specifications": null,
+      "contact": {
+        "org": "Marymount Centre - Good Shepherd Centre",
+        "name": "Ruby Gan",
+        "email": "ruby_gan@marymountctr.org.sg",
+        "phone": [
+          "67556496"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Dec 2025"
+    },
+    {
+      "id": "152130",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "A mother on a Long-Term Visit Pass (LTVP) with three young children, who are survivors of domestic violence, has recently obtained an HDB rental flat and requires basic furniture support. \n\nThe family is in need of a washing machine.",
+      "specifications": null,
+      "contact": {
+        "org": "Marymount Centre - Good Shepherd Centre",
+        "name": "Ruby Gan",
+        "email": "ruby_gan@marymountctr.org.sg",
+        "phone": [
+          "67556496"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Dec 2025"
     },
     {
       "id": "150676",
@@ -4225,6 +4310,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "152128",
+      "name": "Super single bed frame and mattress",
+      "description": "Donating a super single bed frame with mattress.Would like to know how much is collection fee.",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "05 Jan 2026",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "152126",
       "name": "Foldable Mattress",
       "description": "Lightly used single foldable mattress",
@@ -4258,7 +4354,18 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "152119",
+      "id": "152134",
+      "name": "Queen size bedframe & mattress",
+      "description": "Good condition bedframe & mattress - queen size + queen size bedsheet & duvet + duvet cover",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "11 Jan 2026",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "152135",
       "name": "Queen size bedframe & mattress",
       "description": "Good condition bedframe & mattress - queen size + queen size bedsheet & duvet + duvet cover",
       "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
