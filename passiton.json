@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "152221",
+      "category": "Home Furnishing",
+      "name": "Sofa Bed",
+      "description": "Client has history of low mood, self-harm behaviours and suicidal ideations. Currently is living in a rental unit with her son and is working as a delivery rider to support both herself and son but finances are tight for her to manage both their expenses. Currently client is sleeping on the floor and is causing her to have back pains.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Muhammad Suffian Bin Bahrin",
+        "email": "muhammadsuffian@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "16 Dec 2025"
+    },
+    {
       "id": "152216",
       "category": "Home Furnishing",
       "name": "cabinet",
@@ -3774,6 +3791,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "152222",
+      "name": "IKEA Kallax shelving unit",
+      "description": "IKEA Kalla shelving unit.\nPreloved\nMarks of usage take as it is\nFuncional\n- will help you send the unit if it’s near my area",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "31 Dec 2025",
+      "ageInYears": 4,
+      "dimensions": "76.5x149",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "152220",
