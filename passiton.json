@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "152216",
+      "category": "Home Furnishing",
+      "name": "cabinet",
+      "description": "Family of 2, husband and wife are facing financial difficulty, and they require a cabinet to store essential items",
+      "specifications": "Height: 180cm, Depth: 50cm, Width: 80cm",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Evelyn  Chin",
+        "email": "evelynchin@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Dec 2025"
+    },
+    {
       "id": "152209",
       "category": "Home Furnishing",
       "name": "Kitchen Cabinet / counter",
@@ -820,6 +837,57 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Nov 2025"
+    },
+    {
+      "id": "152219",
+      "category": "Infant and Children Items",
+      "name": "Diaper - Pant Type",
+      "description": "Client is currently undergoing a divorce and is the sole breadwinner for her three young children, all of whom require diapers and milk. She is also living with her elderly parents, who have limited income and are unable to provide financial support. The monthly expenses for milk, diapers and cerelac for all three children have been a heavy burden on the client.\n\nYour donation (in any quantity) would be greatly appreciated. Please also let me know if you are able to provide recurring monthly support. Please Whatsapp Fang Ling at 8588 6196 to liaise.",
+      "specifications": "Any Brand, Size XL",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Norlizawati Binte Hamid",
+        "email": "norlizawati@thkmc.org.sg",
+        "phone": [
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Dec 2025"
+    },
+    {
+      "id": "152218",
+      "category": "Infant and Children Items",
+      "name": "",
+      "description": "Client is currently undergoing a divorce and is the sole breadwinner for her three young children, all of whom require diapers and milk. She is also living with her elderly parents, who have limited income and are unable to provide financial support. The monthly expenses for milk, diapers and cerelac for all three children have been a heavy burden on the client.\n\nYour donation (in any quantity) would be greatly appreciated. Please also let me know if you are able to provide recurring monthly support. Please Whatsapp Fang Ling at 8588 6196 to liaise.",
+      "specifications": "Rice & Mixed Fruit / Rice & Mixed Veg (No wheat or egg)",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Norlizawati Binte Hamid",
+        "email": "norlizawati@thkmc.org.sg",
+        "phone": [
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Dec 2025"
+    },
+    {
+      "id": "152217",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder",
+      "description": "Client is currently undergoing a divorce and is the sole breadwinner for her three young children, all of whom require diapers and milk. She is also living with her elderly parents, who have limited income and are unable to provide financial support. The monthly expenses for milk, diapers and cerelac for all three children have been a heavy burden on the client.\n\nYour donation (in any quantity) would be greatly appreciated. Please also let me know if you are able to provide recurring monthly support. Please Whatsapp Fang Ling at 8588 6196 to liaise.",
+      "specifications": "Similac Total Comfort Stage 3",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Norlizawati Binte Hamid",
+        "email": "norlizawati@thkmc.org.sg",
+        "phone": [
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Dec 2025"
     },
     {
       "id": "150896",
@@ -3742,6 +3810,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "152220",
+      "name": "Super Single Mattress and Frame",
+      "description": "Super single bed with plush topper and supporting bed frame. Very lightly used for out of town visitors 2-3x a year.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "15 Jan 2026",
+      "ageInYears": 2,
+      "dimensions": "L190cm W105cm H25cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "152197",
