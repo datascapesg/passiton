@@ -123,23 +123,6 @@
       "date": "16 Dec 2025"
     },
     {
-      "id": "152221",
-      "category": "Home Furnishing",
-      "name": "Sofa Bed",
-      "description": "Client has history of low mood, self-harm behaviours and suicidal ideations. Currently is living in a rental unit with her son and is working as a delivery rider to support both herself and son but finances are tight for her to manage both their expenses. Currently client is sleeping on the floor and is causing her to have back pains.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Family Service Centre - Tampines",
-        "name": "Muhammad Suffian Bin Bahrin",
-        "email": "muhammadsuffian@mws.sg",
-        "phone": [
-          "67872001"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "16 Dec 2025"
-    },
-    {
       "id": "152216",
       "category": "Home Furnishing",
       "name": "cabinet",
@@ -1905,6 +1888,60 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Nov 2025"
+    },
+    {
+      "id": "152252",
+      "category": "Electrical Home Appliances",
+      "name": "washing machine",
+      "description": "Elderly client with limited communication capacity requiring a washing machine for his daily use. He is not working to due to medical issues and unable to afford one on his own.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - @27 Family Service Centre",
+        "name": "Muhammad Shahideen",
+        "email": "shahideen.m@montfortcare.org.sg",
+        "phone": [
+          "96585479",
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Dec 2025"
+    },
+    {
+      "id": "152251",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Elderly client with limited communication capacity requires a working refrigerator. He is unable to work due to medical issues and cannot afford to buy one for himself.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - @27 Family Service Centre",
+        "name": "Muhammad Shahideen",
+        "email": "shahideen.m@montfortcare.org.sg",
+        "phone": [
+          "96585479",
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Dec 2025"
+    },
+    {
+      "id": "152250",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Elderly client with limited communication capacity requiring a working refrigerator for his daily use. He is not working to due to medical issues and unable to afford one on his own.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - @27 Family Service Centre",
+        "name": "Muhammad Shahideen",
+        "email": "shahideen.m@montfortcare.org.sg",
+        "phone": [
+          "96585479",
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Dec 2025"
     },
     {
       "id": "152248",
