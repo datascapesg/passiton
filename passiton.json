@@ -892,6 +892,24 @@
       "date": "17 Nov 2025"
     },
     {
+      "id": "152268",
+      "category": "Infant and Children Items",
+      "name": "[Urgent] Diapers",
+      "description": "The family is facing financial difficulties. They have three children, one of whom has been diagnosed with Autism Spectrum Disorder. The child is not yet toilet trained and requires diapers. The family has run out of funds and does not have sufficient money to purchase diapers. They will greatly benefit from urgent diapers support to tide them through this month.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Bukit Batok",
+        "name": "Andrea Tan",
+        "email": "andreatan@fycs.org",
+        "phone": [
+          "69783017",
+          "65690381"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Dec 2025"
+    },
+    {
       "id": "152242",
       "category": "Infant and Children Items",
       "name": "Baby playpen",
@@ -1575,24 +1593,6 @@
       "date": "21 Nov 2025"
     },
     {
-      "id": "151450",
-      "category": "Infant and Children Items",
-      "name": "Diapers",
-      "description": "Client is a mother to a 1 year old daughter. Her husband struggles to find a full-time employment. Client is unemployed due to caregiving responsibility. She is also expecting a newborn in a few months' time. Hence, the family faces tight finances due to lack of income to the household.",
-      "specifications": "Drypers XL",
-      "contact": {
-        "org": "FRCS Family Service Centre",
-        "name": "Eunice Koh",
-        "email": "eunice@frcsfsc.sg",
-        "phone": [
-          "67799488ext17",
-          "67799488"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "21 Nov 2025"
-    },
-    {
       "id": "151449",
       "category": "Infant and Children Items",
       "name": "Milk powder",
@@ -1803,6 +1803,41 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Nov 2025"
+    },
+    {
+      "id": "152267",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Client stays in a rental flat and currently not working due to health issues. Client required a halal fridge as her current fridge has spoiled.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Rachel Fu",
+        "email": "rachel.fu@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Dec 2025"
+    },
+    {
+      "id": "152266",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine (front load)",
+      "description": "Low-income family, including mother who is medically unfit for work and a son with ID requires a new washing machine.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Amanda Soo",
+        "email": "amandasoo@carecorner.org.sg",
+        "phone": [
+          "69784084",
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Dec 2025"
     },
     {
       "id": "152264",
@@ -3793,6 +3828,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "152265",
+      "name": "Tv console",
+      "description": "Good condition except a small peeling (20cent coin size) and middle drawer knob loose. All is good. Long shelf life.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "31 Dec 2025",
+      "ageInYears": 3,
+      "dimensions": "148x47x57cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "152233",
       "name": "Queen size cot",
       "description": "Queen size cot. Mattress not included. Just the cot frame.",
@@ -3877,17 +3923,6 @@
       "validTill": "11 Jan 2026",
       "ageInYears": 4,
       "dimensions": "As shown in pix",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "152135",
-      "name": "Queen size bedframe & mattress",
-      "description": "Good condition bedframe & mattress - queen size + queen size bedsheet & duvet + duvet cover",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "11 Jan 2026",
-      "ageInYears": 3,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -4046,17 +4081,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "151703",
-      "name": "Single bed frame with storage",
-      "description": "Single bed frame with storage, but without mattress.",
-      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-      "validTill": "30 Dec 2025",
-      "ageInYears": 4,
-      "dimensions": "200cm x 90cm x 113cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "151599",
       "name": "Electrical adjustable homecare single bed",
       "description": "Paramount Bed",
@@ -4095,17 +4119,6 @@
       "description": "ikea floor potty - like new",
       "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
       "validTill": "16 Jan 2026",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "152205",
-      "name": "S-26 Gold Pro Infant Formula",
-      "description": "2 cans of infant formula. Expiry Date: June 2026",
-      "location": null,
-      "validTill": "31 Dec 2025",
       "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
