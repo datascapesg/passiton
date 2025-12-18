@@ -1,42 +1,6 @@
 {
   "requests": [
     {
-      "id": "145954",
-      "category": "Medical Aids",
-      "name": "Tena Pants - Size M",
-      "description": "Client is a Stage 4 Colon Cancer patient, of poor prognosis, who due to his diagnosis and treatment is now incontinent. Client uses up at least a bundle of diaper a day and the family is struggling financially to provide for client's needs.",
-      "specifications": "Size M",
-      "contact": {
-        "org": "AIN Society",
-        "name": "Nur'Ain Binte Mohamed Said",
-        "email": "nurain@ainsociety.org.sg",
-        "phone": [
-          "68485116",
-          "68485166"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Dec 2025"
-    },
-    {
-      "id": "151871",
-      "category": "Medical Aids",
-      "name": "Diaper Tape Size L",
-      "description": "Client is an Indonesian national on a Short-Term Visit Pass who is unemployed. Her husband is currently incarcerated, and she is seeking assistance with diapers for her child.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Jurong",
-        "name": "Shree Ganga D/O Rajasagran",
-        "email": "ShreeGanga@thkmc.org.sg",
-        "phone": [
-          "88333080",
-          "67169466"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Dec 2025"
-    },
-    {
       "id": "152280",
       "category": "Home Furnishing",
       "name": "Single wooden bed frame",
@@ -819,42 +783,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "18 Nov 2025"
-    },
-    {
-      "id": "151308",
-      "category": "Home Furnishing",
-      "name": "Kitchen stove Cabinet",
-      "description": "Client is caring for 3 school going children. Client is unemployed due to both physical and mental health issues.\n\nClient's current stove cabinet is spoilt / disintegrating and is unable to afford a new one.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Emma Zhang",
-        "email": "emmazhang@fycs.org",
-        "phone": [
-          "69783022",
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Nov 2025"
-    },
-    {
-      "id": "151276",
-      "category": "Home Furnishing",
-      "name": "Wardrobe",
-      "description": "Single mother of four who is currently facing a very challenging period. She is supporting her elderly father, who has recently been diagnosed with cancer. At the moment, she does not have proper storage for her clothing. She had been using metal hangers, but it unfortunately gave way. Having a proper wardrobe (2/3 doors) would make a big difference in helping her keep the home organised. We kindly ask for assistance to cover delivery fees. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Toa Payoh",
-        "name": "Rachel Toh",
-        "email": "racheltoh@carecorner.org.sg",
-        "phone": [
-          "69506716",
-          "63561622"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Nov 2025"
     },
     {
       "id": "152268",
@@ -1751,23 +1679,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "18 Nov 2025"
-    },
-    {
-      "id": "151290",
-      "category": "Infant and Children Items",
-      "name": "MIlk Powder",
-      "description": "Client (M/57) is currently unemployed and has chronic medical conditions. He lives in a 2 room rental flat with a family of 5. The family is facing financial hardship and is struggling to afford basic necessities. For further details, feel free to reach out to Kritikaa at 8777 0959 or email to kritikaa.subramaniam@thkmc.org.sg to liase. Thank you.",
-      "specifications": "Lactogen Stage 1",
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Norlizawati Binte Hamid",
-        "email": "norlizawati@thkmc.org.sg",
-        "phone": [
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Nov 2025"
     },
     {
       "id": "152276",
@@ -2900,24 +2811,6 @@
       "date": "18 Nov 2025"
     },
     {
-      "id": "151280",
-      "category": "Electrical Home Appliances",
-      "name": "Water heater (with installation cost covered)",
-      "description": "Young single mother and infant in need of a water heater (with installation cost covered) for their one room rental flat.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Woodlands, Sembawang",
-        "name": "Genessa Soh",
-        "email": "genessa_soh@msf.gov.sg",
-        "phone": [
-          "91115451",
-          "67660097"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Nov 2025"
-    },
-    {
       "id": "149232",
       "category": "Others",
       "name": "Halal Coffee",
@@ -3516,6 +3409,24 @@
       "date": "27 Nov 2025"
     },
     {
+      "id": "151871",
+      "category": "Medical Aids",
+      "name": "Diaper Tape Size L",
+      "description": "Client is an Indonesian national on a Short-Term Visit Pass who is unemployed. Her husband is currently incarcerated, and she is seeking assistance with diapers for her child.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Shree Ganga D/O Rajasagran",
+        "email": "ShreeGanga@thkmc.org.sg",
+        "phone": [
+          "88333080",
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Dec 2025"
+    },
+    {
       "id": "151960",
       "category": "Learning Aids",
       "name": "IPAD",
@@ -3621,6 +3532,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
+    },
+    {
+      "id": "152285",
+      "name": "irene ng",
+      "description": "2 door fridge in working condition",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "31 Dec 2025",
+      "ageInYears": 3,
+      "dimensions": "1.4m height",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
     },
     {
       "id": "152277",
@@ -3806,28 +3728,6 @@
       "validTill": "15 Jan 2026",
       "ageInYears": 2,
       "dimensions": "L190cm W105cm H25cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "152186",
-      "name": "Study table",
-      "description": "L118.5cm x W51cm x H121.5cm, Height from floor to desk – 90cm",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "19 Dec 2025",
-      "ageInYears": 4,
-      "dimensions": "L118.5cm x W51cm x H121.5cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "152281",
-      "name": "TV console",
-      "description": "TV console and glass display cabinet to bless. In good condition.",
-      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-      "validTill": "31 Dec 2025",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -4096,17 +3996,6 @@
       "category": "Infant and Children Items"
     },
     {
-      "id": "152190",
-      "name": "Baby Clothes",
-      "description": "Baby Clothings for 6months - 2 years. We have plenty of other items for babies to donate. Please message me at 9119 7743. Prefer to give to one family.",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "19 Dec 2025",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
       "id": "152123",
       "name": "IKEA children table",
       "description": "IKEA children round table.",
@@ -4268,17 +4157,6 @@
       "validTill": "31 Dec 2025",
       "ageInYears": 1,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Kitchen Utility Items"
-    },
-    {
-      "id": "151396",
-      "name": "Tefal Toaster",
-      "description": "In good condition",
-      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-      "validTill": "19 Dec 2025",
-      "ageInYears": 2,
-      "dimensions": "24 x 16cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Kitchen Utility Items"
     },
@@ -4696,17 +4574,6 @@
       "location": "Pasir Ris, Simei, Tampines",
       "validTill": "21 Dec 2025",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Others"
-    },
-    {
-      "id": "151363",
-      "name": "Cloth bag",
-      "description": "More than 20 cloth bags for grocery shopping.",
-      "location": null,
-      "validTill": "19 Dec 2025",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Others"
