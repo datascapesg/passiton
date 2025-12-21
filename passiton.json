@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "152302",
-      "category": "Home Furnishing",
-      "name": "Metal Bed Frame",
-      "description": "Family of 2, husband and wife are facing financial difficulty, and they require a bed to sleep in.",
-      "specifications": "L208 x W109 x H108 cm",
-      "contact": {
-        "org": "Allkin Family Service Centre @ Sengkang 223D",
-        "name": "Evelyn  Chin",
-        "email": "evelynchin@allkin.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Dec 2025"
-    },
-    {
       "id": "152300",
       "category": "Home Furnishing",
       "name": "King Sized Bed with Storage",
@@ -52,23 +35,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "19 Dec 2025"
-    },
-    {
-      "id": "152280",
-      "category": "Home Furnishing",
-      "name": "Single wooden bed frame",
-      "description": "Family of 2, husband and wife are facing financial difficulty, and they require a bed to sleep in.",
-      "specifications": "L208 x W109 x H108 cm",
-      "contact": {
-        "org": "Allkin Family Service Centre @ Sengkang 223D",
-        "name": "Evelyn  Chin",
-        "email": "evelynchin@allkin.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Dec 2025"
     },
     {
       "id": "152231",
@@ -3074,6 +3040,28 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "152329",
+      "name": "Blender",
+      "description": "Small blender.",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "20 Jan 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "152327",
+      "name": "Rice cooker",
+      "description": "Lightly used rice cooker PowerPac",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "20 Jan 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "152277",
       "name": "Standing Fan, Airfryer, Breadmaker, Air Purifier",
       "description": "All items lightly used.",
@@ -3182,6 +3170,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "152331",
+      "name": "Reclining sofa 3+1",
+      "description": "Its a 3+1 seater",
+      "location": "Farrer Park, Little India, Serangoon Road",
+      "validTill": "20 Jan 2026",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "152330",
+      "name": "Geriatric chair",
+      "description": "Manual geriatric chair",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "20 Jan 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "152326",
@@ -3831,6 +3841,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "152328",
+      "name": "Hospital bed",
+      "description": "Electric bed",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "20 Jan 2026",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "152323",
