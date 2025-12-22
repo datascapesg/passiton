@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "152355",
+      "category": "Home Furnishing",
+      "name": "2 seater black sofa",
+      "description": "An elderly female client who is unemployed and faces financial constraints has an adult son with special needs and requires 2 seater black sofa as her current sofa is in bad condition.",
+      "specifications": "NIL",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 223D",
+        "name": "Syamirul Azim",
+        "email": "syamirulazim@allkin.org.sg",
+        "phone": [
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "22 Dec 2025"
+    },
+    {
       "id": "152349",
       "category": "Home Furnishing",
       "name": "Plastic table",
@@ -1307,24 +1324,6 @@
         "phone": [
           "66901025",
           "66901000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Dec 2025"
-    },
-    {
-      "id": "152351",
-      "category": "Electrical Home Appliances",
-      "name": "Rice cooker",
-      "description": "Grandmother caregiving for four young grandchildren and her elderly mother, facing financial difficulties.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Danielle Ngin",
-        "email": "daniellengin@carecorner.org.sg",
-        "phone": [
-          "69506713",
-          "64761481"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2921,6 +2920,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "152354",
+      "name": "32\" Smart TV",
+      "description": "Good and working perfectly fine\nWith netflix, youtube, web browser",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "31 Dec 2025",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "152336",
       "name": "AIR COOLER",
       "description": "Bought more than 5years but still functioning. We have got a new big ceiling fan so decided to giveaway instead of throw it.",
@@ -3612,6 +3622,17 @@
       "dimensions": "38cm x 28cm x 10cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Learning Aids"
+    },
+    {
+      "id": "152356",
+      "name": "Pressure relief mattress",
+      "description": "Rainbow Care QDC-300B is an anti-decubitus alternating air mattress system designed to help prevent bedsores and pressure ulcers for patients with limited mobility or who are bedridden. The mattress uses 20 alternating air chambers that inflate and deflate in cycles to continuously redistribute body weight, reducing prolonged pressure on any one area.\n\nIt features adjustable pressure settings to suit different body weights and comfort needs, allowing personalised support for the user. The system is powered by an ultra-quiet compressor that is easy to set up and suitable for use in home or care environments without disturbing rest.\n\nThe mattress is a strip-type design with 20 tubes and comes with a spare tube for maintenance convenience. It is lightweight, practical, and intended for long-term care to improve comfort and skin protection during extended bed rest.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "15 Jan 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
     },
     {
       "id": "152350",
