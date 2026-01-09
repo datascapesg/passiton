@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "152884",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Client is a single dad and is moving into a new rental home. He needs a fridge.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Isabelle Chua",
+        "email": "isabellechua@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Jan 2026"
+    },
+    {
       "id": "152862",
       "category": "Electrical Home Appliances",
       "name": "Halal Oven",
@@ -2448,6 +2465,40 @@
       "date": "09 Dec 2025"
     },
     {
+      "id": "152887",
+      "category": "Home Furnishing",
+      "name": "TV Console",
+      "description": "Client is a single dad moving into his new rental flat.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Isabelle Chua",
+        "email": "isabellechua@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Jan 2026"
+    },
+    {
+      "id": "152885",
+      "category": "Home Furnishing",
+      "name": "Sofa",
+      "description": "Client is a single dad moving into his new rental flat. He needs a sofa as he lives with his other siblings as well and he needs to sleep in the living room.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Isabelle Chua",
+        "email": "isabellechua@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Jan 2026"
+    },
+    {
       "id": "152881",
       "category": "Home Furnishing",
       "name": "Cabinet",
@@ -3663,17 +3714,6 @@
       "validTill": "28 Jan 2026",
       "ageInYears": 4,
       "dimensions": "Length 158cm, Depth 100cm, Height 60cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "152543",
-      "name": "Nice tv console",
-      "description": "Light brown with dark brown top tv console",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "28 Jan 2026",
-      "ageInYears": 4,
-      "dimensions": "1.5mx0.3mx0.43m",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
