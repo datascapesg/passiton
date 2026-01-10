@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "152884",
-      "category": "Electrical Home Appliances",
-      "name": "Fridge",
-      "description": "Client is a single dad and is moving into a new rental home. He needs a fridge.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Isabelle Chua",
-        "email": "isabellechua@carecorner.org.sg",
-        "phone": [
-          "64761481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Jan 2026"
-    },
-    {
       "id": "152862",
       "category": "Electrical Home Appliances",
       "name": "Halal Oven",
@@ -33,24 +16,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "08 Jan 2026"
-    },
-    {
-      "id": "152849",
-      "category": "Electrical Home Appliances",
-      "name": "Washing machine",
-      "description": "Client, 71, elderly, single is unemployed due to mobility issue. He would benefit from having a washing machine to be able to wash his clothes. Client has no contact number. \n\nPls contact me (social worker) at 8043 9300 if keen to donate. Thank you.",
-      "specifications": "nil",
-      "contact": {
-        "org": "Filos Community Services Ltd",
-        "name": "Juliana Yong",
-        "email": null,
-        "phone": [
-          "62411503",
-          "62425978"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
       "date": "08 Jan 2026"
     },
     {
@@ -2847,24 +2812,6 @@
       "date": "16 Dec 2025"
     },
     {
-      "id": "152208",
-      "category": "Home Furnishing",
-      "name": "Queen bed",
-      "description": "Family consists of two young parents and their preschool going children, living in a 2-room rental flat. Both parents are working but their low income hinders them from having extra money for a new bed. They require a queen sized bed with mattress for the family to sleep in, preferably with storage space below the mattress. Please Whatsapp me at 62319407 if you have a suitable one to donate, thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Woodlands, Sembawang",
-        "name": "Fatimah Azzahrah",
-        "email": "fatimah_azzahrah_noor@msf.gov.sg",
-        "phone": [
-          "62319407",
-          "67660097"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Dec 2025"
-    },
-    {
       "id": "152167",
       "category": "Home Furnishing",
       "name": "Foldable Dining Table with Chairs",
@@ -3291,6 +3238,17 @@
       "dimensions": "H120cm x W30cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "152894",
+      "name": "Queen Size Bed",
+      "description": "Standard queen size storage bed with mattress",
+      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+      "validTill": "09 Feb 2026",
+      "ageInYears": 4,
+      "dimensions": "200×160×42",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "152892",
