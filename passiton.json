@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "152914",
+      "category": "Electrical Home Appliances",
+      "name": "Induction cooker",
+      "description": "The family of four is experiencing financial difficulties. The client’s husband is on an LTVP and has health issues. The client requires an induction cooker to prepare meals at home, helping to reduce spending on outside food.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Yang Yan Si",
+        "email": "yang.yansi@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Jan 2026"
+    },
+    {
       "id": "152862",
       "category": "Electrical Home Appliances",
       "name": "Halal Oven",
@@ -227,24 +244,6 @@
         "email": "hanim_ibrahim@msf.gov.sg",
         "phone": [
           "63153632",
-          "64244017"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Jan 2026"
-    },
-    {
-      "id": "152754",
-      "category": "Electrical Home Appliances",
-      "name": "Rice Cooker (halal)",
-      "description": "Family consists of a single mother with three children. She is currently only working part-time due to caregiving duties. As their rice cooker just spoiled, they are hoping to get a replacement that is still in good condition and must be halal.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
-        "name": "Vanessa Ong",
-        "email": "vanessa_ong@msf.gov.sg",
-        "phone": [
-          "63549538",
           "64244017"
         ]
       },
@@ -2124,6 +2123,24 @@
       "date": "16 Dec 2025"
     },
     {
+      "id": "152910",
+      "category": "Home Furnishing",
+      "name": "Cupboard (3/4-door)",
+      "description": "Client and his daughter currently lives with her 4 younger children. Their house had a bedbug infestation and they would require a new 3/4-doors wardrobe to replace their current piece after pest control works are done. Client and his daughter are not able to work due to caregiving needs and health issues.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Eileen Yong",
+        "email": "eileenyong@fycs.org",
+        "phone": [
+          "669010005",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Jan 2026"
+    },
+    {
       "id": "152906",
       "category": "Home Furnishing",
       "name": "5 tier toyogo box storage drawer",
@@ -2811,23 +2828,6 @@
       "date": "05 Jan 2026"
     },
     {
-      "id": "152869",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "Client had suffered a stroke last year, and her mobility is weak. Recently her legs started feeling pain and have become swollen, affecting her mobility and putting her at risk of falling. A wheelchair would allow her husband to push her for her medical appointments.For further liaison, kindly contact Harsheni at 81383741, thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (East)",
-        "name": "Nur Afrina",
-        "email": "fsceast@ppis.sg",
-        "phone": [
-          "60156970"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Jan 2026"
-    },
-    {
       "id": "152844",
       "category": "Mobility Aids",
       "name": "Wheelchair",
@@ -2969,6 +2969,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "152912",
+      "name": "Queen Bed",
+      "description": "- Queen Size Bed\n\n- 2 years old, Great condition (no stains or wear & tear)\n\n- King Koil Aloe Vera mattress\n\n- Comfortable top layer\n\n- Comes with Bed frame",
+      "location": null,
+      "validTill": "31 Jan 2026",
+      "ageInYears": 2,
+      "dimensions": "Queen Size",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "152898",
       "name": "IKEA Vesteroy Queen Size Mattress",
       "description": "Only used for 1 month for guest staying.\n\nImmaculate and clean and used with Mattress Protector (provided)\n\nSmall scuff marks due to damage unpacking.",
@@ -2976,17 +2987,6 @@
       "validTill": "31 Jan 2026",
       "ageInYears": 1,
       "dimensions": "150cm x 200cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "152897",
-      "name": "3 fold foldable foam mattress",
-      "description": "Product Parameter：\nProduct Model：3-FOLD\nProduct Features :\nHard.\nThe high density and ultimate hard foam layers together provide firm support to your backbone.\nThe foldable design into three layers allows easy and space-saving storage.",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "09 Feb 2026",
-      "ageInYears": 3,
-      "dimensions": "183cm X 91.5cm X 5cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -3627,6 +3627,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "152911",
+      "name": "Moisturising no rinse cleanser and Nitrile gloves",
+      "description": "1) Smith and Nephew Moisturising Skin Cleanser x4 bottles (brand new)\n- No rinse, one step cleansing\n2) 3M Cavilon No rinse skin cleanser X1 bottle (brand new)\n3) Nitrile gloves (powder free examination, latex free, non-sterile) size M X1 box (brand new)",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "11 Feb 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "152900",
