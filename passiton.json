@@ -1019,6 +1019,41 @@
       "date": "15 Dec 2025"
     },
     {
+      "id": "152986",
+      "category": "Others",
+      "name": "Soap and detergent",
+      "description": "Family of 7 with school going children seeking shampoo, bath soaps and laundry detergents. Father is sole breadwinner and would appreciate additional assistance to meet family needs.",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Anita Sheela Frederick",
+        "email": null,
+        "phone": [
+          "60721218",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Jan 2026"
+    },
+    {
+      "id": "152983",
+      "category": "Others",
+      "name": "Handphone",
+      "description": "Low income family is looking for a handphone replacement as mum's phone recently spoiled. Second hand phone donation is welcome. For direct delivery to the centre or beneficiary's home in Commonwealth.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Fitrah Nabilah",
+        "email": "fitrahnabilah@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 Jan 2026"
+    },
+    {
       "id": "152977",
       "category": "Others",
       "name": "Smartphone",
@@ -3442,6 +3477,39 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "152984",
+      "name": "Chest of Drawers",
+      "description": "Chest of drawers from IKEA. Lightly used.  In good condition.",
+      "location": "Balestier, Toa Payoh",
+      "validTill": "12 Feb 2026",
+      "ageInYears": 4,
+      "dimensions": "80cm x 50cm x 123cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "152982",
+      "name": "Sofa Set (3+2 Seater)",
+      "description": "The set consists of a black leather three-seater and two-seater sofa with thick armrests and adjustable, tiltable headrests, accompanied by a coffee table.",
+      "location": "Braddell , Macpherson, Potong Pasir",
+      "validTill": "14 Jan 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "152981",
+      "name": "TV Console",
+      "description": "*Refer to image",
+      "location": "Braddell , Macpherson, Potong Pasir",
+      "validTill": "12 Feb 2026",
+      "ageInYears": 1,
+      "dimensions": "180cm x 42cm x 38cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "152980",
       "name": "Bed Frame",
       "description": "Metal and wood sturdy and durable super single bed frame",
@@ -3750,15 +3818,15 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "152330",
-      "name": "Geriatric chair",
-      "description": "Manual geriatric chair",
-      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-      "validTill": "20 Jan 2026",
-      "ageInYears": 1,
-      "dimensions": null,
+      "id": "152985",
+      "name": "Nuna Sena Aire Playard & Travel Crib",
+      "description": "A good night’s sleep is in the palm of your hands. The SENA aire opens with just that—in seconds. Its Advanced air design™ provides 360° of ventilation for ultimate airflow and super-fresh, deep sleeps. All so you can easily turn any room into your baby’s room. Suitable from newborn to 15kg",
+      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+      "validTill": "12 Feb 2026",
+      "ageInYears": 3,
+      "dimensions": "L100 x W73 x H73 cm",
       "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
+      "category": "Infant and Children Items"
     },
     {
       "id": "152979",
@@ -4058,17 +4126,6 @@
       "category": "Medical Aids"
     },
     {
-      "id": "152785",
-      "name": "Geriatric Chair",
-      "description": "Geriatric chair for elderly to sit out of bed. Good condition, hardly used.",
-      "location": "Braddell , Macpherson, Potong Pasir",
-      "validTill": "05 Feb 2026",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
       "id": "152690",
       "name": "AIRDROX Antistatic Valved Inhaler Spacer with Face Mask",
       "description": "Brand new and unused. Spacer with XL Mask (Adult - Grey). For inhaler use.",
@@ -4221,6 +4278,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "152987",
+      "name": "Tena Value Diapers (M size)",
+      "description": "We have 17 unopened packets of Tena Value M size diapers to give away. There are 12 pieces inside each packet.",
+      "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+      "validTill": "12 Feb 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "152911",
