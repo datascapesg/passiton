@@ -3263,24 +3263,6 @@
       "date": "06 Jan 2026"
     },
     {
-      "id": "152747",
-      "category": "Home Furnishing",
-      "name": "Super single bed for elderly",
-      "description": "My elderly client (F/76) appreciates a kind donor to donate a new super single bed with mattress so that she is able to sleep more comfortably, as she currently moves around slowly with a tongkat and weak on her legs. Client’s husband and her two children had also deceased and she would really appreciate the help.",
-      "specifications": "107 x 190",
-      "contact": {
-        "org": "Fei Yue Community Service - Family Resource Centre",
-        "name": "Crystal Wu",
-        "email": "crystalwu@fycs.org",
-        "phone": [
-          "62466952",
-          "65467460"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Jan 2026"
-    },
-    {
       "id": "152724",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -3772,6 +3754,28 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "153045",
+      "name": "washing machine front load",
+      "description": "I'm helping my friend donate this as she sold her flat and moving out soon.  If your client wants this, can whatsapp me the address and whether lift landing or not ASAP as the moving company needs that information to give me a quote",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "26 Jan 2026",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "153044",
+      "name": "fridge",
+      "description": "I'm helping my friend donate this as she sold her flat and moving out soon.  If your client wants this, can whatsapp me the address and whether lift landing or not ASAP as the moving company needs that information to give me a quote",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "26 Jan 2026",
+      "ageInYears": 2,
+      "dimensions": "L207 x H54 x D49",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "153038",
       "name": "Electric Toaster",
       "description": "Toaster in good working condition.\n\nI can deliver ONLY to South/Central areas.",
@@ -3869,6 +3873,17 @@
       "dimensions": "H120cm x W30cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "153046",
+      "name": "super single bed",
+      "description": "I'm helping my friend donate this as she sold her flat and moving out soon.  If your client wants this, can whatsapp me the address and whether lift landing or not ASAP as the moving company needs that information to give me a quote",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "26 Jan 2026",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "153036",
@@ -3988,17 +4003,6 @@
       "validTill": "31 Jan 2026",
       "ageInYears": 2,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "152845",
-      "name": "3 function electric low bed with 4 side rails",
-      "description": "3 function electric low bed with 4 side rails.",
-      "location": "Farrer Park, Little India, Serangoon Road",
-      "validTill": "07 Feb 2026",
-      "ageInYears": 4,
-      "dimensions": "2.3m x 1m",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -4669,6 +4673,28 @@
       "location": "Seng Kang",
       "validTill": "10 Feb 2026",
       "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "153042",
+      "name": "Hospital bed",
+      "description": "Electric bed",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "20 Jan 2026",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "153043",
+      "name": "Hospital bed",
+      "description": "Electric bed",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "20 Jan 2026",
+      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
