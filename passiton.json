@@ -723,6 +723,42 @@
       "date": "16 Dec 2025"
     },
     {
+      "id": "153101",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine Needed!",
+      "description": "The household comprises a single parent and her school-going child. The family moved into their housing unit last year and currently requires a washing machine to meet their daily household needs.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Farahlina Tan",
+        "email": "farahlina_tan@awwa.org.sg",
+        "phone": [
+          "65119458",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Jan 2026"
+    },
+    {
+      "id": "153100",
+      "category": "Electrical Home Appliances",
+      "name": "Halal Fridge Needed!",
+      "description": "The household comprises of 4 school-going children, one of whom has special needs. Client is a homemaker and primary caregiver to her children while husband is the sole income earner. Family requires a halal refrigerator as their current one is faulty.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Farahlina Tan",
+        "email": "farahlina_tan@awwa.org.sg",
+        "phone": [
+          "65119458",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "16 Jan 2026"
+    },
+    {
       "id": "153092",
       "category": "Electrical Home Appliances",
       "name": "washing machine",
@@ -4093,17 +4129,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "153063",
-      "name": "Shoe Cabinet",
-      "description": "Wooden Shoe Cabinet with 4 inner shelves",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "31 Jan 2026",
-      "ageInYears": 3,
-      "dimensions": "90cm x 45cm x 85cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "153061",
       "name": "Study Table with 2 Monitors",
       "description": "Walnut coloured wooden study table with 2 free 21-inch monitors",
@@ -4564,6 +4589,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Kitchen Utility Items"
+    },
+    {
+      "id": "153099",
+      "name": "Piano",
+      "description": "16 years old Working Piano. \nFew keys not to perfection.",
+      "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+      "validTill": "15 Feb 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Leisure and Healthy Lifestyle"
     },
     {
       "id": "153096",
