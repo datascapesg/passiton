@@ -1,5 +1,27 @@
 [
   {
+    "id": "153106",
+    "name": "Philips Air Fryer",
+    "description": "Easy cooking controls\n\n Fry, bake, roast or grill",
+    "location": "Springleaf, Tagore, Upper Thomson",
+    "validTill": "15 Feb 2026",
+    "ageInYears": 1,
+    "dimensions": "287 x 315 x 384 mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "153104",
+    "name": "Elba Mini Fridge",
+    "description": "Mini fridge with ice tray compartment. 5 Level thermostat. Gross 60L",
+    "location": "Springleaf, Tagore, Upper Thomson",
+    "validTill": "15 Feb 2026",
+    "ageInYears": 3,
+    "dimensions": "18inches x 17 inches x 19 inches",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "153038",
     "name": "Electric Toaster",
     "description": "Toaster in good working condition.\n\nI can deliver ONLY to South/Central areas.",
@@ -99,6 +121,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "153108",
+    "name": "Leather Gold frame chairs 8pcs",
+    "description": "Gold frame leaher chairs 8pcs",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "31 Jan 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "153102",
+    "name": "Electric hospital bed",
+    "description": "Electric hospital bed with air mattress with pump.\n\nThis was posted in another category earlier",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "15 Feb 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "153082",
     "name": "Queen Bed",
     "description": "Queen Size Bed with matttress",
@@ -161,17 +205,6 @@
     "validTill": "14 Feb 2026",
     "ageInYears": 4,
     "dimensions": "162cm x 62cm x 77cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "153036",
-    "name": "queen size bed and mattress",
-    "description": "queen bed and mattress. USED for 2 years by a single.Similar to the picture. Need to replace with hospital bed.",
-    "location": "Farrer Park, Little India, Serangoon Road",
-    "validTill": "09 Feb 2026",
-    "ageInYears": 2,
-    "dimensions": "queen size",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -438,17 +471,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
-  },
-  {
-    "id": "153095",
-    "name": "Diaper Size L",
-    "description": "Size L diaper unopened",
-    "location": null,
-    "validTill": "14 Feb 2026",
-    "ageInYears": 3,
-    "dimensions": "See photo",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
   },
   {
     "id": "152985",
@@ -853,17 +875,6 @@
     "location": null,
     "validTill": "14 Feb 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "153071",
-    "name": "Wheelchair",
-    "description": "wheelchair",
-    "location": null,
-    "validTill": "14 Feb 2026",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
