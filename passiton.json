@@ -2178,24 +2178,6 @@
       "date": "16 Jan 2026"
     },
     {
-      "id": "153094",
-      "category": "Others",
-      "name": "Cat food",
-      "description": "A senior has a cat at home. Her cat is the only companion for the senior, who is alone at home. The senior requires cat food to support her to care for the cat.",
-      "specifications": null,
-      "contact": {
-        "org": "Lions Befrienders Service Association (Singapore)",
-        "name": "Chow Ching Hua",
-        "email": "chinghua.chow@lb.org.sg",
-        "phone": [
-          "66814941",
-          "63758600"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Jan 2026"
-    },
-    {
       "id": "153083",
       "category": "Others",
       "name": "Printer",
@@ -2754,24 +2736,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "23 Dec 2025"
-    },
-    {
-      "id": "152352",
-      "category": "Others",
-      "name": "Cat cage",
-      "description": "Grandmother caregiving for four young grandchildren and her elderly mother, facing financial difficulties.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Danielle Ngin",
-        "email": "daniellengin@carecorner.org.sg",
-        "phone": [
-          "69506713",
-          "64761481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Dec 2025"
     },
     {
       "id": "153179",
@@ -4554,6 +4518,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "153180",
+      "name": "Duphalac",
+      "description": "I have 5 bottles of unopened Duphalac (exp 11/2026).",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "18 Feb 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "153174",
