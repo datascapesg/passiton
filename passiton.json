@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "153193",
+      "category": "Infant and Children Items",
+      "name": "Milk powder (Similac Stage 3 and Lactogen Stage 1)",
+      "description": "Low-income nuclear family is currently on financial assistance and requires support for milk powder as well. Family has 2 infants, a 1 year old son and 4 month old daughter. Mother is not working as she has to take care of the infants. Father is currently in NS and receiving allowance but it is insufficient for monthly expenses. Their son drinks Similac milk powder (Stage 3) and daughter drinks Lactogen (Stage 1).",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
+        "name": "Emilyn Teo",
+        "email": "emilyn_teo@msf.gov.sg",
+        "phone": [
+          "67087820",
+          "62957205"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jan 2026"
+    },
+    {
       "id": "153190",
       "category": "Infant and Children Items",
       "name": "Drypers or Huggies Airsoft XL (Pants)",
@@ -874,6 +892,24 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "22 Dec 2025"
+    },
+    {
+      "id": "153196",
+      "category": "Electrical Home Appliances",
+      "name": "Rice cooker",
+      "description": "A caregiver of 2 school-going grandchildren has recently been released from prison. The rice cooker that the family has been using for years has spoilt, and she hopes to receive a new one, preferably 1.5l in size. Do reach out to Marilyn at 81214654 if you would like to support this family. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "New Life Stories Limited",
+        "name": "Marilyn Heng",
+        "email": "marilyn@newlifestories.org.sg",
+        "phone": [
+          "81214654",
+          "63867688"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jan 2026"
     },
     {
       "id": "153192",
@@ -2809,6 +2845,24 @@
       "date": "23 Dec 2025"
     },
     {
+      "id": "153195",
+      "category": "Home Furnishing",
+      "name": "Smart TV",
+      "description": "Family has 3 children aged 10, 8 and 2 years old, and are moving from their public rental flat to their BTO in Bt Batok soon. The father is the sole breadwinner and the mother is looking for a job after their 2-yr-old secures an infant care placement in Bt Batok. \n\nThey are looking out for donated/sponsored furniture, including a Smart TV, study table, children's cupboard and bed frames + mattresses (King size and double-decker single beds/pullout beds).",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Woodlands, Sembawang",
+        "name": "Nur Farizan Hashim",
+        "email": "nur_farizan_hashim@msf.gov.sg",
+        "phone": [
+          "60138532",
+          "67660097"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jan 2026"
+    },
+    {
       "id": "153187",
       "category": "Home Furnishing",
       "name": "Dining Table Set",
@@ -2965,23 +3019,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "16 Jan 2026"
-    },
-    {
-      "id": "153060",
-      "category": "Home Furnishing",
-      "name": "Bedsheets & pillow covers",
-      "description": "Client is low-income mother with special needs and chronic health condition. She needs new Queen bedsheets as her old ones are extremely worn out. She has recently gotten new Single mattresses, pillows, bolsters from donors for her children who have returned home to stay with her. If you are able to pass on these items please do WhatsApp us at 6843 9619",
-      "specifications": "- Queen mattress x2  - Single bedsheets x2 - Pillow covers x3 - Bolster covers x3",
-      "contact": {
-        "org": "MWS Family Service Centre - Tampines",
-        "name": "Han Wen Ting",
-        "email": "hanwenting@mws.sg",
-        "phone": [
-          "67872001"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "15 Jan 2026"
     },
     {
       "id": "153049",
@@ -3867,6 +3904,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "153194",
+      "name": "Pinewood single bedframe × 2",
+      "description": "I have 2 Seahorse brand pinewood single bedframes to give away. They are as good as new. Bedframes will be dismantled for ease of transport.",
+      "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+      "validTill": "25 Jan 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "153191",
       "name": "Single bed frame with mattress",
       "description": "Brand new single bed frame fabric (without headboard) plus 6inch foam mattress",
@@ -3977,17 +4025,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "153088",
-      "name": "King Koil Mattress",
-      "description": "King Koil Mattress",
-      "location": null,
-      "validTill": "14 Feb 2026",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "153089",
       "name": "King Koil Mattress",
       "description": "King Koil Mattress",
@@ -4021,17 +4058,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "153006",
-      "name": "dining chairs",
-      "description": "6 dining chairs",
-      "location": "Balestier, Toa Payoh",
-      "validTill": "13 Feb 2026",
-      "ageInYears": 1,
-      "dimensions": "H 85cm x W 54cm x D 54cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "152933",
       "name": "Adjustable bedframe to prevent fall",
       "description": "Bedframe to prevent fall and to give support. To slot under mattress.bought for elderly parent but never used",
@@ -4039,17 +4065,6 @@
       "validTill": "02 Feb 2026",
       "ageInYears": 1,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "152896",
-      "name": "L-shape 3-seater fabric sofa",
-      "description": "L-shape 3-seater fabric sofa of grey/sand colour. Pillow and seat covers are machine washable. Some leftover stains on the handrest due to dog in household.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "09 Feb 2026",
-      "ageInYears": 3,
-      "dimensions": "L2360 x W1700 x H870mm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
