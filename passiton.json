@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "153190",
+      "category": "Infant and Children Items",
+      "name": "Drypers or Huggies Airsoft XL (Pants)",
+      "description": "Client has mental health condition, is a single parent with rental income but has many arrears. Husband is incarcerated and only to be released in 2026. She has 2 young children under 3 and diapers requested is for her younger child. If you have a suitable item or is able to support with this, please WhatsApp us at 6843 9619 thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Han Wen Ting",
+        "email": "hanwenting@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "19 Jan 2026"
+    },
+    {
       "id": "153169",
       "category": "Infant and Children Items",
       "name": "Tena Adult Diapers M Tape",
@@ -857,6 +874,60 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "22 Dec 2025"
+    },
+    {
+      "id": "153192",
+      "category": "Electrical Home Appliances",
+      "name": "Window air-conditioner",
+      "description": "Low-income nuclear family with a 9 year old son and 1 year old baby requires a window air-conditioner in their home as their current portable air-con uses up a lot of electricity, resulting in high bills. An air-con is required for their family as a cool environment ensures the children do not develop itch when it gets hot. A window air-con will help to reduce their electricity bills.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
+        "name": "Emilyn Teo",
+        "email": "emilyn_teo@msf.gov.sg",
+        "phone": [
+          "67087820",
+          "62957205"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jan 2026"
+    },
+    {
+      "id": "153189",
+      "category": "Electrical Home Appliances",
+      "name": "Bladeless Standing Fan",
+      "description": "Single mum with her three-year-old son just moved into their one-room rental flat. They are hoping to get a standing fan, specifically must be bladeless as her child is still young and a typical standing fan may be dangerous for him.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+        "name": "Vanessa Ong",
+        "email": "vanessa_ong@msf.gov.sg",
+        "phone": [
+          "63549538",
+          "64244017"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jan 2026"
+    },
+    {
+      "id": "153188",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "Family comprises a single mother and her daughter. Their washing machine has spoiled and they require a new one, preferably with front load, to wash their clothes.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
+        "name": "Emilyn Teo",
+        "email": "emilyn_teo@msf.gov.sg",
+        "phone": [
+          "67087820",
+          "62957205"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jan 2026"
     },
     {
       "id": "153173",
@@ -2738,6 +2809,24 @@
       "date": "23 Dec 2025"
     },
     {
+      "id": "153187",
+      "category": "Home Furnishing",
+      "name": "Dining Table Set",
+      "description": "Family consists of a single mum with her three-year-old son. They just moved into their one-room rental flat and are still lacking some basic furnishing. They are hoping to have a small dining table set (table and chairs) big enough for two persons but also not too big as they are only staying in a one-room flat.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+        "name": "Vanessa Ong",
+        "email": "vanessa_ong@msf.gov.sg",
+        "phone": [
+          "63549538",
+          "64244017"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Jan 2026"
+    },
+    {
       "id": "152209",
       "category": "Home Furnishing",
       "name": "Kitchen Cabinet / counter",
@@ -3776,6 +3865,17 @@
       "dimensions": "H120cm x W30cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "153191",
+      "name": "Single bed frame with mattress",
+      "description": "Brand new single bed frame fabric (without headboard) plus 6inch foam mattress",
+      "location": null,
+      "validTill": "21 Jan 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "153186",
