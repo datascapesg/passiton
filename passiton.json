@@ -1035,23 +1035,6 @@
       "date": "20 Jan 2026"
     },
     {
-      "id": "153239",
-      "category": "Electrical Home Appliances",
-      "name": "Mobile Phone",
-      "description": "Client’s current outdated phone often fails to receive calls and messages, making it difficult to stay connected with support systems and family. She is hoping for a reliable phone to support her in managing caregiving responsibilities, medical appointments and communication. Client is a mother undergoing a separation from her husband, who has been in and out of incarceration which strained their relationship and left her with debts. Due to her mental health condition, she is unfit to work and receives SSO support. She also faces recent physical health issues requiring medical care. Living in a one‑room rental flat, Client is the primary caregiver for her teenage daughter and also cares for her 6‑year‑old child with autism, who resides separately.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Althea Rae Chan",
-        "email": "althea.chan@childrensociety.org.sg",
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Jan 2026"
-    },
-    {
       "id": "151742",
       "category": "Electrical Home Appliances",
       "name": "Portable Air-Con Machine",
@@ -5101,6 +5084,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "153249",
+      "name": "Zojirushi Thermos Bottle 0.48L",
+      "description": "Brand new Thermos water bottle with heat retention.",
+      "location": "Boon Lay, Jurong, Tuas",
+      "validTill": "20 Feb 2026",
+      "ageInYears": 1,
+      "dimensions": "0.48L",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "153248",
+      "name": "Zojirushi Thermos",
+      "description": "Thermos water bottle with heat retention.",
+      "location": "Boon Lay, Jurong, Tuas",
+      "validTill": "20 Feb 2026",
+      "ageInYears": 1,
+      "dimensions": "0.5L",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "153180",
