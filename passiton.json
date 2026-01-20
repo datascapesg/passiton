@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "153211",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder & Diapers",
+      "description": "The family of 6, comprising both parents and 4 young children aged between 1 and 5 years. They reside in an HDB rental flat. Father is medically unfit for employment due to spinal issues, as supported by a doctor’s memo. Mother has been the primary breadwinner, working part-time while also managing caregiving responsibilities for the children. At present, the mother is coping with grief following a recent miscarriage. Additionally, their son is scheduled for surgery in January 2026 and will require her care and support during the recovery period. As a result, the family is currently without any source of income. Assistance with the family’s essential needs would greatly help to alleviate their financial burden during this challenging period.",
+      "specifications": "Dumex stage 3 & Lactogen step 2",
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Kelly Lim",
+        "email": "kelly.lim@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Jan 2026"
+    },
+    {
+      "id": "153210",
+      "category": "Infant and Children Items",
+      "name": "Diapers and Milk Powder",
+      "description": "The family of 6, comprising both parents and 4 young children aged between 1 and 5 years. They reside in an HDB rental flat. Father is medically unfit for employment due to spinal issues, as supported by a doctor’s memo. Mother has been the primary breadwinner, working part-time while also managing caregiving responsibilities for the children. At present, the mother is coping with grief following a recent miscarriage. Additionally, their son is scheduled for surgery in January 2026 and will require her care and support during the recovery period. As a result, the family is currently without any source of income. Assistance with the family’s essential needs would greatly help to alleviate their financial burden during this challenging period.",
+      "specifications": "Drypers (size L and size XL)",
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Kelly Lim",
+        "email": "kelly.lim@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Jan 2026"
+    },
+    {
       "id": "153193",
       "category": "Infant and Children Items",
       "name": "Milk powder (Similac Stage 3 and Lactogen Stage 1)",
@@ -874,6 +908,24 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "22 Dec 2025"
+    },
+    {
+      "id": "153213",
+      "category": "Electrical Home Appliances",
+      "name": "Rice cooker",
+      "description": "Single mother with a 6-year-old child attending preschool. She is currently seeking employment and tends to cook at home.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Yishun",
+        "name": "Edwin Wee",
+        "email": "edwin_kh_wee@msf.gov.sg",
+        "phone": [
+          "62319460",
+          "18002220000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Jan 2026"
     },
     {
       "id": "153209",
@@ -2131,6 +2183,24 @@
       "date": "22 Dec 2025"
     },
     {
+      "id": "153214",
+      "category": "Others",
+      "name": "Plastic Storage Container",
+      "description": "Client is looking for two large plastic storage containers big enough to store her clothes.\n\nClient is wheelchair bound and it can be difficult for her to access the taller cupboards.\n\nIt's helpful for her to have these large plastic storage containers to easily store and access her clothes\n\nWhatsapp 6038 4135 if keen to donate :)",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+        "name": "May Sophea",
+        "email": "maysophea@allkin.org.sg",
+        "phone": [
+          "60384135",
+          "60384100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "20 Jan 2026"
+    },
+    {
       "id": "153207",
       "category": "Others",
       "name": "Mobile phone",
@@ -3237,23 +3307,6 @@
       "date": "09 Jan 2026"
     },
     {
-      "id": "152873",
-      "category": "Home Furnishing",
-      "name": "Wardrobe",
-      "description": "Single father staying with one daughter requires a wardrobe. The current wardrobe is spoilt. Family has tight financial situation as the father is unable to work due to health conditions. Family is under financial assistance.",
-      "specifications": null,
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Ye Jiancheng",
-        "email": "jiancheng@sccfsc.org.sg",
-        "phone": [
-          "64619200"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Jan 2026"
-    },
-    {
       "id": "152859",
       "category": "Home Furnishing",
       "name": "Storage Sofa",
@@ -3812,17 +3865,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "153038",
-      "name": "Electric Toaster",
-      "description": "Toaster in good working condition.\n\nI can deliver ONLY to South/Central areas.",
-      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-      "validTill": "27 Jan 2026",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "152860",
       "name": "Samsung TV monitor",
       "description": "We are decluttering and would like to find a home for the reasonably good TV monitor.",
@@ -3878,6 +3920,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "153212",
+      "name": "IKEA armchair",
+      "description": "Lightly used armchair, structurally v sturdy with some minor stains from usage.",
+      "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+      "validTill": "19 Feb 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "153204",
       "name": "Single Bunk bed with attached desk",
       "description": "Ikea bunk bed with attached desk with single mattress adult size single bed. For measurements please refer to the attached photos. Dismantle and assemble guide can be found in ikea website.",
@@ -3906,17 +3959,6 @@
       "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
       "validTill": "25 Jan 2026",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "153191",
-      "name": "Single bed frame with mattress",
-      "description": "Brand new single bed frame fabric (without headboard) plus 6inch foam mattress",
-      "location": null,
-      "validTill": "21 Jan 2026",
-      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
@@ -4083,17 +4125,6 @@
       "validTill": "05 Feb 2026",
       "ageInYears": 2,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "152687",
-      "name": "Tv sideboard",
-      "description": "Tv sideboard with internal shelving for storage for giveaway. Brown color.",
-      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-      "validTill": "30 Jan 2026",
-      "ageInYears": 4,
-      "dimensions": "1.2m x 0.42m x 0.75m",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -4585,6 +4616,17 @@
       "id": "153097",
       "name": "Shower Chair",
       "description": "Shower Chair",
+      "location": null,
+      "validTill": "14 Feb 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "153215",
+      "name": "Wheelchair",
+      "description": "wheelchair",
       "location": null,
       "validTill": "14 Feb 2026",
       "ageInYears": 4,
