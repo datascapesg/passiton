@@ -792,6 +792,17 @@
     "category": "Learning Aids"
   },
   {
+    "id": "153297",
+    "name": "Oxygen concentrator",
+    "description": "Nidek",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "20 Feb 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "153252",
     "name": "Reclinable Geriatric Chair with removable meal top",
     "description": "Geriatric chair in good condition, recline-able, removable meal table top.",
@@ -880,23 +891,34 @@
     "category": "Medical Aids"
   },
   {
-    "id": "153266",
-    "name": "Casalift 180E",
-    "description": "The Casalift Hoist is a lightweight and versatile lifting device for use when transferring individuals.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "30 Jan 2026",
+    "id": "153299",
+    "name": "Push Chair",
+    "description": "Travel Push Chair",
+    "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+    "validTill": "20 Feb 2026",
     "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
   {
-    "id": "153241",
-    "name": "Wheelchair",
-    "description": "Wheelchair. Old model but still working well.",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "19 Feb 2026",
-    "ageInYears": 4,
+    "id": "153298",
+    "name": "Walking Stick",
+    "description": "Walking stick",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "20 Feb 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "153266",
+    "name": "Casalift 180E",
+    "description": "The Casalift Hoist is a lightweight and versatile lifting device for use when transferring individuals.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "30 Jan 2026",
+    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
