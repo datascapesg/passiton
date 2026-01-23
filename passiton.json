@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "153367",
+      "category": "Infant and Children Items",
+      "name": "Diapers for special needs child",
+      "description": "Client stays in a 1 room HDB rental flat in Sengkang with her spouse and 2 special needs children (M/7 and F/5) who are diagnosed with autism. Due to the high needs of her children, client has her hands full with caregiving and is unable to work. Her spouse, having a past incarceration record, has problems finding employment and is currently unemployed. Due to F/5's diagnosis of low-functioning autism, she is nonverbal and is unable to voice out when she wants to use the toilet, causing client to be unable to toilet train her properly, hence she is still wearing diapers. As F/5 is severely overweight, she is unable to fit into children sized diapers, hence client is requesting for 8 packs of Tena Adult Diapers (size S) for F/5 to last her around 1-2 months as the family is struggling financially.",
+      "specifications": "Tena Adult Size S diapers",
+      "contact": {
+        "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
+        "name": "Belle Teo",
+        "email": "belle_teo@msf.gov.sg",
+        "phone": [
+          "63548976",
+          "18002220000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Jan 2026"
+    },
+    {
       "id": "153360",
       "category": "Infant and Children Items",
       "name": "Drypers XL pants - 4 packs",
@@ -1316,6 +1334,42 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "23 Dec 2025"
+    },
+    {
+      "id": "153366",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "The family comprises a single mother who is the sole breadwinner to her two young children aged 4 and 11, and who was previously homeless before recently securing a rental flat. As the family is still in the process of moving in and rebuilding stability after a period of housing insecurity, their financial resources are limited and focused on essential daily needs. A fridge is a basic household necessity that would enable the family to safely store food, prepare meals more cost-effectively, and ensure the children’s nutritional needs are met. This donation would provide meaningful practical support and contribute significantly to the family’s stability, dignity, and ability to sustain their tenancy.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Ltd - Transitional Shelter (JT)",
+        "name": "Nur Atikah Binte Hamdan",
+        "email": "nur_atikah@awwa.org.sg",
+        "phone": [
+          "88860487",
+          "65111669"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Jan 2026"
+    },
+    {
+      "id": "153365",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "The family comprises a single mother who is the sole breadwinner to her two young children aged 4 and 11, and who was previously homeless before recently securing a rental flat. As the family is still in the process of moving in and rebuilding stability after a period of housing insecurity, their financial resources are limited and focused on essential daily needs. A washing machine would be a crucial household item to support the family’s transition into stable housing, enabling the children to maintain proper hygiene and routine, while allowing the mother to better manage caregiving and work responsibilities. This donation would provide meaningful practical support and contribute significantly to the family’s dignity, stability, and ability to sustain their tenancy.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Ltd - Transitional Shelter (JT)",
+        "name": "Nur Atikah Binte Hamdan",
+        "email": "nur_atikah@awwa.org.sg",
+        "phone": [
+          "88860487",
+          "65111669"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Jan 2026"
     },
     {
       "id": "153354",
@@ -4704,6 +4758,42 @@
       "date": "14 Jan 2026"
     },
     {
+      "id": "153368",
+      "category": "Learning Aids",
+      "name": "Sec 1 assessment books (English, Malay(Mother tongue), maths and science)",
+      "description": "The client is a mother of five children of different age groups, living in a two-room rental apartment. Her husband, who was the sole breadwinner, has been diagnosed with bipolar disorder and recently met with an accident. As he is Malaysian, he has since returned to Malaysia, leaving the client to manage the household and childcare responsibilities alone. She is currently caring for her young 4‑year‑old son and supporting all her children with limited resources. The family would benefit greatly from assistance in the form of Sec 1 and Sec 2 basic subject assessment books. (H)",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Bedok North",
+        "name": "Low Kim Yong",
+        "email": "lowkimyong@thkmc.org.sg",
+        "phone": [
+          "81883314",
+          "64491440"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Jan 2026"
+    },
+    {
+      "id": "153364",
+      "category": "Learning Aids",
+      "name": "Sec 2 assessment books (English, Malay(Mother tongue), maths and science)",
+      "description": "The client is a mother of five children of different age groups, living in a two-room rental apartment. Her husband, who was the sole breadwinner, has been diagnosed with bipolar disorder and recently met with an accident. As he is Malaysian, he has since returned to Malaysia, leaving the client to manage the household and childcare responsibilities alone. She is currently caring for her young 4‑year‑old son and supporting all her children with limited resources. The family would benefit greatly from assistance in the form of Sec 1 and Sec 2 basic subject assessment books. (H)",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Bedok North",
+        "name": "Low Kim Yong",
+        "email": "lowkimyong@thkmc.org.sg",
+        "phone": [
+          "81883314",
+          "64491440"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Jan 2026"
+    },
+    {
       "id": "153284",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -5583,17 +5673,6 @@
       "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
       "validTill": "20 Feb 2026",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
-      "id": "153252",
-      "name": "Reclinable Geriatric Chair with removable meal top",
-      "description": "Geriatric chair in good condition, recline-able, removable meal table top.",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "20 Feb 2026",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
