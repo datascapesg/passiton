@@ -2625,24 +2625,6 @@
       "date": "22 Jan 2026"
     },
     {
-      "id": "153321",
-      "category": "Others",
-      "name": "Inkjet Printer",
-      "description": "Family of 3 staying in Yishun rental flat request for an inkjet printer, preferably Canon to print out school assignments.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Yishun",
-        "name": "Edwin Wee",
-        "email": "edwin_kh_wee@msf.gov.sg",
-        "phone": [
-          "62319460",
-          "18002220000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 Jan 2026"
-    },
-    {
       "id": "153314",
       "category": "Others",
       "name": "Laptop",
@@ -5498,6 +5480,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "153396",
+      "name": "Walking stick",
+      "description": "The items are used but still in working condition",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "27 Jan 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "153299",
