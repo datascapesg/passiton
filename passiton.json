@@ -1928,24 +1928,6 @@
       "date": "12 Jan 2026"
     },
     {
-      "id": "152927",
-      "category": "Home Furnishing",
-      "name": "Queen size bed",
-      "description": "Client is a single mother with 5 children. She is the sole breadwinner and primary caregiver to her children. Given the large household and limited income, she will require a new queen size mattress and bed frame to replace her current mattress which is soiled.",
-      "specifications": "-",
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Bukit Batok",
-        "name": "Hannah Lim",
-        "email": "hannahlimzhixin@fycs.org",
-        "phone": [
-          "69783487",
-          "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Jan 2026"
-    },
-    {
       "id": "152920",
       "category": "Home Furnishing",
       "name": "Queen-size bed with mattress",
@@ -4007,6 +3989,24 @@
       "date": "29 Dec 2025"
     },
     {
+      "id": "153538",
+      "category": "Others",
+      "name": "Adult TENA Diaper PANTS (size L)",
+      "description": "Client is 63 years old, staying with her son. She was diagnosed with Cancer in 2014 & 2021. Due to the sign effect of the treatment, client has difficulties to walk. She needs to use diaper and under pad regularly.",
+      "specifications": "Size L",
+      "contact": {
+        "org": "AIN Society",
+        "name": "Nur'Ain Binte Mohamed Said",
+        "email": "nurain@ainsociety.org.sg",
+        "phone": [
+          "68485116",
+          "68485166"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Jan 2026"
+    },
+    {
       "id": "153531",
       "category": "Others",
       "name": "Mobile phone",
@@ -5535,17 +5535,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "153335",
-      "name": "Teak Solid Wood Dining Table",
-      "description": "Solid teak dining table \nSurface well used. Sturdy and 100% functional\nTable only. No chairs",
-      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-      "validTill": "09 Feb 2026",
-      "ageInYears": 4,
-      "dimensions": "200cm x 100cm x 76cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "153309",
       "name": "IKEA Single Sofa - 3 pieces",
       "description": "3 single ikea sofas to give away asap.  Collection at a shop unit @ Queensway Shopping Centre",
@@ -6206,17 +6195,6 @@
       "category": "Mobility Aids"
     },
     {
-      "id": "153215",
-      "name": "Wheelchair",
-      "description": "wheelchair",
-      "location": null,
-      "validTill": "14 Feb 2026",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
       "id": "153000",
       "name": "Walking frame",
       "description": "Foldable walking aid. Hardly used as too high for my father's height.",
@@ -6270,6 +6248,17 @@
       "dimensions": "Na",
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "153539",
+      "name": "Traditional Teochew Opera VCDs",
+      "description": "All the 20 traditional Teochew Opera VCDs can be played with a DVD player.",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "27 Feb 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "153403",
