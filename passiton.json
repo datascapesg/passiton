@@ -3528,24 +3528,6 @@
       "date": "14 Jan 2026"
     },
     {
-      "id": "153027",
-      "category": "Electrical Home Appliances",
-      "name": "Television",
-      "description": "Family of 6 with 4 school-going children staying in a 2-room rental flat who requires a television as their current one is faulty. Would greatly appreciate if donor is able to cover transport expenses.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Kreta Ayer",
-        "name": "Mohamad Harith",
-        "email": "harith_husaini@msf.gov.sg",
-        "phone": [
-          "63254547",
-          "1800-222-0000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Jan 2026"
-    },
-    {
       "id": "153026",
       "category": "Electrical Home Appliances",
       "name": "TV",
@@ -6218,6 +6200,17 @@
       "dimensions": "Na",
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "153632",
+      "name": "Brother ink cartridges",
+      "description": "Brother ink toners, various colours.",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "13 Feb 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "153552",
