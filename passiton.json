@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "153922",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine (Front Load)",
+      "description": "Single mother has 2 school-going children and just shifted in into her public rental flat with bare furnishing. Single mother (PR) currently has no means to afford a washing machine and requires a washing machine (front load) to ease washing of clothes for the family.",
+      "specifications": "7-10L",
+      "contact": {
+        "org": "MSF Social Service Office @ Woodlands, Sembawang",
+        "name": "Rayson Sim",
+        "email": "rayson_sim@msf.gov.sg",
+        "phone": [
+          "64709383",
+          "67660097"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "09 Feb 2026"
+    },
+    {
       "id": "153905",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -6133,6 +6151,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "153923",
+      "name": "Desk with storage shelves",
+      "description": "Compact and functional multifunctional desk with shelves. Can be used as desk or as storage option. Great for small homes / study rooms. Self-collection from Cavenagh Road.",
+      "location": "Cairnhill, Killiney, Orchard, River Valley",
+      "validTill": "20 Feb 2026",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "153897",
       "name": "Queen Mattress",
       "description": "Used queen mattress",
@@ -6334,7 +6363,7 @@
       "id": "153836",
       "name": "writing desk",
       "description": "Lovely work / writing desk. But suitable for other functions as well.\n\nVery compact… Perfect for small spaces. Has built in shelves for books or documents or other items.\n\nIt’s in excellent condition and has been well looked after.\n\nHipvan Reagan Study Desk. Link to Hipvan original listing: https://www.hipvan.com/products/reagan-study-table-0-9m?ref=ios_share_btn",
-      "location": "Cairnhill, Killiney, Orchard, River Valley",
+      "location": "Singapore",
       "validTill": "15 Feb 2026",
       "ageInYears": 3,
       "dimensions": null,
