@@ -1,6 +1,60 @@
 {
   "requests": [
     {
+      "id": "154050",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "75-year old male living alone requires a washing machine for his daily use as he is moving to a HDB rental flat.",
+      "specifications": null,
+      "contact": {
+        "org": "Lakeside Family Centre - Taman Jurong",
+        "name": "Jared Lee",
+        "email": "jared-lee@lakeside.org.sg",
+        "phone": [
+          "62656522ext115",
+          "62656522"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "12 Feb 2026"
+    },
+    {
+      "id": "154048",
+      "category": "Electrical Home Appliances",
+      "name": "Printer",
+      "description": "Family of 4. Current printer is no longer working. Need it to print documents and for project work etc. Dad not working due to health reasons. Mom is a caregiver",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Kreta Ayer",
+        "name": "Terence Chiuh",
+        "email": "terence_chiuh@msf.gov.sg",
+        "phone": [
+          "62319389",
+          "1800-222-0000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Feb 2026"
+    },
+    {
+      "id": "154047",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "Senior lives alone and had a fall at the end of last year, injuring his leg. He has been washing his clothes by hand but finds it difficult to squat. Hence, he hopes to have a washing machine to aid his laundry and provide some ease on his injury.",
+      "specifications": "Width: 55-60cm",
+      "contact": {
+        "org": "Fei Yue Community Services",
+        "name": "Shanon Law",
+        "email": "shanonlaw@fycs.org",
+        "phone": [
+          "60117652",
+          "63809169"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Feb 2026"
+    },
+    {
       "id": "154007",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -1900,6 +1954,40 @@
       "date": "12 Jan 2026"
     },
     {
+      "id": "152357",
+      "category": "Infant and Children Items",
+      "name": "Applecrumby or Hoppi, XL XXL and XXXL PANTS (2 packets each)",
+      "description": "Client is a family of 6 with 4 young children. Both parents are working. The SSO support is reduced as there was stability in employment previously but family encountered some medical issues, in which employment became less stable. As such, the current income (both parents' income and SSO) is reduced and not sufficient. The parents would need support for diapers while pending requests to other organisations for longer-term milk and diaper support. The aforementioned brands are preferred as the children have ezcema. If you have a suitable item and is able to support please WhatsApp us at 6843 9619 thank you!",
+      "specifications": "Diaper pants",
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Han Wen Ting",
+        "email": "hanwenting@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Feb 2026"
+    },
+    {
+      "id": "154049",
+      "category": "Infant and Children Items",
+      "name": "Baby Cot with Mattress",
+      "description": "Client is currently in her third trimester and the primary caregiver to her five children ranging between the ages of 1 -16. The household resides in a 2-room HDB public rental flat. With the family receiving financial assistance that only covers their basic needs, the client hopes to obtain additional support to acquire baby essentials in preparation for the arrival of the newborn alongside with supporting the needs of her 1-year-old infant. \n\nClient is looking for a baby cot with full mesh sides and no gaps, rather than the wooden‑slat type.",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
+        "name": "Odelia Tan",
+        "email": "odeliatan@mws.sg",
+        "phone": [
+          "62828558"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Feb 2026"
+    },
+    {
       "id": "154044",
       "category": "Infant and Children Items",
       "name": "Baby Bathtub",
@@ -2379,23 +2467,6 @@
         "phone": [
           "96433400",
           "91708900"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Feb 2026"
-    },
-    {
-      "id": "153837",
-      "category": "Infant and Children Items",
-      "name": "[URGENT] Diapers Size XL",
-      "description": "Family of 8 is left with a few pieces of diaper and have no funds to purchase diapers for the 4 and 5 year old. Direct delivery to their home in Buona Vista area is appreciated.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Fitrah Nabilah",
-        "email": "fitrahnabilah@carecorner.org.sg",
-        "phone": [
-          "64761481"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -6379,6 +6450,23 @@
       "date": "20 Jan 2026"
     },
     {
+      "id": "154051",
+      "category": "Kitchen Utility Items",
+      "name": "Kitchen Knives (Halal)",
+      "description": "Client is low-income mother with special needs and chronic health condition. She is hoping to get a set of knives as her existing set is spoilt. If you have a suitable item, please WhatsApp us at 6843 9619 thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Han Wen Ting",
+        "email": "hanwenting@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Feb 2026"
+    },
+    {
       "id": "153313",
       "category": "Kitchen Utility Items",
       "name": "Kitchen Cabinet",
@@ -6845,39 +6933,6 @@
       "category": "Infant and Children Items"
     },
     {
-      "id": "153987",
-      "name": "LEGO Duplo Cinderella & Carriage (SET C)",
-      "description": "- LEGO Duplo Cinderella set\n- Includes Cinderella's carriage and horse\n- Great imaginative princessy play for kids",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "13 Mar 2026",
-      "ageInYears": 4,
-      "dimensions": "NA",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "153986",
-      "name": "LEGO Duplo Pizza Restaurant (SET B)",
-      "description": "- LEGO Duplo Pizza Restaurant set.\n- Includes: Figures, tables, chairs, pizza ovens, mobile phone, shelf, and scooter.\n- Play pretend baking, selling, serving and delivering pizzas!",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "13 Mar 2026",
-      "ageInYears": 4,
-      "dimensions": "NA",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "153985",
-      "name": "LEGO Duplo - Groceries and Car (SET A)",
-      "description": "- Lego Duplo Town set includes a building, car, figures, and accessories. It features a shop with food items and a car for the figure to ride in. \n- Children who love to play pretend to buy/sell at a grocery shop would love this.\n- Those who love to play pretend to drive a car and own a dog would also be immersed into another world with this.",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "13 Mar 2026",
-      "ageInYears": 4,
-      "dimensions": "NA",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
       "id": "153984",
       "name": "Mega Bloks Building Blocks",
       "description": "Suitable for toddlers and young children. Can play for hours each time. Can play for years.",
@@ -7005,17 +7060,6 @@
       "location": "Pasir Ris, Simei, Tampines",
       "validTill": "18 Feb 2026",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "153385",
-      "name": "Tandem Stroller",
-      "description": "Great condition tandem/double stroller",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "18 Feb 2026",
-      "ageInYears": 2,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
@@ -7382,17 +7426,6 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
-    },
-    {
-      "id": "154039",
-      "name": "Duplux Paints",
-      "description": "Dulux Airclean (wonderwhite)\nDulux Stella High Gloss etc\nboth sealed and opened",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "13 Feb 2026",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Others"
     },
     {
       "id": "154025",
