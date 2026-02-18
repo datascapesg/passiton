@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "154108",
-      "category": "Electrical Home Appliances",
-      "name": "standing fan",
-      "description": "Client is a single male, unemployed due to his diagnosed mental health condition, previous rough sleeping for a little over 2 years. Client just moved into his new HDB rental flat and is in need of various furniture and home appliances as the flat is totally empty. Client needs a standing fan so that he can regulate temperature in his new flat.",
-      "specifications": null,
-      "contact": {
-        "org": "Whampoa Family Service Centre",
-        "name": "Samuel Lim",
-        "email": "samuellim@kkcs.org.sg",
-        "phone": [
-          "64854750"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Feb 2026"
-    },
-    {
       "id": "154076",
       "category": "Electrical Home Appliances",
       "name": "Top load washing machine",
@@ -5874,6 +5857,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "154126",
+      "name": "Ikea Stora Loft Bed (white)",
+      "description": "Loft bed used by my two boys (dimension of mattress is the same as double bed). Bed is still in good working condition. Has to be dismantled before transport. Comes with original Ikea manual for assembly. Will also pass over bedsheets if needed.",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "24 Feb 2026",
+      "ageInYears": 4,
+      "dimensions": "203 cm by 201 cm by 214 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "154124",
