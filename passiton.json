@@ -3223,23 +3223,6 @@
       "date": "06 Feb 2026"
     },
     {
-      "id": "153829",
-      "category": "Infant and Children Items",
-      "name": "XXXL Diapers Pants",
-      "description": "Family has a 12yo child with special needs and chronic health issues. Only one parent is able to work as the other needs to manage the caregiving responsibilities for the child. Family needs some assistance with diaper purchases for the child's daily use",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - @27 Family Service Centre",
-        "name": "Nikole Ye",
-        "email": "nikole.ye@montfortcare.org.sg",
-        "phone": [
-          "62708327"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Feb 2026"
-    },
-    {
       "id": "153822",
       "category": "Infant and Children Items",
       "name": "Drypers XXL Diapers",
@@ -6182,24 +6165,6 @@
       "date": "03 Feb 2026"
     },
     {
-      "id": "153609",
-      "category": "Medical Aids",
-      "name": "Tena adult diapers (pants, size L)",
-      "description": "Single mother staying in Woodlands rental flat with multiple health conditions (kidney disease stage 5, diabetes, high BP, high cholesterol) is in need of Tena adult diapers (pants, size L). She is on diaper pants full-time and kidney dialysis 3x/week. The family has a tight budget for their daily needs and require additional support.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Woodlands, Sembawang",
-        "name": "Sarrani Krishnan",
-        "email": "sarrani_krishnan@msf.gov.sg",
-        "phone": [
-          "68678568",
-          "67660097"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "30 Jan 2026"
-    },
-    {
       "id": "154457",
       "category": "Mobility Aids",
       "name": "Wheelchair",
@@ -6929,6 +6894,17 @@
       "dimensions": "49.5 cm x 48 cm per piece",
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "154497",
+      "name": "Commode",
+      "description": "Brand new commode bought from Taobao.  We got another one purchase with SMF from hospital, thus giving away the one bought from Taobao",
+      "location": "Lim Chu Kang, Sungei Gedong, Tengah",
+      "validTill": "07 Mar 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "154438",
