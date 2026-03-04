@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "154602",
+      "category": "Electrical Home Appliances",
+      "name": "2 standing fan",
+      "description": "Client is not working because of mental health issues. He has no financial resource to purchase a brand new or used fans.(Isk)",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Bedok North",
+        "name": "Low Kim Yong",
+        "email": "lowkimyong@thkmc.org.sg",
+        "phone": [
+          "81883314",
+          "64491440"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Mar 2026"
+    },
+    {
+      "id": "154600",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Family of 5 with 3 children is living in rental flat. Husband himself is a senior (>65) but still working. Existing fridge broke and they do not have savings to purchase another due to financial constraints and instability, as husband recently started a new job.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Shree Ganga D/O Rajasagran",
+        "email": "ShreeGanga@thkmc.org.sg",
+        "phone": [
+          "88333080",
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Mar 2026"
+    },
+    {
       "id": "154593",
       "category": "Electrical Home Appliances",
       "name": "Stove",
@@ -1395,24 +1431,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "09 Feb 2026"
-    },
-    {
-      "id": "153856",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine (Top Load)",
-      "description": "Low income family of 5 with a young baby child is looking for a washing machine (top-load) to replace their current faulty one. The 22yo son is the sole breadwinner in the family working in F&B after a long period of unemployment. If you are able to help, please contact Jessie at 9643 3400 or email jessielim@fycs.org. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Community Services - Restorative Care Department",
-        "name": "Jessie Lim",
-        "email": "jessielim@fycs.org",
-        "phone": [
-          "96433400",
-          "91708900"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Feb 2026"
     },
     {
       "id": "93032",
@@ -4434,6 +4452,24 @@
       "date": "03 Feb 2026"
     },
     {
+      "id": "154601",
+      "category": "Home Furnishing",
+      "name": "Sofa Bed - Queen size",
+      "description": "Client is a mother of 4 children living in a 2-rm rental flat. She is unemployed due to being the main caregiver of her son who has mental health issue. She is requesting for a sofa bed for her children.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Jurong",
+        "name": "Shree Ganga D/O Rajasagran",
+        "email": "ShreeGanga@thkmc.org.sg",
+        "phone": [
+          "88333080",
+          "67169466"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Mar 2026"
+    },
+    {
       "id": "154597",
       "category": "Home Furnishing",
       "name": "Foldable single mattress X1",
@@ -6799,17 +6835,6 @@
       "validTill": "29 Mar 2026",
       "ageInYears": 1,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "154471",
-      "name": "Millard brand Cot/Crib Mattress - Soft/Firm - Cover machine washable",
-      "description": "- CertiPUR-US certified for safety\n- Soft and firm sides for comfort\n- Made without ozone depleters, flame retardants, and heavy metals\n- Low VOC emissions for better air quality\n- Waterproof cover fully removable for easy machine washing\n- Near new condition\n\nPick up at 268800",
-      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-      "validTill": "29 Mar 2026",
-      "ageInYears": 2,
-      "dimensions": "191cm x 79cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
     },
