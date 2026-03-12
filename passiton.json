@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "154861",
+      "category": "Medical Aids",
+      "name": "Blood Pressure Monitor",
+      "description": "An elderly father looking for a blood pressure monitor. A low-income family with a 7-year-old son, living in a rental flat. The father was the sole breadwinner but had to stop working temporarily due to his health (heart condition). Doctor has advised him to track his blood pressure regularly.",
+      "specifications": null,
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Rebecca Yeong",
+        "email": "rebecca.yeong@reach.org.sg",
+        "phone": [
+          "68010700",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2026"
+    },
+    {
       "id": "154844",
       "category": "Medical Aids",
       "name": "Aire Adult Pull Up Pants Size L",
@@ -174,6 +192,113 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "19 Feb 2026"
+    },
+    {
+      "id": "154862",
+      "category": "Electrical Home Appliances",
+      "name": "Dryer",
+      "description": "Client has two young boys in primary school, with her long working hours, she needs a working dryer to ensure that the boys get a clean uniform",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+        "name": "Claudine Ng",
+        "email": "claudineng@allkin.org.sg",
+        "phone": [
+          "60384100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2026"
+    },
+    {
+      "id": "154860",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "Two gentlemen living in a one-room rental flat are in need of a washing machine. One of them is unable to work due to ongoing health issues, while the other relies on irregular odd-job work whenever opportunities arise. With their limited income, they are struggling to cope with daily expenses, and purchasing a washing machine is simply not affordable for them at this time.\n\nA donated washing machine would go a long way in easing their day-to-day challenges. It would not only help them maintain cleanliness and dignity, but also provide some comfort and relief in managing their daily lives during this difficult period.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care COMIT @ Kreta Ayer",
+        "name": "Clinton Low",
+        "email": "clinton.low@montfortcare.org.sg",
+        "phone": [
+          "97727467",
+          "97115240"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2026"
+    },
+    {
+      "id": "154859",
+      "category": "Electrical Home Appliances",
+      "name": "Refrigerator",
+      "description": "Malay family of 3 with young children. The family is struggling financially as one of the parent was recently released from prison. With low education, parents are receiving low salary. Furthermore, the father of the family has a medical condition and needs to purchase medication regularly. Their fridge spoiled recently and with Hari Raya approaching, they will benefit greatly from donation of a fridge.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services SSO @ Taman Jurong",
+        "name": "Rachel Kong",
+        "email": "rachelkong@fycs.org",
+        "phone": [
+          "69783108",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2026"
+    },
+    {
+      "id": "154856",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Due to the family current financial constraints, they are unable to replace the refrigerator independently. Assistance with sourcing a replacement refrigerator would help the family meet their basic household needs and ensure safe food storage at home.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+        "name": "Nurul Adryana Abu Bakar",
+        "email": "nuruladryana@allkin.org.sg",
+        "phone": [
+          "60384270",
+          "60384100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2026"
+    },
+    {
+      "id": "154855",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Given the family’s current financial constraints, they are unable to purchase the washing machine on their own. Support with sourcing a washing machine would therefore be beneficial to improve their overall living conditions.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+        "name": "Nurul Adryana Abu Bakar",
+        "email": "nuruladryana@allkin.org.sg",
+        "phone": [
+          "60384270",
+          "60384100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2026"
+    },
+    {
+      "id": "154854",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Family has expressed a need for a washing machine as their current household requires a new one. It is challenging for them to purchase it independently, given the family’s current circumstances.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+        "name": "Nurul Adryana Abu Bakar",
+        "email": "nuruladryana@allkin.org.sg",
+        "phone": [
+          "60384270",
+          "60384100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2026"
     },
     {
       "id": "154845",
@@ -1913,6 +2038,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "09 Feb 2026"
+    },
+    {
+      "id": "154858",
+      "category": "Infant and Children Items",
+      "name": "Dumex Milk Powder Stage 34",
+      "description": "Young single mother of two young toddlers is looking for help with milk powder donation (Dumex Milk Powder Stage 3). Client has just started work as a part-time F&B service crew. If you are able to help, please contact Jessie at 9643 3400 or email jessielim@fycs.org. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Community Services - Restorative Care Department",
+        "name": "Jessie Lim",
+        "email": "jessielim@fycs.org",
+        "phone": [
+          "96433400",
+          "91708900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2026"
     },
     {
       "id": "149847",
@@ -6150,6 +6293,24 @@
       "date": "09 Feb 2026"
     },
     {
+      "id": "154857",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Young single mother of 2 children is looking for a laptop to help with her learning of computer skills. Client did not complete her secondary education and is keen to improve her employability through skills learning. If you are able to donate, please contact Jessie at 9643 3400 or email jessielim@fycs.org. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Community Services - Restorative Care Department",
+        "name": "Jessie Lim",
+        "email": "jessielim@fycs.org",
+        "phone": [
+          "96433400",
+          "91708900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Mar 2026"
+    },
+    {
       "id": "154801",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -6652,6 +6813,28 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "154852",
+      "name": "Queen size divan and mattress",
+      "description": "The queen size mattress is clean, well maintained with mattress protector and the pocketed spring is in good condition. No damage or stain on the divan.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "31 Mar 2026",
+      "ageInYears": 4,
+      "dimensions": "Mattress thickness: 24 cm, divan height: 27.5 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "154853",
+      "name": "Queen size divan and mattress",
+      "description": "The queen size mattress is clean, well maintained with mattress protector and the pocketed spring is in good condition. No damage or stain on the divan.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "31 Mar 2026",
+      "ageInYears": 4,
+      "dimensions": "Mattress thickness: 24 cm, divan height: 27.5 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "154716",
       "name": "Foot stool/ ottoman/ pouffe",
       "description": "With piling, from home with cat\n\nWidth: 46cm x 46cm\nHeight: 36cm",
@@ -7037,17 +7220,6 @@
       "category": "Learning Aids"
     },
     {
-      "id": "154802",
-      "name": "Mattress Protector Disposable Pads",
-      "description": "Having 2 boxes of newly Mattress Protector Disposable Pads to give away for free. Can come and collect as i do not have any vehicle. Thanks.",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "27 Mar 2026",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
       "id": "154705",
       "name": "PLANTAR FASCIITIS FOOT SUPPORT",
       "description": "Item is brand new and self collect from OUTRAM MRT.",
@@ -7174,17 +7346,6 @@
       "description": "Cancer supplies",
       "location": "Boon Lay, Jurong, Tuas",
       "validTill": "08 Apr 2026",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Others"
-    },
-    {
-      "id": "154713",
-      "name": "Geratic chair / Bathing Comode",
-      "description": "Free geratic chair and commode. Hair, 9/10 good condition . Ready for collection",
-      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-      "validTill": "07 Apr 2026",
       "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
