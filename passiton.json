@@ -4477,24 +4477,6 @@
       "date": "13 Mar 2026"
     },
     {
-      "id": "154866",
-      "category": "Home Furnishing",
-      "name": "Sofa Bed",
-      "description": "A single parent household has 4 school going children who requires a sofa bed. They currently do not have a proper sleeping space.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Woodlands, Sembawang",
-        "name": "Nur' Adiilah Binte Mohamed Raimi",
-        "email": "adiilah_raimi@msf.gov.sg",
-        "phone": [
-          "60138534",
-          "67660097"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Mar 2026"
-    },
-    {
       "id": "154851",
       "category": "Home Furnishing",
       "name": "Under stove cabinet",
@@ -6670,6 +6652,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "154907",
+      "name": "Children's Study Chair",
+      "description": "Study chair is height adjustable and comes with removable seat covers. Item is still in good condition.",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "13 Apr 2026",
+      "ageInYears": 4,
+      "dimensions": "60cm x 70cm x 87cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "154807",
