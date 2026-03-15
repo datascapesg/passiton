@@ -5939,24 +5939,6 @@
       "date": "26 Feb 2026"
     },
     {
-      "id": "154808",
-      "category": "Mobility Aids",
-      "name": "manual wheelchair",
-      "description": "Client is a dialysis patient. Aged 68 years old, she stays alone. Her current wheelchair is spoilt and she hopes to have a replacement. She is unemployed and is unable to afford a new wheelchair. Thank you.",
-      "specifications": "Seat Width 20\" x Seat Depth 16\" x Seat Height 18\"",
-      "contact": {
-        "org": "National Kidney Foundation (NKF)",
-        "name": "Liau Lian Lee",
-        "email": "lianlee.liau@nkfs.org",
-        "phone": [
-          "63593657",
-          "65062244"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "11 Mar 2026"
-    },
-    {
       "id": "154793",
       "category": "Mobility Aids",
       "name": "Foldable walking frame with front castors",
@@ -6025,6 +6007,39 @@
       "dimensions": "XS or S",
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
+    },
+    {
+      "id": "154930",
+      "name": "Fridge",
+      "description": "Over 10yrs old",
+      "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+      "validTill": "26 Mar 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "154929",
+      "name": "Washing machine",
+      "description": "Over 10yrs old top loader",
+      "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+      "validTill": "26 Mar 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "154928",
+      "name": "Microwave oven",
+      "description": "Over 10 yrs old but good working condition",
+      "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+      "validTill": "31 Mar 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
     },
     {
       "id": "154924",
@@ -6588,6 +6603,17 @@
       "category": "Medical Aids"
     },
     {
+      "id": "154931",
+      "name": "Lightly used walker",
+      "description": "Lightly used walker, mostly folded and stored in storeroom",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "14 Apr 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
       "id": "154890",
       "name": "Commode w/pot and cover on wheels (detachable)",
       "description": "With wheels, movable armrest, bucket included.",
@@ -6718,6 +6744,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "154927",
+      "name": "Brand New Commode Chair/ Toilet",
+      "description": "Brand new Commode Chair Toilet, not used at all. Happy to donate to the needy.",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "14 Apr 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "154923",
