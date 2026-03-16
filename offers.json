@@ -22,6 +22,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "154943",
+    "name": "Electrolux Bar Fridge",
+    "description": "90L Electrolux fridge in good condition.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "17 Mar 2026",
+    "ageInYears": 1,
+    "dimensions": "HxWxD - 840mm x 475mm x 393mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "154928",
     "name": "Microwave oven",
     "description": "Over 10 yrs old but good working condition",
@@ -73,17 +84,6 @@
     "validTill": "02 Apr 2026",
     "ageInYears": 1,
     "dimensions": "23 x 24 x 30 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "154205",
-    "name": "Rice cooker",
-    "description": "Japanese rice cooker",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "22 Mar 2026",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -260,6 +260,28 @@
     "validTill": "31 Mar 2026",
     "ageInYears": 4,
     "dimensions": "60.5(W)x28(D)x106.5(H) cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "154941",
+    "name": "Bedsheets",
+    "description": "Several king size/queen size bedsheets washed and cleaned to be used",
+    "location": null,
+    "validTill": "30 Mar 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "154942",
+    "name": "Bedsheets",
+    "description": "Several king size/queen size bedsheets washed and cleaned to be used",
+    "location": null,
+    "validTill": "30 Mar 2026",
+    "ageInYears": 2,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
