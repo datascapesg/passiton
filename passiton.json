@@ -1842,24 +1842,6 @@
       "date": "19 Feb 2026"
     },
     {
-      "id": "155008",
-      "category": "Infant and Children Items",
-      "name": "Milk Powders (lactogen 1)",
-      "description": "Client is a single mother with an infant. She lost her job and is currently relying on SSO FA for her and her baby's day-to-day expenses. (Mel)",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Low Kim Yong",
-        "email": "lowkimyong@thkmc.org.sg",
-        "phone": [
-          "81883314",
-          "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Mar 2026"
-    },
-    {
       "id": "155006",
       "category": "Infant and Children Items",
       "name": "Diapers (Size S)",
@@ -3264,6 +3246,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "16 Feb 2026"
+    },
+    {
+      "id": "155010",
+      "category": "Others",
+      "name": "Y2K Senior Flip Phone",
+      "description": "Senior is frail and stays alone with limited social support. He is dependent on financial assistance. Senior had accidentally dropped and damaged his old Y2K flip phone (refer to link). He will benefit from having a new phone to re-connect with his family as well as with community stakeholders who are visiting him to support his needs at home. If keen to donate, please kindly WhatsApp Ms. Lin at 9846 7229. Thank you for your generosity!\n\nhttps://shopee.sg/%F0%9F%94%A5%F0%9F%87%B8%F0%9F%87%AC-Y2K-4G-Flip-Senior-Citizen-Phone-(Elderly-Phone)-dual-sim-dual-4G-LTE-network-standby-support(1-Year-Local-Warranty)-i.426284702.14814173334?extraParams=%7B%22display_model_id%22%3A29799298302%2C%22model_selection_logic%22%3A3%7D&sp_atk=eb612c40-1c4f-49c3-b2b8-34c653d29bc1&xptdk=eb612c40-1c4f-49c3-b2b8-34c653d29bc1",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Senior Services Ltd",
+        "name": "Lin Hong Yue",
+        "email": "linhongyue@carecorner.org.sg",
+        "phone": [
+          "62586601",
+          "62536979"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "17 Mar 2026"
     },
     {
       "id": "154939",
@@ -6635,6 +6635,39 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "155013",
+      "name": "Monitor",
+      "description": "Prism Curved Monitor 34” with monitor arm \nX340PRO144Hz. Arrange own pick up.",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "19 Mar 2026",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "155012",
+      "name": "Vaccuum and Mop",
+      "description": "NARWAL T10 Mop Robot 4-In-1 Robot Vacuum And Mop. Arrange own pick up.",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "19 Mar 2026",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "155011",
+      "name": "Cuisinart Coffee Maker",
+      "description": "High-end Cuisinart 14-Cup Programmable Coffeemaker. Arrange own pick up.",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "19 Mar 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "154923",
