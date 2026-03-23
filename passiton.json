@@ -196,6 +196,24 @@
       "date": "23 Feb 2026"
     },
     {
+      "id": "155197",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Family of 7 living in a public rental flat, looking to source for a fridge as the existing one is spoilt.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+        "name": "Nurul Adryana Abu Bakar",
+        "email": "nuruladryana@allkin.org.sg",
+        "phone": [
+          "60384270",
+          "60384100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Mar 2026"
+    },
+    {
       "id": "155135",
       "category": "Electrical Home Appliances",
       "name": "Television",
@@ -4703,24 +4721,6 @@
       "date": "19 Mar 2026"
     },
     {
-      "id": "155087",
-      "category": "Home Furnishing",
-      "name": "Queen-sized mattress",
-      "description": "Client is a single mother of two young sons. She recently received her keys to her new rental flat and requires a queen-sized mattress for her and her kids.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Cheng San 445",
-        "name": "Nur Ain Afini Binte Hamdan",
-        "email": "nurainafini@allkin.org.sg",
-        "phone": [
-          "60384138",
-          "60384120"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Mar 2026"
-    },
-    {
       "id": "155083",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -6649,6 +6649,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "155198",
+      "name": "King sized storage bedframe, super single bed frame and single bed",
+      "description": "Good condition. Pleased call asap as i am moving out of my apt to make way for renovation. Will dispose if not collected by 10th April",
+      "location": "Springleaf, Tagore, Upper Thomson",
+      "validTill": "10 Apr 2026",
+      "ageInYears": 4,
+      "dimensions": "As per standard",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "155179",
       "name": "Office chair",
       "description": "Still working well, adjustable height. \nMesh still intact.",
@@ -6922,6 +6933,17 @@
       "dimensions": "120x55x82cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "155199",
+      "name": "Spectra compact breast pump",
+      "description": "Fully functional breast pump",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "22 Apr 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "155173",
