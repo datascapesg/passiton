@@ -214,23 +214,6 @@
       "date": "25 Mar 2026"
     },
     {
-      "id": "155257",
-      "category": "Electrical Home Appliances",
-      "name": "Rice Cooker",
-      "description": "A family of a single mother with low-income and her teenage daughter recently moved into a 1-Room rental flat. They are looking for a rice cooker. If possible, donation to sponsor the delivery cost will be helpful.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Althea Rae Chan",
-        "email": "althea.chan@childrensociety.org.sg",
-        "phone": [
-          "67537331"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Mar 2026"
-    },
-    {
       "id": "155252",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -280,24 +263,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "25 Mar 2026"
-    },
-    {
-      "id": "155236",
-      "category": "Electrical Home Appliances",
-      "name": "Smart TV",
-      "description": "Family consists of single mother and her daughter. They come from a low-income household and living in a 1-room rental flat. Mother has chronic health conditions and daughter is her sole caregiver. They wish to have a television to use during their respite.",
-      "specifications": "49\"",
-      "contact": {
-        "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
-        "name": "Emilyn Teo",
-        "email": "emilyn_teo@msf.gov.sg",
-        "phone": [
-          "67087820",
-          "62957205"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Mar 2026"
     },
     {
       "id": "155231",
@@ -6613,6 +6578,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "155264",
+      "name": "queen size mattress and bed frame",
+      "description": "used, good condition",
+      "location": null,
+      "validTill": "26 Mar 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "155258",
       "name": "Large Single Bed - Frame and Mattress",
       "description": "Very comfortable big single bed, in great condition.",
@@ -6635,7 +6611,7 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "155250",
+      "id": "155268",
       "name": "King Koil Single Headboard with Mattress",
       "description": "King Koil single bed frame and Simone mattress",
       "location": "Boon Lay, Jurong, Tuas",
@@ -6932,6 +6908,17 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "155266",
+      "name": "Smiggle Glittery LED digital Kids Watch - Pink",
+      "description": "Rarely used by my daughter. Still in good condition.",
+      "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+      "validTill": "24 Apr 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
       "id": "155260",
       "name": "Baby cot",
       "description": "Used for two children; yet still in good condition.",
@@ -7152,6 +7139,17 @@
       "category": "Infant and Children Items"
     },
     {
+      "id": "155267",
+      "name": "Treadmill",
+      "description": "Functional Treadmill and there are 2 lifts available to reach my HDB house unit.",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "24 Apr 2026",
+      "ageInYears": 3,
+      "dimensions": "120cm x 50cm x 125cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Leisure and Healthy Lifestyle"
+    },
+    {
       "id": "155116",
       "name": "Elliptical Machine",
       "description": "2 year old machine in a home with light usage. It's fully functioning.",
@@ -7326,6 +7324,17 @@
       "dimensions": "Adjustable Height",
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "155265",
+      "name": "Casio LW-200 Pink Kids Watch",
+      "description": "Straps a bit discoloured but still in working condition. For kids between 5- 12 years old.",
+      "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+      "validTill": "24 Apr 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "155256",
