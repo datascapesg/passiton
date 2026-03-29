@@ -4571,24 +4571,6 @@
       "date": "05 Mar 2026"
     },
     {
-      "id": "154619",
-      "category": "Home Furnishing",
-      "name": "Wooden sofa",
-      "description": "Client is a family unit comprising two parents and two dependent children, with one estranged child under external care. Both parents have health conditions that limit their ability to work. The family is unable to afford essential household furniture due to financial constraints.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Services SSO @ Taman Jurong",
-        "name": "Rachel Kong",
-        "email": "rachelkong@fycs.org",
-        "phone": [
-          "69783108",
-          "62672900"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Mar 2026"
-    },
-    {
       "id": "154596",
       "category": "Home Furnishing",
       "name": "Foldable single mattress X2",
@@ -4675,23 +4657,6 @@
       "date": "03 Mar 2026"
     },
     {
-      "id": "154560",
-      "category": "Home Furnishing",
-      "name": "2-seater sofa",
-      "description": "Client (F/46) with teenage children is looking for donation of a 2-seater sofa as they do not currently own one. Mother is the sole breadwinner earning limited daily income that can only cover basic necessities while step-father is currently incarcerated.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Norlizawati Binte Hamid",
-        "email": "norlizawati@thkmc.org.sg",
-        "phone": [
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Mar 2026"
-    },
-    {
       "id": "154536",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -4707,24 +4672,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": false,
-      "date": "02 Mar 2026"
-    },
-    {
-      "id": "154520",
-      "category": "Home Furnishing",
-      "name": "Sofa (2-3 seater)",
-      "description": "Client is just starting work after recent release from prison and financial assistance application is still pending. Family's finances are still stabilising, and they require some support in acquiring furniture for their home.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Toa Payoh",
-        "name": "Joanna Tan",
-        "email": "joannatan@carecorner.org.sg",
-        "phone": [
-          "67984211",
-          "63561622"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
       "date": "02 Mar 2026"
     },
     {
@@ -5385,17 +5332,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "155329",
-      "name": "Queen Size Mattress",
-      "description": "I have gotten a new mattress and want to give away my queen size mattress.",
-      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-      "validTill": "02 Apr 2026",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "155325",
       "name": "Dining Table with Chairs",
       "description": "150cm by 110 cm",
@@ -6021,6 +5957,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "155332",
+      "name": "Mobility aids and medical supplies",
+      "description": "Various wheelchairs, commode chair, diapers, bedlinings, cushions",
+      "location": "Seletar, Yio Chu Kang",
+      "validTill": "28 Apr 2026",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "155331",
