@@ -215,6 +215,23 @@
       "date": "02 Mar 2026"
     },
     {
+      "id": "155442",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave Oven",
+      "description": "The family consists of 4 members. Both parents are unemployed due to health issues, and their two children are in school. The family relies mainly on FA for daily expenses and requires help obtaining a microwave for cooking.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Hanissah Abdullah",
+        "email": "hanissah@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Apr 2026"
+    },
+    {
       "id": "155434",
       "category": "Electrical Home Appliances",
       "name": "Microwave (Halal)",
@@ -264,24 +281,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": false,
-      "date": "31 Mar 2026"
-    },
-    {
-      "id": "155419",
-      "category": "Electrical Home Appliances",
-      "name": "Rice cooker (1.8L)",
-      "description": "Family of 6 with 4 young children aged between 2-6 years. Family stays in a 2rm rental flat and has limited income: one main breadwinner, while the other parent has to care for children including child with special needs. Family's rice cooker recently spoilt and they require a new rice cooker to continue to prepare home cooked meals instead of buying food from outside which would cost more.",
-      "specifications": "1.8L",
-      "contact": {
-        "org": "Touch Community Services Ltd",
-        "name": "Joanne Khoo",
-        "email": "joanne.khoo@touch.org.sg",
-        "phone": [
-          "67098416",
-          "63770122"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
       "date": "31 Mar 2026"
     },
     {
@@ -4510,6 +4509,24 @@
       "date": "02 Mar 2026"
     },
     {
+      "id": "155439",
+      "category": "Others",
+      "name": "Fresh food",
+      "description": "Family of 6 comprising of children 3-10 years old requires fresh food as they rely on home cooked food for daily meals. Husband works as part time cleaner as he recently went for operation, wife just got a full time job in April but will only receive pay from May onwards. Feel free to PM me for more information.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
+        "name": "Poh Mei Ying",
+        "email": "poh_mei_ying@msf.gov.sg",
+        "phone": [
+          "67087143",
+          "64244017"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Apr 2026"
+    },
+    {
       "id": "155426",
       "category": "Others",
       "name": "Phone",
@@ -5805,28 +5822,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "155343",
-      "name": "Large Refrigerator (side by side doors)",
-      "description": "Large Samsung side by side fridge in good working condition. \n\nLandlady has just sold her property and has asked me to assist in donating the above. \n\nVWO or client has to arrange for mover to collect at River Valley at their own expense.",
-      "location": "Cairnhill, Killiney, Orchard, River Valley",
-      "validTill": "05 Apr 2026",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "155344",
-      "name": "Large Refrigerator (side by side doors)",
-      "description": "Large Samsung side by side fridge in good working condition. \n\nLandlady has just sold her property and has asked me to assist in donating the above. \n\nVWO or client has to arrange for mover to collect at River Valley at their own expense.",
-      "location": "Cairnhill, Killiney, Orchard, River Valley",
-      "validTill": "05 Apr 2026",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "155021",
       "name": "IKEA ÅRSTID Table Lamp - Brass/White",
       "description": "I have 4 units to give away.",
@@ -6267,6 +6262,17 @@
       "category": "Medical Aids"
     },
     {
+      "id": "155445",
+      "name": "Reclining wheelchair 18\"",
+      "description": "Reclining wheelchair, 18\", unfoldable",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "01 May 2026",
+      "ageInYears": 2,
+      "dimensions": "18\"",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
       "id": "155400",
       "name": "Foot pedal exercise machine",
       "description": "Electric foot pedal exercise machine with remote control.",
@@ -6295,6 +6301,28 @@
       "location": "Seletar, Yio Chu Kang",
       "validTill": "28 Apr 2026",
       "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "155443",
+      "name": "Walking frame",
+      "description": "Walking frame for the elderly. Please contact me if needed. Thanks",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "22 Apr 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "155444",
+      "name": "Walking frame",
+      "description": "Walking frame for the elderly. Please contact me if needed. Thanks",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "22 Apr 2026",
+      "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
