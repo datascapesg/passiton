@@ -1519,23 +1519,6 @@
       "date": "05 Mar 2026"
     },
     {
-      "id": "155480",
-      "category": "Home Furnishing",
-      "name": "3 seater sofa",
-      "description": "The client is a single mother who is currently unemployed due to chronic asthma and has no source of income. She resides in a rental flat with her 25-year-old daughter and is the primary caregiver, as her daughter is unable to work due to an injury.\nGiven the family’s financial constraints, they are in need of basic household furniture to furnish their currently bare home and to ease their financial burden.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Sengkang 223D",
-        "name": "Syamirul Azim",
-        "email": "syamirulazim@allkin.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Apr 2026"
-    },
-    {
       "id": "155473",
       "category": "Home Furnishing",
       "name": "3 seater sofa",
@@ -2547,24 +2530,6 @@
         "phone": [
           "65139140",
           "67157503"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Mar 2026"
-    },
-    {
-      "id": "154727",
-      "category": "Home Furnishing",
-      "name": "Foldable chair",
-      "description": "Due to client's medical condition, she needs a walker with wheels to assist with her mobility. However, client shared that she often feels tired when walking and require a foldable chair for her to bring along, so that she can sit from time-to-time.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-        "name": "Nurul Adryana Abu Bakar",
-        "email": "nuruladryana@allkin.org.sg",
-        "phone": [
-          "60384270",
-          "60384100"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -5129,24 +5094,6 @@
       "date": "06 Mar 2026"
     },
     {
-      "id": "155218",
-      "category": "Mobility Aids",
-      "name": "Wheelchair (pushchair)",
-      "description": "Caregiver requires a pushchair for her son with special needs. Son has just undergone a leg operation and requires the pushchair to get around and go for his medical appointments.\n\nTheir previous donated one was spoilt, hence they require a replacement. \n\nAppreciate if donor can deliver to their home. Pls contact me at 9727 4215 via Whatsapp. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Cancer Society",
-        "name": "Lim Yi Xi",
-        "email": "yixi_lim@singaporecancersociety.org.sg",
-        "phone": [
-          "97274215",
-          "62219578"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Mar 2026"
-    },
-    {
       "id": "155188",
       "category": "Mobility Aids",
       "name": "manual wheelchair",
@@ -5449,6 +5396,28 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "155534",
+      "name": "40 inch Panasonic Smart TV (wall mounted)",
+      "description": "Will need a handyman to mount the TV on the wall",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "18 Apr 2026",
+      "ageInYears": 4,
+      "dimensions": "40 inch",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "155532",
+      "name": "Wireless headphones, torch and batteries",
+      "description": "As seen in photo",
+      "location": "Seletar, Yio Chu Kang",
+      "validTill": "01 May 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "155507",
       "name": "32 inch TV, Philips",
       "description": "Philips 32 inch TV",
@@ -5478,17 +5447,6 @@
       "validTill": "30 Apr 2026",
       "ageInYears": 2,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "155498",
-      "name": "Levoit Core 400 S-P Air Purifier x2",
-      "description": "LEVOIT Air Purifiers for Home Large Room Up to 1733 Ft² With HEPA Sleep Mode, AHAM VERIFIDE, Auto Mode, Air Quality Monitor, Smart WiFi, 3-in-1 Filter For Pet Allergy, Smoke, Dust, Core 400S-P, WhiteLEVOIT Air Purifiers for Home Large Room Up to 1733 Ft² With HEPA Sleep Mode, AHAM VERIFIDE, Auto Mode, Air Quality Monitor, Smart WiFi, 3-in-1 Filter For Pet Allergy, Smoke, Dust, Core 400S-P, White NOTE: US 120 V PLUG - REQUIRES AN ADAPTER & TRANSFORMER",
-      "location": "Cairnhill, Killiney, Orchard, River Valley",
-      "validTill": "03 May 2026",
-      "ageInYears": 2,
-      "dimensions": "10.8\"D x 10.8\"W x 20.5\"H",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
     },
@@ -6041,6 +5999,28 @@
       "dimensions": "45cmx 45cmX 45cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Learning Aids"
+    },
+    {
+      "id": "155533",
+      "name": "Ointments -zheng gu shui and siang pure oil",
+      "description": "As seen in photo",
+      "location": "Seletar, Yio Chu Kang",
+      "validTill": "01 May 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
+    },
+    {
+      "id": "155531",
+      "name": "Aqua cream, clopidogel and antihypertensive n other small meds",
+      "description": "As seen in photo",
+      "location": "Seletar, Yio Chu Kang",
+      "validTill": "01 May 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
     },
     {
       "id": "155530",
