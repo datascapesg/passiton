@@ -71,24 +71,6 @@
       "date": "09 Apr 2026"
     },
     {
-      "id": "155659",
-      "category": "Electrical Home Appliances",
-      "name": "standing fan",
-      "description": "client is staying alone, current fan broken, has financial difficulties",
-      "specifications": null,
-      "contact": {
-        "org": "Thye Hua Kwan Moral Charities",
-        "name": "Penelope Lim",
-        "email": "penelope.lim@thkmc.org.sg",
-        "phone": [
-          "68461228",
-          "63371201"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Apr 2026"
-    },
-    {
       "id": "155651",
       "category": "Electrical Home Appliances",
       "name": "Fridge",
@@ -6239,6 +6221,17 @@
       "dimensions": "60cm x 70cm x 87cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
+    },
+    {
+      "id": "155677",
+      "name": "Cookware",
+      "description": "cookware still in good conditions.",
+      "location": "Boon Lay, Jurong, Tuas",
+      "validTill": "09 May 2026",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Kitchen Utility Items"
     },
     {
       "id": "155570",
