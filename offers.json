@@ -132,17 +132,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "155714",
-    "name": "Sona portable aircon",
-    "description": "Potable aircon",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "11 May 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "155702",
     "name": "Front load washing machine",
     "description": "Fully functioning. Will dispose by Tuesday if unwanted.",
@@ -218,6 +207,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "155721",
+    "name": "6 inch single mattress",
+    "description": "6 inch single mattress, still wrapped in plastic",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "12 May 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "155719",
@@ -790,6 +790,17 @@
     "dimensions": "45cmx 45cmX 45cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "155722",
+    "name": "Urine bags",
+    "description": "9 urine bags, exp May 2030",
+    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+    "validTill": "12 May 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "155531",
