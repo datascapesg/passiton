@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "155799",
+      "category": "Electrical Home Appliances",
+      "name": "Heat Pump Dryer",
+      "description": "Single mother of 3 children looking for heat pump dryer to help her with her chores as she is currently working and caring for her children.",
+      "specifications": null,
+      "contact": {
+        "org": "Hougang Sheng Hong Family Service Centre",
+        "name": "Putri Illiyana",
+        "email": "putri@shenghong.org.sg",
+        "phone": [
+          "62895022"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Apr 2026"
+    },
+    {
       "id": "155796",
       "category": "Electrical Home Appliances",
       "name": "TV",
@@ -1158,6 +1175,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Mar 2026"
+    },
+    {
+      "id": "155801",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder",
+      "description": "Child (M/6) stays in a 2-room rental flat with her grandmother (F/45), aunt (F/21). Grandmother is currently not working due to caregiving responsibilities and was previously unfit for work. Aunt is also currently studying. Both parents are not involved in the caregiving of child; mother has started her own family elsewhere, father is currently wanted. They have difficulties financing milk powder (Lactogen 3), and hopes to receive donation.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Quak Mei Qing",
+        "email": "meiqing@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Apr 2026"
+    },
+    {
+      "id": "155800",
+      "category": "Infant and Children Items",
+      "name": "Milk Powder & Diapers (Newborn)",
+      "description": "Young mother (F/18) recently gave birth to a newborn (M/1 month). She is currently experiencing financial difficulties, with her partner being a low-income earner. The family is residing in a rental flat and would benefit from support for milk powder and diapers.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Quak Mei Qing",
+        "email": "meiqing@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Apr 2026"
     },
     {
       "id": "155794",
@@ -3733,6 +3784,23 @@
       "date": "26 Mar 2026"
     },
     {
+      "id": "155802",
+      "category": "Home Furnishing",
+      "name": "Single-Sized Bed",
+      "description": "Member stays in a 2-room rental flat with her two children and grandson. She also takes care of her other grandchildren from time to time. She is currently not working due to caregiving responsibilities and was previously unfit for work. She does not have the financial means to purchase a single-sized bed and has been sleeping on the floor. She hopes to have a bed to sleep more comfortably.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Quak Mei Qing",
+        "email": "meiqing@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 Apr 2026"
+    },
+    {
       "id": "155792",
       "category": "Home Furnishing",
       "name": "Queen Size mattress",
@@ -5165,6 +5233,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "155803",
+      "name": "Hammock",
+      "description": "Hammock",
+      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+      "validTill": "14 May 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "155778",
       "name": "Christmas tree and decorative ornaments",
       "description": "Christmas tree with decorative items",
@@ -5702,6 +5781,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Kitchen Utility Items"
+    },
+    {
+      "id": "155804",
+      "name": "Roller skates",
+      "description": "Roller skates, 2 helmets, 6 protectors",
+      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+      "validTill": "14 May 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Leisure and Healthy Lifestyle"
     },
     {
       "id": "155679",
