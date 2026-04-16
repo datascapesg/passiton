@@ -88,6 +88,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "155848",
+    "name": "OVEN TOASTER",
+    "description": "Oven toaster still working well.",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "30 Apr 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "155779",
     "name": "Bread maker",
     "description": "Electric bread maker",
@@ -163,6 +174,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "155849",
+    "name": "White wooden shelf",
+    "description": "White wooden shelves still sturdy and well maintained.",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "30 Apr 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "155847",
+    "name": "Extendable table",
+    "description": "Extendable wooden table suitable for various uses. When not extended only 25cm in thickness. When extended can go up to 130cm.",
+    "location": "Balestier, Toa Payoh",
+    "validTill": "30 Apr 2026",
+    "ageInYears": 4,
+    "dimensions": "70cm x 60cm x 130cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "155836",
