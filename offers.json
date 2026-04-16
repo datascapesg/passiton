@@ -759,6 +759,17 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
+    "id": "155863",
+    "name": "Suction Catheter",
+    "description": "suction catheter",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "16 May 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
     "id": "155722",
     "name": "Urine bags",
     "description": "9 urine bags, exp May 2030",
@@ -812,6 +823,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "155864",
+    "name": "Transfer Walking Belt",
+    "description": "A 移位习走带 (yí wèi xí zǒu dài) in English is commonly referred to as a gait belt or a transfer belt. \n\nDefinition: A gait belt is a safety device used in healthcare and caregiving to help patients with walking (gait training) or to assist them when transferring from one position to another (e.g., from a bed to a wheelchair).\n\nPurpose: It is designed to be worn around a patient's waist, providing a secure, strong handhold for caregivers to hold onto, which helps prevent falls and protects both the patient and the caregiver from back injuries.\nAlternative English Terms:\nTransfer belt (focused on moving from seat to seat).\nWalking belt (focused on mobility assistance).",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "16 May 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "155772",
