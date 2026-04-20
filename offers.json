@@ -176,13 +176,24 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "155984",
-    "name": "Queen bed with Mattress for donation",
-    "description": "Almost new queen size bed frame with mattress. Headboard is 90cm in height. Height of mattress to floor is 65cm.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "27 Apr 2026",
-    "ageInYears": 1,
-    "dimensions": "194.5 x 159 x 44.5cm",
+    "id": "155989",
+    "name": "Grey leather L-shaped sofa",
+    "description": "It is a two-seater plus lounge chaise (ie. 2 pieces)\nRemovable headrest",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "25 Apr 2026",
+    "ageInYears": 3,
+    "dimensions": "275 x 170 x 63cm (90cm w headrest)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "155988",
+    "name": "Queen size bed with mattress",
+    "description": "Used bed frame with mattress. The fabric under the bed is torn, but otherwise in good condition. \n\nContact via WhatsApp only. Delivery will be scheduled on 30 April 2026.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "26 Apr 2026",
+    "ageInYears": 4,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -462,17 +473,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "155943",
-    "name": "Baby crib",
-    "description": "This is a cot I used for my child, it’s in very good condition as he didn’t use it much! We will be able to deliver to anyone who needs it.",
-    "location": null,
-    "validTill": "19 May 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "155880",
     "name": "Graco car seat",
     "description": "Used front facing Graco car seat.\nWill need a longer car seat belt for larger child.",
@@ -565,6 +565,17 @@
     "name": "Lacquer tray",
     "description": "A set of 4 lacquered tray",
     "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "14 May 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "155990",
+    "name": "Glassware",
+    "description": "Plates, bowls, cups, glassware , teapot",
+    "location": "Cavendish Park",
     "validTill": "14 May 2026",
     "ageInYears": 4,
     "dimensions": null,
@@ -856,6 +867,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "155992",
+    "name": "Adult Diapers - Tena Proskin Pants Plus Medium Size",
+    "description": "Adult diapers - Tena Proskin Pants Plus Medium Size",
+    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+    "validTill": "20 May 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "155947",
