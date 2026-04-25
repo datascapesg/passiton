@@ -597,23 +597,6 @@
       "date": "30 Mar 2026"
     },
     {
-      "id": "156220",
-      "category": "Infant and Children Items",
-      "name": "Baby Chair",
-      "description": "A young family has welcomed their first child but are currently facing financial hardships. A safe and well-maintained baby chair would greatly support the child's comfort and development at this important stage.",
-      "specifications": null,
-      "contact": {
-        "org": "Hougang Sheng Hong Family Service Centre",
-        "name": "Kayalvizhi Ganapathy",
-        "email": "kayalvizhi@shenghong.org.sg",
-        "phone": [
-          "62895022"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Apr 2026"
-    },
-    {
       "id": "156201",
       "category": "Infant and Children Items",
       "name": "Diapers - XXL Size",
@@ -2878,23 +2861,6 @@
         "phone": [
           "62319504",
           "1800-222-0000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Apr 2026"
-    },
-    {
-      "id": "156034",
-      "category": "Electrical Home Appliances",
-      "name": "Air cooler/bladeless fan",
-      "description": "Family has 4 children living with them aged 11 to 9 months old. Family requires a bladeless fan or an air cooler to combat the heat as they live in the rental and do not have any air conditioner or ceiling fans. 11 year old daughter has eczema and it has flared up due to the heat.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Punggol 616",
-        "name": "Noor Syazana",
-        "email": "noorsyazana@allkin.org.sg",
-        "phone": [
-          "60384140"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -5801,6 +5767,39 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "156241",
+      "name": "High brown dining  table",
+      "description": "Lightly used high dining table (brown). Does not come with chairs.",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "25 May 2026",
+      "ageInYears": 1,
+      "dimensions": "H: 105, W:120, Depth: 80",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "156237",
+      "name": "Leg Elevation Pillow (to relieve swollen legs)",
+      "description": "Can used as backrest,or to elevate legs.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "25 May 2026",
+      "ageInYears": 1,
+      "dimensions": "60cm x 55cm x 15cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "156235",
+      "name": "Office chair",
+      "description": "Office chair",
+      "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+      "validTill": "28 Apr 2026",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "156224",
       "name": "checker sofa",
       "description": "single seated checker sofa",
@@ -6384,6 +6383,17 @@
       "category": "Learning Aids"
     },
     {
+      "id": "156238",
+      "name": "DNR Elec 3 Function Low Bed w 4 Slides Rail & Battery",
+      "description": "ULTRA NIGHT Adult Diapers\nBreathable Cloth-Like materia(Non Plastic)\nAntibacterial Controls odour\nRapid Absorption Keeps Wearer Dry",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "25 May 2026",
+      "ageInYears": 3,
+      "dimensions": "71-112CM",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
+    },
+    {
       "id": "155945",
       "name": "Lancets",
       "description": "Lancets",
@@ -6547,6 +6557,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "156239",
+      "name": "Diben Drink Vanilla Flavour",
+      "description": "Food For Special Medical Special Purposes.\nwith sugar amd sweeteners. For the dietary managment of patients with 0r at risk of mainutrition in particular for patients with impaired glucose metabolism.",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "25 May 2026",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "156236",
+      "name": "Blanket",
+      "description": "Quantity: 2 pieces\nOnly used once.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "25 May 2026",
+      "ageInYears": 1,
+      "dimensions": "100cm x 170cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "156228",
