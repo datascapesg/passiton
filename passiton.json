@@ -3796,24 +3796,6 @@
       "date": "26 Mar 2026"
     },
     {
-      "id": "156233",
-      "category": "Medical Aids",
-      "name": "Tena tape - size M",
-      "description": "Client is 62yo. She is diagnosed with stage 4 thyroid cancer. She is bedridden due to her cancer diagnosis. She requires daily use of diapers. Her husband is not working to remain as her primary caregiver.",
-      "specifications": null,
-      "contact": {
-        "org": "AIN Society",
-        "name": "Nurul Huda Maarop",
-        "email": "nurulhuda@ainsociety.org.sg",
-        "phone": [
-          "68486033",
-          "68485166"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Apr 2026"
-    },
-    {
       "id": "156231",
       "category": "Medical Aids",
       "name": "Ensure milk",
@@ -3909,24 +3891,6 @@
       "name": "Glucerna Milk",
       "description": "Client is unemployed and has mobility issues. Client is looking after his wife who is bedridden.",
       "specifications": "2 cans",
-      "contact": {
-        "org": "THK Family Service Centre @ Bukit Panjang",
-        "name": "Muhammad Idris Bin Mohd Margono",
-        "email": "idris.margono@thkmc.org.sg",
-        "phone": [
-          "87145182",
-          "67671740"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Apr 2026"
-    },
-    {
-      "id": "156085",
-      "category": "Medical Aids",
-      "name": "TENA Adult Diapers Size L",
-      "description": "Client is unemployed and has mobility issues. Client is looking after his wife who is bedridden",
-      "specifications": "4 pax",
       "contact": {
         "org": "THK Family Service Centre @ Bukit Panjang",
         "name": "Muhammad Idris Bin Mohd Margono",
@@ -5413,6 +5377,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "156253",
+      "name": "Washing Machine",
+      "description": "Beko 12kg top load washing machine",
+      "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+      "validTill": "29 Apr 2026",
+      "ageInYears": 2,
+      "dimensions": "97cm x 62.2 x 60",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "156250",
       "name": "Refrigerator",
       "description": "Energy saving fridge with 3 ticks, quite new",
@@ -6390,6 +6365,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "156254",
+      "name": "single bed",
+      "description": "bedframe is 4 years old. Mattress was bought February 2026 (3 months old)",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "26 May 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "156239",
