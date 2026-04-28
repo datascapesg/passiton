@@ -4043,24 +4043,6 @@
       "date": "30 Mar 2026"
     },
     {
-      "id": "156231",
-      "category": "Medical Aids",
-      "name": "Ensure milk",
-      "description": "Client, 72yo, is diagnosed with end stage uterine cancer. Due to this, she is on milk supplement for her daily nutritional needs. She is unable to consume solid food. Her siblings, who are supporting her, has not been able to cope with the financial demands of the milk supplement. They are also elderly. The donation would help the family and client greatly.",
-      "specifications": null,
-      "contact": {
-        "org": "AIN Society",
-        "name": "Nurul Huda Maarop",
-        "email": "nurulhuda@ainsociety.org.sg",
-        "phone": [
-          "68486033",
-          "68485166"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Apr 2026"
-    },
-    {
       "id": "156230",
       "category": "Medical Aids",
       "name": "TENA pants Size XL",
@@ -6369,6 +6351,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Learning Aids"
+    },
+    {
+      "id": "156349",
+      "name": "Mechanical hospital bed",
+      "description": "Mechanical hospital bed",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "29 May 2026",
+      "ageInYears": 4,
+      "dimensions": "216cmx107cmx91cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
     },
     {
       "id": "155945",
