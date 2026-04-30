@@ -1,6 +1,41 @@
 {
   "requests": [
     {
+      "id": "155221",
+      "category": "Home Furnishing",
+      "name": "TV Console",
+      "description": "Client who is transiting to Long-home-leave after a 1 year residential stay at HCSA Highpoint. He needs a small dining table as he is staying in an L-shape rental flat. Table will be placed against the wall.",
+      "specifications": "small table for 2 person",
+      "contact": {
+        "org": "HCSA Highpoint",
+        "name": "Stephen Ong",
+        "email": "stephen_ong@hcsa.org.sg",
+        "phone": [
+          "80207521",
+          "64402444"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": false,
+      "date": "30 Apr 2026"
+    },
+    {
+      "id": "156427",
+      "category": "Home Furnishing",
+      "name": "2-seater sofa",
+      "description": "client will be moving into her own rental place soon (single mother with 4 young kids) and requires assistance with furniture sourcing",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Nur Afiqah Binte Mohd Saidali",
+        "email": "nurafiqahsaidali@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Apr 2026"
+    },
+    {
       "id": "156420",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -1444,23 +1479,6 @@
       "date": "20 Apr 2026"
     },
     {
-      "id": "156036",
-      "category": "Infant and Children Items",
-      "name": "Milk Powder",
-      "description": "Client lives in a 4-room HDB flat with her elderly parents, husband and their four young children, aged 11, 6, 5 and 1. The family is currently facing financial challenges and the monthly household income is insufficient to meet family's basic needs. Family is seeking support for essential items such as Enfagrow Pro A+ Stage 3 for their young child. For further liaison, kindly WhatsApp me at 98598768, I will respond from 9am to 5pm on weekdays. Thank you very much!",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (East)",
-        "name": "Nur Afrina",
-        "email": "fsceast@ppis.sg",
-        "phone": [
-          "60156970"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Apr 2026"
-    },
-    {
       "id": "156021",
       "category": "Infant and Children Items",
       "name": "Huggies Diapers (Size L)",
@@ -2673,6 +2691,40 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "30 Mar 2026"
+    },
+    {
+      "id": "156426",
+      "category": "Electrical Home Appliances",
+      "name": "Table fan",
+      "description": "Rental flat is crowded and ventilation is poor, client's children require the fan",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Nur Afiqah Binte Mohd Saidali",
+        "email": "nurafiqahsaidali@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Apr 2026"
+    },
+    {
+      "id": "156425",
+      "category": "Electrical Home Appliances",
+      "name": "Standing fan",
+      "description": "Rental flat is crowded and ventilation is poor, client's children require the fan",
+      "specifications": null,
+      "contact": {
+        "org": "MWS Family Service Centre - Tampines",
+        "name": "Nur Afiqah Binte Mohd Saidali",
+        "email": "nurafiqahsaidali@mws.sg",
+        "phone": [
+          "67872001"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "30 Apr 2026"
     },
     {
       "id": "156421",
@@ -6038,17 +6090,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "156416",
-      "name": "Electrolux Refrigerator",
-      "description": "helping my boyfriends grandparents move house! the movers we hired quoted a hefty sum just for disposal thus wanted to donate it instead as it is still in great condition. can't confirm exact age of item but do drop a text if interested and i will check with his family as i am currently mass posting items. moving is next week thus we are urgently looking for people/orgs who are keen. willing to discuss delivery arrangement",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "08 May 2026",
-      "ageInYears": 4,
-      "dimensions": "160 cm (height) 55 cm (depth) 55 cm (width)",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "156412",
       "name": "Non halal fridge",
       "description": "Working fine.non halal. Giving up due to renovation. Can deliver direct to recipient.",
@@ -6179,6 +6220,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "156428",
+      "name": "Queen Mattress",
+      "description": "Mattress still in good condition.",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "30 May 2026",
+      "ageInYears": 2,
+      "dimensions": "180 by 160 by 30 (roughly)",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "156419",
