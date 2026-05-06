@@ -330,17 +330,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "156440",
-    "name": "3-seater sofa",
-    "description": "Ikea 3-seater sofa with extra seat covers. Self collection by 9 May.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "09 May 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "156436",
     "name": "Kitchen island with storage shelves and two stools",
     "description": "Free-standing kitchen island, with two storage shelves and a thick oak working top. Two metal stools which fit perfectly under the side of the island. Multi-use. Minimal wear to the piece can be used for a multitude of years.",
@@ -979,17 +968,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "156526",
-    "name": "Mechanical hospital bed",
-    "description": "Mechanical hospital bed",
-    "location": "Admiralty Drive, Sembawang, Yishun",
-    "validTill": "29 May 2026",
-    "ageInYears": 4,
-    "dimensions": "216cmx107cmx91cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "155945",
     "name": "Lancets",
     "description": "Lancets",
@@ -1032,6 +1010,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "156564",
+    "name": "Wheelchair",
+    "description": "Wheelchair",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "10 May 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "156497",
