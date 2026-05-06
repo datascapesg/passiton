@@ -1,24 +1,6 @@
 {
   "requests": [
     {
-      "id": "156517",
-      "category": "Home Furnishing",
-      "name": "Sofas",
-      "description": "Our home need 2 sets 3 seaters second-hand sofas.\nThank you",
-      "specifications": null,
-      "contact": {
-        "org": "Ju Eng Home For Senior Citizens",
-        "name": "Lee Jun Hui",
-        "email": "junhui@jeh.org.sg",
-        "phone": [
-          "64846890ext127",
-          "64846890"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 May 2026"
-    },
-    {
       "id": "156515",
       "category": "Home Furnishing",
       "name": "Single Bed Frame",
@@ -2303,21 +2285,22 @@
       "date": "06 Apr 2026"
     },
     {
-      "id": "156518",
+      "id": "156527",
       "category": "Electrical Home Appliances",
-      "name": "fridge",
-      "description": "Client is a 69-year-old caregiver to her 8-year-old grandson while his natural parent is incarcerated. She is supported in caregiving by her adult son, who resides in the same household.\nThe family is currently in need of a replacement refrigerator, as their existing unit is leaking and at risk of imminent breakdown. They also have a washing machine that is no longer functioning effectively and would benefit from replacement, including installation support.\nAs the family is reliant on financial assistance, they do not have the means to purchase these items or cover associated delivery and installation costs.",
+      "name": "Television set",
+      "description": "Client has 7 children. Husband is the only sole-breadwinner as client is on long medical leave due to mental health. Client and family have many debts to pay. (Dyl)",
       "specifications": null,
       "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Nurhidayah Binte Sazali",
-        "email": "hidayah@sccfsc.org.sg",
+        "org": "THK Family Service Centre @ Bedok North",
+        "name": "Low Kim Yong",
+        "email": "lowkimyong@thkmc.org.sg",
         "phone": [
-          "64619200"
+          "81883314",
+          "64491440"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "05 May 2026"
+      "date": "06 May 2026"
     },
     {
       "id": "156516",
@@ -3792,6 +3775,24 @@
       "date": "06 Apr 2026"
     },
     {
+      "id": "156529",
+      "category": "Medical Aids",
+      "name": "Blood Pressure monitoring set",
+      "description": "Client stays with his elder brother, b/g hypertension. Does not have BP monitoring in place. He has financial difficulties and limited social support. Client is keen to acquire one to start monitoring BP",
+      "specifications": null,
+      "contact": {
+        "org": "SingHealth (CGH) – Community Care",
+        "name": "Marhamah Binte Mohamed Ali",
+        "email": "marhamah.mohamed.ali@singhealth.com.sg",
+        "phone": [
+          "64267519",
+          "64268053"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 May 2026"
+    },
+    {
       "id": "156391",
       "category": "Medical Aids",
       "name": "Diben (Cappucino)",
@@ -4947,23 +4948,6 @@
       "date": "04 May 2026"
     },
     {
-      "id": "156463",
-      "category": "Mobility Aids",
-      "name": "Self-Propelled Wheelchair",
-      "description": "Client is a 60+ year old woman, with severe kyphosis and limited mobility. Current wheelchair is damaged, and needs a new wheelchair.",
-      "specifications": null,
-      "contact": {
-        "org": "Montfort Care - Kreta Ayer Family Services",
-        "name": "Muhammad Safwan",
-        "email": "safwan.ishak@montfortcare.org.sg",
-        "phone": [
-          "63254753"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 May 2026"
-    },
-    {
       "id": "156348",
       "category": "Mobility Aids",
       "name": "wheelchair",
@@ -4980,6 +4964,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "28 Apr 2026"
+    },
+    {
+      "id": "156528",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Client has 7 children. Husband is the only sole-breadwinner as client is on long medical leave due to mental health. Client and family have many debts to pay. (Dyl)",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Bedok North",
+        "name": "Low Kim Yong",
+        "email": "lowkimyong@thkmc.org.sg",
+        "phone": [
+          "81883314",
+          "64491440"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 May 2026"
     }
   ],
   "offers": [
@@ -5270,17 +5272,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "156492",
-      "name": "IKEA 2 seater sofa with sleeper bed",
-      "description": "Lightly used IKEA 2 seater sofa which has pull out bed",
-      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
-      "validTill": "16 May 2026",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "156453",
       "name": "Used window curtains",
       "description": "4 panels - teal\n2 panels - cream / beige with imprints\n2 panels - beige with grey circular designs",
@@ -5519,17 +5510,6 @@
       "validTill": "27 May 2026",
       "ageInYears": 4,
       "dimensions": "L: 150 W: 40 H: 79",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "156403",
-      "name": "Reading Arm Chair & Foot stool",
-      "description": "Wooden, Fabric upholstered arm chair with foot stool separate",
-      "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-      "validTill": "27 May 2026",
-      "ageInYears": 4,
-      "dimensions": "H: 97 D: 87 W: 90",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -5992,6 +5972,17 @@
       "validTill": "29 May 2026",
       "ageInYears": 1,
       "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
+    },
+    {
+      "id": "156526",
+      "name": "Mechanical hospital bed",
+      "description": "Mechanical hospital bed",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "29 May 2026",
+      "ageInYears": 4,
+      "dimensions": "216cmx107cmx91cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
     },
