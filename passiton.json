@@ -1,6 +1,41 @@
 {
   "requests": [
     {
+      "id": "156618",
+      "category": "Home Furnishing",
+      "name": "Sofa",
+      "description": "Family of 3 with one young son requires a sofa to furnish their rental flat.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
+        "name": "Grace Lim",
+        "email": "grace_lim@msf.gov.sg",
+        "phone": [
+          "68590811",
+          "62957205"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 May 2026"
+    },
+    {
+      "id": "156604",
+      "category": "Home Furnishing",
+      "name": "Queen-sized Mattress",
+      "description": "Lower-income family staying in a rental flat requires a kind donation of a queen-sized mattress. Their previous mattress is old and worn out and family has limited finances to replace it. The donation will benefit 2 young children, aged 6 and 2 and their parents.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Woodlands",
+        "name": "Joel Low",
+        "email": "joellow@carecorner.org.sg",
+        "phone": [
+          "63622481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 May 2026"
+    },
+    {
       "id": "156599",
       "category": "Home Furnishing",
       "name": "Kitchen Cabinet",
@@ -666,6 +701,60 @@
       "date": "08 Apr 2026"
     },
     {
+      "id": "156617",
+      "category": "Electrical Home Appliances",
+      "name": "television",
+      "description": "Family of 3, with one young child requires a TV as their TV broke down. Father is the sole breadwinner.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
+        "name": "Grace Lim",
+        "email": "grace_lim@msf.gov.sg",
+        "phone": [
+          "68590811",
+          "62957205"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 May 2026"
+    },
+    {
+      "id": "156615",
+      "category": "Electrical Home Appliances",
+      "name": "Mini fridge",
+      "description": "My 59-year-old patient with terminal stage cancer requires a mini fridge to store medication and food by her bedside for easy access. She is bedbound due to her condition and is unable to transfer out of bed on her own. There are times when family is not around to assist her, so having the fridge beside her in her bedroom will help her access her medications more easily when she needs it.\n\nDonor please kindly contact me on WhatsApp at 97274215.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Cancer Society",
+        "name": "Lim Yi Xi",
+        "email": "yixi_lim@singaporecancersociety.org.sg",
+        "phone": [
+          "97274215",
+          "62219578"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 May 2026"
+    },
+    {
+      "id": "156610",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine (front load)",
+      "description": "Low income family comprising of single mum  with 5 young children, living in rental unit, is looking for help to replace their faulty washing machine. If you can help, please contact Wendy/8368 7736 or Jessie/9643 3400. Thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Community Services - Restorative Care Department",
+        "name": "Jessie Lim",
+        "email": "jessielim@fycs.org",
+        "phone": [
+          "96433400",
+          "91708900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 May 2026"
+    },
+    {
       "id": "154345",
       "category": "Electrical Home Appliances",
       "name": "Television",
@@ -687,23 +776,6 @@
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
       "description": "Client (f/40) with multiple physical and mental health conditions, currently residing in a 1-room HDB rental flat with her two school-going teenage children, is seeking a donation of a washing machine as her current one is spoilt. Due to space constraints in her flat, the washing machine width should preferably be 51cm or less. She is currently undergoing divorce proceedings and is not working due to her medical condition, having been certified unfit for employment.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Norlizawati Binte Hamid",
-        "email": "norlizawati@thkmc.org.sg",
-        "phone": [
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 May 2026"
-    },
-    {
-      "id": "156554",
-      "category": "Electrical Home Appliances",
-      "name": "Oven for baking",
-      "description": "The client is a grandmother who is currently caring for her two grandchildren, as their biological mother is incarcerated. She is unemployed due to her caregiving responsibilities, and the family relies on SSO assistance to make ends meet.\nShe is keen to start an online pastry business to generate income for the family and is therefore seeking support to obtain an oven for baking.",
       "specifications": null,
       "contact": {
         "org": "THK Family Service Centre @ Tanjong Pagar",
@@ -2116,6 +2188,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "07 Apr 2026"
+    },
+    {
+      "id": "156607",
+      "category": "Infant and Children Items",
+      "name": "Automatic Breast Pump",
+      "description": "Client has just given birth and her breast pump is manual which causes her hand to feel pain. As such, client hopes to receive an automatic breast pump which will allow her to pump easily.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care - Kreta Ayer Family Services",
+        "name": "Simranjit Kaur",
+        "email": "simranjit.kaur@montfortcare.org.sg",
+        "phone": [
+          "63254753"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 May 2026"
     },
     {
       "id": "156593",
@@ -3776,24 +3865,6 @@
       "date": "08 Apr 2026"
     },
     {
-      "id": "156596",
-      "category": "Medical Aids",
-      "name": "Blood Pressure Machine",
-      "description": "Client has multiple chronic medical conditions, including asthma, gastritis, chronic low blood pressure, sinus issues, and a monitored brain tumour, alongside ongoing mental health conditions such as depression and PTSD, which have significantly affected her daily functioning and ability to sustain employment. Due to her physical and mental health conditions, client has been certified unfit for work and relies mainly on financial assistance to meet her daily expenses. After paying for her essential bills and daily necessities, she has limited financial resources remaining. As such, she is unable to afford a new blood pressure monitoring device, which is important for monitoring her chronic low blood pressure condition. Therefore, she is seeking support from a kind donor to provide a replacement blood pressure measurement device.",
-      "specifications": "None",
-      "contact": {
-        "org": "Lakeside Family Centre - Jurong East",
-        "name": "Angeline Lim",
-        "email": "angeline-lim@lakeside.org.sg",
-        "phone": [
-          "65649722ext210",
-          "65649722"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 May 2026"
-    },
-    {
       "id": "156591",
       "category": "Medical Aids",
       "name": "SenSura® Mio 2-Piece Open Transparent Bag (Piece)",
@@ -4181,6 +4252,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "08 Apr 2026"
+    },
+    {
+      "id": "156611",
+      "category": "Others",
+      "name": "Phone",
+      "description": "Client is a homeless person residing in a temporary shelter. He lost his phone recently and does not have the financial means to purchase a new phone. He requires it to access his Singpass and other government services.",
+      "specifications": "NIL",
+      "contact": {
+        "org": "New Hope Community Services",
+        "name": "Joseph Leong",
+        "email": "joseph@newhopecs.org.sg",
+        "phone": [
+          "81298441",
+          "63059620"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "08 May 2026"
     },
     {
       "id": "156586",
@@ -4845,23 +4934,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "20 Apr 2026"
-    },
-    {
-      "id": "155961",
-      "category": "Others",
-      "name": "FairPrice 3ply Pocket Facial Tissue",
-      "description": "We are seeking donations of FairPrice 3ply Pocket Facial Tissue for our seniors. Here is the reference: \n\nhttps://www.fairprice.com.sg/product/fairprice-3ply-pocket-facial-tissue-48-x-8-per-pack-13182386\n\nThank you for making a massive difference in keeping our elderly community happy!",
-      "specifications": null,
-      "contact": {
-        "org": "Friends of the Third Age (F3)",
-        "name": "Chia Hang Sing",
-        "email": "hangsing@f3a.org.sg",
-        "phone": [
-          "96269472"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Apr 2026"
     },
     {
       "id": "155960",
@@ -5613,6 +5685,28 @@
   ],
   "offers": [
     {
+      "id": "156619",
+      "name": "BNWT Sports leggings",
+      "description": "Blessing a BNWT sports leggings size L.",
+      "location": null,
+      "validTill": "16 May 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Attires/Clothings"
+    },
+    {
+      "id": "156616",
+      "name": "BN Thailand Tee Shirt",
+      "description": "Blessing a brand new gift from Thailand.",
+      "location": null,
+      "validTill": "07 Jun 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Attires/Clothings"
+    },
+    {
       "id": "156457",
       "name": "melissa campana",
       "description": "whatsapp me",
@@ -5668,12 +5762,12 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "156600",
-      "name": "Mayer 3L Instant Heating Water Dispensed",
-      "description": "Brand new Mayer 3L Instant Heating Water Dispenser with filter (MMIWD30)",
-      "location": "Braddell , Macpherson, Potong Pasir",
-      "validTill": "06 Jun 2026",
-      "ageInYears": 1,
+      "id": "156605",
+      "name": "Sony 49\" TV",
+      "description": "Used 49\" Sony TV, still in working condition but with a bar flashing at the bottom of the screen.",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "09 May 2026",
+      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
@@ -5844,6 +5938,39 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "156614",
+      "name": "Dining Set",
+      "description": "Dining table with chairs.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "09 May 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "156613",
+      "name": "2 super single mattress",
+      "description": "2 super single in great condition. Picture is sample as I'm not at home while submitting this form.",
+      "location": "Seletar, Yio Chu Kang",
+      "validTill": "07 Jun 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "156603",
+      "name": "queen bed frame and bed",
+      "description": "queen size bed frame with mattress",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "07 Jun 2026",
+      "ageInYears": 4,
+      "dimensions": "152 cm x 190 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "156601",
       "name": "Queen Sized Bed",
       "description": "Looking for someone to take over queen sized bed. You can choose whether to take bed frame or not.",
@@ -5888,6 +6015,28 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "156608",
+      "name": "Grey 3 seater sofa bed",
+      "description": "Grey fabric 3-seater sofa bed with under storage. Excellent condition.",
+      "location": "Braddell , Macpherson, Potong Pasir",
+      "validTill": "30 May 2026",
+      "ageInYears": 2,
+      "dimensions": "Width: 225 cm Depth: 105 cm Height: 83 cm Seat depth: 61 cm Seat height: 46 cm Bed width: 144 cm Bed length: 199 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "156609",
+      "name": "Grey 3 seater sofa bed",
+      "description": "Grey fabric 3-seater sofa bed with under storage. Excellent condition.",
+      "location": "Braddell , Macpherson, Potong Pasir",
+      "validTill": "30 May 2026",
+      "ageInYears": 2,
+      "dimensions": "Width: 225 cm Depth: 105 cm Height: 83 cm Seat depth: 61 cm Seat height: 46 cm Bed width: 144 cm Bed length: 199 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "156453",
       "name": "Used window curtains",
       "description": "4 panels - teal\n2 panels - cream / beige with imprints\n2 panels - beige with grey circular designs",
@@ -5928,17 +6077,6 @@
       "validTill": "09 May 2026",
       "ageInYears": 3,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "156436",
-      "name": "Kitchen island with storage shelves and two stools",
-      "description": "Free-standing kitchen island, with two storage shelves and a thick oak working top. Two metal stools which fit perfectly under the side of the island. Multi-use. Minimal wear to the piece can be used for a multitude of years.",
-      "location": "Braddell , Macpherson, Potong Pasir",
-      "validTill": "27 May 2026",
-      "ageInYears": 2,
-      "dimensions": "Width: 126 cm Depth: 79 cm Height: 90 cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -6357,17 +6495,6 @@
       "validTill": "28 May 2026",
       "ageInYears": 1,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Kitchen Utility Items"
-    },
-    {
-      "id": "155842",
-      "name": "Kitchen Tempered Glass Cooking Enclosure",
-      "description": "Brand New Kitchen Tempered Glass Cooking Enclosure",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "15 May 2026",
-      "ageInYears": 1,
-      "dimensions": "L90cm x D45cm x H60cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Kitchen Utility Items"
     },
