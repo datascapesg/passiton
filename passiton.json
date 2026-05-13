@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "156755",
+      "category": "Home Furnishing",
+      "name": "Mattress",
+      "description": "Single mother with health issue living with 2 children in a rental flat. Mother is not able to work yet due to health",
+      "specifications": null,
+      "contact": {
+        "org": "Trybe Limited",
+        "name": "Nadiah Binte Abdul Razak",
+        "email": "nadiah.razak@trybe.org",
+        "phone": [
+          "-",
+          "67841481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 May 2026"
+    },
+    {
       "id": "156742",
       "category": "Home Furnishing",
       "name": "Single size mattresses",
@@ -805,6 +823,76 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "13 Apr 2026"
+    },
+    {
+      "id": "156754",
+      "category": "Electrical Home Appliances",
+      "name": "Fridge",
+      "description": "Single mother with health issue living with 2 children in a rental flat. Mother is not able to work yet due to health",
+      "specifications": null,
+      "contact": {
+        "org": "Trybe Limited",
+        "name": "Nadiah Binte Abdul Razak",
+        "email": "nadiah.razak@trybe.org",
+        "phone": [
+          "-",
+          "67841481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 May 2026"
+    },
+    {
+      "id": "156751",
+      "category": "Electrical Home Appliances",
+      "name": "Rice-cooker",
+      "description": "This family currently experiencing financial difficulties and has limited access to kitchen appliances. Client, single mother of 4 children and was rentrenched from her job requesting for donation of rice cooker.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Norlizawati Binte Hamid",
+        "email": "norlizawati@thkmc.org.sg",
+        "phone": [
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 May 2026"
+    },
+    {
+      "id": "156750",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine (Top Load)",
+      "description": "Single mother with 2 school-going children staying in a 2-room rental flat who requires a top load washing machine as their current one broke down. Family is on active ComCare assistance as mother is unfit for work. Would greatly appreciate if donor is able to cover transport expenses. I can be reached at 63254547 as I will be away from my laptop.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Kreta Ayer",
+        "name": "Mohamad Harith",
+        "email": "harith_husaini@msf.gov.sg",
+        "phone": [
+          "63254547",
+          "1800-222-0000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 May 2026"
+    },
+    {
+      "id": "156749",
+      "category": "Electrical Home Appliances",
+      "name": "Air Purifier",
+      "description": "Elderly couple with multiple health issues with 2 special needs adult children requires a donation of air purifier due to wife's deteriorating health as she has to use an oxygen mask at home.",
+      "specifications": null,
+      "contact": {
+        "org": "Viriya Community Services - Whispering Hearts Family Service Centre",
+        "name": "Siti Zaharah",
+        "email": "zaharah@viriya.org.sg",
+        "phone": [
+          "67951008"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 May 2026"
     },
     {
       "id": "156746",
@@ -2347,6 +2435,58 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "14 Apr 2026"
+    },
+    {
+      "id": "156757",
+      "category": "Infant and Children Items",
+      "name": "Diapers Pants L - Merries",
+      "description": "The family of 5, including 2 school-going children and an infant, requires diapers. As the infant develops rashes when using other brands, they rely on Merries diapers, which adds to the family's expenses. The family is facing financial difficulties due to their low household income.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
+        "name": "Steven Lio",
+        "email": "steven_lio@msf.gov.sg",
+        "phone": [
+          "63548174",
+          "18002220000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 May 2026"
+    },
+    {
+      "id": "156756",
+      "category": "Infant and Children Items",
+      "name": "Twin Stroller",
+      "description": "Client, wife and their four young children are currently staying at mother’s rental flat. Client is upgrading his skills to secure better employment and improve family’s stability. Family has two younger sons, 2 years old and 1 years old. Family will benefit from a twin stroller for ease of travel to school etc. For further enquiries, kindly contact me at 98598768, I will respond accordingly during office hours, thank you so much!",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (East)",
+        "name": "Nur Afrina",
+        "email": "fsceast@ppis.sg",
+        "phone": [
+          "60156970"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 May 2026"
+    },
+    {
+      "id": "156752",
+      "category": "Infant and Children Items",
+      "name": "Baby Diaper",
+      "description": "Client (F/32) single mother of her two children and was facing a financial difficulties. Client needs a diapers for her children as she was difficulties managing her household expenses.",
+      "specifications": "Size: L Any brand",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Norlizawati Binte Hamid",
+        "email": "norlizawati@thkmc.org.sg",
+        "phone": [
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "13 May 2026"
     },
     {
       "id": "156741",
@@ -4022,23 +4162,6 @@
       "date": "29 Apr 2026"
     },
     {
-      "id": "156383",
-      "category": "Medical Aids",
-      "name": "Adult Diapers",
-      "description": "Client is a 79 years old senior who is living with her unemployed son in a rental flat. She has several medical conditions and the family is struggling to support her medical needs due to low income.",
-      "specifications": "Any brand Size:M",
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Norlizawati Binte Hamid",
-        "email": "norlizawati@thkmc.org.sg",
-        "phone": [
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Apr 2026"
-    },
-    {
       "id": "156375",
       "category": "Medical Aids",
       "name": "oximeter",
@@ -4209,24 +4332,6 @@
         "phone": [
           "66226501",
           "62536979"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 May 2026"
-    },
-    {
-      "id": "156699",
-      "category": "Others",
-      "name": "Bag of apples",
-      "description": "PPIS FSC (West) RELIGHT is launching an initiative to provide healthy snack packs for school-going children during the upcoming school holidays. Through this effort, we hope to ease the daily burden for 50 low-income families while bringing comfort and joy to children during the holiday season. 💛 We are currently seeking donations of Apples in any quantity. 📅 Donation deadline: 22 May 2026 Every contribution, big or small, will make a meaningful difference. Thank you for your kindness and support!",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Sim Yan Ling",
-        "email": "yanling.sim@ppis.sg",
-        "phone": [
-          "65613462ext503",
-          "65613462"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -5744,17 +5849,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "156740",
-      "name": "queen sized bedding frame (IKEA) & mattress",
-      "description": "- Queen-sized white bed frame\n- Simple, modern design\n- Sturdy construction\n- Mattress included\n- ikea",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "14 May 2026",
-      "ageInYears": 2,
-      "dimensions": "1.9 x 1 x0.5",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "156739",
       "name": "Black Leather Sofa",
       "description": "- Stylish black faux leather sofa bed\n- Comfortable design with stitched detailing\n- Removable cover for easy cleaning\n- Ready for immediate use\n-angle adjustable to bedding",
@@ -5772,17 +5866,6 @@
       "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
       "validTill": "16 May 2026",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "156704",
-      "name": "Grey arm chair",
-      "description": "Like new arm chair",
-      "location": null,
-      "validTill": "31 May 2026",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
@@ -6184,6 +6267,17 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "156748",
+      "name": "Baby and toddler toys",
+      "description": "Baby and toddler toys - cloth books, musical instrument, teething etc. all in good condition",
+      "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
+      "validTill": "10 Jun 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
       "id": "156686",
       "name": "M size diapers",
       "description": "M pants (10 packs in total)",
@@ -6393,6 +6487,17 @@
       "category": "Learning Aids"
     },
     {
+      "id": "156758",
+      "name": "3M cream/cleanser/oxygen cannula/humidifer bottle",
+      "description": "- oxygen nasal cannula \n   3meter x 5 (exp 2030)\n   4 meter x 8 (exp 2027)\n- humidifier bottle x 3\n- 3M cavilon barrier cream x 4 (exp 2027)\n- 3M cavilon no rinse skin cleanser x 4",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "12 Jun 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
+    },
+    {
       "id": "156682",
       "name": "Geriatric Chair - Vermeiren Normandie",
       "description": "Geriatric chair lightly used. Has tray table and arm rest can be lowered.",
@@ -6490,6 +6595,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "156753",
+      "name": "commode chair with pot, cover, wheels and detachable armrest",
+      "description": "can be used to transfer patient from chair/bed to commode chair, then wheel patient to toilet and shower patient on commode chair directly (will send item directly to VWO/needy if in the east of Singapore)",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "19 May 2026",
+      "ageInYears": 4,
+      "dimensions": "55 x 65 x 100 (all in cm)",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "156733",
