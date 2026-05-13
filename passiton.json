@@ -89,24 +89,6 @@
       "date": "12 May 2026"
     },
     {
-      "id": "156721",
-      "category": "Home Furnishing",
-      "name": "Cabinet/Wardrobe for clothes",
-      "description": "Single mother of 5 young children is seeking help with practical needs as she has been certified unfit for work and rely fully on ComCare assistance.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-        "name": "Nurul Adryana Abu Bakar",
-        "email": "nuruladryana@allkin.org.sg",
-        "phone": [
-          "60384270",
-          "60384100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 May 2026"
-    },
-    {
       "id": "156712",
       "category": "Home Furnishing",
       "name": "Queen size mattress only",
@@ -337,24 +319,6 @@
       "category": "Home Furnishing",
       "name": "Sofa bed",
       "description": "Single mother with low income requires sofa bed for her adolescent son who is sleeping on a thin mattress in their rental flat. They are unable to afford to buy a proper bed/sofa bed as it is too expensive.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Toa Payoh",
-        "name": "Nur Hidayah Binte Abdul Rahim",
-        "email": "nurhidayah@carecorner.org.sg",
-        "phone": [
-          "64506649",
-          "63561622"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 May 2026"
-    },
-    {
-      "id": "156548",
-      "category": "Home Furnishing",
-      "name": "Single bed with pullout bed",
-      "description": "Single mother of 3 school-going children is in need of bed frame and mattress. They are currently sleeping on a thin mattress on the floor. Children are getting bigger and she would want them to at least sleep on separate beds since there is not much space in their 2 room rental flat. She is unable to afford to buy a bed frame nor new mattress given that all her income goes to meeting their basic needs.",
       "specifications": null,
       "contact": {
         "org": "Care Corner Family Service Centre - Toa Payoh",
@@ -5501,24 +5465,6 @@
       "date": "23 Apr 2026"
     },
     {
-      "id": "156744",
-      "category": "Mobility Aids",
-      "name": "Lightweight pushchair",
-      "description": "Patient and husband are both cancer patients undergoing active treatment, unfit for employment. They only have 1 son, working as a technician and supporting both of them.",
-      "specifications": "18",
-      "contact": {
-        "org": "National Cancer Centre Singapore",
-        "name": "Jolene Goh",
-        "email": "jolene.goh.sh@nccs.com.sg",
-        "phone": [
-          "64268605",
-          "64368124"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 May 2026"
-    },
-    {
       "id": "156743",
       "category": "Mobility Aids",
       "name": "Stationary commode",
@@ -5661,6 +5607,28 @@
     }
   ],
   "offers": [
+    {
+      "id": "156760",
+      "name": "Men's batik shirt",
+      "description": "Lightly worn",
+      "location": "Braddell , Macpherson, Potong Pasir",
+      "validTill": "12 Jun 2026",
+      "ageInYears": 3,
+      "dimensions": "Medium / Large",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Attires/Clothings"
+    },
+    {
+      "id": "156759",
+      "name": "Men's shirts",
+      "description": "Lightly worn",
+      "location": "Braddell , Macpherson, Potong Pasir",
+      "validTill": "12 Jun 2026",
+      "ageInYears": 3,
+      "dimensions": "Medium / Large",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Attires/Clothings"
+    },
     {
       "id": "156619",
       "name": "BNWT Sports leggings",
@@ -5847,6 +5815,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "156761",
+      "name": "Super single bed with pull out bed and mattresses",
+      "description": "Super single pull out bed with 2 mattresses. Seldom used, and in good condition. King Koil brand.",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "12 Jun 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "156739",
@@ -6272,17 +6251,6 @@
       "description": "Baby and toddler toys - cloth books, musical instrument, teething etc. all in good condition",
       "location": "Beach Road, Bencoolen Road, Bugis, Golden Mile, Middle Road, Rocher",
       "validTill": "10 Jun 2026",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "156686",
-      "name": "M size diapers",
-      "description": "M pants (10 packs in total)",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "15 May 2026",
       "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
