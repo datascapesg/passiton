@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "156785",
+      "category": "Home Furnishing",
+      "name": "Foldable single mattress",
+      "description": "Family of four living in a 1-room rental flat. 8yo and 9yo girls sleep on the floor because they do not have a mattress. Looking for a foldable single mattress as their house is cluttered.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Sengkang, Serangoon &amp; Hougang",
+        "name": "Rachael Chung",
+        "email": "rachael_chung@msf.gov.sg",
+        "phone": [
+          "62319095",
+          "18002220000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 May 2026"
+    },
+    {
       "id": "156774",
       "category": "Home Furnishing",
       "name": "Blankets",
@@ -4038,6 +4056,24 @@
       "date": "13 Apr 2026"
     },
     {
+      "id": "156787",
+      "category": "Medical Aids",
+      "name": "Pillboxes with alarm function",
+      "description": "A needy with memory issues requires two pillboxes with alarm to remind her to take her medicine.",
+      "specifications": null,
+      "contact": {
+        "org": "SACS Anglican Cluster Operator @ Jurong East",
+        "name": "Koh Leong Foo",
+        "email": "leongfoo_koh@sacs.org.sg",
+        "phone": [
+          "62621183ext209",
+          "62621183"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 May 2026"
+    },
+    {
       "id": "156678",
       "category": "Medical Aids",
       "name": "Adult Diapers",
@@ -4355,6 +4391,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "20 Apr 2026"
+    },
+    {
+      "id": "156784",
+      "category": "Others",
+      "name": "Laundry Detergent & Softener",
+      "description": "Single mother with 6 children is seeking kind donation for Breeze laundry detergent, liquid foam colour care and clothing softener (Softlan) as she is having financial difficulties due to her mental health and caregiving stressors. Mother has been washing the children clothings with dishwashing detergent resulting in some of the school uniforms not being adequately wash.",
+      "specifications": null,
+      "contact": {
+        "org": "Viriya Community Services - Whispering Hearts Family Service Centre",
+        "name": "Siti Zaharah",
+        "email": "zaharah@viriya.org.sg",
+        "phone": [
+          "67951008"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 May 2026"
     },
     {
       "id": "156783",
@@ -5573,6 +5626,24 @@
       "date": "23 Apr 2026"
     },
     {
+      "id": "156789",
+      "category": "Mobility Aids",
+      "name": "heavyweight wheelchair",
+      "description": "The senior has multiple health conditions and requires the wheelchair to attend medical appointments and other commitments. \n\nShe stays in a rental flat with multiple family members. However family tensions are frequent over financial dispute which leads to the senior being withdrawn from reaching out to her children. \n\nthe senior prefers a bigger size wheelchair to accommodate her and her husband size as they both has multiple health concerns and has mobility issues.  \n\npls contact me at 8126 2493 can always whatsapp me too (julia) for further information, thanks!",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Community Services",
+        "name": "Julia Soh Ying Li",
+        "email": "juliasoh@fycs.org",
+        "phone": [
+          "63809155",
+          "63809169"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 May 2026"
+    },
+    {
       "id": "156743",
       "category": "Mobility Aids",
       "name": "Stationary commode",
@@ -5624,6 +5695,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "28 Apr 2026"
+    },
+    {
+      "id": "156790",
+      "category": "Learning Aids",
+      "name": "Laptop",
+      "description": "Client (42, male) is from low-income family, and suffers from mental health issues, and physical nerve pains. He requires a laptop to run excel sheets and run MS office. A laptop will give client the oppoturnity to seek better employment and improve his financial situation.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Maziah Mahmod",
+        "email": "maziah.mahmod@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "14 May 2026"
     },
     {
       "id": "156734",
@@ -5804,17 +5892,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "156776",
-      "name": "front load washing machine",
-      "description": "Good working condition. Extra washing machine due to house moving",
-      "location": "Balestier, Toa Payoh",
-      "validTill": "21 May 2026",
-      "ageInYears": 3,
-      "dimensions": "58cm x 42cm 85cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "156662",
       "name": "Desk fan",
       "description": "Fan can still work but cannot swivel. \nSelf collect at my HDB block.",
@@ -5923,6 +6000,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "156786",
+      "name": "Single Bed and mattress",
+      "description": "Single bed and frame",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "13 Jun 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "156780",
@@ -6682,6 +6770,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "156788",
+      "name": "Two seaters fabric sofa with cup holder",
+      "description": "About one year old sofa. \nCondition like new.\nGive away together with two sofa cushions.",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "30 May 2026",
+      "ageInYears": 1,
+      "dimensions": "L136cmxW78cmxH68cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "156691",
