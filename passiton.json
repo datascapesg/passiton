@@ -649,24 +649,6 @@
       "date": "21 Apr 2026"
     },
     {
-      "id": "156104",
-      "category": "Home Furnishing",
-      "name": "Kitchen Cabinet (Can put gas tank in the cabinet & stove on top of cabinet)",
-      "description": "Client is a single mother who is taking care of her 3 young children. Due to her poor health and caregiving duties, she is currently unemployed. Family is allocated a rental flat recently and require household items for their flat. Client hopes to receive a kitchen cabinet that allows her to put gas tank in the cabinet and the stove on top.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Cheng San 445",
-        "name": "Nur Ain Afini Binte Hamdan",
-        "email": "nurainafini@allkin.org.sg",
-        "phone": [
-          "60384138",
-          "60384120"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Apr 2026"
-    },
-    {
       "id": "156103",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -806,24 +788,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "14 Apr 2026"
-    },
-    {
-      "id": "155752",
-      "category": "Home Furnishing",
-      "name": "2 Toyogo storage boxes",
-      "description": "The client needs two Toyogo storage boxes with wheels, to organise her sentimental belongings, which are currently cluttering the walkway and creating a safety hazard, especially as she is frail. She is also facing financial difficulties, making it difficult for her to afford a shelf.",
-      "specifications": "51L XL",
-      "contact": {
-        "org": "NTUC Health Co-operative Limited",
-        "name": "Christopher",
-        "email": "christopher.c@ntuchealth.sg",
-        "phone": [
-          "91461895",
-          "67156715"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Apr 2026"
     },
     {
       "id": "155742",
@@ -5626,24 +5590,6 @@
       "date": "23 Apr 2026"
     },
     {
-      "id": "156792",
-      "category": "Mobility Aids",
-      "name": "Small Wheelchair",
-      "description": "Client is a caregiver to her husband who is 90+yo. She is looking to get a smaller / slimmer wheelchair for her husband so that she can push him out more easily.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Community Services",
-        "name": "Priscilla Tan",
-        "email": "priscillatan@fycs.org",
-        "phone": [
-          "60117651",
-          "63809169"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 May 2026"
-    },
-    {
       "id": "156789",
       "category": "Mobility Aids",
       "name": "heavyweight wheelchair",
@@ -5899,17 +5845,6 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "156778",
-      "name": "Fridge",
-      "description": "Good working condition. Extra Refrigerator due to house moving",
-      "location": "Balestier, Toa Payoh",
-      "validTill": "21 May 2026",
-      "ageInYears": 4,
-      "dimensions": "79cm x 68cm x 178cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "156662",
       "name": "Desk fan",
       "description": "Fan can still work but cannot swivel. \nSelf collect at my HDB block.",
@@ -6018,6 +5953,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "156793",
+      "name": "1 plus 4 Dining set",
+      "description": "The whole dining table is in tip top condition. There are 4 chairs (1 chairs fabric slightly torn) dining set from CELINI",
+      "location": "Seletar, Yio Chu Kang",
+      "validTill": "15 Jun 2026",
+      "ageInYears": 4,
+      "dimensions": "180/90/75",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "156780",
@@ -6394,6 +6340,17 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "156794",
+      "name": "Baby Bjorn Bouncer Bliss Mesh",
+      "description": "Item was purchased in 2018 but still in very good condition. Includes a travel bag and an additional seat cover.\n\nSpecifications:\nWeight Capicity: 3.5 kg to 13 kg\nSuitable From: birth to 2 years\nProduct Weight: 2.1 kg\nDimensions (open) : 56 x 79 x 39 cm\nDimensions (folded): 11 x 89 x 39 cm",
+      "location": null,
+      "validTill": "13 Jun 2026",
+      "ageInYears": 4,
+      "dimensions": "Dimensions (folded): 11 x 89 x 39 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
       "id": "156748",
       "name": "Baby and toddler toys",
       "description": "Baby and toddler toys - cloth books, musical instrument, teething etc. all in good condition",
@@ -6535,6 +6492,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Kitchen Utility Items"
+    },
+    {
+      "id": "156795",
+      "name": "Horrible Science books",
+      "description": "Horrible Science series. Simple readers for primary school students. Unfortunately, books are yellowed due to storage.",
+      "location": "Punggol",
+      "validTill": "13 Jun 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Leisure and Healthy Lifestyle"
     },
     {
       "id": "156164",
@@ -6755,6 +6723,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "156796",
+      "name": "Minecraft books",
+      "description": "Minecraft books for primary school students. Unfortunately, books are yellowed due to storage.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "13 Jun 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "156788",
