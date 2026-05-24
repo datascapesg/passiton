@@ -1261,23 +1261,6 @@
       "date": "22 May 2026"
     },
     {
-      "id": "157102",
-      "category": "Electrical Home Appliances",
-      "name": "Fan",
-      "description": "Single mother with a school-going son recently transitioned from Transitional Shelter to a HDB rental flat in Sembawang following divorce proceedings. Client is currently unemployed and actively seeking employment. Family requires essential household items (e.g. refrigerator, washing machine, fan, furniture) as the flat is currently unfurnished and they are unable to move in fully.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Toa Payoh",
-        "name": "Vienne Chiam",
-        "email": "viennechiam@carecorner.org.sg",
-        "phone": [
-          "63561622"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "22 May 2026"
-    },
-    {
       "id": "157099",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -4386,24 +4369,6 @@
       "date": "25 Apr 2026"
     },
     {
-      "id": "156200",
-      "category": "Others",
-      "name": "Adult TENA Diaper PANTS (size M)",
-      "description": "Client is a Stage 4 Colon Cancer patient, of poor prognosis, who due to his diagnosis and treatment is now incontinent. Client uses up at least a bundle of diaper a day and the family is struggling financially to provide for client's needs. Client also has a daughter who is a cancer patient who he has to care for.",
-      "specifications": "Size M",
-      "contact": {
-        "org": "AIN Society",
-        "name": "Nurul Huda Maarop",
-        "email": "nurulhuda@ainsociety.org.sg",
-        "phone": [
-          "68486033",
-          "68485166"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Apr 2026"
-    },
-    {
       "id": "156182",
       "category": "Others",
       "name": "Lactogen Stage 1 Milk Powder",
@@ -5248,6 +5213,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
+    },
+    {
+      "id": "157133",
+      "name": "40\" Television",
+      "description": "40\" LED TV without Digital Receiver, thus cannot receive over the air channel. HDMI works very well. Will deliver to centre.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "30 May 2026",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
     },
     {
       "id": "157126",
@@ -6106,6 +6082,50 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Leisure and Healthy Lifestyle"
+    },
+    {
+      "id": "157137",
+      "name": "Sterile Cotton Balls",
+      "description": "18 packs of cotton balls.",
+      "location": null,
+      "validTill": "23 Jun 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
+    },
+    {
+      "id": "157136",
+      "name": "Sodium Chloride 0.9%",
+      "description": "Saline solution for dressing of wounds.\n\n2 x 1000ml bottle\n22 x 20ml",
+      "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+      "validTill": "23 Jun 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
+    },
+    {
+      "id": "157135",
+      "name": "Adult diapers (L size)",
+      "description": "2pcs Tena diapers (L, 114cm - 147cm)\n3pcs  Pureen Inco diapers (L, 102cm - 142cm)",
+      "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+      "validTill": "23 Jun 2026",
+      "ageInYears": 1,
+      "dimensions": "L size",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
+    },
+    {
+      "id": "157134",
+      "name": "Underpads",
+      "description": "Cosmo Med 43cm x 60cm underpads (2 opened, 1 unopened packs) and misc. underpads(dimensions unsure) for donation.",
+      "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+      "validTill": "23 Jun 2026",
+      "ageInYears": 1,
+      "dimensions": "43cm x 60cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
     },
     {
       "id": "157128",
