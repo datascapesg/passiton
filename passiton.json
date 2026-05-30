@@ -36,24 +36,6 @@
       "date": "29 May 2026"
     },
     {
-      "id": "156093",
-      "category": "Infant and Children Items",
-      "name": "Mamypoko Tape XL",
-      "description": "Family of 6. 2 children with special needs and Husband is sole-bread winner. Family is under financial stress with outstanding debts. Family needs to spend on bills, rent and food, making it hard to pay for diapers and milk.",
-      "specifications": "4 pax",
-      "contact": {
-        "org": "THK Family Service Centre @ Bukit Panjang",
-        "name": "Muhammad Idris Bin Mohd Margono",
-        "email": "idris.margono@thkmc.org.sg",
-        "phone": [
-          "87145182",
-          "67671740"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 May 2026"
-    },
-    {
       "id": "157309",
       "category": "Infant and Children Items",
       "name": "Diapers",
@@ -5588,6 +5570,17 @@
   ],
   "offers": [
     {
+      "id": "157332",
+      "name": "Shoes",
+      "description": "Male short boots and formal black leather shoes. Both good condition. Value need :400 usd",
+      "location": null,
+      "validTill": "29 Jun 2026",
+      "ageInYears": 4,
+      "dimensions": "42 european",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Attires/Clothings"
+    },
+    {
       "id": "156760",
       "name": "Men's batik shirt",
       "description": "Lightly worn",
@@ -5696,6 +5689,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "157331",
+      "name": "Queen size M",
+      "description": "IKEA Malm series bed with storage. Queen size. Professionally disassembled and packed. With a mattress bought in the US Excellent condition. Donating only for lack of space.",
+      "location": null,
+      "validTill": "29 Jun 2026",
+      "ageInYears": 4,
+      "dimensions": "Queen",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "157330",
+      "name": "Blue IKEA Sofa Bed (3 seater)",
+      "description": "Great condition 3 seater dark blue IKEA sofa bed. Turns into a queen size bed. Bed side when folded open: 199cm x 144cm. Has storage area under the sofa. Very comfortable",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "20 Jun 2026",
+      "ageInYears": 3,
+      "dimensions": "225x105x86",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "157324",
