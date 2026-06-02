@@ -77,6 +77,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "157392",
+    "name": "10kg washing machine",
+    "description": "More than  4 years old but still fully functional. 10 kg load so it will be good for family with a number of children.\nCan collect for delivery on 12 or 13 June.",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "13 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": "64cm x 58cm x 95cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "157345",
     "name": "Wireless Mouse (1600 DPI) – Brand New in Box",
     "description": "Slim and lightweight wireless mouse, perfect for work, study, and everyday use.\n\nFeatures: 1. Up to 1600 DPI for smooth tracking, 2. Wireless range up to 10m, 3. Ergonomic design for comfortable use, 4. Compatible with Windows, MacOS and other USB A-enabled devices, 5. Plug-and-play with wireless receiver.\n\nCondition: New in box",
@@ -84,17 +95,6 @@
     "validTill": "12 Jun 2026",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "157323",
-    "name": "Rice cooker",
-    "description": "I have spare new rice cooker to donate",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "28 Jun 2026",
-    "ageInYears": 2,
-    "dimensions": "Nil",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -121,20 +121,20 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "157373",
-    "name": "Set of nightstand/ bedside drawers",
-    "description": "Two bedside tables. Functional.",
-    "location": "Cairnhill, Killiney, Orchard, River Valley",
-    "validTill": "05 Jun 2026",
+    "id": "157393",
+    "name": "wardrobe",
+    "description": "White wooden cupboard with mirror inside, shelves and hanging rack.",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "13 Jun 2026",
     "ageInYears": 4,
-    "dimensions": null,
+    "dimensions": "116cm x 56cm x 194cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
   {
-    "id": "157371",
-    "name": "Seahorse single mattress",
-    "description": "Seahorse firm mattress. In good condition.",
+    "id": "157373",
+    "name": "Set of nightstand/ bedside drawers",
+    "description": "Two bedside tables. Functional.",
     "location": "Cairnhill, Killiney, Orchard, River Valley",
     "validTill": "05 Jun 2026",
     "ageInYears": 4,
@@ -286,6 +286,17 @@
     "category": "Home Furnishing"
   },
   {
+    "id": "157374",
+    "name": "Queen size M",
+    "description": "IKEA Malm series bed with storage. Queen size. Professionally disassembled and packed. With a mattress bought in the US Excellent condition. Donating only for lack of space.",
+    "location": null,
+    "validTill": "29 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": "Queen",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "157324",
     "name": "Shoe storage boxes",
     "description": "I have 8 pcs of this shoe storage boxes to donate. All are in good conditions. Note that they required to assembly",
@@ -370,17 +381,6 @@
     "validTill": "14 Jun 2026",
     "ageInYears": 2,
     "dimensions": "99x44x95 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "157368",
-    "name": "Ikea wardrobe with drawers",
-    "description": "Ikea wardrobe with hanging bars, drawers and a pull out mirror.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "12 Jun 2026",
-    "ageInYears": 4,
-    "dimensions": "200cm width by 66 cm depth by 203cm height",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -1010,6 +1010,17 @@
     "dimensions": "for legs: 50cm x 60cm x 15cm, for back: 50cm X 50cm x 50cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "157383",
+    "name": "Hospital bed",
+    "description": "Hospital bed in good working condition.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "02 Jul 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "157349",
