@@ -1,24 +1,6 @@
 {
   "requests": [
     {
-      "id": "157742",
-      "category": "Home Furnishing",
-      "name": "Single-bed metal bedframe",
-      "description": "Client needs assistance in furnishing her HDB rental unit with essential furniture such as bed frame",
-      "specifications": null,
-      "contact": {
-        "org": "Marymount Centre - Good Shepherd Centre",
-        "name": "Fiona Kang Wan Qi",
-        "email": "fiona_kang@marymountctr.org.sg",
-        "phone": [
-          "67559705",
-          "67556496"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Jun 2026"
-    },
-    {
       "id": "157741",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -3153,24 +3135,6 @@
       "date": "12 Jun 2026"
     },
     {
-      "id": "157743",
-      "category": "Electrical Home Appliances",
-      "name": "Top Load Washing Machine",
-      "description": "The applicant is a single mother and sole breadwinner caring for two school-going children. The family resides in a rental flat and has been facing difficulties since their washing machine broke down, as the mother struggles to manage the household laundry needs while bearing the added financial burden of external laundry services. A replacement washing machine would greatly ease the family's daily household responsibilities.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Tampines, Punggol  &amp; Pasir Ris",
-        "name": "Tan Yi Ping",
-        "email": "tan_yi_ping@msf.gov.sg",
-        "phone": [
-          "60138796",
-          "64244017"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Jun 2026"
-    },
-    {
       "id": "157738",
       "category": "Electrical Home Appliances",
       "name": "Television",
@@ -4101,24 +4065,6 @@
       "date": "08 Jun 2026"
     },
     {
-      "id": "157539",
-      "category": "Learning Aids",
-      "name": "Laptop",
-      "description": "Family has 3 school-going children. Their second child is in need of a working laptop to help with his school work. Family faces financial constraints as mother is certified unfit for work and father is the sole breadwinner earning a low wage as a cleaner.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Champions Way",
-        "name": "Eileen Yong",
-        "email": "eileenyong@fycs.org",
-        "phone": [
-          "669010005",
-          "66901000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Jun 2026"
-    },
-    {
       "id": "157144",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -4637,6 +4583,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "157762",
+      "name": "Computer Monitor (27 inch)",
+      "description": "Computer monitor with stand (table clamp) as shown in picture. In good working condition",
+      "location": null,
+      "validTill": "13 Jul 2026",
+      "ageInYears": 3,
+      "dimensions": "27 inch computer monitor",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "157679",
       "name": "Electric Home Appliances",
       "description": "Self collection for the entire 4 items",
@@ -4701,6 +4658,17 @@
       "dimensions": "H 4ft X L 3ftx W 2.5ft",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "157763",
+      "name": "Wall mounted mirror",
+      "description": "Wall mounted mirror in good condition",
+      "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+      "validTill": "13 Jul 2026",
+      "ageInYears": 4,
+      "dimensions": "166cm x 76cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "157760",
