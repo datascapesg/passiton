@@ -11,6 +11,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "158002",
+    "name": "Washing Machine",
+    "description": "Self-collect",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "26 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "157976",
     "name": "Vacuum cleaner with accessories",
     "description": "Vacuum cleaner (bagless) with accessories",
@@ -86,6 +97,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "158001",
+    "name": "Single Seat Sofa",
+    "description": "Self-collect",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "26 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "158000",
+    "name": "Display Cabinets",
+    "description": "Self-collect",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "26 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "157998",
@@ -1021,6 +1054,39 @@
     "dimensions": "L215cm x W101cm x H88cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "158005",
+    "name": "Air Sterilisers",
+    "description": "Self-collect",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "26 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "158004",
+    "name": "Cabinets",
+    "description": "Self-collect",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "26 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
+  },
+  {
+    "id": "158003",
+    "name": "Cabinets",
+    "description": "Self-collect",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "26 Jun 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "157999",
