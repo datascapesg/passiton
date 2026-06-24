@@ -1058,6 +1058,60 @@
       "date": "25 May 2026"
     },
     {
+      "id": "158123",
+      "category": "Home Furnishing",
+      "name": "Double Decker Bedframe",
+      "description": "Client is a single mother with children aged between 1, 3 and 12. She is employed as a part timer while managing her responsibilities as a single mother with limited support. She is juggling work, childcare, and financial constraints while also dealing with her own mental health issues.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+        "name": "Dishalani D/O Anbanathan",
+        "email": "dishalani@allkin.org.sg",
+        "phone": [
+          "60384135",
+          "60384100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Jun 2026"
+    },
+    {
+      "id": "158122",
+      "category": "Home Furnishing",
+      "name": "Queen size bedframe",
+      "description": "Client is a single mother with children aged between 1, 3 and 12. She is employed as a part timer while managing her responsibilities as a single mother with limited support. She is juggling work, childcare, and financial constraints while also dealing with her own mental health issues.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+        "name": "Dishalani D/O Anbanathan",
+        "email": "dishalani@allkin.org.sg",
+        "phone": [
+          "60384135",
+          "60384100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Jun 2026"
+    },
+    {
+      "id": "158120",
+      "category": "Home Furnishing",
+      "name": "Mattress",
+      "description": "Client is diagnosed with Gastric Lymphoma, undergoing treatment. The 7-pax household, client, spouse and 5 children, lives in a 2-room rental flat, with no active income. The family hopes for a queen-sized mattress to allow all of them to sleep comfortably as currently there is only 1 bed in the house.",
+      "specifications": null,
+      "contact": {
+        "org": "AIN Society",
+        "name": "Nurul Huda Maarop",
+        "email": "nurulhuda@ainsociety.org.sg",
+        "phone": [
+          "68486033",
+          "68485166"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Jun 2026"
+    },
+    {
       "id": "158091",
       "category": "Home Furnishing",
       "name": "Small table",
@@ -4602,22 +4656,40 @@
       "date": "08 Jun 2026"
     },
     {
-      "id": "158105",
+      "id": "158125",
       "category": "Medical Aids",
-      "name": "(Kotex) Kotex Overnight Panties (M-L Size) - 5 packets (2 pieces each pack)",
-      "description": "Client is a single mother and the main caregiver of a 10-year-old daughter and elderly mother.The daughter has a medical condition that causes heavy and prolonged menstrual bleeding.",
-      "specifications": "-",
+      "name": "Blood pressure monitor",
+      "description": "Client is an elderly lady living alone with limited social support and an estranged relationship with her family. She is currently on Public Assistance and has been assessed to be permanently unfit for work due to multiple chronic medical conditions. She will benefit from a blood glucose meter and blood pressure monitor to regularly monitor her health conditions at home, supporting her ongoing health management and overall well-being.",
+      "specifications": null,
       "contact": {
-        "org": "Allkin Family Service Centre @ Cheng San 445",
-        "name": "Frank Lye Wei Bin",
-        "email": "franklye@allkin.org.sg",
+        "org": "Fei Yue Family Services SSO @ Taman Jurong",
+        "name": "Rachel Kong",
+        "email": "rachelkong@fycs.org",
         "phone": [
-          "60384117",
-          "60384120"
+          "69783108",
+          "62672900"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "23 Jun 2026"
+      "date": "24 Jun 2026"
+    },
+    {
+      "id": "158124",
+      "category": "Medical Aids",
+      "name": "Blood glucose meter",
+      "description": "Client is an elderly lady living alone with limited social support and an estranged relationship with her family. She is currently on Public Assistance and has been assessed to be permanently unfit for work due to multiple chronic medical conditions. She will benefit from a blood glucose meter and blood pressure monitor to regularly monitor her health conditions at home, supporting her ongoing health management and overall well-being.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services SSO @ Taman Jurong",
+        "name": "Rachel Kong",
+        "email": "rachelkong@fycs.org",
+        "phone": [
+          "69783108",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Jun 2026"
     },
     {
       "id": "158104",
@@ -5295,17 +5367,6 @@
       "category": "Infant and Children Items"
     },
     {
-      "id": "158116",
-      "name": "Huggies Baby Wipes",
-      "description": "Huggies Pure Clean Baby Wipes 12 packets",
-      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-      "validTill": "23 Jul 2026",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
       "id": "158115",
       "name": "Drypers SuperDry Size M Diapers",
       "description": "I have 4 packets of Dryers Superdry M Size.",
@@ -5348,6 +5409,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
+    },
+    {
+      "id": "158121",
+      "name": "Porcelain bowls and plates and glass mugs",
+      "description": "Brand new plates and bowls and gently used glasses available.",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "01 Jul 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Kitchen Utility Items"
     },
     {
       "id": "158113",
@@ -5509,17 +5581,6 @@
       "description": "na",
       "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
       "validTill": "13 Jul 2026",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
-      "id": "157708",
-      "name": "Pressure relief mattress",
-      "description": "In good working condition",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "30 Jun 2026",
       "ageInYears": 1,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
@@ -5752,17 +5813,6 @@
       "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
       "validTill": "23 Jul 2026",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Others"
-    },
-    {
-      "id": "158057",
-      "name": "Monitor",
-      "description": "DELL Monitor",
-      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-      "validTill": "01 Jul 2026",
-      "ageInYears": 3,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Others"
