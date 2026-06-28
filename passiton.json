@@ -2188,42 +2188,6 @@
       "date": "04 Jun 2026"
     },
     {
-      "id": "158228",
-      "category": "Home Furnishing",
-      "name": "Bed",
-      "description": "single mother family, looking to replace worn furniture for young child and mother",
-      "specifications": "Queen Sized/Pull Out",
-      "contact": {
-        "org": "Fei Yue Community Services - HEART @ Fei Yue",
-        "name": "Hana Tyebally",
-        "email": "hanatyebally@fycs.org",
-        "phone": [
-          "65138719",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Jun 2026"
-    },
-    {
-      "id": "158225",
-      "category": "Home Furnishing",
-      "name": "Wardrobe",
-      "description": "single mother family, looking to replace worn furniture for young child",
-      "specifications": "below 170cm",
-      "contact": {
-        "org": "Fei Yue Community Services - HEART @ Fei Yue",
-        "name": "Hana Tyebally",
-        "email": "hanatyebally@fycs.org",
-        "phone": [
-          "65138719",
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "26 Jun 2026"
-    },
-    {
       "id": "158194",
       "category": "Home Furnishing",
       "name": "Wardrobe/Cabinet for Clothes",
@@ -2355,23 +2319,6 @@
         "email": "powoeiyee@sfsc.org.sg",
         "phone": [
           "67547050"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Jun 2026"
-    },
-    {
-      "id": "158134",
-      "category": "Home Furnishing",
-      "name": "Single Size Mattress",
-      "description": "Seeking donation of a single-size mattress for an elderly client living alone. His current mattress is very old and has become thin after years of use, leaving him with little support and comfort during rest. Any donation of a clean, usable mattress would be greatly appreciated. Delivery assistance would be helpful as client has mobility difficulties.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Cluster Support @ Geylang",
-        "name": "Nur Sabrina Binte Sanizal",
-        "email": "nur.sabrina@thkmc.org.sg",
-        "phone": [
-          "68461228"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3871,6 +3818,17 @@
       "category": "Attires/Clothings"
     },
     {
+      "id": "158246",
+      "name": "Canon inkjet printer",
+      "description": "Canon inkjet printer",
+      "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+      "validTill": "28 Jul 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "158239",
       "name": "Samsung Topload Washing Machine",
       "description": "Used for 6 years. In good condition, still functioning",
@@ -4463,6 +4421,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Learning Aids"
+    },
+    {
+      "id": "158245",
+      "name": "adult diapers",
+      "description": "unused 12 pieces available",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "28 Jul 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
     },
     {
       "id": "158202",
