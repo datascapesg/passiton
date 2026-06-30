@@ -168,7 +168,7 @@
     "id": "158205",
     "name": "Armchair",
     "description": "Comfortable armchair in green velvet fabric\nLightly used and well maintained.",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "location": "Singapore",
     "validTill": "03 Jul 2026",
     "ageInYears": 2,
     "dimensions": null,
@@ -264,28 +264,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "158256",
-    "name": "Mattress Queen Size",
-    "description": "Zinus mattress with iCoil pocketed springs\nUsed about 2 years plus\nNo stains and generally in good condition\nFrom non-smoking and no pet household",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "15 Jul 2026",
-    "ageInYears": 2,
-    "dimensions": "190cm x 152cm x 26cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "157935",
-    "name": "Circular table 60cm width 70cm heigh",
-    "description": "Lightly used dining table that fits a smaller space well. In good condition. Wooden top. Metal base with detail.",
-    "location": "Braddell , Macpherson, Potong Pasir",
-    "validTill": "19 Jul 2026",
-    "ageInYears": 2,
-    "dimensions": "60cm across, 70cm height",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "157928",
     "name": "Eames Style Lounge Chair & Ottoman",
     "description": "Eames-style lounge chair with matching ottoman. Structurally usable but upholstery is heavily peeling and will require restoration. Would appreciate if any beneficiary, refurbisher, or upcycling partner could make use of it. Self-collection from landed property.",
@@ -361,6 +339,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "158300",
+    "name": "Maclaren Baby Stroller",
+    "description": "Foldable Stroller, can fit in regular sedan car boot. If VWO is is in west/central area I can send over directly",
+    "location": "Boon Lay, Jurong, Tuas",
+    "validTill": "30 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "158252",
@@ -495,6 +484,28 @@
     "category": "Leisure and Healthy Lifestyle"
   },
   {
+    "id": "158298",
+    "name": "Calculator Casio FC-100V",
+    "description": "///",
+    "location": null,
+    "validTill": "30 Jul 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Learning Aids"
+  },
+  {
+    "id": "158297",
+    "name": "Eraser debris vacuum",
+    "description": "///",
+    "location": null,
+    "validTill": "30 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Learning Aids"
+  },
+  {
     "id": "157823",
     "name": "Left brain training materials",
     "description": "Left brain training materials in Chinese and random toys",
@@ -510,7 +521,7 @@
     "name": "Electric hospital bed",
     "description": "Electric hospital bed",
     "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "15 Jul 2026",
+    "validTill": "31 Jul 2026",
     "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -524,17 +535,6 @@
     "validTill": "28 Jul 2026",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "158202",
-    "name": "Hospital Bed",
-    "description": "Brand new, as is used for 2 weeks.",
-    "location": null,
-    "validTill": "26 Jul 2026",
-    "ageInYears": 1,
-    "dimensions": "Bed size (L × B × H): ≈ 210 cm × 100 cm × 50 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
   },
@@ -817,7 +817,7 @@
     "id": "158248",
     "name": "Monitor",
     "description": "Dell Monitor",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "location": "Singapore",
     "validTill": "07 Jul 2026",
     "ageInYears": 3,
     "dimensions": null,
@@ -847,34 +847,12 @@
     "category": "Others"
   },
   {
-    "id": "158210",
-    "name": "office items",
-    "description": "office items",
-    "location": null,
-    "validTill": "02 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
     "id": "158209",
     "name": "office items",
     "description": "office items . please advise collection fee",
     "location": null,
     "validTill": "02 Jul 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
-  },
-  {
-    "id": "158208",
-    "name": "metal file cabinets",
-    "description": "office metal cabinets",
-    "location": null,
-    "validTill": "02 Jul 2026",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Others"
