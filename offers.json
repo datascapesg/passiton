@@ -44,17 +44,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "158722",
-    "name": "Smart TV",
-    "description": "Item can be collected ASAP. Good working condition smart TV.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "01 Aug 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "158721",
     "name": "Standing fan",
     "description": "Standing fan in good condition.",
@@ -209,6 +198,28 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "158739",
+    "name": "Dining table",
+    "description": "Dining table form IKEA. Six seater. In great condition.",
+    "location": null,
+    "validTill": "15 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": "L: 235 cm, W: 100cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "158734",
+    "name": "Tall shoe cabinet",
+    "description": "Tall shoe cabinet can fit many shoes for bigger families. Collection OK anytime ASAP.",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "01 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "158729",
     "name": "Shoe rack (excellent condition)",
     "description": "Not very heavily used shoe rack that has been kept in a room",
@@ -220,34 +231,12 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "158727",
-    "name": "Single bed frame & mattress",
-    "description": "Single sized bed frame and mattress. Only available from 1 Aug 2026.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "02 Aug 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "158726",
     "name": "Queen size bedframe & mattress",
     "description": "Item can be collected ASAP. Clean Queen sized bed frame & mattress.",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
     "validTill": "01 Aug 2026",
     "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "158723",
-    "name": "Computer study table",
-    "description": "Good condition computer / study table. Chair available too.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "01 Aug 2026",
-    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -913,12 +902,23 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "158707",
-    "name": "Stroller - Uppababy",
-    "description": "Used stroller in good condition - used by my daughter from birth to 4 years old",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "id": "158738",
+    "name": "Pampers Tape Diapers L Size 9-14kg",
+    "description": "3 unopened packets of Pampers premium diapers, manufactured 27/11/2024. \n\nCan deliver to Clementi, Bishan, Ang mo kio, Potong Pasir if needed",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
     "validTill": "12 Aug 2026",
     "ageInYears": 2,
+    "dimensions": "NA",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "158736",
+    "name": "Drypers Superdry Tape XL",
+    "description": "3 cartons of Drypers Superdry Tape - XL available.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "12 Aug 2026",
+    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
