@@ -969,24 +969,6 @@
       "date": "18 Jun 2026"
     },
     {
-      "id": "157875",
-      "category": "Electrical Home Appliances",
-      "name": "Fridge (Halal)",
-      "description": "Client staying alone in a purchased flat with a tenant. He has been diagnosed with brain damages due to high BP and possibly dementia. He is unemployed due to cognitive issues. Thus, is struggling with his basic needs.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Jurong",
-        "name": "Shree Ganga D/O Rajasagran",
-        "email": "ShreeGanga@thkmc.org.sg",
-        "phone": [
-          "88333080",
-          "67169466"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Jun 2026"
-    },
-    {
       "id": "158615",
       "category": "Medical Aids",
       "name": "CBG Monitoring Set (Blood glucose monitor)",
@@ -1271,23 +1253,6 @@
       "date": "23 Jun 2026"
     },
     {
-      "id": "158838",
-      "category": "Infant and Children Items",
-      "name": "Brand new baby cot",
-      "description": "Client is a single mother of five. She is currently serving her sentence under community supervision following a period of incarceration. She has been diagnosed with Stage 4 breast cancer, is receiving treatment at public hospitals, and is unable to work. She lives with three of her children, two of whom are attending school. Her youngest daughter gave birth earlier this year, and the family requires a baby cot for their granddaughter. Due to health and educational commitments, no family member is currently in stable employment.\n\nClient would require donor's help to arrange and cover delivery costs.",
-      "specifications": null,
-      "contact": {
-        "org": "MWS Covenant Family Service Centre – Hougang and Buangkok",
-        "name": "Reina Chantelle Reyes",
-        "email": "reinachantelle@mws.sg",
-        "phone": [
-          "62828558"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Jul 2026"
-    },
-    {
       "id": "156465",
       "category": "Infant and Children Items",
       "name": "Grow Toddler Stage 3",
@@ -1304,24 +1269,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "17 Jul 2026"
-    },
-    {
-      "id": "158828",
-      "category": "Infant and Children Items",
-      "name": "Breastpump",
-      "description": "The family consists of five members, including three young children. They recently had an addition of a baby girl into the household but are experiencing financial difficulties in purchasing a breastpump. The father is the sole breadwinner and faces significant financial strain as he supports both his family of origin and his immediate family's living expenses, limiting the household's ability to meet all of their needs comfortably.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Family Service Centre @ Champions Way",
-        "name": "Joanna Tay",
-        "email": "joannatay@fycs.org",
-        "phone": [
-          "66901029",
-          "66901000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "16 Jul 2026"
     },
     {
       "id": "158827",
@@ -3165,24 +3112,6 @@
       "date": "18 Jun 2026"
     },
     {
-      "id": "157847",
-      "category": "Home Furnishing",
-      "name": "Low Foldable Lounge Chair",
-      "description": "Senior client requires assistance in the replacement of the chair he uses due to the lack of additional financial resources. He would like to humbly request for a new piece due to health reasons.",
-      "specifications": "~32cm (height of seat), ~74cm (total height including back rest)",
-      "contact": {
-        "org": "AWWA Family Service Centre",
-        "name": "Loh Yun Yu",
-        "email": "yunyu_loh@awwa.org.sg",
-        "phone": [
-          "65119435",
-          "65119456"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Jun 2026"
-    },
-    {
       "id": "157719",
       "category": "Learning Aids",
       "name": "Lenovo IdeaPad Slim 5",
@@ -3406,6 +3335,78 @@
         "email": "hidayah@sccfsc.org.sg",
         "phone": [
           "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "18 Jun 2026"
+    },
+    {
+      "id": "158557",
+      "category": "Kitchen Utility Items",
+      "name": "Halal Blender",
+      "description": "For single mother moving out of halfway house",
+      "specifications": null,
+      "contact": {
+        "org": "New Life Stories Limited",
+        "name": "Radiant Chua",
+        "email": "radiant@newlifestories.org.sg",
+        "phone": [
+          "88761852",
+          "63867688"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "07 Jul 2026"
+    },
+    {
+      "id": "158409",
+      "category": "Kitchen Utility Items",
+      "name": "Thermal lunch box",
+      "description": "The sole caregiver of 4 children hopes to receive a thermal lunch box so that she can deliver home-cooked food that will stay warm, to her elderly mother living in a nursing home. Do reach out to Marilyn at 81214654 if you would like to make this purchase to support this family, thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "New Life Stories Limited",
+        "name": "Marilyn Heng",
+        "email": "marilyn@newlifestories.org.sg",
+        "phone": [
+          "81214654",
+          "63867688"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Jul 2026"
+    },
+    {
+      "id": "158377",
+      "category": "Kitchen Utility Items",
+      "name": "Halal Rice Cooker",
+      "description": "For single mother moving out of halfway house.",
+      "specifications": null,
+      "contact": {
+        "org": "New Life Stories Limited",
+        "name": "Radiant Chua",
+        "email": "radiant@newlifestories.org.sg",
+        "phone": [
+          "88761852",
+          "63867688"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Jul 2026"
+    },
+    {
+      "id": "157923",
+      "category": "Kitchen Utility Items",
+      "name": "mini cooker",
+      "description": "For single mother whom husband just passed away in April 2026",
+      "specifications": "Medium sized",
+      "contact": {
+        "org": "MSF Social Service Office @ Yishun",
+        "name": "Edwin Wee",
+        "email": "edwin_kh_wee@msf.gov.sg",
+        "phone": [
+          "62319460",
+          "18002220000"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -4104,132 +4105,6 @@
       "date": "23 Jun 2026"
     },
     {
-      "id": "157876",
-      "category": "Others",
-      "name": "Food rations & other miscellaneous",
-      "description": "Clt (F/42) diagnosed with borderline low IQ and disorganised schizophrenia. The family presents with multiple health concerns and is experiencing financial difficulty. Providing food rations and the requested items (e.g. aluminium trolley/sanitary pads) would provide for the family’s needs and enhance their overall well-being.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Jurong",
-        "name": "Shree Ganga D/O Rajasagran",
-        "email": "ShreeGanga@thkmc.org.sg",
-        "phone": [
-          "88333080",
-          "67169466"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Jun 2026"
-    },
-    {
-      "id": "157855",
-      "category": "Others",
-      "name": "Smartphone",
-      "description": "Client is a youth who has been isolating himself at home for a few years. He is keen to start working as a Grabfood rider to provide for himself and supplement household income as his single-mother and sole breadwinner for the family was retrenched last year.",
-      "specifications": "Any smartphone that has GPS function and can run the Grab app.",
-      "contact": {
-        "org": "Care Corner Family Service Centre - Admiralty",
-        "name": "Jeremy Cherng",
-        "email": "jeremycherng@carecorner.org.sg",
-        "phone": [
-          "65658751",
-          "63658751"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Jun 2026"
-    },
-    {
-      "id": "158803",
-      "category": "Kitchen Utility Items",
-      "name": "Electric Cooker",
-      "description": "Client has limited income and recently moved into a 1-room rental flat with a built in wall for an electric cooker. Client has difficulty affording one, seeking donations for an electric cooker.",
-      "specifications": "Any",
-      "contact": {
-        "org": "AWWA Family Service Centre",
-        "name": "Nur Hidayah Bte Sarifudin",
-        "email": "hidayah_sarifudin@awwa.org.sg",
-        "phone": [
-          "65119449",
-          "65119456"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "15 Jul 2026"
-    },
-    {
-      "id": "158557",
-      "category": "Kitchen Utility Items",
-      "name": "Halal Blender",
-      "description": "For single mother moving out of halfway house",
-      "specifications": null,
-      "contact": {
-        "org": "New Life Stories Limited",
-        "name": "Radiant Chua",
-        "email": "radiant@newlifestories.org.sg",
-        "phone": [
-          "88761852",
-          "63867688"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Jul 2026"
-    },
-    {
-      "id": "158409",
-      "category": "Kitchen Utility Items",
-      "name": "Thermal lunch box",
-      "description": "The sole caregiver of 4 children hopes to receive a thermal lunch box so that she can deliver home-cooked food that will stay warm, to her elderly mother living in a nursing home. Do reach out to Marilyn at 81214654 if you would like to make this purchase to support this family, thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "New Life Stories Limited",
-        "name": "Marilyn Heng",
-        "email": "marilyn@newlifestories.org.sg",
-        "phone": [
-          "81214654",
-          "63867688"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Jul 2026"
-    },
-    {
-      "id": "158377",
-      "category": "Kitchen Utility Items",
-      "name": "Halal Rice Cooker",
-      "description": "For single mother moving out of halfway house.",
-      "specifications": null,
-      "contact": {
-        "org": "New Life Stories Limited",
-        "name": "Radiant Chua",
-        "email": "radiant@newlifestories.org.sg",
-        "phone": [
-          "88761852",
-          "63867688"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "01 Jul 2026"
-    },
-    {
-      "id": "157923",
-      "category": "Kitchen Utility Items",
-      "name": "mini cooker",
-      "description": "For single mother whom husband just passed away in April 2026",
-      "specifications": "Medium sized",
-      "contact": {
-        "org": "MSF Social Service Office @ Yishun",
-        "name": "Edwin Wee",
-        "email": "edwin_kh_wee@msf.gov.sg",
-        "phone": [
-          "62319460",
-          "18002220000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Jun 2026"
-    },
-    {
       "id": "158816",
       "category": "Attires/Clothings",
       "name": "Men's clothing - size L",
@@ -4425,6 +4300,17 @@
     }
   ],
   "offers": [
+    {
+      "id": "158871",
+      "name": "2 door Fridge",
+      "description": "Pre-loved 2 door fridge (non halal), in working condition",
+      "location": "Boon Lay, Jurong, Tuas",
+      "validTill": "31 Jul 2026",
+      "ageInYears": 4,
+      "dimensions": "53 x 53 x 70",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
     {
       "id": "158858",
       "name": "Tommee Tippee Electric Steam Sterilizer",
@@ -4624,28 +4510,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "158651",
-      "name": "Dining table",
-      "description": "- 4-seater dining table with chairs\n- Fully white marble dining table",
-      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-      "validTill": "19 Jul 2026",
-      "ageInYears": 4,
-      "dimensions": "150 cmx90cmx74cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "158650",
-      "name": "Wooden table",
-      "description": "- Multi purpose study desk with drawer\n- Vintage looking\n- In good condition",
-      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-      "validTill": "19 Jul 2026",
-      "ageInYears": 3,
-      "dimensions": "90 cm x 54 cm x 90 cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "158648",
       "name": "Dining, Meeting Table",
       "description": "Sturdy, wooden lacquer. Metal legs",
@@ -4778,17 +4642,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "158433",
-      "name": "1.8m sintered stone dining table with 4 chairs",
-      "description": "- Table set with 4 chairs\n- Chair seat covers are removable and washable\n- Scuff marks on table and chair legs but not visible",
-      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-      "validTill": "19 Jul 2026",
-      "ageInYears": 4,
-      "dimensions": "180cm L x 75cm H x 80cm D",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "158393",
       "name": "White fabric sofa",
       "description": "Self collect only because we are a charity and have too many items to dispose.",
@@ -4850,17 +4703,6 @@
       "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
       "validTill": "23 Jul 2026",
       "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "157928",
-      "name": "Eames Style Lounge Chair & Ottoman",
-      "description": "Eames-style lounge chair with matching ottoman. Structurally usable but upholstery is heavily peeling and will require restoration. Would appreciate if any beneficiary, refurbisher, or upcycling partner could make use of it. Self-collection from landed property.",
-      "location": "Balestier, Toa Payoh",
-      "validTill": "19 Jul 2026",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
@@ -5009,17 +4851,6 @@
       "category": "Infant and Children Items"
     },
     {
-      "id": "157958",
-      "name": "Baby playpen",
-      "description": "Old playpen to donate.\nOnce open, it is difficult to close it back as the locking mechanism is old.",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "19 Jul 2026",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
       "id": "158700",
       "name": "Panasonic convection oven",
       "description": "Is a convection cum microwave oven",
@@ -5038,17 +4869,6 @@
       "validTill": "31 Jul 2026",
       "ageInYears": 4,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Leisure and Healthy Lifestyle"
-    },
-    {
-      "id": "157962",
-      "name": "OTO Row Bike RB-1000 Home Fitness Equipment",
-      "description": "Lightly used, well stored",
-      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-      "validTill": "19 Jul 2026",
-      "ageInYears": 3,
-      "dimensions": "100 (L) x 56 (W) x 118 (H) CM",
       "deliveryCostsCoveredByDonor": true,
       "category": "Leisure and Healthy Lifestyle"
     },
