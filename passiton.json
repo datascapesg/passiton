@@ -298,24 +298,6 @@
       "date": "14 Jul 2026"
     },
     {
-      "id": "158758",
-      "category": "Electrical Home Appliances",
-      "name": "Rice cooker",
-      "description": "Family of three, comprising a single mother and her two school-going children. The mother has set up a home-based bakery business to supplement the family's income and is working hard towards clearing their outstanding debts. However, her rice cooker has recently broken down and she is unable to afford a replacement. Family would appreciate donation of a rice cooker to support the home-based business. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Toa Payoh",
-        "name": "Regina Pua",
-        "email": "regina_pua@msf.gov.sg",
-        "phone": [
-          "67367647",
-          "67157503"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Jul 2026"
-    },
-    {
       "id": "158753",
       "category": "Electrical Home Appliances",
       "name": "Front Load washing machine 10kg",
@@ -1531,23 +1513,6 @@
         "phone": [
           "65115650",
           "65115621"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "14 Jul 2026"
-    },
-    {
-      "id": "158772",
-      "category": "Infant and Children Items",
-      "name": "Baby swaddle and breast pump",
-      "description": "Single mother is expecting a newborn and requires support with essential baby items, including swaddles and a breast pump, to prepare for the baby's arrival. As she is managing the pregnancy on her own, assistance with these necessities would help reduce the financial burden and ensure she is adequately prepared to care for her newborn.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Sarah Samsol",
-        "email": "sarahsamsol@carecorner.org.sg",
-        "phone": [
-          "64761481"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3731,23 +3696,6 @@
       "date": "09 Jul 2026"
     },
     {
-      "id": "158626",
-      "category": "Others",
-      "name": "Groceries support",
-      "description": "This is a family of 8 people residing in the household; 5 children and 3 adults. As maternal grandmother is currently the main caregiver for the children. Maternal grandmother will require temporary support for groceries while waiting for financial assistance to be approve. Please whatsapp me at 8907 8297 for more details. thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Community Services - HEART @ Fei Yue",
-        "name": "Bernice  Chai",
-        "email": "bernicechai@fycs.org",
-        "phone": [
-          "68199170"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Jul 2026"
-    },
-    {
       "id": "158579",
       "category": "Others",
       "name": "Adult Diapers (XL)",
@@ -4952,6 +4900,28 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "158867",
+      "name": "Breastfeeding Nursing Pillow",
+      "description": "Preloved My Breast Friend Breastfeeding Nursing Pillow\nCover washed & dried\nLike new condition",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "17 Aug 2026",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "158866",
+      "name": "Baby Swaddles",
+      "description": "Preloved baby swaddles\nWashed, dried and kept in zip lock bag",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "17 Aug 2026",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
       "id": "158736",
       "name": "Drypers Superdry Tape XL",
       "description": "3 cartons of Drypers Superdry Tape - XL available.",
@@ -5137,6 +5107,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Learning Aids"
+    },
+    {
+      "id": "158868",
+      "name": "Hospital motorized bed",
+      "description": "2-crank electrical hospital bed",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "17 Aug 2026",
+      "ageInYears": 3,
+      "dimensions": "212x109x51cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
     },
     {
       "id": "158843",
