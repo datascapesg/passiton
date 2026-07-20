@@ -1,5 +1,16 @@
 [
   {
+    "id": "158906",
+    "name": "Standing fan",
+    "description": "Good condition with remote",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "31 Jul 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "158900",
     "name": "Standing mirror",
     "description": "Free standing lamp from Ikea in good condition.",
@@ -7,17 +18,6 @@
     "validTill": "27 Jul 2026",
     "ageInYears": 2,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
-    "id": "158871",
-    "name": "2 door Fridge",
-    "description": "Pre-loved 2 door fridge (non halal), in working condition",
-    "location": "Boon Lay, Jurong, Tuas",
-    "validTill": "31 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": "53 x 53 x 70",
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
   },
@@ -168,7 +168,7 @@
     "id": "158859",
     "name": "folding bed and thin mattress",
     "description": "metal folding bed with wheels. old but no rust and it opens. not broken, rarely used. no missing parts. thin (5cm) mattress included. mattress has slight stains from sun. no bed linen.",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "location": "Bedok",
     "validTill": "16 Aug 2026",
     "ageInYears": 4,
     "dimensions": "1.3x1.3x0.2 m",
@@ -403,17 +403,6 @@
     "validTill": "02 Aug 2026",
     "ageInYears": 4,
     "dimensions": "140cm long, 76cm wide, 65cm tall",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "158393",
-    "name": "White fabric sofa",
-    "description": "Self collect only because we are a charity and have too many items to dispose.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "31 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -836,17 +825,6 @@
     "category": "Medical Aids"
   },
   {
-    "id": "158162",
-    "name": "Diben Vanilla (200ml) - 5 bottles",
-    "description": "Diben Vanilla (200ml) - 5 bottles\n\nPls arrange for self-pick up at NCCS Building",
-    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-    "validTill": "25 Jul 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
     "id": "158034",
     "name": "Pleur-x Drainage Kit with 1L bottle",
     "description": "7 sets of these bottles to give away, with 1 set expiring on Feb 2027.\npreferably to self collect, arrangement can be made.",
@@ -944,6 +922,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "158911",
+    "name": "Gym/exercise mat",
+    "description": "PVC blue gym/exercise mat",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "19 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "158854",
