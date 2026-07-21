@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "159025",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "A washing machine is required at one of our centres to clean programme materials and equipment used by our beneficiaries. Having this essential appliance will enable staff to maintain high standards of cleanliness and hygiene, providing a safe and welcoming environment for our clients.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Red Cross Society",
+        "name": "Noor Fathullah Bin Mazlan",
+        "email": "casework@redcross.sg",
+        "phone": [
+          "96398415",
+          "66640500"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Jul 2026"
+    },
+    {
       "id": "158991",
       "category": "Electrical Home Appliances",
       "name": "TV",
@@ -351,23 +369,6 @@
         "phone": [
           "63519525",
           "65690381"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Jul 2026"
-    },
-    {
-      "id": "158912",
-      "category": "Electrical Home Appliances",
-      "name": "Household Appliances for Family Affected by Fire",
-      "description": "We seek your kind support for a single-mother family with one school-going child who recently lost their home and belongings in a fire. The family has since been allocated a new rental flat and is in the process of rebuilding their home from scratch. We would greatly appreciate donations of essential household items, particularly a refrigerator, washing machine, and other basic electrical appliances (e.g. rice cooker, electric fan, microwave, kettle), to help the family regain stability and resume their daily routines. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Muhammamd Farhan Bin Abdul Rahman",
-        "email": "muhdfarhan.abdrahman@ppis.sg",
-        "phone": [
-          "65613462"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1320,6 +1321,40 @@
       "date": "22 Jun 2026"
     },
     {
+      "id": "159023",
+      "category": "Medical Aids",
+      "name": "Adult Underpads",
+      "description": "Elderly client is requesting for Adult Underpads. Due to his medical condition, he requires assistance with his daily care needs and the use of adult underpads to maintain his personal hygiene. As he is unable to work and support himself financially due to his health condition, he requires support for his essential daily necessities.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Norlizawati Binte Hamid",
+        "email": "norlizawati@thkmc.org.sg",
+        "phone": [
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Jul 2026"
+    },
+    {
+      "id": "159020",
+      "category": "Medical Aids",
+      "name": "Adult Diapers (Pull-ip Pants)",
+      "description": "Elderly client is requesting for Adult Diapers (Pull-up Pants, M Size, Dr. P Brand). Due to his medical condition, he requires assistance with his daily care needs and the use of adult diapers to maintain his personal hygiene. As he is unable to work and support himself financially due to his health condition, he requires support for his essential daily necessities.",
+      "specifications": "Brand: Dr.P Size: M",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Norlizawati Binte Hamid",
+        "email": "norlizawati@thkmc.org.sg",
+        "phone": [
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Jul 2026"
+    },
+    {
       "id": "159010",
       "category": "Medical Aids",
       "name": "Tena Diapers (Size M)",
@@ -1462,24 +1497,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "21 Jul 2026"
-    },
-    {
-      "id": "158934",
-      "category": "Medical Aids",
-      "name": "Home Blood Pressure Monitor",
-      "description": "Client (F/64) lives alone and has limited financial resources. She has been unemployed since 2014 due to asthma. Client reported ongoing depression and a chronic skin condition since 2017, with no significant improvement despite ongoing medical treatment. Financial difficulties have affected her ability to purchase essential items, indicating ongoing unmet basic needs and vulnerability. (JM)",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Low Kim Yong",
-        "email": "lowkimyong@thkmc.org.sg",
-        "phone": [
-          "81883314",
-          "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Jul 2026"
     },
     {
       "id": "158933",
@@ -1783,6 +1800,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "23 Jun 2026"
+    },
+    {
+      "id": "159016",
+      "category": "Infant and Children Items",
+      "name": "Newborn diaper Size S or M",
+      "description": "Low income family is facing financial strain and require diapers for their 3 month old. Baby is able to wear tape diapers size S or M. Direct delivery to their home in Buona Vista is appreciated!",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Fitrah Nabilah",
+        "email": "fitrahnabilah@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Jul 2026"
     },
     {
       "id": "148185",
@@ -4430,6 +4464,23 @@
       "date": "23 Jun 2026"
     },
     {
+      "id": "159019",
+      "category": "Others",
+      "name": "Handphone (Android)",
+      "description": "Low income family needs to replace mum's phone as its display screen is damaged and difficult to use. Direct delivery to our centre or their home in Commonwealth is appreciated!",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Fitrah Nabilah",
+        "email": "fitrahnabilah@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Jul 2026"
+    },
+    {
       "id": "158987",
       "category": "Others",
       "name": "Mobile Phone",
@@ -5370,24 +5421,6 @@
       "date": "21 Jul 2026"
     },
     {
-      "id": "158882",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "Client is a stroke patient living alone with no caregiver and needs a wheelchair for medical escort services to bring him out for his medical appointments.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Singapore- Senior Service",
-        "name": "Kei Ng",
-        "email": "ngkhuankungkei@allkin.org.sg",
-        "phone": [
-          "60384367",
-          "64510898"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Jul 2026"
-    },
-    {
       "id": "158819",
       "category": "Mobility Aids",
       "name": "Walking frame with two front wheels",
@@ -5548,6 +5581,23 @@
       "date": "01 Jul 2026"
     },
     {
+      "id": "159021",
+      "category": "Leisure and Healthy Lifestyle",
+      "name": "Adult Bicycle",
+      "description": "A single father is requesting support for an adult bicycle. He is the sole breadwinner of the family and has one young school-going child. He relies heavily on his bicycle as his primary mode of transportation to and from work. Recently, he was involved in a road accident, and his bicycle was severely damaged and is no longer usable. Due to his low income and financial commitments in supporting his children's daily needs and education, he is unable to afford a replacement bicycle.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Norlizawati Binte Hamid",
+        "email": "norlizawati@thkmc.org.sg",
+        "phone": [
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "21 Jul 2026"
+    },
+    {
       "id": "158926",
       "category": "Leisure and Healthy Lifestyle",
       "name": "Boost Optimum Powder",
@@ -5626,6 +5676,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "159014",
+      "name": "Standing fan",
+      "description": "Standing fan in good condition.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "01 Aug 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "158699",
       "name": "Bbq steamboat",
       "description": "Mini bbq steamboat for 2 pax",
@@ -5679,6 +5740,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "159026",
+      "name": "King Size Mattress ONLY",
+      "description": "King Spring Mattress Zinus Euro Top Pocketed Spring\n- Only started using less than 1 month with mattress protector and cover. \n- Giving away because thickness is too high for our preference.",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "01 Aug 2026",
+      "ageInYears": 1,
+      "dimensions": "183 x 190cm x 30cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "159024",
+      "name": "Dining table",
+      "description": "Wooden table with 4 wooden chairs",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "04 Aug 2026",
+      "ageInYears": 4,
+      "dimensions": "LWH=110x70x74 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "158942",
@@ -6044,6 +6127,28 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "159018",
+      "name": "Toddler/children toys and books",
+      "description": "Children toys and books in good condition",
+      "location": null,
+      "validTill": "20 Aug 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
+      "id": "159017",
+      "name": "Baby blankets and changing pad",
+      "description": "Baby blankets and mattress protector. Changing pad.",
+      "location": null,
+      "validTill": "20 Aug 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
       "id": "158952",
       "name": "Lego-like toys and board game for 10years and above",
       "description": "Space-ship set (semi-assembled)\nRace car set x 2 (brand new)\nPreloved Board game set",
@@ -6275,17 +6380,6 @@
       "category": "Infant and Children Items"
     },
     {
-      "id": "158898",
-      "name": "Frying Pan (Ceramic Coated)",
-      "description": "Diameter of Pan = 26 cm\nWith Glass Lid.\nCan do Induction Cooking too.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "31 Jul 2026",
-      "ageInYears": 3,
-      "dimensions": "26 x 8 x 45 cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Kitchen Utility Items"
-    },
-    {
       "id": "158700",
       "name": "Panasonic convection oven",
       "description": "Is a convection cum microwave oven",
@@ -6295,17 +6389,6 @@
       "dimensions": "48 (L)x38 (B)x39 (H)",
       "deliveryCostsCoveredByDonor": true,
       "category": "Kitchen Utility Items"
-    },
-    {
-      "id": "158873",
-      "name": "Bicycle - Adult",
-      "description": "2 Schwinn Adult Bicycles, more than 4 years but very minimally used.",
-      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-      "validTill": "18 Aug 2026",
-      "ageInYears": 4,
-      "dimensions": "Adult",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Leisure and Healthy Lifestyle"
     },
     {
       "id": "158419",
