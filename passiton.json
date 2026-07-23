@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "159079",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is in her 50s and is currently seeking full-time employment. She resides with and is the primary caregiver for her 72-year-old elderly mother, together with her husband, who is currently unfit for work due to severe back issues. The client and family requires a new washing machine as their current one is spoilt.",
+      "specifications": null,
+      "contact": {
+        "org": "THK Cluster Support @ Bedok",
+        "name": "Nurul Farhahtil Raudhah Binte Khairul",
+        "email": "NurulFarhahtil@thkmc.org.sg",
+        "phone": [
+          "62418171"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "23 Jul 2026"
+    },
+    {
       "id": "159064",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -5765,6 +5782,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "159078",
+      "name": "Bunk Bed Kids",
+      "description": "Kids bunk bed available with mattress if needed. Good condition. Can donate with or without mattresses.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "31 Jul 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "159075",
       "name": "Lightweight queen mattress",
       "description": "2m length queen mattress, pristine condition as only used as playmat",
@@ -5794,17 +5822,6 @@
       "validTill": "25 Jul 2026",
       "ageInYears": 4,
       "dimensions": "Queen size",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "159071",
-      "name": "Wooden Single Bed Frame + Mattress",
-      "description": "Wooden Bed Frame + Mattress, good condition, lightly used.",
-      "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-      "validTill": "30 Jul 2026",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -6190,17 +6207,6 @@
       "validTill": "15 Aug 2026",
       "ageInYears": 4,
       "dimensions": "11 x 89 x 39 CM (Folded)",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "159045",
-      "name": "Baby Gate",
-      "description": "Working condition",
-      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-      "validTill": "09 Aug 2026",
-      "ageInYears": 2,
-      "dimensions": "Standard",
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
     },
@@ -6673,6 +6679,17 @@
       "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
       "validTill": "21 Aug 2026",
       "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
+    },
+    {
+      "id": "159077",
+      "name": "Wheelchair",
+      "description": "Foldable Wheelchair",
+      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+      "validTill": "21 Aug 2026",
+      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"

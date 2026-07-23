@@ -99,6 +99,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "159078",
+    "name": "Bunk Bed Kids",
+    "description": "Kids bunk bed available with mattress if needed. Good condition. Can donate with or without mattresses.",
+    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+    "validTill": "31 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "159075",
     "name": "Lightweight queen mattress",
     "description": "2m length queen mattress, pristine condition as only used as playmat",
@@ -128,17 +139,6 @@
     "validTill": "25 Jul 2026",
     "ageInYears": 4,
     "dimensions": "Queen size",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "159071",
-    "name": "Wooden Single Bed Frame + Mattress",
-    "description": "Wooden Bed Frame + Mattress, good condition, lightly used.",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "30 Jul 2026",
-    "ageInYears": 4,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -524,17 +524,6 @@
     "validTill": "15 Aug 2026",
     "ageInYears": 4,
     "dimensions": "11 x 89 x 39 CM (Folded)",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "159045",
-    "name": "Baby Gate",
-    "description": "Working condition",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "09 Aug 2026",
-    "ageInYears": 2,
-    "dimensions": "Standard",
     "deliveryCostsCoveredByDonor": true,
     "category": "Infant and Children Items"
   },
@@ -1007,6 +996,17 @@
     "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
     "validTill": "21 Aug 2026",
     "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
+    "id": "159077",
+    "name": "Wheelchair",
+    "description": "Foldable Wheelchair",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "21 Aug 2026",
+    "ageInYears": 4,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
