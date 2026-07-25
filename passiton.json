@@ -1230,23 +1230,6 @@
       "date": "23 Jul 2026"
     },
     {
-      "id": "159023",
-      "category": "Medical Aids",
-      "name": "Adult Underpads",
-      "description": "Elderly client is requesting for Adult Underpads. Due to his medical condition, he requires assistance with his daily care needs and the use of adult underpads to maintain his personal hygiene. As he is unable to work and support himself financially due to his health condition, he requires support for his essential daily necessities.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Norlizawati Binte Hamid",
-        "email": "norlizawati@thkmc.org.sg",
-        "phone": [
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Jul 2026"
-    },
-    {
       "id": "159020",
       "category": "Medical Aids",
       "name": "Adult Diapers (Pull-ip Pants)",
@@ -3590,58 +3573,6 @@
       "date": "25 Jun 2026"
     },
     {
-      "id": "158151",
-      "category": "Home Furnishing",
-      "name": "Wardrobe",
-      "description": "Ct is a single parent, stays in rental flat with her 4yo daughter. Unable to work full time due to her physcial health concerns and lack of caregiving support.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Jurong",
-        "name": "Shree Ganga D/O Rajasagran",
-        "email": "ShreeGanga@thkmc.org.sg",
-        "phone": [
-          "88333080",
-          "67169466"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Jun 2026"
-    },
-    {
-      "id": "158140",
-      "category": "Home Furnishing",
-      "name": "Sofa bed (length 250-260cm. width no longer than 100cm)",
-      "description": "Client is a single mother caring for 2 young children below 7 years old. She is currently working 2 jobs but is unable to purchase the new furniture needed for her to move into her new rental flat.",
-      "specifications": null,
-      "contact": {
-        "org": "Sembawang Family Service Centre",
-        "name": "Po Woei Yee",
-        "email": "powoeiyee@sfsc.org.sg",
-        "phone": [
-          "67547050"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Jun 2026"
-    },
-    {
-      "id": "158138",
-      "category": "Home Furnishing",
-      "name": "Black Sliding cupboard 185cm cupboard length, width 52cm",
-      "description": "Client is a single mother caring for 2 young children below 7 years old. She is currently working 2 jobs but is unable to purchase the new furniture needed for her to move into her new rental flat.",
-      "specifications": null,
-      "contact": {
-        "org": "Sembawang Family Service Centre",
-        "name": "Po Woei Yee",
-        "email": "powoeiyee@sfsc.org.sg",
-        "phone": [
-          "67547050"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Jun 2026"
-    },
-    {
       "id": "159114",
       "category": "Learning Aids",
       "name": "Laptop",
@@ -4507,23 +4438,6 @@
       "date": "26 Jun 2026"
     },
     {
-      "id": "158152",
-      "category": "Others",
-      "name": "Spectacles",
-      "description": "Client is a single mother and hopes to take courses to upskill herself, and to find a job. However, she has a high degree and requires glasses.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Isabelle Chua",
-        "email": "isabellechua@carecorner.org.sg",
-        "phone": [
-          "64761481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Jun 2026"
-    },
-    {
       "id": "159067",
       "category": "Attires/Clothings",
       "name": "5XL and 4-5 yo Clothes",
@@ -4948,6 +4862,17 @@
       "dimensions": "See photo",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "159143",
+      "name": "Grey Fabric Armchair x 4",
+      "description": "Material\nMetal tube frame and legs in a black powder-coated finish\nFabric upholstery with quilted design\nFoam cushioned seat and backrest\n\nCare Instructions\nAvoid placing furniture from direct sunlight.\nClean away any dirt or dust on the furniture's surface with a soft cloth.\nAvoid using cleaning products that contain harsh chemicals, alcohol and solvents.\nLift to move furniture, avoid pushing.\nDo not stand on furniture\n\nWeight (Kg): 8.04\nBrand: Qoltured\nMax Load (kg): 100\nUpholstery Material: Fabric\nWidth (cm): 63\nDepth (cm): 63\nHeight (cm): 81\nArmrest Height (cm): 73\nBackrest Height (cm): 34\nSeat Width (cm): 40\nSeat Height (cm): 53\nSeat Depth (cm): 48\n\nGot 4 available",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "24 Aug 2026",
+      "ageInYears": 3,
+      "dimensions": "63x63x81",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "159137",
@@ -5833,17 +5758,6 @@
       "id": "159136",
       "name": "Shower chair for elderly",
       "description": "Item is old and still functional.",
-      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-      "validTill": "24 Aug 2026",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
-      "id": "159134",
-      "name": "Commode chair",
-      "description": "Commode chair. Pail is also available.",
       "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
       "validTill": "24 Aug 2026",
       "ageInYears": 4,
