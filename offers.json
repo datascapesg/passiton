@@ -1,5 +1,27 @@
 [
   {
+    "id": "159142",
+    "name": "Washing Machine (used)",
+    "description": "Washing Machine",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "27 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "159141",
+    "name": "Haenim UV Sterilizer",
+    "description": "UV sterilizer in working condition \nCleaned",
+    "location": null,
+    "validTill": "31 Jul 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "159076",
     "name": "Rice Cookerbla",
     "description": "both are new , one is 1.5 L black cooker , the other brown cooker is 2L",
@@ -911,6 +933,17 @@
     "dimensions": "Bed size (L × B × H): ≈ 210 cm × 100 cm × 50 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "159140",
+    "name": "Foldable wheel chair",
+    "description": "Slight rust at certain areas but perfectly functional.",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "24 Aug 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "159139",
