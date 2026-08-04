@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "159437",
+      "category": "Infant and Children Items",
+      "name": "Nan Pro Stage 3",
+      "description": "Client has 3 children and her youngest recently discharged from NICU after being born 1 month premature. Due to the financial constraints, the family requires support in terms of Milk Powder & Diapers for their children.",
+      "specifications": "2 tins",
+      "contact": {
+        "org": "THK Family Service Centre @ Bukit Panjang",
+        "name": "Muhammad Idris Bin Mohd Margono",
+        "email": "idris.margono@thkmc.org.sg",
+        "phone": [
+          "87145182",
+          "67671740"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Aug 2026"
+    },
+    {
+      "id": "159436",
+      "category": "Infant and Children Items",
+      "name": "Nan Pro Stage 2",
+      "description": "Client has 3 children and her youngest recently discharged from NICU after being born 1 month premature. Due to the financial constraints, the family requires support in terms of Milk Powder & Diapers for their children.",
+      "specifications": "2 tins",
+      "contact": {
+        "org": "THK Family Service Centre @ Bukit Panjang",
+        "name": "Muhammad Idris Bin Mohd Margono",
+        "email": "idris.margono@thkmc.org.sg",
+        "phone": [
+          "87145182",
+          "67671740"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Aug 2026"
+    },
+    {
       "id": "159428",
       "category": "Infant and Children Items",
       "name": "Huggies diapers (Pull-up pants)",
@@ -4532,28 +4568,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "159429",
-      "name": "Refrigerator",
-      "description": "Pick up 7 August, 11am to 12pm from postal code 532980",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "05 Aug 2026",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "159430",
-      "name": "Refrigerator",
-      "description": "Pick up 7 August, 11am to 12pm from postal code 532980",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "05 Aug 2026",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "158699",
       "name": "Bbq steamboat",
       "description": "Mini bbq steamboat for 2 pax",
@@ -4585,6 +4599,17 @@
       "dimensions": "See photo",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "159438",
+      "name": "Foldable table",
+      "description": "Foldable table",
+      "location": "Farrer Park, Little India, Serangoon Road",
+      "validTill": "20 Aug 2026",
+      "ageInYears": 4,
+      "dimensions": "90 x 60 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "159434",
@@ -5298,17 +5323,6 @@
       "validTill": "23 Aug 2026",
       "ageInYears": 4,
       "dimensions": "49cm x 72cm x 55cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Others"
-    },
-    {
-      "id": "159350",
-      "name": "Leather Sofa",
-      "description": "Self Pick-up",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "05 Aug 2026",
-      "ageInYears": 4,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Others"
     },
