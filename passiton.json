@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "159470",
+      "category": "Infant and Children Items",
+      "name": "Diapers, Milk Powder",
+      "description": "Family consists of a single mother with a young child (5yo) with developmental delay and autism. Currently the family is facing significantly tight finances due to an urgent move to another flat. The child would benefit from assistance of mlik powder, and diapers to tide past this trying period.",
+      "specifications": null,
+      "contact": {
+        "org": "Viriya Community Services - Whispering Hearts Family Service Centre",
+        "name": "Tee Hui Wen",
+        "email": "huiwen@viriya.org.sg",
+        "phone": [
+          "67951008"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Aug 2026"
+    },
+    {
       "id": "159454",
       "category": "Infant and Children Items",
       "name": "Baby cot",
@@ -2327,6 +2344,24 @@
       "date": "06 Jul 2026"
     },
     {
+      "id": "159471",
+      "category": "Home Furnishing",
+      "name": "Wardrobe",
+      "description": "Client is a breast cancer survivor, has recently completed her treatment and suffered from multiple side effects (heart issues and swelling of eyes and nose). While her condition has improved, she is facing difficulties securing employment that is fit for her current condition. Client is unemployed, living in a 1-room rental flat and without any family support. Her rental flat is without basic furniture and hopes for a proper wardrobe to keep her clothes.",
+      "specifications": null,
+      "contact": {
+        "org": "AIN Society",
+        "name": "Nurul Huda Maarop",
+        "email": "nurulhuda@ainsociety.org.sg",
+        "phone": [
+          "68486033",
+          "68485166"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "06 Aug 2026"
+    },
+    {
       "id": "159465",
       "category": "Home Furnishing",
       "name": "Television",
@@ -4621,17 +4656,6 @@
   ],
   "offers": [
     {
-      "id": "159446",
-      "name": "Men Skechers slip in shoes size US9",
-      "description": "Brand new Men Skechers Slip in Shoes size US9",
-      "location": "Admiralty Drive, Sembawang, Yishun",
-      "validTill": "30 Aug 2026",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Attires/Clothings"
-    },
-    {
       "id": "159342",
       "name": "Dresses (formal and informal)",
       "description": "Very good condition work and casual dresses. Size 34 and 36, size M.",
@@ -4830,17 +4854,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "159354",
-      "name": "Bed Frame and Mattress",
-      "description": "Super single bed frame and mattress",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "14 Aug 2026",
-      "ageInYears": 2,
-      "dimensions": "202cm x 107 cm x 58cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "159353",
       "name": "7 piece Dining table set",
       "description": "7 piece dining table set. Slight wear but still strong to serve more years",
@@ -4958,6 +4971,17 @@
       "validTill": "23 Aug 2026",
       "ageInYears": 2,
       "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "159087",
+      "name": "Double Decker Bed",
+      "description": "It's a solid wood bunk bed with bottom queen and top super single. Used for 1 year plus. Still in good condition.",
+      "location": null,
+      "validTill": "01 Oct 2026",
+      "ageInYears": 2,
+      "dimensions": "200 cm (L) × 158 cm (W) × 170 cm (H)",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -5301,6 +5325,17 @@
       "dimensions": "Small",
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "159472",
+      "name": "Electrical Hospital Bed",
+      "description": "Condition: Good / Working fine - just maybe a bit dusty due to place constrain and not able to clean it.\nRequirement:SELF-COLLECTION and SELF-DISMANTLE. You need to arrange your own movers or a large vehicle\nand manpower to carry it.(negotiable), depend on the transportation cost.",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "05 Sep 2026",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "159444",
