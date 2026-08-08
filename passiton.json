@@ -161,24 +161,6 @@
       "date": "04 Aug 2026"
     },
     {
-      "id": "159420",
-      "category": "Infant and Children Items",
-      "name": "Lactogen 1",
-      "description": "Family of 9, with 2 young children below 6 years old. 6yo child is diagnosed with Autism. Mum has been on unpaid leave since June due to multiple children falling sick. Dad is currently the sole breadwinner.",
-      "specifications": "Milk Powder Lactogen 1",
-      "contact": {
-        "org": "Rainbow Centre - Magaret Drive School",
-        "name": "Lee Mei Yi",
-        "email": "meiyilee@rainbowcentre.org.sg",
-        "phone": [
-          "68179466",
-          "64752072"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Aug 2026"
-    },
-    {
       "id": "159408",
       "category": "Infant and Children Items",
       "name": "Nestle NAN 1",
@@ -1350,23 +1332,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "08 Jul 2026"
-    },
-    {
-      "id": "159517",
-      "category": "Medical Aids",
-      "name": "Home Suction Machine",
-      "description": "The client is a 80-year-old lady who requires a home suction machine for NGT support at home. Her husband has been admitted into a nursing home and her son is presently not employed.",
-      "specifications": null,
-      "contact": {
-        "org": "Tan Tock Seng Hospital - Care &amp; Counselling Dept",
-        "name": "Faith Leong Jia Hwee",
-        "email": "faith.leong.jh@nhghealth.com.sg",
-        "phone": [
-          "63578222"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Aug 2026"
     },
     {
       "id": "159464",
@@ -4390,23 +4355,6 @@
       "date": "07 Aug 2026"
     },
     {
-      "id": "159498",
-      "category": "Mobility Aids",
-      "name": "Wheelchair",
-      "description": "A 70-year-old senior's wheelchair was recently stolen and could not be recovered. We are seeking a replacement wheelchair to support his mobility and enable his elderly sister to accompany him safely to appointments and outings. A wheelchair without a thick cushion is preferred, as the senior frequently soils it, making cleaning difficult for his elderly sister.",
-      "specifications": "A wheelchair without a thick cushion is preferred, as the senior frequently soils it, making cleaning difficult for his elderly sister.",
-      "contact": {
-        "org": "Care Corner CREST @ Toa Payoh",
-        "name": "Ng Xiu Yi",
-        "email": "ngxiuyi@carecorner.org.sg",
-        "phone": [
-          "62586601"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "06 Aug 2026"
-    },
-    {
       "id": "159414",
       "category": "Mobility Aids",
       "name": "Four Wheels Rollator Folding Portable Adjustable Walking Aids Walker",
@@ -4528,23 +4476,6 @@
       "date": "20 Jul 2026"
     },
     {
-      "id": "159455",
-      "category": "Attires/Clothings",
-      "name": "Infant clothing",
-      "description": "Lower-income family living in rental flat is expecting their 5th child near the end of the year. As they recently lost most of their belonging in a fire that destroyed their home, they would greatly benefit from the donation of baby clothes that would clothe their newborn as he grows.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Woodlands",
-        "name": "Joel Low",
-        "email": "joellow@carecorner.org.sg",
-        "phone": [
-          "63622481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Aug 2026"
-    },
-    {
       "id": "159390",
       "category": "Attires/Clothings",
       "name": "Black shoes",
@@ -4644,35 +4575,24 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "159529",
-      "name": "Washing Machine",
-      "description": "Pick up at Upper Changi Road East. Lightly used and in very good condition.",
-      "location": "Changi, Flora, Loyang",
+      "id": "159534",
+      "name": "Refrigerator",
+      "description": "13 year old but in perfect condition",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
       "validTill": "12 Aug 2026",
       "ageInYears": 4,
-      "dimensions": null,
+      "dimensions": "78x66x184",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "159528",
-      "name": "Fridge",
-      "description": "In good working condition. Lightly used. Pick up at Upper Changi Road East.",
-      "location": "Changi, Flora, Loyang",
-      "validTill": "12 Aug 2026",
+      "id": "159533",
+      "name": "Mitsubishi Two Door Fridge",
+      "description": "Still in great condition",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "24 Aug 2026",
       "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
-      "id": "159526",
-      "name": "Double Door Fridge",
-      "description": "Lightly used, in very good working condition. Pick up at Upper Changi Road East.",
-      "location": "Changi, Flora, Loyang",
-      "validTill": "12 Aug 2026",
-      "ageInYears": 4,
-      "dimensions": null,
+      "dimensions": "56cmx40cmx158cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
     },
@@ -4730,6 +4650,28 @@
       "dimensions": "See photo",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "159536",
+      "name": "Coffee table",
+      "description": "Coffee table with storage compartment.Can rotate to extend the surface. Height when extended is 63cm.",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "12 Aug 2026",
+      "ageInYears": 4,
+      "dimensions": "60x70x69cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "159532",
+      "name": "SEAHORSE SUPER SINGLE BED",
+      "description": "Seahorse super single matter , half side is firm , half is soft. Wrap in plastic to prevent dusting .",
+      "location": null,
+      "validTill": "07 Sep 2026",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "159523",
@@ -5322,17 +5264,6 @@
       "validTill": "14 Aug 2026",
       "ageInYears": 2,
       "dimensions": "43 x 43",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
-      "id": "159351",
-      "name": "DR P ADULT DIAPERS (9PCS TAPE)",
-      "description": "Was bought a couple of months for my husband's incontinence problem - he has recovered since - hence we are wanting to donate it - there are 7 such packs.",
-      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-      "validTill": "01 Sep 2026",
-      "ageInYears": 1,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
     },
