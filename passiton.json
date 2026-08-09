@@ -586,23 +586,6 @@
       "date": "27 Jul 2026"
     },
     {
-      "id": "159112",
-      "category": "Infant and Children Items",
-      "name": "Baby stroller / Pram",
-      "description": "Client (F/25) is the primary caregiver to her active 3-year-old daughter and relies on a stroller for their daily commute and appointments. She is currently experiencing gallbladder-related health issues, which make it difficult for her to carry her daughter over extended periods.\nA donation of a replacement stroller/pram would greatly support their daily mobility and ease the physical strain on client while caring for her daughter.",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (West)",
-        "name": "Muhammamd Farhan Bin Abdul Rahman",
-        "email": "muhdfarhan.abdrahman@ppis.sg",
-        "phone": [
-          "65613462"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Jul 2026"
-    },
-    {
       "id": "159092",
       "category": "Infant and Children Items",
       "name": "drypers drypantz size L",
@@ -2267,23 +2250,6 @@
       "date": "03 Aug 2026"
     },
     {
-      "id": "159329",
-      "category": "Home Furnishing",
-      "name": "TV Console",
-      "description": "Client has been the main caregiver for her 12-year-old nephew since his birth, and they live with client's mother in a rental unit. Client's mother was the sole breadwinner but she had to stop working due to poor health. Client has been trying to take on ad-hoc jobs, which is barely enough to cover their basic needs. Client's mother intends to continue working once her health improves, and she has been medically compliant in the hopes that she will achieve that goal. Client is also hoping to find full-time employment once mother's health stabilises. Due to their current financial constraints, the family is seeking assistance to obtain a table console as their current one is no longer in a good condition. For further liaison on delivery address etc, kindly contact me at 98598768, I will respond during office hours, thank you so much!",
-      "specifications": null,
-      "contact": {
-        "org": "PPIS Family Service Centre (East)",
-        "name": "Nur Afrina",
-        "email": "fsceast@ppis.sg",
-        "phone": [
-          "60156970"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "31 Jul 2026"
-    },
-    {
       "id": "159326",
       "category": "Home Furnishing",
       "name": "Queen sized mattress",
@@ -2880,23 +2846,6 @@
         "phone": [
           "88097420",
           "65511669"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "07 Aug 2026"
-    },
-    {
-      "id": "159508",
-      "category": "Electrical Home Appliances",
-      "name": "TV",
-      "description": "Client lives alone and is socially isolated. His caregiver died suddenly in Mar 2026. He has OCD, mild intellectual disability, skin condition and hearing impairment. While he is already receiving medical help, we hope the TV would provide some entertainment while befriending service is being looked into. Thank you.",
-      "specifications": null,
-      "contact": {
-        "org": "Singapore Children's Society - Yishun FSC",
-        "name": "Hannah Lee",
-        "email": "hannah.lee@childrensociety.org.sg",
-        "phone": [
-          "67537331"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -4285,6 +4234,17 @@
   ],
   "offers": [
     {
+      "id": "159547",
+      "name": "Mix of Baby Girl and Baby Boy Clothes",
+      "description": "I can arrange delivery and send to the family/organization that needs it.",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "14 Aug 2026",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Attires/Clothings"
+    },
+    {
       "id": "159342",
       "name": "Dresses (formal and informal)",
       "description": "Very good condition work and casual dresses. Size 34 and 36, size M.",
@@ -4294,6 +4254,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Attires/Clothings"
+    },
+    {
+      "id": "159542",
+      "name": "Wet and dry Dreame vacuum cleaner",
+      "description": "Dreame wet and dry vacuum. Can be used to mop floor. In addition, can change attachment for vacuum mode only.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "31 Aug 2026",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
     },
     {
       "id": "159534",
@@ -4349,6 +4320,39 @@
       "dimensions": "50cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "159546",
+      "name": "Single bed and mattress",
+      "description": "Great condition. Pick up from Upper Changi Road East",
+      "location": "Changi, Flora, Loyang",
+      "validTill": "14 Aug 2026",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "159544",
+      "name": "King Size Mattress",
+      "description": "Clean and soft King-size mattress used for less than a year.",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "14 Aug 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "159543",
+      "name": "Wardrobe",
+      "description": "Excellent condition. Arrange own pick up.",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "14 Aug 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "159539",
@@ -5185,6 +5189,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "159545",
+      "name": "2 seater recliner sofa",
+      "description": "Great condition. Pick up from Upper Changi Road East",
+      "location": "Changi, Flora, Loyang",
+      "validTill": "14 Aug 2026",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "159491",
