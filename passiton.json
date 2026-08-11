@@ -1,6 +1,42 @@
 {
   "requests": [
     {
+      "id": "159599",
+      "category": "Infant and Children Items",
+      "name": "Frisolac Gold Stage 2 Infant Milk Powder",
+      "description": "The client is a single mother of two young children and is currently receiving financial assistance. Due to her financial constraints, she requires support with essential household expenses, including milk powder for her children. A donation of milk powder would help ease her financial burden and support the children's nutritional needs.",
+      "specifications": null,
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Ong Meichun",
+        "email": "meichun_ong@awwa.org.sg",
+        "phone": [
+          "88784697",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Aug 2026"
+    },
+    {
+      "id": "159598",
+      "category": "Infant and Children Items",
+      "name": "Diapers (Drypers Skinature Diapers - Size M)",
+      "description": "The client is a single mother of two young children and is currently receiving financial assistance. Due to her financial constraints, she requires support with essential expenses, including diapers for her children. A donation of diapers would help ease her financial burden and support the children's daily needs.",
+      "specifications": "Size M",
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Ong Meichun",
+        "email": "meichun_ong@awwa.org.sg",
+        "phone": [
+          "88784697",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Aug 2026"
+    },
+    {
       "id": "159595",
       "category": "Infant and Children Items",
       "name": "Diapers and Milk",
@@ -1867,6 +1903,23 @@
       "date": "14 Jul 2026"
     },
     {
+      "id": "159603",
+      "category": "Home Furnishing",
+      "name": "Clothes Wardrobe",
+      "description": "Family of 6 looking for a wardrobe to store clothes.",
+      "specifications": null,
+      "contact": {
+        "org": "Life Community Services Society",
+        "name": "Life Community Services Society",
+        "email": "lcss@life-community.org",
+        "phone": [
+          "63873700"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Aug 2026"
+    },
+    {
       "id": "159587",
       "category": "Home Furnishing",
       "name": "Queen size bed and frame",
@@ -2193,24 +2246,6 @@
         "email": "norlizawati@thkmc.org.sg",
         "phone": [
           "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Jul 2026"
-    },
-    {
-      "id": "159160",
-      "category": "Home Furnishing",
-      "name": "Single Pull Out Bed",
-      "description": "Client is a young mother with a six-year-old child who resides in a rental flat with several family members. Due to limited living space and financial constraints, the client and her child are currently sharing a single mattress for sleeping.\n\nTo improve their sleeping arrangements and provide each of them with a proper sleeping space, the client is requesting assistance with a pull-out single bed and two single mattresses which would allow both client and her child to have separate, safe, and comfortable sleeping surfaces while making efficient use of the limited space available in their home.",
-      "specifications": null,
-      "contact": {
-        "org": "Kampong Kapor Community Services",
-        "name": "Wong Li Yi",
-        "email": "wongliyi@kkcs.org.sg",
-        "phone": [
-          "62997662ext544",
-          "62997662"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3831,6 +3866,24 @@
       "date": "20 Jul 2026"
     },
     {
+      "id": "159601",
+      "category": "Attires/Clothings",
+      "name": "Sparkletot's Uniform",
+      "description": "Family of 7 in need of sparkletot's boy uniform in small size for last child.Preloved welcome.",
+      "specifications": "small",
+      "contact": {
+        "org": "REACH Family Service Centre",
+        "name": "Anita Sheela Frederick",
+        "email": null,
+        "phone": [
+          "60721218",
+          "62522566"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Aug 2026"
+    },
+    {
       "id": "159390",
       "category": "Attires/Clothings",
       "name": "Black shoes",
@@ -3881,6 +3934,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "21 Jul 2026"
+    },
+    {
+      "id": "159600",
+      "category": "Kitchen Utility Items",
+      "name": "Portable Gas Stove and Cartridges",
+      "description": "The LTVP single mother has been unsuccessful in securing employment despite her continued efforts to apply for jobs, which has affected her income and ability to meet her household needs. She is currently seeking assistance with a portable gas stove and gas cartridges so that she can prepare meals for her 14-year-old daughter while she continues her job search. This support would help tide the family over during this challenging period.",
+      "specifications": null,
+      "contact": {
+        "org": "Kampong Kapor Community Services",
+        "name": "Wong Li Yi",
+        "email": "wongliyi@kkcs.org.sg",
+        "phone": [
+          "62997662ext544",
+          "62997662"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "11 Aug 2026"
     },
     {
       "id": "159550",
@@ -3964,17 +4035,6 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "159586",
-      "name": "LG Fully Automatic Washing Machine",
-      "description": "LG Fully Automatic Washing Machine.\n\nIt is 5 years old and in good condition",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "20 Aug 2026",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "159542",
       "name": "Wet and dry Dreame vacuum cleaner",
       "description": "Dreame wet and dry vacuum. Can be used to mop floor. In addition, can change attachment for vacuum mode only.",
@@ -4017,6 +4077,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "159602",
+      "name": "Bunk bed",
+      "description": "Wooden bunk bed in excellent condition. Suitable for adult/ children. No major damage. Donating because it is no longer required. Condo collection required; bunk bed will need to be dismantled.",
+      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+      "validTill": "01 Sep 2026",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "159591",
@@ -4085,17 +4156,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "159571",
-      "name": "Single Foldable Mattress",
-      "description": "Foldable mattress",
-      "location": null,
-      "validTill": "30 Aug 2026",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "159566",
       "name": "A pair of sofa, 2 single sofa",
       "description": "One BRAND NEW pair of sofa !\n\n2 single sofa of nice fabric design with good leather.",
@@ -4114,17 +4174,6 @@
       "validTill": "09 Sep 2026",
       "ageInYears": 3,
       "dimensions": "2.1m x 1.7m",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "159557",
-      "name": "Super Single Mattress",
-      "description": "Condition 9/10. Pick up at 684687.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "14 Aug 2026",
-      "ageInYears": 1,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -4611,6 +4660,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
+    },
+    {
+      "id": "159597",
+      "name": "Microwave Oven",
+      "description": "Non- Halal",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "21 Aug 2026",
+      "ageInYears": 2,
+      "dimensions": "20L",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Kitchen Utility Items"
     },
     {
       "id": "159593",
