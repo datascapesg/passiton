@@ -3933,23 +3933,6 @@
     "date": "11 Aug 2026"
   },
   {
-    "id": "159603",
-    "category": "Home Furnishing",
-    "name": "Clothes Wardrobe",
-    "description": "Family of 6 looking for a wardrobe to store clothes.",
-    "specifications": null,
-    "contact": {
-      "org": "Life Community Services Society",
-      "name": "Life Community Services Society",
-      "email": "lcss@life-community.org",
-      "phone": [
-        "63873700"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Aug 2026"
-  },
-  {
     "id": "159504",
     "category": "Home Furnishing",
     "name": "kitchen cabinet",
@@ -4229,41 +4212,6 @@
     "date": "21 Jul 2026"
   },
   {
-    "id": "159601",
-    "category": "Attires/Clothings",
-    "name": "Sparkletot's Uniform",
-    "description": "Family of 7 in need of sparkletot's boy uniform in small size for last child.Preloved welcome.",
-    "specifications": "small",
-    "contact": {
-      "org": "REACH Family Service Centre",
-      "name": "Anita Sheela Frederick",
-      "email": null,
-      "phone": [
-        "60721218",
-        "62522566"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Aug 2026"
-  },
-  {
-    "id": "159067",
-    "category": "Attires/Clothings",
-    "name": "5XL and 4-5 yo Clothes",
-    "description": "Low income family of 6 is looking for clothes to fit their teenage son who is about 5XL and their toddler who is currently wearing clothes that fit a 4 year old.",
-    "specifications": null,
-    "contact": {
-      "org": "Life Community Services Society",
-      "name": "Life Community Services Society",
-      "email": "lcss@life-community.org",
-      "phone": [
-        "63873700"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "22 Jul 2026"
-  },
-  {
     "id": "159727",
     "category": "Kitchen Utility Items",
     "name": "Kitchen storage tier rack/shelves",
@@ -4420,5 +4368,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "04 Aug 2026"
+  },
+  {
+    "id": "159601",
+    "category": "Attires/Clothings",
+    "name": "Sparkletot's Uniform",
+    "description": "Family of 7 in need of sparkletot's boy uniform in small size for last child.Preloved welcome.",
+    "specifications": "small",
+    "contact": {
+      "org": "REACH Family Service Centre",
+      "name": "Anita Sheela Frederick",
+      "email": null,
+      "phone": [
+        "60721218",
+        "62522566"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "11 Aug 2026"
   }
 ]
