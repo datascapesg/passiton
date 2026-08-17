@@ -1597,23 +1597,6 @@
       "date": "05 Aug 2026"
     },
     {
-      "id": "159442",
-      "category": "Home Furnishing",
-      "name": "Wardrobe",
-      "description": "Client is a PwD with a family consisting of his wife and baby. He requires support as he moves from a temporary shelter to their new home, and hopes to receive furniture that can help them in their new place.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-        "name": "Claudine Ng",
-        "email": "claudineng@allkin.org.sg",
-        "phone": [
-          "60384100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Aug 2026"
-    },
-    {
       "id": "159395",
       "category": "Home Furnishing",
       "name": "Kitchen Cabinet",
@@ -4285,23 +4268,6 @@
       "date": "04 Aug 2026"
     },
     {
-      "id": "159413",
-      "category": "Mobility Aids",
-      "name": "Posterior Night Splint for Plantar Fasciitis",
-      "description": "Posterior Night Splint for Plantar Fasciitis",
-      "specifications": null,
-      "contact": {
-        "org": "Mother of Hope",
-        "name": "Tony Tan",
-        "email": "tan_tony@gebirah.org",
-        "phone": [
-          "92347889"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "04 Aug 2026"
-    },
-    {
       "id": "159601",
       "category": "Attires/Clothings",
       "name": "Sparkletot's Uniform",
@@ -4397,6 +4363,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "159801",
+      "name": "Double decker bed",
+      "description": "Double decker bed in working condition.",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "07 Sep 2026",
+      "ageInYears": 4,
+      "dimensions": "Super single size",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "159800",
@@ -4793,6 +4770,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "159802",
+      "name": "Ikea Clothes Hanger for Children",
+      "description": "Clothes Hanger with adjustable hooks for children.",
+      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+      "validTill": "07 Sep 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "159785",
