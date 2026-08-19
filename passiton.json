@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "159884",
+      "category": "Infant and Children Items",
+      "name": "Breast pump and accessories",
+      "description": "Mother to 4 children, recently gave birth to a premature baby 31 weeks. Financially strained due to husband who is not contributing much to household expenses due to gambling habits. Mother wishes to pump milk to help her own baby grow.",
+      "specifications": null,
+      "contact": {
+        "org": "KK Women's &amp; Children's Hospital - Medical Social",
+        "name": "Cheryl Chew",
+        "email": "cheryl.chew@kkh.com.sg",
+        "phone": [
+          "63942407",
+          "62255554"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Aug 2026"
+    },
+    {
       "id": "159878",
       "category": "Infant and Children Items",
       "name": "(Diaper) Baby Dry Pants (L) Fair Price Brand - 2x",
@@ -3219,6 +3237,23 @@
       "date": "24 Jul 2026"
     },
     {
+      "id": "159882",
+      "category": "Electrical Home Appliances",
+      "name": "SONA 20\" Fan",
+      "description": "The client is a middle-aged lady that is currently unfit for work after suffering from spinal injuries in 2024. Her husband is working full-time, but most of his income is used to return debts, which his friend undertook under his name but subsequently absconded. During this period, the household, who stays in a 1 room rental flat, is very financially strained. Their fan has spoilt and is needing a new one due to the hot and hazy weather.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Regina Leong",
+        "email": "regina@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "19 Aug 2026"
+    },
+    {
       "id": "159881",
       "category": "Electrical Home Appliances",
       "name": "air purifier",
@@ -5330,17 +5365,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "159880",
-      "name": "Philip baby bottle steamer",
-      "description": "Bought it since 2018.\nStill working well.\nGiving away as kids are big no longer needed.\nLast use 2026 july",
-      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-      "validTill": "31 Aug 2026",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
       "id": "159879",
       "name": "Babyletto convertible crib baby cot",
       "description": "Baby cot in excellent condition",
@@ -5790,6 +5814,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "159883",
+      "name": "crutches and walking stick",
+      "description": "Used when I fractured my leg in 2023.",
+      "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+      "validTill": "22 Aug 2026",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "159621",
