@@ -1,24 +1,6 @@
 {
   "requests": [
     {
-      "id": "159915",
-      "category": "Infant and Children Items",
-      "name": "Foldable baby crib",
-      "description": "Mother to 4 children, recently gave birth to a premature baby 31 weeks. Financially strained due to husband who is not contributing much to household expenses due to gambling habits. Mother wishes to pump milk to help her own baby grow.",
-      "specifications": null,
-      "contact": {
-        "org": "KK Women's &amp; Children's Hospital - Medical Social",
-        "name": "Cheryl Chew",
-        "email": "cheryl.chew@kkh.com.sg",
-        "phone": [
-          "63942407",
-          "62255554"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "20 Aug 2026"
-    },
-    {
       "id": "159908",
       "category": "Infant and Children Items",
       "name": "Diapers",
@@ -2209,24 +2191,6 @@
         "name": "Tasya Puspita Maulany",
         "email": "tasya@allkin.org.sg",
         "phone": [
-          "60384100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Jul 2026"
-    },
-    {
-      "id": "159237",
-      "category": "Home Furnishing",
-      "name": "Wardrobe",
-      "description": "Household of 3 with 1 breadwinner earning a very limited amount. Their washing machine and wardrobe has broken down beyond repair and they cannot afford to replace them.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
-        "name": "Dishalani D/O Anbanathan",
-        "email": "dishalani@allkin.org.sg",
-        "phone": [
-          "60384135",
           "60384100"
         ]
       },
@@ -5294,6 +5258,39 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "159919",
+      "name": "Open shelf",
+      "description": "More than 4 years old, but very good condition",
+      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+      "validTill": "19 Sep 2026",
+      "ageInYears": 4,
+      "dimensions": "Length 155 cm Height 195 cm, depth 37 cm.  shelf depth 31 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "159918",
+      "name": "Double Bed",
+      "description": "more than 4 years old, but excellent conditio",
+      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+      "validTill": "19 Sep 2026",
+      "ageInYears": 4,
+      "dimensions": "Length 200 cm Width 162 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "159917",
+      "name": "Computer table or normal study desk",
+      "description": "Computer Desk or a Study table with drawers. Dark brown",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "15 Sep 2026",
+      "ageInYears": 4,
+      "dimensions": "60x107X77",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "159892",
