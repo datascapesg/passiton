@@ -19,40 +19,6 @@
       "date": "21 Aug 2026"
     },
     {
-      "id": "159955",
-      "category": "Home Furnishing",
-      "name": "Dining table",
-      "description": "The elderly client, who was previously rough sleeping, has successfully secured home ownership and is preparing to move into her new home. However, the house is currently mostly empty and unfurnished. Due to her current financial constraints, she requires support in obtaining essential household items, particularly a dining table, to help her establish a safe and comfortable living environment.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Sengkang 223D",
-        "name": "Syamirul Azim",
-        "email": "syamirulazim@allkin.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "21 Aug 2026"
-    },
-    {
-      "id": "159954",
-      "category": "Home Furnishing",
-      "name": "Wardrobe",
-      "description": "The elderly client, who was previously rough sleeping, has successfully secured home ownership and is preparing to move into her new home. However, the house is currently mostly empty and unfurnished. Due to her current financial constraints, she requires support in obtaining essential household items, particularly a wardrobe, to help her establish a safe and comfortable living environment.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Sengkang 223D",
-        "name": "Syamirul Azim",
-        "email": "syamirulazim@allkin.org.sg",
-        "phone": [
-          "63128100"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "21 Aug 2026"
-    },
-    {
       "id": "159925",
       "category": "Home Furnishing",
       "name": "Single bed frame (Johor Bahru)",
@@ -173,23 +139,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "18 Aug 2026"
-    },
-    {
-      "id": "159773",
-      "category": "Home Furnishing",
-      "name": "Sofa",
-      "description": "Client is a single mother caring for her 9-year-old daughter and is currently dependent on ComCare assistance to meet the family's basic needs. Following an incident involving her ex-partner, essential furniture was damaged and are no longer usable. As client has limited financial means and is prioritising her daughter's daily needs and household expenses, she is unable to replace the sofa item independently.",
-      "specifications": null,
-      "contact": {
-        "org": "Sembawang Family Service Centre",
-        "name": "Po Woei Yee",
-        "email": "powoeiyee@sfsc.org.sg",
-        "phone": [
-          "67547050"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "17 Aug 2026"
     },
     {
       "id": "159764",
@@ -3211,24 +3160,6 @@
       "date": "19 Aug 2026"
     },
     {
-      "id": "159863",
-      "category": "Electrical Home Appliances",
-      "name": "Air fryer",
-      "description": "The family of three is facing financial challenges. Client  has been trying to gain employment but has not been successful. Their air fyer has spoilt and they are unable to purchase a new one due to limited finances which only sufficient for their basic needs.",
-      "specifications": "-",
-      "contact": {
-        "org": "Allkin Family Service Centre @ Cheng San 445",
-        "name": "Frank Lye Wei Bin",
-        "email": "franklye@allkin.org.sg",
-        "phone": [
-          "60384117",
-          "60384120"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Aug 2026"
-    },
-    {
       "id": "159859",
       "category": "Electrical Home Appliances",
       "name": "Air Cooler",
@@ -3316,24 +3247,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "19 Aug 2026"
-    },
-    {
-      "id": "159825",
-      "category": "Electrical Home Appliances",
-      "name": "Microwave oven",
-      "description": "Client and brother are both intellectually disabled and are reliant on SSO ComCare to meet their daily living needs. Would benefit from a microwave oven to heat up free food, as they are also experiencing several health issues (i.e. stomach upset, bloating, constipation, diarrheoa)(Jol)",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bedok North",
-        "name": "Low Kim Yong",
-        "email": "lowkimyong@thkmc.org.sg",
-        "phone": [
-          "81883314",
-          "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Aug 2026"
     },
     {
       "id": "159815",
@@ -4619,6 +4532,17 @@
   ],
   "offers": [
     {
+      "id": "159973",
+      "name": "Television",
+      "description": "Still working well and no issues but giving up cos it does not allow us to watch Netflix on it soon",
+      "location": null,
+      "validTill": "10 Sep 2026",
+      "ageInYears": 4,
+      "dimensions": "123.1 cm n 70.8 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Electrical Home Appliances"
+    },
+    {
       "id": "159970",
       "name": "Philip Garment Steamer",
       "description": "Lightly used",
@@ -4683,6 +4607,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "159975",
+      "name": "Modular sofa with loose cushions",
+      "description": "Good as new sofa with loose cushions",
+      "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
+      "validTill": "10 Sep 2026",
+      "ageInYears": 4,
+      "dimensions": "267cm (W) × 65cm (H)",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "159971",
@@ -5334,6 +5269,17 @@
       "category": "Learning Aids"
     },
     {
+      "id": "159972",
+      "name": "Hospital Bed",
+      "description": "Good condition.\nAir mattresses included.",
+      "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+      "validTill": "31 Aug 2026",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Medical Aids"
+    },
+    {
       "id": "159934",
       "name": "4-month old medical bed",
       "description": "This is a Medpro Electric 3 functions bed w quad rails & backup battery pack. It has only been very lightly used for 4 months.  It is in excellent almost BN condition. It's still under warranty. I hope to find this bed a good new home.",
@@ -5420,6 +5366,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "159974",
+      "name": "Walking Aid",
+      "description": "the centre bars are rusty.  Maybe the client can use a masking tape to cover the rusty parts.",
+      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
+      "validTill": "02 Sep 2026",
+      "ageInYears": 4,
+      "dimensions": "50 x 30 x 60",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "159927",
