@@ -704,6 +704,28 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "160020",
+    "name": "Slow cooker",
+    "description": "1.5L clay pot slow cooker",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "23 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
+    "id": "160017",
+    "name": "Electric crockery pot",
+    "description": "Takahi electric crockery pot \n- cannot be used directly on stove",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "23 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
     "id": "159921",
     "name": "Stainless steel pots and pans",
     "description": "Total of 4 frying pans of different sizes (2 of which are stainless steel). \n1 big stainless steel soup pot\n2 smaller stainless steel pot (cook maggie noodles)",
@@ -790,17 +812,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
-  },
-  {
-    "id": "159972",
-    "name": "Hospital Bed",
-    "description": "Good condition.\nAir mattresses included.",
-    "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
-    "validTill": "31 Aug 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
   },
   {
     "id": "159934",
