@@ -1,6 +1,23 @@
 {
   "requests": [
     {
+      "id": "160013",
+      "category": "Home Furnishing",
+      "name": "Mobile table",
+      "description": "Child is wheelchair/bed bound due to brain tumour. Family is requesting for a mobile table to place at his bed so that they can easily serve his meals/medication. \n\nExample: https://www.ikea.com/sg/en/p/bollsidan-laptop-stand-white-stained-oak-effect-white-80608141/#content \n\nhttps://www.rainbowcare.com.sg/home-furnishings/overbed-tables/fs562-overbed-table",
+      "specifications": null,
+      "contact": {
+        "org": "Children's Cancer Foundation - KKH",
+        "name": "Claire Tan",
+        "email": "ccf_kkh@ccf.org.sg",
+        "phone": [
+          "62970203"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Aug 2026"
+    },
+    {
       "id": "160010",
       "category": "Home Furnishing",
       "name": "3-seater sofa",
@@ -1083,6 +1100,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "24 Jul 2026"
+    },
+    {
+      "id": "160015",
+      "category": "Infant and Children Items",
+      "name": "XXXL Huggies (pull up pants)",
+      "description": "Client is a grandma working as a coffeeshop assistant and grandpa as a driver. Her son is going to National Service in Aug 2026, her daughter has mental health issues. With their limited income, grandchild would benefit from milk/diaper donation (4 packs - last till dec 2026).Can contact 6038 4091",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+        "name": "Cassandra Chia",
+        "email": "cassandrachia@allkin.org.sg",
+        "phone": [
+          "60384100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "24 Aug 2026"
     },
     {
       "id": "159958",
@@ -4350,6 +4384,17 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "160012",
+      "name": "Two single size foldable foam mattress",
+      "description": "SEA HORSE Single Size 3-Fold Portable Mattress Dual-Sided Comfort Firmness",
+      "location": "Balestier, Toa Payoh",
+      "validTill": "23 Sep 2026",
+      "ageInYears": 4,
+      "dimensions": "91x190x8.4 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "159990",
