@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "160133",
+      "category": "Infant and Children Items",
+      "name": "Diapers for 2-year-old",
+      "description": "Client is a single mother of a 2yo. She is currently in the midst of finding employment and requires help with getting diapers for her 2yo.\n\nDiapers requested: Huggies XL, pull-up diapers (Qty: 2-3)",
+      "specifications": null,
+      "contact": {
+        "org": "Lakeside Family Centre - Jurong West",
+        "name": "Leah Lim",
+        "email": "leah-lim@lakeside.org.sg",
+        "phone": [
+          "65671908ext424",
+          "65671908"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Aug 2026"
+    },
+    {
       "id": "160114",
       "category": "Infant and Children Items",
       "name": "Baby Diaper",
@@ -1667,6 +1685,24 @@
       "date": "29 Jul 2026"
     },
     {
+      "id": "160135",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client comes from a low income family. She would require the support of a washing machine in her new rental block to reduce her financial burden.",
+      "specifications": "NA",
+      "contact": {
+        "org": "Fei Yue Community Services",
+        "name": "Priscilla Tan",
+        "email": "priscillatan@fycs.org",
+        "phone": [
+          "60117651",
+          "63809169"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Aug 2026"
+    },
+    {
       "id": "160128",
       "category": "Electrical Home Appliances",
       "name": "Fridge",
@@ -1766,24 +1802,6 @@
         "phone": [
           "62319647",
           "1800-222-0000"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Aug 2026"
-    },
-    {
-      "id": "160108",
-      "category": "Electrical Home Appliances",
-      "name": "Fridge",
-      "description": "Client is looking to receive a secondhand fridge that can support her needs at her new rental block.",
-      "specifications": "NA",
-      "contact": {
-        "org": "Fei Yue Community Services",
-        "name": "Priscilla Tan",
-        "email": "priscillatan@fycs.org",
-        "phone": [
-          "60117651",
-          "63809169"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2171,23 +2189,6 @@
         "phone": [
           "88333080",
           "67169466"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Aug 2026"
-    },
-    {
-      "id": "159886",
-      "category": "Electrical Home Appliances",
-      "name": "Fans",
-      "description": "Elderly client resides with her adult daughter in a 1-room public rental flat. Daughter assists client with her daily needs and household matters, and the family has limited financial means. Their existing fans are old/not functioning well. Family is seeking 2 working fans, one for client and one for her daughter, for their daily use at home.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Toa Payoh",
-        "name": "Vienne Chiam",
-        "email": "viennechiam@carecorner.org.sg",
-        "phone": [
-          "63561622"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -3037,6 +3038,23 @@
       "date": "28 Jul 2026"
     },
     {
+      "id": "160136",
+      "category": "Home Furnishing",
+      "name": "Mattress",
+      "description": "Client is a single mother to 4 teenagers. She is the sole breadwinner and relies on her part-time employment and ComCare assistance to meet the family's basic needs. One of her children suffers from mental health issues.",
+      "specifications": "Queen Size",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Norlizawati Binte Hamid",
+        "email": "norlizawati@thkmc.org.sg",
+        "phone": [
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "28 Aug 2026"
+    },
+    {
       "id": "160130",
       "category": "Home Furnishing",
       "name": "queen-sized bed frame and queen-sized mattress.",
@@ -3320,23 +3338,6 @@
       "id": "159998",
       "category": "Home Furnishing",
       "name": "Bookshelf",
-      "description": "She is a single mother with a 17-year-old son who is a survivor of domestic violence. The family has recently been allocated a new rental flat and they are currently looking into furnishing the unit.",
-      "specifications": null,
-      "contact": {
-        "org": "Marymount Centre - Good Shepherd Centre",
-        "name": "Michelle Ann Veluz",
-        "email": "Michelle_Veluz@marymountctr.org.sg",
-        "phone": [
-          "67556496"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "24 Aug 2026"
-    },
-    {
-      "id": "159997",
-      "category": "Home Furnishing",
-      "name": "Sofa",
       "description": "She is a single mother with a 17-year-old son who is a survivor of domestic violence. The family has recently been allocated a new rental flat and they are currently looking into furnishing the unit.",
       "specifications": null,
       "contact": {
@@ -3856,24 +3857,6 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "28 Jul 2026"
-    },
-    {
-      "id": "160129",
-      "category": "Others",
-      "name": "Groceries",
-      "description": "Low-income family of 5 with young children, mother is pregnant and anemic. She is now unable to work and dependent on husband as sole breadwinner. She requires iron rich foods which she cannot afford presently. She would benefit from some fresh groceries such as beef and vegetables.",
-      "specifications": null,
-      "contact": {
-        "org": "Care Corner Family Service Centre - Queenstown",
-        "name": "Amanda Soo",
-        "email": "amandasoo@carecorner.org.sg",
-        "phone": [
-          "69784084",
-          "64761481"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Aug 2026"
     },
     {
       "id": "160085",
@@ -4474,22 +4457,22 @@
       "date": "18 Aug 2026"
     },
     {
-      "id": "159601",
-      "category": "Attires/Clothings",
-      "name": "Sparkletot's Uniform",
-      "description": "Family of 7 in need of sparkletot's boy uniform in small size for last child.Preloved welcome.",
-      "specifications": "small",
+      "id": "160138",
+      "category": "Mobility Aids",
+      "name": "Walking Frame",
+      "description": "This client is living alone with no formal or informal support and has experienced several falls due to reduced mobility. A walking frame with wheels in front would make a meaningful difference, helping them move around more safely and confidently at home and in the community.",
+      "specifications": "1",
       "contact": {
-        "org": "REACH Family Service Centre",
-        "name": "Anita Sheela Frederick",
-        "email": null,
+        "org": "NTUC Health Cluster Support @ Bukit Merah",
+        "name": "Esther Lim",
+        "email": "esther.l3@ntuchealth.sg",
         "phone": [
-          "60721218",
-          "62522566"
+          "81230429",
+          "62741602"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
-      "date": "11 Aug 2026"
+      "date": "28 Aug 2026"
     },
     {
       "id": "159850",
@@ -4511,17 +4494,6 @@
     }
   ],
   "offers": [
-    {
-      "id": "160075",
-      "name": "T shirts",
-      "description": "Lightly worn t shirts.\nMedium to Large size\nGood condition",
-      "location": "Braddell , Macpherson, Potong Pasir",
-      "validTill": "24 Sep 2026",
-      "ageInYears": 2,
-      "dimensions": "Medium to Large",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Attires/Clothings"
-    },
     {
       "id": "160029",
       "name": "Grey and Blue Blazer (Brand New)",
@@ -4600,13 +4572,13 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "160131",
-      "name": "Brown Sofa Bed",
-      "description": "Quite a few years old but works extremely well and is very comfortable to sleep on.  Easy to pull the mattress out to sleep on it and push in to use as a regular sofa.",
-      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-      "validTill": "09 Sep 2026",
+      "id": "160134",
+      "name": "TV console",
+      "description": "Beautifully carved wooden TV console, with storage rack and drawers at the bottom.",
+      "location": "Pasir Ris, Simei, Tampines",
+      "validTill": "27 Sep 2026",
       "ageInYears": 4,
-      "dimensions": null,
+      "dimensions": "65x46cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -4622,17 +4594,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "160073",
-      "name": "Study Desk with 2 drawers",
-      "description": "Slim White table with 2 drawers from IKEA.\nIn good condition",
-      "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-      "validTill": "24 Sep 2026",
-      "ageInYears": 1,
-      "dimensions": "132cm x 58cm x 76cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "160051",
       "name": "Grey Wooden Dining Table 1.6m",
       "description": "1.6m wooden dining table. Doesn’t come with dining chairs.\nNote quite a lot of imperfections on the table top",
@@ -4640,17 +4601,6 @@
       "validTill": "20 Sep 2026",
       "ageInYears": 4,
       "dimensions": "1.6m",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "160037",
-      "name": "Dining chairs Solid Wood",
-      "description": "Four sturdy solid wood dining chairs\nHighback\nWashable cover",
-      "location": "Boon Lay, Jurong, Tuas",
-      "validTill": "24 Sep 2026",
-      "ageInYears": 4,
-      "dimensions": "107cm by 44 cm by 55 cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -4820,17 +4770,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "159781",
-      "name": "IKEA cupboards",
-      "description": "2 IKEA cupboards, more than 4 years old but still functional.",
-      "location": "King's Mansion Block B",
-      "validTill": "16 Sep 2026",
-      "ageInYears": 4,
-      "dimensions": "W80xD30xH210, W72xD40xH219 cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "159739",
       "name": "Study / work table",
       "description": "Well used. Bits of cracks however usable.\nCan be sent over from Mon to Saturday, morning till 3pm. A wheeled computer chair is available too",
@@ -4906,6 +4845,17 @@
       "dimensions": "Refer to the attached pictures.",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "160139",
+      "name": "Joie Car Seat",
+      "description": "Joie Car Seat suitable for all stages from new born until child (max 36kg) Good condition, never involved in any accidents or damage before",
+      "location": "Balestier, Toa Payoh",
+      "validTill": "27 Sep 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "160118",
@@ -5362,17 +5312,6 @@
       "id": "159276",
       "name": "Commode",
       "description": "Pre-loved commode that has been used for less than 1 year",
-      "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-      "validTill": "29 Aug 2026",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
-      "id": "159275",
-      "name": "3-crank electrical hospital bed",
-      "description": "Pre-loved hospital bed that has been used for less than 1 year.",
       "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
       "validTill": "29 Aug 2026",
       "ageInYears": 1,
