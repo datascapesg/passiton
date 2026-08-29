@@ -737,6 +737,17 @@
     "category": "Medical Aids"
   },
   {
+    "id": "160158",
+    "name": "Wheelchair",
+    "description": "Wheelchair",
+    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+    "validTill": "27 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "Unfolded Size (L x W x H): 930 mm × 620 mm × 860 mm    Folded Size (L x W x H): 670 mm × 300 mm × 685 mm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
+  },
+  {
     "id": "160106",
     "name": "Motorized wheelchair",
     "description": "Newly bought this year but seldom use as my dad passed away before he can really use it.",
@@ -809,17 +820,6 @@
     "location": "Admiralty Drive, Sembawang, Yishun",
     "validTill": "05 Sep 2026",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "159276",
-    "name": "Commode",
-    "description": "Pre-loved commode that has been used for less than 1 year",
-    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-    "validTill": "29 Aug 2026",
-    "ageInYears": 1,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
