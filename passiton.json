@@ -1545,23 +1545,6 @@
       "date": "31 Jul 2026"
     },
     {
-      "id": "160161",
-      "category": "Electrical Home Appliances",
-      "name": "Standing Fan",
-      "description": "Posting on behalf of a Deafblind senior, 74M who communicates in Singapore Sign Language and has severe glaucoma limiting his vision. \n\nHe is retired and will benefit from pre-loved items to support his living conditions. \n\nHe would greatly appreciate pre-loved standing fans for his room and living room.",
-      "specifications": null,
-      "contact": {
-        "org": "The Singapore Association For The Deaf (SADeaf)",
-        "name": "Angeles Kiara Luna",
-        "email": "kiara@sadeaf.org.sg",
-        "phone": [
-          "63448274"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "29 Aug 2026"
-    },
-    {
       "id": "160154",
       "category": "Electrical Home Appliances",
       "name": "CCTV camera",
@@ -3229,24 +3212,6 @@
       "date": "28 Aug 2026"
     },
     {
-      "id": "160122",
-      "category": "Home Furnishing",
-      "name": "Single Bedframe with mattress",
-      "description": "Due to financial constraints, they have limited financial means to purchase essential furniture. They currently do not own a bed and are sleeping on the floor.",
-      "specifications": "Single size",
-      "contact": {
-        "org": "THK Family Service Centre @ Bukit Panjang",
-        "name": "Muhammad Idris Bin Mohd Margono",
-        "email": "idris.margono@thkmc.org.sg",
-        "phone": [
-          "87145182",
-          "67671740"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Aug 2026"
-    },
-    {
       "id": "160119",
       "category": "Home Furnishing",
       "name": "Wardrobe",
@@ -3772,23 +3737,6 @@
       "date": "03 Aug 2026"
     },
     {
-      "id": "160148",
-      "category": "Medical Aids",
-      "name": "Adult Pull-Up Diapers (TENA or equivalent)",
-      "description": "Seeking adult pull-up diapers for a 61-year-old lady with significant mobility and medical needs who requires diapers for her daily care. She is permanently unfit for work and relies on financial assistance for her daily expenses.\n\nTENA pull-up diapers or other suitable brands are welcome. We hope to receive a few months’ supply, if available, to reduce her recurring expenditure on essential care items. Pre-purchased/new unopened packs are welcome.",
-      "specifications": "L sized",
-      "contact": {
-        "org": "Whampoa Family Service Centre",
-        "name": "Harry Muhammad Shahari Bin Suhaimi",
-        "email": "harrysuhaimi@kkcs.org.sg",
-        "phone": [
-          "64854750"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Aug 2026"
-    },
-    {
       "id": "160060",
       "category": "Medical Aids",
       "name": "Adult Diapers [Tena Slip Maxi, Size: L, Qty: 4 packets]",
@@ -4306,6 +4254,83 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "160171",
+      "name": "Cabinet (2)",
+      "description": "Both cabinets in good condition.",
+      "location": "Changi, Flora, Loyang",
+      "validTill": "03 Sep 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "160170",
+      "name": "Wardrobe",
+      "description": "In good condition",
+      "location": "Changi, Flora, Loyang",
+      "validTill": "03 Sep 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "160169",
+      "name": "Queen mattress, no frame",
+      "description": "Lightly used mattress. Only 1.5 yrs.  Will come with a sheet and pillow.",
+      "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+      "validTill": "03 Sep 2026",
+      "ageInYears": 2,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "160168",
+      "name": "Study Table (2)",
+      "description": "2 study tables in good condition - blue and green colours - can fold in and out.",
+      "location": "Changi, Flora, Loyang",
+      "validTill": "03 Sep 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "160167",
+      "name": "Computer Table",
+      "description": "Solid table in very good condition",
+      "location": "Changi, Flora, Loyang",
+      "validTill": "03 Sep 2026",
+      "ageInYears": 4,
+      "dimensions": "100 x 70 x 70 cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "160166",
+      "name": "Beige Sofa",
+      "description": "2-seater sofa not sofabed",
+      "location": "Changi, Flora, Loyang",
+      "validTill": "03 Sep 2026",
+      "ageInYears": 4,
+      "dimensions": "130 x 87 x 84",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "160165",
+      "name": "Single size bed frame",
+      "description": "Pre-loved Seahorse brand single size pinewood bed frame. Does not come with mattress.\n\nDismantled and will provide screws.",
+      "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+      "validTill": "06 Sep 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "160164",
