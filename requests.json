@@ -1,8 +1,8 @@
 [
   {
-    "id": "160188",
+    "id": "160195",
     "category": "Infant and Children Items",
-    "name": "Baby Diaper",
+    "name": "Baby diapers (Urgent)",
     "description": "Client and family are staying in a 2-room rental flat. The family's financial resources are primarily supported by the husband, while the client stays at home to care for the children. The family is in need of diapers for their 2-year-old toddler.",
     "specifications": "Size: XL",
     "contact": {
@@ -1111,42 +1111,6 @@
     "date": "12 Aug 2026"
   },
   {
-    "id": "159599",
-    "category": "Infant and Children Items",
-    "name": "Frisolac Gold Stage 2 Infant Milk Powder",
-    "description": "The client is a single mother of two young children and is currently receiving financial assistance. Due to her financial constraints, she requires support with essential household expenses, including milk powder for her children. A donation of milk powder would help ease her financial burden and support the children's nutritional needs.",
-    "specifications": null,
-    "contact": {
-      "org": "AWWA Family Service Centre",
-      "name": "Ong Meichun",
-      "email": "meichun_ong@awwa.org.sg",
-      "phone": [
-        "88784697",
-        "65119456"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Aug 2026"
-  },
-  {
-    "id": "159598",
-    "category": "Infant and Children Items",
-    "name": "Diapers (Drypers Skinature Diapers - Size M)",
-    "description": "The client is a single mother of two young children and is currently receiving financial assistance. Due to her financial constraints, she requires support with essential expenses, including diapers for her children. A donation of diapers would help ease her financial burden and support the children's daily needs.",
-    "specifications": "Size M",
-    "contact": {
-      "org": "AWWA Family Service Centre",
-      "name": "Ong Meichun",
-      "email": "meichun_ong@awwa.org.sg",
-      "phone": [
-        "88784697",
-        "65119456"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "11 Aug 2026"
-  },
-  {
     "id": "159595",
     "category": "Infant and Children Items",
     "name": "Diapers and Milk",
@@ -1540,6 +1504,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "31 Jul 2026"
+  },
+  {
+    "id": "160194",
+    "category": "Electrical Home Appliances",
+    "name": "Washing Machine",
+    "description": "Client is a 70-year-old senior with multiple chronic medical conditions and leg weakness who has recently lost his job. His physical limitations make it increasingly difficult for him to handwash his clothes. We seek support for a washing machine, inclusive of installation and setup costs, as the client is unable to afford these expenses. This will ensure that the appliance can be safely installed and put into use to support his daily living needs and maintain his independence.",
+    "specifications": null,
+    "contact": {
+      "org": "SACS Anglican Cluster Operator - Peace Connect",
+      "name": "Andrea Lok",
+      "email": "andrea_lok@sacs.org.sg",
+      "phone": [
+        "62912473"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "31 Aug 2026"
   },
   {
     "id": "160187",
@@ -2082,24 +2063,6 @@
       ]
     },
     "deliveryCostsCoveredByDonor": false,
-    "date": "20 Aug 2026"
-  },
-  {
-    "id": "159902",
-    "category": "Electrical Home Appliances",
-    "name": "TV",
-    "description": "Client is a single parent who has loss her child due to cancer currently need a smart TV. She just got a rental house. As a single mum, she has worked hard to create a conducive space for her other child that still schooling and for herself.",
-    "specifications": null,
-    "contact": {
-      "org": "AIN Society",
-      "name": "Nur'Ain Binte Mohamed Said",
-      "email": "nurain@ainsociety.org.sg",
-      "phone": [
-        "68485116",
-        "68485166"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
     "date": "20 Aug 2026"
   },
   {
@@ -2649,24 +2612,6 @@
     "date": "05 Aug 2026"
   },
   {
-    "id": "159447",
-    "category": "Electrical Home Appliances",
-    "name": "Washing Machine (9kg load)",
-    "description": "The client is a single mother caring for two young children and is currently receiving financial assistance. As the sole caregiver, she manages all childcare and household responsibilities independently. A washing machine would significantly reduce the time and physical effort required for laundry, enabling her to better manage her daily responsibilities and care for her children.",
-    "specifications": null,
-    "contact": {
-      "org": "AWWA Family Service Centre",
-      "name": "Ong Meichun",
-      "email": "meichun_ong@awwa.org.sg",
-      "phone": [
-        "88784697",
-        "65119456"
-      ]
-    },
-    "deliveryCostsCoveredByDonor": true,
-    "date": "05 Aug 2026"
-  },
-  {
     "id": "159440",
     "category": "Electrical Home Appliances",
     "name": "Air Sterilizer",
@@ -2769,6 +2714,23 @@
     },
     "deliveryCostsCoveredByDonor": true,
     "date": "03 Aug 2026"
+  },
+  {
+    "id": "160200",
+    "category": "Others",
+    "name": "Mobile phone",
+    "description": "Client is an elderly 72-year-old male who is currently homeless and in need of a mobile phone so that he can maintain contact with his social worker at the Family Service Centre",
+    "specifications": "1 mobile phone",
+    "contact": {
+      "org": "PPIS Family Service Centre (West)",
+      "name": "Regine Yeo",
+      "email": "regine.yeo@ppis.sg",
+      "phone": [
+        "65613462"
+      ]
+    },
+    "deliveryCostsCoveredByDonor": true,
+    "date": "31 Aug 2026"
   },
   {
     "id": "160186",

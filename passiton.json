@@ -1,9 +1,9 @@
 {
   "requests": [
     {
-      "id": "160188",
+      "id": "160195",
       "category": "Infant and Children Items",
-      "name": "Baby Diaper",
+      "name": "Baby diapers (Urgent)",
       "description": "Client and family are staying in a 2-room rental flat. The family's financial resources are primarily supported by the husband, while the client stays at home to care for the children. The family is in need of diapers for their 2-year-old toddler.",
       "specifications": "Size: XL",
       "contact": {
@@ -1112,42 +1112,6 @@
       "date": "12 Aug 2026"
     },
     {
-      "id": "159599",
-      "category": "Infant and Children Items",
-      "name": "Frisolac Gold Stage 2 Infant Milk Powder",
-      "description": "The client is a single mother of two young children and is currently receiving financial assistance. Due to her financial constraints, she requires support with essential household expenses, including milk powder for her children. A donation of milk powder would help ease her financial burden and support the children's nutritional needs.",
-      "specifications": null,
-      "contact": {
-        "org": "AWWA Family Service Centre",
-        "name": "Ong Meichun",
-        "email": "meichun_ong@awwa.org.sg",
-        "phone": [
-          "88784697",
-          "65119456"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "11 Aug 2026"
-    },
-    {
-      "id": "159598",
-      "category": "Infant and Children Items",
-      "name": "Diapers (Drypers Skinature Diapers - Size M)",
-      "description": "The client is a single mother of two young children and is currently receiving financial assistance. Due to her financial constraints, she requires support with essential expenses, including diapers for her children. A donation of diapers would help ease her financial burden and support the children's daily needs.",
-      "specifications": "Size M",
-      "contact": {
-        "org": "AWWA Family Service Centre",
-        "name": "Ong Meichun",
-        "email": "meichun_ong@awwa.org.sg",
-        "phone": [
-          "88784697",
-          "65119456"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "11 Aug 2026"
-    },
-    {
       "id": "159595",
       "category": "Infant and Children Items",
       "name": "Diapers and Milk",
@@ -1541,6 +1505,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "31 Jul 2026"
+    },
+    {
+      "id": "160194",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Client is a 70-year-old senior with multiple chronic medical conditions and leg weakness who has recently lost his job. His physical limitations make it increasingly difficult for him to handwash his clothes. We seek support for a washing machine, inclusive of installation and setup costs, as the client is unable to afford these expenses. This will ensure that the appliance can be safely installed and put into use to support his daily living needs and maintain his independence.",
+      "specifications": null,
+      "contact": {
+        "org": "SACS Anglican Cluster Operator - Peace Connect",
+        "name": "Andrea Lok",
+        "email": "andrea_lok@sacs.org.sg",
+        "phone": [
+          "62912473"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "31 Aug 2026"
     },
     {
       "id": "160187",
@@ -2083,24 +2064,6 @@
         ]
       },
       "deliveryCostsCoveredByDonor": false,
-      "date": "20 Aug 2026"
-    },
-    {
-      "id": "159902",
-      "category": "Electrical Home Appliances",
-      "name": "TV",
-      "description": "Client is a single parent who has loss her child due to cancer currently need a smart TV. She just got a rental house. As a single mum, she has worked hard to create a conducive space for her other child that still schooling and for herself.",
-      "specifications": null,
-      "contact": {
-        "org": "AIN Society",
-        "name": "Nur'Ain Binte Mohamed Said",
-        "email": "nurain@ainsociety.org.sg",
-        "phone": [
-          "68485116",
-          "68485166"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
       "date": "20 Aug 2026"
     },
     {
@@ -2650,24 +2613,6 @@
       "date": "05 Aug 2026"
     },
     {
-      "id": "159447",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine (9kg load)",
-      "description": "The client is a single mother caring for two young children and is currently receiving financial assistance. As the sole caregiver, she manages all childcare and household responsibilities independently. A washing machine would significantly reduce the time and physical effort required for laundry, enabling her to better manage her daily responsibilities and care for her children.",
-      "specifications": null,
-      "contact": {
-        "org": "AWWA Family Service Centre",
-        "name": "Ong Meichun",
-        "email": "meichun_ong@awwa.org.sg",
-        "phone": [
-          "88784697",
-          "65119456"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "05 Aug 2026"
-    },
-    {
       "id": "159440",
       "category": "Electrical Home Appliances",
       "name": "Air Sterilizer",
@@ -2770,6 +2715,23 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "03 Aug 2026"
+    },
+    {
+      "id": "160200",
+      "category": "Others",
+      "name": "Mobile phone",
+      "description": "Client is an elderly 72-year-old male who is currently homeless and in need of a mobile phone so that he can maintain contact with his social worker at the Family Service Centre",
+      "specifications": "1 mobile phone",
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Regine Yeo",
+        "email": "regine.yeo@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "31 Aug 2026"
     },
     {
       "id": "160186",
@@ -4138,17 +4100,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "160179",
-      "name": "Cabinet Drawer",
-      "description": "White Chest of Drawer.",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "05 Sep 2026",
-      "ageInYears": 4,
-      "dimensions": "L 81cm x D49cm x H101cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "160178",
       "name": "Beige Sofa",
       "description": "3 seater sofa",
@@ -4182,28 +4133,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "160175",
-      "name": "Book Cabinet",
-      "description": "Book Cabinet with Glass",
-      "location": "Springleaf, Tagore, Upper Thomson",
-      "validTill": "05 Sep 2026",
-      "ageInYears": 4,
-      "dimensions": "L 76cm x D 41cm x H 180cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "160171",
-      "name": "Cabinet (2)",
-      "description": "Both cabinets in good condition.",
-      "location": "Changi, Flora, Loyang",
-      "validTill": "03 Sep 2026",
-      "ageInYears": 4,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "160168",
       "name": "Study Table (2)",
       "description": "2 study tables in good condition - blue and green colours - can fold in and out.",
@@ -4226,18 +4155,18 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "160166",
-      "name": "Beige Sofa",
-      "description": "2-seater sofa not sofabed",
-      "location": "Changi, Flora, Loyang",
-      "validTill": "03 Sep 2026",
+      "id": "160198",
+      "name": "Single size bed frame",
+      "description": "Pre-loved Seahorse brand single size pinewood bed frame. Does not come with mattress.\n\nDismantled and will provide screws.",
+      "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
+      "validTill": "06 Sep 2026",
       "ageInYears": 4,
-      "dimensions": "130 x 87 x 84",
+      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
     {
-      "id": "160165",
+      "id": "160199",
       "name": "Single size bed frame",
       "description": "Pre-loved Seahorse brand single size pinewood bed frame. Does not come with mattress.\n\nDismantled and will provide screws.",
       "location": "Admiralty Road, Kranji, Woodgrove, Woodlands",
@@ -4354,17 +4283,6 @@
       "validTill": "07 Sep 2026",
       "ageInYears": 4,
       "dimensions": "L151xB90xH77",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "159971",
-      "name": "Dining chairs",
-      "description": "6 dining chairs old , used but in good condition \nGrey colour",
-      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-      "validTill": "08 Sep 2026",
-      "ageInYears": 4,
-      "dimensions": "450 x 450 mm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -4611,17 +4529,6 @@
       "category": "Infant and Children Items"
     },
     {
-      "id": "159553",
-      "name": "Baby Cot with Mattress",
-      "description": "Well used big cot but still in decent condition. Mattress is used but pretty new.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "09 Sep 2026",
-      "ageInYears": 4,
-      "dimensions": "LxBxH 1.4m x 80cm x 1.3m",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
       "id": "159541",
       "name": "Pink pacifier holders",
       "description": "4 Brand new pink pacifier holders to give away\nCan mail to any part of SG",
@@ -4820,17 +4727,6 @@
       "category": "Medical Aids"
     },
     {
-      "id": "159913",
-      "name": "Electric Hospital Bed with Air Mattress",
-      "description": "Brand New Electric Hospital Bed with Air mattress",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "19 Sep 2026",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
       "id": "159618",
       "name": "Waterproof leg Cast Cover",
       "description": "Waterproof Leg Cast Covers (2 pieces)\n\nProvides watertight protection for casts, bandages and wound areas during showering. Made from comfortable, odourless, non-toxic and latex-free material.\n\nIncludes:\n\n* 1 lightly used for one month\n* 1 brand new",
@@ -4991,17 +4887,6 @@
       "location": "Braddell , Macpherson, Potong Pasir",
       "validTill": "17 Sep 2026",
       "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Others"
-    },
-    {
-      "id": "159723",
-      "name": "Sharp Air Purifier",
-      "description": "1 working condition Sharp Air Purifier, self collect from Toa Payoh please.",
-      "location": "Balestier, Toa Payoh",
-      "validTill": "13 Sep 2026",
-      "ageInYears": 4,
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Others"
