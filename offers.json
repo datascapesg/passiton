@@ -121,45 +121,12 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "160172",
-    "name": "TV Console / cabinet",
-    "description": "It is still good and clean. The bottom cabinet was used to only store toys .",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "09 Sep 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "160171",
     "name": "Cabinet (2)",
     "description": "Both cabinets in good condition.",
     "location": "Changi, Flora, Loyang",
     "validTill": "03 Sep 2026",
     "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160170",
-    "name": "Wardrobe",
-    "description": "In good condition",
-    "location": "Changi, Flora, Loyang",
-    "validTill": "03 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160169",
-    "name": "Queen mattress, no frame",
-    "description": "Lightly used mattress. Only 1.5 yrs.  Will come with a sheet and pillow.",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "03 Sep 2026",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -220,17 +187,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "160162",
-    "name": "Single bed frame and divan",
-    "description": "Single bed with divan. The mattress firmness in the picture. Tenant used less than a year and has moved out.",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "28 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "160157",
     "name": "foldable table",
     "description": "lightly used foldable table in white. In good condition. Can be used for study or side table.",
@@ -271,6 +227,17 @@
     "validTill": "20 Sep 2026",
     "ageInYears": 4,
     "dimensions": "1.6m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160027",
+    "name": "a set of living room furniture",
+    "description": "A set of wooden living room 2 seater sofa, 2 armchairs and a long glass coffee table. More than 4 years but in good condition with golden yellow upholstery. Can pick and choose items separately. Can throw in cushions and 2 leg rests/small ottomans as shown in pictures.",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "23 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": "140x50x90cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -427,6 +394,17 @@
     "dimensions": "Refer to the attached pictures.",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "160192",
+    "name": "Bugaboo Baby Stroller",
+    "description": "Bugaboo Cameleon 3, with baby bassinet and toddler seat in very good condition, lightly used.",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "30 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": "86 L × 59 W × 101 H cm when open, and 90 × 59 × 31 cm folded.",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "160139",
@@ -627,6 +605,17 @@
     "category": "Infant and Children Items"
   },
   {
+    "id": "160184",
+    "name": "CIF - ALL-PURPOSE CLEANER",
+    "description": "CIF PROFESSIONAL ALL-PURPOSE CLEANER 4.2L\nPLS SELF PICK UP FROM MY BLOCK.\nWILL ADVICE THE DETAILS WHEN YOU CONFIRM TAKING THIS ITEM.",
+    "location": null,
+    "validTill": "30 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Kitchen Utility Items"
+  },
+  {
     "id": "159921",
     "name": "Stainless steel pots and pans",
     "description": "Total of 4 frying pans of different sizes (2 of which are stainless steel). \n1 big stainless steel soup pot\n2 smaller stainless steel pot (cook maggie noodles)",
@@ -799,17 +788,6 @@
     "validTill": "29 Sep 2026",
     "ageInYears": 1,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "160158",
-    "name": "Wheelchair",
-    "description": "Wheelchair",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "27 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": "Unfolded Size (L x W x H): 930 mm × 620 mm × 860 mm    Folded Size (L x W x H): 670 mm × 300 mm × 685 mm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
