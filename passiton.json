@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "156741",
+      "category": "Infant and Children Items",
+      "name": "Pediasure® Gold w Peptigro Vanilla 850g",
+      "description": "Our low-income beneficiaries require assistance with their necessities for their children while they work towards financial stability. These include milk powder and diapers. Club Rainbow only accepts unopened items.",
+      "specifications": null,
+      "contact": {
+        "org": "Club Rainbow (Singapore)",
+        "name": "Nurulhuda Binte Abu Bakar",
+        "email": "nurul@clubrainbow.org",
+        "phone": [
+          "81336189",
+          "63771789"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Sep 2026"
+    },
+    {
       "id": "160195",
       "category": "Infant and Children Items",
       "name": "Baby diapers (Urgent)",
@@ -1361,6 +1379,24 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "18 Aug 2026"
+    },
+    {
+      "id": "160204",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Seeking a donation of a washing machine for a single mother with two young children (3 months and 3 years old). Their current machine is spoilt, and the family is unable to afford a replacement. The mother works part-time doing food delivery, while the children's father is currently incarcerated and will only be released next year. Any assistance would be greatly appreciated.",
+      "specifications": "any",
+      "contact": {
+        "org": "MSF Social Service Office @ Boon Lay",
+        "name": "Celene Ng",
+        "email": "celene_ng@msf.gov.sg",
+        "phone": [
+          "67367545",
+          "68678580"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "01 Sep 2026"
     },
     {
       "id": "160194",
@@ -3920,13 +3956,24 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "160201",
-      "name": "Cabinet",
-      "description": "White cabinet with sliding door and 3tier drawers, black glass top.",
-      "location": "Cairnhill, Killiney, Orchard, River Valley",
-      "validTill": "09 Sep 2026",
-      "ageInYears": 2,
-      "dimensions": "1600 * 400* 900",
+      "id": "160203",
+      "name": "Sofa Bed",
+      "description": "Spacious and big. Can recline and use either as sofa or sofa bed as seen in the picture. Used less then 2x after purchase due to space constraint. Comes with 2 cushions.. material soft and cuddly.\n\nDue to the size, would prefer recipient to arrange own transport and self pay transportation",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "30 Sep 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "160202",
+      "name": "Mattress with frame",
+      "description": "Super single bed",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "18 Sep 2026",
+      "ageInYears": 1,
+      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
