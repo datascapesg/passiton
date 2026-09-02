@@ -1,6 +1,40 @@
 {
   "requests": [
     {
+      "id": "160267",
+      "category": "Infant and Children Items",
+      "name": "Baby Diaper",
+      "description": "Client (F/21) is staying in a 1-rm flat with her husband and 2 young children, one of whom has been diagnosed with autism. The family is facing financial difficulties and unable to afford diapers for their children.",
+      "specifications": "Size: L",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Norlizawati Binte Hamid",
+        "email": "norlizawati@thkmc.org.sg",
+        "phone": [
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Sep 2026"
+    },
+    {
+      "id": "160266",
+      "category": "Infant and Children Items",
+      "name": "Baby Diaper",
+      "description": "Client (F/21) is staying in a 1-rm flat with her husband and 2 young children, one of whom has been diagnosed with autism. The family is facing financial difficulties and unable to afford diapers for their children.",
+      "specifications": "Size: XXL",
+      "contact": {
+        "org": "THK Family Service Centre @ Tanjong Pagar",
+        "name": "Norlizawati Binte Hamid",
+        "email": "norlizawati@thkmc.org.sg",
+        "phone": [
+          "62706711"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Sep 2026"
+    },
+    {
       "id": "160254",
       "category": "Infant and Children Items",
       "name": "Huggies Pull Up Pants XL",
@@ -1454,6 +1488,42 @@
       "date": "18 Aug 2026"
     },
     {
+      "id": "160264",
+      "category": "Electrical Home Appliances",
+      "name": "Microwave Oven",
+      "description": "Family of 2, consisting of a single mother and her 5-year-old daughter. Their current microwave oven has turned mouldy, making it no longer safe to use. The family is financially unable to afford a replacement and is seeking donation of an microwave oven. Assistance from the donor to cover transport arrangement and delivery costs would also be greatly appreciated. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Toa Payoh",
+        "name": "Regina Pua",
+        "email": "regina_pua@msf.gov.sg",
+        "phone": [
+          "67367647",
+          "67157503"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Sep 2026"
+    },
+    {
+      "id": "160258",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "The family comprises two elderly caregivers and two school-going children. The elderly caregivers are the primary caregivers for their grandchildren and have been experiencing difficulties managing household laundry as the family's washing machine is no longer functional. As a result, they have been hand-washing the family's clothes, which is physically demanding and unsustainable given their age. Provision of a functional washing machine would significantly alleviate their caregiving burden and improve the family's daily living conditions.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Service Centre @ Champions Way",
+        "name": "Joanna Tay",
+        "email": "joannatay@fycs.org",
+        "phone": [
+          "66901029",
+          "66901000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Sep 2026"
+    },
+    {
       "id": "160229",
       "category": "Electrical Home Appliances",
       "name": "Microwave and Electrical Kettle",
@@ -1675,24 +1745,6 @@
         "email": "isabel.kang@shenghong.org.sg",
         "phone": [
           "62895022"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Aug 2026"
-    },
-    {
-      "id": "160145",
-      "category": "Electrical Home Appliances",
-      "name": "Smart TVs (few sets)",
-      "description": "We would like to request for a few sets of Smart TVs, preferably between 47 and 65 inches, either brand-new or pre-loved in good working condition and less than 4 years old, for our upcoming centre.\n\nKindly email us for details or arrangements. Thank you.",
-      "specifications": "47 to 55 inches",
-      "contact": {
-        "org": "Dementia Singapore",
-        "name": "Nur Aishah",
-        "email": "nur.aishah@dementia.org.sg",
-        "phone": [
-          "63895133",
-          "63895108"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -2787,6 +2839,60 @@
       "date": "03 Aug 2026"
     },
     {
+      "id": "160262",
+      "category": "Others",
+      "name": "Samsung Galaxy S22 Smartphone",
+      "description": "Client, low vision, unemployed and lives with husband. Client was taught by SAVH in mode of visually accessibility of Samsung smartphone and she is familiar with usage for Samsung Galaxy S22. She reported recently her Galaxy S22 is faulty, and her husband (a dialysis patient) has an operation on his left knee, as such due to her financial constraint, she cannot afford to buy a new or secondhand iPhone. Thus, she is requesting a secondhand Galaxy S22 or later version for her daily use.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Association of the Visually Handicapped",
+        "name": "Steven Yew Kwok Wai",
+        "email": "steven@savh.org.sg",
+        "phone": [
+          "62514331ext507",
+          "62514331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Sep 2026"
+    },
+    {
+      "id": "160261",
+      "category": "Others",
+      "name": "Nokia 125 4G Phone",
+      "description": "Client, poor vision, working as a admin assistant, lives with elderly parents. Client is a NOKIA phone user, and the reason she only uses NOKIA 125 4G phones is because of her vision and the familiarization with NOKIA phones. Now her phone is spoilt, and she cannot afford to buy a new one, as much of her budget is set aside for her parents’ medical fees. Thus, she is seeking help from Pass It On for a NOKIA 125 4g phone to wish for.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Association of the Visually Handicapped",
+        "name": "Steven Yew Kwok Wai",
+        "email": "steven@savh.org.sg",
+        "phone": [
+          "62514331ext507",
+          "62514331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Sep 2026"
+    },
+    {
+      "id": "160260",
+      "category": "Others",
+      "name": "Big Button Cordless Phone",
+      "description": "Client, low vision poor partial, retiree and living alone. Client needs a big button cordless phone to replace his current home cordless phone, because due to his deteriorating vision the buttons of the current home phone are too small for his vision to see to dial, as such he frequently dialed wrongly and called wrongly.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Association of the Visually Handicapped",
+        "name": "Steven Yew Kwok Wai",
+        "email": "steven@savh.org.sg",
+        "phone": [
+          "62514331ext507",
+          "62514331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Sep 2026"
+    },
+    {
       "id": "160256",
       "category": "Others",
       "name": "Urgent: Interim food rations",
@@ -3261,6 +3367,42 @@
       "date": "03 Aug 2026"
     },
     {
+      "id": "160263",
+      "category": "Home Furnishing",
+      "name": "Dining Table",
+      "description": "Client, total blindness, lives with her sister (also total blindness) has reported their dining table is damage with loose joints, both of them is under PA assistance and they do not have extra budget to buy a new table, thus, they are seeking help to request for table to replace their spoilt table.",
+      "specifications": "Length 114cm by Width 70cm",
+      "contact": {
+        "org": "Singapore Association of the Visually Handicapped",
+        "name": "Steven Yew Kwok Wai",
+        "email": "steven@savh.org.sg",
+        "phone": [
+          "62514331ext507",
+          "62514331"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Sep 2026"
+    },
+    {
+      "id": "160257",
+      "category": "Home Furnishing",
+      "name": "NEW mattress",
+      "description": "Client is unemployed with health and mobility issues, recently moved into rental flat and is sleeping on a donated bed frame with a cloth on it. Seeking donations for super single sized mattress (NEW, unused).",
+      "specifications": "Super single",
+      "contact": {
+        "org": "AWWA Family Service Centre",
+        "name": "Nur Hidayah Bte Sarifudin",
+        "email": "hidayah_sarifudin@awwa.org.sg",
+        "phone": [
+          "65119449",
+          "65119456"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Sep 2026"
+    },
+    {
       "id": "160237",
       "category": "Home Furnishing",
       "name": "Chair for living room",
@@ -3594,23 +3736,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "19 Aug 2026"
-    },
-    {
-      "id": "159814",
-      "category": "Home Furnishing",
-      "name": "Sofa (Wooden type)",
-      "description": "Client is living in a 2 room rental flat. She is looking for a preloved wooden chair. Thank you!",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Norlizawati Binte Hamid",
-        "email": "norlizawati@thkmc.org.sg",
-        "phone": [
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "18 Aug 2026"
     },
     {
       "id": "159764",
@@ -4108,6 +4233,24 @@
       "date": "19 Aug 2026"
     },
     {
+      "id": "160268",
+      "category": "Leisure and Healthy Lifestyle",
+      "name": "2/3/4 Wheeled Bicycle",
+      "description": "Client is a 39-year-old man with limited social support and financial difficulties. He is currently working as a Grab food delivery rider on foot and remains motivated to earn an income independently. A donated 2/3/4 wheels Bicycle (3/4 Wheel preferably) would significantly improve his mobility, allowing him to accept more delivery orders and increase his earning capacity. We seek kind assistance to support the Client with a 2/3/4 Wheels Bicycle to help him sustain his employment and achieve greater financial independence.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Sengkang 206B",
+        "name": "Tan Jia Wei",
+        "email": "tanjiawei@allkin.org.sg",
+        "phone": [
+          "60384150",
+          "63128100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "02 Sep 2026"
+    },
+    {
       "id": "160218",
       "category": "Leisure and Healthy Lifestyle",
       "name": "Bicycle with 2 child seats, front and back (17kg and 20kg) and bicycle lock",
@@ -4268,17 +4411,6 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "160242",
-      "name": "Refridgerator",
-      "description": "401 Litres. Top Freezer. Works well and still in good condition.\n\navailable from 16 Sep",
-      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-      "validTill": "21 Sep 2026",
-      "ageInYears": 4,
-      "dimensions": "186H 70W 68D",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "160132",
       "name": "55” LED TV",
       "description": "Philips LED TV (Non-Smart) without stand, need to be mounted.",
@@ -4323,6 +4455,17 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "160265",
+      "name": "Super single mattress",
+      "description": "Like new super single mattress. Used for about 1 year. Clean, no stains",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "02 Oct 2026",
+      "ageInYears": 1,
+      "dimensions": "107cm x 190cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "160238",
       "name": "Table",
       "description": "Excellent condition, can function as a small dining table or study table.",
@@ -4356,17 +4499,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "160219",
-      "name": "Marble Table with 4 Chair",
-      "description": "Clean and in good conditions. come with 4 chairs.",
-      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-      "validTill": "21 Sep 2026",
-      "ageInYears": 3,
-      "dimensions": "160x90cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "160209",
       "name": "Mattress (super single)",
       "description": "Super-single sized mattress.\nPocketed-springs.\nClean; in very good condition.\nFirmness: 6.5 out of 10\nUsed for 2 years",
@@ -4389,17 +4521,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "160178",
-      "name": "Beige Sofa",
-      "description": "3 seater sofa",
-      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "05 Sep 2026",
-      "ageInYears": 4,
-      "dimensions": "L193cm x D82cm x H95cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "160177",
       "name": "Side Shelf",
       "description": "Side table",
@@ -4411,24 +4532,13 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "160176",
+      "id": "160259",
       "name": "Writing Table",
       "description": "Writing table without the side table. Side Table posted separately.",
       "location": "Springleaf, Tagore, Upper Thomson",
       "validTill": "05 Sep 2026",
       "ageInYears": 4,
       "dimensions": "L 149cm x D74cm x H 75cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "160225",
-      "name": "Book Cabinet",
-      "description": "Book Cabinet with Glass",
-      "location": "Springleaf, Tagore, Upper Thomson",
-      "validTill": "05 Sep 2026",
-      "ageInYears": 4,
-      "dimensions": "L 76cm x D 41cm x H 180cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
@@ -4495,17 +4605,6 @@
       "validTill": "28 Sep 2026",
       "ageInYears": 4,
       "dimensions": "170x89x82",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "160157",
-      "name": "foldable table",
-      "description": "lightly used foldable table in white. In good condition. Can be used for study or side table.",
-      "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-      "validTill": "27 Sep 2026",
-      "ageInYears": 2,
-      "dimensions": "65 w x 75 h x 45 d",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
     },
