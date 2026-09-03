@@ -66,17 +66,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "160247",
-    "name": "Two doors fridge",
-    "description": "Need to give away asap.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "08 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "160132",
     "name": "55” LED TV",
     "description": "Philips LED TV (Non-Smart) without stand, need to be mounted.",
@@ -271,17 +260,6 @@
     "validTill": "06 Sep 2026",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160164",
-    "name": "Dark Grey Sofa",
-    "description": "3 seater sofa, dark grey fabric.",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "28 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": "170x89x82",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -616,6 +594,17 @@
     "category": "Kitchen Utility Items"
   },
   {
+    "id": "160295",
+    "name": "Niemeyer Piano",
+    "description": "Still in good conditions! Middle Peddle does not work and only a few keys need tuning",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "03 Oct 2026",
+    "ageInYears": 2,
+    "dimensions": "50cm × 150cm x 109.5cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Leisure and Healthy Lifestyle"
+  },
+  {
     "id": "160032",
     "name": "Used xiaomi weight scale",
     "description": "Great condition, misplaced batteries however",
@@ -691,6 +680,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Learning Aids"
+  },
+  {
+    "id": "160294",
+    "name": "oxygen tanks",
+    "description": "2 oxygen tanks for donation. One used and another unopened\nOxygen Cylinder 415L\nOne is very old but they work completely well... will deliver this",
+    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
+    "validTill": "03 Oct 2026",
+    "ageInYears": 2,
+    "dimensions": "20 cm high. 415L",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
+  },
+  {
+    "id": "160284",
+    "name": "Hospital Bed, Air Matter, Chair",
+    "description": "Hospital Bed, Air Matter, Chair as pictures attached",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "15 Sep 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Medical Aids"
   },
   {
     "id": "160173",
