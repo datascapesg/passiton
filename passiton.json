@@ -1,6 +1,75 @@
 {
   "requests": [
     {
+      "id": "160316",
+      "category": "Infant and Children Items",
+      "name": "Baby Gate",
+      "description": "Client is a single mother of 3 living in a rental flat. She is trying to balance between her caregiving role, emotional stressors, and financial stability of family; and would benefit from a baby gate for her 1 year old daughter.",
+      "specifications": "65 - 74cm and a gate extension of 7cm",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+        "name": "Dishalani D/O Anbanathan",
+        "email": "dishalani@allkin.org.sg",
+        "phone": [
+          "60384135",
+          "60384100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Sep 2026"
+    },
+    {
+      "id": "160315",
+      "category": "Infant and Children Items",
+      "name": "Baby cot and baby boy clothes",
+      "description": "Single mum is looking for a baby cot and baby boy clothes for her coming baby. Direct delivery to Lengkok Bahru is appreciated.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Fitrah Nabilah",
+        "email": "fitrahnabilah@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Sep 2026"
+    },
+    {
+      "id": "160314",
+      "category": "Infant and Children Items",
+      "name": "Baby cot, girls clothes",
+      "description": "Low income family is looking for donation of baby cot and baby girl clothes to prepare for their coming baby girl. Direct delivery to their home in Buona Vista is appreciated.",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Fitrah Nabilah",
+        "email": "fitrahnabilah@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Sep 2026"
+    },
+    {
+      "id": "160308",
+      "category": "Infant and Children Items",
+      "name": "Similac milk (Stage 1)",
+      "description": "Low income family facing financial strain is looking for Similac milk (Stage1) for their 5-month old while they wait for assistance to be approved. Direct delivery to their home in Buona Vista is appreciated!",
+      "specifications": null,
+      "contact": {
+        "org": "Care Corner Family Service Centre - Queenstown",
+        "name": "Fitrah Nabilah",
+        "email": "fitrahnabilah@carecorner.org.sg",
+        "phone": [
+          "64761481"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Sep 2026"
+    },
+    {
       "id": "160300",
       "category": "Infant and Children Items",
       "name": "Baby cot with mesh sides",
@@ -33,23 +102,6 @@
       },
       "deliveryCostsCoveredByDonor": false,
       "date": "03 Sep 2026"
-    },
-    {
-      "id": "160266",
-      "category": "Infant and Children Items",
-      "name": "Baby Diaper",
-      "description": "Client (F/21) is staying in a 1-rm flat with her husband and 2 young children, one of whom has been diagnosed with autism. The family is facing financial difficulties and unable to afford diapers for their children.",
-      "specifications": "Size: XXL",
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Norlizawati Binte Hamid",
-        "email": "norlizawati@thkmc.org.sg",
-        "phone": [
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "02 Sep 2026"
     },
     {
       "id": "160254",
@@ -1505,6 +1557,42 @@
       "date": "18 Aug 2026"
     },
     {
+      "id": "160319",
+      "category": "Electrical Home Appliances",
+      "name": "Rice cooker",
+      "description": "A single mother and her son with special needs is living in a 1-room rental flat and requires a rice cooker as she does not have one for cooking. She is currently job searching and has no funds to buy a new one. Please Whatsapp me at 62319407 if you have a suitable one to donate, thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Woodlands, Sembawang",
+        "name": "Fatimah Azzahrah",
+        "email": "fatimah_azzahrah_noor@msf.gov.sg",
+        "phone": [
+          "62319407",
+          "67660097"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Sep 2026"
+    },
+    {
+      "id": "160318",
+      "category": "Electrical Home Appliances",
+      "name": "Washing machine",
+      "description": "A single mother and her son with special needs is living in a 1-room rental flat and requires a new washing machine as their current one is spoilt. She is currently job searching and has no funds to buy a new one. Please Whatsapp me at 62319407 if you have a suitable one to donate, thank you!",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Woodlands, Sembawang",
+        "name": "Fatimah Azzahrah",
+        "email": "fatimah_azzahrah_noor@msf.gov.sg",
+        "phone": [
+          "62319407",
+          "67660097"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Sep 2026"
+    },
+    {
       "id": "160297",
       "category": "Electrical Home Appliances",
       "name": "Washing Machine",
@@ -2785,6 +2873,93 @@
       "date": "05 Aug 2026"
     },
     {
+      "id": "160313",
+      "category": "Others",
+      "name": "Air Mattress",
+      "description": "Pt, elderly female, is bedbound after a stroke, and her helper and elderly husband are the main caregiver. Husband had mini stroke recently. Main daughter is the spokesperson but she has 2 young dependents to support besides pt and pt's husband. Pt's air mattress is faulty, and she would benefit from a brand new air mattress (exact model: Bion Air Mattress V450) to ease daughter's financial burden.",
+      "specifications": "Bion Air Mattress V450",
+      "contact": {
+        "org": "St Luke's Hospital Ltd",
+        "name": "Lee Xin Yi",
+        "email": "xinyilee@stluke.org.sg",
+        "phone": [
+          "66977519",
+          "65632281"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Sep 2026"
+    },
+    {
+      "id": "160307",
+      "category": "Others",
+      "name": "Ensure Life Strength Pro milk powder (Vanilla)",
+      "description": "Client is an elderly lady living alone with limited social support and an estranged relationship with her family. She is on Public Assistance and has been assessed to be permanently unfit for work due to multiple chronic medical conditions. Due to significant lower limb weakness, she has difficulty purchasing and preparing food regularly. Ensure Life Strength Pro milk powder serves as a meal replacement to support her nutritional needs, and she requires approximately six tins per month.",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Family Services SSO @ Taman Jurong",
+        "name": "Rachel Kong",
+        "email": "rachelkong@fycs.org",
+        "phone": [
+          "69783108",
+          "62672900"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Sep 2026"
+    },
+    {
+      "id": "160304",
+      "category": "Others",
+      "name": "10 Toothbrushes and Toothpastes",
+      "description": "PPIS FSCW RELIGHT would like to request for 10 or more toothpastes and toothbrushes for its beneficiaries. Thank you! \n\n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Nur Aisyah Binte Abdul Manan",
+        "email": "nuraisyah.manan@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Sep 2026"
+    },
+    {
+      "id": "160303",
+      "category": "Others",
+      "name": "10 Halal Assorted Biscuits",
+      "description": "PPIS FSCW RELIGHT would like to request for 10 or more halal assorted biscuits for its beneficiaries. Thank you! \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Nur Aisyah Binte Abdul Manan",
+        "email": "nuraisyah.manan@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Sep 2026"
+    },
+    {
+      "id": "160302",
+      "category": "Others",
+      "name": "10 Halal 3-in-1 Milo",
+      "description": "PPIS FSCW RELIGHT would like to request for 10 or more halal 3-in-1 Milo for its beneficiaries. Thank you! \n\nRELIGHT is an initiative by PPIS FSC (West) to actively support beneficiaries through disbursement of donated items from individuals and corporate donors. These include daily necessities and fresh produce, which is distributed every quarter of the year.",
+      "specifications": null,
+      "contact": {
+        "org": "PPIS Family Service Centre (West)",
+        "name": "Nur Aisyah Binte Abdul Manan",
+        "email": "nuraisyah.manan@ppis.sg",
+        "phone": [
+          "65613462"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Sep 2026"
+    },
+    {
       "id": "160298",
       "category": "Others",
       "name": "Underpads and wet wipes",
@@ -3457,47 +3632,29 @@
       "date": "05 Aug 2026"
     },
     {
+      "id": "160317",
+      "category": "Home Furnishing",
+      "name": "4 doors wardrobe",
+      "description": "Household of 3 with 1 breadwinner earning a very limited amount. Their wardrobe has broken down beyond repair and they cannot afford to replace them.",
+      "specifications": null,
+      "contact": {
+        "org": "Allkin Family Service Centre @ Ang Mo Kio 230",
+        "name": "Dishalani D/O Anbanathan",
+        "email": "dishalani@allkin.org.sg",
+        "phone": [
+          "60384135",
+          "60384100"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "04 Sep 2026"
+    },
+    {
       "id": "160292",
       "category": "Home Furnishing",
       "name": "Plastic Chest Drawers",
       "description": "Single mother with one son looking for plastic pull out drawers to store their items.",
       "specifications": "70 to 74cm in length",
-      "contact": {
-        "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
-        "name": "Grace Lim",
-        "email": "grace_lim@msf.gov.sg",
-        "phone": [
-          "68590811",
-          "62957205"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Sep 2026"
-    },
-    {
-      "id": "160291",
-      "category": "Home Furnishing",
-      "name": "Cupboard",
-      "description": "Single mother with one son looking to replace their broken cupboard to store their clothes. Max height is about 200cm and max width is 165cm.",
-      "specifications": "200cm x 165cm",
-      "contact": {
-        "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
-        "name": "Grace Lim",
-        "email": "grace_lim@msf.gov.sg",
-        "phone": [
-          "68590811",
-          "62957205"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "03 Sep 2026"
-    },
-    {
-      "id": "160290",
-      "category": "Home Furnishing",
-      "name": "Small Dining Table",
-      "description": "Single mother with one primary school son looking for a small dining table set with 2 chairs to have their meals. Preferably not wooden.Measurements are a rough guage as house is small.",
-      "specifications": "90cm x 60cm",
       "contact": {
         "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
         "name": "Grace Lim",
@@ -3648,23 +3805,6 @@
         "phone": [
           "81883314",
           "64491440"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Aug 2026"
-    },
-    {
-      "id": "160105",
-      "category": "Home Furnishing",
-      "name": "Queen-sized Bed + Mattress",
-      "description": "Looking for a queen-sized mattress for a teenager. He previously had a bad skin condition, causing to bleed over the bed and there are many stains. Recently his condition got better, but he hopes to have a new bed to celebrate this new chapter of his life. Family does not have enough disposable income despite working long hours to buy a mattress.",
-      "specifications": null,
-      "contact": {
-        "org": "SHINE Children and Youth Services - Clementi",
-        "name": "Chua Xin Hui Angel",
-        "email": "angel_chua@shine.org.sg",
-        "phone": [
-          "67786867"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -4508,17 +4648,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "160278",
-      "name": "Bed and mattress",
-      "description": "Super single bed\n190cm L x 107cm W x 28cm H (incl legs)\n\nMattress\n190cm L x 107cm W x 29cm H",
-      "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-      "validTill": "30 Sep 2026",
-      "ageInYears": 4,
-      "dimensions": "190 cm x 107 cm x 60 cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
       "id": "160269",
       "name": "White Loft Bed Frame",
       "description": "Loft bed with ladder. Saves space underneath.",
@@ -4871,17 +5000,6 @@
       "category": "Infant and Children Items"
     },
     {
-      "id": "159563",
-      "name": "Mdm Partum Milk saver bags, milk collector cup, milk saver shell",
-      "description": "Brand new",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "09 Sep 2026",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
       "id": "159562",
       "name": "Brand new pacifier clips for boys",
       "description": "Brand new, can mail to anywhere in sg",
@@ -5012,6 +5130,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Leisure and Healthy Lifestyle"
+    },
+    {
+      "id": "160311",
+      "name": "school-going bags",
+      "description": "school-going bags \nbag pack ... ?\npreference goes to students\n\ni don't pay for collection.\nbrand new condition .\n\npreference goes to school-going children or students ...",
+      "location": "Boon Lay, Jurong, Tuas",
+      "validTill": "04 Oct 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Learning Aids"
+    },
+    {
+      "id": "160310",
+      "name": "school going bag",
+      "description": "school - going bags ...\n\nbrand new back-pack, \ni cannot pay for collection ,\n\ncollect @ boon lay area .",
+      "location": "Boon Lay, Jurong, Tuas",
+      "validTill": "04 Oct 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Learning Aids"
     },
     {
       "id": "159486",
@@ -5155,6 +5295,28 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
+    },
+    {
+      "id": "160312",
+      "name": "tote bags ?",
+      "description": "tote bags ... ? i got 2 of these ...\n\ncollect at boon lay drive area .\nopen to all ..",
+      "location": "Boon Lay, Jurong, Tuas",
+      "validTill": "04 Oct 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
+    },
+    {
+      "id": "160309",
+      "name": "office chair covers",
+      "description": "Office Chair Covers , according to photos .. \n\nplease collect , i don't pay for collection .\n\ni got 2 of these , almost brand new condition .",
+      "location": "Boon Lay, Jurong, Tuas",
+      "validTill": "04 Oct 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Others"
     },
     {
       "id": "160276",
