@@ -55,7 +55,18 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "160282",
+    "id": "160334",
+    "name": "Fridge",
+    "description": "Self collect",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "09 Sep 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160335",
     "name": "Fridge",
     "description": "Self collect",
     "location": "Pasir Ris, Simei, Tampines",
@@ -119,6 +130,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "160333",
+    "name": "6 feet TV console",
+    "description": "Good as new 6 feet TV console",
+    "location": null,
+    "validTill": "05 Oct 2026",
+    "ageInYears": 2,
+    "dimensions": "183cm x 56cm x 71cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "160326",
