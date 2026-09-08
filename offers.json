@@ -55,17 +55,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "160347",
-    "name": "Philips TV",
-    "description": "Working television.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "30 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": "95cm by 56cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "160334",
     "name": "Fridge",
     "description": "Self collect",
@@ -154,34 +143,34 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "160423",
-    "name": "Fridge",
-    "description": "Single mattress\nQueen mattress\n3 seater sofa\n2 seater sofa\nMassage chair\nFridge \nWashing machine",
-    "location": "Changi, Flora, Loyang",
-    "validTill": "16 Sep 2026",
+    "id": "160453",
+    "name": "New bamboo/rattan mat",
+    "description": "Brand new bamboo/rattan mat.\nSuitable to place on the floor.\nOr maybe can place over old/worn queen size mattress as temporary measure.",
+    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+    "validTill": "30 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": "160cm x 180cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160440",
+    "name": "Super Single Mattress",
+    "description": "Good as new\nNo stains",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
+    "validTill": "12 Sep 2026",
     "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
   {
-    "id": "160417",
-    "name": "Queen size bedframe and old mattress",
-    "description": "Wooden queen size bed made of good material.",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "11 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": "L197xB154xH86",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160416",
-    "name": "IKEA Single bed with pull out bed",
-    "description": "As good as new ikea single bed frame with pull out bed",
-    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
-    "validTill": "18 Sep 2026",
-    "ageInYears": 2,
+    "id": "160423",
+    "name": "Fridge",
+    "description": "Single mattress\nQueen mattress\n3 seater sofa\n2 seater sofa\nMassage chair\nFridge \nWashing machine",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "16 Sep 2026",
+    "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
@@ -315,17 +304,6 @@
     "validTill": "06 Oct 2026",
     "ageInYears": 2,
     "dimensions": "180 x 90 x 26",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160340",
-    "name": "Marble coffee table",
-    "description": "Sturdy marble coffee table. Cherished it for many years, but now we are moving to a smaller space.",
-    "location": "West",
-    "validTill": "05 Oct 2026",
-    "ageInYears": 4,
-    "dimensions": "130cm X 70cm X 40cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -933,17 +911,6 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
-  },
-  {
-    "id": "160425",
-    "name": "Adult Diapers",
-    "description": "L-size Adult Diapers. Self-collect",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "15 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Others"
   },
   {
     "id": "160349",
