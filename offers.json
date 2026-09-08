@@ -33,17 +33,6 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "160414",
-    "name": "Samsung TV",
-    "description": "Tv",
-    "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-    "validTill": "22 Sep 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "160413",
     "name": "Washing machine",
     "description": "Washing machine",
@@ -165,13 +154,35 @@
     "category": "Electrical Home Appliances"
   },
   {
-    "id": "160410",
-    "name": "Hospital Bed (Brand New)",
-    "description": "Brand New Hospital Bed, not used before. \n\nRefer to links for more information:\n\nHospital Bed\nhttps://www.rainbowcare.com.sg/3-crank-electrical-luxury?gad_source=1&gad_campaignid=16178945177&gbraid=0AAAAAD3E9DTOVmbJfEu5i1bd5gpjcBUiy&gclid=EAIaIQobChMI6ODKzc7PlgMVfcU8Ah1ighX0EAAYASAAEgJ3BvD_BwE\n\nPressure Mattress\nhttps://www.rainbowcare.com.sg/qdc-501b?search=qdc%20501B",
-    "location": "Boon Lay, Jurong, Tuas",
+    "id": "160423",
+    "name": "Fridge",
+    "description": "Single mattress\nQueen mattress\n3 seater sofa\n2 seater sofa\nMassage chair\nFridge \nWashing machine",
+    "location": "Changi, Flora, Loyang",
+    "validTill": "16 Sep 2026",
+    "ageInYears": 3,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160417",
+    "name": "Queen size bedframe and old mattress",
+    "description": "Wooden queen size bed made of good material.",
+    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
     "validTill": "11 Sep 2026",
-    "ageInYears": 1,
-    "dimensions": "(212 cm / 83.5\") x (109 cm / 43\") x (41 - 69 cm / 16.1\" - 27.2\") (Floor to Bed Base)",
+    "ageInYears": 4,
+    "dimensions": "L197xB154xH86",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "160416",
+    "name": "IKEA Single bed with pull out bed",
+    "description": "As good as new ikea single bed frame with pull out bed",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "18 Sep 2026",
+    "ageInYears": 2,
+    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -425,17 +436,6 @@
     "validTill": "21 Sep 2026",
     "ageInYears": 3,
     "dimensions": "160x90cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "160209",
-    "name": "Mattress (super single)",
-    "description": "Super-single sized mattress.\nPocketed-springs.\nClean; in very good condition.\nFirmness: 6.5 out of 10\nUsed for 2 years",
-    "location": "Pasir Ris, Simei, Tampines",
-    "validTill": "01 Oct 2026",
-    "ageInYears": 2,
-    "dimensions": "190cm x 110cm x 28 cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -933,6 +933,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "160425",
+    "name": "Adult Diapers",
+    "description": "L-size Adult Diapers. Self-collect",
+    "location": "Pasir Ris, Simei, Tampines",
+    "validTill": "15 Sep 2026",
+    "ageInYears": 1,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "160349",
