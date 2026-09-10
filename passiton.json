@@ -161,24 +161,6 @@
       "date": "09 Sep 2026"
     },
     {
-      "id": "160479",
-      "category": "Home Furnishing",
-      "name": "Any commode chair",
-      "description": "Client's husband was recently discharged from a community hospital following the amputation of his left leg. He also has limited strength in his right leg, which affects his mobility and ability to perform daily activities. Client is requesting a commode chair to assist her husband with personal care needs, including toileting and showering.",
-      "specifications": "-",
-      "contact": {
-        "org": "Allkin Family Service Centre @ Cheng San 445",
-        "name": "Frank Lye Wei Bin",
-        "email": "franklye@allkin.org.sg",
-        "phone": [
-          "60384117",
-          "60384120"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Sep 2026"
-    },
-    {
       "id": "160478",
       "category": "Home Furnishing",
       "name": "Queen Size Bed without Frame",
@@ -941,24 +923,6 @@
       "id": "156082",
       "category": "Infant and Children Items",
       "name": "Huggies Diapers XL",
-      "description": "Ct has 3 children and her youngest recently discharged from NICU after being born 1 month premature. Due to the financial constraints, the family requires support in terms of Milk Powder & Diapers for their children. Their finances are spent ensuring that they have shelter over their head as they are currently renting from open market due to their inability to secure their own home.",
-      "specifications": "4 pax",
-      "contact": {
-        "org": "THK Family Service Centre @ Bukit Panjang",
-        "name": "Muhammad Idris Bin Mohd Margono",
-        "email": "idris.margono@thkmc.org.sg",
-        "phone": [
-          "87145182",
-          "67671740"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Sep 2026"
-    },
-    {
-      "id": "156083",
-      "category": "Infant and Children Items",
-      "name": "Huggies Diapers M Size",
       "description": "Ct has 3 children and her youngest recently discharged from NICU after being born 1 month premature. Due to the financial constraints, the family requires support in terms of Milk Powder & Diapers for their children. Their finances are spent ensuring that they have shelter over their head as they are currently renting from open market due to their inability to secure their own home.",
       "specifications": "4 pax",
       "contact": {
@@ -4670,24 +4634,6 @@
       "date": "09 Sep 2026"
     },
     {
-      "id": "160492",
-      "category": "Medical Aids",
-      "name": "Kotex Overnight Panties (M-L Size) - 5 packets (2 pieces each pack)",
-      "description": "Client is a single mother and the main caregiver of a 10-year-old daughter and elderly mother.The daughter has a medical condition that causes heavy and prolonged menstrual bleeding.",
-      "specifications": "-",
-      "contact": {
-        "org": "Allkin Family Service Centre @ Cheng San 445",
-        "name": "Frank Lye Wei Bin",
-        "email": "franklye@allkin.org.sg",
-        "phone": [
-          "60384117",
-          "60384120"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "09 Sep 2026"
-    },
-    {
       "id": "160486",
       "category": "Medical Aids",
       "name": "(Diaper) Depends Adult Diapers (Pants), Size M - 5x",
@@ -6215,6 +6161,17 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "160546",
+      "name": "Huggies Diapers M Size",
+      "description": "Huggies Gold M Size Diapers",
+      "location": "Clementi Park, Hume Avenue, Ulu Pandan, Upper Bukit Timah",
+      "validTill": "11 Oct 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
+    },
+    {
       "id": "160543",
       "name": "Babyhood Classic Curve Cot",
       "description": "Used Babyhood Classic Curve Cot\nFits mattress size 130cm * 70 cm",
@@ -6321,17 +6278,6 @@
       "validTill": "20 Sep 2026",
       "ageInYears": 2,
       "dimensions": "75cm x 64 x 107",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
-      "id": "159658",
-      "name": "Baby Girl Clothing",
-      "description": "For baby girl 3 to 12 months\nSome are lightly worn, others well worn",
-      "location": "Braddell , Macpherson, Potong Pasir",
-      "validTill": "11 Sep 2026",
-      "ageInYears": 1,
-      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Infant and Children Items"
     },
