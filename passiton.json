@@ -1,24 +1,6 @@
 {
   "requests": [
     {
-      "id": "160926",
-      "category": "Home Furnishing",
-      "name": "Wardrobe",
-      "description": "Family of 6. 2 children with special needs and Husband is sole-bread winner. Family is under financial stress with outstanding debts. Family needs to spend on bills, rent and food, making it hard to pay for diapers and milk.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Bukit Panjang",
-        "name": "Muhammad Idris Bin Mohd Margono",
-        "email": "idris.margono@thkmc.org.sg",
-        "phone": [
-          "87145182",
-          "67671740"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "25 Sep 2026"
-    },
-    {
       "id": "160921",
       "category": "Home Furnishing",
       "name": "foldable mattresses",
@@ -153,24 +135,6 @@
         "phone": [
           "69783108",
           "62672900"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "21 Sep 2026"
-    },
-    {
-      "id": "160788",
-      "category": "Home Furnishing",
-      "name": "Queen-sized Bedframe with Mattress",
-      "description": "Family consists of a single mother caring for 3 school-going children aged 7 to 10 staying in a HDB rental flat without a bed.",
-      "specifications": "Queen Sized",
-      "contact": {
-        "org": "South Central Community FSC Ltd",
-        "name": "Mardiana Bte Mohd Amizan",
-        "email": "mardiana@sccfsc.org.sg",
-        "phone": [
-          "88286409",
-          "64619200"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -493,23 +457,6 @@
       "date": "09 Sep 2026"
     },
     {
-      "id": "143459",
-      "category": "Home Furnishing",
-      "name": "Dining Table",
-      "description": "Client is a 23-year-old divorcee and mother of a 5-year-old son and both lives in a rental flat. She is currently seeking employment and has been managing the well-being of her son by herself with little support from her next-of-kin and son's biological father. Client would require dining table so that she could have meals with her son, as the current one has been faulty and she's concern about the safety of themselves to be dining at a faulty table.",
-      "specifications": "60 cm(width) X 120cm (length)",
-      "contact": {
-        "org": "Viriya Family Service Centre",
-        "name": "Lim Hui Yan",
-        "email": "huiyan_lim@viriya.org.sg",
-        "phone": [
-          "62858033"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "08 Sep 2026"
-    },
-    {
       "id": "146686",
       "category": "Home Furnishing",
       "name": "Small sofa bed",
@@ -807,6 +754,41 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "25 Aug 2026"
+    },
+    {
+      "id": "160936",
+      "category": "Infant and Children Items",
+      "name": "NANKID OPTIPRO 3",
+      "description": "Young Parents with young daughter, father who is main breadwinner recently out of work due to employer company not doing well. Home environment is stressful as grandmother has been in and out of hospital for mental health concerns. Seeking assistance with milk powder support.",
+      "specifications": null,
+      "contact": {
+        "org": "Montfort Care Family Service (Telok Blangah)",
+        "name": "Alexandra Nicole",
+        "email": "nicole.alexandra@montfortcare.org.sg",
+        "phone": [
+          "62708327"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Sep 2026"
+    },
+    {
+      "id": "160931",
+      "category": "Infant and Children Items",
+      "name": "Baby Formula",
+      "description": "Seeking formula (Nature One Step 3) for a 13-month-old child currently staying at shelter for domestic violence. These essential items will help meet the child’s daily needs while easing the mother’s financial burden during her stay at the shelter.",
+      "specifications": null,
+      "contact": {
+        "org": "Singapore Council of Women's Organisation (SCWO)",
+        "name": "Atiqah Ismail",
+        "email": "atiqah@scwo.org.sg",
+        "phone": [
+          "65714403",
+          "68370611"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Sep 2026"
     },
     {
       "id": "160925",
@@ -2876,6 +2858,24 @@
       "date": "25 Aug 2026"
     },
     {
+      "id": "159815",
+      "category": "Electrical Home Appliances",
+      "name": "Washing Machine",
+      "description": "Single parent family of 4 with 2 school-going children who requires a washing machine as recently a donated one was unable to spin anymore and is faulty. Family is on active Comcare assistance and unable to afford a washing machine. Would greatly appreciate if donor is able to cover transport expenses. Thank you.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Kreta Ayer",
+        "name": "Mohamad Harith",
+        "email": "harith_husaini@msf.gov.sg",
+        "phone": [
+          "63254547",
+          "1800-222-0000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Sep 2026"
+    },
+    {
       "id": "160924",
       "category": "Electrical Home Appliances",
       "name": "TV",
@@ -4599,6 +4599,23 @@
       "date": "25 Aug 2026"
     },
     {
+      "id": "160930",
+      "category": "Others",
+      "name": "Mobile Phone (Used/New)",
+      "description": "Low-income family is kindly requesting for a mobile phone (used/new) for their mother who has a disability and significant health issues. Family is unable to afford a mobile phone.",
+      "specifications": null,
+      "contact": {
+        "org": "South Central Community FSC Ltd",
+        "name": "Shona D/O Suthendran",
+        "email": "shona@sccfsc.org.sg",
+        "phone": [
+          "64619200"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "25 Sep 2026"
+    },
+    {
       "id": "160865",
       "category": "Others",
       "name": "Ensure Milk (Any Flavour)",
@@ -5647,29 +5664,51 @@
       "category": "Electrical Home Appliances"
     },
     {
-      "id": "160581",
-      "name": "Ceiling fan",
-      "description": "I have two ceiling fans with two speeds slow and fast with lights in good condition.",
-      "location": null,
-      "validTill": "12 Oct 2026",
+      "id": "160937",
+      "name": "Office Long White Table x 5 and 1 grey sofa seater",
+      "description": "We have 5 office long white table and a grey sofa seater",
+      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
+      "validTill": "30 Sep 2026",
       "ageInYears": 2,
-      "dimensions": "36’’",
+      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
+      "category": "Home Furnishing"
     },
     {
-      "id": "160127",
-      "name": "Canon Color imageClass MF8280Cw Wireless 4-in-1 Multifunction Laser Printer",
-      "description": "Printer and ink cartridges provided\nApproximately 28kg altogether\nStill in working condition albeit slightly old \nNo warranty included, looking to donate and cover the cost for collection fee",
-      "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-      "validTill": "26 Sep 2026",
+      "id": "160929",
+      "name": "King size bed frame and mattress",
+      "description": "Good condition\nVery sturdy",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "10 Oct 2026",
       "ageInYears": 4,
-      "dimensions": "43 x 48.5 x 43 cm",
+      "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
+      "category": "Home Furnishing"
     },
     {
-      "id": "160923",
+      "id": "160932",
+      "name": "Side rack",
+      "description": "Side shelving",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "03 Oct 2026",
+      "ageInYears": 3,
+      "dimensions": "30cm x 40cm x 82cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "160933",
+      "name": "Side rack",
+      "description": "Side shelving",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "03 Oct 2026",
+      "ageInYears": 3,
+      "dimensions": "30cm x 40cm x 82cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "160934",
       "name": "Side rack",
       "description": "Side shelving",
       "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
@@ -5768,7 +5807,7 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "160759",
+      "id": "160935",
       "name": "Massage chair",
       "description": "in good condition",
       "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
@@ -5942,6 +5981,17 @@
       "dimensions": "Super Single Size",
       "deliveryCostsCoveredByDonor": true,
       "category": "Home Furnishing"
+    },
+    {
+      "id": "160927",
+      "name": "Baby crib",
+      "description": "Baby crib frame to bless. Can be used from infant to toddler.",
+      "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
+      "validTill": "03 Oct 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Infant and Children Items"
     },
     {
       "id": "160886",
@@ -6184,6 +6234,17 @@
       "dimensions": "47.5x33x58.5cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Medical Aids"
+    },
+    {
+      "id": "160928",
+      "name": "Walking stick",
+      "description": "Lightly used walking stick",
+      "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
+      "validTill": "25 Oct 2026",
+      "ageInYears": 1,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Mobility Aids"
     },
     {
       "id": "160851",
