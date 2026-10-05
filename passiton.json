@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "161138",
+      "category": "Home Furnishing",
+      "name": "Shoe Cabinet",
+      "description": "Family of 4, who is moving into their first rental flat. Need items to help to furnish their space. A shoe cabinet would help to keep the space organised. The family has tight finances, after parents were both retrenched suddenly from their work. They have a daughter who is a teen mum to her toddler son. The items will help alleviate some financial burden as they move in",
+      "specifications": null,
+      "contact": {
+        "org": "Fei Yue Community Services - Youth GO!",
+        "name": "Jesse Chua",
+        "email": "youthgo@fycs.org",
+        "phone": [
+          "96286110",
+          "67622779"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Oct 2026"
+    },
+    {
       "id": "161088",
       "category": "Home Furnishing",
       "name": "Sliding Wardrobe",
@@ -506,6 +524,57 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "04 Sep 2026"
+    },
+    {
+      "id": "161137",
+      "category": "Infant and Children Items",
+      "name": "Diapers (Adult)",
+      "description": "Family is seeking donation for diapers for their 7 years-old child with Autism (preferred: AIRE in size S/M). Family resides at rental flat and is facing financial difficulties raising their 3 children, including a young toddler and a child with special needs.",
+      "specifications": "AIRE (size S/M)",
+      "contact": {
+        "org": "Viriya Community Services - Whispering Hearts Family Service Centre",
+        "name": "Cheow Lin",
+        "email": "cheowlin_goh@viriya.org.sg",
+        "phone": [
+          "67951008"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Oct 2026"
+    },
+    {
+      "id": "161136",
+      "category": "Infant and Children Items",
+      "name": "Request for formula milk powder",
+      "description": "Family is seeking donation for formula milk powder (preferred: Lactogen Stage 3) for their 3 year-old toddler. Family resides at rental flat and is facing financial difficulties caring for their 3 children, including a child with special needs.",
+      "specifications": null,
+      "contact": {
+        "org": "Viriya Community Services - Whispering Hearts Family Service Centre",
+        "name": "Cheow Lin",
+        "email": "cheowlin_goh@viriya.org.sg",
+        "phone": [
+          "67951008"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Oct 2026"
+    },
+    {
+      "id": "161135",
+      "category": "Infant and Children Items",
+      "name": "Request for Diapers donation",
+      "description": "Family is seeking donation for diapers for their 3 year-old child (size: XXL). Family faces financial difficulties while caring for their 3 children, including a child with special needs.",
+      "specifications": null,
+      "contact": {
+        "org": "Viriya Community Services - Whispering Hearts Family Service Centre",
+        "name": "Cheow Lin",
+        "email": "cheowlin_goh@viriya.org.sg",
+        "phone": [
+          "67951008"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Oct 2026"
     },
     {
       "id": "161097",
@@ -2594,6 +2663,42 @@
       "date": "08 Sep 2026"
     },
     {
+      "id": "161139",
+      "category": "Electrical Home Appliances",
+      "name": "Vacuum Cleaner",
+      "description": "Family of 4 is low income with one breadwinner and 2 children, one of whom has William's syndrome. Family would benefit from having a vacuum cleaner to ease caregiver burden/care duties.",
+      "specifications": null,
+      "contact": {
+        "org": "Club Rainbow (Singapore)",
+        "name": "Nurulhuda Binte Abu Bakar",
+        "email": "nurul@clubrainbow.org",
+        "phone": [
+          "81336189",
+          "63771789"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Oct 2026"
+    },
+    {
+      "id": "161134",
+      "category": "Electrical Home Appliances",
+      "name": "Rice Cooker",
+      "description": "Family of 6 with mother expecting a child in October end needs a new rice cooker, father is the sole bread winner of the family and mother plans to resume work as after she gives birth, they are looking for a new rice cooker as the current one is spoilt. kindly whatsapp me should you have one to donate 6708 7032. Much appreciated",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Kreta Ayer",
+        "name": "Esther Tan",
+        "email": "tan_ziji@msf.gov.sg",
+        "phone": [
+          "67087032",
+          "1800-222-0000"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "05 Oct 2026"
+    },
+    {
       "id": "161133",
       "category": "Electrical Home Appliances",
       "name": "Smart TV",
@@ -3655,24 +3760,6 @@
       "date": "30 Sep 2026"
     },
     {
-      "id": "160984",
-      "category": "Others",
-      "name": "Handphone",
-      "description": "Youth client is estranged from his family, trying to work towards independence and obtaining work for himself. However, he needs a new handphone as he no longer has one, which would help him to apply and arrange work and interviews. Any good condition phone that can adequately access the internet and communication platforms would support him.",
-      "specifications": null,
-      "contact": {
-        "org": "Fei Yue Community Services - Youth GO!",
-        "name": "Jesse Chua",
-        "email": "youthgo@fycs.org",
-        "phone": [
-          "96286110",
-          "67622779"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "28 Sep 2026"
-    },
-    {
       "id": "160970",
       "category": "Others",
       "name": "water heater",
@@ -4435,17 +4522,6 @@
       "category": "Attires/Clothings"
     },
     {
-      "id": "161127",
-      "name": "Portable air con",
-      "description": "portable air con",
-      "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-      "validTill": "31 Oct 2026",
-      "ageInYears": 4,
-      "dimensions": "L40CM, W30CM, H60CM",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Electrical Home Appliances"
-    },
-    {
       "id": "161120",
       "name": "Hitachi Fridge",
       "description": "Hitachi Fridge in White",
@@ -4831,17 +4907,6 @@
       "category": "Home Furnishing"
     },
     {
-      "id": "161124",
-      "name": "small chest of drawers",
-      "description": "Beautiful oak chest of drawers With three deep drawers, there’s plenty of storage space for your little one’s clothing and bedding. The changer top is ideal for nappy changes, and can be easily removed or used as extra storage space when no longer needed.",
-      "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-      "validTill": "07 Oct 2026",
-      "ageInYears": 4,
-      "dimensions": "W83cm x D50cm x H91cm",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Infant and Children Items"
-    },
-    {
       "id": "161123",
       "name": "Aston Martin Baby Cot / Crib",
       "description": "This is a sturdy, well-made wooden baby cot bed from Silver Cross. Frame Material: solid oak with white rails and a light-grey wood stain finish.\nIt is a standard full-size cot bed, so it will last from birth up until they are ready for a toddler bed. Cot has been disassembled for transport. \n• Dimensions / Floor Space Needed: Approx. 148 cm long x 78 cm wide\n• Mattress Size Needed: Takes a standard 140 cm x 70 cm cot bed mattress",
@@ -5007,17 +5072,6 @@
       "category": "Mobility Aids"
     },
     {
-      "id": "161129",
-      "name": "Walking Stick (4-legged)",
-      "description": "Slightly used",
-      "location": null,
-      "validTill": "03 Nov 2026",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
       "id": "160989",
       "name": "Hospital Bed",
       "description": "Hospital bed frame and air mattress \n\nPreviously used by an elderly women whom just passed away",
@@ -5093,17 +5147,6 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
-    },
-    {
-      "id": "161113",
-      "name": "Laundry rack",
-      "description": "Laundry rack with wheels. Can fold down both sides of each rack level when not in use",
-      "location": "Pasir Ris, Simei, Tampines",
-      "validTill": "11 Oct 2026",
-      "ageInYears": 3,
-      "dimensions": "H: 1.8m",
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Others"
     },
     {
       "id": "160990",
