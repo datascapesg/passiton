@@ -1,23 +1,6 @@
 {
   "requests": [
     {
-      "id": "161776",
-      "category": "Infant and Children Items",
-      "name": "Dumex Dugro Stage 5 milk powder x 8 packs",
-      "description": "The client is a single mother caring for two children, aged 6 and 7. The family is currently experiencing financial hardship and is seeking support from kind donors for Dumex Dugro Stage 5 milk powder. The requested quantity is sufficient for her one month usage. Assistance with this essential nutritional item would help ease the family's financial burden, allowing available funds to be directed toward settling other living expenses.\nThank you!",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Norlizawati Binte Hamid",
-        "email": "norlizawati@thkmc.org.sg",
-        "phone": [
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "23 Oct 2026"
-    },
-    {
       "id": "161767",
       "category": "Infant and Children Items",
       "name": "Diapers - Huggies Pants",
@@ -4997,6 +4980,39 @@
       "dimensions": null,
       "deliveryCostsCoveredByDonor": true,
       "category": "Electrical Home Appliances"
+    },
+    {
+      "id": "161796",
+      "name": "Bed frame and mattress",
+      "description": "Single size bed frame and mattress. In good condition.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "24 Nov 2026",
+      "ageInYears": 2,
+      "dimensions": "90cm x 200cm x 100cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "161795",
+      "name": "Child's bed and mattress",
+      "description": "Child's bed and mattress from Ikea. In good condition.",
+      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
+      "validTill": "24 Nov 2026",
+      "ageInYears": 2,
+      "dimensions": "80cm x 200cm x 90cm",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "161794",
+      "name": "Warerobe",
+      "description": "2 door slide warerobe. \nI have other 3 Warerobe in working condition for donation as well: light blue and yellow 0.8mX0.56mX1.9mH, white and navy blue 1.22mX0.6mX1.86mH and white 1.5mX0.64mX2.38mH.",
+      "location": "Admiralty Drive, Sembawang, Yishun",
+      "validTill": "13 Nov 2026",
+      "ageInYears": 4,
+      "dimensions": "1.2m L x 0.65m D x 2m H",
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
     },
     {
       "id": "161793",
