@@ -33,17 +33,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "162246",
-    "name": "Washing Machine",
-    "description": "LG 8KG Washing Machine. Collect between 20 to 23 Dec",
-    "location": "Bouna Vista, Clementi, Dover, Hong Leong Garden, Pasir Panjang, West Coast",
-    "validTill": "11 Dec 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "162211",
     "name": "Deep freezer",
     "description": "Underused deep freezer. Bought locally and local brand. Been off after using a few months.",
@@ -108,6 +97,39 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Electrical Home Appliances"
+  },
+  {
+    "id": "162262",
+    "name": "Wooden Study Desk",
+    "description": "Wooden desk with a drawer below. Just right as a study table in a bedroom. Used lightly but with some wear and tear at the corner.",
+    "location": "Chancery , Dunearn Road, Moulmein, Newton, Novena, Thomson, Watten Estate",
+    "validTill": "15 Nov 2026",
+    "ageInYears": 4,
+    "dimensions": "80 x 60 x 74(H)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "162250",
+    "name": "Fabric sofa from IKEA",
+    "description": "Some wear and tear (i.e. torn fabric on one seat)",
+    "location": "Sengkang",
+    "validTill": "16 Nov 2026",
+    "ageInYears": 4,
+    "dimensions": "155 cm x 80 cm x 80 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
+    "id": "162249",
+    "name": "Genuine top grain brown leather sofa",
+    "description": "Genuine top grain leather sofa.",
+    "location": "Sengkang",
+    "validTill": "16 Nov 2026",
+    "ageInYears": 4,
+    "dimensions": "200 cm x 86 cm x 65 cm",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
   },
   {
     "id": "162245",
@@ -205,17 +227,6 @@
     "validTill": "14 Nov 2026",
     "ageInYears": 1,
     "dimensions": "62cm x 37cm x 80cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "162200",
-    "name": "Mattress",
-    "description": "good condition has a mattress protecter",
-    "location": null,
-    "validTill": "12 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": "90cm*180cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -462,17 +473,6 @@
     "category": "Infant and Children Items"
   },
   {
-    "id": "161454",
-    "name": "Baby milk bottles",
-    "description": "Clean baby bottles, used\nPhilips avent and Pigeon",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "12 Nov 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
     "id": "161753",
     "name": "A bag of kitchen items like can opener, ladle, stainer etc",
     "description": "All items are new and have not been used.",
@@ -682,7 +682,7 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "162160",
+    "id": "162261",
     "name": "Hospital bed, Air mattress for the bed, Push chair",
     "description": "Good working condition, clean, no wear or tear",
     "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
@@ -759,17 +759,6 @@
     "category": "Mobility Aids"
   },
   {
-    "id": "161739",
-    "name": "Homecare / hospital bed",
-    "description": "Removable rails not obvious in the photo ; \nhardly used; kept in storage",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "12 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": "212 x 100 cm ( see photo of details )",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
     "id": "161637",
     "name": "Hospital Bed",
     "description": "Electric hospital bed.",
@@ -777,39 +766,6 @@
     "validTill": "18 Nov 2026",
     "ageInYears": 4,
     "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "162191",
-    "name": "WHEEL CHAIR",
-    "description": "WHEEL CHAIR",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "12 Nov 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "162192",
-    "name": "WHEEL CHAIR",
-    "description": "WHEEL CHAIR",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "12 Nov 2026",
-    "ageInYears": 2,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Mobility Aids"
-  },
-  {
-    "id": "161456",
-    "name": "HOSPITAL BED (WITHOUT MATTRESS)",
-    "description": "HOSPITAL BED WITHOUT MATTRESS",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "12 Nov 2026",
-    "ageInYears": 2,
-    "dimensions": "82.6\" X 38\" X 17\"",
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
   },
