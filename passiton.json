@@ -1,6 +1,24 @@
 {
   "requests": [
     {
+      "id": "162303",
+      "category": "Electrical Home Appliances",
+      "name": "Water heater",
+      "description": "Family has 1 toddler and 1 school-going child shifting into rental flat unit. They do not have enough savings to buy basic required furnitures.",
+      "specifications": "Instant water heater",
+      "contact": {
+        "org": "MSF Social Service Office @ Boon Lay",
+        "name": "Lina Amirah",
+        "email": "Lina_AMIRAH@msf.gov.sg",
+        "phone": [
+          "65928744",
+          "68678580"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Nov 2026"
+    },
+    {
       "id": "162290",
       "category": "Electrical Home Appliances",
       "name": "Refrigerator",
@@ -13,24 +31,6 @@
         "phone": [
           "63809155",
           "63809169"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "12 Nov 2026"
-    },
-    {
-      "id": "162271",
-      "category": "Electrical Home Appliances",
-      "name": "Washing Machine",
-      "description": "Client is currently unemployed and trying to find another job. He is the main breadwinner of the household of 5, as his wife has a medical condition, while his children are still in tertiary education. The family's washing machine broke down recently and hence, would like to request for a blessing for a new washing machine.",
-      "specifications": "-",
-      "contact": {
-        "org": "Allkin Family Service Centre @ Cheng San 445",
-        "name": "Frank Lye Wei Bin",
-        "email": "franklye@allkin.org.sg",
-        "phone": [
-          "60384117",
-          "60384120"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -246,24 +246,6 @@
         "phone": [
           "96398415",
           "66640500"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "10 Nov 2026"
-    },
-    {
-      "id": "162189",
-      "category": "Electrical Home Appliances",
-      "name": "Television",
-      "description": "The client is a senior with multiple medical conditions and experiences intermittent blackout episodes, which have significantly affected his ability to maintain employment. As a result, he is currently reliant on Social Service Office (SSO) financial assistance for his daily living expenses.\n\nOver the past three years, the client has experienced multiple bereavements, including the loss of his only daughter. These cumulative losses have had a profound emotional impact on him, and he has been struggling with symptoms of depression since then.\n\nThe client is seeking assistance to replace essential household items. His current refrigerator is in a state of disrepair and is unable to close properly, affecting its functionality and food storage capabilities. He is therefore in need of a replacement refrigerator, preferably a new unit. In addition, his television set has been non-functional for the past three years, and he would greatly benefit from a replacement to support his well-being and reduce social isolation.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Singapore- Senior Service",
-        "name": "Kei Ng",
-        "email": "ngkhuankungkei@allkin.org.sg",
-        "phone": [
-          "60384367",
-          "64510898"
         ]
       },
       "deliveryCostsCoveredByDonor": true,
@@ -1400,6 +1382,60 @@
       "date": "12 Oct 2026"
     },
     {
+      "id": "162304",
+      "category": "Home Furnishing",
+      "name": "Mattress and bed guard rail",
+      "description": "The elderly client has multiple chronic health conditions and chronic pain, contributing to her chronic sleep issue. Having a good mattress can aid in a better quality of sleep and help with her sleep issue. A bed guard rail can also help to provide some support in lifting herself up to a sitting position.",
+      "specifications": null,
+      "contact": {
+        "org": "NTUC Health Co-operative Limited",
+        "name": "Zoe Lee",
+        "email": "zoe.l1@ntuchealth.sg",
+        "phone": [
+          "94552166",
+          "67156715"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Nov 2026"
+    },
+    {
+      "id": "162301",
+      "category": "Home Furnishing",
+      "name": "Small wardrobe",
+      "description": "Family has 1 toddler and 1 school-going child shifting into rental flat unit. They do not have enough savings to buy basic required furnitures.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Boon Lay",
+        "name": "Lina Amirah",
+        "email": "Lina_AMIRAH@msf.gov.sg",
+        "phone": [
+          "65928744",
+          "68678580"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Nov 2026"
+    },
+    {
+      "id": "162300",
+      "category": "Home Furnishing",
+      "name": "single size mattress (not too thick kind)",
+      "description": "client is currently sleeping on an air mattress, he needs to change another mattress (normal kind), not too thick, thank you",
+      "specifications": null,
+      "contact": {
+        "org": "Thye Hua Kwan Moral Charities",
+        "name": "Penelope Lim",
+        "email": "penelope.lim@thkmc.org.sg",
+        "phone": [
+          "68461228",
+          "63371201"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Nov 2026"
+    },
+    {
       "id": "162272",
       "category": "Home Furnishing",
       "name": "Single-sized mattress",
@@ -1576,23 +1612,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "11 Nov 2026"
-    },
-    {
-      "id": "162203",
-      "category": "Home Furnishing",
-      "name": "Single Mattress",
-      "description": "70-year-old client in urgent need of a single mattress as she recently fractured her back and her current mattress is too thin/worn out. \n\nShe is staying in a rental flat and currently unfit for work, primarily sustaining on financial assistance. As such, she is not able to afford to purchase a mattress on her own.",
-      "specifications": null,
-      "contact": {
-        "org": "Allkin Family Service Centre @ Punggol 616",
-        "name": "Felicia Tan",
-        "email": "feliciatan@allkin.org.sg",
-        "phone": [
-          "60384140"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": false,
-      "date": "10 Nov 2026"
     },
     {
       "id": "162171",
@@ -2022,24 +2041,6 @@
       "date": "27 Oct 2026"
     },
     {
-      "id": "161843",
-      "category": "Home Furnishing",
-      "name": "2 seater sofa",
-      "description": "Single mother with one son requires a 2 seater sofa as they currently do not own one.",
-      "specifications": "less than 1.4m in length",
-      "contact": {
-        "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
-        "name": "Grace Lim",
-        "email": "grace_lim@msf.gov.sg",
-        "phone": [
-          "68590811",
-          "62957205"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "27 Oct 2026"
-    },
-    {
       "id": "161841",
       "category": "Home Furnishing",
       "name": "2-door wardrobe",
@@ -2304,23 +2305,6 @@
       "date": "19 Oct 2026"
     },
     {
-      "id": "161600",
-      "category": "Home Furnishing",
-      "name": "Dining Set for 2",
-      "description": "Single mother with special needs teen has recently moved in to their 1rm rental flat and needs basic furnishing to complete their new living space. Your kind donation of a dining set for 2 will help create opportunities for the mother-son to eat together in dignity and make their lives easier and more organised.",
-      "specifications": "Dining Set for 2",
-      "contact": {
-        "org": "Hougang Sheng Hong Family Service Centre",
-        "name": "Isabel Kang",
-        "email": "isabel.kang@shenghong.org.sg",
-        "phone": [
-          "62895022"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "19 Oct 2026"
-    },
-    {
       "id": "157710",
       "category": "Home Furnishing",
       "name": "Bed and Desk Combo (2-in-1 frame)",
@@ -2406,23 +2390,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "14 Oct 2026"
-    },
-    {
-      "id": "161448",
-      "category": "Home Furnishing",
-      "name": "Wardrobe",
-      "description": "Client is a single mother of 3 kids and full-time caregiver for youngest daughter diagnosed with austism. The family is dependent on SSO ComCare assistance and is not able to financially afford a new cupboard. The family would appreciate a kind donation of a wardrobe (new or preloved) to better organise their items.",
-      "specifications": null,
-      "contact": {
-        "org": "THK Family Service Centre @ Tanjong Pagar",
-        "name": "Norlizawati Binte Hamid",
-        "email": "norlizawati@thkmc.org.sg",
-        "phone": [
-          "62706711"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "13 Oct 2026"
     },
     {
       "id": "162280",
@@ -3912,6 +3879,24 @@
       "date": "12 Oct 2026"
     },
     {
+      "id": "162297",
+      "category": "Others",
+      "name": "Breast Feeding Pump (New)",
+      "description": "Client is a single expectant mother preparing for the arrival of her newborn. Due to health issues and pregnancy-related complications, she is currently unable to seek employment, resulting in financial constraints. She would benefit from breast feeding pump",
+      "specifications": "-",
+      "contact": {
+        "org": "Allkin Family Service Centre @ Cheng San 445",
+        "name": "Frank Lye Wei Bin",
+        "email": "franklye@allkin.org.sg",
+        "phone": [
+          "60384117",
+          "60384120"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Nov 2026"
+    },
+    {
       "id": "162291",
       "category": "Others",
       "name": "TENA DIAPERS (Adult)",
@@ -4108,24 +4093,6 @@
       },
       "deliveryCostsCoveredByDonor": true,
       "date": "12 Nov 2026"
-    },
-    {
-      "id": "162260",
-      "category": "Others",
-      "name": "UHT Fresh Milk (Dutch Lady preferred)",
-      "description": "A family of four with two very young children is currently facing financial difficulties and urgently requires support with their children's milk needs. Seeking a kind donor who may be able to provide Dutch Lady UHT Milk, either in 200ml or 1-litre packs. Any contribution that can help sustain the children's milk supply for the next 2 weeks to 1 month would be greatly appreciated to provide timely relief to the family.",
-      "specifications": null,
-      "contact": {
-        "org": "MSF Social Service Office @ Jalan Besar and Toa Payoh",
-        "name": "Zulhakim MUSTAR",
-        "email": "Zulhakim_MUSTAR@msf.gov.sg",
-        "phone": [
-          "62300902",
-          "62957205"
-        ]
-      },
-      "deliveryCostsCoveredByDonor": true,
-      "date": "11 Nov 2026"
     },
     {
       "id": "162243",
@@ -4908,6 +4875,24 @@
       "date": "15 Oct 2026"
     },
     {
+      "id": "162302",
+      "category": "Kitchen Utility Items",
+      "name": "Double Burner Gas Stove",
+      "description": "Family has 1 toddler and 1 school-going child shifting into rental flat unit. They do not have enough savings to buy basic required furnitures.",
+      "specifications": null,
+      "contact": {
+        "org": "MSF Social Service Office @ Boon Lay",
+        "name": "Lina Amirah",
+        "email": "Lina_AMIRAH@msf.gov.sg",
+        "phone": [
+          "65928744",
+          "68678580"
+        ]
+      },
+      "deliveryCostsCoveredByDonor": true,
+      "date": "12 Nov 2026"
+    },
+    {
       "id": "161947",
       "category": "Kitchen Utility Items",
       "name": "Pan compatible with induction cooker",
@@ -5264,6 +5249,28 @@
       "category": "Electrical Home Appliances"
     },
     {
+      "id": "162294",
+      "name": "Study table (with attached cabinet) and office chair (Available in Jan 2027)",
+      "description": "Study table with office chair, heavily used but good condition. Available in January 2027.\n(Note: Items and monitor visible on table top in the photo are not included)",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "12 Dec 2026",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
+      "id": "162293",
+      "name": "Single brown chair with beige cushion",
+      "description": "Good quality, minimally used single chair with cushion",
+      "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
+      "validTill": "12 Dec 2026",
+      "ageInYears": 3,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "162262",
       "name": "Wooden Study Desk",
       "description": "Wooden desk with a drawer below. Just right as a study table in a bedroom. Used lightly but with some wear and tear at the corner.",
@@ -5341,6 +5348,17 @@
       "category": "Home Furnishing"
     },
     {
+      "id": "162292",
+      "name": "metal single bed frame",
+      "description": "metal single bed frame without mattress",
+      "location": null,
+      "validTill": "15 Nov 2026",
+      "ageInYears": 4,
+      "dimensions": null,
+      "deliveryCostsCoveredByDonor": true,
+      "category": "Home Furnishing"
+    },
+    {
       "id": "162150",
       "name": "Study table and chair for children",
       "description": "Well Maintained study table for children. Adjustable lever is lost. But the height of the table is adjustable if can get the lever online.",
@@ -5400,17 +5418,6 @@
       "name": "dining chair",
       "description": "2 type of dining chair",
       "location": "Ang Mo Kio, Bishan, Braddell, Thomson",
-      "validTill": "15 Nov 2026",
-      "ageInYears": 1,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Home Furnishing"
-    },
-    {
-      "id": "162027",
-      "name": "Open shelves",
-      "description": "Hi \n\n\nI have some shelves which may suit the beneficiary. \n\n\nI have 2 different kinds. 3 layers or 4 layers. Please see attached. \n\n\nLength is 88cm,  126 cm (3 layers) and 168cm (4 layers), depth is 30 cm.\n\n\nShelves are all in excellent condition and they are on wheels. \n\n\nI am able to pay for Helping Hand to deliver if needed.\n\n\nDo let me know ASAP as I am leaving for a tour this Friday \n\n\nThank you",
-      "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
       "validTill": "15 Nov 2026",
       "ageInYears": 1,
       "dimensions": null,
@@ -5825,17 +5832,6 @@
       "category": "Medical Aids"
     },
     {
-      "id": "161613",
-      "name": "Shower chair",
-      "description": "- Water proof wheel chair use for taking shower at home\n- Comes with a handheld bucket",
-      "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-      "validTill": "18 Nov 2026",
-      "ageInYears": 3,
-      "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Medical Aids"
-    },
-    {
       "id": "162196",
       "name": "Wheelchair",
       "description": "Hello, I have a lightweight wheelchair in good working condition that I would like to donate free of charge.\n\nThe wheelchair is located in Yishun, Singapore.\n\nI hope to donate it to a needy family, elderly patient or home-care patient who would benefit from it.",
@@ -5887,17 +5883,6 @@
       "validTill": "16 Nov 2026",
       "ageInYears": 2,
       "dimensions": null,
-      "deliveryCostsCoveredByDonor": true,
-      "category": "Mobility Aids"
-    },
-    {
-      "id": "162049",
-      "name": "Vermeiren Normandie Relax Chair with Wheels",
-      "description": "For patient below 130kg. 45 degree reclinable back. Comes with safety belt and equipped with a wooden tray.",
-      "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-      "validTill": "03 Dec 2026",
-      "ageInYears": 1,
-      "dimensions": "68cm x 69cm x 120cm",
       "deliveryCostsCoveredByDonor": true,
       "category": "Mobility Aids"
     },
