@@ -33,17 +33,6 @@
     "category": "Attires/Clothings"
   },
   {
-    "id": "162211",
-    "name": "Deep freezer",
-    "description": "Underused deep freezer. Bought locally and local brand. Been off after using a few months.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "10 Dec 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Electrical Home Appliances"
-  },
-  {
     "id": "162175",
     "name": "Hair dryer",
     "description": "Used hair dryer . Phillips brand",
@@ -339,6 +328,28 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
+  },
+  {
+    "id": "162273",
+    "name": "IKEA children study/desk chair (blue)",
+    "description": "preloved. clean. covers can remove abd wash. wheels are smooth. suitable for primary school children",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "12 Dec 2026",
+    "ageInYears": 4,
+    "dimensions": "H86cm x W62cm (base)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
+  },
+  {
+    "id": "162269",
+    "name": "children study/desk chair (pink)",
+    "description": "preloved. clean. covers can remove abd wash. wheels are smooth. suitable for primary school children",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "12 Dec 2026",
+    "ageInYears": 4,
+    "dimensions": "H86cm x W62cm (base)",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Infant and Children Items"
   },
   {
     "id": "162156",
@@ -644,17 +655,6 @@
     "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
     "validTill": "18 Nov 2026",
     "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Medical Aids"
-  },
-  {
-    "id": "161611",
-    "name": "Hospital Bed",
-    "description": "- Two wheels cannot be unlocked, however no issues using the bed at home for adjusting the bed position for several inches.\n\n- Comes with a calling bell (Set up by previous patient's family manually)",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "18 Nov 2026",
-    "ageInYears": 2,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
