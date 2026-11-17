@@ -88,6 +88,17 @@
     "category": "Electrical Home Appliances"
   },
   {
+    "id": "162403",
+    "name": "Study Chair",
+    "description": "Well used study chair",
+    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
+    "validTill": "07 Dec 2026",
+    "ageInYears": 4,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Home Furnishing"
+  },
+  {
     "id": "162377",
     "name": "Standing Lamp",
     "description": "A standing lamp.  Will send in Punggol/Sengkang/Hougang area only",
@@ -304,28 +315,6 @@
     "validTill": "11 Dec 2026",
     "ageInYears": 3,
     "dimensions": "450 mm X 450 mm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "162366",
-    "name": "Foldable cot",
-    "description": "The bed is sparingly used and is very much like new.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "30 Nov 2026",
-    "ageInYears": 2,
-    "dimensions": "96X18X90",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "162371",
-    "name": "Foldable cot",
-    "description": "The bed is sparingly used and is very much like new.",
-    "location": "Bukit Batok , Bukit Panjang, Choa Chu Kang, Dairy Farm, Hillview",
-    "validTill": "30 Nov 2026",
-    "ageInYears": 2,
-    "dimensions": "96X18X90",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -790,6 +779,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Medical Aids"
+  },
+  {
+    "id": "162401",
+    "name": "Hospital bed",
+    "description": "As you can see this hospital bed is 95 percent brand New . Remote all working well.  Plastic for mattress is also intact.  My mom in law passed on in the hospital.  This bed is like brand New !\nTo give free to the Needy.",
+    "location": "Admiralty Drive, Sembawang, Yishun",
+    "validTill": "30 Nov 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Mobility Aids"
   },
   {
     "id": "162396",
