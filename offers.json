@@ -77,6 +77,17 @@
     "category": "Attires/Clothings"
   },
   {
+    "id": "162560",
+    "name": "Electrolux Washing Machine",
+    "description": "Electrolux Washing Machine to bless low income family",
+    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
+    "validTill": "20 Dec 2026",
+    "ageInYears": 2,
+    "dimensions": null,
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Electrical Home Appliances"
+  },
+  {
     "id": "162175",
     "name": "Hair dryer",
     "description": "Used hair dryer . Phillips brand",
@@ -99,39 +110,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "162525",
-    "name": "Super Single Mattress",
-    "description": "Simmons Beautyrest Super Single mattress is a premium pocketed-coil mattress for solo sleepers who want extra width alongside targeted spinal support and minimal motion transfer. It measures 107 cm wide by 190 cm long, with thickness of 25cm.",
-    "location": "Bukit Timah",
-    "validTill": "22 Dec 2026",
-    "ageInYears": 2,
-    "dimensions": "190 x 107 x 25 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "162519",
-    "name": "Foldable bed",
-    "description": "This is a foldable bed in a good condition",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "22 Dec 2026",
-    "ageInYears": 4,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "162518",
-    "name": "Single size mattress",
-    "description": "The outer cover is removable and has been washed. Includes washed fitted sheet and mattress protector.",
-    "location": "Bayshore, Bedok, Chai Chee, Eastwood, Kew Drive, Upper East Coast",
-    "validTill": "01 Dec 2026",
-    "ageInYears": 2,
-    "dimensions": "90*200cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "162515",
     "name": "Standing table 1.5*0.75",
     "description": "Standing desk",
@@ -139,17 +117,6 @@
     "validTill": "20 Dec 2026",
     "ageInYears": 4,
     "dimensions": "150 * 75 * 70",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "162514",
-    "name": "SINGLE DAY BED - EXTENDABLE INTO DOUBLE WITH STORAGE",
-    "description": "IKEA HEMNES DAY BED WITH 3 STORAGE DRAWS, \nEXTEDNABLE INTO DOUBLE BED \nGREY COLOUR\nWITH SINGLE MATRESS\nNEARLY NEW",
-    "location": "Ardmore, Balmoral, Bukit Timah, Grange Road, Holland Road, Orchard Boulevard, Tanglin",
-    "validTill": "24 Nov 2026",
-    "ageInYears": 1,
-    "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -183,17 +150,6 @@
     "validTill": "27 Nov 2026",
     "ageInYears": 3,
     "dimensions": "140x77x75",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "162510",
-    "name": "3 Seater Sofa with Ottoman",
-    "description": "https://www.castlery.com/sg/products/mori-performance-fabric-3-seater-sofa-with-ottoman",
-    "location": "Anson, Chinatown, Shenton Way, Tanjong Pagar",
-    "validTill": "26 Nov 2026",
-    "ageInYears": 3,
-    "dimensions": "W205 x D116 x H81.5cm",
     "deliveryCostsCoveredByDonor": true,
     "category": "Home Furnishing"
   },
@@ -275,17 +231,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "162420",
-    "name": "Display Shelve",
-    "description": "Display Shelve",
-    "location": "Eunos, Geylang, Kembangan, Paya Lebar , Sims",
-    "validTill": "08 Dec 2026",
-    "ageInYears": 4,
-    "dimensions": "800x300x2020",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "162419",
     "name": "Sofa Single Seat",
     "description": "Single recliner sofa",
@@ -330,28 +275,6 @@
     "category": "Home Furnishing"
   },
   {
-    "id": "162338",
-    "name": "Single person sofa bed, light grey",
-    "description": "light grey single person sofa - can be open up to be a mattress for one person.\nself collection preferred.\ncan discuss mode of delivery if staying nearby.",
-    "location": "Harbourfront, Keppel, Sentosa, Telok Blangah",
-    "validTill": "14 Dec 2026",
-    "ageInYears": 1,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "162330",
-    "name": "Wooden Sofa with Cushion",
-    "description": "Wooden sofa with cushion and cushion cover available. Two wooden rungs on the left have come off but still usable.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "30 Nov 2026",
-    "ageInYears": 4,
-    "dimensions": "200 cm x 64 cm x 66 cm",
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
     "id": "162329",
     "name": "Study desk",
     "description": "Glass top.",
@@ -368,17 +291,6 @@
     "description": "Good quality, minimally used single chair with cushion",
     "location": "Alexandra, Queenstown, Redhill, Tiong Bahru",
     "validTill": "12 Dec 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Home Furnishing"
-  },
-  {
-    "id": "162289",
-    "name": "Bistro dining table w 2 chairs",
-    "description": "2 chairs bistro dining set. perfect for a small space.",
-    "location": "Hougang, Ponggol, Sengkang, Serangoon Garden",
-    "validTill": "03 Dec 2026",
     "ageInYears": 3,
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
@@ -454,17 +366,6 @@
     "id": "162522",
     "name": "Oribel Cocoon Z Baby High Chair",
     "description": "Oribel Cocoon Z high chair. Suitable for newborns, comes with table.",
-    "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
-    "validTill": "22 Dec 2026",
-    "ageInYears": 3,
-    "dimensions": null,
-    "deliveryCostsCoveredByDonor": true,
-    "category": "Infant and Children Items"
-  },
-  {
-    "id": "162521",
-    "name": "Doona stroller",
-    "description": "Doona stroller in green. Heavily used but still functional.",
     "location": "Amber Road, East Coast, Joo Chiat, Katong, Marine Parade, Meyer, Tanjong Rhu",
     "validTill": "22 Dec 2026",
     "ageInYears": 3,
@@ -966,6 +867,17 @@
     "dimensions": null,
     "deliveryCostsCoveredByDonor": true,
     "category": "Mobility Aids"
+  },
+  {
+    "id": "162553",
+    "name": "20 ring files",
+    "description": "20 ring files in 2 cartons. good condition",
+    "location": "Boat Quay, Cecil, Havelock Road, Marina, People\\",
+    "validTill": "27 Nov 2026",
+    "ageInYears": 1,
+    "dimensions": "1m x 1m x 1m",
+    "deliveryCostsCoveredByDonor": true,
+    "category": "Others"
   },
   {
     "id": "161995",
